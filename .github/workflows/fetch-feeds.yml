@@ -2,8 +2,8 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # toutes les 6h
-  workflow_dispatch:          # déclenchement manuel possible
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -26,7 +26,7 @@ jobs:
       - name: Fetch RSS feeds
         run: python scripts/fetch_feeds.py
 
-      - name: Commit & push if changed
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
