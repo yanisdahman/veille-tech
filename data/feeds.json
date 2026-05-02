@@ -1,34 +1,504 @@
 {
-  "last_updated": "2026-05-02T08:00:00Z",
-  "count": 3,
+  "last_updated": "2026-05-02T13:06:31.871868+00:00",
+  "count": 50,
   "articles": [
     {
-      "id": "sample-1",
-      "title": "Exemple — Ce fichier sera remplacé automatiquement par GitHub Actions",
-      "link": "#",
-      "summary": "Lancez le workflow GitHub Actions (fetch-feeds.yml) pour remplir ce fichier avec les vrais articles RSS. Il se met à jour toutes les 6 heures automatiquement.",
-      "published": "2026-05-02T08:00:00Z",
-      "source": "Info",
-      "category": "actu",
-      "image": ""
-    },
-    {
-      "id": "sample-2",
-      "title": "Configurez vos sources RSS dans scripts/fetch_feeds.py",
-      "link": "#",
-      "summary": "Modifiez la liste FEEDS dans fetch_feeds.py pour ajouter ou retirer des sources. Chaque source a une URL, un nom et une catégorie (cybersecurite, reseau, actu, outils).",
-      "published": "2026-05-02T07:00:00Z",
-      "source": "Info",
+      "id": "1fe3dfb895e68d1a054c2d157780bf6a",
+      "title": "Bruteforce de cartes bancaires",
+      "link": "https://korben.info/carte-bancaire-brute-force.html",
+      "summary": "Quand j'achète un truc avec ma CB, c'est vrai que j'évite maintenant de demander le ticket de carte bancaire. Ça ne me sert à rien, et puis j'en fais quoi après ? Je le jette à la poubelle ? Heureusement qu'il n'y a p...",
+      "published": "2026-05-02T08:35:52+00:00",
+      "source": "Korben",
       "category": "outils",
+      "image": "https://korben.info/carte-bancaire-brute-force/carte-bancaire-brute-force-1.png"
+    },
+    {
+      "id": "22db7db07a903360d33048ae8a8d73a6",
+      "title": "ip66.dev - Une base de géoloc IP libre et compatible MaxMind",
+      "link": "https://korben.info/ip66-geolocalisation-ip-libre.html",
+      "summary": "Hello les amis, voici ma petite trouvaille du jour, idéale pour ceux qui jouent en ce moment avec des adresses IP : ip66.dev . C'est une base de géolocalisation IP et entièrement libre, livrée au format MMDB (le même ...",
+      "published": "2026-05-02T07:47:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ip66-geolocalisation-ip-libre/ip66-geolocalisation-ip-libre-1.png"
+    },
+    {
+      "id": "4572ab73d80ceb38efd88f9c8d92f671",
+      "title": "DirPlayer - L'émulateur qui ressuscite Shockwave",
+      "link": "https://korben.info/dirplayer-emulateur-shockwave-rust.html",
+      "summary": "Flash à sa grande époque c'était quand même tout un truc, mais est-ce que vous vous souvenez de Shockwave ? Le grand frère de Flash (techniquement c'était une autre techno bâtie sur Director mais bref...), qui était c...",
+      "published": "2026-05-02T07:38:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dirplayer-emulateur-shockwave-rust/dirplayer-emulateur-shockwave-rust-1.png"
+    },
+    {
+      "id": "5093bc6354427b143ed1d4647efa4797",
+      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository a...",
+      "published": "2026-05-02T06:41:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ47NY9D4DSEZHqBNSGTjpmSJqwYVOzlIKGoG-0LTxSdIIDrMtyV2tOqRYcc-4kpxkE1UZ6nJhK4eXCGEsEmG6UcQeHn_YjAhRWXIAxo5yC75eUmLv3w5rur6SN6Qoee65gve-LgM0_3YGnAzQwTrQMTeTShRe_leh8_ImIlzU-Sgfy2kRqTcx5V-yG-3M/s1600/breach.jpg"
+    },
+    {
+      "id": "bd3e4eaac1a84f286fd67235e196e75b",
+      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+      "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
+      "published": "2026-05-02T00:18:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "sample-3",
-      "title": "Sources incluses : CERT-FR, The Hacker News, Bleeping Computer, Korben, IT-Connect, LeMagIT",
-      "link": "#",
-      "summary": "6 sources pré-configurées couvrant la cybersécurité, le réseau, l'infrastructure et les outils IT. Toutes pertinentes pour un profil BTS SIO SISR.",
-      "published": "2026-05-02T06:00:00Z",
-      "source": "Info",
+      "id": "13a1459ed51f1d5ad0245fb0c21b164f",
+      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+      "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+      "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
+      "published": "2026-05-01T23:43:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f0aacdfe9d8b9a6ebebb9a9a139f34a6",
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed...",
+      "published": "2026-05-01T18:09:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUS_xmTpvaJtwhFTnxsBtKSx2hWroMJKWUCKeB_CNx_9-5T85bdpqGfTZ0__XITi-i6ZnndaiiiFggf3Cgf-35KK-G6sEwvnlqom2DK6U-oH_o9GhEGNyd9kiSti-QC_dpl3v7b7IniC9kAUzV265yVbVsWAnLnH1RfQxrftUHj5MFAm03MOBw3Z6UEVb/s1600/phish.jpg"
+    },
+    {
+      "id": "fcc9588526e41ccd575d9948641a920e",
+      "title": "15-year-old detained over French govt agency data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+      "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
+      "published": "2026-05-01T17:52:06+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8fa069046da4cd4e66f0511160df149d",
+      "title": "Story retracted",
+      "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+      "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior inc...",
+      "published": "2026-05-01T16:26:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "35277596ec5d8fe25b5a0ac01c5999cb",
+      "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
+      "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
+      "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their action...",
+      "published": "2026-05-01T14:26:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FSyjacFNJX32YMLQvN6jUeVwGJfoAHPLMIhtU6aNS6hrkIUokynaWWzqxOjr1JsP0lIooaL0ppYM-iQ_rEH2ruoqMw1UAb_bq4FNjI16P6P7CpTaYSkJtp-TpCFKOce9ODtmzskcTZnuWFLYyUdfA0UeHqmRVVNB1P6Mw28a5Yuc7T1kgEx4Pcyxbcsr/s1600/vishing.jpg"
+    },
+    {
+      "id": "7d6f9073e2b05dff15a8208cddf5a263",
+      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
+      "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
+      "published": "2026-05-01T14:02:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3056638859728698e2552b02c3c2cc0c",
+      "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+      "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging ...",
+      "published": "2026-05-01T14:02:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD3mr1fHyy1yT3u6ebxE9skoiCRtBYdZnkvdputmKF0XgZW5BKeQKkvnYswwusYFG4tvzVeWOqP3wgGtqLA7Ds9I-PYlasFVkOmaClo8IIpRGtdvuFZuKzDgvktukM1YXbTDbBAZUfk1mtWx8lHFF8N_YZXRl0ncSWtGGkzXDkm5gWMovjixeiyh6w_64W/s1600/chinese-hackers.jpg"
+    },
+    {
+      "id": "971923fc117fd51b9b737af4188704b2",
+      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+      "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+      "published": "2026-05-01T12:46:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c8eb61f254f65a0cf6a7ac18dc6bdc6d",
+      "title": "Japan Airlines teste des robots humanoïdes pour charger les bagages",
+      "link": "https://korben.info/japan-airlines-teste-des-robots-humanoides-pour-charger-les-bagages.html",
+      "summary": "Japan Airlines va confier la manutention des bagages à des robots humanoïdes sur les pistes de l'aéroport Haneda. Le test démarre en mai 2026, dure deux ans, et implique pour commencer deux machines posées au milieu d...",
+      "published": "2026-05-01T11:33:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/japan-airlines-teste-des-robots-humanoides-pour-charger-les-bagages/japan-airlines-teste-des-robots-humanoides-pour-charger-les-bagages-1.jpg"
+    },
+    {
+      "id": "8f4e1b68aaa02d82f3d904fe1aed6a4f",
+      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
+      "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
+      "published": "2026-05-01T11:10:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cc7b0ee1688247bf8801693801259ac7",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave rev...",
+      "published": "2026-05-01T10:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4T6K9zSg5-BFr6xjfFnVhxj3Jx5R5CCUbEmTDssJXlPDiPYcCwFRAfSP_09Kcds90YN7CUwv2Y5ZhglKxLgEbyDRaudcoZXL1PfftGo5BloLB9LInZGWvVaKEdYEoHBJjyP3wwxkfEWWg4pcPTtBUnr6zCJRvre9YzZs4OagcnBVFiAbjbEGc7WY-98/s1600/cynomi.png"
+    },
+    {
+      "id": "cfedcd6943cd50ed5e173d9a9e484dec",
+      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
+      "summary": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance im...",
+      "published": "2026-05-01T10:00:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7311541bab2e5fa25bba5dd27f161bc3",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldbe...",
+      "published": "2026-05-01T09:56:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhvaGpPe8ES3q62CqgJTkgm4Raiy6ugjF7dOgRUC4Sd6SsspaPB7tzYYK8lmeUi__TGffqjUeumdmUnA34ZmWJKLDG-TGoZXbyaFAaGR_49JYN9GxVGFQ13allcDdinlnrqtOUeRW6M3wdgvPyRYT_TzmYLpjYPGjYi43laVhtbrPjXs3P7dmN_DQ1Lnd/s1600/ransomware-install.jpg"
+    },
+    {
+      "id": "2c0a1b2ea28c0bdc5de41219c97d29f6",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. T...",
+      "published": "2026-05-01T09:43:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg"
+    },
+    {
+      "id": "fc7159f70cc2074394ae89374cd0a05c",
+      "title": "Hadopi : le Conseil d'État éteint la riposte graduée après 17 ans",
+      "link": "https://korben.info/hadopi-le-conseil-detat-eteint-la-riposte-graduee-apres-17-ans.html",
+      "summary": "Fin de partie pour la riposte graduée. Le Conseil d'État a déclaré illégale, le 30 avril 2026, la phase la plus dure du dispositif anti-piratage Arcom, héritier de la Hadopi. La décision s'applique immédiatement et dé...",
+      "published": "2026-05-01T08:01:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/hadopi-le-conseil-detat-eteint-la-riposte-graduee-apres-17-ans/hadopi-le-conseil-detat-eteint-la-riposte-graduee-apres-17-ans-1.jpg"
+    },
+    {
+      "id": "f26dfaa0c6e761b0362af6667fe7c06e",
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "published": "2026-05-01T07:47:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b1ae3e623f45b3c8638685fb845dc62c",
+      "title": "Tunarr - Recréer la télévision qu'on aime zapper dans Plex",
+      "link": "https://korben.info/tunarr-chaines-tv-plex-jellyfin.html",
+      "summary": "Vous vous souvenez de l'époque où on s'écroulait comme des merdes dans notre canapé après une grosse journée de boulot et où on regardait juste ce que la télé nous balançait ? Pas de choix à faire sur Netflix, ni de r...",
+      "published": "2026-05-01T07:08:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tunarr-chaines-tv-plex-jellyfin/tunarr-chaines-tv-plex-jellyfin-1.png"
+    },
+    {
+      "id": "429acd98122a1eedea7a572fceea0d67",
+      "title": "Forensic Windows – Partie 2 : comment trouver des traces avec Amcache ?",
+      "link": "https://www.it-connect.fr/forensic-windows-partie-2-comment-trouver-des-traces-avec-amcache/",
+      "summary": "Ce tutoriel sur l'investigation numérique sous Windows explique comment retrouver des traces en analysant le fichier Amcache.hve, notamment avec AmcacheParser. Le post Forensic Windows – Partie 2 : comment trouver des...",
+      "published": "2026-05-01T07:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "180c4242d36271e348967e534afe1547",
+      "title": "KULA - Le monitoring serveur Linux qui tient dans un seul binaire",
+      "link": "https://korben.info/kula-monitoring-linux-self-hosted.html",
+      "summary": "Ouais, je sais, on est le 1er mai, et je suis pas censé bosser mais que voulez-vous on ne se refait pas ^^. Et si j'ai ouvert l'ordi ce matin, c'est pour vous parler de KULA ! KULA est un binaire tout simple qui perme...",
+      "published": "2026-05-01T06:53:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/kula-monitoring-linux-self-hosted/kula-monitoring-linux-self-hosted-1.png"
+    },
+    {
+      "id": "4b1d96b3ede8b7ea1d4aaf0ec893a139",
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
+      "published": "2026-04-30T18:58:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cd2643a4ad5b1006b737d73c341afdbb",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX S...",
+      "published": "2026-04-30T16:31:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png"
+    },
+    {
+      "id": "d888e547c7f5f286e98d86d4c9fd4b9a",
+      "title": "Le code source original du premier 86-DOS enfin publié",
+      "link": "https://korben.info/le-code-source-original-du-premier-86-dos-enfin-publie.html",
+      "summary": "45 ans après sa sortie, le code source du tout premier 86-DOS vient d'atterrir sur GitHub . Microsoft a profité de cet anniversaire pour publier les listings d'assembleur originaux, accompagnés de plusieurs versions d...",
+      "published": "2026-04-30T16:19:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/le-code-source-original-du-premier-86-dos-enfin-publie/le-code-source-original-du-premier-86-dos-enfin-publie-1.jpg"
+    },
+    {
+      "id": "0860e1947636ef5a7361e29aacbd6999",
+      "title": "En 9 secondes, cet agent IA a détruit la base de prod de PocketOS",
+      "link": "https://www.it-connect.fr/en-9-secondes-cet-agent-ia-a-detruit-la-base-de-prod-de-pocketos/",
+      "summary": "Un agent IA a vrillé et en 9 secondes, il a supprimé la base de données de production utilisée par PocketOS. Est-il le seul coupable ? Pas vraiment. Le post En 9 secondes, cet agent IA a détruit la base de prod de Poc...",
+      "published": "2026-04-30T16:18:01+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bc25bc58c996fb3bb7b6cd6c967c2f39",
+      "title": "WinBoat : un outil pour lancer les applications Windows sur Linux",
+      "link": "https://www.it-connect.fr/tuto-winboat-un-outil-pour-lancer-les-applications-windows-sur-linux/",
+      "summary": "Ce tutoriel explique comment installer et utiliser WinBoat pour exécuter des applications Windows sur Linux, notamment Microsoft Office (Word, Excel, etc.). Le post WinBoat : un outil pour lancer les applications Wind...",
+      "published": "2026-04-30T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b3248d6727661a9127c5a368eeefca54",
+      "title": "Une appli Android scanne tous les Raspberry Pi de votre réseau",
+      "link": "https://korben.info/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau.html",
+      "summary": "Si vous avez plusieurs Raspberry Pi qui traînent chez vous, vous connaissez la galère du DHCP. Le routeur leur balance des IP différentes au gré des redémarrages, et impossible de savoir laquelle correspond à votre Pi...",
+      "published": "2026-04-30T15:29:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau-1.jpg"
+    },
+    {
+      "id": "bd8679ef41765360c87309e5dc7cfb1d",
+      "title": "Comment activer l'adblock natif de Firefox 149 ?",
+      "link": "https://korben.info/adblock-rust-manager.html",
+      "summary": "Vincent en avait parlé il y a peu : Firefox 149 embarque maintenant discrètement adblock-rust , le moteur Adblock de Brave, désactivé par défaut et contrôlé uniquement par deux prefs dans about:config. A l'origine, je...",
+      "published": "2026-04-30T13:55:13+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/adblock-rust-manager/adblock-rust-manager-1.png"
+    },
+    {
+      "id": "ed3a974471f02f1945ab6c21eeb6024a",
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files ...",
+      "published": "2026-04-30T13:55:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwfqxUhPz38fAoq0CZr2tW8KqGW-Cr0zJloN9kS_80QO2e7yyah4N-nMKNxoSllB2tpyjKO25s2f8eFJNd2bBo50XRAVatMKnnk8ZAbRbz6kfQUhVUoD5vutOmFpYzojybY8aJZhA6KGL3sawNEyaqjlW63hAeEwrTsj8lnpou-4mThnzwCzO442aue-R0/s1600/threats.jpg"
+    },
+    {
+      "id": "b22f9dd3cb00cc24cdaf72c93f0d700b",
+      "title": "Copy Fail : cette redoutable faille Linux permet d’obtenir un accès root",
+      "link": "https://www.it-connect.fr/copy-fail-cve-2026-31431-linux-access-root-vulnerabilite/",
+      "summary": "Copy Fail (CVE-2026-31431), c'est le nom de la faille critique découverte dans le noyau Linux. Elle offre un accès root sur les distributions Linux depuis 2017. Le post Copy Fail : cette redoutable faille Linux permet...",
+      "published": "2026-04-30T13:20:26+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6fc014d0c93f3615e6a95db9a827d6f7",
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive informa...",
+      "published": "2026-04-30T12:36:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnv1KtLLlZSnm9a16bN-o_szrBiAIN_QljTfe09K4RzFxSqhFADtuXmRzOPZ_Poazif-VadFAnRnboCWX5yZtc5JntGopn5Fy6T1X2BexXelFOxYtEA7qULoTCkAMwEybLf42JJ_yGjSPf_T-tjYvbqxscVgZ6OyL65yKcTjC0KQL48pgYLZUmLjxfBBhd/s1600/malware-data.jpg"
+    },
+    {
+      "id": "053856ee9c56cb0bd8fbce9e3dc2851f",
+      "title": "GLPI 11.0.7 & GLPI 10.0.25 : une dizaine de vulnérabilités patchées !",
+      "link": "https://www.it-connect.fr/glpi-11-0-7-glpi-10-0-25-une-dizaine-de-vulnerabilites-patchees/",
+      "summary": "GLPI vient de publier deux mises à jour de sécurité : 11.0.7 et 10.0.25. Au total, une dizaine de vulnérabilités ont été corrigées : voici l'essentiel à savoir. Le post GLPI 11.0.7 & GLPI 10.0.25 : une dizaine de vuln...",
+      "published": "2026-04-30T07:24:27+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "02a030246d5e6b7e18fa5feafbc9d485",
+      "title": "Proxmox Backup Server 4.2 est disponible : voici les nouveautés principales",
+      "link": "https://www.it-connect.fr/proxmox-backup-server-4-2-est-disponible-voici-les-nouveautes-principales/",
+      "summary": "Proxmox Backup Server passe en version 4.2. Quelles sont les nouveautés ajoutées à cette solution open source de sauvegarde ? Voici l'essentiel à savoir. Le post Proxmox Backup Server 4.2 est disponible : voici les no...",
+      "published": "2026-04-30T05:00:43+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "183c79bff0e298df191fe0f9160208d7",
+      "title": "French Days 2026 avec GoDeal24 : Office 2021, Windows 11 Pro, Windows Server 2025, etc.",
+      "link": "https://www.it-connect.fr/bon-plan-licences-godeal24-windows-office-logiciels/",
+      "summary": "GoDeal24 a lancé une vente flash spéciale French Days 2026 : des promos sur les tarifs des licences Windows 11, Office 2021, Office 2024 et Windows Server 2025. Le post French Days 2026 avec GoDeal24 : Office 2021, Wi...",
+      "published": "2026-04-30T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "64fae5a11aad9b85bdaddb6aef75de4c",
+      "title": "Patchez votre serveur : une faille critique a été découverte dans cPanel",
+      "link": "https://www.it-connect.fr/patchez-votre-serveur-une-faille-critique-a-ete-decouverte-dans-cpanel/",
+      "summary": "Toutes les versions actuellement supportées de cPanel sont affectées par une faille pouvant permettre d'obtenir un accès non autorisé à l'interface de gestion. Le post Patchez votre serveur : une faille critique a été...",
+      "published": "2026-04-29T14:12:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6d60f95450a831a0ce0931557825ce8e",
+      "title": "Windows : comment ajouter des emplacements réseau par GPO ?",
+      "link": "https://www.it-connect.fr/windows-comment-ajouter-des-emplacements-reseau-par-gpo/",
+      "summary": "Ce tutoriel explique comment déployer des emplacements réseau sur Windows à l'aide d'une stratégie de groupe AD (via les paramètres de Préférences). Le post Windows : comment ajouter des emplacements réseau par GPO ? ...",
+      "published": "2026-04-29T11:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e34b651ee8c69e359ccf89d88f7a3f75",
+      "title": "Zabbix : configurer l’authentification avec Active Directory (LDAP et LDAPS)",
+      "link": "https://www.it-connect.fr/zabbix-configurer-lauthentification-avec-active-directory-ldap-et-ldaps/",
+      "summary": "Ce tutoriel explique comment configurer l'authentification Active Directory sur Zabbix (LDAP et LDAPS), afin de se connecter avec un compte utilisateur de l'AD. Le post Zabbix : configurer l’authentification avec Acti...",
+      "published": "2026-04-29T08:57:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0c2c961c48b597190063982fa80122ee",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0495/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e...",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "31ca9036e81ae93e6d654d1fcd7c5d96",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0497/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et...",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "51ac85dafaa57a1baa2988f35ee72821",
+      "title": "Vulnérabilité dans les produits Microsoft (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0494/",
+      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8e6ffd0dd85dfadfabb2ba4df9086fbe",
+      "title": "Multiples vulnérabilités dans Synology DSM (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0491/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une att...",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b593870b313053aa8b9a3ca7855a769f",
+      "title": "Vulnérabilité dans les produits Tenable (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0489/",
+      "summary": "Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de code arbitraire et une atteinte à l'intégrité des données.",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b59d495ba9930cf8cac678e6b729a2f6",
+      "title": "Multiples vulnérabilités dans Spring Boot (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0488/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Spring Boot. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des donné...",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "514d4de1beabbaa97249b037e83ba624",
+      "title": "Multiples vulnérabilités dans les produits IBM (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0492/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c4be16eac42a1905524bb3ca10e9ae3f",
+      "title": "Vulnérabilité dans Microsoft Edge (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0493/",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7c5ebf81d6777a69b5ff60b6aae61000",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (23 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0486/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-23T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "54e63cb175dc508788c264c3fc0be726",
+      "title": "Multiples vulnérabilités dans Google Chrome (23 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0487/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-23T00:00:00+00:00",
+      "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     }
