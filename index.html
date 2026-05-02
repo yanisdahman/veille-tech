@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Veille Technologique — Yanis Dahman</title>
+  <meta name="description" content="Dashboard de veille technologique automatisé — cybersécurité, réseau, infrastructure et actu IT." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="header-text">
+          <p class="eyebrow">Yanis Dahman</p>
+          <h1>Veille <span class="accent">Technologique</span></h1>
+          <p class="subtitle">Sources filtrées &amp; mises à jour automatiquement — BTS SIO SISR</p>
+        </div>
+        <div class="header-meta">
+          <div class="update-badge" id="lastUpdated">
+            <span class="dot"></span>
+            <span>Chargement...</span>
+          </div>
+          <a href="https://yanisdahman.github.io" class="back-link" target="_blank" rel="noopener">
+            ← Portfolio
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+
+      <div class="toolbar">
+        <div class="filters" id="filters">
+          <button class="filter-btn active" data-category="all">Tout</button>
+          <button class="filter-btn" data-category="cybersecurite">Cybersécurité</button>
+          <button class="filter-btn" data-category="reseau">Réseau &amp; Infra</button>
+          <button class="filter-btn" data-category="actu">Actu IT</button>
+          <button class="filter-btn" data-category="outils">Outils</button>
+        </div>
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="searchInput" class="search-input" placeholder="Rechercher..." />
+        </div>
+      </div>
+
+      <div class="stats-bar" id="statsBar">
+        <span id="statsCount">—</span>
+      </div>
+
+      <div class="grid" id="articlesGrid"></div>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <p class="empty-title">Aucun résultat</p>
+        <p class="empty-sub">Essayez un autre filtre ou mot-clé.</p>
+      </div>
+
+      <div class="loading-state" id="loadingState">
+        <div class="spinner"></div>
+        <p>Chargement des articles...</p>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Mis à jour automatiquement via <strong>GitHub Actions</strong> · Sources : CERT-FR, The Hacker News, Bleeping Computer, Korben, IT-Connect, LeMagIT</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

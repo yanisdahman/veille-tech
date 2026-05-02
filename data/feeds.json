@@ -1,0 +1,36 @@
+{
+  "last_updated": "2026-05-02T08:00:00Z",
+  "count": 3,
+  "articles": [
+    {
+      "id": "sample-1",
+      "title": "Exemple — Ce fichier sera remplacé automatiquement par GitHub Actions",
+      "link": "#",
+      "summary": "Lancez le workflow GitHub Actions (fetch-feeds.yml) pour remplir ce fichier avec les vrais articles RSS. Il se met à jour toutes les 6 heures automatiquement.",
+      "published": "2026-05-02T08:00:00Z",
+      "source": "Info",
+      "category": "actu",
+      "image": ""
+    },
+    {
+      "id": "sample-2",
+      "title": "Configurez vos sources RSS dans scripts/fetch_feeds.py",
+      "link": "#",
+      "summary": "Modifiez la liste FEEDS dans fetch_feeds.py pour ajouter ou retirer des sources. Chaque source a une URL, un nom et une catégorie (cybersecurite, reseau, actu, outils).",
+      "published": "2026-05-02T07:00:00Z",
+      "source": "Info",
+      "category": "outils",
+      "image": ""
+    },
+    {
+      "id": "sample-3",
+      "title": "Sources incluses : CERT-FR, The Hacker News, Bleeping Computer, Korben, IT-Connect, LeMagIT",
+      "link": "#",
+      "summary": "6 sources pré-configurées couvrant la cybersécurité, le réseau, l'infrastructure et les outils IT. Toutes pertinentes pour un profil BTS SIO SISR.",
+      "published": "2026-05-02T06:00:00Z",
+      "source": "Info",
+      "category": "cybersecurite",
+      "image": ""
+    }
+  ]
+}
