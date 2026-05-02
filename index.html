@@ -1,77 +1,149 @@
 <!DOCTYPE html>
-<html lang="fr" style="color-scheme: light">
+<html lang="fr" style="color-scheme:light">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Veille Technologique — Yanis Dahman</title>
-  <meta name="description" content="Dashboard de veille technologique automatisé — cybersécurité, réseau, infrastructure et actu IT." />
+  <meta name="description" content="Dashboard de veille cybersécurité, réseau et IT — mis à jour automatiquement via GitHub Actions." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
 
+  <!-- ═══ HEADER ════════════════════════════════════════════════════════════ -->
   <header class="site-header">
-    <div class="container">
-      <div class="header-inner">
-        <div class="header-text">
-          <p class="eyebrow">Yanis Dahman</p>
-          <h1>Veille <span class="accent">Technologique</span></h1>
-          <p class="subtitle">Sources filtrées &amp; mises à jour automatiquement — BTS SIO SISR</p>
+    <div class="hdr-inner">
+      <a href="/" class="brand">
+        <div class="brand-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
         </div>
-        <div class="header-meta">
-          <div class="update-badge" id="lastUpdated">
-            <span class="dot"></span>
-            <span>Chargement...</span>
-          </div>
-          <a href="https://yanisdahman.github.io" class="back-link" target="_blank" rel="noopener">
-            ← Portfolio
-          </a>
+        <div class="brand-text">
+          <span class="brand-name">Veille Techno</span>
+          <span class="brand-tagline">#1 Dashboard cybersécurité &amp; IT · Yanis Dahman</span>
         </div>
+      </a>
+      <div class="hdr-right">
+        <div class="hdr-search">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="searchInput" placeholder="Rechercher un article..." autocomplete="off" />
+        </div>
+        <a class="hdr-btn" href="https://yanisdahman.github.io" target="_blank" rel="noopener">← Portfolio</a>
       </div>
     </div>
   </header>
 
-  <main class="main">
-    <div class="container">
+  <!-- ═══ CATEGORY NAV ══════════════════════════════════════════════════════ -->
+  <nav class="cat-nav">
+    <div class="catnav-inner">
+      <div class="catnav-links" id="catNav">
+        <a class="catlink active" data-cat="all">Tout</a>
+        <a class="catlink" data-cat="cybersecurite">Cybersécurité</a>
+        <a class="catlink" data-cat="reseau">Réseau &amp; Infra</a>
+        <a class="catlink" data-cat="actu">Actu IT</a>
+        <a class="catlink" data-cat="outils">Outils</a>
+      </div>
+      <div class="catnav-status">
+        <span class="live-dot"></span>
+        <span id="navStatus">Chargement...</span>
+      </div>
+    </div>
+  </nav>
 
-      <div class="toolbar">
-        <div class="filters" id="filters">
-          <button class="filter-btn active" data-category="all">Tout</button>
-          <button class="filter-btn" data-category="cybersecurite">Cybersécurité</button>
-          <button class="filter-btn" data-category="reseau">Réseau &amp; Infra</button>
-          <button class="filter-btn" data-category="actu">Actu IT</button>
-          <button class="filter-btn" data-category="outils">Outils</button>
-        </div>
-        <div class="search-wrap">
-          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-          <input type="text" id="searchInput" class="search-input" placeholder="Rechercher..." />
-        </div>
+  <!-- ═══ PAGE BODY ══════════════════════════════════════════════════════════ -->
+  <div class="page-body">
+
+    <!-- MAIN CONTENT -->
+    <main class="content-col">
+
+      <div class="loading-state" id="loadingState">
+        <div class="spinner"></div>
+        <p>Récupération des articles...</p>
       </div>
 
-      <div class="stats-bar" id="statsBar">
-        <span id="statsCount">—</span>
+      <!-- Featured cards (top 2) -->
+      <div class="featured-grid" id="featuredGrid"></div>
+
+      <!-- Divider -->
+      <div class="list-header" id="listHeader" hidden>
+        <span class="list-header-label" id="listLabel">Derniers articles</span>
+        <span class="list-header-count" id="listCount"></span>
       </div>
 
-      <div class="grid" id="articlesGrid"></div>
+      <!-- Article list -->
+      <div class="article-list" id="articleList"></div>
 
+      <!-- Empty state -->
       <div class="empty-state" id="emptyState" hidden>
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
         <p class="empty-title">Aucun résultat</p>
         <p class="empty-sub">Essayez un autre filtre ou mot-clé.</p>
       </div>
 
-      <div class="loading-state" id="loadingState">
-        <div class="spinner"></div>
-        <p>Chargement des articles...</p>
+    </main>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar-col">
+
+      <!-- Stats -->
+      <div class="widget">
+        <div class="widget-hdr">Flux en direct</div>
+        <div class="widget-body">
+          <div class="stat-live">
+            <span class="live-dot"></span>
+            <span id="statUpdated">Chargement...</span>
+          </div>
+          <div class="stat-grid">
+            <div class="stat-box">
+              <span class="stat-n" id="statCount">—</span>
+              <span class="stat-l">articles</span>
+            </div>
+            <div class="stat-box">
+              <span class="stat-n">6</span>
+              <span class="stat-l">sources</span>
+            </div>
+            <div class="stat-box">
+              <span class="stat-n">6h</span>
+              <span class="stat-l">refresh</span>
+            </div>
+          </div>
+        </div>
       </div>
 
-    </div>
-  </main>
+      <!-- Top stories -->
+      <div class="widget">
+        <div class="widget-hdr">⚡ À la une</div>
+        <div class="widget-body" id="topWidget">
+          <div class="wi-skel"></div>
+          <div class="wi-skel"></div>
+          <div class="wi-skel"></div>
+          <div class="wi-skel"></div>
+          <div class="wi-skel"></div>
+        </div>
+      </div>
 
+      <!-- Categories -->
+      <div class="widget">
+        <div class="widget-hdr">Catégories</div>
+        <div class="widget-body" id="catsWidget"></div>
+      </div>
+
+      <!-- Sources -->
+      <div class="widget">
+        <div class="widget-hdr">Sources</div>
+        <div class="widget-body" id="sourcesWidget"></div>
+      </div>
+
+    </aside>
+  </div>
+
+  <!-- ═══ FOOTER ════════════════════════════════════════════════════════════ -->
   <footer class="site-footer">
-    <div class="container">
-      <p>Mis à jour automatiquement via <strong>GitHub Actions</strong> · Sources : CERT-FR, The Hacker News, Bleeping Computer, Korben, IT-Connect, LeMagIT</p>
+    <div class="footer-inner">
+      <span>© 2026 Yanis Dahman · BTS SIO SISR</span>
+      <span>Automatisé via GitHub Actions · CERT-FR, The Hacker News, Bleeping Computer, Korben, IT-Connect, LeMagIT</span>
+      <a href="https://yanisdahman.github.io" target="_blank" rel="noopener">Portfolio →</a>
     </div>
   </footer>
 
