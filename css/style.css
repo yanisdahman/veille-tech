@@ -25,22 +25,8 @@
   --cat-outils-bg: #ECFDF5;
 }
 
-[data-theme="dark"] {
-  --bg: #111113;
-  --bg2: #18181B;
-  --card: #1E1E21;
-  --text: #F0EFF0;
-  --text2: #9A9AA4;
-  --text3: #5A5A64;
-  --border: rgba(255,255,255,0.08);
-  --border2: rgba(255,255,255,0.04);
-  --shadow: 0 2px 16px rgba(0,0,0,0.3);
-  --shadow-hover: 0 8px 32px rgba(0,0,0,0.4);
-
-  --cat-cyber-bg: rgba(220,38,38,0.12);
-  --cat-reseau-bg: rgba(37,99,235,0.12);
-  --cat-actu-bg: rgba(124,58,237,0.12);
-  --cat-outils-bg: rgba(5,150,105,0.12);
+@media (prefers-color-scheme: dark) {
+  /* Le dashboard est intentionnellement en light mode uniquement */
 }
 
 /* ===== RESET ===== */
