@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-03T13:03:49.388652+00:00",
+  "last_updated": "2026-05-03T18:56:07.338336+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d0838cdcae858de2fe3dc754c153d719",
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
+      "published": "2026-05-03T18:11:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b8af39e975cd92f4a574750d789269f6",
+      "title": "BrowserQuest - Le MMO HTML5 de Mozilla est de retour",
+      "link": "https://korben.info/browserquest-mmo-mozilla-html5-retour.html",
+      "summary": "BrowserQuest est de retour les amis ! Hé ouais, el famoso MMO HTML5 que Little Workshop avait pondu pour Mozilla en 2012 vient de ressurgir sur threej.in , alors que Mozilla avait officiellement archivé le repo GitHub...",
+      "published": "2026-05-03T14:21:10+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/browserquest-mmo-mozilla-html5-retour/browserquest-mmo-mozilla-html5-retour-1.png"
+    },
+    {
+      "id": "6ae58592f2781fee9c55ca94952738ae",
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
+      "published": "2026-05-03T14:11:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "2fefdfdf6af98ded59195c2496fa127a",
       "title": "Ce jeu Steam flingue votre SSD en silence",
@@ -193,16 +223,6 @@
       "image": "https://korben.info/japan-airlines-teste-des-robots-humanoides-pour-charger-les-bagages/japan-airlines-teste-des-robots-humanoides-pour-charger-les-bagages-1.jpg"
     },
     {
-      "id": "8f4e1b68aaa02d82f3d904fe1aed6a4f",
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
-      "published": "2026-05-01T11:10:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "cc7b0ee1688247bf8801693801259ac7",
       "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
       "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
@@ -211,16 +231,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4T6K9zSg5-BFr6xjfFnVhxj3Jx5R5CCUbEmTDssJXlPDiPYcCwFRAfSP_09Kcds90YN7CUwv2Y5ZhglKxLgEbyDRaudcoZXL1PfftGo5BloLB9LInZGWvVaKEdYEoHBJjyP3wwxkfEWWg4pcPTtBUnr6zCJRvre9YzZs4OagcnBVFiAbjbEGc7WY-98/s1600/cynomi.png"
-    },
-    {
-      "id": "cfedcd6943cd50ed5e173d9a9e484dec",
-      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-      "summary": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance im...",
-      "published": "2026-05-01T10:00:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "7311541bab2e5fa25bba5dd27f161bc3",
@@ -291,16 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png"
-    },
-    {
-      "id": "d888e547c7f5f286e98d86d4c9fd4b9a",
-      "title": "Le code source original du premier 86-DOS enfin publié",
-      "link": "https://korben.info/le-code-source-original-du-premier-86-dos-enfin-publie.html",
-      "summary": "45 ans après sa sortie, le code source du tout premier 86-DOS vient d'atterrir sur GitHub . Microsoft a profité de cet anniversaire pour publier les listings d'assembleur originaux, accompagnés de plusieurs versions d...",
-      "published": "2026-04-30T16:19:49+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-code-source-original-du-premier-86-dos-enfin-publie/le-code-source-original-du-premier-86-dos-enfin-publie-1.jpg"
     },
     {
       "id": "0860e1947636ef5a7361e29aacbd6999",
