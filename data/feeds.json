@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-05-04T13:54:15.558224+00:00",
+  "last_updated": "2026-05-04T19:26:39.082956+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "82908bf109064e8b3f4cafcd3197b5ea",
+      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+      "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
+      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to com...",
+      "published": "2026-05-04T18:06:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg"
+    },
+    {
+      "id": "deaf179c1ece2771c316c517e28981b0",
+      "title": "Backdoored PyTorch Lightning package drops credential stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+      "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
+      "published": "2026-05-04T17:15:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f622c9663c5ee86353f6aadb44927261",
+      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+      "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, serv...",
+      "published": "2026-05-04T16:34:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvgdRkcdOwctclhM5XBvKXGGFrqpNsd7pJsR6Qk9QfhVd52KaiNWtY6kbWYbxzweFJDx5-sXo5UmIGJZ2yKbiSqntFDcYS7aDV_hUlAuNtcFzIPf_MDdqWq9eeyzZwJXx9__K5ynAXHc-7kJ6i66ifjuGrFqfLdn4-yDTvmL1oSZ-kVX2V9eoTq-xdiKa/s1600/moveit.jpg"
+    },
+    {
+      "id": "0adacac77a9b4858a04bb4056bed0547",
+      "title": "Trellix discloses data breach after source code repository hack",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+      "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
+      "published": "2026-05-04T16:25:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7a2770a64dfcb3630bb35f624ff8f221",
+      "title": "La mise à jour Windows d’avril perturbe vos sauvegardes, voici les logiciels concernés",
+      "link": "https://www.it-connect.fr/la-mise-a-jour-windows-davril-perturbe-vos-sauvegardes-voici-les-logiciels-concernes/",
+      "summary": "Certaines applications de sauvegarde sont susceptibles de ne plus fonctionner sur Windows et Windows Server, suite à l'installation des correctifs d'avril 2026. Le post La mise à jour Windows d’avril perturbe vos sauv...",
+      "published": "2026-05-04T15:09:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "45b656c21e355e790ea7cba8f7d8045d",
+      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+      "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source ...",
+      "published": "2026-05-04T14:23:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j3mVDqxMVjGlF1qpGV3nSUfIhHsxGDl7Nt6QQFwRUA-qOtj22zKVcE7B7UTCcjLdUrsjLPB5N7TiX8Hzjx8Hq8LPy_GdAfcO_AqMwDDWRyQ6dWdeXzFOQa1KYm8rUUDCgwCbR9kN7OCheQyc0Ijz2MuXGkY6bsqHwlBtV34Q6xH2VAPRDUjFFThKk46X/s1600/CYBERRECAP.jpg"
+    },
+    {
+      "id": "b2f3cbbee4f06ef8bb9574e9cd6278bd",
+      "title": "ffmpeg-over-ip - Le transcodage GPU distant pour Jellyfin",
+      "link": "https://korben.info/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin.html",
+      "summary": "Jellyfin sans GPU, c'est la croix et la bannière dès que quelqu'un lance un film en 4K. Mais c'était sans compter sur ffmpeg-over-ip qui est capable de transformer un serveur équipé d'un GPU en endpoint de transcoding...",
+      "published": "2026-05-04T14:15:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin-1.png"
+    },
     {
       "id": "93235142cd3398df0a8aea2056b1af87",
       "title": "They don’t hack, they borrow: How fraudsters target credit unions",
@@ -243,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "b8af39e975cd92f4a574750d789269f6",
-      "title": "BrowserQuest - Le MMO HTML5 de Mozilla est de retour",
-      "link": "https://korben.info/browserquest-mmo-mozilla-html5-retour.html",
-      "summary": "BrowserQuest est de retour les amis ! Hé ouais, el famoso MMO HTML5 que Little Workshop avait pondu pour Mozilla en 2012 vient de ressurgir sur threej.in , alors que Mozilla avait officiellement archivé le repo GitHub...",
-      "published": "2026-05-03T14:21:10+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/browserquest-mmo-mozilla-html5-retour/browserquest-mmo-mozilla-html5-retour-1.png"
-    },
-    {
       "id": "6ae58592f2781fee9c55ca94952738ae",
       "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
       "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
@@ -273,26 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg"
     },
     {
-      "id": "5bd207c5b1271c89dabb4dcbbd188f34",
-      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-      "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
-      "published": "2026-05-02T21:54:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "47dd4a419866e0a303f3c3f5ae3b9668",
-      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-      "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
-      "published": "2026-05-02T14:32:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5093bc6354427b143ed1d4647efa4797",
       "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
       "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
@@ -311,36 +351,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUS_xmTpvaJtwhFTnxsBtKSx2hWroMJKWUCKeB_CNx_9-5T85bdpqGfTZ0__XITi-i6ZnndaiiiFggf3Cgf-35KK-G6sEwvnlqom2DK6U-oH_o9GhEGNyd9kiSti-QC_dpl3v7b7IniC9kAUzV265yVbVsWAnLnH1RfQxrftUHj5MFAm03MOBw3Z6UEVb/s1600/phish.jpg"
-    },
-    {
-      "id": "35277596ec5d8fe25b5a0ac01c5999cb",
-      "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
-      "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
-      "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their action...",
-      "published": "2026-05-01T14:26:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FSyjacFNJX32YMLQvN6jUeVwGJfoAHPLMIhtU6aNS6hrkIUokynaWWzqxOjr1JsP0lIooaL0ppYM-iQ_rEH2ruoqMw1UAb_bq4FNjI16P6P7CpTaYSkJtp-TpCFKOce9ODtmzskcTZnuWFLYyUdfA0UeHqmRVVNB1P6Mw28a5Yuc7T1kgEx4Pcyxbcsr/s1600/vishing.jpg"
-    },
-    {
-      "id": "3056638859728698e2552b02c3c2cc0c",
-      "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
-      "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging ...",
-      "published": "2026-05-01T14:02:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD3mr1fHyy1yT3u6ebxE9skoiCRtBYdZnkvdputmKF0XgZW5BKeQKkvnYswwusYFG4tvzVeWOqP3wgGtqLA7Ds9I-PYlasFVkOmaClo8IIpRGtdvuFZuKzDgvktukM1YXbTDbBAZUfk1mtWx8lHFF8N_YZXRl0ncSWtGGkzXDkm5gWMovjixeiyh6w_64W/s1600/chinese-hackers.jpg"
-    },
-    {
-      "id": "cc7b0ee1688247bf8801693801259ac7",
-      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave rev...",
-      "published": "2026-05-01T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4T6K9zSg5-BFr6xjfFnVhxj3Jx5R5CCUbEmTDssJXlPDiPYcCwFRAfSP_09Kcds90YN7CUwv2Y5ZhglKxLgEbyDRaudcoZXL1PfftGo5BloLB9LInZGWvVaKEdYEoHBJjyP3wwxkfEWWg4pcPTtBUnr6zCJRvre9YzZs4OagcnBVFiAbjbEGc7WY-98/s1600/cynomi.png"
     },
     {
       "id": "429acd98122a1eedea7a572fceea0d67",
@@ -393,13 +403,43 @@
       "image": ""
     },
     {
-      "id": "02a030246d5e6b7e18fa5feafbc9d485",
-      "title": "Proxmox Backup Server 4.2 est disponible : voici les nouveautés principales",
-      "link": "https://www.it-connect.fr/proxmox-backup-server-4-2-est-disponible-voici-les-nouveautes-principales/",
-      "summary": "Proxmox Backup Server passe en version 4.2. Quelles sont les nouveautés ajoutées à cette solution open source de sauvegarde ? Voici l'essentiel à savoir. Le post Proxmox Backup Server 4.2 est disponible : voici les no...",
-      "published": "2026-04-30T05:00:43+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "3ef8a4d1fb72f160b1db52677bb313cd",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-019 (27 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-019/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-04-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a5d31d8a1639657c94adb486752aa071",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (27 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0503/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6ca24d6d903a47145826a26e93f53ee1",
+      "title": "Multiples vulnérabilités dans VMware Tanzu (27 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0500/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b6876c31ac39a772af186d956c9bb59c",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (27 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0502/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -433,46 +473,6 @@
       "image": ""
     },
     {
-      "id": "8e6ffd0dd85dfadfabb2ba4df9086fbe",
-      "title": "Multiples vulnérabilités dans Synology DSM (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0491/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une att...",
-      "published": "2026-04-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b593870b313053aa8b9a3ca7855a769f",
-      "title": "Vulnérabilité dans les produits Tenable (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0489/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de code arbitraire et une atteinte à l'intégrité des données.",
-      "published": "2026-04-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b59d495ba9930cf8cac678e6b729a2f6",
-      "title": "Multiples vulnérabilités dans Spring Boot (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0488/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Spring Boot. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des donné...",
-      "published": "2026-04-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "514d4de1beabbaa97249b037e83ba624",
-      "title": "Multiples vulnérabilités dans les produits IBM (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0492/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-04-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c4be16eac42a1905524bb3ca10e9ae3f",
       "title": "Vulnérabilité dans Microsoft Edge (24 avril 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0493/",
@@ -483,11 +483,11 @@
       "image": ""
     },
     {
-      "id": "7c5ebf81d6777a69b5ff60b6aae61000",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (23 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0486/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-23T00:00:00+00:00",
+      "id": "c2fe2eb07e86d62d365ae42be2c3f8d2",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (24 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0496/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
+      "published": "2026-04-24T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
