@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-04T19:26:39.082956+00:00",
+  "last_updated": "2026-05-05T02:31:50.581082+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4571b3a169172aab9368b3dc04b82b2f",
+      "title": "Weaver E-cology critical bug exploited in attacks since March",
+      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
+      "published": "2026-05-04T22:12:57+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "56461399de7c8ed72ddeeae38457c9bb",
+      "title": "Amazon SES increasingly abused in phishing to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "published": "2026-05-04T20:03:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "82908bf109064e8b3f4cafcd3197b5ea",
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
@@ -298,26 +318,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
       "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
       "published": "2026-05-03T22:16:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d0838cdcae858de2fe3dc754c153d719",
-      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-      "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
-      "published": "2026-05-03T18:11:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6ae58592f2781fee9c55ca94952738ae",
-      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-      "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
-      "published": "2026-05-03T14:11:21+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
