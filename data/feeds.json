@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-05-05T13:48:23.584650+00:00",
+  "last_updated": "2026-05-05T19:17:38.424342+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "21a61eec8df841291a0a6d898a8db696",
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
+      "published": "2026-05-05T17:34:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2a4c94cdd8270ed60fbdf544747fb04e",
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution ...",
+      "published": "2026-05-05T16:19:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7seGapCGfnl8pFznQajU2KsVPCE19qbtPTJb2sqpOuurkEKNI8ZwUui6QhYmDJODr1F5L7hrpfGBQfsCOT8oC2k_gbjmRPIFWpVZLpJzcdd9nb-UJyNNg4L9LTtEto1sSo3Fn1cIgWxgsH4Xs0GlRJgEt65_Eut7FRv7aQrkqYdJXiE9zDunU2spQOVP/s1600/apache.jpg"
+    },
+    {
+      "id": "95b1ba245503a92a0f8c0b22f6481297",
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legi...",
+      "published": "2026-05-05T16:07:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQDcWhFHnIEeEngbqyPFjkweCMgT7FoZRRZV0WYRuHg1cHip2O0lw2ahMc7jhJnzOCqqrLhzpM9w-O3eLpVdiCvI4C3-RD6XwqTkDxWdhzkS-W2BsbLy_SFwnjykdvvhuhjGnwPkFpOSJiapeWULhqx9er8hDH0sCCtoK51OrH4nSYqc_oAZwILcOi1A2/s1600/daemon.jpg"
+    },
+    {
+      "id": "15b48d3461daf74ff914771f90a76cd5",
+      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data...",
+      "published": "2026-05-05T14:39:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fcd6aafda1bffd005b507fe54fe7e110",
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe ...",
+      "published": "2026-05-05T14:19:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg"
+    },
+    {
+      "id": "0146670926d407dda65f4ff9000f806f",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
+      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan f...",
+      "published": "2026-05-05T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "59fb5036aeeb738f91c8a02539cfb7d1",
       "title": "Vimeo data breach exposes personal information of 119,000 people",
@@ -276,7 +336,7 @@
       "id": "56461399de7c8ed72ddeeae38457c9bb",
       "title": "Amazon SES increasingly abused in phishing to evade detection",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails that can bypass standard security filters and render reputation-ba...",
       "published": "2026-05-04T20:03:28+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
@@ -293,36 +353,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg"
     },
     {
-      "id": "deaf179c1ece2771c316c517e28981b0",
-      "title": "Backdoored PyTorch Lightning package drops credential stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-      "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
-      "published": "2026-05-04T17:15:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f622c9663c5ee86353f6aadb44927261",
-      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-      "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, serv...",
-      "published": "2026-05-04T16:34:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvgdRkcdOwctclhM5XBvKXGGFrqpNsd7pJsR6Qk9QfhVd52KaiNWtY6kbWYbxzweFJDx5-sXo5UmIGJZ2yKbiSqntFDcYS7aDV_hUlAuNtcFzIPf_MDdqWq9eeyzZwJXx9__K5ynAXHc-7kJ6i66ifjuGrFqfLdn4-yDTvmL1oSZ-kVX2V9eoTq-xdiKa/s1600/moveit.jpg"
-    },
-    {
-      "id": "0adacac77a9b4858a04bb4056bed0547",
-      "title": "Trellix discloses data breach after source code repository hack",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-      "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
-      "published": "2026-05-04T16:25:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "7a2770a64dfcb3630bb35f624ff8f221",
       "title": "La mise à jour Windows d’avril perturbe vos sauvegardes, voici les logiciels concernés",
       "link": "https://www.it-connect.fr/la-mise-a-jour-windows-davril-perturbe-vos-sauvegardes-voici-les-logiciels-concernes/",
@@ -331,16 +361,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "45b656c21e355e790ea7cba8f7d8045d",
-      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source ...",
-      "published": "2026-05-04T14:23:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j3mVDqxMVjGlF1qpGV3nSUfIhHsxGDl7Nt6QQFwRUA-qOtj22zKVcE7B7UTCcjLdUrsjLPB5N7TiX8Hzjx8Hq8LPy_GdAfcO_AqMwDDWRyQ6dWdeXzFOQa1KYm8rUUDCgwCbR9kN7OCheQyc0Ijz2MuXGkY6bsqHwlBtV34Q6xH2VAPRDUjFFThKk46X/s1600/CYBERRECAP.jpg"
     },
     {
       "id": "b2f3cbbee4f06ef8bb9574e9cd6278bd",
@@ -353,16 +373,6 @@
       "image": "https://korben.info/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin-1.png"
     },
     {
-      "id": "93235142cd3398df0a8aea2056b1af87",
-      "title": "They don’t hack, they borrow: How fraudsters target credit unions",
-      "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
-      "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
-      "published": "2026-05-04T13:42:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6923c8050ca23e804f2f37a07bcd752c",
       "title": "Un robot qui construit des maisons en argile",
       "link": "https://korben.info/terran-robotics-maisons-terre-robots-texas.html",
@@ -371,16 +381,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/terran-robotics-maisons-terre-robots-texas/terran-robotics-maisons-terre-robots-texas-1.jpeg"
-    },
-    {
-      "id": "c564ec122f8804583a1096ad2f253dc6",
-      "title": "2026: The Year of AI-Assisted Attacks",
-      "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
-      "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan’s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, J...",
-      "published": "2026-05-04T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji6GV4hhCDB_wJkm6REZZfugW5H5hF8g8X27oGcUHnOSxYst1aJJspKKl6joygytGLwgKYvfDU_DD8DFHQ-vPt-_Tc1yzG8fJl_0tHuyOLgJC3eHKGFM_YZA_OIYoL7wI8lUWZrpGO_E2Sjunen7Y9g2fY7sRTi6cvk4DgBW5plToR5U-Je5GQeJsKuqY/s1600/ai-cyberattacks.png"
     },
     {
       "id": "3a83fbe76ee3dc346b01fe81c040e616",
@@ -401,6 +401,26 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation/reactos-le-clone-open-source-de-windows-simplifie-son-installation-1.png"
+    },
+    {
+      "id": "338530c4749f5146bc0b01d7946e5373",
+      "title": "Vulnérabilité dans Python (28 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0505/",
+      "summary": "Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-04-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "23563184b632314916b603e15bcf38cd",
+      "title": "Multiples vulnérabilités dans Spring (28 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0504/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentiali...",
+      "published": "2026-04-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
       "id": "3ef8a4d1fb72f160b1db52677bb313cd",
@@ -443,51 +463,31 @@
       "image": ""
     },
     {
-      "id": "0c2c961c48b597190063982fa80122ee",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0495/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e...",
-      "published": "2026-04-24T00:00:00+00:00",
+      "id": "0b783b7449b0a473b15c243332cf8cf3",
+      "title": "Multiples vulnérabilités dans les produits FoxIT (27 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0501/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la con...",
+      "published": "2026-04-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "31ca9036e81ae93e6d654d1fcd7c5d96",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0497/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et...",
-      "published": "2026-04-24T00:00:00+00:00",
+      "id": "b0d0ea42232f7e636b7d74d11f8a9f1d",
+      "title": "Multiples vulnérabilités dans les produits Moxa (27 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0499/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de ...",
+      "published": "2026-04-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "51ac85dafaa57a1baa2988f35ee72821",
-      "title": "Vulnérabilité dans les produits Microsoft (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0494/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c4be16eac42a1905524bb3ca10e9ae3f",
-      "title": "Vulnérabilité dans Microsoft Edge (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0493/",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-04-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c2fe2eb07e86d62d365ae42be2c3f8d2",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (24 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0496/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
-      "published": "2026-04-24T00:00:00+00:00",
+      "id": "e4173e3e5be8a1fe08b4c67aa0f553b0",
+      "title": "Multiples vulnérabilités dans Zabbix Agent2 (27 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0498/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix Agent2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
