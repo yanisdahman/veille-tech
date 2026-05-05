@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-05-05T02:31:50.581082+00:00",
+  "last_updated": "2026-05-05T08:05:46.703402+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "fca366094e2fc04523cd56a14d653a27",
+      "title": "iOS 26.5 : vos messages RCS entre iPhone et Android seront enfin sécurisés",
+      "link": "https://www.it-connect.fr/ios-26-5-vos-messages-rcs-entre-iphone-et-android-seront-enfin-securises/",
+      "summary": "La mise à jour iOS 26.5 va ajouter une nouveauté importante : le chiffrement de bout en bout pour les messages RCS entre iPhone et Android. Le post iOS 26.5 : vos messages RCS entre iPhone et Android seront enfin sécu...",
+      "published": "2026-05-05T07:57:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ccfff1f1307ea88c743abb8262135bb7",
+      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+      "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS s...",
+      "published": "2026-05-05T07:37:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1600/weaver.jpg"
+    },
+    {
+      "id": "b09d0d19327ad0ad89ebe1455af95308",
+      "title": "Mises à jour Windows 11 : Microsoft force votre PC à redémarrer plusieurs fois ce mois-ci",
+      "link": "https://www.it-connect.fr/mises-a-jour-windows-11-microsoft-force-votre-pc-a-redemarrer-plusieurs-fois-ce-mois-ci/",
+      "summary": "Si votre PC sous Windows 11 redémarre plusieurs fois de suite après avoir installé les mises à jour d'avril : c'est normal et lié au Secure Boot. Le post Mises à jour Windows 11 : Microsoft force votre PC à redémarrer...",
+      "published": "2026-05-05T07:34:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f3f686fdc48dccb82af4909ced50e117",
+      "title": "AlmaLinux 10.2 Beta réintroduit le support 32-bit, à contre-courant",
+      "link": "https://korben.info/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant.html",
+      "summary": "La distribution AlmaLinux a publié sa version 10.2 Beta nommée \"Lavender Lion\", et elle fait un truc que la plupart des distros récentes refusent de faire : remettre du support 32-bit dans le système. Pas un retour to...",
+      "published": "2026-05-05T07:17:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant-1.jpg"
+    },
+    {
+      "id": "2dd03e5ae99ff8332aa7105e45f5a021",
+      "title": "Korben - Toujours là 22 ans plus tard, et c'est grâce à vous",
+      "link": "https://korben.info/korben-22-ans-plus-tard-toujours-la-grace-a-vous.html",
+      "summary": "Salut les amis, Aujourd'hui, c'est un jour un peu spécial pour moi, puisque c'est l'anniversaire de mon site web ! Alors je tenais à célébrer ça avec vous parce que les années filent à la vitesse de l'éclair et qu'on ...",
+      "published": "2026-05-05T07:07:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/korben-22-ans-plus-tard-toujours-la-grace-a-vous/korben-22-ans-plus-tard-toujours-la-grace-a-vous-1.png"
+    },
+    {
+      "id": "e904e42014df33d7ba026243bc3e4ef9",
+      "title": "Edge - Les mots de passe en clair en mémoire, by design",
+      "link": "https://korben.info/edge-mots-de-passe-clair-memoire-by-design.html",
+      "summary": "Si vous utilisez le gestionnaire de mots de passe intégré à Microsoft Edge, et que vous le trouvez cool, hé bien accrochez-vous les amis, car Tom Jøran Sønstebyseter Rønning, chercheur norvégien en cybersécurité, vien...",
+      "published": "2026-05-05T07:06:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/edge-mots-de-passe-clair-memoire-by-design/edge-mots-de-passe-clair-memoire-by-design-1.png"
+    },
+    {
+      "id": "4b83f442b52e71797debb9254f1eb448",
+      "title": "Piratage DigiCert : des malwares signés à l’aide de certificats volés !",
+      "link": "https://www.it-connect.fr/piratage-digicert-des-malwares-signes-a-laide-de-certificats-voles/",
+      "summary": "Piratage de DigiCert : comment des cybercriminels ont volé des certificats EV pour signer des malwares. Ce que l'on sait sur cet incident de sécurité majeur. Le post Piratage DigiCert : des malwares signés à l’aide de...",
+      "published": "2026-05-05T06:42:26+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "cfe40100c05c75430feaf42f033c74e3",
+      "title": "CopyFail sur Linux : les patchs de sécurité sont-ils disponibles ?",
+      "link": "https://www.it-connect.fr/copyfail-sur-linux-les-patchs-de-securite-sont-ils-disponibles/",
+      "summary": "Les patchs pour la CVE-2026-31431, alias CopyFail, sont-ils disponibles pour les distributions Linux : Debian, Ubuntu, RHEL, etc... Voici un récapitulatif. Le post CopyFail sur Linux : les patchs de sécurité sont-ils ...",
+      "published": "2026-05-05T06:42:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b4d2ebbae5caa0e3477a5543e1c5c6cf",
+      "title": "Homebridge 2.0 est disponible : la compatibilité Matter change tout !",
+      "link": "https://www.it-connect.fr/homebridge-2-0-est-disponible-la-compatibilite-matter-change-tout/",
+      "summary": "Après trois années en version bêta, Homebridge 2.0 est enfin disponible depuis le lundi 4 mai 2026. Il peut jouer le rôle de pont Matter, en plus de HomeKit. Le post Homebridge 2.0 est disponible : la compatibilité Ma...",
+      "published": "2026-05-05T06:41:52+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b6e378c9383ba72e20e9eaef5bb58f02",
+      "title": "Smartphones : l’Europe impose les batteries amovibles dès 2027, mais il y a des exceptions",
+      "link": "https://www.it-connect.fr/smartphones-leurope-impose-les-batteries-amovibles-des-2027-mais-il-y-a-des-exceptions/",
+      "summary": "Dès le mois de février 2027, une nouvelle réglementation européenne va bouleverser le marché en imposant le retour des batteries amovibles sur nos smartphones. Le post Smartphones : l’Europe impose les batteries amovi...",
+      "published": "2026-05-05T06:41:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bc5b084522958ba3c37e30292fed6998",
+      "title": "Cette version de PyTorch Lightning télécharge un malware voleur d’identifiants",
+      "link": "https://www.it-connect.fr/cette-version-de-pytorch-lightning-telecharge-un-malware-voleur-didentifiants/",
+      "summary": "Un logiciel malveillant de type infostealer a été distribué par l'intermédiaire d'une version compromise de PyTorch Lightning : 2.6.3. Voici ce que l'on sait. Le post Cette version de PyTorch Lightning télécharge un m...",
+      "published": "2026-05-05T06:41:22+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "854f2c719d8ef985686cd68c797556de",
+      "title": "Circuits imprimés Multi-CB : la solution innovante pour vos projets électroniques",
+      "link": "https://www.it-connect.fr/circuits-imprimes-multi-cb-la-solution-innovante-pour-vos-projets-electroniques/",
+      "summary": "Les circuits imprimés Multi-CB offrent performance, personnalisation et fiabilité pour optimiser tous vos projets électroniques, du prototype à la production. Le post Circuits imprimés Multi-CB : la solution innovante...",
+      "published": "2026-05-05T06:41:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e0420b872f28ee0f28d3ee472f0e5bc2",
+      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+      "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains ...",
+      "published": "2026-05-05T06:35:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg"
+    },
     {
       "id": "4571b3a169172aab9368b3dc04b82b2f",
       "title": "Weaver E-cology critical bug exploited in attacks since March",
@@ -26,7 +156,7 @@
       "id": "82908bf109064e8b3f4cafcd3197b5ea",
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
       "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to com...",
+      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to comp...",
       "published": "2026-05-04T18:06:00+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -216,7 +346,7 @@
       "id": "5fe0dbdd894f3956ee1681c4b5d4fe0c",
       "title": "RTK - Le proxy Rust qui vous fait économiser jusqu'à 90% de tokens",
       "link": "https://korben.info/rtk-proxy-rust-economiser-tokens.html",
-      "summary": "Si vous utilisez Claude Code au quotidien, vous connaissez ce goût de sang qui vous monte dans la bouche lorsque sans prévenir quand cette putain de limite de quota imposée par Anthropic vous explose à la gueule ! Et ...",
+      "summary": "Si vous utilisez Claude Code au quotidien, vous connaissez ce goût de sang qui vous monte dans la bouche lorsque, sans prévenir, cette putain de limite de quota imposée par Anthropic vous explose à la gueule ! Et le p...",
       "published": "2026-05-04T09:52:34+00:00",
       "source": "Korben",
       "category": "outils",
@@ -241,66 +371,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgjtQddA9U3D-xf2UWj5GKV2R5tEwjqWWY9fwRQi_fZgG5tf140uw2P4oVfmcvPZcMYuFDo1mvqYKkgKSmgfBxVloaWTrN7vgPiH1FX8ivdh8PFBN9LvfJF13a0ajbXDLEV20pr9d2rSoQo4KWbDYSpSOFJYoPYDHizXQ3tYNGVhhysD8h3FWWpOkHytN/s1600/ccc.jpg"
-    },
-    {
-      "id": "82a1f1c8c314b6aeb47cd534e017f179",
-      "title": "Microsoft va moderniser la boîte de dialogue « Exécuter » sur Windows 11",
-      "link": "https://www.it-connect.fr/microsoft-va-moderniser-la-boite-de-dialogue-executer-sur-windows-11/",
-      "summary": "La boite de dialogue \"Exécuter\" de Windows 11 va être modernisée par Microsoft : nouveaux raccourcis, fluent design, etc... Découvrez les nouveautés. Le post Microsoft va moderniser la boîte de dialogue « Exécuter » s...",
-      "published": "2026-05-04T09:24:04+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a4c880de688858c24cf50f98f76a487a",
-      "title": "Agent Safehouse - Un garde-fou pour vos agents IA sur macOS",
-      "link": "https://korben.info/agent-safehouse-garde-fou-agents-ia-macos.html",
-      "summary": "Comme vous le savez, les LLMs sont assez probabilistes de par leur nature. C'est leur force mais également leur principal problème de sécurité car si votre agent IA a une probabilité de 1% de faire une grosse connerie...",
-      "published": "2026-05-04T09:13:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/agent-safehouse-garde-fou-agents-ia-macos/agent-safehouse-garde-fou-agents-ia-macos-1.png"
-    },
-    {
-      "id": "53cae7ba16092c77a0728dbeda31566a",
-      "title": "Un iPod Nano transformé en workstation triple écran",
-      "link": "https://korben.info/un-ipod-nano-transforme-en-workstation-triple-ecran.html",
-      "summary": "Sur sa chaîne YouTube \"Will It Work?\", un bidouilleur a réussi à brancher trois moniteurs sur un iPod Nano de sixième génération. Oui, vous avez bien lu, l'iPod cliquable carré qui faisait 4 cm de côté en 2010, et qui...",
-      "published": "2026-05-04T08:23:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-ipod-nano-transforme-en-workstation-triple-ecran/un-ipod-nano-transforme-en-workstation-triple-ecran-1.jpg"
-    },
-    {
-      "id": "a851f4bab86cae4ab56ada1ead1ba141",
-      "title": "Windows 11 KB5083631 : Xbox Mode et d’autres nouveautés intéressantes",
-      "link": "https://www.it-connect.fr/windows-11-kb5083631-xbox-mode-et-dautres-nouveautes-interessantes/",
-      "summary": "La mise à jour KB5083631 pour Windows 11 25H2 et 24H2 est disponible. Elle ajoute le Xbox Mode pour le gaming et d'autres nouveautés : voici un récapitulatif. Le post Windows 11 KB5083631 : Xbox Mode et d’autres nouve...",
-      "published": "2026-05-04T07:29:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8092062fc0ec987ea939f41a4df71d6a",
-      "title": "Coincés durant +5 heures sur Age of Empires 2",
-      "link": "https://korben.info/thegreatreview-age-of-empires-5-heures.html",
-      "summary": "Hier soir Lilian, fidèle lecteur de Korben m'a envoyé une vidéo incroyable qui retrace 5h de combat sur Age of Empires 2 résumées en 34 minutes par TheGreatReview. Faut savoir que je suis fan d'Age of Empires depuis l...",
-      "published": "2026-05-04T07:00:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/thegreatreview-age-of-empires-5-heures/thegreatreview-age-of-empires-5-heures-1.jpg"
-    },
-    {
-      "id": "f851fc3f1bd138a32eab326103a62383",
-      "title": "Linux : les données des serveurs cPanel chiffrées par le ransomware Sorry",
-      "link": "https://www.it-connect.fr/linux-les-donnees-des-serveurs-cpanel-chiffrees-par-le-ransomware-sorry/",
-      "summary": "La faille de sécurité critique affectant cPanel et WHM, associée à la référence CVE-2026-41940, est exploitée massivement, y compris avec le ransomware Sorry. Le post Linux : les données des serveurs cPanel chiffrées ...",
-      "published": "2026-05-04T06:06:12+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "c1e5536bc4f77b937c7223dd7e658d21",
@@ -331,76 +401,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg"
-    },
-    {
-      "id": "5093bc6354427b143ed1d4647efa4797",
-      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
-      "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository a...",
-      "published": "2026-05-02T06:41:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ47NY9D4DSEZHqBNSGTjpmSJqwYVOzlIKGoG-0LTxSdIIDrMtyV2tOqRYcc-4kpxkE1UZ6nJhK4eXCGEsEmG6UcQeHn_YjAhRWXIAxo5yC75eUmLv3w5rur6SN6Qoee65gve-LgM0_3YGnAzQwTrQMTeTShRe_leh8_ImIlzU-Sgfy2kRqTcx5V-yG-3M/s1600/breach.jpg"
-    },
-    {
-      "id": "f0aacdfe9d8b9a6ebebb9a9a139f34a6",
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-      "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed...",
-      "published": "2026-05-01T18:09:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUS_xmTpvaJtwhFTnxsBtKSx2hWroMJKWUCKeB_CNx_9-5T85bdpqGfTZ0__XITi-i6ZnndaiiiFggf3Cgf-35KK-G6sEwvnlqom2DK6U-oH_o9GhEGNyd9kiSti-QC_dpl3v7b7IniC9kAUzV265yVbVsWAnLnH1RfQxrftUHj5MFAm03MOBw3Z6UEVb/s1600/phish.jpg"
-    },
-    {
-      "id": "429acd98122a1eedea7a572fceea0d67",
-      "title": "Forensic Windows – Partie 2 : comment trouver des traces avec Amcache ?",
-      "link": "https://www.it-connect.fr/forensic-windows-partie-2-comment-trouver-des-traces-avec-amcache/",
-      "summary": "Ce tutoriel sur l'investigation numérique sous Windows explique comment retrouver des traces en analysant le fichier Amcache.hve, notamment avec AmcacheParser. Le post Forensic Windows – Partie 2 : comment trouver des...",
-      "published": "2026-05-01T07:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0860e1947636ef5a7361e29aacbd6999",
-      "title": "En 9 secondes, cet agent IA a détruit la base de prod de PocketOS",
-      "link": "https://www.it-connect.fr/en-9-secondes-cet-agent-ia-a-detruit-la-base-de-prod-de-pocketos/",
-      "summary": "Un agent IA a vrillé et en 9 secondes, il a supprimé la base de données de production utilisée par PocketOS. Est-il le seul coupable ? Pas vraiment. Le post En 9 secondes, cet agent IA a détruit la base de prod de Poc...",
-      "published": "2026-04-30T16:18:01+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bc25bc58c996fb3bb7b6cd6c967c2f39",
-      "title": "WinBoat : un outil pour lancer les applications Windows sur Linux",
-      "link": "https://www.it-connect.fr/tuto-winboat-un-outil-pour-lancer-les-applications-windows-sur-linux/",
-      "summary": "Ce tutoriel explique comment installer et utiliser WinBoat pour exécuter des applications Windows sur Linux, notamment Microsoft Office (Word, Excel, etc.). Le post WinBoat : un outil pour lancer les applications Wind...",
-      "published": "2026-04-30T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b22f9dd3cb00cc24cdaf72c93f0d700b",
-      "title": "Copy Fail : cette redoutable faille Linux permet d’obtenir un accès root",
-      "link": "https://www.it-connect.fr/copy-fail-cve-2026-31431-linux-access-root-vulnerabilite/",
-      "summary": "Copy Fail (CVE-2026-31431), c'est le nom de la faille critique découverte dans le noyau Linux. Elle offre un accès root sur les distributions Linux depuis 2017. Le post Copy Fail : cette redoutable faille Linux permet...",
-      "published": "2026-04-30T13:20:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "053856ee9c56cb0bd8fbce9e3dc2851f",
-      "title": "GLPI 11.0.7 & GLPI 10.0.25 : une dizaine de vulnérabilités patchées !",
-      "link": "https://www.it-connect.fr/glpi-11-0-7-glpi-10-0-25-une-dizaine-de-vulnerabilites-patchees/",
-      "summary": "GLPI vient de publier deux mises à jour de sécurité : 11.0.7 et 10.0.25. Au total, une dizaine de vulnérabilités ont été corrigées : voici l'essentiel à savoir. Le post GLPI 11.0.7 & GLPI 10.0.25 : une dizaine de vuln...",
-      "published": "2026-04-30T07:24:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "3ef8a4d1fb72f160b1db52677bb313cd",
