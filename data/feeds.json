@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-05-05T08:05:46.703402+00:00",
+  "last_updated": "2026-05-05T13:48:23.584650+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "59fb5036aeeb738f91c8a02539cfb7d1",
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
+      "published": "2026-05-05T13:03:46+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3c0c410800d66dab882c9caa193d6345",
+      "title": "Un chercheur prouve que Microsoft Edge laisse fuiter vos mots de passe en mémoire",
+      "link": "https://www.it-connect.fr/un-chercheur-prouve-que-microsoft-edge-laisse-fuiter-vos-mots-de-passe-en-memoire/",
+      "summary": "Un chercheur a mis en lumière un problème de sécurité avec Microsoft Edge : le navigateur stockerait les mots de passe en clair dans la mémoire de Windows. Le post Un chercheur prouve que Microsoft Edge laisse fuiter ...",
+      "published": "2026-05-05T12:22:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "cccdb0753e21f0219c340462b261ecba",
+      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
+      "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
+      "summary": "Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in ...",
+      "published": "2026-05-05T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhaEkMCxALglRWDFwTHVYgZ0KrRmAuzdwfh0zbL5Ml163rakQSv8yRVQ8yTQ4xIAtcwdqvGyVXeZXgXGNYKoyStckJv2xzjH3f1O7oICND5cWbnIBGYkSVJbpDRYHH9XqNfFQNk1qWIVwd43UuJv2vozhpndzCMS789h026IKgX1t7pgp01AtI6i9wKE/s1600/material.jpg"
+    },
+    {
+      "id": "9d5ed161b2b8ff3214211df82e0fde81",
+      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
+      "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
+      "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-...",
+      "published": "2026-05-05T11:56:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SZcQRIb_0i7jqHu2mcl7Ep1hX2C3rwLWwJmBwPHTPE2PvaP9KOHcMkvGAWxLeBFWxmfpW6IXwJqIsxHJvs2nIDc2ASwRwuXNlWFZRtatpMoksz5BRKmCVNSs4BxsrFX0_CGqlHZv_6VNWx6u1wD8dydja_fvpnRLezr_CBLyX-Lj6a2i4wRKxZnGFRen/s1600/phph.jpg"
+    },
+    {
+      "id": "397657af149df50873fc3a2e02c8cd55",
+      "title": "10 sites pour jouer aux jeux DOS dans votre navigateur gratuitement",
+      "link": "https://korben.info/emulateurs-dos-navigateur-gratuits.html",
+      "summary": "DOOM, Fallout, Theme Hospital, Civilization... il y a sur le web des milliers de jeux DOS jouables directement dans votre navigateur, gratuitement, sans installer quoi que ce soit. Car oui mes amis, l'émulation DOS da...",
+      "published": "2026-05-05T11:44:25+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/emulateurs-dos-navigateur-gratuits/emulateurs-dos-navigateur-gratuits-1.png"
+    },
+    {
+      "id": "4f348cb070db0ab47f0680a3e1b9f5e4",
+      "title": "Google now offers up to $1.5 million for some Android exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
+      "summary": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) ha...",
+      "published": "2026-05-05T11:24:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "357e6263457d971a767e331c12539666",
+      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LL...",
+      "published": "2026-05-05T10:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg"
+    },
+    {
+      "id": "e069b61a4e422f3ffb54347ce7aaa541",
+      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
+      "published": "2026-05-05T10:13:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "78de0ef47bad55ab539905f3b34a9133",
+      "title": "Il démonte une caméra gimbal de drone Shahed-136 récupéré en Ukraine",
+      "link": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine.html",
+      "summary": "Un chercheur du nom de Michel a mis la main sur une caméra de surveillance issue d'un drone Shahed-136 abattu en Ukraine, et il en a fait un démontage très complet. Le Shahed-136, ce drone iranien que la Russie a adop...",
+      "published": "2026-05-05T10:11:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine-1.jpg"
+    },
+    {
+      "id": "ee8979b61a94bc0cb76322730bb84a6b",
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
+      "published": "2026-05-05T10:03:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e061770ee3bc1de6435de9136bc2d641",
+      "title": "Un slider caméra à trois axes bricolé avec des pièces d'imprimante 3D",
+      "link": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d.html",
+      "summary": "Un slider caméra, c'est ce rail motorisé sur lequel on pose un appareil photo ou une caméra pour qu'elle glisse latéralement pendant la prise de vue, et obtenir ce travelling propre qu'on voit dans les pubs ou les vid...",
+      "published": "2026-05-05T09:25:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d-1.jpg"
+    },
+    {
+      "id": "e0af389f3f5c11f723bba92e13c7ffd1",
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely ta...",
+      "published": "2026-05-05T09:07:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
+    },
+    {
+      "id": "8106a0745aaa0db933ca380db7d3a0a2",
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
+      "published": "2026-05-05T09:04:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "fca366094e2fc04523cd56a14d653a27",
       "title": "iOS 26.5 : vos messages RCS entre iPhone et Android seront enfin sécurisés",
@@ -243,26 +373,6 @@
       "image": "https://korben.info/terran-robotics-maisons-terre-robots-texas/terran-robotics-maisons-terre-robots-texas-1.jpeg"
     },
     {
-      "id": "e4505a3033c0aef406ea24a49dc621af",
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "summary": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]",
-      "published": "2026-05-04T12:18:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6aaec50cd7613dd9abc691dd150d02d3",
-      "title": "Webinar: Why MSPs must rethink security and backup strategies",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-      "summary": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
-      "published": "2026-05-04T12:16:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c564ec122f8804583a1096ad2f253dc6",
       "title": "2026: The Year of AI-Assisted Attacks",
       "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
@@ -271,16 +381,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji6GV4hhCDB_wJkm6REZZfugW5H5hF8g8X27oGcUHnOSxYst1aJJspKKl6joygytGLwgKYvfDU_DD8DFHQ-vPt-_Tc1yzG8fJl_0tHuyOLgJC3eHKGFM_YZA_OIYoL7wI8lUWZrpGO_E2Sjunen7Y9g2fY7sRTi6cvk4DgBW5plToR5U-Je5GQeJsKuqY/s1600/ai-cyberattacks.png"
-    },
-    {
-      "id": "2eb3defc2b82c88a5c50aa21be8e8524",
-      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
-      "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
-      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mi...",
-      "published": "2026-05-04T11:57:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfw7HlDQIzbgA8xy1bk-sUkn-TVS85DGaL4vQkuTNYu3SGabQGuPKBD7C1qkCcpxwEFfdW6I9DJoSnmMmbkAu24SN1R_B2HNYwi-niSiST1LJqwMQ7tspMjxMyHXJtZUxGZbb2Hb1k-_2ywcG5hWFhOKQubJsYXiq8hyphenhyphenFfLyVewIet_ZcdTmNZEc9-Fum/s1600/godd.png"
     },
     {
       "id": "3a83fbe76ee3dc346b01fe81c040e616",
@@ -293,16 +393,6 @@
       "image": "https://korben.info/zxc-bibliotheque-compression-2x-rapide-lz4/zxc-bibliotheque-compression-2x-rapide-lz4-1.png"
     },
     {
-      "id": "f3d61b99fafad95c4f6fb9bfef063af0",
-      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
-      "published": "2026-05-04T11:28:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "edf5dd259c147fe8735ca250b9f41705",
       "title": "ReactOS, le clone open source de Windows, simplifie son installation",
       "link": "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation.html",
@@ -311,96 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation/reactos-le-clone-open-source-de-windows-simplifie-son-installation-1.png"
-    },
-    {
-      "id": "1f3ba9514a14b3392f73cabd79ba468c",
-      "title": "Microsoft confirms April Windows updates cause backup failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-      "summary": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]",
-      "published": "2026-05-04T10:40:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "968156b703c75a34fb11340c907454d9",
-      "title": "Photographier les vraies couleurs en stockant tout le spectre était déjà possible en... 1891",
-      "link": "https://korben.info/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891.html",
-      "summary": "Hackaday vient de remettre en lumière (c'est le cas de le dire) une technique de photo couleur quasi oubliée et complètement folle : les plaques Lippmann. Au lieu de découper la lumière en trois canaux RGB comme un ca...",
-      "published": "2026-05-04T10:01:54+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891-1.jpg"
-    },
-    {
-      "id": "da130da878802615b150394d98affbf5",
-      "title": "Microsoft lance un module PowerShell pour gérer les snapshots ReFS",
-      "link": "https://www.it-connect.fr/microsoft-lance-un-module-powershell-pour-gerer-les-snapshots-refs/",
-      "summary": "Microsoft vient d'annoncer la sortie d'un nouveau module PowerShell dédié à la gestion des snapshots ReFS : ReFSSnapshots. Il peut remplacer l'outil refsutil. Le post Microsoft lance un module PowerShell pour gérer le...",
-      "published": "2026-05-04T09:58:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5fe0dbdd894f3956ee1681c4b5d4fe0c",
-      "title": "RTK - Le proxy Rust qui vous fait économiser jusqu'à 90% de tokens",
-      "link": "https://korben.info/rtk-proxy-rust-economiser-tokens.html",
-      "summary": "Si vous utilisez Claude Code au quotidien, vous connaissez ce goût de sang qui vous monte dans la bouche lorsque, sans prévenir, cette putain de limite de quota imposée par Anthropic vous explose à la gueule ! Et le p...",
-      "published": "2026-05-04T09:52:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rtk-proxy-rust-economiser-tokens/rtk-proxy-rust-economiser-tokens-1.png"
-    },
-    {
-      "id": "51cb6f89a221015c2fa14a2005a37022",
-      "title": "OAuth2 Proxy - L'authentification OIDC en reverse proxy",
-      "link": "https://korben.info/oauth2-proxy-lauthentification-oidc-en-reverse-proxy.html",
-      "summary": "Vous avez un service qui tourne sur le port 8080, mais aucune authentification native dessus et vous voulez ajouter OAuth2 sans avoir à toucher au code ? Vous êtes vraiment exigeant dans la vie ! Mais comme vos désirs...",
-      "published": "2026-05-04T09:32:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/oauth2-proxy-lauthentification-oidc-en-reverse-proxy/oauth2-proxy-lauthentification-oidc-en-reverse-proxy-1.png"
-    },
-    {
-      "id": "9f536dae6f1db8bc6899886a5aaa7592",
-      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
-      "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
-      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippine...",
-      "published": "2026-05-04T09:27:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgjtQddA9U3D-xf2UWj5GKV2R5tEwjqWWY9fwRQi_fZgG5tf140uw2P4oVfmcvPZcMYuFDo1mvqYKkgKSmgfBxVloaWTrN7vgPiH1FX8ivdh8PFBN9LvfJF13a0ajbXDLEV20pr9d2rSoQo4KWbDYSpSOFJYoPYDHizXQ3tYNGVhhysD8h3FWWpOkHytN/s1600/ccc.jpg"
-    },
-    {
-      "id": "c1e5536bc4f77b937c7223dd7e658d21",
-      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-      "link": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
-      "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, res...",
-      "published": "2026-05-04T05:59:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg"
-    },
-    {
-      "id": "a713afbd4d5e63bba51874a1605029f1",
-      "title": "Instructure confirms data breach, ShinyHunters claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
-      "published": "2026-05-03T22:16:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d5189eecceaf333c7e00ef57c2008a61",
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing ev...",
-      "published": "2026-05-03T06:26:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg"
     },
     {
       "id": "3ef8a4d1fb72f160b1db52677bb313cd",
