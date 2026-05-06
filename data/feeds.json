@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-05-06T14:03:43.555706+00:00",
+  "last_updated": "2026-05-06T19:44:30.252553+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "b97dfbd84fb2b7a5be125d8b0ac63320",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "published": "2026-05-06T18:38:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "72105c13d1b29da1eaa88efc42820f44",
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+      "published": "2026-05-06T18:06:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cdcc79577ded11ae1e949bc3071e2e7e",
+      "title": "DAEMON Tools devs confirm breach, release malware-free version",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
+      "published": "2026-05-06T16:43:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6f3866eab1024d0747d112e352cc5cf7",
+      "title": "Proxmox VE – Protégez votre serveur et les VM avec le pare-feu natif",
+      "link": "https://www.it-connect.fr/tuto-proxmox-ve-configurer-firewall/",
+      "summary": "Apprenez à mettre en place des règles de filtrage sur Proxmox VE avec le pare-feu intégré, afin de protéger le serveur, les VM et les conteneurs. Le post Proxmox VE – Protégez votre serveur et les VM avec le pare-feu ...",
+      "published": "2026-05-06T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ab5c677509eb7896c7ecaa2908f8e746",
+      "title": "CloudZ RAT : ce malware espionne vos SMS via l’application Mobile Connecté de Windows",
+      "link": "https://www.it-connect.fr/cloudz-rat-ce-malware-espionne-vos-sms-via-lapplication-mobile-connecte-de-windows/",
+      "summary": "Une nouvelle menace cible l'application Mobile Connecté de Microsoft, utilisant CloudZ RAT et Pheno pour exfiltrer discrètement vos données mobiles sur Windows. Le post CloudZ RAT : ce malware espionne vos SMS via l’a...",
+      "published": "2026-05-06T15:41:14+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "54b2c3855e4a3701a8b402203009499a",
+      "title": "Scattered Spider - Un cybercriminel arrêté à cause d'un collier en diamants",
+      "link": "https://korben.info/scattered-spider-hack-planet-collier-arrete.html",
+      "summary": "Y'a des génies du crime, et puis y'a Peter Stokes, alias Bouquet, 19 ans, presque toutes ses dents, double nationalité américano-estonienne, et surtout membre de Scattered Spider, le collectif qui a déjà plumé MGM et ...",
+      "published": "2026-05-06T15:06:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/scattered-spider-hack-planet-collier-arrete/scattered-spider-hack-planet-collier-arrete-1.png"
+    },
+    {
+      "id": "88a006a0a77824f082083eede878b332",
+      "title": "Quand les hackers de Rockstar font monter l'action Take-Two",
+      "link": "https://korben.info/rockstar-hack-take-two-stock.html",
+      "summary": "Énorme retournement de situation. ShinyHunters, le groupe qui avait piraté Rockstar via Anodot mi-avril et exigé une rançon, a fini par balancer ses données sur internet quand l'éditeur a refusé de payer. Le but était...",
+      "published": "2026-05-06T14:35:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rockstar-hack-take-two-stock/rockstar-hack-take-two-stock-1.png"
+    },
+    {
+      "id": "f47540962dc7efe37e7c4becd8d9da5d",
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+      "published": "2026-05-06T14:04:14+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ee6257177cfa0f674222dfbbc7cb125f",
+      "title": "Les Pays-Bas migrent leur code vers Forgejo et claquent la porte de GitHub",
+      "link": "https://korben.info/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github.html",
+      "summary": "Le gouvernement néerlandais a ouvert sa propre instance Forgejo à l'adresse code.overheid.nl, hébergée sur les serveurs de l'État via SSC-ICT (le service informatique mutualisé du gouvernement). L'idée dans cette déma...",
+      "published": "2026-05-06T13:54:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github-1.jpg"
+    },
     {
       "id": "a894ad8e5fb07a4f08634880cee63236",
       "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
@@ -21,6 +111,16 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5-1.jpg"
+    },
+    {
+      "id": "ecb3982310df51af3fa71b83ae14873f",
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
+      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The a...",
+      "published": "2026-05-06T13:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg"
     },
     {
       "id": "1fc5d50b74b02306f1396499af4b8bd7",
@@ -213,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "21a61eec8df841291a0a6d898a8db696",
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
-      "published": "2026-05-05T17:34:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "2a4c94cdd8270ed60fbdf544747fb04e",
       "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
       "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
@@ -243,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQDcWhFHnIEeEngbqyPFjkweCMgT7FoZRRZV0WYRuHg1cHip2O0lw2ahMc7jhJnzOCqqrLhzpM9w-O3eLpVdiCvI4C3-RD6XwqTkDxWdhzkS-W2BsbLy_SFwnjykdvvhuhjGnwPkFpOSJiapeWULhqx9er8hDH0sCCtoK51OrH4nSYqc_oAZwILcOi1A2/s1600/daemon.jpg"
     },
     {
-      "id": "15b48d3461daf74ff914771f90a76cd5",
-      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
-      "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data...",
-      "published": "2026-05-05T14:39:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "fcd6aafda1bffd005b507fe54fe7e110",
       "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
       "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
@@ -261,26 +341,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg"
-    },
-    {
-      "id": "0146670926d407dda65f4ff9000f806f",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan f...",
-      "published": "2026-05-05T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "59fb5036aeeb738f91c8a02539cfb7d1",
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
-      "published": "2026-05-05T13:03:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "3c0c410800d66dab882c9caa193d6345",
@@ -301,46 +361,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhaEkMCxALglRWDFwTHVYgZ0KrRmAuzdwfh0zbL5Ml163rakQSv8yRVQ8yTQ4xIAtcwdqvGyVXeZXgXGNYKoyStckJv2xzjH3f1O7oICND5cWbnIBGYkSVJbpDRYHH9XqNfFQNk1qWIVwd43UuJv2vozhpndzCMS789h026IKgX1t7pgp01AtI6i9wKE/s1600/material.jpg"
-    },
-    {
-      "id": "9d5ed161b2b8ff3214211df82e0fde81",
-      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-      "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-...",
-      "published": "2026-05-05T11:56:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SZcQRIb_0i7jqHu2mcl7Ep1hX2C3rwLWwJmBwPHTPE2PvaP9KOHcMkvGAWxLeBFWxmfpW6IXwJqIsxHJvs2nIDc2ASwRwuXNlWFZRtatpMoksz5BRKmCVNSs4BxsrFX0_CGqlHZv_6VNWx6u1wD8dydja_fvpnRLezr_CBLyX-Lj6a2i4wRKxZnGFRen/s1600/phph.jpg"
-    },
-    {
-      "id": "397657af149df50873fc3a2e02c8cd55",
-      "title": "10 sites pour jouer aux jeux DOS dans votre navigateur gratuitement",
-      "link": "https://korben.info/emulateurs-dos-navigateur-gratuits.html",
-      "summary": "DOOM, Fallout, Theme Hospital, Civilization... il y a sur le web des milliers de jeux DOS jouables directement dans votre navigateur, gratuitement, sans installer quoi que ce soit. Car oui mes amis, l'émulation DOS da...",
-      "published": "2026-05-05T11:44:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/emulateurs-dos-navigateur-gratuits/emulateurs-dos-navigateur-gratuits-1.png"
-    },
-    {
-      "id": "78de0ef47bad55ab539905f3b34a9133",
-      "title": "Il démonte une caméra gimbal de drone Shahed-136 récupéré en Ukraine",
-      "link": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine.html",
-      "summary": "Un chercheur du nom de Michel a mis la main sur une caméra de surveillance issue d'un drone Shahed-136 abattu en Ukraine, et il en a fait un démontage très complet. Le Shahed-136, ce drone iranien que la Russie a adop...",
-      "published": "2026-05-05T10:11:28+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine-1.jpg"
-    },
-    {
-      "id": "e061770ee3bc1de6435de9136bc2d641",
-      "title": "Un slider caméra à trois axes bricolé avec des pièces d'imprimante 3D",
-      "link": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d.html",
-      "summary": "Un slider caméra, c'est ce rail motorisé sur lequel on pose un appareil photo ou une caméra pour qu'elle glisse latéralement pendant la prise de vue, et obtenir ce travelling propre qu'on voit dans les pubs ou les vid...",
-      "published": "2026-05-05T09:25:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d-1.jpg"
     },
     {
       "id": "fca366094e2fc04523cd56a14d653a27",
@@ -383,23 +403,83 @@
       "image": ""
     },
     {
-      "id": "b4d2ebbae5caa0e3477a5543e1c5c6cf",
-      "title": "Homebridge 2.0 est disponible : la compatibilité Matter change tout !",
-      "link": "https://www.it-connect.fr/homebridge-2-0-est-disponible-la-compatibilite-matter-change-tout/",
-      "summary": "Après trois années en version bêta, Homebridge 2.0 est enfin disponible depuis le lundi 4 mai 2026. Il peut jouer le rôle de pont Matter, en plus de HomeKit. Le post Homebridge 2.0 est disponible : la compatibilité Ma...",
-      "published": "2026-05-05T06:41:52+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "a517eda4f8012126e7742ac71fa09270",
+      "title": "Multiples vulnérabilités dans Xen (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0509/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité ...",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "b6e378c9383ba72e20e9eaef5bb58f02",
-      "title": "Smartphones : l’Europe impose les batteries amovibles dès 2027, mais il y a des exceptions",
-      "link": "https://www.it-connect.fr/smartphones-leurope-impose-les-batteries-amovibles-des-2027-mais-il-y-a-des-exceptions/",
-      "summary": "Dès le mois de février 2027, une nouvelle réglementation européenne va bouleverser le marché en imposant le retour des batteries amovibles sur nos smartphones. Le post Smartphones : l’Europe impose les batteries amovi...",
-      "published": "2026-05-05T06:41:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "00b10f299c9f84a069540598d9d14166",
+      "title": "Vulnérabilité dans Elastic Package Registry (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0511/",
+      "summary": "Une vulnérabilité a été découverte dans Elastic Package Registry. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la...",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "675a3934cec2ff9efbe9259dfb89b2f6",
+      "title": "Multiples vulnérabilités dans Moodle (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0508/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et une injection de req...",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9c8da84afc97eae9018e61e152795f48",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0513/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e5a01a6581f90f40f374733b23504921",
+      "title": "Vulnérabilité dans Microsoft Edge (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0512/",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "91139f86ab2cc4c46b40635c13f615fd",
+      "title": "Multiples vulnérabilités dans Curl (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0514/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Curl. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "16a62f00806a74a415e8edbc3cb67abd",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0507/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique...",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fa40126e3caa558982be5359f02cff47",
+      "title": "Multiples vulnérabilités dans Google Chrome (29 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0506/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -408,86 +488,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0505/",
       "summary": "Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "published": "2026-04-28T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "23563184b632314916b603e15bcf38cd",
-      "title": "Multiples vulnérabilités dans Spring (28 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0504/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentiali...",
-      "published": "2026-04-28T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3ef8a4d1fb72f160b1db52677bb313cd",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-019 (27 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-019/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-04-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a5d31d8a1639657c94adb486752aa071",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (27 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0503/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6ca24d6d903a47145826a26e93f53ee1",
-      "title": "Multiples vulnérabilités dans VMware Tanzu (27 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0500/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b6876c31ac39a772af186d956c9bb59c",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (27 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0502/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0b783b7449b0a473b15c243332cf8cf3",
-      "title": "Multiples vulnérabilités dans les produits FoxIT (27 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0501/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la con...",
-      "published": "2026-04-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b0d0ea42232f7e636b7d74d11f8a9f1d",
-      "title": "Multiples vulnérabilités dans les produits Moxa (27 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0499/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de ...",
-      "published": "2026-04-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e4173e3e5be8a1fe08b4c67aa0f553b0",
-      "title": "Multiples vulnérabilités dans Zabbix Agent2 (27 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0498/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix Agent2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
