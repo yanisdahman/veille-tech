@@ -1,7 +1,187 @@
 {
-  "last_updated": "2026-05-06T02:37:48.351937+00:00",
+  "last_updated": "2026-05-06T14:03:43.555706+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a894ad8e5fb07a4f08634880cee63236",
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]",
+      "published": "2026-05-06T13:02:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2d353b0ed23ab68336e41ecb721e46cb",
+      "title": "Apple ajoute le chiffrement bout-en-bout entre iPhone et Android pour les RCS dans iOS 26.5",
+      "link": "https://korben.info/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5.html",
+      "summary": "Avec iOS 26.5, Apple corrige enfin un manque que tout le monde signalait depuis l'arrivée du RCS sur iPhone : les messages échangés entre un iPhone et un Android n'étaient pas chiffrés. Côté iPhone-vers-iPhone, les iM...",
+      "published": "2026-05-06T13:00:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5-1.jpg"
+    },
+    {
+      "id": "1fc5d50b74b02306f1396499af4b8bd7",
+      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+      "summary": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
+      "published": "2026-05-06T12:56:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ad42ab322a5bc6d69817ed0c7896b01c",
+      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
+      "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+      "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of le...",
+      "published": "2026-05-06T12:03:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Yg33sY2y1VE4mkNb135928ke63sPOMciQgxVLYK0vXlJfSbZPCF0Q2b6URj-uZG0YOarE7-_WKyEc2OTstYRdmcdOagHSWstqHftoc-rv7vWrKepoENsBmKnR7P9jqH6MK9z-oa3RpOks3HGTqafjHUrPp2t-Xny6btfsAMIBcPWPBXq0hZv2-7XrkE/s1600/the-hacker-news-cybersecurity-stars-awards-2026.jpg.jpg"
+    },
+    {
+      "id": "7cc074879cacb8174c2cc6593a6cdc52",
+      "title": "WorkBoy - Le PDA fantôme de la Game Boy",
+      "link": "https://korben.info/workboy-game-boy-prototype-perdu-pda.html",
+      "summary": "En 1992, Eddie Gil de la boîte anglaise Source R&D et Frank Ballouz de Fabtek s'étaient mis en tête d'une chose : transformer la Game Boy en PDA. La console à pile AA de Nintendo avec son écran vert pissette devait, d...",
+      "published": "2026-05-06T11:47:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/workboy-game-boy-prototype-perdu-pda/workboy-game-boy-prototype-perdu-pda-1.jpg"
+    },
+    {
+      "id": "950e087388ab6f8176b156f3fd8f252e",
+      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
+      "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states t...",
+      "published": "2026-05-06T10:57:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb87wroQ6p8nQAYNIPc9sSFlIxMecj9qcrm9KPOaAt0-DTof7kW6e6FCc1dmoBFrtyFcZQOhyphenhyphenupMl7E3GAv-6C-5OM3U3NkEo7fKnYw-SWnwzI-yDfsY4J5kM8jgqfIqoSxHp4GJpdjK9kosjlzftCwYxSsva4jnhPHH92FT5rppUXnxCnINf05kPSzb5G/s1600/Orchid.gif"
+    },
+    {
+      "id": "4becb4884019f21366161fb914aa551b",
+      "title": "VS Code signe vos commits avec Copilot, même sans Copilot",
+      "link": "https://korben.info/vscode-copilot-coauthor-polemique.html",
+      "summary": "Si vous avez committé du code depuis VS Code depuis mi-avril, allez tout de suite vérifier vos messages de commit car vous avez peut-être un nouveau co-auteur que vous n'avez jamais embauché. En effet, Microsoft a dis...",
+      "published": "2026-05-06T10:16:17+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vscode-copilot-coauthor-polemique/vscode-copilot-coauthor-polemique-1.png"
+    },
+    {
+      "id": "8459043a50e1c0e8ee9be5ff761812d4",
+      "title": "Chrome installe en douce un modèle IA de 4 Go sur votre disque sans rien demander",
+      "link": "https://korben.info/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander.html",
+      "summary": "Alexander Hanff, consultant, a remonté un truc pas net sur Chrome. La dernière version du navigateur télécharge en arrière-plan un modèle de langage local appelé Gemini Nano, qui pèse environ 4 Go, sans jamais demande...",
+      "published": "2026-05-06T10:09:25+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander-1.jpg"
+    },
+    {
+      "id": "1e244ac9c1542b7870bcf9da0428e33d",
+      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+      "summary": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
+      "published": "2026-05-06T09:18:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "645081e76f351860106eb9ed05bb2460",
+      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
+      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended ...",
+      "published": "2026-05-06T09:13:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3jZdmrzsI_G2u8N5XuvPgzGCHzkTGTIPHZg7O6QMeciCwLNFKkNmxL0c6lZkA06Z0lN2JEpama8zVQuSL-nLLFOqhFyU6AVuYug-he692ziNQNCWxxJKE7YHB28bVu0owc6CiMS19lRL9sOc6yg6GSs9XmjB1PW26cLqISDSFwiE2eXHjQyAhk9T9gOTe/s1600/android-app.jpg"
+    },
+    {
+      "id": "6c022c914fff3fc7b93caeb86fd48c9a",
+      "title": "Un passionné a recréé l'Apple Lisa de 1983 dans un FPGA",
+      "link": "https://korben.info/un-passionne-a-recree-lapple-lisa-de-1983-dans-un-fpga.html",
+      "summary": "Voilà un projet qui sort un peu de l'ordinaire. Un développeur a passé huit mois à réimplémenter intégralement l'Apple Lisa, l'ordinateur lancé par Apple en 1983, à l'intérieur d'un FPGA. Le résultat tourne. Il charge...",
+      "published": "2026-05-06T09:12:57+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-passionne-a-recree-lapple-lisa-de-1983-dans-un-fpga/un-passionne-a-recree-lapple-lisa-de-1983-dans-un-fpga-1.jpg"
+    },
+    {
+      "id": "33bc4f78a86e12b33c77c4e554bf975e",
+      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
+      "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
+      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft...",
+      "published": "2026-05-06T08:34:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGxYFVfOUbXRWanB_1qyRHBYCgWirEtqd3EO06BrIjnLqrTEOoTnXclKQsujA4YCVfI8Q5IWuriVAlckls65vvV2Am5PCEB1s_HHoFxpA779oT1qbnNB0Q8dqLU3GGbwINtDDmp8Ge3bdxQJWab3toekaGDgi1FFJ73uNysl8wEnXfgk6W88b1qSJcu2gX/s1600/link-to-windows.jpg"
+    },
+    {
+      "id": "bb6debe39b659383c522da74576d5c00",
+      "title": "wg-obfuscator - Faire passer WireGuard pour de la visioconf",
+      "link": "https://korben.info/wg-obfuscator.html",
+      "summary": "Si vous faites tourner WireGuard depuis un réseau filtré par DPI (Genre en Russie, Iran, Chine, et autres pays défenseurs de la libertéééé (non)), vous avez sans doute remarqué que les tunnels tombent rapidement. En e...",
+      "published": "2026-05-06T08:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/wg-obfuscator/wg-obfuscator-1.png"
+    },
+    {
+      "id": "ca67d169c189aa66aa95cca9707aa708",
+      "title": "Faille Apache : deux simples trames suffisent à faire un déni de service (CVE-2026-23918)",
+      "link": "https://www.it-connect.fr/faille-apache-deux-simples-trames-suffisent-a-faire-un-deni-de-service-cve-2026-23918/",
+      "summary": "Protégez vos serveurs Apache contre la faille CVE-2026-23918 dans le module HTTP/2. Cette vulnérabilité peut entraîner un DoS, et même une RCE. Le post Faille Apache : deux simples trames suffisent à faire un déni de ...",
+      "published": "2026-05-06T07:41:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2235388e23a45c9640702e1f4f75162d",
+      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described ...",
+      "published": "2026-05-06T06:14:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg"
+    },
+    {
+      "id": "8f680d32d5112ebe9c36d5722f6b6268",
+      "title": "Kawaii - La GameCube découpée au scalpel qui tient dans la poche",
+      "link": "https://korben.info/kawaii-gamecube-poche-mackie-kannard-smith.html",
+      "summary": "Mackie Kannard-Smith vient de sortir Kawaii , une GameCube qui tient dans un porte-clés avec une vraie carte mère Nintendo dedans. Pas d'émulation ni de Raspberry Pi déguisé mais juste du silicium d'origine charcuté à...",
+      "published": "2026-05-06T05:37:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/kawaii-gamecube-poche-mackie-kannard-smith/kawaii-gamecube-poche-mackie-kannard-smith-1.jpg"
+    },
+    {
+      "id": "7f6328cebc4ed39818b8398526dcd608",
+      "title": "DAEMON Tools : des milliers de PC infectés via les versions officielles",
+      "link": "https://www.it-connect.fr/daemon-tools-des-milliers-de-pc-infectes-via-les-versions-officielles/",
+      "summary": "Depuis début avril 2026, les programmes d'installation de DAEMON Tools sont infectés par un logiciel malveillant suite à une attaque de type supply-chain. Le post DAEMON Tools : des milliers de PC infectés via les ver...",
+      "published": "2026-05-06T05:31:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "75d34a53eed17e10d5cd15d703c9cb99",
+      "title": "Proton Mail déploie le chiffrement post-quantique : voici comment l’activer",
+      "link": "https://www.it-connect.fr/proton-mail-deploie-le-chiffrement-post-quantique-voici-comment-lactiver/",
+      "summary": "Tous les utilisateurs de Proton Mail peuvent désormais activer la protection post-quantique sur leur compte afin de protéger leurs e-mails des futures menaces. Le post Proton Mail déploie le chiffrement post-quantique...",
+      "published": "2026-05-06T04:59:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "0f0fb3da4d09c9c1faeab79d732381b6",
       "title": "New stealthy Quasar Linux malware targets software developers",
@@ -143,36 +323,6 @@
       "image": "https://korben.info/emulateurs-dos-navigateur-gratuits/emulateurs-dos-navigateur-gratuits-1.png"
     },
     {
-      "id": "4f348cb070db0ab47f0680a3e1b9f5e4",
-      "title": "Google now offers up to $1.5 million for some Android exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
-      "summary": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) ha...",
-      "published": "2026-05-05T11:24:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "357e6263457d971a767e331c12539666",
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LL...",
-      "published": "2026-05-05T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg"
-    },
-    {
-      "id": "e069b61a4e422f3ffb54347ce7aaa541",
-      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
-      "published": "2026-05-05T10:13:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "78de0ef47bad55ab539905f3b34a9133",
       "title": "Il démonte une caméra gimbal de drone Shahed-136 récupéré en Ukraine",
       "link": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine.html",
@@ -181,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine-1.jpg"
-    },
-    {
-      "id": "ee8979b61a94bc0cb76322730bb84a6b",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "published": "2026-05-05T10:03:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "e061770ee3bc1de6435de9136bc2d641",
@@ -203,16 +343,6 @@
       "image": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d-1.jpg"
     },
     {
-      "id": "e0af389f3f5c11f723bba92e13c7ffd1",
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely ta...",
-      "published": "2026-05-05T09:07:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
-    },
-    {
       "id": "fca366094e2fc04523cd56a14d653a27",
       "title": "iOS 26.5 : vos messages RCS entre iPhone et Android seront enfin sécurisés",
       "link": "https://www.it-connect.fr/ios-26-5-vos-messages-rcs-entre-iphone-et-android-seront-enfin-securises/",
@@ -223,16 +353,6 @@
       "image": ""
     },
     {
-      "id": "ccfff1f1307ea88c743abb8262135bb7",
-      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-      "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS s...",
-      "published": "2026-05-05T07:37:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1600/weaver.jpg"
-    },
-    {
       "id": "b09d0d19327ad0ad89ebe1455af95308",
       "title": "Mises à jour Windows 11 : Microsoft force votre PC à redémarrer plusieurs fois ce mois-ci",
       "link": "https://www.it-connect.fr/mises-a-jour-windows-11-microsoft-force-votre-pc-a-redemarrer-plusieurs-fois-ce-mois-ci/",
@@ -241,36 +361,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "f3f686fdc48dccb82af4909ced50e117",
-      "title": "AlmaLinux 10.2 Beta réintroduit le support 32-bit, à contre-courant",
-      "link": "https://korben.info/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant.html",
-      "summary": "La distribution AlmaLinux a publié sa version 10.2 Beta nommée \"Lavender Lion\", et elle fait un truc que la plupart des distros récentes refusent de faire : remettre du support 32-bit dans le système. Pas un retour to...",
-      "published": "2026-05-05T07:17:29+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant-1.jpg"
-    },
-    {
-      "id": "2dd03e5ae99ff8332aa7105e45f5a021",
-      "title": "Korben - Toujours là 22 ans plus tard, et c'est grâce à vous",
-      "link": "https://korben.info/korben-22-ans-plus-tard-toujours-la-grace-a-vous.html",
-      "summary": "Salut les amis, Aujourd'hui, c'est un jour un peu spécial pour moi, puisque c'est l'anniversaire de mon site web ! Alors je tenais à célébrer ça avec vous parce que les années filent à la vitesse de l'éclair et qu'on ...",
-      "published": "2026-05-05T07:07:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/korben-22-ans-plus-tard-toujours-la-grace-a-vous/korben-22-ans-plus-tard-toujours-la-grace-a-vous-1.png"
-    },
-    {
-      "id": "e904e42014df33d7ba026243bc3e4ef9",
-      "title": "Edge - Les mots de passe en clair en mémoire, by design",
-      "link": "https://korben.info/edge-mots-de-passe-clair-memoire-by-design.html",
-      "summary": "Si vous utilisez le gestionnaire de mots de passe intégré à Microsoft Edge, et que vous le trouvez cool, hé bien accrochez-vous les amis, car Tom Jøran Sønstebyseter Rønning, chercheur norvégien en cybersécurité, vien...",
-      "published": "2026-05-05T07:06:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/edge-mots-de-passe-clair-memoire-by-design/edge-mots-de-passe-clair-memoire-by-design-1.png"
     },
     {
       "id": "4b83f442b52e71797debb9254f1eb448",
@@ -311,96 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "bc5b084522958ba3c37e30292fed6998",
-      "title": "Cette version de PyTorch Lightning télécharge un malware voleur d’identifiants",
-      "link": "https://www.it-connect.fr/cette-version-de-pytorch-lightning-telecharge-un-malware-voleur-didentifiants/",
-      "summary": "Un logiciel malveillant de type infostealer a été distribué par l'intermédiaire d'une version compromise de PyTorch Lightning : 2.6.3. Voici ce que l'on sait. Le post Cette version de PyTorch Lightning télécharge un m...",
-      "published": "2026-05-05T06:41:22+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "854f2c719d8ef985686cd68c797556de",
-      "title": "Circuits imprimés Multi-CB : la solution innovante pour vos projets électroniques",
-      "link": "https://www.it-connect.fr/circuits-imprimes-multi-cb-la-solution-innovante-pour-vos-projets-electroniques/",
-      "summary": "Les circuits imprimés Multi-CB offrent performance, personnalisation et fiabilité pour optimiser tous vos projets électroniques, du prototype à la production. Le post Circuits imprimés Multi-CB : la solution innovante...",
-      "published": "2026-05-05T06:41:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e0420b872f28ee0f28d3ee472f0e5bc2",
-      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-      "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
-      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains ...",
-      "published": "2026-05-05T06:35:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg"
-    },
-    {
-      "id": "82908bf109064e8b3f4cafcd3197b5ea",
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to comp...",
-      "published": "2026-05-04T18:06:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg"
-    },
-    {
-      "id": "7a2770a64dfcb3630bb35f624ff8f221",
-      "title": "La mise à jour Windows d’avril perturbe vos sauvegardes, voici les logiciels concernés",
-      "link": "https://www.it-connect.fr/la-mise-a-jour-windows-davril-perturbe-vos-sauvegardes-voici-les-logiciels-concernes/",
-      "summary": "Certaines applications de sauvegarde sont susceptibles de ne plus fonctionner sur Windows et Windows Server, suite à l'installation des correctifs d'avril 2026. Le post La mise à jour Windows d’avril perturbe vos sauv...",
-      "published": "2026-05-04T15:09:18+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b2f3cbbee4f06ef8bb9574e9cd6278bd",
-      "title": "ffmpeg-over-ip - Le transcodage GPU distant pour Jellyfin",
-      "link": "https://korben.info/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin.html",
-      "summary": "Jellyfin sans GPU, c'est la croix et la bannière dès que quelqu'un lance un film en 4K. Mais c'était sans compter sur ffmpeg-over-ip qui est capable de transformer un serveur équipé d'un GPU en endpoint de transcoding...",
-      "published": "2026-05-04T14:15:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin-1.png"
-    },
-    {
-      "id": "6923c8050ca23e804f2f37a07bcd752c",
-      "title": "Un robot qui construit des maisons en argile",
-      "link": "https://korben.info/terran-robotics-maisons-terre-robots-texas.html",
-      "summary": "Vous connaissez ICON, qui imprime des maisons en béton avec ses grosses machines ? Hé bien Terran Robotics fait en fait pareil, mais avec de la terre, ou plutôt avec l'argile extraite directement du terrain. Du coup ç...",
-      "published": "2026-05-04T13:26:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/terran-robotics-maisons-terre-robots-texas/terran-robotics-maisons-terre-robots-texas-1.jpeg"
-    },
-    {
-      "id": "3a83fbe76ee3dc346b01fe81c040e616",
-      "title": "Zxc, une bibliothèque de compression 2× plus rapide que LZ4",
-      "link": "https://korben.info/zxc-bibliotheque-compression-2x-rapide-lz4.html",
-      "summary": "Deux fois plus rapide que LZ4 en décompression ?? Ah bon c'est possible ? Évidemment, quand Bertrand Lebonnois a publié zxc sur GitHub , et m'a envoyé un email pour me prévenir, j'ai été jeter un œil, surtout aux benc...",
-      "published": "2026-05-04T11:56:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/zxc-bibliotheque-compression-2x-rapide-lz4/zxc-bibliotheque-compression-2x-rapide-lz4-1.png"
-    },
-    {
-      "id": "edf5dd259c147fe8735ca250b9f41705",
-      "title": "ReactOS, le clone open source de Windows, simplifie son installation",
-      "link": "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation.html",
-      "summary": "Trois décennies que ReactOS essaie de devenir un clone open source de Windows, et le projet vient de mettre en place deux changements assez gros pour mériter un coup d'œil. La 0.4.16 est entrée en phase finale cette s...",
-      "published": "2026-05-04T11:11:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation/reactos-le-clone-open-source-de-windows-simplifie-son-installation-1.png"
     },
     {
       "id": "338530c4749f5146bc0b01d7946e5373",
