@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-05T19:17:38.424342+00:00",
+  "last_updated": "2026-05-06T02:37:48.351937+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0f0fb3da4d09c9c1faeab79d732381b6",
+      "title": "New stealthy Quasar Linux malware targets software developers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "summary": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
+      "published": "2026-05-05T22:01:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1fba92e8c10c092367a530a4ba6f0af8",
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
+      "published": "2026-05-05T21:20:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f4e0f1ca1a764416a3d9fea2e34fd3df",
+      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+      "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
+      "published": "2026-05-05T19:21:18+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "21a61eec8df841291a0a6d898a8db696",
       "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
@@ -183,16 +213,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
     },
     {
-      "id": "8106a0745aaa0db933ca380db7d3a0a2",
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
-      "published": "2026-05-05T09:04:13+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "fca366094e2fc04523cd56a14d653a27",
       "title": "iOS 26.5 : vos messages RCS entre iPhone et Android seront enfin sécurisés",
       "link": "https://www.it-connect.fr/ios-26-5-vos-messages-rcs-entre-iphone-et-android-seront-enfin-securises/",
@@ -321,26 +341,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg"
-    },
-    {
-      "id": "4571b3a169172aab9368b3dc04b82b2f",
-      "title": "Weaver E-cology critical bug exploited in attacks since March",
-      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
-      "published": "2026-05-04T22:12:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "56461399de7c8ed72ddeeae38457c9bb",
-      "title": "Amazon SES increasingly abused in phishing to evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails that can bypass standard security filters and render reputation-ba...",
-      "published": "2026-05-04T20:03:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "82908bf109064e8b3f4cafcd3197b5ea",
