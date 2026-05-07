@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-07T14:02:13.737387+00:00",
+  "last_updated": "2026-05-07T19:41:04.994618+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d2a97b5b1eb5b5138627ee407ea1dfb5",
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+      "published": "2026-05-07T18:35:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d1fed97785db70a064d9370f6e2a8c41",
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
+      "published": "2026-05-07T18:00:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d97e5bce3512f6d07fb73e2ffad353d8",
+      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+      "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of impr...",
+      "published": "2026-05-07T17:55:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg"
+    },
+    {
+      "id": "9fb5a22901be96c03061be4f901bd39e",
+      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+      "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The tools...",
+      "published": "2026-05-07T17:45:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg"
+    },
+    {
+      "id": "17c7133b8c475ffb2390debbfdd0b4eb",
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "published": "2026-05-07T15:20:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "86a3f87377e4f24b88fb359e08a954eb",
+      "title": "vm2 : la célèbre sandbox Node.js affectée par une faille critique (CVE-2026-26956)",
+      "link": "https://www.it-connect.fr/vm2-la-celebre-sandbox-node-js-affectee-par-une-faille-critique-cve-2026-26956/",
+      "summary": "Nouvelle alerte du côté de Node.js : une faille de sécurité critique a été découverte dans la bibliothèque vm2 : protégez vos applications de la CVE-2026-26956. Le post vm2 : la célèbre sandbox Node.js affectée par un...",
+      "published": "2026-05-07T15:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ab7265dcfd9e1a0b143c6aed36b09430",
+      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
+      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+      "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
+      "published": "2026-05-07T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7131751416cdf923f58aa0b8c9dca444",
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 20...",
+      "published": "2026-05-07T13:50:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
+    },
     {
       "id": "8412a4e335525523fe83422107545e59",
       "title": "Americans sentenced for running 'laptop farms' for North Korea",
@@ -223,36 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg"
     },
     {
-      "id": "b97dfbd84fb2b7a5be125d8b0ac63320",
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
-      "published": "2026-05-06T18:38:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "72105c13d1b29da1eaa88efc42820f44",
-      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
-      "published": "2026-05-06T18:06:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "cdcc79577ded11ae1e949bc3071e2e7e",
-      "title": "DAEMON Tools devs confirm breach, release malware-free version",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
-      "published": "2026-05-06T16:43:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6f3866eab1024d0747d112e352cc5cf7",
       "title": "Proxmox VE – Protégez votre serveur et les VM avec le pare-feu natif",
       "link": "https://www.it-connect.fr/tuto-proxmox-ve-configurer-firewall/",
@@ -293,16 +343,6 @@
       "image": "https://korben.info/rockstar-hack-take-two-stock/rockstar-hack-take-two-stock-1.png"
     },
     {
-      "id": "f47540962dc7efe37e7c4becd8d9da5d",
-      "title": "Why ransomware attacks succeed even when backups exist",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
-      "published": "2026-05-06T14:04:14+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ee6257177cfa0f674222dfbbc7cb125f",
       "title": "Les Pays-Bas migrent leur code vers Forgejo et claquent la porte de GitHub",
       "link": "https://korben.info/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github.html",
@@ -333,16 +373,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg"
     },
     {
-      "id": "ad42ab322a5bc6d69817ed0c7896b01c",
-      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-      "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-      "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of le...",
-      "published": "2026-05-06T12:03:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Yg33sY2y1VE4mkNb135928ke63sPOMciQgxVLYK0vXlJfSbZPCF0Q2b6URj-uZG0YOarE7-_WKyEc2OTstYRdmcdOagHSWstqHftoc-rv7vWrKepoENsBmKnR7P9jqH6MK9z-oa3RpOks3HGTqafjHUrPp2t-Xny6btfsAMIBcPWPBXq0hZv2-7XrkE/s1600/the-hacker-news-cybersecurity-stars-awards-2026.jpg.jpg"
-    },
-    {
       "id": "7cc074879cacb8174c2cc6593a6cdc52",
       "title": "WorkBoy - Le PDA fantôme de la Game Boy",
       "link": "https://korben.info/workboy-game-boy-prototype-perdu-pda.html",
@@ -351,26 +381,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/workboy-game-boy-prototype-perdu-pda/workboy-game-boy-prototype-perdu-pda-1.jpg"
-    },
-    {
-      "id": "950e087388ab6f8176b156f3fd8f252e",
-      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-      "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states t...",
-      "published": "2026-05-06T10:57:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb87wroQ6p8nQAYNIPc9sSFlIxMecj9qcrm9KPOaAt0-DTof7kW6e6FCc1dmoBFrtyFcZQOhyphenhyphenupMl7E3GAv-6C-5OM3U3NkEo7fKnYw-SWnwzI-yDfsY4J5kM8jgqfIqoSxHp4GJpdjK9kosjlzftCwYxSsva4jnhPHH92FT5rppUXnxCnINf05kPSzb5G/s1600/Orchid.gif"
-    },
-    {
-      "id": "645081e76f351860106eb9ed05bb2460",
-      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
-      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended ...",
-      "published": "2026-05-06T09:13:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3jZdmrzsI_G2u8N5XuvPgzGCHzkTGTIPHZg7O6QMeciCwLNFKkNmxL0c6lZkA06Z0lN2JEpama8zVQuSL-nLLFOqhFyU6AVuYug-he692ziNQNCWxxJKE7YHB28bVu0owc6CiMS19lRL9sOc6yg6GSs9XmjB1PW26cLqISDSFwiE2eXHjQyAhk9T9gOTe/s1600/android-app.jpg"
     },
     {
       "id": "ca67d169c189aa66aa95cca9707aa708",
@@ -393,61 +403,91 @@
       "image": ""
     },
     {
-      "id": "75d34a53eed17e10d5cd15d703c9cb99",
-      "title": "Proton Mail déploie le chiffrement post-quantique : voici comment l’activer",
-      "link": "https://www.it-connect.fr/proton-mail-deploie-le-chiffrement-post-quantique-voici-comment-lactiver/",
-      "summary": "Tous les utilisateurs de Proton Mail peuvent désormais activer la protection post-quantique sur leur compte afin de protéger leurs e-mails des futures menaces. Le post Proton Mail déploie le chiffrement post-quantique...",
-      "published": "2026-05-06T04:59:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a517eda4f8012126e7742ac71fa09270",
-      "title": "Multiples vulnérabilités dans Xen (29 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0509/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité ...",
-      "published": "2026-04-29T00:00:00+00:00",
+      "id": "ba73db6f4dc7810eb61f910de4eb6965",
+      "title": "Vulnérabilité dans les produits Netgate (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0516/",
+      "summary": "Une vulnérabilité a été découverte dans les produits Netgate. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "published": "2026-04-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "00b10f299c9f84a069540598d9d14166",
-      "title": "Vulnérabilité dans Elastic Package Registry (29 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0511/",
-      "summary": "Une vulnérabilité a été découverte dans Elastic Package Registry. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la...",
-      "published": "2026-04-29T00:00:00+00:00",
+      "id": "ff5848dbe4e1c63586ef9ef138c2f016",
+      "title": "Multiples vulnérabilités dans Exim (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0524/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Exim. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spéci...",
+      "published": "2026-04-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "675a3934cec2ff9efbe9259dfb89b2f6",
-      "title": "Multiples vulnérabilités dans Moodle (29 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0508/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et une injection de req...",
-      "published": "2026-04-29T00:00:00+00:00",
+      "id": "a5337eee8eb910ae1a71cdc9da119566",
+      "title": "Multiples vulnérabilités dans Wireshark (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0518/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidential...",
+      "published": "2026-04-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "9c8da84afc97eae9018e61e152795f48",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (29 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0513/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-29T00:00:00+00:00",
+      "id": "0b1af3cb9523eed4f796bf20a4b58515",
+      "title": "Multiples vulnérabilités dans les produits IBM (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0523/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-04-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "e5a01a6581f90f40f374733b23504921",
-      "title": "Vulnérabilité dans Microsoft Edge (29 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0512/",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-29T00:00:00+00:00",
+      "id": "71c14545251864778a89013bebbbc031",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0521/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
+      "published": "2026-04-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4074914ebf79eb44acacf36da6628e92",
+      "title": "Multiples vulnérabilités dans MISP (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0515/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
+      "published": "2026-04-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "382414ed95380fac81276085227dd61a",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0522/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e...",
+      "published": "2026-04-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "17ed69675c008618134d84b04cbfe40b",
+      "title": "Multiples vulnérabilités dans les produits SonicWall (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0517/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "published": "2026-04-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5fe9bc095d994a1913e27739b838009a",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0520/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service et un problème de sécurité non spécifié par l'é...",
+      "published": "2026-04-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -458,46 +498,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0514/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Curl. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
       "published": "2026-04-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "16a62f00806a74a415e8edbc3cb67abd",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (29 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0507/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique...",
-      "published": "2026-04-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fa40126e3caa558982be5359f02cff47",
-      "title": "Multiples vulnérabilités dans Google Chrome (29 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0506/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "338530c4749f5146bc0b01d7946e5373",
-      "title": "Vulnérabilité dans Python (28 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0505/",
-      "summary": "Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-04-28T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "54e63cb175dc508788c264c3fc0be726",
-      "title": "Multiples vulnérabilités dans Google Chrome (23 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0487/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-04-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
