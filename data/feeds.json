@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-05-07T02:37:25.403916+00:00",
+  "last_updated": "2026-05-07T08:30:10.345065+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e1d5ce30a61945e3f38f3b6231367e14",
+      "title": "La Ville de Quiberon nouvelle victime du ransomware Qilin",
+      "link": "https://www.it-connect.fr/la-ville-de-quiberon-nouvelle-victime-du-ransomware-qilin/",
+      "summary": "Le dimanche 3 mai 2026, le système informatique de la municipalité de Quiberon a été frappé par une cyberattaque orchestrée par le ransomware Qilin. Le post La Ville de Quiberon nouvelle victime du ransomware Qilin a ...",
+      "published": "2026-05-07T07:46:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c04ddd420b928c652d0013172930e2ee",
+      "title": "Gemini Nano : Google Chrome déploie une IA de 4 Go, sans rien vous demander",
+      "link": "https://www.it-connect.fr/gemini-nano-google-chrome-deploie-une-ia-de-4-go-sans-rien-vous-demander/",
+      "summary": "Que ce soit sur macOS, Windows ou Linux, Google Chrome télécharge un modèle d'intelligence artificielle : Gemini Nano, d'une taille de 4 Go, sans votre accord. Le post Gemini Nano : Google Chrome déploie une IA de 4 G...",
+      "published": "2026-05-07T07:25:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "49541c4dd084942c659cde60d5d77799",
+      "title": "Surfshark sort Dausos : le protocole VPN qui pense enfin à vous",
+      "link": "https://korben.info/surfshark-sort-dausos.html",
+      "summary": "-- Article en partenariat avec Surfshark VPN -- On connaît tous les grands noms des protocoles VPN : WireGuard, OpenVPN, IKEv2 (Surfshark VPN utilise les 3). Ce sont des bêtes solides, mais elles ont au départ été pon...",
+      "published": "2026-05-07T07:25:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/surfshark-sort-dausos/surfshark-sort-dausos-1.webp"
+    },
+    {
+      "id": "67bc67df469bf7d7b09ade1d3ce69123",
+      "title": "Palo Alto Networks alerte sur une nouvelle zero-day déjà exploitée (CVE-2026-0300)",
+      "link": "https://www.it-connect.fr/palo-alto-networks-alerte-sur-une-nouvelle-zero-day-deja-exploitee-cve-2026-0300/",
+      "summary": "Palo Alto Networks (PAN-OS) : une faille de sécurité zero-day (CVE-2026-0300) exploitable sans authentification et déjà exploitée par des cybercriminels. Le post Palo Alto Networks alerte sur une nouvelle zero-day déj...",
+      "published": "2026-05-07T05:17:37+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "66fb729cb83a5e0f3a5892a6aa817f29",
+      "title": "WordPress : le plugin Slider Revolution doit être mis à jour (CVE-2026-6692)",
+      "link": "https://www.it-connect.fr/wordpress-le-plugin-slider-revolution-doit-etre-mis-a-jour-cve-2026-6692/",
+      "summary": "Une vulnérabilité a été corrigée dans Slider Revolution, un plugin WordPress. Elle permet un attaquant de compromettre totalement un site web. Le post WordPress : le plugin Slider Revolution doit être mis à jour (CVE-...",
+      "published": "2026-05-07T04:57:35+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "380054b122c7487b5bb71798c0437aa6",
+      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
+      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an o...",
+      "published": "2026-05-07T04:15:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg"
+    },
     {
       "id": "a6f1a6e8d5af8bc7ee5fabb3008ab18a",
       "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
@@ -273,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg"
     },
     {
-      "id": "8f680d32d5112ebe9c36d5722f6b6268",
-      "title": "Kawaii - La GameCube découpée au scalpel qui tient dans la poche",
-      "link": "https://korben.info/kawaii-gamecube-poche-mackie-kannard-smith.html",
-      "summary": "Mackie Kannard-Smith vient de sortir Kawaii , une GameCube qui tient dans un porte-clés avec une vraie carte mère Nintendo dedans. Pas d'émulation ni de Raspberry Pi déguisé mais juste du silicium d'origine charcuté à...",
-      "published": "2026-05-06T05:37:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/kawaii-gamecube-poche-mackie-kannard-smith/kawaii-gamecube-poche-mackie-kannard-smith-1.jpg"
-    },
-    {
       "id": "7f6328cebc4ed39818b8398526dcd608",
       "title": "DAEMON Tools : des milliers de PC infectés via les versions officielles",
       "link": "https://www.it-connect.fr/daemon-tools-des-milliers-de-pc-infectes-via-les-versions-officielles/",
@@ -343,61 +393,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQDcWhFHnIEeEngbqyPFjkweCMgT7FoZRRZV0WYRuHg1cHip2O0lw2ahMc7jhJnzOCqqrLhzpM9w-O3eLpVdiCvI4C3-RD6XwqTkDxWdhzkS-W2BsbLy_SFwnjykdvvhuhjGnwPkFpOSJiapeWULhqx9er8hDH0sCCtoK51OrH4nSYqc_oAZwILcOi1A2/s1600/daemon.jpg"
     },
     {
-      "id": "fcd6aafda1bffd005b507fe54fe7e110",
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe ...",
-      "published": "2026-05-05T14:19:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg"
-    },
-    {
       "id": "3c0c410800d66dab882c9caa193d6345",
       "title": "Un chercheur prouve que Microsoft Edge laisse fuiter vos mots de passe en mémoire",
       "link": "https://www.it-connect.fr/un-chercheur-prouve-que-microsoft-edge-laisse-fuiter-vos-mots-de-passe-en-memoire/",
       "summary": "Un chercheur a mis en lumière un problème de sécurité avec Microsoft Edge : le navigateur stockerait les mots de passe en clair dans la mémoire de Windows. Le post Un chercheur prouve que Microsoft Edge laisse fuiter ...",
       "published": "2026-05-05T12:22:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fca366094e2fc04523cd56a14d653a27",
-      "title": "iOS 26.5 : vos messages RCS entre iPhone et Android seront enfin sécurisés",
-      "link": "https://www.it-connect.fr/ios-26-5-vos-messages-rcs-entre-iphone-et-android-seront-enfin-securises/",
-      "summary": "La mise à jour iOS 26.5 va ajouter une nouveauté importante : le chiffrement de bout en bout pour les messages RCS entre iPhone et Android. Le post iOS 26.5 : vos messages RCS entre iPhone et Android seront enfin sécu...",
-      "published": "2026-05-05T07:57:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b09d0d19327ad0ad89ebe1455af95308",
-      "title": "Mises à jour Windows 11 : Microsoft force votre PC à redémarrer plusieurs fois ce mois-ci",
-      "link": "https://www.it-connect.fr/mises-a-jour-windows-11-microsoft-force-votre-pc-a-redemarrer-plusieurs-fois-ce-mois-ci/",
-      "summary": "Si votre PC sous Windows 11 redémarre plusieurs fois de suite après avoir installé les mises à jour d'avril : c'est normal et lié au Secure Boot. Le post Mises à jour Windows 11 : Microsoft force votre PC à redémarrer...",
-      "published": "2026-05-05T07:34:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "4b83f442b52e71797debb9254f1eb448",
-      "title": "Piratage DigiCert : des malwares signés à l’aide de certificats volés !",
-      "link": "https://www.it-connect.fr/piratage-digicert-des-malwares-signes-a-laide-de-certificats-voles/",
-      "summary": "Piratage de DigiCert : comment des cybercriminels ont volé des certificats EV pour signer des malwares. Ce que l'on sait sur cet incident de sécurité majeur. Le post Piratage DigiCert : des malwares signés à l’aide de...",
-      "published": "2026-05-05T06:42:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cfe40100c05c75430feaf42f033c74e3",
-      "title": "CopyFail sur Linux : les patchs de sécurité sont-ils disponibles ?",
-      "link": "https://www.it-connect.fr/copyfail-sur-linux-les-patchs-de-securite-sont-ils-disponibles/",
-      "summary": "Les patchs pour la CVE-2026-31431, alias CopyFail, sont-ils disponibles pour les distributions Linux : Debian, Ubuntu, RHEL, etc... Voici un récapitulatif. Le post CopyFail sur Linux : les patchs de sécurité sont-ils ...",
-      "published": "2026-05-05T06:42:10+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
