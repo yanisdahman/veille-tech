@@ -1,11 +1,91 @@
 {
-  "last_updated": "2026-05-08T13:26:58.934265+00:00",
+  "last_updated": "2026-05-08T19:16:58.100876+00:00",
   "count": 50,
   "articles": [
     {
-      "id": "0ad866c769edf368cd7381d58993aa87",
-      "title": "Trellix source code breach claimed by RansomHouse hackers or RansomHouse hackers claim Trellix source code breach",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers-or-ransomhouse-hackers-claim-trellix-source-code-breach/",
+      "id": "62dcd344e5e0fe4cf19831bf91613306",
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic S...",
+      "published": "2026-05-08T18:12:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg"
+    },
+    {
+      "id": "e001a1879b31d152c79b525690dd5b58",
+      "title": "Google Workspace CLI - Pour piloter tous les services Google avec votre IA",
+      "link": "https://korben.info/google-workspace-cli-gws-rust.html",
+      "summary": "Justin Poehnelt, Senior Developer Relations Engineer chez Google, vient de balancer sur Github un outil en ligne de commande (CLI), codé en Rust qui permet de faire un truc trop pratique, à savoir piloter entièrement ...",
+      "published": "2026-05-08T16:52:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-workspace-cli-gws-rust/google-workspace-cli-gws-rust-1.png"
+    },
+    {
+      "id": "744e0374afc3ffb40e13b57f81d0f54a",
+      "title": "Hash MD5 - 60% des mots de passe craqués en moins d'une heure",
+      "link": "https://korben.info/hash-md5-crackable-une-heure.html",
+      "summary": "60% des mots de passe hashés en MD5 peuvent être cassés en moins d'une heure... C'est ce que dit en tout cas une étude de Kaspersky publiée cette semaine qui se base sur +231 millions de mots de passe qu'on peut trouv...",
+      "published": "2026-05-08T16:52:38+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/hash-md5-crackable-une-heure/hash-md5-crackable-une-heure-1.png"
+    },
+    {
+      "id": "97572ef8a97f1a91d1e27d66cd767a4a",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+      "published": "2026-05-08T16:18:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "93f26edef037e0ce695ed0bd5e3a4bd5",
+      "title": "Comment installer Sync-in sur un NAS Synology ?",
+      "link": "https://www.it-connect.fr/tuto-installer-sync-in-sur-nas-synology/",
+      "summary": "Ce tutoriel explique comment installer Sync-in sur un NAS Synology à l'aide de Docker, en effectuant le lien avec les données existantes sur le NAS. Le post Comment installer Sync-in sur un NAS Synology ? a été publié...",
+      "published": "2026-05-08T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "222f76c94d005ace8115389c9754ec42",
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a s...",
+      "published": "2026-05-08T15:08:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg"
+    },
+    {
+      "id": "66b7b017fa4ebbb12ff9e53059e7dc4f",
+      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+      "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+      "published": "2026-05-08T14:02:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7131751416cdf923f58aa0b8c9dca444",
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 20...",
+      "published": "2026-05-08T14:01:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
+    },
+    {
+      "id": "b0769a6b144533edd474c41fa53b5115",
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
       "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
       "published": "2026-05-08T13:23:23+00:00",
       "source": "Bleeping Computer",
@@ -106,7 +186,7 @@
       "id": "99fd63caf972aae2ba5d2a0cecb0231e",
       "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
       "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+      "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
       "published": "2026-05-08T07:45:24+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
@@ -163,16 +243,6 @@
       "image": ""
     },
     {
-      "id": "d1fed97785db70a064d9370f6e2a8c41",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
-      "published": "2026-05-07T18:00:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d97e5bce3512f6d07fb73e2ffad353d8",
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
       "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
@@ -193,16 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg"
     },
     {
-      "id": "17c7133b8c475ffb2390debbfdd0b4eb",
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "published": "2026-05-07T15:20:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "86a3f87377e4f24b88fb359e08a954eb",
       "title": "vm2 : la célèbre sandbox Node.js affectée par une faille critique (CVE-2026-26956)",
       "link": "https://www.it-connect.fr/vm2-la-celebre-sandbox-node-js-affectee-par-une-faille-critique-cve-2026-26956/",
@@ -213,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "7131751416cdf923f58aa0b8c9dca444",
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 20...",
-      "published": "2026-05-07T13:50:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
-    },
-    {
       "id": "fc406a4972237c4f6c48afc909e3d3ac",
       "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
       "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
@@ -231,16 +281,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg"
-    },
-    {
-      "id": "190a0a39a4970892b08eeb7a37551269",
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "summary": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal...",
-      "published": "2026-05-07T11:33:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg"
     },
     {
       "id": "ed087d15e9bdb8653a3cce28e56973bc",
@@ -261,16 +301,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "aed4687a69ea2308f4f8f3e856ef1167",
-      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-      "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-      "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness deter...",
-      "published": "2026-05-07T10:54:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg"
     },
     {
       "id": "4c0c71411bbe1c78cb087d49bf7b32e4",
@@ -363,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "ab5c677509eb7896c7ecaa2908f8e746",
-      "title": "CloudZ RAT : ce malware espionne vos SMS via l’application Mobile Connecté de Windows",
-      "link": "https://www.it-connect.fr/cloudz-rat-ce-malware-espionne-vos-sms-via-lapplication-mobile-connecte-de-windows/",
-      "summary": "Une nouvelle menace cible l'application Mobile Connecté de Microsoft, utilisant CloudZ RAT et Pheno pour exfiltrer discrètement vos données mobiles sur Windows. Le post CloudZ RAT : ce malware espionne vos SMS via l’a...",
-      "published": "2026-05-06T15:41:14+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "54b2c3855e4a3701a8b402203009499a",
       "title": "Scattered Spider - Un cybercriminel arrêté à cause d'un collier en diamants",
       "link": "https://korben.info/scattered-spider-hack-planet-collier-arrete.html",
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/scattered-spider-hack-planet-collier-arrete/scattered-spider-hack-planet-collier-arrete-1.png"
-    },
-    {
-      "id": "88a006a0a77824f082083eede878b332",
-      "title": "Quand les hackers de Rockstar font monter l'action Take-Two",
-      "link": "https://korben.info/rockstar-hack-take-two-stock.html",
-      "summary": "Énorme retournement de situation. ShinyHunters, le groupe qui avait piraté Rockstar via Anodot mi-avril et exigé une rançon, a fini par balancer ses données sur internet quand l'éditeur a refusé de payer. Le but était...",
-      "published": "2026-05-06T14:35:20+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rockstar-hack-take-two-stock/rockstar-hack-take-two-stock-1.png"
-    },
-    {
-      "id": "ee6257177cfa0f674222dfbbc7cb125f",
-      "title": "Les Pays-Bas migrent leur code vers Forgejo et claquent la porte de GitHub",
-      "link": "https://korben.info/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github.html",
-      "summary": "Le gouvernement néerlandais a ouvert sa propre instance Forgejo à l'adresse code.overheid.nl, hébergée sur les serveurs de l'État via SSC-ICT (le service informatique mutualisé du gouvernement). L'idée dans cette déma...",
-      "published": "2026-05-06T13:54:42+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github-1.jpg"
     },
     {
       "id": "ba73db6f4dc7810eb61f910de4eb6965",
