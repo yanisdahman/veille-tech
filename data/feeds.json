@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-08T02:43:26.638709+00:00",
+  "last_updated": "2026-05-08T07:26:39.860935+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "bd486c4efda3c99b14021070f47381c0",
+      "title": "Dirty Frag : cette faille zero-day donne les droits root sur Linux",
+      "link": "https://www.it-connect.fr/dirty-frag-cette-faille-zero-day-donne-les-droits-root-sur-linux/",
+      "summary": "Alerte Zero-Day : la faille critique Dirty Frag permet d'obtenir les droits root sur Linux. Les patchs sont en attente : voici comment se protéger. Le post Dirty Frag : cette faille zero-day donne les droits root sur ...",
+      "published": "2026-05-08T05:41:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "823660b052d3534402a2eab6825babeb",
+      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
+      "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: ...",
+      "published": "2026-05-08T05:12:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif"
+    },
     {
       "id": "8df2331ef442bb744aabf274076ac652",
       "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
@@ -363,16 +383,6 @@
       "image": "https://korben.info/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5-1.jpg"
     },
     {
-      "id": "ecb3982310df51af3fa71b83ae14873f",
-      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The a...",
-      "published": "2026-05-06T13:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg"
-    },
-    {
       "id": "7cc074879cacb8174c2cc6593a6cdc52",
       "title": "WorkBoy - Le PDA fantôme de la Game Boy",
       "link": "https://korben.info/workboy-game-boy-prototype-perdu-pda.html",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/faille-apache-deux-simples-trames-suffisent-a-faire-un-deni-de-service-cve-2026-23918/",
       "summary": "Protégez vos serveurs Apache contre la faille CVE-2026-23918 dans le module HTTP/2. Cette vulnérabilité peut entraîner un DoS, et même une RCE. Le post Faille Apache : deux simples trames suffisent à faire un déni de ...",
       "published": "2026-05-06T07:41:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7f6328cebc4ed39818b8398526dcd608",
-      "title": "DAEMON Tools : des milliers de PC infectés via les versions officielles",
-      "link": "https://www.it-connect.fr/daemon-tools-des-milliers-de-pc-infectes-via-les-versions-officielles/",
-      "summary": "Depuis début avril 2026, les programmes d'installation de DAEMON Tools sont infectés par un logiciel malveillant suite à une attaque de type supply-chain. Le post DAEMON Tools : des milliers de PC infectés via les ver...",
-      "published": "2026-05-06T05:31:06+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
