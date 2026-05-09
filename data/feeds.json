@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-09T13:11:44.139251+00:00",
+  "last_updated": "2026-05-09T18:57:04.616054+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0c1e58039c984fa416e114682be1263b",
+      "title": "Forensic Windows – Partie 3 : surveiller l’exécution des programmes avec Prefetch",
+      "link": "https://www.it-connect.fr/forensic-windows-partie-3-surveiller-lexecution-des-programmes-avec-prefetch/",
+      "summary": "Maîtrisez l’utilisation du Prefetch dans Windows pour identifier les programmes exécutés, en exploitant des outils comme WinPrefetchView et PECmd. Le post Forensic Windows – Partie 3 : surveiller l’exécution des progr...",
+      "published": "2026-05-09T15:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4c60c8567b7ddc4f88e16b7779471ad0",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+      "published": "2026-05-09T14:26:03+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "cb24025d9fcfd497853b664863b2d0c1",
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -243,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "d2a97b5b1eb5b5138627ee407ea1dfb5",
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "published": "2026-05-07T18:35:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d97e5bce3512f6d07fb73e2ffad353d8",
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
       "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
@@ -378,16 +388,6 @@
       "link": "https://www.it-connect.fr/wordpress-le-plugin-slider-revolution-doit-etre-mis-a-jour-cve-2026-6692/",
       "summary": "Une vulnérabilité a été corrigée dans Slider Revolution, un plugin WordPress. Elle permet un attaquant de compromettre totalement un site web. Le post WordPress : le plugin Slider Revolution doit être mis à jour (CVE-...",
       "published": "2026-05-07T04:57:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6f3866eab1024d0747d112e352cc5cf7",
-      "title": "Proxmox VE – Protégez votre serveur et les VM avec le pare-feu natif",
-      "link": "https://www.it-connect.fr/tuto-proxmox-ve-configurer-firewall/",
-      "summary": "Apprenez à mettre en place des règles de filtrage sur Proxmox VE avec le pare-feu intégré, afin de protéger le serveur, les VM et les conteneurs. Le post Proxmox VE – Protégez votre serveur et les VM avec le pare-feu ...",
-      "published": "2026-05-06T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
