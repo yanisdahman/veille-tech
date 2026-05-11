@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-11T14:44:10.774769+00:00",
+  "last_updated": "2026-05-11T19:43:33.071517+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7a40a8bd8a4bcbbf8de901e43fa0d3ce",
+      "title": "ClaudeBleed : la faille dans l’extension Chrome d’Anthropic qui menace vos données",
+      "link": "https://www.it-connect.fr/claudebleed-la-faille-dans-extension-chrome-anthropic-qui-menace-vos-donnees/",
+      "summary": "ClaudeBleed, c'est le nom d'une faille critique découverte dans l'extension \"Claude in Chrome\" d'Anthropic. Quels sont les risques ? Voici l'essentiel à savoir. Le post ClaudeBleed : la faille dans l’extension Chrome ...",
+      "published": "2026-05-11T18:54:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6a3c9c72e133ee978e02b4b255f8dee4",
+      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0...",
+      "published": "2026-05-11T18:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0A3_8O89uC968dpFnFxE4v3J4fpr5nEqC-2QiSJ_rtZlgPocPYIaowCvCMeONhcrFiaoSdBVeNsuTa2ipAZZ3HBMUDcfO8DZ06pughteYJItHhMLeBr_jnfLL-5WX6xBE_EjIfPDGjCYyDCa6aImjimPNl7FtM1evdnTUVEk54x9pczRaFlmEZy1Cv8B/s1600/Jenkins.jpg"
+    },
+    {
+      "id": "d5bf3a7d9f74496a5c7d092aec428d77",
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-4...",
+      "published": "2026-05-11T17:54:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg"
+    },
+    {
+      "id": "dd7420a20c789b02c836416913256103",
+      "title": "Vente flash chez GoDeal24 : Windows 11 à partir de 12.25€",
+      "link": "https://www.it-connect.fr/bon-plan-les-licences-office-2021-et-windows-11-en-promotion/",
+      "summary": "Notre partenaire GoDeal24 propose une nouvelle salve de promotions sur les licences de produits Microsoft (Windows, Office, etc.) et d'autres logiciels. Le post Vente flash chez GoDeal24 : Windows 11 à partir de 12.25...",
+      "published": "2026-05-11T17:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "07fffeeac4f742d1b463798edc6d8202",
+      "title": "Le site officiel de JDownloader compromis pour diffuser un malware sur Windows et Linux",
+      "link": "https://www.it-connect.fr/le-site-officiel-de-jdownloader-compromis-pour-diffuser-un-malware-sur-windows-et-linux/",
+      "summary": "JDownloader a été victime d'une cyberattaque : les pirates sont parvenus à modifier les liens de téléchargements pour pointer vers des versions infectées. Le post Le site officiel de JDownloader compromis pour diffuse...",
+      "published": "2026-05-11T16:40:23+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9400fdba24456e92b1cb8a2da242f2cf",
+      "title": "Migration sur-place vers Windows Server 2025 via Windows Update : comment faire ?",
+      "link": "https://www.it-connect.fr/migration-sur-place-vers-windows-server-2025-via-windows-update-comment-faire/",
+      "summary": "Ce tutoriel explique comment migrer de Windows Server 2022 (ou 2019) vers Windows Server 2025 en effectuant la mise à niveau via Windows Update. Le post Migration sur-place vers Windows Server 2025 via Windows Update ...",
+      "published": "2026-05-11T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "abd9bac425bf8c85803f1c9e9cd64e38",
+      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+      "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has b...",
+      "published": "2026-05-11T15:45:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s1600/ai-hacker.jpg"
+    },
+    {
+      "id": "a352b15a3de37e0ce330bc6369bd6596",
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
+      "published": "2026-05-11T15:26:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "c2c7b7164ccb85b6c601cda83f7d9278",
       "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
@@ -303,36 +383,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg"
     },
     {
-      "id": "66b7b017fa4ebbb12ff9e53059e7dc4f",
-      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-      "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
-      "published": "2026-05-08T14:02:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7131751416cdf923f58aa0b8c9dca444",
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 20...",
-      "published": "2026-05-08T14:01:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
-    },
-    {
-      "id": "918c2a145a658bee5cb59688ea58d375",
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as c...",
-      "published": "2026-05-08T11:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiholjenZRIykmReErkRiguk5xd9RV4BIEEPM0nT-o3LvMvDkCTLpd3G0NpqDGEFHp-f6QyvGRMip6CBhGlllYVlp9wS3XBVoV6xW47CDka7Ig8S_aotcuNlmAv3SYgS4hJzxjLp2nrV4SzqlTXnQLG_w68Cq0Bf5hiOoV6CaN9QZliRDa-StzsvIkJAdSF/s1600/kube.jpg"
-    },
-    {
       "id": "fe17b24eddbfaa00db9e689ec5a44ddb",
       "title": "Test UGREEN Maxidok 10-en-1 : une station d’accueil pour tout brancher avec un seul câble",
       "link": "https://www.it-connect.fr/test-ugreen-maxidok-10-en-1-station-accueil-avis/",
@@ -343,61 +393,11 @@
       "image": ""
     },
     {
-      "id": "36f87d5021386c77b4bd8d96ecab614c",
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than ...",
-      "published": "2026-05-08T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaPw5V89Ez9z5x8eFLFOhwPphGqXDQVGfd2sI-pX9Q1XTcpYlWEhFiZ6o12fzAyvtCFDQ0zs4AFlHl4HJNnjWH8hUXM9r_-oBl7YMEnU1F41Ho7DL23NJbgG4M3eoqF6CTZWqFtFcw0gOB8QfkCPW1_xQ-HwmvWr3GMzEeRFbC8SLgG5LsdnopTAHDOs/s1600/ai-soc.jpg"
-    },
-    {
       "id": "bd486c4efda3c99b14021070f47381c0",
       "title": "Dirty Frag : cette faille zero-day donne les droits root sur Linux",
       "link": "https://www.it-connect.fr/dirty-frag-cette-faille-zero-day-donne-les-droits-root-sur-linux/",
       "summary": "Alerte Zero-Day : la faille critique Dirty Frag permet d'obtenir les droits root sur Linux. Les patchs sont en attente : voici comment se protéger. Le post Dirty Frag : cette faille zero-day donne les droits root sur ...",
       "published": "2026-05-08T05:41:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "86a3f87377e4f24b88fb359e08a954eb",
-      "title": "vm2 : la célèbre sandbox Node.js affectée par une faille critique (CVE-2026-26956)",
-      "link": "https://www.it-connect.fr/vm2-la-celebre-sandbox-node-js-affectee-par-une-faille-critique-cve-2026-26956/",
-      "summary": "Nouvelle alerte du côté de Node.js : une faille de sécurité critique a été découverte dans la bibliothèque vm2 : protégez vos applications de la CVE-2026-26956. Le post vm2 : la célèbre sandbox Node.js affectée par un...",
-      "published": "2026-05-07T15:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "364e568189b226dfd4a636d8f0c0aa97",
-      "title": "Le Mac Mini M4 est disponible à 654 euros : profitez-en !",
-      "link": "https://www.it-connect.fr/le-mac-mini-m4-est-disponible-a-654-euros-profitez-en/",
-      "summary": "Le Mac Mini d'entrée de gamme (M4, 16 Go de mémoire unifiée, 256 Go de stockage) est disponible à 654 euros : un bon plan vu la conjoncture actuelle. Le post Le Mac Mini M4 est disponible à 654 euros : profitez-en ! a...",
-      "published": "2026-05-07T11:15:38+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e1d5ce30a61945e3f38f3b6231367e14",
-      "title": "La Ville de Quiberon nouvelle victime du ransomware Qilin",
-      "link": "https://www.it-connect.fr/la-ville-de-quiberon-nouvelle-victime-du-ransomware-qilin/",
-      "summary": "Le dimanche 3 mai 2026, le système informatique de la municipalité de Quiberon a été frappé par une cyberattaque orchestrée par le ransomware Qilin. Le post La Ville de Quiberon nouvelle victime du ransomware Qilin a ...",
-      "published": "2026-05-07T07:46:58+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c04ddd420b928c652d0013172930e2ee",
-      "title": "Gemini Nano : Google Chrome déploie une IA de 4 Go, sans rien vous demander",
-      "link": "https://www.it-connect.fr/gemini-nano-google-chrome-deploie-une-ia-de-4-go-sans-rien-vous-demander/",
-      "summary": "Que ce soit sur macOS, Windows ou Linux, Google Chrome télécharge un modèle d'intelligence artificielle : Gemini Nano, d'une taille de 4 Go, sans votre accord. Le post Gemini Nano : Google Chrome déploie une IA de 4 G...",
-      "published": "2026-05-07T07:25:18+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
