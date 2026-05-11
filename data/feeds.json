@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-05-11T02:51:49.839397+00:00",
+  "last_updated": "2026-05-11T09:35:19.957160+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d0227b44e7a2a7a29e2ae8e9c264b07a",
+      "title": "Dusk - Zelda Twilight Princess en natif sur PC, Mac, Linux et mobile",
+      "link": "https://korben.info/dusk-port-natif-zelda-twilight-princess.html",
+      "summary": "Plus de 4 000 commits, 5 ans de décompilation acharnée, et selon l'équipe ZeldaRET le plus gros projet de reverse-engineering jamais bouclé sur un jeu Nintendo. Voilà tout ce qu'il a fallu à la team Twilit Realm pour ...",
+      "published": "2026-05-11T09:09:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dusk-port-natif-zelda-twilight-princess/dusk-port-natif-zelda-twilight-princess-1.jpeg"
+    },
+    {
+      "id": "be0d5fa266263d348b1cffdc4e7bbfb7",
+      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
+      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
+      "published": "2026-05-11T09:03:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cbac691d6738622180300be637137d2d",
+      "title": "Spotify génère maintenant vos podcasts tout seul",
+      "link": "https://korben.info/spotify-personal-podcasts-ia.html",
+      "summary": "Spotify vient d'annoncer un truc intéressant je trouve, qui s'appelle les Personal Podcasts. Le principe c'est de demander absolument tout ce que vous voulez, par exemple un podcast sur un cours que vous venez de suiv...",
+      "published": "2026-05-11T08:48:27+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/spotify-personal-podcasts-ia/spotify-personal-podcasts-ia-1.jpeg"
+    },
+    {
+      "id": "390996e4edfd2ea17a7f58d48011d802",
+      "title": "DATO Ares Q4 - Le SSD aimanté qui se colle partout",
+      "link": "https://korben.info/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup.html",
+      "summary": "Le truc cool avec un disque de backup, c'est quand vous arrêtez de le sortir du tiroir. Et c'est ce que permet de faire le DATO Ares Q4 (lien affilié) qui se trouve être aimanté et que je peux donc coller direct sur l...",
+      "published": "2026-05-11T08:09:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup-1.jpg"
+    },
+    {
+      "id": "04256b79b0c415c4a919f7f7ed19581b",
+      "title": "Claude Mythos et la faille FreeBSD : l’IA a-t-elle vraiment fait une découverte inédite ?",
+      "link": "https://www.it-connect.fr/claude-mythos-et-la-faille-freebsd-ia-a-t-elle-vraiment-fait-une-decouverte-inedite/",
+      "summary": "La vulnérabilité CVE-2026-4747 de FreeBSD, vieille de décennies, suggère que l’IA peut aussi recycler des failles existantes notamment via le pattern-matching. Le post Claude Mythos et la faille FreeBSD : l’IA a-t-ell...",
+      "published": "2026-05-11T07:57:37+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f83f1293db9579306740711fd122df31",
+      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
+      "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
+      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The p...",
+      "published": "2026-05-11T07:05:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPtLFShq_XoM9Nzsl5kmSsF2UGsm6VhRoLNodcqRCdq45zqy4ekFVtamokNzEFifQknD502Wc0uFTBUdvLsBsYn4QAeVHSWLmhF2ROBMXutev8T6JjCGrrarzLhkSTUHLBq-nEWrF0WTb2epkX_3Ba5a6Gv_21R7PPQ_zCjhk7OU702Y10tJkcJiYG52D4/s1600/hugging-face-malware.jpg"
+    },
+    {
+      "id": "6a9f6520fc8542a4a96e84bb0e5d088c",
+      "title": "Linux : Dell et Lenovo rejoignent le projet Linux Vendor Firmware Service",
+      "link": "https://www.it-connect.fr/linux-dell-et-lenovo-rejoignent-le-projet-linux-vendor-firmware-service/",
+      "summary": "L'adhésion de Lenovo et Dell au Linux Vendor Firmware Service est un nouveau signal positif aux utilisateurs de Linux envoyé par deux géants du PC. Le post Linux : Dell et Lenovo rejoignent le projet Linux Vendor Firm...",
+      "published": "2026-05-11T06:52:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "1a03553a70aa6c71fa2f692ba67bed28",
       "title": "Documents OVNI déclassifiés - 161 fichiers et zéro preuve",
@@ -253,16 +323,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaPw5V89Ez9z5x8eFLFOhwPphGqXDQVGfd2sI-pX9Q1XTcpYlWEhFiZ6o12fzAyvtCFDQ0zs4AFlHl4HJNnjWH8hUXM9r_-oBl7YMEnU1F41Ho7DL23NJbgG4M3eoqF6CTZWqFtFcw0gOB8QfkCPW1_xQ-HwmvWr3GMzEeRFbC8SLgG5LsdnopTAHDOs/s1600/ai-soc.jpg"
     },
     {
-      "id": "a2b1c3790e325325a70e574cc78d06b8",
-      "title": "Former govt contractor convicted for wiping dozens of federal databases",
-      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-      "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
-      "published": "2026-05-08T08:45:04+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ba358f1a15e9db02dabfbf02e5b70c94",
       "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
       "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
@@ -291,16 +351,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif"
-    },
-    {
-      "id": "d97e5bce3512f6d07fb73e2ffad353d8",
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of impr...",
-      "published": "2026-05-07T17:55:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg"
     },
     {
       "id": "86a3f87377e4f24b88fb359e08a954eb",
@@ -333,36 +383,6 @@
       "image": ""
     },
     {
-      "id": "4c0c71411bbe1c78cb087d49bf7b32e4",
-      "title": "Un hamster qui court dans une roue peut-il charger un téléphone ? Apparemment oui",
-      "link": "https://korben.info/un-hamster-qui-court-dans-une-roue-peut-il-charger-un-telephone-apparemment-oui.html",
-      "summary": "Le YouTubeur « Flamethrower » a documenté un projet aussi inutile que satisfaisant : utiliser un hamster comme source d'énergie pour charger son smartphone. Le principe est simple sur le papier. Vous prenez un hamster...",
-      "published": "2026-05-07T09:26:36+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-hamster-qui-court-dans-une-roue-peut-il-charger-un-telephone-apparemment-oui/un-hamster-qui-court-dans-une-roue-peut-il-charger-un-telephone-apparemment-oui-1.jpg"
-    },
-    {
-      "id": "ceba0c4970dece717982e778bef3bbbb",
-      "title": "Au Royaume-Uni, les enfants contournent la vérification d'âge avec des fausses moustaches dessinées",
-      "link": "https://korben.info/au-royaume-uni-les-enfants-contournent-la-verification-dage-avec-des-fausses-moustaches-dessinees.html",
-      "summary": "Le Royaume-Uni a mis en place via l'Online Safety Act un système de vérification d'âge obligatoire sur les plateformes accessibles aux mineurs, avec contrôles biométriques à la clé pour estimer l'âge à partir d'un sel...",
-      "published": "2026-05-07T08:39:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/au-royaume-uni-les-enfants-contournent-la-verification-dage-avec-des-fausses-moustaches-dessinees/au-royaume-uni-les-enfants-contournent-la-verification-dage-avec-des-fausses-moustaches-dessinees-1.jpg"
-    },
-    {
-      "id": "fef9ab82b29dbcaa3a41fcf952fd1e60",
-      "title": "GridTV, le guide TV open source pour votre setup IPTV",
-      "link": "https://korben.info/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv.html",
-      "summary": "Bon, maintenant que vous avez vos chaînes IPTV qui tournent via Tunarr ou xTeVe, votre flux XMLTV est super propre. Mais il vous manque un seul truc : Un guide de programme potable. Hé bien GridTV développé par l'ami ...",
-      "published": "2026-05-07T08:30:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv-1.png"
-    },
-    {
       "id": "e1d5ce30a61945e3f38f3b6231367e14",
       "title": "La Ville de Quiberon nouvelle victime du ransomware Qilin",
       "link": "https://www.it-connect.fr/la-ville-de-quiberon-nouvelle-victime-du-ransomware-qilin/",
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/gemini-nano-google-chrome-deploie-une-ia-de-4-go-sans-rien-vous-demander/",
       "summary": "Que ce soit sur macOS, Windows ou Linux, Google Chrome télécharge un modèle d'intelligence artificielle : Gemini Nano, d'une taille de 4 Go, sans votre accord. Le post Gemini Nano : Google Chrome déploie une IA de 4 G...",
       "published": "2026-05-07T07:25:18+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "67bc67df469bf7d7b09ade1d3ce69123",
-      "title": "Palo Alto Networks alerte sur une nouvelle zero-day déjà exploitée (CVE-2026-0300)",
-      "link": "https://www.it-connect.fr/palo-alto-networks-alerte-sur-une-nouvelle-zero-day-deja-exploitee-cve-2026-0300/",
-      "summary": "Palo Alto Networks (PAN-OS) : une faille de sécurité zero-day (CVE-2026-0300) exploitable sans authentification et déjà exploitée par des cybercriminels. Le post Palo Alto Networks alerte sur une nouvelle zero-day déj...",
-      "published": "2026-05-07T05:17:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "66fb729cb83a5e0f3a5892a6aa817f29",
-      "title": "WordPress : le plugin Slider Revolution doit être mis à jour (CVE-2026-6692)",
-      "link": "https://www.it-connect.fr/wordpress-le-plugin-slider-revolution-doit-etre-mis-a-jour-cve-2026-6692/",
-      "summary": "Une vulnérabilité a été corrigée dans Slider Revolution, un plugin WordPress. Elle permet un attaquant de compromettre totalement un site web. Le post WordPress : le plugin Slider Revolution doit être mis à jour (CVE-...",
-      "published": "2026-05-07T04:57:35+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
