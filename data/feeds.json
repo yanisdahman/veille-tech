@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-05-12T02:43:38.376131+00:00",
+  "last_updated": "2026-05-12T08:35:59.001097+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e001878a3abc8cdd7fbe526afbd90459",
+      "title": "Termix - L'alternative open source et gratuite à Termius",
+      "link": "https://korben.info/termix-lalternative-open-source-et-gratuite-a-termius.html",
+      "summary": "Si vous cherchez une alternative à Termius qui ne vous coûte pas une petite couille, je crois que j'ai trouvé ce qu'il vous faut ! C'est vrai qu'il y a quelque chose de carrément agréable à pouvoir ouvrir un navigateu...",
+      "published": "2026-05-12T08:24:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/termix-lalternative-open-source-et-gratuite-a-termius/termix-lalternative-open-source-et-gratuite-a-termius-1.png"
+    },
+    {
+      "id": "c3306e513aa05956a1098606889d0ce4",
+      "title": "Des faux installateurs Claude Code se baladent dans Google",
+      "link": "https://korben.info/des-faux-installateurs-claude-code-se-baladent-dans-google.html",
+      "summary": "Des faux installateurs Claude Code se baladent dans Google Les chercheurs d'Ontinue, une boîte de cybersécurité, ont publié une analyse d'une campagne de vol de données qui vise directement les développeurs. La méthod...",
+      "published": "2026-05-12T08:09:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/des-faux-installateurs-claude-code-se-baladent-dans-google/des-faux-installateurs-claude-code-se-baladent-dans-google-1.jpg"
+    },
+    {
+      "id": "20924558339855ca932aeebbe022a5d1",
+      "title": "Taggez vos photos avec de l'IA en local",
+      "link": "https://korben.info/photo-folder-tagger.html",
+      "summary": "Tagger des milliers de photos à la main, c'est le genre de corvée qu'on remet tous à plus tard depuis des années. Mais c'était sans compter sur photo-folder-tagger de Laurent Voillot qui règle ça grâce à 6 modes IA sp...",
+      "published": "2026-05-12T08:08:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/photo-folder-tagger/photo-folder-tagger-1.png"
+    },
+    {
+      "id": "bb38ccf8b8fd6aad9637f0deec536df4",
+      "title": "pstop - Le vrai htop natif pour Windows",
+      "link": "https://korben.info/pstop-le-vrai-htop-natif-pour-windows.html",
+      "summary": "Y'a des gens trop habitués à Linux, qui tapent htop par réflexe alors que sous Windows, la commande ne fait rien. Pour que ça fonctionne, faut installer WSL, configurer un sous-système Linux entier, et tout ça juste p...",
+      "published": "2026-05-12T07:49:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pstop-le-vrai-htop-natif-pour-windows/pstop-le-vrai-htop-natif-pour-windows-1.png"
+    },
+    {
+      "id": "4495079a3c02a8e4f04a6c9112b1ed73",
+      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+      "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak st...",
+      "published": "2026-05-12T07:37:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1600/ransom-breach.jpg"
+    },
+    {
+      "id": "795a6f483b5a593cad022b24d4e0bfbe",
+      "title": "CopyFail, Dirty Frag : un mainteneur propose d’ajouter un kill switch à Linux",
+      "link": "https://www.it-connect.fr/copyfail-dirty-frag-un-mainteneur-propose-dajouter-un-kill-switch-a-linux/",
+      "summary": "Un kill switch dans le noyau Linux pourrait désactiver des fonctions vulnérables, renforçant la sécurité en attendant un correctif pour une faille de sécurité. Le post CopyFail, Dirty Frag : un mainteneur propose d’aj...",
+      "published": "2026-05-12T07:19:09+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e9c44cd7fa42234aafe7525e3bc0b383",
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities be...",
+      "published": "2026-05-12T06:55:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1600/openai-daybreak.jpg"
+    },
+    {
+      "id": "0001dd8d3e30d8bb2d25c8c753c51fd8",
+      "title": "Mozilla Firefox : 423 failles de sécurité corrigées en avril 2026, merci l’IA !",
+      "link": "https://www.it-connect.fr/mozilla-firefox-423-failles-de-securite-corrigees-en-avril-2026-merci-lia/",
+      "summary": "423 failles de sécurité ont été corrigées dans le navigateur web Mozilla Firefox en avril 2026, grâce à l'utilisation de l'IA, notamment Claude Mythos. Le post Mozilla Firefox : 423 failles de sécurité corrigées en av...",
+      "published": "2026-05-12T06:22:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8023e3cb58da547645184efbe626f3f4",
+      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
+      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
+      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secur...",
+      "published": "2026-05-12T05:18:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg"
+    },
+    {
+      "id": "0b2035be4858967fe4301a2df95b6b18",
+      "title": "macOS 27 menace les Time Capsule d’Apple, mais TimeCapsuleSMB est là pour les sauver !",
+      "link": "https://www.it-connect.fr/macos-27-menace-les-time-capsule-timecapsulesmb-est-la-pour-les-sauver/",
+      "summary": "macOS 27 sonne la fin de l'AFP, menaçant vos Apple Time Capsules. Découvrez TimeCapsuleSMB, le projet open source qui va sauver vos boîtiers de sauvegardes. Le post macOS 27 menace les Time Capsule d’Apple, mais TimeC...",
+      "published": "2026-05-12T04:55:52+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "99d6da537ade4ebb1af843d1295ac359",
       "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
@@ -136,7 +236,7 @@
       "id": "154750fe64e2af120f43744993985bab",
       "title": "Robots chiens Unitree - La backdoor que personne ne corrige",
       "link": "https://korben.info/unitree-robots-chiens-backdoor.html",
-      "summary": "Si vous croisez un robot-chien Unitree dans un hall d'HLM, sur un parking, un chantier, ou en train de patrouiller dansv otre ville, faut que vous sachiez 2 trucs quand même : Un, n'importe qui peut le rooter en moins...",
+      "summary": "Si vous croisez un robot-chien Unitree dans un hall d'HLM, sur un parking, un chantier, ou en train de patrouiller dans votre ville, faut que vous sachiez 2 trucs quand même : Un, n'importe qui peut le rooter en moins...",
       "published": "2026-05-11T13:40:38+00:00",
       "source": "Korben",
       "category": "outils",
@@ -243,16 +343,6 @@
       "image": "https://korben.info/spotify-personal-podcasts-ia/spotify-personal-podcasts-ia-1.jpeg"
     },
     {
-      "id": "390996e4edfd2ea17a7f58d48011d802",
-      "title": "DATO Ares Q4 - Le SSD aimanté qui se colle partout",
-      "link": "https://korben.info/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup.html",
-      "summary": "Le truc cool avec un disque de backup, c'est quand vous arrêtez de le sortir du tiroir. Et c'est ce que permet de faire le DATO Ares Q4 (lien affilié) qui se trouve être aimanté et que je peux donc coller direct sur l...",
-      "published": "2026-05-11T08:09:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup-1.jpg"
-    },
-    {
       "id": "04256b79b0c415c4a919f7f7ed19581b",
       "title": "Claude Mythos et la faille FreeBSD : l’IA a-t-elle vraiment fait une découverte inédite ?",
       "link": "https://www.it-connect.fr/claude-mythos-et-la-faille-freebsd-ia-a-t-elle-vraiment-fait-une-decouverte-inedite/",
@@ -283,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "1a03553a70aa6c71fa2f692ba67bed28",
-      "title": "Documents OVNI déclassifiés - 161 fichiers et zéro preuve",
-      "link": "https://korben.info/ovnis-declassifies-pentagone-mai-2026.html",
-      "summary": "J'sais pas si vous avez vu mais le Pentagone vient de balancer 161 documents OVNI déclassifiés sur ordre de ce bon vieux Trump ! Pete Hegseth, le secrétaire à la Défense (ou à la Guerre, j'sais plus comment on dit) a ...",
-      "published": "2026-05-10T18:45:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ovnis-declassifies-pentagone-mai-2026/ovnis-declassifies-pentagone-mai-2026-1.png"
-    },
-    {
       "id": "1b7ffe155571c1b73c9f19cbf977eda3",
       "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
@@ -301,16 +381,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "1890d2e8f4d50cd7ddaf14493d859a06",
-      "title": "GitHub commit spoofing - Quand n'importe qui peut être Linus",
-      "link": "https://korben.info/github-commit-spoofing-tutoriel.html",
-      "summary": "Vous avez confiance dans le nom qui est affiché à côté d'un commit GitHub ? Bah vous pouvez arrêter tout de suite car le chercheur Shani Lavi a documenté il y a quelques années ce que les devs Git sérieux savent depui...",
-      "published": "2026-05-10T16:06:20+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/github-commit-spoofing-tutoriel/github-commit-spoofing-tutoriel-1.png"
     },
     {
       "id": "1a75c2816f603ccee1ca17e7922a2288",
@@ -331,76 +401,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
-    },
-    {
-      "id": "0c1e58039c984fa416e114682be1263b",
-      "title": "Forensic Windows – Partie 3 : surveiller l’exécution des programmes avec Prefetch",
-      "link": "https://www.it-connect.fr/forensic-windows-partie-3-surveiller-lexecution-des-programmes-avec-prefetch/",
-      "summary": "Maîtrisez l’utilisation du Prefetch dans Windows pour identifier les programmes exécutés, en exploitant des outils comme WinPrefetchView et PECmd. Le post Forensic Windows – Partie 3 : surveiller l’exécution des progr...",
-      "published": "2026-05-09T15:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cb24025d9fcfd497853b664863b2d0c1",
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-      "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabili...",
-      "published": "2026-05-09T07:16:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
-    },
-    {
-      "id": "62dcd344e5e0fe4cf19831bf91613306",
-      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic S...",
-      "published": "2026-05-08T18:12:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg"
-    },
-    {
-      "id": "e001a1879b31d152c79b525690dd5b58",
-      "title": "Google Workspace CLI - Pour piloter tous les services Google avec votre IA",
-      "link": "https://korben.info/google-workspace-cli-gws-rust.html",
-      "summary": "Justin Poehnelt, Senior Developer Relations Engineer chez Google, vient de balancer sur Github un outil en ligne de commande (CLI), codé en Rust qui permet de faire un truc trop pratique, à savoir piloter entièrement ...",
-      "published": "2026-05-08T16:52:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/google-workspace-cli-gws-rust/google-workspace-cli-gws-rust-1.png"
-    },
-    {
-      "id": "93f26edef037e0ce695ed0bd5e3a4bd5",
-      "title": "Comment installer Sync-in sur un NAS Synology ?",
-      "link": "https://www.it-connect.fr/tuto-installer-sync-in-sur-nas-synology/",
-      "summary": "Ce tutoriel explique comment installer Sync-in sur un NAS Synology à l'aide de Docker, en effectuant le lien avec les données existantes sur le NAS. Le post Comment installer Sync-in sur un NAS Synology ? a été publié...",
-      "published": "2026-05-08T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "222f76c94d005ace8115389c9754ec42",
-      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a s...",
-      "published": "2026-05-08T15:08:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg"
-    },
-    {
-      "id": "fe17b24eddbfaa00db9e689ec5a44ddb",
-      "title": "Test UGREEN Maxidok 10-en-1 : une station d’accueil pour tout brancher avec un seul câble",
-      "link": "https://www.it-connect.fr/test-ugreen-maxidok-10-en-1-station-accueil-avis/",
-      "summary": "Découvrez le Maxidok 10-en-1 d'UGREEN : une station d'accueil robuste, offrant une connectivité étendue pour MacBook et laptops Windows. Le post Test UGREEN Maxidok 10-en-1 : une station d’accueil pour tout brancher a...",
-      "published": "2026-05-08T11:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "61a15db0b2271339e06f389b306db82f",
