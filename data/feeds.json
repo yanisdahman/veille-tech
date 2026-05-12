@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-11T19:43:33.071517+00:00",
+  "last_updated": "2026-05-12T02:43:38.376131+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "99d6da537ade4ebb1af843d1295ac359",
+      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
+      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+      "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
+      "published": "2026-05-11T22:40:34+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "71694a1c429e388c5facbfda21ed5eac",
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+      "published": "2026-05-11T22:03:06+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5544b541a4a24180baca73aee629217f",
+      "title": "New GhostLock tool abuses Windows API to block file access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares....",
+      "published": "2026-05-11T22:02:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f5ce0745ea1e86fa8e3dc4b2d9bccb34",
+      "title": "Google Chrome 148 : cette version historique corrige 127 vulnérabilités",
+      "link": "https://www.it-connect.fr/google-chrome-148-cette-version-historique-corrige-127-vulnerabilites/",
+      "summary": "Google a publié Chrome 148, la nouvelle version stable de son navigateur web, et elle a une particularité : elle permet de corriger 127 failles de sécurité. Le post Google Chrome 148 : cette version historique corrige...",
+      "published": "2026-05-11T21:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "7a40a8bd8a4bcbbf8de901e43fa0d3ce",
       "title": "ClaudeBleed : la faille dans l’extension Chrome d’Anthropic qui menace vos données",
@@ -293,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
     },
     {
-      "id": "b2d4ac66b1656fbcb69507582158a263",
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access tr...",
-      "published": "2026-05-09T19:27:58+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "0c1e58039c984fa416e114682be1263b",
       "title": "Forensic Windows – Partie 3 : surveiller l’exécution des programmes avec Prefetch",
       "link": "https://www.it-connect.fr/forensic-windows-partie-3-surveiller-lexecution-des-programmes-avec-prefetch/",
@@ -310,16 +340,6 @@
       "published": "2026-05-09T15:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "4c60c8567b7ddc4f88e16b7779471ad0",
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
-      "published": "2026-05-09T14:26:03+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -353,16 +373,6 @@
       "image": "https://korben.info/google-workspace-cli-gws-rust/google-workspace-cli-gws-rust-1.png"
     },
     {
-      "id": "97572ef8a97f1a91d1e27d66cd767a4a",
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-      "published": "2026-05-08T16:18:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "93f26edef037e0ce695ed0bd5e3a4bd5",
       "title": "Comment installer Sync-in sur un NAS Synology ?",
       "link": "https://www.it-connect.fr/tuto-installer-sync-in-sur-nas-synology/",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/test-ugreen-maxidok-10-en-1-station-accueil-avis/",
       "summary": "Découvrez le Maxidok 10-en-1 d'UGREEN : une station d'accueil robuste, offrant une connectivité étendue pour MacBook et laptops Windows. Le post Test UGREEN Maxidok 10-en-1 : une station d’accueil pour tout brancher a...",
       "published": "2026-05-08T11:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bd486c4efda3c99b14021070f47381c0",
-      "title": "Dirty Frag : cette faille zero-day donne les droits root sur Linux",
-      "link": "https://www.it-connect.fr/dirty-frag-cette-faille-zero-day-donne-les-droits-root-sur-linux/",
-      "summary": "Alerte Zero-Day : la faille critique Dirty Frag permet d'obtenir les droits root sur Linux. Les patchs sont en attente : voici comment se protéger. Le post Dirty Frag : cette faille zero-day donne les droits root sur ...",
-      "published": "2026-05-08T05:41:53+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
