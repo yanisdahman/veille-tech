@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-05-13T08:41:15.372606+00:00",
+  "last_updated": "2026-05-13T14:27:41.963786+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8d8a624b659d1d5813988e8172ef0381",
+      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+      "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part ...",
+      "published": "2026-05-13T13:46:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
+    },
+    {
+      "id": "25bbf7c894932774294e631de9d867b2",
+      "title": "Wazuh – CVE-2026-30893 : un patch est disponible pour cette faille critique",
+      "link": "https://www.it-connect.fr/wazuh-cve-2026-30893-un-patch-est-disponible-pour-cette-faille-critique/",
+      "summary": "Une faille de sécurité critique, associée à la référence CVE-2026-30893 et affichant un score CVSS de 9.9, vient d'être révélée au sein de Wazuh. Le post Wazuh – CVE-2026-30893 : un patch est disponible pour cette fai...",
+      "published": "2026-05-13T13:36:13+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8af48b117494159a5deb22ebac9d21e4",
+      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+      "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its...",
+      "published": "2026-05-13T13:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
+    },
+    {
+      "id": "cae119b2f9ca98af042eb878cd0310cc",
+      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
+      "published": "2026-05-13T12:49:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3fc399aa286866b934d58a9e7a53425c",
+      "title": "Proton Pass : ce que révèle le nouvel audit de sécurité indépendant",
+      "link": "https://www.it-connect.fr/proton-pass-ce-que-revele-le-nouvel-audit-de-securite-independant/",
+      "summary": "Le gestionnaire de mots de passe Proton Pass est-il sécurisé ? Un nouveau rapport d'audit mais en lumière des vulnérabilités désormais corrigées. Le post Proton Pass : ce que révèle le nouvel audit de sécurité indépen...",
+      "published": "2026-05-13T12:33:24+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "553c7e93b3729514eac12c36d79a3a33",
+      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+      "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
+      "published": "2026-05-13T12:30:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d1674507a748d51be3bedd0cd575d1c9",
+      "title": "OpenZFS 2.4.2 sort avec le support du noyau Linux 7.0",
+      "link": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0.html",
+      "summary": "OpenZFS 2.4.2 est sortie ce 12 mai, et c'est une mise à jour qu'attendaient pas mal de gens qui font tourner du Linux 7.0 (le tout dernier noyau Linux stable). OpenZFS, pour ceux qui ne suivent pas, c'est le portage l...",
+      "published": "2026-05-13T12:15:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0-1.jpg"
+    },
+    {
+      "id": "326907f0c56cccb468fd5cb81dc3716d",
+      "title": "Microsoft says some users can't install Office on Windows 365 devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
+      "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
+      "published": "2026-05-13T11:53:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8bbeec5d24c904ed83f5a97a22c5b71c",
+      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+      "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Bri...",
+      "published": "2026-05-13T11:52:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-X1ZWS1wjhotRXh44H3uH6bxJmz3fwKA9tFIuYxCVV_b_BhzNKscxBa_St0ybBNSIpHYTlgBf0YvsuY1B2FUJebmGwtpkgeDh7DutT4ERpurg_iRTfDNbyWWzFOt5Z8PLGDu-kywwNTPdNVK_UDcAC8ZzdFCry5xDvx8c8l9QtNJKk6J4ZQVRIpvAfzwf/s1600/wiz.jpg"
+    },
+    {
+      "id": "1077417f5cec9762de1f38ddd958849a",
+      "title": "Il essaye de réparer une GoPro Hero 10, et c'est l'enfer",
+      "link": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer.html",
+      "summary": "Hugh Jeffreys , le YouTuber australien qui démonte tout ce qu'il trouve, s'est attaqué cette fois à une GoPro Hero 10 achetée 100 dollars avec un message d'erreur \"no camera input\". Traduction : la caméra ne reçoit pl...",
+      "published": "2026-05-13T11:45:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer-1.jpg"
+    },
+    {
+      "id": "20f2c0420d4368c6932b1663df79eda2",
+      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negat...",
+      "published": "2026-05-13T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
+    },
+    {
+      "id": "81db5c61776bda6fd8bc76c5470ee726",
+      "title": "Magic Pointer, le pointeur de souris pensé par Google DeepMind",
+      "link": "https://korben.info/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind.html",
+      "summary": "Du côté de Google DeepMind, on s'amuse à réinventer le pointeur de souris. Le projet s'appelle Magic Pointer, c'est un pointeur piloté par Gemini (le modèle d'IA maison de Google) qui comprend ce que vous désignez à l...",
+      "published": "2026-05-13T11:18:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind-1.jpg"
+    },
+    {
+      "id": "0eff777ecff575c4680c0e9d23856b33",
+      "title": "Des utilisateurs Google Cloud facturés des milliers de dollars par erreur",
+      "link": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur.html",
+      "summary": "Un truc franchement rageant remonte du côté de chez Google Cloud, et c'est The Register qui a mené l'enquête. Plusieurs développeurs ont vu leur facture Google Cloud exploser entre 3000 et 10000 dollars en quelques mi...",
+      "published": "2026-05-13T10:57:54+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur-1.jpg"
+    },
+    {
+      "id": "3f18f8cc56afaf15746bf587d1b026ee",
+      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Cr...",
+      "published": "2026-05-13T10:36:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
+    },
     {
       "id": "66bc15ace69ee7e484b36a8a4c58065f",
       "title": "Retyc : une alternative française à WeTransfer, chiffrée et sans IA",
@@ -11,6 +151,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "89dd4f6dd6fa620213b641a7f196a0af",
+      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+      "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than fo...",
+      "published": "2026-05-13T08:08:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg"
     },
     {
       "id": "cfb5bf703e596d75c4238f39a3cc7bb8",
@@ -163,36 +313,6 @@
       "image": ""
     },
     {
-      "id": "eebcadf82da7bfb5d3242f70ff3b480c",
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
-      "published": "2026-05-12T18:08:06+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "709d4ab6dc3627da00c087cb077d61d8",
-      "title": "Škoda warns of customer data breach after online shop hack",
-      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
-      "published": "2026-05-12T17:07:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0bd2b00acf953d02e77176f6bba84fe5",
-      "title": "Android 17 to expand banking scam call and privacy protections",
-      "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
-      "published": "2026-05-12T17:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ff0443b2d33a5b2c9e6fedd02dd17e6a",
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
       "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
@@ -233,26 +353,6 @@
       "image": "https://korben.info/le-fisher-price-pixter-ressuscite/le-fisher-price-pixter-ressuscite-1.jpg"
     },
     {
-      "id": "3ff802118e9db50a6265caffd53c4490",
-      "title": "Google neutralise la première cyber-attaque massive générée par une IA",
-      "link": "https://korben.info/google-neutralise-la-premiere-cyber-attaque-massive-generee-par-une-ia.html",
-      "summary": "Google a balancé l'info via son équipe cyberdéfense, le GTIG (Google Threat Intelligence Group). Des cybercriminels ont utilisé une IA générative pour dénicher et écrire un code d'attaque exploitant une faille inconnu...",
-      "published": "2026-05-12T13:49:10+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/google-neutralise-la-premiere-cyber-attaque-massive-generee-par-une-ia/google-neutralise-la-premiere-cyber-attaque-massive-generee-par-une-ia-1.jpg"
-    },
-    {
-      "id": "4ee35b84bdda497c4e4114abfa909124",
-      "title": "Vos câbles fibre optique peuvent servir à vous espionner, et ça marche très bien",
-      "link": "https://korben.info/vos-cables-fibre-optique-peuvent-servir-a-vous-espionner-et-ca-marche-tres-bien.html",
-      "summary": "Une fibre optique de télécom standard, celle qui passe peut-être à quelques mètres de votre bureau en ce moment, peut être transformée en microphone à distance. C'est ce qu'ont démontré des chercheurs à la conférence ...",
-      "published": "2026-05-12T13:08:30+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/vos-cables-fibre-optique-peuvent-servir-a-vous-espionner-et-ca-marche-tres-bien/vos-cables-fibre-optique-peuvent-servir-a-vous-espionner-et-ca-marche-tres-bien-1.jpg"
-    },
-    {
       "id": "47a569615bad53fea218b9dd2e077f1f",
       "title": "Nouveautés Intune : SSO pour Linux, meilleur inventaire des applis sur Windows, etc…",
       "link": "https://www.it-connect.fr/microsoft-intune-les-nouveautes-avril-2026/",
@@ -273,66 +373,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg"
     },
     {
-      "id": "7713ad0b4e94e31678e4302409352975",
-      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
-      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
-      "summary": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is in...",
-      "published": "2026-05-12T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg"
-    },
-    {
-      "id": "a64d643b4e48f2c6b730b70c8e27e3d6",
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh ...",
-      "published": "2026-05-12T11:46:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg"
-    },
-    {
-      "id": "11f380113636a764307aaedfada2b6fb",
-      "title": "Why Agentic AI Is Security's Next Blind Spot",
-      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
-      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. ...",
-      "published": "2026-05-12T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg"
-    },
-    {
-      "id": "752a0619eff193a4324929bb7be948ac",
-      "title": "Plus de confort de lecture sur Korben",
-      "link": "https://korben.info/accessibilite-confort-lecture-dyslexie.html",
-      "summary": "Je viens de pousser en prod une fonctionnalité sur laquelle je bosse depuis quelques temps et comme je suis content du résultat, c'est le moment de partager ça avec vous. En haut à gauche du site, juste à côté de l'ic...",
-      "published": "2026-05-12T10:14:45+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/accessibilite-confort-lecture-dyslexie/accessibilite-confort-lecture-dyslexie-1.png"
-    },
-    {
-      "id": "e001878a3abc8cdd7fbe526afbd90459",
-      "title": "Termix - L'alternative open source et gratuite à Termius",
-      "link": "https://korben.info/termix-lalternative-open-source-et-gratuite-a-termius.html",
-      "summary": "Si vous cherchez une alternative à Termius qui ne vous coûte pas une petite couille, je crois que j'ai trouvé ce qu'il vous faut ! C'est vrai qu'il y a quelque chose de carrément agréable à pouvoir ouvrir un navigateu...",
-      "published": "2026-05-12T08:24:28+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/termix-lalternative-open-source-et-gratuite-a-termius/termix-lalternative-open-source-et-gratuite-a-termius-1.png"
-    },
-    {
-      "id": "4495079a3c02a8e4f04a6c9112b1ed73",
-      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
-      "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
-      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak st...",
-      "published": "2026-05-12T07:37:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1600/ransom-breach.jpg"
-    },
-    {
       "id": "795a6f483b5a593cad022b24d4e0bfbe",
       "title": "CopyFail, Dirty Frag : un mainteneur propose d’ajouter un kill switch à Linux",
       "link": "https://www.it-connect.fr/copyfail-dirty-frag-un-mainteneur-propose-dajouter-un-kill-switch-a-linux/",
@@ -341,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "e9c44cd7fa42234aafe7525e3bc0b383",
-      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-      "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities be...",
-      "published": "2026-05-12T06:55:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1600/openai-daybreak.jpg"
     },
     {
       "id": "0001dd8d3e30d8bb2d25c8c753c51fd8",
@@ -363,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "8023e3cb58da547645184efbe626f3f4",
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secur...",
-      "published": "2026-05-12T05:18:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg"
-    },
-    {
       "id": "0b2035be4858967fe4301a2df95b6b18",
       "title": "macOS 27 menace les Time Capsule d’Apple, mais TimeCapsuleSMB est là pour les sauver !",
       "link": "https://www.it-connect.fr/macos-27-menace-les-time-capsule-timecapsulesmb-est-la-pour-les-sauver/",
@@ -383,121 +403,101 @@
       "image": ""
     },
     {
-      "id": "f5ce0745ea1e86fa8e3dc4b2d9bccb34",
-      "title": "Google Chrome 148 : cette version historique corrige 127 vulnérabilités",
-      "link": "https://www.it-connect.fr/google-chrome-148-cette-version-historique-corrige-127-vulnerabilites/",
-      "summary": "Google a publié Chrome 148, la nouvelle version stable de son navigateur web, et elle a une particularité : elle permet de corriger 127 failles de sécurité. Le post Google Chrome 148 : cette version historique corrige...",
-      "published": "2026-05-11T21:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "b490ef9bbdf5fc324874ce29f6bba471",
+      "title": "Vulnérabilité dans Traefik (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0561/",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-05-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "7a40a8bd8a4bcbbf8de901e43fa0d3ce",
-      "title": "ClaudeBleed : la faille dans l’extension Chrome d’Anthropic qui menace vos données",
-      "link": "https://www.it-connect.fr/claudebleed-la-faille-dans-extension-chrome-anthropic-qui-menace-vos-donnees/",
-      "summary": "ClaudeBleed, c'est le nom d'une faille critique découverte dans l'extension \"Claude in Chrome\" d'Anthropic. Quels sont les risques ? Voici l'essentiel à savoir. Le post ClaudeBleed : la faille dans l’extension Chrome ...",
-      "published": "2026-05-11T18:54:41+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "0e8a8ec7e9ba4bfa0fb3292b09e1651f",
+      "title": "Multiples vulnérabilités dans LibreNMS (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0562/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "published": "2026-05-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "b0196f7bed1be0261f8bdd8da39aafc0",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (07 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0547/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
+      "id": "72a54841a546432b15e2af34dc3921c1",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-021 (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-021/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "dd0d1b108b9aa5bf5ba6414636f46136",
+      "title": "Multiples vulnérabilités dans les produits VMware (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0556/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "dc21a5dfbbda07767674b312b8f0b5ad",
+      "title": "Multiples vulnérabilités dans les produits Spring (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0554/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un...",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bdd453493c463a57b2147e67da53fa93",
+      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0558/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "26990959e6ce058b70423e4c5125b5c7",
+      "title": "Multiples vulnérabilités dans PHP (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0553/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection SQL (SQLi) et une injection de code indirecte à dis...",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1adb95e1ea885ae22552dabd25d302dc",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0557/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "76121609ba8c19e4e6ed571476c7cef3",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0555/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d0ac29b911f9ba6549f20fa266ac1697",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (07 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0552/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager Mobile (EPMM). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de ...",
       "published": "2026-05-07T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "211312631f0cd62c57db9ebd6a533410",
-      "title": "Multiples vulnérabilités dans Redis (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0536/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Redis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "59489156d0204f0ff5da07368712531c",
-      "title": "Multiples vulnérabilités dans Progress Telerik (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0542/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2f6b3e557a332346208d5138979cd41b",
-      "title": "Vulnérabilité dans Palo Alto Networks User-ID Authentication Portal (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0537/",
-      "summary": "Une vulnérabilité a été découverte dans Palo Alto Networks User-ID Authentication Portal. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que la vulnérab...",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c1bd7971c13cf97c14edf62dea58d5a0",
-      "title": "Multiples vulnérabilités dans VMware Tanzu Gemfire (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0540/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu Gemfire. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ce9578bd273886210a4c6256bafdb7e7",
-      "title": "Multiples vulnérabilités dans Zabbix (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0541/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "cc26847f2663e3952c049c9a08622a90",
-      "title": "Multiples vulnérabilités dans Asterisk (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0538/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "989998baf1d734e048db203a6e5e3cfa",
-      "title": "Multiples vulnérabilités dans Google Chrome (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0535/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b2c7e15cc91bee40c4ea4e63c65705f8",
-      "title": "Multiples vulnérabilités dans Juniper Networks Secure Analytics (06 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0539/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Secure Analytics. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0d7a1dfe2c18857cb4701ec7c3aa2572",
-      "title": "Vulnérabilité dans Google Android (05 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0534/",
-      "summary": "Une vulnérabilité a été découverte dans Google Android. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-05-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
