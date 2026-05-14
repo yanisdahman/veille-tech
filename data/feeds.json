@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-05-14T02:51:11.647172+00:00",
+  "last_updated": "2026-05-14T08:34:15.977181+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "15b3ff0e9493bb88572f56d14dbba637",
+      "title": "Saracroche - L'app qui bloque le démarchage téléphonique",
+      "link": "https://korben.info/saracroche-bloqueur-appels-indesirables.html",
+      "summary": "J'sais pas vous, mais en ce moment, moi ça n'arrête pas ! De quoi je parle ? Hé bien des putains d'appels commerciaux / arnaques que je reçois sur mon téléphone. C'est simple, je ne décroche plus aucun numéro que je n...",
+      "published": "2026-05-14T07:51:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/saracroche-bloqueur-appels-indesirables/saracroche-bloqueur-appels-indesirables-1.png"
+    },
+    {
+      "id": "271041e776a1f0476449c08483023524",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
+      "published": "2026-05-14T07:34:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8e6be3573573f34bbfab5a0c483e0caf",
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in ...",
+      "published": "2026-05-14T07:06:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg"
+    },
+    {
+      "id": "8b44bacac910922c5e864cb8c08f5ef0",
+      "title": "NGINX Rift – CVE-2026-42945 : cette faille critique vieille de 18 ans menace vos serveurs Web",
+      "link": "https://www.it-connect.fr/nginx-rift-cve-2026-42945-cette-faille-critique-de-18-ans-menace-vos-serveurs-web/",
+      "summary": "La faille NGINX Rift présente dans le code depuis 18 ans permet à un attaquant non authentifié d'exécuter du code à distance ou de faire planter le serveur Web. Le post NGINX Rift – CVE-2026-42945 : cette faille criti...",
+      "published": "2026-05-14T06:54:04+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "aa2893e9efe4c8e06cf342c63ecd550e",
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfi...",
+      "published": "2026-05-14T06:00:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
+    },
+    {
+      "id": "86b0a14078ea7bb7f31b0ad158618d93",
+      "title": "YellowKey : la faille zero-day qui fait sauter la protection BitLocker de Windows !",
+      "link": "https://www.it-connect.fr/yellowkey-la-faille-zero-day-qui-fait-sauter-la-protection-bitlocker-de-windows/",
+      "summary": "La faille YellowKey permet de contourner la protection BitLocker de Windows, tandis qu'une autre faille surnommée GreenPlasma a aussi été dévoilée. Le post YellowKey : la faille zero-day qui fait sauter la protection ...",
+      "published": "2026-05-14T05:59:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "96c8b22cda1c96518574143ef718031d",
+      "title": "Fragnesia : cette nouvelle faille dans le noyau Linux offre un accès root",
+      "link": "https://www.it-connect.fr/fragnesia-cette-nouvelle-faille-dans-le-noyau-linux-offre-un-acces-root/",
+      "summary": "Fragnesia (CVE-2026-46300), c'est le nom de la nouvelle faille critique offrant un accès root sur Linux ! L'essentiel à savoir sur ce nouvel exploit universel. Le post Fragnesia : cette nouvelle faille dans le noyau L...",
+      "published": "2026-05-14T05:11:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "f327a2a0588574baae005b2ec33653c9",
       "title": "West Pharmaceutical says hackers stole data, encrypted systems",
@@ -163,16 +233,6 @@
       "image": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0-1.jpg"
     },
     {
-      "id": "326907f0c56cccb468fd5cb81dc3716d",
-      "title": "Microsoft says some users can't install Office on Windows 365 devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-      "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
-      "published": "2026-05-13T11:53:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8bbeec5d24c904ed83f5a97a22c5b71c",
       "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
       "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
@@ -323,16 +383,6 @@
       "image": "https://korben.info/undune2-demake-dune-ii-pico-8/undune2-demake-dune-ii-pico-8-1.png"
     },
     {
-      "id": "8c3732291c9749e8e0060f32465862e7",
-      "title": "Operation Epic Furious - Trump envahit l'Iran en pixel art",
-      "link": "https://korben.info/epic-furious-jeu-rpg-trump-iran.html",
-      "summary": "J'sais pas si vous avez vu passer ça, mais vous pouvez désormais déclencher la guerre Iran-USA directement depuis votre navigateur, tout ça en pixel art, en incarnant ce bon vieux Donald Trump. C'est gratuit, accessib...",
-      "published": "2026-05-12T21:00:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/epic-furious-jeu-rpg-trump-iran/epic-furious-jeu-rpg-trump-iran-1.jpeg"
-    },
-    {
       "id": "ff0443b2d33a5b2c9e6fedd02dd17e6a",
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
       "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
@@ -343,61 +393,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg"
     },
     {
-      "id": "d4fc3bd7f7b156b30de6cf3277681637",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious ...",
-      "published": "2026-05-12T14:47:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIbYm86Vn45Nd86Hd5IEqHufRIS5Ud3spGUy5JWHy-My-NBVocyj-aR7E3gBKibPnrWd5DRYnDfmbaHUMuaYcNn_paUIDN11VLySLNUsXwFwVIALsNo419985zWvtepK7NVp9J4W3d7uHGWkQFgqI6zY_9Y5LWe5hsTLk-c9ZMKQ4TDlUMcMh8-_vhdIH/s1600/rubygems.jpg"
-    },
-    {
       "id": "47a569615bad53fea218b9dd2e077f1f",
       "title": "Nouveautés Intune : SSO pour Linux, meilleur inventaire des applis sur Windows, etc…",
       "link": "https://www.it-connect.fr/microsoft-intune-les-nouveautes-avril-2026/",
       "summary": "Parmi les nouveautés d'avril 2026 pour Intune : l'amélioration de l'inventaire d'applis Windows, l'authentification unique (SSO) pour Linux, mais pas seulement. Le post Nouveautés Intune : SSO pour Linux, meilleur inv...",
       "published": "2026-05-12T13:01:02+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bb30c6ec3b14b4df71227698f33961a6",
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and F...",
-      "published": "2026-05-12T12:50:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg"
-    },
-    {
-      "id": "795a6f483b5a593cad022b24d4e0bfbe",
-      "title": "CopyFail, Dirty Frag : un mainteneur propose d’ajouter un kill switch à Linux",
-      "link": "https://www.it-connect.fr/copyfail-dirty-frag-un-mainteneur-propose-dajouter-un-kill-switch-a-linux/",
-      "summary": "Un kill switch dans le noyau Linux pourrait désactiver des fonctions vulnérables, renforçant la sécurité en attendant un correctif pour une faille de sécurité. Le post CopyFail, Dirty Frag : un mainteneur propose d’aj...",
-      "published": "2026-05-12T07:19:09+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0001dd8d3e30d8bb2d25c8c753c51fd8",
-      "title": "Mozilla Firefox : 423 failles de sécurité corrigées en avril 2026, merci l’IA !",
-      "link": "https://www.it-connect.fr/mozilla-firefox-423-failles-de-securite-corrigees-en-avril-2026-merci-lia/",
-      "summary": "423 failles de sécurité ont été corrigées dans le navigateur web Mozilla Firefox en avril 2026, grâce à l'utilisation de l'IA, notamment Claude Mythos. Le post Mozilla Firefox : 423 failles de sécurité corrigées en av...",
-      "published": "2026-05-12T06:22:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0b2035be4858967fe4301a2df95b6b18",
-      "title": "macOS 27 menace les Time Capsule d’Apple, mais TimeCapsuleSMB est là pour les sauver !",
-      "link": "https://www.it-connect.fr/macos-27-menace-les-time-capsule-timecapsulesmb-est-la-pour-les-sauver/",
-      "summary": "macOS 27 sonne la fin de l'AFP, menaçant vos Apple Time Capsules. Découvrez TimeCapsuleSMB, le projet open source qui va sauver vos boîtiers de sauvegardes. Le post macOS 27 menace les Time Capsule d’Apple, mais TimeC...",
-      "published": "2026-05-12T04:55:52+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
