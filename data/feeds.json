@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-05-14T14:04:16.279709+00:00",
+  "last_updated": "2026-05-14T19:42:46.685732+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7edb19429daff7f56c437207ab542ae9",
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications...",
+      "published": "2026-05-14T19:07:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e307c465878e5c778e98d33f39ac3315",
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
+      "published": "2026-05-14T18:53:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "edda563bb16421598d9fb2ef3adea225",
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carri...",
+      "published": "2026-05-14T17:45:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9rok1ToP_K0gWug0GnICltZkvx6bMRyhHfTJG1AcSfrGpM_fOVc61O3Fpyen_IW-wpb4s6Hl3qZcU5nEs77SMWSpKNDR4rrlY2syVVSNEBrpHx8RkWmYaN9MZORNICc8LNhuNjXqqhxmy7JN-y389oyQnAAFoBMJC1NoQSQFaOZ2MnrpKQRfv_eYXIoWI/s1600/cisco-exploit.jpg"
+    },
+    {
+      "id": "7e008ac2f41f8784721a7fc21b43dbc0",
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm...",
+      "published": "2026-05-14T17:22:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTj2m9-HHmDEDzKIsalsJ_HJcwcUsIFajvcpTLP9QMyqS9F_JroTH7lXeOGZFuO6j6F-RzbIo1kBIQ0udSFQGzjN2hxO8ZfyFeHM5557BPI1sjiJ7cEMJJE62t11e07Wt1CsmAntpLHSM0XbnQDvVYNBfNdAOsob9kN6G6-mQjKX68fEE1nzy_Bn4TvxyK/s1600/node.jpg"
+    },
+    {
+      "id": "067f4aff97ee5175ed3aa056125b2626",
+      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+      "summary": "Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash....",
+      "published": "2026-05-14T16:07:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImYNT-qC7frGzEXeok3KDX_JNMKote6V1FVXIpkAoSEER2z1YyT8dpFq5RtRhBQ0cweEPbBIuioDWFf5rw_Mf-0V6rXR2ZrMh2ISDa7X7NlV9zIGsoLSAnyd_86eVkrR4wU24yxbuCYaAmyGFwlF77YCjvgU3n43P-yFT-pzjsmQ35Oaut1klg62bs_-i/s1600/threatsday-2.jpg"
+    },
+    {
+      "id": "6a52b711a0f9a3499e34c262341ec870",
+      "title": "AppControl : un gestionnaire des tâches complet pour Windows",
+      "link": "https://www.it-connect.fr/appcontrol-gestionnaire-des-taches-moderne-pour-windows/",
+      "summary": "Découvrez comment AppControl peut remplacer le Gestionnaire de tâches de Windows grâce à un historique précis et des alertes en temps réel. Le post AppControl : un gestionnaire des tâches complet pour Windows a été pu...",
+      "published": "2026-05-14T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a7fe37d873a31cb8ee40041fe95abd5c",
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
+      "published": "2026-05-14T15:43:41+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e9237d79b4e6bf79ecd63d65197c480c",
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
+      "published": "2026-05-14T15:21:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cdd8db96505a168ee2e93f3d9c9cf6c2",
+      "title": "Pour activer ce nouveau pilote graphique libre, il faut littéralement réclamer un pilote cassé",
+      "link": "https://korben.info/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse.html",
+      "summary": "Je ne vous apprends rien, un GPU, c'est la puce qui calcule l'image que vous voyez à l'écran. Pour qu'elle fonctionne, il lui faut un pilote, le logiciel qui fait le lien entre le matériel et le système d'exploitation...",
+      "published": "2026-05-14T15:01:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse-1.jpg"
+    },
+    {
+      "id": "574079011df49910cbb7f4fa8ce8f2f1",
+      "title": "Un capteur LiDAR matriciel pour donner la vue en relief à un petit robot",
+      "link": "https://korben.info/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot.html",
+      "summary": "Le LiDAR, c'est cette techno qui mesure des distances en envoyant des impulsions laser et en chronométrant leur retour, un peu comme un sonar, mais avec de la lumière. On en entend parler surtout pour les voitures aut...",
+      "published": "2026-05-14T14:30:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot-1.jpg"
+    },
+    {
+      "id": "6b9c003a4068fac36872924fb6c52fa3",
+      "title": "Ces fléchettes incendiaires géantes du XVIe siècle viennent enfin d'être testées",
+      "link": "https://korben.info/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees.html",
+      "summary": "La Mary Rose, c'était le navire de guerre préféré d'Henri VIII. Il a coulé en 1545 au large de Portsmouth, son épave a été retrouvée en 1971 puis remontée en 1982, et depuis, tout ce qu'elle contenait fascine les hist...",
+      "published": "2026-05-14T14:12:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees-1.jpg"
+    },
+    {
+      "id": "e4f2c1ed39097ce159f8ed709a409925",
+      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cybe...",
+      "published": "2026-05-14T14:00:37+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEld5BcqD9rYWVjx7o_XlV5pN_9djvilow0iIYP-LlFEzGReX8fTPZ0gKi9zMGVLTT8qddHu5FyBMaZpQroEzYFpsoPWf96hD7JeTdqsROemmavXW2pDxNwc9kjvpJdhahmXA5Ng88tN1lyO5rqzC3K6JNwPFPWBo7OzSsaiQIN8JJsXvMrGhewMfzpouF/s1600/uk.jpg"
+    },
     {
       "id": "19b66aea93bcc4454160c0c0d5441f99",
       "title": "Vibe Coding – Claude avec l’API illimitée : c’est fini le 15 juin 2026 !",
@@ -163,46 +283,6 @@
       "image": ""
     },
     {
-      "id": "ad4407fd015456db3120c1d747c424f8",
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
-      "published": "2026-05-13T20:23:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2396857f9f7973bf73bc5c9ef56c08d5",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation fla...",
-      "published": "2026-05-13T16:37:49+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "92697543b17c5370e9dc79ef56066015",
-      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience aft...",
-      "published": "2026-05-13T15:45:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "38eab6c66097ca2da9adfcc68da28059",
-      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
-      "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
-      "published": "2026-05-13T15:42:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "0ef4198d637eb673210b2024d749d9db",
       "title": "Unitree lance son robot mecha à 500 000 dollars",
       "link": "https://korben.info/unitree-lance-son-robot-mecha-a-500-000-dollars.html",
@@ -243,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "8af48b117494159a5deb22ebac9d21e4",
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its...",
-      "published": "2026-05-13T13:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
-    },
-    {
       "id": "3fc399aa286866b934d58a9e7a53425c",
       "title": "Proton Pass : ce que révèle le nouvel audit de sécurité indépendant",
       "link": "https://www.it-connect.fr/proton-pass-ce-que-revele-le-nouvel-audit-de-securite-independant/",
@@ -273,16 +343,6 @@
       "image": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0-1.jpg"
     },
     {
-      "id": "8bbeec5d24c904ed83f5a97a22c5b71c",
-      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-      "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most...",
-      "published": "2026-05-13T11:52:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKoTt2TCJhCZC7cgKpISoFL1hoD6YqAXVIIIzKZEyYmvXusJXxb2WQ_cYnjRCYdKeOJj2756fnWj2had24_OCECDq5bDf7y98vuYhsKSbrbRH1WYIqpwCF47lLsvrgFGLPkhomycGiEHqDa50OjwuwIZmH6cAu1vOXoXOiTzU4Si8qq6YPfo2r4OsP4KI/s1600/wiz.png"
-    },
-    {
       "id": "1077417f5cec9762de1f38ddd958849a",
       "title": "Il essaye de réparer une GoPro Hero 10, et c'est l'enfer",
       "link": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer.html",
@@ -291,16 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer-1.jpg"
-    },
-    {
-      "id": "20f2c0420d4368c6932b1663df79eda2",
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negat...",
-      "published": "2026-05-13T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
     },
     {
       "id": "81db5c61776bda6fd8bc76c5470ee726",
@@ -323,16 +373,6 @@
       "image": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur-1.jpg"
     },
     {
-      "id": "3f18f8cc56afaf15746bf587d1b026ee",
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Cr...",
-      "published": "2026-05-13T10:36:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
-    },
-    {
       "id": "66bc15ace69ee7e484b36a8a4c58065f",
       "title": "Retyc : une alternative française à WeTransfer, chiffrée et sans IA",
       "link": "https://www.it-connect.fr/retyc-une-alternative-francaise-a-wetransfer-chiffree-et-sans-ia/",
@@ -341,26 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "cfb5bf703e596d75c4238f39a3cc7bb8",
-      "title": "8 To de données de Foxconn volées",
-      "link": "https://korben.info/8-to-de-donnees-de-foxconn-volees.html",
-      "summary": "Le gang ransomware Nitrogen a balancé Foxconn sur son site de fuite avec 8 To de données et 11 millions de fichiers volés, selon The Register. Schémas hardware, instructions d'assemblage, topologies de datacenters côt...",
-      "published": "2026-05-13T07:56:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/8-to-de-donnees-de-foxconn-volees/8-to-de-donnees-de-foxconn-volees-1.jpg"
-    },
-    {
-      "id": "e0047ac3d19cb59be8b111df88a5b276",
-      "title": "TinyStories sur Game Boy Color - Le LLM le plus lent du monde",
-      "link": "https://korben.info/transformer-game-boy-color.html",
-      "summary": "La bidouilleuse Maddie Dreese a réussi un sacré exploit les amis ! Elle a fait tourner un vrai modèle IA sur une Game Boy Color tout ce qu'il y a de plus basique.. Pas besoin de PC ni d'appels à un service tiers en li...",
-      "published": "2026-05-13T07:44:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/transformer-game-boy-color/transformer-game-boy-color-1.png"
     },
     {
       "id": "a74c7f6cbc53175ecd3b415c67dc8705",
@@ -381,26 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "fd41c2b7828aaee989e9ad30ae5ccf09",
-      "title": "Windows 10 KB5087544 : le point sur la mise à jour ESU de mai 2026",
-      "link": "https://www.it-connect.fr/windows-10-kb5087544-mise-a-jour-esu-de-mai-2026/",
-      "summary": "KB5087544 : la mise à jour ESU de mai 2026 pour Windows 10 a été publiée par Microsoft. Voici les principales améliorations apportées par cette update. Le post Windows 10 KB5087544 : le point sur la mise à jour ESU de...",
-      "published": "2026-05-13T07:07:12+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "da1fed2e5e92ca0d47278b6b3566e33c",
-      "title": "UnDUNE II - Dune II en entier dans 12 cartouches PICO-8",
-      "link": "https://korben.info/undune2-demake-dune-ii-pico-8.html",
-      "summary": "UnDUNE II , c'est Dune II qui tient en entier dans une PICO-8 , cette fameuse \"fantasy console\" dont je vous ai déjà parlé. Ça a donc pris près de trois ans de boulot pour Paul Nicholas (alias Liquidream) afin de fair...",
-      "published": "2026-05-13T05:57:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/undune2-demake-dune-ii-pico-8/undune2-demake-dune-ii-pico-8-1.png"
     },
     {
       "id": "b490ef9bbdf5fc324874ce29f6bba471",
