@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-13T19:51:11.572731+00:00",
-  "count": 40,
+  "last_updated": "2026-05-14T02:51:11.647172+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "f327a2a0588574baae005b2ec33653c9",
+      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
+      "published": "2026-05-13T22:23:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "576f1112529ea667339bed959952be31",
+      "title": "Iranian hackers targeted major South Korean electronics maker",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+      "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
+      "published": "2026-05-13T21:59:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ad4407fd015456db3120c1d747c424f8",
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
+      "published": "2026-05-13T20:23:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "2396857f9f7973bf73bc5c9ef56c08d5",
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
@@ -293,16 +323,6 @@
       "image": "https://korben.info/undune2-demake-dune-ii-pico-8/undune2-demake-dune-ii-pico-8-1.png"
     },
     {
-      "id": "2165657c7da68acb7a5e65844b7c89c4",
-      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-      "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat act...",
-      "published": "2026-05-12T23:09:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8c3732291c9749e8e0060f32465862e7",
       "title": "Operation Epic Furious - Trump envahit l'Iran en pixel art",
       "link": "https://korben.info/epic-furious-jeu-rpg-trump-iran.html",
@@ -311,26 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/epic-furious-jeu-rpg-trump-iran/epic-furious-jeu-rpg-trump-iran-1.jpeg"
-    },
-    {
-      "id": "48f2221720b15e2574fd7e59162917eb",
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers a...",
-      "published": "2026-05-12T20:17:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "211abd50f5bac2e95d3a94677d80421c",
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help pre...",
-      "published": "2026-05-12T19:46:04+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "ff0443b2d33a5b2c9e6fedd02dd17e6a",
@@ -400,6 +400,106 @@
       "published": "2026-05-12T04:55:52+00:00",
       "source": "IT-Connect",
       "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b490ef9bbdf5fc324874ce29f6bba471",
+      "title": "Vulnérabilité dans Traefik (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0561/",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-05-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0e8a8ec7e9ba4bfa0fb3292b09e1651f",
+      "title": "Multiples vulnérabilités dans LibreNMS (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0562/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "published": "2026-05-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "72a54841a546432b15e2af34dc3921c1",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-021 (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-021/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "dd0d1b108b9aa5bf5ba6414636f46136",
+      "title": "Multiples vulnérabilités dans les produits VMware (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0556/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "dc21a5dfbbda07767674b312b8f0b5ad",
+      "title": "Multiples vulnérabilités dans les produits Spring (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0554/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un...",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bdd453493c463a57b2147e67da53fa93",
+      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0558/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "26990959e6ce058b70423e4c5125b5c7",
+      "title": "Multiples vulnérabilités dans PHP (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0553/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection SQL (SQLi) et une injection de code indirecte à dis...",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1adb95e1ea885ae22552dabd25d302dc",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0557/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "76121609ba8c19e4e6ed571476c7cef3",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (11 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0555/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d0ac29b911f9ba6549f20fa266ac1697",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (07 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0552/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager Mobile (EPMM). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de ...",
+      "published": "2026-05-07T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     }
   ]
