@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-15T08:45:51.394766+00:00",
+  "last_updated": "2026-05-15T14:00:45.911359+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "fbd1af0cf1bc26cf640f5c46fbe61901",
+      "title": "Linux : cette dangereuse faille oubliée permet de voler vos clés SSH et lire les fichiers root",
+      "link": "https://www.it-connect.fr/linux-cette-dangereuse-faille-oubliee-permet-de-voler-vos-cles-ssh-et-lire-les-fichiers-root/",
+      "summary": "Une faille Linux vieille de 6 ans refait surface, offrant un accès à des fichiers comme /etc/shadow et d'autres fichiers sensibles. L'essentiel à savoir. Le post Linux : cette dangereuse faille oubliée permet de voler...",
+      "published": "2026-05-15T13:50:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a25281408dacf2d3f9be8dc3a8f08eb6",
+      "title": "Wikipedia File Explorer - L'encyclopédie en mode Windows XP",
+      "link": "https://korben.info/wikipedia-explorer-samismith.html",
+      "summary": "Wikipedia, vous connaissez ça par cœur j'imagine... Hé bien vous allez redécouvrir la plus connue des encyclopédies grâce à Sami Smith qui a lancé explorer.samismith.com , qui transforme quasiment toute l'encyclopédie...",
+      "published": "2026-05-15T13:24:35+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/wikipedia-explorer-samismith/wikipedia-explorer-samismith-1.png"
+    },
+    {
+      "id": "c15015bad45998b8ed2cd4a2a182dd07",
+      "title": "Rocky - Le pote alien de Projet Dernière Chance débarque sur Raspberry Pi",
+      "link": "https://korben.info/rocky-lahirumaramba.html",
+      "summary": "J'sais pas si vous avez vu le film ou lu le livre mais Rocky, c'est l'araignée de roche extraterrestre de Projet Dernière Chance (Project Hail Mary) qui communique en chantant. Et Lahiru Maramba, un dev Firebase en po...",
+      "published": "2026-05-15T12:52:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rocky-lahirumaramba/rocky-lahirumaramba-1.png"
+    },
+    {
+      "id": "5e8adaffae2036d95280f1df6f697957",
+      "title": "Microsoft to automatically roll back faulty Windows drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
+      "published": "2026-05-15T12:29:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2d1eedfe954449beb50fab433dfe1700",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration....",
+      "published": "2026-05-15T11:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
+    },
+    {
+      "id": "99e23d8dd967f6b2faa3c78801102b2f",
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectua...",
+      "published": "2026-05-15T10:54:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
+    },
+    {
+      "id": "c76cfc0839dab71c9edfe8a278cdca63",
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outloo...",
+      "published": "2026-05-15T09:40:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2564759967d90b30c92362fd3ba17a89",
+      "title": "Une faille présente depuis 18 ans découverte dans nginx, le serveur qui fait tourner un tiers du web",
+      "link": "https://korben.info/une-faille-presente-depuis-18-ans-decouverte-dans-nginx-le-serveur-qui-fait-tourner-un-tiers-du-web.html",
+      "summary": "Nginx, c'est ce logiciel discret qui sert les pages d'environ un site populaire sur trois sur la planète. Quand vous chargez une page web, il y a une bonne chance que ce soit lui qui vous l'envoie. La société DepthFir...",
+      "published": "2026-05-15T08:54:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/une-faille-presente-depuis-18-ans-decouverte-dans-nginx-le-serveur-qui-fait-tourner-un-tiers-du-web/une-faille-presente-depuis-18-ans-decouverte-dans-nginx-le-serveur-qui-fait-tourner-un-tiers-du-web-1.jpg"
+    },
     {
       "id": "af356023dc972e8b9102de869b60e03d",
       "title": "OpenAI dégaine Daybreak : sa plateforme cybersécurité pour concurrencer Anthropic",
@@ -233,16 +313,6 @@
       "image": "https://korben.info/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot-1.jpg"
     },
     {
-      "id": "6b9c003a4068fac36872924fb6c52fa3",
-      "title": "Ces fléchettes incendiaires géantes du XVIe siècle viennent enfin d'être testées",
-      "link": "https://korben.info/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees.html",
-      "summary": "La Mary Rose, c'était le navire de guerre préféré d'Henri VIII. Il a coulé en 1545 au large de Portsmouth, son épave a été retrouvée en 1971 puis remontée en 1982, et depuis, tout ce qu'elle contenait fascine les hist...",
-      "published": "2026-05-14T14:12:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees-1.jpg"
-    },
-    {
       "id": "e4f2c1ed39097ce159f8ed709a409925",
       "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
       "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
@@ -276,7 +346,7 @@
       "id": "82293f4d87003247486c639641f00d1d",
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerab...",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vuln...",
       "published": "2026-05-14T11:40:14+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -291,56 +361,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg"
-    },
-    {
-      "id": "857f35ddb6bbd08ec8ba1a349f7ed170",
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
-      "published": "2026-05-14T10:03:39+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "be64c4a3354db48a0b5c057a4e9ade7d",
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative...",
-      "published": "2026-05-14T09:25:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg"
-    },
-    {
-      "id": "9d903a0e0c62f5d3372c6483b27a57a2",
-      "title": "US charges suspected Dream Market admin arrested in Germany",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
-      "published": "2026-05-14T08:55:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "15b3ff0e9493bb88572f56d14dbba637",
-      "title": "Saracroche - L'app qui bloque le démarchage téléphonique",
-      "link": "https://korben.info/saracroche-bloqueur-appels-indesirables.html",
-      "summary": "J'sais pas vous, mais en ce moment, moi ça n'arrête pas ! De quoi je parle ? Hé bien des putains d'appels commerciaux / arnaques que je reçois sur mon téléphone. C'est simple, je ne décroche plus aucun numéro que je n...",
-      "published": "2026-05-14T07:51:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/saracroche-bloqueur-appels-indesirables/saracroche-bloqueur-appels-indesirables-1.png"
-    },
-    {
-      "id": "8e6be3573573f34bbfab5a0c483e0caf",
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in ...",
-      "published": "2026-05-14T07:06:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg"
     },
     {
       "id": "8b44bacac910922c5e864cb8c08f5ef0",
@@ -373,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "0ef4198d637eb673210b2024d749d9db",
-      "title": "Unitree lance son robot mecha à 500 000 dollars",
-      "link": "https://korben.info/unitree-lance-son-robot-mecha-a-500-000-dollars.html",
-      "summary": "500 000 dollars. C'est le prix d'entrée annoncé pour le GD01 d'Unitree, un robot mecha de 2,7 mètres de haut que vous pouvez littéralement piloter depuis son torse, façon Pacific Rim version chinoise. Unitree, le fabr...",
-      "published": "2026-05-13T14:40:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/unitree-lance-son-robot-mecha-a-500-000-dollars/unitree-lance-son-robot-mecha-a-500-000-dollars-1.jpg"
-    },
-    {
       "id": "25bbf7c894932774294e631de9d867b2",
       "title": "Wazuh – CVE-2026-30893 : un patch est disponible pour cette faille critique",
       "link": "https://www.it-connect.fr/wazuh-cve-2026-30893-un-patch-est-disponible-pour-cette-faille-critique/",
@@ -393,111 +403,101 @@
       "image": ""
     },
     {
-      "id": "3fc399aa286866b934d58a9e7a53425c",
-      "title": "Proton Pass : ce que révèle le nouvel audit de sécurité indépendant",
-      "link": "https://www.it-connect.fr/proton-pass-ce-que-revele-le-nouvel-audit-de-securite-independant/",
-      "summary": "Le gestionnaire de mots de passe Proton Pass est-il sécurisé ? Un nouveau rapport d'audit mais en lumière des vulnérabilités désormais corrigées. Le post Proton Pass : ce que révèle le nouvel audit de sécurité indépen...",
-      "published": "2026-05-13T12:33:24+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "c66ba957ea8699b3a98328d377b98b8c",
+      "title": "🇬🇧 Cyber Threat Overview 2025 (13 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-003/",
+      "summary": "Version française: 🇫🇷 The boundaries which traditionally separate state-sponsored and cybercriminal actors continued to blur in 2025, thereby further complexifying the imputation process. The exploitation of legitimat...",
+      "published": "2026-05-13T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "b490ef9bbdf5fc324874ce29f6bba471",
-      "title": "Vulnérabilité dans Traefik (12 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0561/",
-      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "id": "992235e098cee0e861039a62c3f15e58",
+      "title": "Multiples vulnérabilités dans les produits Intel (13 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0582/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un ...",
+      "published": "2026-05-13T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "81b168664f90d37bd58fa79efec1cf9b",
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (13 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0573/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à ...",
+      "published": "2026-05-13T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c08c0a9772402b569d36a1678fedc270",
+      "title": "Vulnérabilité dans Exim (13 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0589/",
+      "summary": "Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-13T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fce12c170ac789970412481950bfec7e",
+      "title": "Multiples vulnérabilités dans Google Chrome (13 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0574/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-13T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "89da512ae8bf764edb316a36b1227c6b",
+      "title": "Multiples vulnérabilités dans Apache Tomcat (13 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0577/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problè...",
+      "published": "2026-05-13T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5203bc3a24dae5db4c48e14569d5f64f",
+      "title": "Multiples vulnérabilités dans Microsoft Azure (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0571/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-05-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "0e8a8ec7e9ba4bfa0fb3292b09e1651f",
-      "title": "Multiples vulnérabilités dans LibreNMS (12 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0562/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "id": "01f9617dab577da58b5a85a5c8487955",
+      "title": "Multiples vulnérabilités dans les produits Nextcloud (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0569/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des...",
       "published": "2026-05-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "72a54841a546432b15e2af34dc3921c1",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-021 (11 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-021/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-05-11T00:00:00+00:00",
+      "id": "1f58a1c14816fa756a81c592eac4ae2b",
+      "title": "Multiples vulnérabilités dans les produits Centreon (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0572/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Centreon. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et une injection de code i...",
+      "published": "2026-05-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "dd0d1b108b9aa5bf5ba6414636f46136",
-      "title": "Multiples vulnérabilités dans les produits VMware (11 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0556/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "dc21a5dfbbda07767674b312b8f0b5ad",
-      "title": "Multiples vulnérabilités dans les produits Spring (11 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0554/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un...",
-      "published": "2026-05-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bdd453493c463a57b2147e67da53fa93",
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (11 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0558/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "26990959e6ce058b70423e4c5125b5c7",
-      "title": "Multiples vulnérabilités dans PHP (11 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0553/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection SQL (SQLi) et une injection de code indirecte à dis...",
-      "published": "2026-05-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1adb95e1ea885ae22552dabd25d302dc",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (11 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0557/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "76121609ba8c19e4e6ed571476c7cef3",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (11 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0555/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d0ac29b911f9ba6549f20fa266ac1697",
-      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (07 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0552/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager Mobile (EPMM). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de ...",
-      "published": "2026-05-07T00:00:00+00:00",
+      "id": "c719888d036606a8d9f613718bfed793",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (12 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0570/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un cont...",
+      "published": "2026-05-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
