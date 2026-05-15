@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-05-15T02:54:45.681313+00:00",
+  "last_updated": "2026-05-15T08:45:51.394766+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "af356023dc972e8b9102de869b60e03d",
+      "title": "OpenAI dégaine Daybreak : sa plateforme cybersécurité pour concurrencer Anthropic",
+      "link": "https://www.it-connect.fr/openai-degaine-daybreak-sa-plateforme-cybersecurite-pour-concurrencer-anthropic/",
+      "summary": "OpenAI se positionne face à Anthropic avec Daybreak, une plateforme intégrée de cybersécurité exploitant GPT-5.5 et Codex Security pour la cyberdéfense. Le post OpenAI dégaine Daybreak : sa plateforme cybersécurité po...",
+      "published": "2026-05-15T08:33:47+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e2da044a76d6d1b1ed790c431e35fe3a",
+      "title": "Une faille permet d'ouvrir un disque BitLocker avec quelques fichiers sur une clé USB",
+      "link": "https://korben.info/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb.html",
+      "summary": "BitLocker, c'est le système de chiffrement intégré à Windows qui protège vos disques contre quelqu'un qui mettrait la main sur votre machine. Activé par défaut sur Windows 11 et installé sur des millions d'ordinateurs...",
+      "published": "2026-05-15T07:46:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb-1.jpg"
+    },
+    {
+      "id": "a616c1792ab61b70f4f3866475658729",
+      "title": "TUIStudio - Pour désigner vos applications terminal",
+      "link": "https://korben.info/tuistudio-figma-applications-terminal.html",
+      "summary": "Vous avez déjà essayé de dessiner une TUI (Interface utilisateur pour le Terminal) à la main dans votre IDE ? Genre, calculer les paddings d'une Box ANSI à la mano et compter les caractères Unicode pour aligner trois ...",
+      "published": "2026-05-15T07:35:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tuistudio-figma-applications-terminal/tuistudio-figma-applications-terminal-1.jpeg"
+    },
+    {
+      "id": "9d5c49902c6fe96708a2a94def69bafc",
+      "title": "Fragnesia - Une nouvelle faille Linux dans la lignée de Dirty Frag",
+      "link": "https://korben.info/fragnesia.html",
+      "summary": "Bon, accrochez vous les amis, car ça enchaine sec sur le kernel Linux en ce moment... Le chercheur William Bowling de l'équipe V12 security vient de lâcher Fragnesia (CVE-2026-46300, CVSS 7.8), un nouvel exploit kerne...",
+      "published": "2026-05-15T07:33:31+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fragnesia/fragnesia-1.png"
+    },
+    {
+      "id": "6c1412d06169fd850f8571553b34d714",
+      "title": "Mullvad - Votre clé WireGuard vous trahit malgré le VPN",
+      "link": "https://korben.info/mullvad-exit-ips-fingerprint.html",
+      "summary": "Je me sors 5 min de mon weekend en amoureux les amis, pour avertir ceux parmi vous qui sont des utilisateurs de Mullvad, peu importe que vous soyez sur macOS, Windows ou un Linux Ubuntu/Debian... Si vous jonglez entre...",
+      "published": "2026-05-15T07:19:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mullvad-exit-ips-fingerprint/mullvad-exit-ips-fingerprint-1.jpeg"
+    },
+    {
+      "id": "a8b12b7a2fa1a52d39394f17cb8920d0",
+      "title": "Il retrouve 400 000 $ de Bitcoin oubliés depuis 11 ans grâce à Claude",
+      "link": "https://korben.info/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude.html",
+      "summary": "L'histoire est partie d'un changement de mot de passe fait pendant une cuite en 2014. Onze ans plus tard, le malheureux (\" cprkrn \" sur X) avait toujours ses 5 bitcoins coincés dans un portefeuille numérique dont la c...",
+      "published": "2026-05-15T07:18:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude-1.jpg"
+    },
+    {
+      "id": "447fec50ca106f9cb4074f9c587f2afe",
+      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS sco...",
+      "published": "2026-05-15T06:19:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
+    },
+    {
+      "id": "c3a33fbca85d34ab5833d63003a80e9b",
+      "title": "Test ASUSTOR Drivestor 4 Gen2 (AS1204T) : le NAS 4 baies le plus abordable",
+      "link": "https://www.it-connect.fr/test-asustor-drivestor-4-gen2-as1204t-nas/",
+      "summary": "Découvrez le NAS ASUSTOR Drivestor 4 Gen2 (AS1204T), un modèle abordable avec connectivité 2.5 GbE, système ADM 5.1, et une fiche technique bien équilibrée. Le post Test ASUSTOR Drivestor 4 Gen2 (AS1204T) : le NAS 4 b...",
+      "published": "2026-05-15T06:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7c7bfe7ac4797baafb9e8b8bd5cc58be",
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requir...",
+      "published": "2026-05-15T05:28:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png"
+    },
+    {
+      "id": "367e94a7062957657db4548d56f76008",
+      "title": "SupportAssist : ce logiciel préinstallé fait planter les PC Dell sous Windows",
+      "link": "https://www.it-connect.fr/supportassist-ce-logiciel-preinstalle-fait-planter-les-pc-dell-sous-windows/",
+      "summary": "SupportAssist de Dell cause des écrans bleus de la mort sur Windows 10 et Windows 11 avec une erreur CRITICAL PROCESS. Que faire ? Voici ce que l'on sait. Le post SupportAssist : ce logiciel préinstallé fait planter l...",
+      "published": "2026-05-15T05:27:43+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "44ce1b2d2f3b2be27f1b28af1755ad2e",
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
@@ -253,16 +353,6 @@
       "image": ""
     },
     {
-      "id": "aa2893e9efe4c8e06cf342c63ecd550e",
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfi...",
-      "published": "2026-05-14T06:00:09+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
-    },
-    {
       "id": "86b0a14078ea7bb7f31b0ad158618d93",
       "title": "YellowKey : la faille zero-day qui fait sauter la protection BitLocker de Windows !",
       "link": "https://www.it-connect.fr/yellowkey-la-faille-zero-day-qui-fait-sauter-la-protection-bitlocker-de-windows/",
@@ -293,26 +383,6 @@
       "image": "https://korben.info/unitree-lance-son-robot-mecha-a-500-000-dollars/unitree-lance-son-robot-mecha-a-500-000-dollars-1.jpg"
     },
     {
-      "id": "2d9e939c91c581cdca0871719eef80fe",
-      "title": "Valve a planqué un Wilhelm Scream dans le nouveau Steam Controller",
-      "link": "https://korben.info/valve-a-planque-un-wilhelm-scream-dans-le-nouveau-steam-controller.html",
-      "summary": "Un utilisateur de Reddit a découvert cette semaine que le nouveau Steam Controller de Valve, vendu 100 euros en pré-commande sur le site de Steam, contient un easter egg complètement absurde : si vous lâchez la manett...",
-      "published": "2026-05-13T14:23:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/valve-a-planque-un-wilhelm-scream-dans-le-nouveau-steam-controller/valve-a-planque-un-wilhelm-scream-dans-le-nouveau-steam-controller-1.jpg"
-    },
-    {
-      "id": "8d8a624b659d1d5813988e8172ef0381",
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part ...",
-      "published": "2026-05-13T13:46:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
-    },
-    {
       "id": "25bbf7c894932774294e631de9d867b2",
       "title": "Wazuh – CVE-2026-30893 : un patch est disponible pour cette faille critique",
       "link": "https://www.it-connect.fr/wazuh-cve-2026-30893-un-patch-est-disponible-pour-cette-faille-critique/",
@@ -328,76 +398,6 @@
       "link": "https://www.it-connect.fr/proton-pass-ce-que-revele-le-nouvel-audit-de-securite-independant/",
       "summary": "Le gestionnaire de mots de passe Proton Pass est-il sécurisé ? Un nouveau rapport d'audit mais en lumière des vulnérabilités désormais corrigées. Le post Proton Pass : ce que révèle le nouvel audit de sécurité indépen...",
       "published": "2026-05-13T12:33:24+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d1674507a748d51be3bedd0cd575d1c9",
-      "title": "OpenZFS 2.4.2 sort avec le support du noyau Linux 7.0",
-      "link": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0.html",
-      "summary": "OpenZFS 2.4.2 est sortie ce 12 mai, et c'est une mise à jour qu'attendaient pas mal de gens qui font tourner du Linux 7.0 (le tout dernier noyau Linux stable). OpenZFS, pour ceux qui ne suivent pas, c'est le portage l...",
-      "published": "2026-05-13T12:15:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0-1.jpg"
-    },
-    {
-      "id": "1077417f5cec9762de1f38ddd958849a",
-      "title": "Il essaye de réparer une GoPro Hero 10, et c'est l'enfer",
-      "link": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer.html",
-      "summary": "Hugh Jeffreys , le YouTuber australien qui démonte tout ce qu'il trouve, s'est attaqué cette fois à une GoPro Hero 10 achetée 100 dollars avec un message d'erreur \"no camera input\". Traduction : la caméra ne reçoit pl...",
-      "published": "2026-05-13T11:45:28+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer-1.jpg"
-    },
-    {
-      "id": "81db5c61776bda6fd8bc76c5470ee726",
-      "title": "Magic Pointer, le pointeur de souris pensé par Google DeepMind",
-      "link": "https://korben.info/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind.html",
-      "summary": "Du côté de Google DeepMind, on s'amuse à réinventer le pointeur de souris. Le projet s'appelle Magic Pointer, c'est un pointeur piloté par Gemini (le modèle d'IA maison de Google) qui comprend ce que vous désignez à l...",
-      "published": "2026-05-13T11:18:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind-1.jpg"
-    },
-    {
-      "id": "0eff777ecff575c4680c0e9d23856b33",
-      "title": "Des utilisateurs Google Cloud facturés des milliers de dollars par erreur",
-      "link": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur.html",
-      "summary": "Un truc franchement rageant remonte du côté de chez Google Cloud, et c'est The Register qui a mené l'enquête. Plusieurs développeurs ont vu leur facture Google Cloud exploser entre 3000 et 10000 dollars en quelques mi...",
-      "published": "2026-05-13T10:57:54+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur-1.jpg"
-    },
-    {
-      "id": "66bc15ace69ee7e484b36a8a4c58065f",
-      "title": "Retyc : une alternative française à WeTransfer, chiffrée et sans IA",
-      "link": "https://www.it-connect.fr/retyc-une-alternative-francaise-a-wetransfer-chiffree-et-sans-ia/",
-      "summary": "Découvrez Retyc, une alternative européenne de transfert sécurisé, offrant chiffrement post-quantique, zero-knowledge, et hébergement européen souverain. Le post Retyc : une alternative française à WeTransfer, chiffré...",
-      "published": "2026-05-13T08:21:15+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a74c7f6cbc53175ecd3b415c67dc8705",
-      "title": "Patch Tuesday – Mai 2026 : pas de zero-day, mais 120 failles corrigées !",
-      "link": "https://www.it-connect.fr/patch-tuesday-mai-2026-pas-de-zero-day-mais-120-failles-corrigees/",
-      "summary": "Le Patch Tuesday de Mai 2026 révélé par Microsoft permet de corriger 120 failles de sécurité, dont 17 vulnérabilités critiques. Voici l'essentiel à savoir. Le post Patch Tuesday – Mai 2026 : pas de zero-day, mais 120 ...",
-      "published": "2026-05-13T07:10:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b8dfbe7de9242bab9bc28aea34b79273",
-      "title": "Windows 11 KB5089549 : découvrez les nouveautés de la mise à jour de mai 2026",
-      "link": "https://www.it-connect.fr/windows-11-kb5089549-mise-a-jour-de-mai-2026/",
-      "summary": "Microsoft a publié les nouvelles mises à jour cumulatives de mai 2026 pour Windows 11 : KB5089549 et KB5087420. Voici l'essentiel à savoir. Le post Windows 11 KB5089549 : découvrez les nouveautés de la mise à jour de ...",
-      "published": "2026-05-13T07:09:55+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
