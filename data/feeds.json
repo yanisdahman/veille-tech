@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-16T13:16:13.521635+00:00",
+  "last_updated": "2026-05-16T19:00:54.136477+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "466a56392d617a9ccc297fd31402b618",
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of s...",
+      "published": "2026-05-16T15:20:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png"
+    },
+    {
+      "id": "8295eb13b2dc4fce8f0405bc201fe5aa",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
+      "published": "2026-05-16T14:15:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "790d1e67066e94e14916e02c6b2f3332",
       "title": "Piratage Pierre & Vacances – Center Parcs : 1,6 million de dossiers de réservations concernés",
@@ -333,16 +353,6 @@
       "image": ""
     },
     {
-      "id": "66c1096625f8a2e225ca2157fbcd269f",
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
-      "published": "2026-05-14T21:07:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "edda563bb16421598d9fb2ef3adea225",
       "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
       "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
@@ -381,16 +391,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "e4f2c1ed39097ce159f8ed709a409925",
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cybe...",
-      "published": "2026-05-14T14:00:37+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEld5BcqD9rYWVjx7o_XlV5pN_9djvilow0iIYP-LlFEzGReX8fTPZ0gKi9zMGVLTT8qddHu5FyBMaZpQroEzYFpsoPWf96hD7JeTdqsROemmavXW2pDxNwc9kjvpJdhahmXA5Ng88tN1lyO5rqzC3K6JNwPFPWBo7OzSsaiQIN8JJsXvMrGhewMfzpouF/s1600/uk.jpg"
     },
     {
       "id": "19b66aea93bcc4454160c0c0d5441f99",
