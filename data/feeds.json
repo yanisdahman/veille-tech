@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-16T02:40:15.115342+00:00",
+  "last_updated": "2026-05-16T08:00:09.004166+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "49ea829e652d14d4211e65851aab5416",
+      "title": "GitLike - Le GitHub décentralisé sur IPFS",
+      "link": "https://korben.info/gitlike-github-decentralise-ipfs.html",
+      "summary": "Branislav Đalić, un dev serbe basé à Belgrade, vient de balancer un projet plutôt original baptisé GitLike . Il s'agit d'un GitHub décentralisé qui stocke vos repos sur IPFS et remplace le mot de passe par votre clé E...",
+      "published": "2026-05-16T07:42:57+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/gitlike-github-decentralise-ipfs/gitlike-github-decentralise-ipfs-1.jpeg"
+    },
+    {
+      "id": "571e949c6dff4391b9a3d9e03ce17d6a",
+      "title": "Test Kingston IronKey Locker+ 50 G2 : une clé USB avec du chiffrement matériel",
+      "link": "https://www.it-connect.fr/test-kingston-ironkey-locker-plus-50-g2/",
+      "summary": "Kingston a dévoilé sa clé USB IronKey Locker+ 50 G2, avec du chiffrement matériel destiné à protéger vos données contre les attaques physiques et logiques. Le post Test Kingston IronKey Locker+ 50 G2 : une clé USB ave...",
+      "published": "2026-05-16T06:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "28d8f8806e4df19ebd4d2bb45682fbea",
       "title": "Outlook – CVE-2026-40361 : cette faille zero-click menace les entreprises, patchez !",
@@ -353,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "cdd8db96505a168ee2e93f3d9c9cf6c2",
-      "title": "Pour activer ce nouveau pilote graphique libre, il faut littéralement réclamer un pilote cassé",
-      "link": "https://korben.info/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse.html",
-      "summary": "Je ne vous apprends rien, un GPU, c'est la puce qui calcule l'image que vous voyez à l'écran. Pour qu'elle fonctionne, il lui faut un pilote, le logiciel qui fait le lien entre le matériel et le système d'exploitation...",
-      "published": "2026-05-14T15:01:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse-1.jpg"
-    },
-    {
       "id": "e4f2c1ed39097ce159f8ed709a409925",
       "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
       "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/nginx-rift-cve-2026-42945-cette-faille-critique-de-18-ans-menace-vos-serveurs-web/",
       "summary": "La faille NGINX Rift présente dans le code depuis 18 ans permet à un attaquant non authentifié d'exécuter du code à distance ou de faire planter le serveur Web. Le post NGINX Rift – CVE-2026-42945 : cette faille criti...",
       "published": "2026-05-14T06:54:04+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "86b0a14078ea7bb7f31b0ad158618d93",
-      "title": "YellowKey : la faille zero-day qui fait sauter la protection BitLocker de Windows !",
-      "link": "https://www.it-connect.fr/yellowkey-la-faille-zero-day-qui-fait-sauter-la-protection-bitlocker-de-windows/",
-      "summary": "La faille YellowKey permet de contourner la protection BitLocker de Windows, tandis qu'une autre faille surnommée GreenPlasma a aussi été dévoilée. Le post YellowKey : la faille zero-day qui fait sauter la protection ...",
-      "published": "2026-05-14T05:59:56+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
