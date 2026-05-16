@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-15T19:26:15.117853+00:00",
+  "last_updated": "2026-05-16T02:40:15.115342+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "28d8f8806e4df19ebd4d2bb45682fbea",
+      "title": "Outlook – CVE-2026-40361 : cette faille zero-click menace les entreprises, patchez !",
+      "link": "https://www.it-connect.fr/outlook-cve-2026-40361-cette-faille-zero-click-menace-les-entreprises-patchez/",
+      "summary": "Le Patch Tuesday de mai 2026 publié par Microsoft corrige une faille de type zero-click affectant Outlook (et Word) : CVE-2026-40361. Voici comment se protéger. Le post Outlook – CVE-2026-40361 : cette faille zero-cli...",
+      "published": "2026-05-15T22:10:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "afb5616051f725feb59250e5d47cbf48",
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+      "published": "2026-05-15T19:30:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "fc8da5e662db09ae22c7008a11cc19dd",
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
@@ -293,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "61aaf15a35fcd52dc65c79d3042804a3",
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on...",
-      "published": "2026-05-14T20:09:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "edda563bb16421598d9fb2ef3adea225",
       "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
       "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/yellowkey-la-faille-zero-day-qui-fait-sauter-la-protection-bitlocker-de-windows/",
       "summary": "La faille YellowKey permet de contourner la protection BitLocker de Windows, tandis qu'une autre faille surnommée GreenPlasma a aussi été dévoilée. Le post YellowKey : la faille zero-day qui fait sauter la protection ...",
       "published": "2026-05-14T05:59:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "96c8b22cda1c96518574143ef718031d",
-      "title": "Fragnesia : cette nouvelle faille dans le noyau Linux offre un accès root",
-      "link": "https://www.it-connect.fr/fragnesia-cette-nouvelle-faille-dans-le-noyau-linux-offre-un-acces-root/",
-      "summary": "Fragnesia (CVE-2026-46300), c'est le nom de la nouvelle faille critique offrant un accès root sur Linux ! L'essentiel à savoir sur ce nouvel exploit universel. Le post Fragnesia : cette nouvelle faille dans le noyau L...",
-      "published": "2026-05-14T05:11:34+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
