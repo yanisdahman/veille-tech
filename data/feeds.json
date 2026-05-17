@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-17T02:48:58.968435+00:00",
+  "last_updated": "2026-05-17T08:17:57.140985+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "feebd4850ba68a65c9fb3c4181e2b62f",
+      "title": "Notchi - Une mascotte pixel-art dans l'encoche pour Claude Code",
+      "link": "https://korben.info/notchi-encoche-macbook-claude-code.html",
+      "summary": "Vous vous souvenez de l'encoche des MacBook Pro et autres Air d'Apple ? Mais siiii, celle qu'on avait tous trouvée bien moche en 2022, au point que je vous avais pondu un article entier pour la faire disparaître ! Hé ...",
+      "published": "2026-05-17T07:26:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/notchi-encoche-macbook-claude-code/notchi-encoche-macbook-claude-code-1.jpeg"
+    },
+    {
+      "id": "f1d4c08914c278da635806d0b2a31a26",
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no custome...",
+      "published": "2026-05-17T07:13:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg"
+    },
+    {
+      "id": "9a453ff0ae84af33d36a6e1d0ac24aeb",
+      "title": "Le guide SEO IA de Google - Les hacks GEO, c'est du flan",
+      "link": "https://korben.info/google-guide-optimisation-ia.html",
+      "summary": "Si vous avez payé une agence pour \"optimiser votre site pour l'IA\" ces derniers mois, asseyez-vous bien confortablement car Google a publié son guide officiel sur le sujet, et le résumé tient en une phrase, le SEO pou...",
+      "published": "2026-05-17T05:38:30+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-guide-optimisation-ia/google-guide-optimisation-ia-1.png"
+    },
     {
       "id": "9e788aff73d450e691d7feb3471a4f21",
       "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
@@ -293,26 +323,6 @@
       "image": ""
     },
     {
-      "id": "e2da044a76d6d1b1ed790c431e35fe3a",
-      "title": "Une faille permet d'ouvrir un disque BitLocker avec quelques fichiers sur une clé USB",
-      "link": "https://korben.info/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb.html",
-      "summary": "BitLocker, c'est le système de chiffrement intégré à Windows qui protège vos disques contre quelqu'un qui mettrait la main sur votre machine. Activé par défaut sur Windows 11 et installé sur des millions d'ordinateurs...",
-      "published": "2026-05-15T07:46:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb-1.jpg"
-    },
-    {
-      "id": "a616c1792ab61b70f4f3866475658729",
-      "title": "TUIStudio - Pour désigner vos applications terminal",
-      "link": "https://korben.info/tuistudio-figma-applications-terminal.html",
-      "summary": "Vous avez déjà essayé de dessiner une TUI (Interface utilisateur pour le Terminal) à la main dans votre IDE ? Genre, calculer les paddings d'une Box ANSI à la mano et compter les caractères Unicode pour aligner trois ...",
-      "published": "2026-05-15T07:35:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/tuistudio-figma-applications-terminal/tuistudio-figma-applications-terminal-1.jpeg"
-    },
-    {
       "id": "447fec50ca106f9cb4074f9c587f2afe",
       "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
       "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
@@ -371,16 +381,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTj2m9-HHmDEDzKIsalsJ_HJcwcUsIFajvcpTLP9QMyqS9F_JroTH7lXeOGZFuO6j6F-RzbIo1kBIQ0udSFQGzjN2hxO8ZfyFeHM5557BPI1sjiJ7cEMJJE62t11e07Wt1CsmAntpLHSM0XbnQDvVYNBfNdAOsob9kN6G6-mQjKX68fEE1nzy_Bn4TvxyK/s1600/node.jpg"
-    },
-    {
-      "id": "067f4aff97ee5175ed3aa056125b2626",
-      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-      "summary": "Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash....",
-      "published": "2026-05-14T16:07:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImYNT-qC7frGzEXeok3KDX_JNMKote6V1FVXIpkAoSEER2z1YyT8dpFq5RtRhBQ0cweEPbBIuioDWFf5rw_Mf-0V6rXR2ZrMh2ISDa7X7NlV9zIGsoLSAnyd_86eVkrR4wU24yxbuCYaAmyGFwlF77YCjvgU3n43P-yFT-pzjsmQ35Oaut1klg62bs_-i/s1600/threatsday-2.jpg"
     },
     {
       "id": "6a52b711a0f9a3499e34c262341ec870",
