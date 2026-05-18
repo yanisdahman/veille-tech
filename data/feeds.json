@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-17T19:04:30.172225+00:00",
+  "last_updated": "2026-05-18T02:58:59.809693+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "98faa7d9a6a59ceeb0a12c70f89010e8",
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
+      "published": "2026-05-17T22:30:08+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "b151ad981b02803485d2235dbe0dfbac",
       "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
@@ -291,16 +301,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/wikipedia-explorer-samismith/wikipedia-explorer-samismith-1.png"
-    },
-    {
-      "id": "5e8adaffae2036d95280f1df6f697957",
-      "title": "Microsoft to automatically roll back faulty Windows drivers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
-      "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
-      "published": "2026-05-15T12:29:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "2d1eedfe954449beb50fab433dfe1700",
