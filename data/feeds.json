@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-05-18T02:58:59.809693+00:00",
+  "last_updated": "2026-05-18T09:57:16.007419+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0df8e45cd5afb6d1b693f2c29fe389d8",
+      "title": "vLLM-MLX - Pour remplacer l'API d'OpenAI par votre propre Mac",
+      "link": "https://korben.info/vllm-mlx-serveur-inference-apple-silicon.html",
+      "summary": "Si vous avez un Mac avec une puce Silicon et que vous en avez marre de raquer pour des tokens à chaque requête API à un LLM à la con, y'a un projet qui mérite, je trouve, le détour. Ça s'appelle vLLM-MLX , et c'est un...",
+      "published": "2026-05-18T09:23:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vllm-mlx-serveur-inference-apple-silicon/vllm-mlx-serveur-inference-apple-silicon-1.png"
+    },
+    {
+      "id": "523174e6f415ac64858bec84720602e1",
+      "title": "Windows 11 : la faille zero-day MiniPlasma donne les privilèges SYSTEM",
+      "link": "https://www.it-connect.fr/windows-11-la-faille-zero-day-miniplasma-donne-les-privileges-system/",
+      "summary": "MiniPlasma, c'est le nom d'une faille zero-day Windows dévoilée par Chaotic Eclipse. Elle permet d'obtenir les privilèges SYSTEM sur une machine à jour. Le post Windows 11 : la faille zero-day MiniPlasma donne les pri...",
+      "published": "2026-05-18T09:23:33+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ab549b95a7a5f3afdfa3a29abbc89d52",
+      "title": "Mullvad VPN : les adresses IP de sortie pas si aléatoires que ça, découvrez pourquoi",
+      "link": "https://www.it-connect.fr/mullvad-vpn-les-adresses-ip-de-sortie-pas-si-aleatoires-que-ca-decouvrez-pourquoi/",
+      "summary": "Un problème de confidentialité pour Mullvad VPN : les adresses IP de sortie WireGuard ne seraient pas si aléatoires... Ce qui ouvre la porte au fingerprinting. Le post Mullvad VPN : les adresses IP de sortie pas si al...",
+      "published": "2026-05-18T08:50:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "99e7ea774592b3ee99baba8c9d7eaef9",
+      "title": "L'histoire géniale du programmeur qui a tout effacé en 1981 à cause d'une astérisque",
+      "link": "https://korben.info/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque.html",
+      "summary": "Sur The Register, un témoignage improbable d'un lecteur qui raconte la fois où il a effacé toutes les données et tout le code de son entreprise. Voilà qui date pas mal, puisque c,'était en 1981, il avait 21 ans, et il...",
+      "published": "2026-05-18T08:46:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque-1.jpg"
+    },
+    {
+      "id": "653257dd46c05e5c0821944c9c5e8c7f",
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "summary": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+      "published": "2026-05-18T08:33:14+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5a360da5dcb89cd80bcec03adab3c0ef",
+      "title": "Pwn2Own Berlin 2026 : 47 failles zero-day découvertes dans VMware, Windows, des outils IA, etc.",
+      "link": "https://www.it-connect.fr/pwn2own-berlin-2026-47-failles-zero-day-decouvertes-dans-vmware-windows-des-outils-ia-etc/",
+      "summary": "À l'occasion de l'édition 2026 du Pwn2Own de Berlin, les hackers ont pu découvrir 47 failles de sécurité zero-day au terme de trois jours de compétition. Le post Pwn2Own Berlin 2026 : 47 failles zero-day découvertes d...",
+      "published": "2026-05-18T08:06:55+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "74bfbe390d70904537a6c811fa7d9592",
+      "title": "ModuleJail - Bloquer les modules kernel Linux inutilisés",
+      "link": "https://korben.info/modulejail-blacklist-modules-kernel-linux-inutilises.html",
+      "summary": "Vous ne le savez peut-être pas mais votre serveur Linux embarque plusieurs milliers de modules kernel et pourtant, il n'en utilise que quelques centaines à peine. Tout le reste ça prend la poussière et ça peut vous ex...",
+      "published": "2026-05-18T08:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/modulejail-blacklist-modules-kernel-linux-inutilises/modulejail-blacklist-modules-kernel-linux-inutilises-1.png"
+    },
+    {
+      "id": "ce85b53512918d53ecec6a39a9035840",
+      "title": "OpenAI confirme un vol de données lié à une attaque supply chain sur TanStack",
+      "link": "https://www.it-connect.fr/openai-confirme-un-vol-de-donnees-lie-a-une-attaque-supply-chain-sur-tanstack/",
+      "summary": "OpenAI a été victime d'une fuite de données suite à l'attaque ciblant TanStack : une mise à jour des applications est nécessaire sur Mac avant le 12 juin 2026. Le post OpenAI confirme un vol de données lié à une attaq...",
+      "published": "2026-05-18T07:41:47+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a4baa66156c4421e8b2d032ba1042ce3",
+      "title": "Asimov - Le robot humanoïde open source jusqu'à la dernière vis",
+      "link": "https://korben.info/asimov-robot-humanoide-open-source.html",
+      "summary": "\"Free the robot\" !!! C'est le slogan de Menlo Research, et pour une fois c'est pas du flan. En effet, leur Asimov v1 est un humanoïde de 1,20 m et 35 kg, entièrement open source ! Tout est fourni gratuitement donc, le...",
+      "published": "2026-05-18T07:24:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/asimov-robot-humanoide-open-source/asimov-robot-humanoide-open-source-1.jpeg"
+    },
+    {
+      "id": "8f26049c7c01406851df71672fbb3746",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "published": "2026-05-18T07:18:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3b30e495a4d1600973a1ea0eff9673df",
+      "title": "Veilid - Tor pour les apps signé Cult of the Dead Cow",
+      "link": "https://korben.info/veilid-framework-p2p.html",
+      "summary": "Cult of the Dead Cow , un des plus vieux collectifs hacktivistes encore en activité, ne se contente pas que de balancer des manifestes politiques depuis 1984. Ils codent. Et leur dernier bébé en date s'appelle Veilid ...",
+      "published": "2026-05-18T07:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/veilid-framework-p2p/veilid-framework-p2p-1.jpg"
+    },
+    {
+      "id": "4c3f8756c6cb8e835557a7a94c309e54",
+      "title": "Vos imprimantes sont-elles compatibles avec le mode d’impression protégé de Windows ?",
+      "link": "https://www.it-connect.fr/vos-imprimantes-sont-elles-compatibles-avec-le-mode-dimpression-protege-de-windows/",
+      "summary": "Découvrez le nouvel indicateur visuel dans Windows 11, facilitant l'identification des imprimantes compatibles avec le mode \"Windows Protected Print\". Le post Vos imprimantes sont-elles compatibles avec le mode d’impr...",
+      "published": "2026-05-18T06:47:52+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "938aed7511d4b4b05b6baffe4711a7d3",
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, ...",
+      "published": "2026-05-18T06:46:37+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
+    },
+    {
+      "id": "b4aa233569b48d7bcfa8bcc46a2e602c",
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
+      "published": "2026-05-18T05:33:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "523bbe15f0918bbfd899655384b7f663",
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attac...",
+      "published": "2026-05-18T04:59:21+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
+    },
     {
       "id": "98faa7d9a6a59ceeb0a12c70f89010e8",
       "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
@@ -133,36 +283,6 @@
       "image": "https://korben.info/arnaque-bot-crypto-ia-ethereum/arnaque-bot-crypto-ia-ethereum-1.png"
     },
     {
-      "id": "51b9b6bb927e438c3d231de41c62c50f",
-      "title": "La folle histoire de la 3DO Blaster, ressuscitée dans un musée",
-      "link": "https://korben.info/la-folle-histoire-de-la-3do-blaster-ressuscitee-dans-un-musee.html",
-      "summary": "En 1994, Creative Labs, le fabricant des fameuses cartes son Sound Blaster, a sorti un truc complètement fou : la 3DO Blaster, une carte ISA (le format d'extension standard des PC de l'époque) qui contenait littéralem...",
-      "published": "2026-05-16T09:25:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-folle-histoire-de-la-3do-blaster-ressuscitee-dans-un-musee/la-folle-histoire-de-la-3do-blaster-ressuscitee-dans-un-musee-1.jpg"
-    },
-    {
-      "id": "40ac67dd8cc18423f8a67f38111d2558",
-      "title": "Ne jetez pas votre vieux PC : le noyau Linux s'apprête à booster ses performances en jeu",
-      "link": "https://korben.info/ne-jetez-pas-votre-vieux-pc-le-noyau-linux-sapprete-a-booster-ses-performances-en-jeu.html",
-      "summary": "Sur un PC, l'ordonnanceur du système (le scheduler en anglais), c'est ce petit bout du noyau qui décide quelle tâche tourne sur quel cœur du processeur, et pendant combien de temps. Plus il est malin, plus la machine ...",
-      "published": "2026-05-16T09:01:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ne-jetez-pas-votre-vieux-pc-le-noyau-linux-sapprete-a-booster-ses-performances-en-jeu/ne-jetez-pas-votre-vieux-pc-le-noyau-linux-sapprete-a-booster-ses-performances-en-jeu-1.jpg"
-    },
-    {
-      "id": "49ea829e652d14d4211e65851aab5416",
-      "title": "GitLike - Le GitHub décentralisé sur IPFS",
-      "link": "https://korben.info/gitlike-github-decentralise-ipfs.html",
-      "summary": "Branislav Đalić, un dev serbe basé à Belgrade, vient de balancer un projet plutôt original baptisé GitLike . Il s'agit d'un GitHub décentralisé qui stocke vos repos sur IPFS et remplace le mot de passe par votre clé E...",
-      "published": "2026-05-16T07:42:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gitlike-github-decentralise-ipfs/gitlike-github-decentralise-ipfs-1.jpeg"
-    },
-    {
       "id": "571e949c6dff4391b9a3d9e03ce17d6a",
       "title": "Test Kingston IronKey Locker+ 50 G2 : une clé USB avec du chiffrement matériel",
       "link": "https://www.it-connect.fr/test-kingston-ironkey-locker-plus-50-g2/",
@@ -223,26 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
     },
     {
-      "id": "0b3f9249fb8f489446e3eed9ded08f17",
-      "title": "Mythos, l'IA d'Anthropic, aide à percer le kernel d'un Mac M5 en cinq jours",
-      "link": "https://korben.info/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours.html",
-      "summary": "Cinq jours. C'est le temps qu'il a fallu à l'équipe de Calif, une boîte de sécurité informatique, pour faire tourner un exploit fonctionnel sur un Mac équipé de la dernière puce M5 d'Apple. Et pas n'importe quel explo...",
-      "published": "2026-05-15T16:45:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours-1.webp"
-    },
-    {
-      "id": "59ee5aef3c258062ad06d6efaa65042b",
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
-      "published": "2026-05-15T15:56:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d00e0d8aaa3b40da2b87a520713c8833",
       "title": "Exchange Server – CVE-2026-42897 : cette faille zero-day est déjà exploitée !",
       "link": "https://www.it-connect.fr/exchange-server-cve-2026-42897-cette-faille-zero-day-est-deja-exploitee/",
@@ -250,26 +350,6 @@
       "published": "2026-05-15T15:31:36+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "273e7bc3c0f2b6b9d615d5b844c1284d",
-      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-      "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
-      "published": "2026-05-15T14:49:39+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "803f445be5a9367a5d234c1ad2b1cb3c",
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
-      "published": "2026-05-15T14:02:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -293,16 +373,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png"
     },
     {
-      "id": "a25281408dacf2d3f9be8dc3a8f08eb6",
-      "title": "Wikipedia File Explorer - L'encyclopédie en mode Windows XP",
-      "link": "https://korben.info/wikipedia-explorer-samismith.html",
-      "summary": "Wikipedia, vous connaissez ça par cœur j'imagine... Hé bien vous allez redécouvrir la plus connue des encyclopédies grâce à Sami Smith qui a lancé explorer.samismith.com , qui transforme quasiment toute l'encyclopédie...",
-      "published": "2026-05-15T13:24:35+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/wikipedia-explorer-samismith/wikipedia-explorer-samismith-1.png"
-    },
-    {
       "id": "2d1eedfe954449beb50fab433dfe1700",
       "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
       "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
@@ -323,16 +393,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
     },
     {
-      "id": "af356023dc972e8b9102de869b60e03d",
-      "title": "OpenAI dégaine Daybreak : sa plateforme cybersécurité pour concurrencer Anthropic",
-      "link": "https://www.it-connect.fr/openai-degaine-daybreak-sa-plateforme-cybersecurite-pour-concurrencer-anthropic/",
-      "summary": "OpenAI se positionne face à Anthropic avec Daybreak, une plateforme intégrée de cybersécurité exploitant GPT-5.5 et Codex Security pour la cyberdéfense. Le post OpenAI dégaine Daybreak : sa plateforme cybersécurité po...",
-      "published": "2026-05-15T08:33:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "447fec50ca106f9cb4074f9c587f2afe",
       "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
       "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
@@ -341,66 +401,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
-    },
-    {
-      "id": "c3a33fbca85d34ab5833d63003a80e9b",
-      "title": "Test ASUSTOR Drivestor 4 Gen2 (AS1204T) : le NAS 4 baies le plus abordable",
-      "link": "https://www.it-connect.fr/test-asustor-drivestor-4-gen2-as1204t-nas/",
-      "summary": "Découvrez le NAS ASUSTOR Drivestor 4 Gen2 (AS1204T), un modèle abordable avec connectivité 2.5 GbE, système ADM 5.1, et une fiche technique bien équilibrée. Le post Test ASUSTOR Drivestor 4 Gen2 (AS1204T) : le NAS 4 b...",
-      "published": "2026-05-15T06:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7c7bfe7ac4797baafb9e8b8bd5cc58be",
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requir...",
-      "published": "2026-05-15T05:28:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png"
-    },
-    {
-      "id": "367e94a7062957657db4548d56f76008",
-      "title": "SupportAssist : ce logiciel préinstallé fait planter les PC Dell sous Windows",
-      "link": "https://www.it-connect.fr/supportassist-ce-logiciel-preinstalle-fait-planter-les-pc-dell-sous-windows/",
-      "summary": "SupportAssist de Dell cause des écrans bleus de la mort sur Windows 10 et Windows 11 avec une erreur CRITICAL PROCESS. Que faire ? Voici ce que l'on sait. Le post SupportAssist : ce logiciel préinstallé fait planter l...",
-      "published": "2026-05-15T05:27:43+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "edda563bb16421598d9fb2ef3adea225",
-      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
-      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carri...",
-      "published": "2026-05-14T17:45:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9rok1ToP_K0gWug0GnICltZkvx6bMRyhHfTJG1AcSfrGpM_fOVc61O3Fpyen_IW-wpb4s6Hl3qZcU5nEs77SMWSpKNDR4rrlY2syVVSNEBrpHx8RkWmYaN9MZORNICc8LNhuNjXqqhxmy7JN-y389oyQnAAFoBMJC1NoQSQFaOZ2MnrpKQRfv_eYXIoWI/s1600/cisco-exploit.jpg"
-    },
-    {
-      "id": "6a52b711a0f9a3499e34c262341ec870",
-      "title": "AppControl : un gestionnaire des tâches complet pour Windows",
-      "link": "https://www.it-connect.fr/appcontrol-gestionnaire-des-taches-moderne-pour-windows/",
-      "summary": "Découvrez comment AppControl peut remplacer le Gestionnaire de tâches de Windows grâce à un historique précis et des alertes en temps réel. Le post AppControl : un gestionnaire des tâches complet pour Windows a été pu...",
-      "published": "2026-05-14T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "19b66aea93bcc4454160c0c0d5441f99",
-      "title": "Vibe Coding – Claude avec l’API illimitée : c’est fini le 15 juin 2026 !",
-      "link": "https://www.it-connect.fr/vibe-coding-claude-avec-api-illimitee-cest-fini-le-15-juin-2026/",
-      "summary": "Dès le 15 juin prochain, Anthropic va siffler la fin de la récréation pour Claude Code : le nombre de crédits liés à l'API va être limité dans chaque forfait. Le post Vibe Coding – Claude avec l’API illimitée : c’est ...",
-      "published": "2026-05-14T12:20:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "c66ba957ea8699b3a98328d377b98b8c",
