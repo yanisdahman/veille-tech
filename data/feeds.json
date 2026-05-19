@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-19T02:55:10.544666+00:00",
+  "last_updated": "2026-05-19T09:38:13.860769+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ac048f8f5950714024179b1e02516c15",
+      "title": "Andon FM - Quand les IA gèrent des radios et pètent un plomb",
+      "link": "https://korben.info/andon-fm-quatre-ia-radios-autonomes.html",
+      "summary": "Vous vous souvenez de Claudius, cette IA qui gérait un distributeur automatique et qui s'était fait arnaquer comme un bleu ? Hé bien c'est reparti, en pire ou en mieux, c'est selon ^^. Andon Labs, le même labo qui éta...",
+      "published": "2026-05-19T08:34:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/andon-fm-quatre-ia-radios-autonomes/andon-fm-quatre-ia-radios-autonomes-1.jpg"
+    },
+    {
+      "id": "032fabb51f0f3e444a49b9cc3365efc6",
+      "title": "ShadowBroker - Une salle de crise OSINT mondiale chez vous",
+      "link": "https://korben.info/shadowbroker-osint-temps-reel.html",
+      "summary": "Les avions en vol, les cargos, les satellites espions, les zones de brouillage GPS... Imaginez tout ce bordel, à l'échelle de la planète, visible sur une seule carte sombre directement chez vous. Ce serait fou non ? H...",
+      "published": "2026-05-19T08:13:07+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/shadowbroker-osint-temps-reel/shadowbroker-osint-temps-reel-1.png"
+    },
+    {
+      "id": "767d26d229dd4f280a6da73a0717eb08",
+      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
+      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (...",
+      "published": "2026-05-19T07:49:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg"
+    },
+    {
+      "id": "63040bdf9d5f65a7288f5054aef9c14e",
+      "title": "Ibou Explorer - L'anti-Google Discover français",
+      "link": "https://korben.info/ibou-peyronnet-moteur-recherche-ia-francais.html",
+      "summary": "Y'a un nouveau projet français qui débarque face à Google, et celui-là va vous plaire, j'en suis sûr ! Ça s'appelle Ibou Explorer, et c'est porté par Sylvain Peyronnet (oui, un des deux frères du SEO français bien con...",
+      "published": "2026-05-19T06:56:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ibou-peyronnet-moteur-recherche-ia-francais/ibou-peyronnet-moteur-recherche-ia-francais-1.png"
+    },
+    {
+      "id": "10a354fb150373d57c328bb60010bf3f",
+      "title": "AudioHijack - Le son inaudible qui pirate votre assistant IA",
+      "link": "https://korben.info/attaque-audio-cachee-ia-vocale.html",
+      "summary": "Meng Chen, doctorant à l'université Zhejiang, vient de prouver avec son équipe qu'on pouvait complétement détourner un assistant vocal IA avec un simple son que vous prendriez probablement pour un simple parasite. Ave...",
+      "published": "2026-05-19T05:46:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/attaque-audio-cachee-ia-vocale/attaque-audio-cachee-ia-vocale-1.png"
+    },
+    {
+      "id": "4a1d4c8f1f41bdb4260e5e273ec4557e",
+      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
+      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates th...",
+      "published": "2026-05-19T05:28:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7jpVO6HhBuEBTjkwmNjYhKlFmhhmytOqNZHYuGP-dNWrf3AoyE68yoKj77elddOX4Ps2x9jSuwhi5sE-QjK_oEjLXgQW9e6EHx6W0G7qTqYTM3fZh1AQTyrgm2o-PFBeD9ryHnC6fDmK5MYKUzBjU_pJibTilnm1d99WSQkJux6PXXRydkYW5d15Ada-/s1600/step.jpg"
+    },
+    {
+      "id": "ebda63113794b44193274609b768840a",
+      "title": "Grafana se fait voler sa codebase sur GitHub mais refuse de payer la rançon des pirates",
+      "link": "https://www.it-connect.fr/grafana-se-fait-voler-sa-codebase-sur-github-mais-refuse-de-payer-la-rancon-des-pirates/",
+      "summary": "Les pirates de Coinbase Cartel sont parvenus à compromettre le compte GitHub de Grafana Labs et à voler la codebase après avoir compromis un jeton d'accès. Le post Grafana se fait voler sa codebase sur GitHub mais ref...",
+      "published": "2026-05-19T05:03:03+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "52fff2d015b90eff3bb99c75ad03b66b",
+      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave....",
+      "published": "2026-05-19T04:54:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg"
+    },
     {
       "id": "cd249d253c2c006a32b43871229afade",
       "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
@@ -193,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "577b0f3667588fe4a2816fde2be0ec25",
-      "title": "Oubliez votre PC portable, et passez au Cyberdeck fait maison",
-      "link": "https://korben.info/oubliez-votre-pc-portable-et-passez-au-cyberdeck-fait-maison.html",
-      "summary": "Si vous avez déjà rêvé d'une machine portable qu'on peut démonter, réparer et améliorer pièce par pièce comme un Lego, l'objet construit par Jankbu va vous parler. Le YouTubeur, spécialisé dans la bidouille électroniq...",
-      "published": "2026-05-18T11:09:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/oubliez-votre-pc-portable-et-passez-au-cyberdeck-fait-maison/oubliez-votre-pc-portable-et-passez-au-cyberdeck-fait-maison-1.jpg"
-    },
-    {
       "id": "6cb33c99afa30baea71e5db6961131dc",
       "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
       "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
@@ -213,16 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
     },
     {
-      "id": "3ba788ce6b247619fd1da6f857513238",
-      "title": "MiniPlasma - La faille Windows que Microsoft croyait corrigée",
-      "link": "https://korben.info/miniplasma-windows-0day-elevation-systeme.html",
-      "summary": "Si vous tournez sur un Windows 11 à jour, sachez qu'il existe une faille qui permet à un programme local spécialement conçu de grimper tranquillou jusqu'au compte SYSTEM. Pour rappel, c'est le compte tout-puissant de ...",
-      "published": "2026-05-18T10:51:20+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/miniplasma-windows-0day-elevation-systeme/miniplasma-windows-0day-elevation-systeme-1.png"
-    },
-    {
       "id": "39be2142e30f6168a840fd347ae33cfb",
       "title": "Bon plan : le mini PC Geekom A6 a le droit à 200 euros de réduction immédiate avec ce code",
       "link": "https://www.it-connect.fr/bon-plan-le-mini-pc-geekom-a6-a-le-droit-a-200-euros-de-reduction-immediate-avec-ce-code/",
@@ -231,16 +291,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "0df8e45cd5afb6d1b693f2c29fe389d8",
-      "title": "vLLM-MLX - Pour remplacer l'API d'OpenAI par votre propre Mac",
-      "link": "https://korben.info/vllm-mlx-serveur-inference-apple-silicon.html",
-      "summary": "Si vous avez un Mac avec une puce Silicon et que vous en avez marre de raquer pour des tokens à chaque requête API à un LLM à la con, y'a un projet qui mérite, je trouve, le détour. Ça s'appelle vLLM-MLX , et c'est un...",
-      "published": "2026-05-18T09:23:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/vllm-mlx-serveur-inference-apple-silicon/vllm-mlx-serveur-inference-apple-silicon-1.png"
     },
     {
       "id": "523174e6f415ac64858bec84720602e1",
@@ -281,16 +331,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "99e7ea774592b3ee99baba8c9d7eaef9",
-      "title": "L'histoire géniale du programmeur qui a tout effacé en 1981 à cause d'une astérisque",
-      "link": "https://korben.info/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque.html",
-      "summary": "Sur The Register, un témoignage improbable d'un lecteur qui raconte la fois où il a effacé toutes les données et tout le code de son entreprise. Voilà qui date pas mal, puisque c,'était en 1981, il avait 21 ans, et il...",
-      "published": "2026-05-18T08:46:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque-1.jpg"
     },
     {
       "id": "653257dd46c05e5c0821944c9c5e8c7f",
@@ -343,16 +383,6 @@
       "image": ""
     },
     {
-      "id": "938aed7511d4b4b05b6baffe4711a7d3",
-      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, ...",
-      "published": "2026-05-18T06:46:37+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
-    },
-    {
       "id": "b4aa233569b48d7bcfa8bcc46a2e602c",
       "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
@@ -370,36 +400,6 @@
       "published": "2026-05-17T22:30:08+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b0e8f1d9a5416f81eb858c729923f9bb",
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-4294...",
-      "published": "2026-05-17T11:57:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
-    },
-    {
-      "id": "f1d4c08914c278da635806d0b2a31a26",
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no custome...",
-      "published": "2026-05-17T07:13:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg"
-    },
-    {
-      "id": "790d1e67066e94e14916e02c6b2f3332",
-      "title": "Piratage Pierre & Vacances – Center Parcs : 1,6 million de dossiers de réservations concernés",
-      "link": "https://www.it-connect.fr/piratage-pierre-vacances-center-parcs-1-6-million-de-dossiers-de-reservations-concernes/",
-      "summary": "Le groupe Pierre & Vacances - Center Parcs a été victime d'une cyberattaque entraînant la fuite de données relatives à 1,6 million de dossiers de réservation. Le post Piratage Pierre & Vacances – Center Parcs : 1,6 mi...",
-      "published": "2026-05-16T12:53:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
       "image": ""
     },
     {
