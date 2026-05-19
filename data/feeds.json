@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-18T19:42:06.137934+00:00",
+  "last_updated": "2026-05-19T02:55:10.544666+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "cd249d253c2c006a32b43871229afade",
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
+      "published": "2026-05-18T22:15:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2133c1ebfc41444368db20159e18615f",
+      "title": "SHub macOS infostealer variant spoofs Apple security updates",
+      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
+      "published": "2026-05-18T21:42:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "cee5096073253d14e27bedd560a42830",
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
@@ -353,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "b151ad981b02803485d2235dbe0dfbac",
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
-      "published": "2026-05-17T14:43:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "b0e8f1d9a5416f81eb858c729923f9bb",
       "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
       "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
@@ -381,16 +391,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg"
-    },
-    {
-      "id": "9e788aff73d450e691d7feb3471a4f21",
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was...",
-      "published": "2026-05-16T20:55:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "790d1e67066e94e14916e02c6b2f3332",
