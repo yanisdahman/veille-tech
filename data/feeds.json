@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-05-20T09:26:41.777848+00:00",
+  "last_updated": "2026-05-20T14:57:08.254833+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "96d626fc48859129e5600c290f08d48c",
+      "title": "PinTheft : ce nouvel exploit offre les droits root sur Arch Linux",
+      "link": "https://www.it-connect.fr/pintheft-ce-nouvel-exploit-offre-les-droits-root-sur-arch-linux/",
+      "summary": "Un code d'exploitation a été publié pour PinTheft, une faille dans le noyau Linux permettant d'effectuer une élévation de privilèges en local. Qui est affecté ? Le post PinTheft : ce nouvel exploit offre les droits ro...",
+      "published": "2026-05-20T14:47:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "98ccd81fcb11407aa4eb9eff78219170",
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, comprom...",
+      "published": "2026-05-20T14:36:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg"
+    },
+    {
+      "id": "dbdfa763c97f70e2401722e8aab07d71",
+      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+      "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+      "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+      "published": "2026-05-20T14:02:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9d5c42e398614dd0deefdca80da9d82b",
+      "title": "J'ai collé un autocollant de raccourcis macOS sur mon Mac, et c’est génial (existe pour Windows aussi !)",
+      "link": "https://korben.info/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi.html",
+      "summary": "– Contient des liens affiliés Amazon – Je suis tombé sur un accessoire à moins de 10 euros qui ne paie pas de mine, et que j'utilise pourtant tous les jours depuis que je l'ai reçu. C'est un simple autocollant. Un car...",
+      "published": "2026-05-20T13:30:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi-1.jpeg"
+    },
+    {
+      "id": "1e3ae03c0d0a3f161e7199510dc41c9a",
+      "title": "Anthropic rachète Stainless, l'outil qui fabrique aussi les SDK de ses concurrents",
+      "link": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents.html",
+      "summary": "Anthropic, la boîte derrière l'IA Claude, a racheté Stainless pour plus de 300 millions de dollars. Stainless, c'est un nom que le grand public ne connaît pas, mais l'outil est partout : il transforme automatiquement ...",
+      "published": "2026-05-20T13:05:32+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents-1.png"
+    },
+    {
+      "id": "4827d13639e2365f0b9bf60cf17b2698",
+      "title": "Drupal critical update to fix bug with high exploitation risk",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+      "published": "2026-05-20T12:52:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4d0ed00cf1341e9d1c7a982127c7092d",
+      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+      "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C...",
+      "published": "2026-05-20T12:51:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4cD52DtnzH5FM8ZMrW9KyPrD1ysrJURSmqalrw9f6siP8XxYqClsqV6ofHpM8ir7gBnmmvehj5HB1k0aSHdPmLtKKwtLLvjSi4ELa9eMq12maW7p56a2yBdl7xzdfv6893fvQxLIH0kKGYKnzYM_7-3XysWIGsSNiEYXBjmiWFqe0Pe8uq-TkWlQjjv4/s1600/cyberattack-paki.jpg"
+    },
+    {
+      "id": "cc326b681b2f31202a1d01c5a3dc213a",
+      "title": "« C’est ingérable » : pourquoi Linus Torvalds tape du poing sur la table face à l’IA",
+      "link": "https://www.it-connect.fr/cest-ingerable-pourquoi-linus-torvalds-tape-du-poing-sur-la-table-face-a-ia/",
+      "summary": "Linus Torvalds perd patience : la mailing list dédiée à la sécurité du noyau Linux est en train de craquer sous le poids des rapports de bugs soumis par IA. Le post « C’est ingérable » : pourquoi Linus Torvalds tape d...",
+      "published": "2026-05-20T12:35:33+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9b0d094f2ca1cc6f9d3ff3a9f46d12ad",
+      "title": "Une faille inconnue dans un routeur Huawei a mis tout le Luxembourg hors ligne pendant 3 heures",
+      "link": "https://korben.info/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures.html",
+      "summary": "Le 23 juillet 2025, le Luxembourg entier s'est retrouvé sans réseau mobile, sans téléphone fixe et sans communications d'urgence pendant plus de trois heures. Dix mois plus tard, on connaît enfin la cause grâce au méd...",
+      "published": "2026-05-20T12:34:05+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures-1.jpg"
+    },
+    {
+      "id": "1b7506d3de837186b6fff304a97ea943",
+      "title": "Google Cloud débranche Railway sans prévenir",
+      "link": "https://korben.info/google-cloud-debranche-railway-sans-prevenir.html",
+      "summary": "Hier soir, le compte Google Cloud de Railway est passé en statut restreint. Du jour au lendemain, sans préavis et sans la moindre explication. Railway, pour ceux qui ne connaissent pas, c'est un service américain qui ...",
+      "published": "2026-05-20T12:03:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-cloud-debranche-railway-sans-prevenir/google-cloud-debranche-railway-sans-prevenir-1.jpg"
+    },
+    {
+      "id": "b2bf169c4102d928b59566c1be826c3e",
+      "title": "Agent AI is Coming. Are You Ready?",
+      "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
+      "summary": "New Industry Data Just Released Suggests Not. On May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of i...",
+      "published": "2026-05-20T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjYQaF0euKIc86WLed9RLojSVHUNrnpx7_OeZHvmaPtnFPmL3WrhC-DU-7asOtrYx8fBGP-UCdxI1QljVgaT_wYA6uIye4yHpzpk-uSQb934K7NDSPn-jFJR63cEeUZ8SsDevlcvX-O62_-C8HZeVreeg2aB5stt6z9kluLUvIUgXAGVpAMccDc19lrsmK/s1600/agentai.gif"
+    },
+    {
+      "id": "cb647dad1b1b8baf80b95bd14349f8f9",
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a c...",
+      "published": "2026-05-20T11:38:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
+    },
+    {
+      "id": "d709f2e904c4a904bb7cc61674ddb89c",
+      "title": "Piratage GitHub : 3 800 dépôts internes volés suite au hack du PC d’un employé",
+      "link": "https://www.it-connect.fr/piratage-github-3-800-depots-internes-voles-suite-au-hack-du-pc-dun-employe/",
+      "summary": "Un employé de GitHub a installé une extension VS Code malveillante sur son PC : les pirates ont pu mettre la main sur environ 3 800 dépôts de code internes. Le post Piratage GitHub : 3 800 dépôts internes volés suite ...",
+      "published": "2026-05-20T11:32:33+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f9118cc0a116219dfc9fffee55afaffb",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
+      "published": "2026-05-20T10:52:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d38b87899ef6c0352a86afed368cba71",
+      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+      "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+      "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires. Download the CISO Expe...",
+      "published": "2026-05-20T10:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWPxY_gRwc5keQNREyoTXSadlwpCLyUdAq4v1fQA5_lA2tJ0Ia6xOk-FaLuNHwJjV_xaF7M0xzPvqHk4e7aym6R7J2aaGCGm7Bnv8OXh7GScZ-G7ic5pdEgK-0E0_y_yLz16V2A2GL5uTmU7tRPUyoDl5LfzTzQnuMlI1QV7SEhRC9Cli7zci_no9pyk/s1600/ref.jpg"
+    },
+    {
+      "id": "401b324e43b8edd53413ee99b64cfb02",
+      "title": "Il accuse Pizza Hut de lui avoir fait perdre 100 millions à cause d'une IA",
+      "link": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia.html",
+      "summary": "Chaac Pizza Northeast, qui exploite plus de 100 restaurants Pizza Hut sur la côte est des États-Unis, attaque son propre franchiseur en justice. Le motif : un logiciel d'IA imposé par le siège pour gérer les livraison...",
+      "published": "2026-05-20T09:25:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia-1.jpg"
+    },
     {
       "id": "ecc5da1c9ac08feac2413cfede235538",
       "title": "WordPress Workspace - L'agent IA d'Automattic",
@@ -11,6 +171,16 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/wordpress-workspace-app-mac-automattic/wordpress-workspace-app-mac-automattic-1.avif"
+    },
+    {
+      "id": "c50bb9d9a965032e3a06c37c0870faa6",
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+      "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8....",
+      "published": "2026-05-20T08:28:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png"
     },
     {
       "id": "2590d53291e03f5db70c9223c768cde2",
@@ -103,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "cb647dad1b1b8baf80b95bd14349f8f9",
-      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
-      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a c...",
-      "published": "2026-05-20T04:01:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
-    },
-    {
       "id": "c67cb31189079d02716431d65fd20187",
       "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
@@ -163,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "75a8e5956022e6b4cabf7c01ac63b98f",
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
-      "published": "2026-05-19T19:35:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "461a7fc45275cff532268a838f86b689",
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
       "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
@@ -183,46 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg"
     },
     {
-      "id": "75e78dcbd1e5a5a170e638937ec77778",
-      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
-      "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
-      "published": "2026-05-19T16:22:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c7d710922420a8617a922110dae23344",
-      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-      "summary": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
-      "published": "2026-05-19T16:10:47+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4a5f877ad837b7f21140c82d102292d2",
-      "title": "Cuivrer une pièce imprimée 3D sans cuve géante, c'est possible en la faisant tourner",
-      "link": "https://korben.info/cuivrer-une-piece-imprimee-3d-sans-cuve-geante-cest-possible-en-la-faisant-tourner.html",
-      "summary": "Hendrik s'est attaqué à un problème classique des makers : électroplaquer une pièce imprimée en 3D un peu grosse, ça demande une cuve énorme remplie de produits chimiques pour la submerger entièrement. Sa solution, fa...",
-      "published": "2026-05-19T15:38:49+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cuivrer-une-piece-imprimee-3d-sans-cuve-geante-cest-possible-en-la-faisant-tourner/cuivrer-une-piece-imprimee-3d-sans-cuve-geante-cest-possible-en-la-faisant-tourner-1.jpg"
-    },
-    {
-      "id": "beab99e8bd3202024081bd74e7ae363f",
-      "title": "Apprendre Prolog avec des Pokémon, c’est possible",
-      "link": "https://korben.info/apprendre-prolog-avec-des-pokemon-cest-possible.html",
-      "summary": "Alexander Petros, qui tient le blog Unplanned Obsolescence , a publié un tutoriel d'environ 3 500 mots qui explique les bases de Prolog, un langage de programmation logique des années 70 très différent des langages co...",
-      "published": "2026-05-19T15:15:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/apprendre-prolog-avec-des-pokemon-cest-possible/apprendre-prolog-avec-des-pokemon-cest-possible-1.jpg"
-    },
-    {
       "id": "43ff913c0aa680af30a676085d4726af",
       "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
       "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
@@ -231,26 +341,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg"
-    },
-    {
-      "id": "48b1870918fe55230970af82e00bfea6",
-      "title": "Voir à 650 mètres dans le noir avec un laser infrarouge et une webcam : c’est faisable",
-      "link": "https://korben.info/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable.html",
-      "summary": "Project 326, une chaîne YouTube spécialisée dans les bricolages optiques, a montré un système de vision nocturne longue portée monté de A à Z dans un garage. Le résultat tient en quelques composants : un télescope réf...",
-      "published": "2026-05-19T13:34:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable-1.jpg"
-    },
-    {
-      "id": "9972bc158c52ec9c0ca967f50f700c0a",
-      "title": "Un essaim de Waymo s'est mis à tourner en boucle dans une rue résidentielle",
-      "link": "https://korben.info/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle.html",
-      "summary": "Vous vous levez à 6h du matin, et là, surprise : une cinquantaine de SUV autonomes Waymo s'engouffrent l'un après l'autre dans votre impasse, font demi-tour au rond-point, et repartent dans le même sens. C'est ce qui ...",
-      "published": "2026-05-19T13:11:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle-1.jpg"
     },
     {
       "id": "deafad4f570da83dc12c4de85e3fec57",
@@ -283,56 +373,6 @@
       "image": ""
     },
     {
-      "id": "cb1093791f66bc47df723a951167cabd",
-      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
-      "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-      "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC. \"The Drupal Security Team urges you to reserve time for core updat...",
-      "published": "2026-05-19T10:44:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdm6ntsTvJJXoF1Bvx2Qm11faosxt-w7g0VzPCnsORnDN-q79t1wnbzqTFxbkRw5DF1DjhdDUgZ1H_0O4h35tZcEvlsM7dEUkbPyvaQdkEhhyGhpF90Bug4O1aai-0dXi1DdnnOpH2SmC8GoQD0TAd742-StQ4Pva_IVXNUcRpy9V96B7dwBnOc41xScyj/s1600/drupal-update.jpg"
-    },
-    {
-      "id": "f16a18a3b5336a6c8aaeea89d41fcd6f",
-      "title": "Linux 7.2 saura enfin gérer les consoles OneXPlayer",
-      "link": "https://korben.info/linux-7-2-saura-enfin-gerer-les-consoles-onexplayer.html",
-      "summary": "Derek Clark, développeur chez Valve, a fait remonter dans le noyau Linux un nouveau pilote baptisé hid-oxp. Sa fonction : permettre au système de configurer correctement les consoles portables de la marque OneXPlayer,...",
-      "published": "2026-05-19T09:39:09+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linux-7-2-saura-enfin-gerer-les-consoles-onexplayer/linux-7-2-saura-enfin-gerer-les-consoles-onexplayer-1.jpg"
-    },
-    {
-      "id": "82ba9b5db79c1c4aaf0301bf4117b09a",
-      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
-      "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
-      "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to ...",
-      "published": "2026-05-19T09:23:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiortK4EUp9FwJsfVYW-j20LfpbM5qMNelk5-T8BbZ7dEcmBLXnqhWW9loE8GD6aexZv3h-xHEgn_N7ECjV8KXdcGwNxsbhCPP07COzt9c8BhMaVTF4OaSnKD2b98mJjsU1d57OXj2FQtOhKyeo6oPcT0-rrOi-_dKf1iielQQnhsprZ43tHyYFbiYhgFK8/s1600/email-hacking.jpg"
-    },
-    {
-      "id": "767d26d229dd4f280a6da73a0717eb08",
-      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (...",
-      "published": "2026-05-19T07:49:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg"
-    },
-    {
-      "id": "4a1d4c8f1f41bdb4260e5e273ec4557e",
-      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates th...",
-      "published": "2026-05-19T05:28:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7jpVO6HhBuEBTjkwmNjYhKlFmhhmytOqNZHYuGP-dNWrf3AoyE68yoKj77elddOX4Ps2x9jSuwhi5sE-QjK_oEjLXgQW9e6EHx6W0G7qTqYTM3fZh1AQTyrgm2o-PFBeD9ryHnC6fDmK5MYKUzBjU_pJibTilnm1d99WSQkJux6PXXRydkYW5d15Ada-/s1600/step.jpg"
-    },
-    {
       "id": "ebda63113794b44193274609b768840a",
       "title": "Grafana se fait voler sa codebase sur GitHub mais refuse de payer la rançon des pirates",
       "link": "https://www.it-connect.fr/grafana-se-fait-voler-sa-codebase-sur-github-mais-refuse-de-payer-la-rancon-des-pirates/",
@@ -341,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "52fff2d015b90eff3bb99c75ad03b66b",
-      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave....",
-      "published": "2026-05-19T04:54:17+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg"
     },
     {
       "id": "93f922b210aa14819fb969650ef30db9",
@@ -373,41 +403,61 @@
       "image": ""
     },
     {
-      "id": "9cd73b96f2fe99a78bd6a9c502567402",
-      "title": "Microsoft veut mettre fin aux pilotes foireux sur Windows grâce au Cloud",
-      "link": "https://www.it-connect.fr/microsoft-veut-mettre-fin-aux-pilotes-foireux-sur-windows-grace-au-cloud/",
-      "summary": "Microsoft veut en finir avec les problèmes de pilotes sous Windows avec une nouveauté intégrée à Windows Update nommée \"Cloud-Initiated Driver Recovery\". Le post Microsoft veut mettre fin aux pilotes foireux sur Windo...",
-      "published": "2026-05-18T14:08:22+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "691cd1f74b1e29b18130a04187e20204",
+      "title": "Vulnérabilité dans Microsoft Azure (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0600/",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "39be2142e30f6168a840fd347ae33cfb",
-      "title": "Bon plan : le mini PC Geekom A6 a le droit à 200 euros de réduction immédiate avec ce code",
-      "link": "https://www.it-connect.fr/bon-plan-le-mini-pc-geekom-a6-a-le-droit-a-200-euros-de-reduction-immediate-avec-ce-code/",
-      "summary": "Geekom propose une réduction énorme de 200 euros sur le Geekom A6, un mini PC équipé d'un AMD Ryzen 7, de 16 Go de RAM et d'un disque SSD NVMe de 1 To. Le post Bon plan : le mini PC Geekom A6 a le droit à 200 euros de...",
-      "published": "2026-05-18T10:08:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "0d2250aacf52ff07aac689cb2a01af8e",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0603/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "523174e6f415ac64858bec84720602e1",
-      "title": "Windows 11 : la faille zero-day MiniPlasma donne les privilèges SYSTEM",
-      "link": "https://www.it-connect.fr/windows-11-la-faille-zero-day-miniplasma-donne-les-privileges-system/",
-      "summary": "MiniPlasma, c'est le nom d'une faille zero-day Windows dévoilée par Chaotic Eclipse. Elle permet d'obtenir les privilèges SYSTEM sur une machine à jour. Le post Windows 11 : la faille zero-day MiniPlasma donne les pri...",
-      "published": "2026-05-18T09:23:33+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "aeb57b15c8481cb97bb183978cd637de",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0605/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentiali...",
+      "published": "2026-05-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "992235e098cee0e861039a62c3f15e58",
-      "title": "Multiples vulnérabilités dans les produits Intel (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0582/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un ...",
-      "published": "2026-05-13T00:00:00+00:00",
+      "id": "b26cc56846004a0e2c412584de180a1a",
+      "title": "Multiples vulnérabilités dans Tenable Network Monitor (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0592/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité ...",
+      "published": "2026-05-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5ee5dd4f665e85c6a4a48c396b9cfa8a",
+      "title": "Multiples vulnérabilités dans les produits Shibboleth (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0597/",
+      "summary": "De multiples vulnérabilités ont été découverte dans les produits Shibboleth. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "published": "2026-05-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "70c5975a0d820a8e89112936fd9eddc2",
+      "title": "Multiples vulnérabilités dans Mattermost Server (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0598/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -433,60 +483,10 @@
       "image": ""
     },
     {
-      "id": "89da512ae8bf764edb316a36b1227c6b",
-      "title": "Multiples vulnérabilités dans Apache Tomcat (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0577/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problè...",
-      "published": "2026-05-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f572533167f626d634f8d1fa0ccbe4aa",
-      "title": "Vulnérabilité dans Xen (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0579/",
-      "summary": "Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "published": "2026-05-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2ae9e6d4d0e1cb96afb93df9042037ea",
-      "title": "Multiples vulnérabilités dans Mozilla Firefox (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0578/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "cbc672342a117e91adafa14c88bb10ca",
-      "title": "Multiples vulnérabilités dans les produits Nextcloud (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0583/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et un contournement de ...",
-      "published": "2026-05-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7c90e409d13b2bcedbb9601f3dce8a36",
-      "title": "Multiples vulnérabilités dans Microsoft Office (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0584/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
-      "published": "2026-05-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "de5f119353ec56ddfd0e3600fe027d8d",
-      "title": "Multiples vulnérabilités dans Microsoft Windows (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0585/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
+      "id": "fbbc878fea8e6b4cdafbcd6505611222",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (13 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0588/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
       "published": "2026-05-13T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
