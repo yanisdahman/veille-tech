@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-05-19T19:49:02.329664+00:00",
+  "last_updated": "2026-05-20T02:55:35.336771+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c67cb31189079d02716431d65fd20187",
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
+      "published": "2026-05-19T22:25:49+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9234d7acb070271e07d4afb0db651b8f",
+      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+      "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other c...",
+      "published": "2026-05-19T21:47:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "987379ab0397cb74a03a38475c0da99d",
+      "title": "Discord rolls out end-to-end encryption on voice, video calls",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+      "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
+      "published": "2026-05-19T20:37:45+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "64702edc54c9b468f3b939fff8b21530",
+      "title": "Virtual OS Museum - 1700 OS de 1948 à nos jours dans une VM",
+      "link": "https://korben.info/virtual-os-museum.html",
+      "summary": "Windows 1.0, le System 6 d'Apple, NeXTSTEP, Multics... Tous ces OS que vous croyiez disparus, hé bien aujourd'hui vous pouvez les rebooter sans avoir à ressortir le moindre vieux matos de votre grenier ! Le bureau de ...",
+      "published": "2026-05-19T20:05:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/virtual-os-museum/virtual-os-museum-1.png"
+    },
+    {
+      "id": "47769e83f7a3948b6a95142668f3051f",
+      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
+      "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+      "published": "2026-05-19T19:45:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "75a8e5956022e6b4cabf7c01ac63b98f",
       "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
@@ -123,16 +173,6 @@
       "image": "https://korben.info/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle-1.jpg"
     },
     {
-      "id": "d133dd99c44c7b38e0ad53f8d4dc5b47",
-      "title": "Webinar: The hidden bottlenecks in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-      "summary": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workfl...",
-      "published": "2026-05-19T12:14:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "deafad4f570da83dc12c4de85e3fec57",
       "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
       "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
@@ -150,16 +190,6 @@
       "published": "2026-05-19T11:26:19+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "02ca1bac519f1fecee31bf29a2cc4ede",
-      "title": "Microsoft confirms patching issues in restricted Windows networks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "summary": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
-      "published": "2026-05-19T11:22:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -283,26 +313,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg"
     },
     {
-      "id": "cd249d253c2c006a32b43871229afade",
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
-      "published": "2026-05-18T22:15:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2133c1ebfc41444368db20159e18615f",
-      "title": "SHub macOS infostealer variant spoofs Apple security updates",
-      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-      "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
-      "published": "2026-05-18T21:42:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "de0795edd863401ecbab3002b5e40cff",
       "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
       "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
@@ -311,16 +321,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s1600/hackers.png"
-    },
-    {
-      "id": "561ffa344be68e9aaa14c6a4b56805e9",
-      "title": "Hydracker / Darkiworld piraté - Pas de lien avec le gérant de YGG, confirme le leaker",
-      "link": "https://korben.info/hydracker-piratee-gerant-ygg.html",
-      "summary": "Vous vous souvenez de YggTorrent qui s'est fait démonter en full 4K en mars dernier ? Eh ben rebelote !! Le mec qui gérait Ygg serait, d'après le leaker, derrière une autre plateforme pirate nommée Hydracker (l'ex-Dar...",
-      "published": "2026-05-18T16:51:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/hydracker-piratee-gerant-ygg/hydracker-piratee-gerant-ygg-1.png"
     },
     {
       "id": "93f922b210aa14819fb969650ef30db9",
