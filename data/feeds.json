@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-05-20T02:55:35.336771+00:00",
+  "last_updated": "2026-05-20T09:26:41.777848+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ecc5da1c9ac08feac2413cfede235538",
+      "title": "WordPress Workspace - L'agent IA d'Automattic",
+      "link": "https://korben.info/wordpress-workspace-app-mac-automattic.html",
+      "summary": "Si comme moi, vous bloguez encore à l'ancienne, c'est à dire depuis l'interface web de WordPress.com, sachez qu'Automattic vient de balancer une app pour Mac qui s'est donné pour mission de vraiment bousculer votre fa...",
+      "published": "2026-05-20T09:13:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/wordpress-workspace-app-mac-automattic/wordpress-workspace-app-mac-automattic-1.avif"
+    },
+    {
+      "id": "2590d53291e03f5db70c9223c768cde2",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+      "published": "2026-05-20T08:14:08+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ea60506e4ab6c305e8ae08b40bf4d5c0",
+      "title": "HydroTracker - L'app Android qui vous hydrate",
+      "link": "https://korben.info/hydrotracker-app-android-open-source-hydratation.html",
+      "summary": "HydroTracker, c'est une app Android open source pour suivre votre consommation d'eau au quotidien. C'est sans pub, ça fonctionne hors-ligne et ça a été mis au point par Ali Cem Çakmak, physicien et développeur passion...",
+      "published": "2026-05-20T08:04:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/hydrotracker-app-android-open-source-hydratation/hydrotracker-app-android-open-source-hydratation-1.jpeg"
+    },
+    {
+      "id": "da12b8eff60cf5854f993ecc7e00ce45",
+      "title": "Vim passe à GTK4, et Claude est crédité dans les commits",
+      "link": "https://korben.info/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits.html",
+      "summary": "gVim, la version avec interface graphique du légendaire éditeur de texte Vim, récupère le support de GTK4. Pour situer, GTK c'est la boîte à outils qui dessine les fenêtres, les boutons et les menus des applications s...",
+      "published": "2026-05-20T07:34:57+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits-1.jpg"
+    },
+    {
+      "id": "b5cc28ac5da73383b2be7f14bfd922b6",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "published": "2026-05-20T07:31:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a5739a40a8ace77a5b74a3d6e0228f54",
+      "title": "Le Hotpatching est désormais gratuit pour Windows Server 2025",
+      "link": "https://www.it-connect.fr/le-hotpatching-est-desormais-gratuit-pour-windows-server-2025/",
+      "summary": "Microsoft vient d'annoncer que le Hotpatching pour Windows Server 2025, piloté via Azure Arc, est désormais gratuit ! Voici comment en profiter. Le post Le Hotpatching est désormais gratuit pour Windows Server 2025 a ...",
+      "published": "2026-05-20T05:36:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "dbf82134d24a0cc19633a33810724c8a",
+      "title": "La faille DirtyDecrypt menace les serveurs Linux : un PoC a été publié",
+      "link": "https://www.it-connect.fr/la-faille-dirtydecrypt-menace-les-serveurs-linux-un-poc-a-ete-publie/",
+      "summary": "Découvrez DirtyDecrypt, une nouvelle faille Linux (CVE-2026-31635) correspondant à une élévation de privilèges en local. Elle permet d'obtenir les droits root. Le post La faille DirtyDecrypt menace les serveurs Linux ...",
+      "published": "2026-05-20T05:14:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "adcbb089f8cc6693c182556de847998a",
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana...",
+      "published": "2026-05-20T05:12:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg"
+    },
+    {
+      "id": "4f9653844a52cec7a3778e95c7ddbec8",
+      "title": "GitHub hack - Une extension VS Code piège un employé",
+      "link": "https://korben.info/github-hack-vs-code-extension.html",
+      "summary": "Alors celle-là, elle est incroyable les copains ! Le piratage du jour vient d'être confirmé par la plateforme qui héberge une bonne moitié du code de la tech mondiale ! En effet, Github a subi un accès non autorisé à ...",
+      "published": "2026-05-20T05:11:35+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/github-hack-vs-code-extension/github-hack-vs-code-extension-1.jpeg"
+    },
+    {
+      "id": "d4604351e0e5427b344c1c625d75cd34",
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+      "published": "2026-05-20T05:08:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cb647dad1b1b8baf80b95bd14349f8f9",
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a c...",
+      "published": "2026-05-20T04:01:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
+    },
     {
       "id": "c67cb31189079d02716431d65fd20187",
       "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
@@ -123,36 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg"
     },
     {
-      "id": "f7bbb7b377cd4db44f72114566df6623",
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
-      "published": "2026-05-19T14:30:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "63a7d6f23bef0dd925ef35f961a9df11",
-      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-      "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
-      "published": "2026-05-19T14:16:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a646a63a02ab840a0479bc5c61c59cbd",
-      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-      "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
-      "published": "2026-05-19T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "48b1870918fe55230970af82e00bfea6",
       "title": "Voir à 650 mètres dans le noir avec un laser infrarouge et une webcam : c’est faisable",
       "link": "https://korben.info/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable.html",
@@ -233,26 +313,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiortK4EUp9FwJsfVYW-j20LfpbM5qMNelk5-T8BbZ7dEcmBLXnqhWW9loE8GD6aexZv3h-xHEgn_N7ECjV8KXdcGwNxsbhCPP07COzt9c8BhMaVTF4OaSnKD2b98mJjsU1d57OXj2FQtOhKyeo6oPcT0-rrOi-_dKf1iielQQnhsprZ43tHyYFbiYhgFK8/s1600/email-hacking.jpg"
     },
     {
-      "id": "ac048f8f5950714024179b1e02516c15",
-      "title": "Andon FM - Quand les IA gèrent des radios et pètent un plomb",
-      "link": "https://korben.info/andon-fm-quatre-ia-radios-autonomes.html",
-      "summary": "Vous vous souvenez de Claudius, cette IA qui gérait un distributeur automatique et qui s'était fait arnaquer comme un bleu ? Hé bien c'est reparti, en pire ou en mieux, c'est selon ^^. Andon Labs, le même labo qui éta...",
-      "published": "2026-05-19T08:34:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/andon-fm-quatre-ia-radios-autonomes/andon-fm-quatre-ia-radios-autonomes-1.jpg"
-    },
-    {
-      "id": "032fabb51f0f3e444a49b9cc3365efc6",
-      "title": "ShadowBroker - Une salle de crise OSINT mondiale chez vous",
-      "link": "https://korben.info/shadowbroker-osint-temps-reel.html",
-      "summary": "Les avions en vol, les cargos, les satellites espions, les zones de brouillage GPS... Imaginez tout ce bordel, à l'échelle de la planète, visible sur une seule carte sombre directement chez vous. Ce serait fou non ? H...",
-      "published": "2026-05-19T08:13:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/shadowbroker-osint-temps-reel/shadowbroker-osint-temps-reel-1.png"
-    },
-    {
       "id": "767d26d229dd4f280a6da73a0717eb08",
       "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
       "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
@@ -261,26 +321,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg"
-    },
-    {
-      "id": "63040bdf9d5f65a7288f5054aef9c14e",
-      "title": "Ibou Explorer - L'anti-Google Discover français",
-      "link": "https://korben.info/ibou-peyronnet-moteur-recherche-ia-francais.html",
-      "summary": "Y'a un nouveau projet français qui débarque face à Google, et celui-là va vous plaire, j'en suis sûr ! Ça s'appelle Ibou Explorer, et c'est porté par Sylvain Peyronnet (oui, un des deux frères du SEO français bien con...",
-      "published": "2026-05-19T06:56:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ibou-peyronnet-moteur-recherche-ia-francais/ibou-peyronnet-moteur-recherche-ia-francais-1.png"
-    },
-    {
-      "id": "10a354fb150373d57c328bb60010bf3f",
-      "title": "AudioHijack - Le son inaudible qui pirate votre assistant IA",
-      "link": "https://korben.info/attaque-audio-cachee-ia-vocale.html",
-      "summary": "Meng Chen, doctorant à l'université Zhejiang, vient de prouver avec son équipe qu'on pouvait complétement détourner un assistant vocal IA avec un simple son que vous prendriez probablement pour un simple parasite. Ave...",
-      "published": "2026-05-19T05:46:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/attaque-audio-cachee-ia-vocale/attaque-audio-cachee-ia-vocale-1.png"
     },
     {
       "id": "4a1d4c8f1f41bdb4260e5e273ec4557e",
@@ -313,16 +353,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg"
     },
     {
-      "id": "de0795edd863401ecbab3002b5e40cff",
-      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-      "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved th...",
-      "published": "2026-05-18T17:21:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s1600/hackers.png"
-    },
-    {
       "id": "93f922b210aa14819fb969650ef30db9",
       "title": "phpIPAM : une solution open source pour gérer les adresses IP",
       "link": "https://www.it-connect.fr/phpipam-une-solution-open-source-pour-gerer-les-adresses-ip/",
@@ -353,16 +383,6 @@
       "image": ""
     },
     {
-      "id": "026780639ffac7eb1535708e446dd2b9",
-      "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-      "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim...",
-      "published": "2026-05-18T13:50:17+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzN7ITW3vwaWKn1m-BGZGI1JicT1T8d5v4LZbTvOTe7m1Xj4pk1pFECjAOvxey4XzXg7vGiU5Xzifs4qkzr9cbg2iPboHfPAHHBmi3O8OIAArhJlbr52gwKMkdqrIuIK77Pq8EzCTQM1hV5MsLuTbV4GXbXzr7miv0jA6o0Bn35RgBjc2cnd6qPq2-0Di/s1600/recapss.jpg"
-    },
-    {
       "id": "39be2142e30f6168a840fd347ae33cfb",
       "title": "Bon plan : le mini PC Geekom A6 a le droit à 200 euros de réduction immédiate avec ce code",
       "link": "https://www.it-connect.fr/bon-plan-le-mini-pc-geekom-a6-a-le-droit-a-200-euros-de-reduction-immediate-avec-ce-code/",
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/windows-11-la-faille-zero-day-miniplasma-donne-les-privileges-system/",
       "summary": "MiniPlasma, c'est le nom d'une faille zero-day Windows dévoilée par Chaotic Eclipse. Elle permet d'obtenir les privilèges SYSTEM sur une machine à jour. Le post Windows 11 : la faille zero-day MiniPlasma donne les pri...",
       "published": "2026-05-18T09:23:33+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ab549b95a7a5f3afdfa3a29abbc89d52",
-      "title": "Mullvad VPN : les adresses IP de sortie pas si aléatoires que ça, découvrez pourquoi",
-      "link": "https://www.it-connect.fr/mullvad-vpn-les-adresses-ip-de-sortie-pas-si-aleatoires-que-ca-decouvrez-pourquoi/",
-      "summary": "Un problème de confidentialité pour Mullvad VPN : les adresses IP de sortie WireGuard ne seraient pas si aléatoires... Ce qui ouvre la porte au fingerprinting. Le post Mullvad VPN : les adresses IP de sortie pas si al...",
-      "published": "2026-05-18T08:50:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5a360da5dcb89cd80bcec03adab3c0ef",
-      "title": "Pwn2Own Berlin 2026 : 47 failles zero-day découvertes dans VMware, Windows, des outils IA, etc.",
-      "link": "https://www.it-connect.fr/pwn2own-berlin-2026-47-failles-zero-day-decouvertes-dans-vmware-windows-des-outils-ia-etc/",
-      "summary": "À l'occasion de l'édition 2026 du Pwn2Own de Berlin, les hackers ont pu découvrir 47 failles de sécurité zero-day au terme de trois jours de compétition. Le post Pwn2Own Berlin 2026 : 47 failles zero-day découvertes d...",
-      "published": "2026-05-18T08:06:55+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
