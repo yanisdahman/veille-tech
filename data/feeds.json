@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-05-21T03:24:21.688150+00:00",
+  "last_updated": "2026-05-21T09:35:19.233953+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "da08af16306baa835213b18fc6274ed8",
+      "title": "Voilà le MacBook Neo le plus rapide du monde",
+      "link": "https://korben.info/voila-le-macbook-neo-le-plus-rapide-du-monde.html",
+      "summary": "Sur les sites de benchmark, une petite course s'est lancée autour du MacBook Neo, le portable le moins cher d'Apple. Le but : trouver qui arrivera à le faire tourner le plus vite possible. Et un bricoleur, Salem Techs...",
+      "published": "2026-05-21T09:10:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/voila-le-macbook-neo-le-plus-rapide-du-monde/voila-le-macbook-neo-le-plus-rapide-du-monde-1.jpg"
+    },
+    {
+      "id": "2a51b1c01c1b8c540e6fd20fbde8f518",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+      "published": "2026-05-21T07:49:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "69758d49b9dba748da17e406daaf5e65",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper pr...",
+      "published": "2026-05-21T07:35:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif"
+    },
+    {
+      "id": "1a2ad67660ebc9abab51d634fe9c0747",
+      "title": "Azure Linux 4.0 : Microsoft officialise sa première distribution Linux basée sur Fedora",
+      "link": "https://www.it-connect.fr/azure-linux-4-0-microsoft-officialise-sa-premiere-distribution-linux-basee-sur-fedora/",
+      "summary": "Microsoft a dévoilé Azure Linux 4.0, sa distribution Linux open source et gratuite. Elle peut tourner sur Windows 11 par l'intermédiaire de WSL. Le post Azure Linux 4.0 : Microsoft officialise sa première distribution...",
+      "published": "2026-05-21T07:27:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bc61a9dbe50a687470e9ed48df8284e6",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+      "published": "2026-05-21T06:54:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2a0ae13efedace9335c5cf4818e4e98e",
+      "title": "Ce PC contient 13 écrans cachés qui diffusent 15 000 GIF en boucle",
+      "link": "https://korben.info/ce-pc-contient-13-ecrans-caches-qui-diffusent-15-000-gif-en-boucle.html",
+      "summary": "Un internaute connu sous le pseudo Several-Bar-6512 a transformé son PC de jeu en quelque chose qui n'a pas d'équivalent : à l'intérieur du boîtier, treize écrans diffusent en boucle plus de 15 000 GIF animés. Pas de ...",
+      "published": "2026-05-21T06:43:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ce-pc-contient-13-ecrans-caches-qui-diffusent-15-000-gif-en-boucle/ce-pc-contient-13-ecrans-caches-qui-diffusent-15-000-gif-en-boucle-1.jpg"
+    },
+    {
+      "id": "ac622de33c9a20c68aef32a570d34867",
+      "title": "Drupal – CVE-2026-9082 : cette faille critique de type injection SQL menace les sites Web",
+      "link": "https://www.it-connect.fr/drupal-cve-2026-9082-cette-faille-critique-de-type-injection-sql-menace-les-sites-web/",
+      "summary": "Protégez votre site web Drupal de la CVE-2026-9082 : c'est une faille critique de type injection SQL. Voici comment protéger votre site et vos données. Le post Drupal – CVE-2026-9082 : cette faille critique de type in...",
+      "published": "2026-05-21T05:50:36+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0b23f82cdead0b83095ae19ab74f9ddb",
+      "title": "Fauxx - Pour noyer les trackers sous du faux trafic",
+      "link": "https://korben.info/fauxx-pollution-donnees-trackers.html",
+      "summary": "Fauxx part d'une idée toute simple et un peu vicieuse qui est que plutôt que de cacher ce que vous faites en ligne avec votre smartphone Android, pourquoi ne pas générer en permanence des tas de fausses recherches, de...",
+      "published": "2026-05-21T05:43:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fauxx-pollution-donnees-trackers/fauxx-pollution-donnees-trackers-1.png"
+    },
+    {
+      "id": "b3e8cfa3e26dddc6d4e31b5999fc3218",
+      "title": "Chromium - Google publie l'exploit d'une faille vieille de 2 ans et demi",
+      "link": "https://korben.info/google-exploit-chromium-millions-utilisateurs.html",
+      "summary": "Bon, alors là, Google a fait encore trèèèès fort. Mercredi matin, la firme de Mountain View a carrément publié sur son propre bug tracker Chromium le code d'exploitation d'une faille... qui n'est toujours pas corrigée...",
+      "published": "2026-05-21T05:19:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-exploit-chromium-millions-utilisateurs/google-exploit-chromium-millions-utilisateurs-1.png"
+    },
+    {
+      "id": "7b96c019fb3b21a68c380e3c92af9f36",
+      "title": "Créez une passerelle SMS à partir d'un vieux smartphone",
+      "link": "https://korben.info/android-sms-gateway-smartphone-passerelle-api.html",
+      "summary": "Votre vieux Galaxy S5 qui prend fort la poussière dans un tiroir, mérite mieux je crois ! Un dev, Capcom6 a mis en ligne SMS Gateway for Android , une app Kotlin sous licence Apache 2.0 qui transforme n'importe quel s...",
+      "published": "2026-05-21T05:01:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/android-sms-gateway-smartphone-passerelle-api/android-sms-gateway-smartphone-passerelle-api-1.png"
+    },
+    {
+      "id": "387ffdf5ed283c36d4b532508ceed359",
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (V...",
+      "published": "2026-05-21T04:27:01+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg"
+    },
+    {
+      "id": "c4052e6a3af91d2cc9c9bb647c097470",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure...",
+      "published": "2026-05-21T03:44:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhKX1WKEWbBPd4sElCP9BB26eorxZX1Lo25Mcu-A5bfBUuWT63SQ-Hyycv1YPSlvVeZPfLSEbb8mQnuPvf0KEDm8mYTtCLoYZuMG6A8maidLefE12_3Plum0keZ-mbAS4dGN-x7Oj0NWOmoeqp6_PEK0fqpnZwz8ZFV-NhyFl78WS4Nck76yAbfgWRpK7/s1600/drupal-flaw.jpg"
+    },
     {
       "id": "10fc72c87883d7749bc20fb980df3a70",
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
@@ -30,7 +150,7 @@
       "published": "2026-05-20T17:06:54+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuhFp_KGzG3yZEzqIYh-at7Dm3vg4_QX97ilaSXDjsUbfhU7KCmRS-uQ2UrV9D855Nvy8HcBDKe25VMT63dfyzh-B2bzSx649SJQSQhL3bfm4Eitv4KLW4PhzRfE1HvoFOFDu2bB4alNLTFzvr6_IkKWjqxShcuWytNgDR4b3wR1xGE6z06xSyWo6NVg3/s1600/ms-tools.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg"
     },
     {
       "id": "6f98ab29cf85f7666447059b1b46ca2e",
@@ -203,16 +323,6 @@
       "image": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia-1.jpg"
     },
     {
-      "id": "ecc5da1c9ac08feac2413cfede235538",
-      "title": "WordPress Workspace - L'agent IA d'Automattic",
-      "link": "https://korben.info/wordpress-workspace-app-mac-automattic.html",
-      "summary": "Si comme moi, vous bloguez encore à l'ancienne, c'est à dire depuis l'interface web de WordPress.com, sachez qu'Automattic vient de balancer une app pour Mac qui s'est donné pour mission de vraiment bousculer votre fa...",
-      "published": "2026-05-20T09:13:43+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/wordpress-workspace-app-mac-automattic/wordpress-workspace-app-mac-automattic-1.avif"
-    },
-    {
       "id": "c50bb9d9a965032e3a06c37c0870faa6",
       "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
       "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
@@ -231,26 +341,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "ea60506e4ab6c305e8ae08b40bf4d5c0",
-      "title": "HydroTracker - L'app Android qui vous hydrate",
-      "link": "https://korben.info/hydrotracker-app-android-open-source-hydratation.html",
-      "summary": "HydroTracker, c'est une app Android open source pour suivre votre consommation d'eau au quotidien. C'est sans pub, ça fonctionne hors-ligne et ça a été mis au point par Ali Cem Çakmak, physicien et développeur passion...",
-      "published": "2026-05-20T08:04:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/hydrotracker-app-android-open-source-hydratation/hydrotracker-app-android-open-source-hydratation-1.jpeg"
-    },
-    {
-      "id": "da12b8eff60cf5854f993ecc7e00ce45",
-      "title": "Vim passe à GTK4, et Claude est crédité dans les commits",
-      "link": "https://korben.info/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits.html",
-      "summary": "gVim, la version avec interface graphique du légendaire éditeur de texte Vim, récupère le support de GTK4. Pour situer, GTK c'est la boîte à outils qui dessine les fenêtres, les boutons et les menus des applications s...",
-      "published": "2026-05-20T07:34:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits-1.jpg"
     },
     {
       "id": "b5cc28ac5da73383b2be7f14bfd922b6",
@@ -283,76 +373,6 @@
       "image": ""
     },
     {
-      "id": "adcbb089f8cc6693c182556de847998a",
-      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
-      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana...",
-      "published": "2026-05-20T05:12:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg"
-    },
-    {
-      "id": "4f9653844a52cec7a3778e95c7ddbec8",
-      "title": "GitHub hack - Une extension VS Code piège un employé",
-      "link": "https://korben.info/github-hack-vs-code-extension.html",
-      "summary": "Alors celle-là, elle est incroyable les copains ! Le piratage du jour vient d'être confirmé par la plateforme qui héberge une bonne moitié du code de la tech mondiale ! En effet, Github a subi un accès non autorisé à ...",
-      "published": "2026-05-20T05:11:35+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/github-hack-vs-code-extension/github-hack-vs-code-extension-1.jpeg"
-    },
-    {
-      "id": "d4604351e0e5427b344c1c625d75cd34",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
-      "published": "2026-05-20T05:08:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c67cb31189079d02716431d65fd20187",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
-      "published": "2026-05-19T22:25:49+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "64702edc54c9b468f3b939fff8b21530",
-      "title": "Virtual OS Museum - 1700 OS de 1948 à nos jours dans une VM",
-      "link": "https://korben.info/virtual-os-museum.html",
-      "summary": "Windows 1.0, le System 6 d'Apple, NeXTSTEP, Multics... Tous ces OS que vous croyiez disparus, hé bien aujourd'hui vous pouvez les rebooter sans avoir à ressortir le moindre vieux matos de votre grenier ! Le bureau de ...",
-      "published": "2026-05-19T20:05:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/virtual-os-museum/virtual-os-museum-1.png"
-    },
-    {
-      "id": "461a7fc45275cff532268a838f86b689",
-      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-      "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, enc...",
-      "published": "2026-05-19T16:38:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg"
-    },
-    {
-      "id": "43ff913c0aa680af30a676085d4726af",
-      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
-      "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
-      "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE). Dubbed DirtyDecrypt (aka DirtyCBC), the vulnera...",
-      "published": "2026-05-19T14:56:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg"
-    },
-    {
       "id": "14fdc3e412378ec4e5299f29d1368b61",
       "title": "Comment vérifier l’identité d’un utilisateur avec certitude avant d’agir sur son compte ?",
       "link": "https://www.it-connect.fr/comment-verifier-identite-utilisateur-avec-certitude-avant-agir-sur-son-compte/",
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/grafana-se-fait-voler-sa-codebase-sur-github-mais-refuse-de-payer-la-rancon-des-pirates/",
       "summary": "Les pirates de Coinbase Cartel sont parvenus à compromettre le compte GitHub de Grafana Labs et à voler la codebase après avoir compromis un jeton d'accès. Le post Grafana se fait voler sa codebase sur GitHub mais ref...",
       "published": "2026-05-19T05:03:03+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "93f922b210aa14819fb969650ef30db9",
-      "title": "phpIPAM : une solution open source pour gérer les adresses IP",
-      "link": "https://www.it-connect.fr/phpipam-une-solution-open-source-pour-gerer-les-adresses-ip/",
-      "summary": "Découvrez comment déployer phpIPAM avec Docker pour gérer votre plan d'adressage IP et structurer votre réseau avec cette solution open source. Le post phpIPAM : une solution open source pour gérer les adresses IP a é...",
-      "published": "2026-05-18T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bf266b4877290d6a5ac8d5255e4594b7",
-      "title": "iodéOS : l’alternative française à Android qui dégooglise et mise sur la vie privée",
-      "link": "https://www.it-connect.fr/iodeos-lalternative-francaise-a-android-qui-degooglise-et-mise-sur-la-vie-privee/",
-      "summary": "Découvrez iodéOS, l'OS mobile open source français qui réduit votre dépendance à Google tout en protégeant votre vie privée, avec des apps open source. Le post iodéOS : l’alternative française à Android qui dégooglise...",
-      "published": "2026-05-18T15:01:41+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
