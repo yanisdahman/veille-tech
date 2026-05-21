@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-05-21T09:35:19.233953+00:00",
+  "last_updated": "2026-05-21T15:00:22.734067+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4594248c55435d72c85a6a98f33e5cea",
+      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showb...",
+      "published": "2026-05-21T14:17:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTZEcd3s0q7NssZnOYvAFrMtE1fTJQtdNoUDwBZKG1DkQWYL4uY6gExiUwuNcMnZG-J8dM8iTJIm6nD2Bv80qI2xMubYmnGScqUNQfeI6kF49vFkU0wKpi7iaVvbl1MX1zPleKP2iOShCd9u4S-EpLA-cBKf5lNlW7OXLu0NmiUlw35Qr0GzXmpylPcXz/s1600/telecom-linux.jpg"
+    },
+    {
+      "id": "b053029d416313d7f46aa4d166921910",
+      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
+      "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions. Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation. [...]",
+      "published": "2026-05-21T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "42726646c5f8352d302efcf1e1922035",
+      "title": "Chinese hackers target telcos with new Linux, Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+      "summary": "A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
+      "published": "2026-05-21T14:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3a2a18312f76d271ff3978c06bc8fd0d",
+      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+      "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
+      "published": "2026-05-21T13:58:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e840be3261887126c8a4e14503c71e99",
+      "title": "Flipper One - Le Linux de poche qui terrifie ses propres créateurs",
+      "link": "https://korben.info/flipper-one-plateforme-linux-ouverte.html",
+      "summary": "Flipper Devices, les gens derrière le fameux Flipper Zero , viennent de dévoiler leur prochain joujou, le Flipper One . Et leur annonce démarre par cette phrase de Pavel Zhovner, le co-fondateur : « on est franchement...",
+      "published": "2026-05-21T13:16:13+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/flipper-one-plateforme-linux-ouverte/flipper-one-plateforme-linux-ouverte-1.jpg"
+    },
+    {
+      "id": "f4d04684b84f5453440171e37c879ea6",
+      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+      "summary": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
+      "published": "2026-05-21T13:09:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "626c9a128781cf3f9bacbdcb0e264b56",
+      "title": "Flipper One : découvrez la fiche technique et les surprises du successeur du Flipper Zero",
+      "link": "https://www.it-connect.fr/flipper-one-decouvrez-la-fiche-technique-et-les-surprises-du-successeur-du-flipper-zero/",
+      "summary": "Le célèbre Flipper Zero a un successeur : le Flipper One. Il a des fonctions en plus, mais aussi des modules en moins. Voici l'essentiel à savoir. Le post Flipper One : découvrez la fiche technique et les surprises du...",
+      "published": "2026-05-21T11:57:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0296bd5819ac69dd9e69f78f14a17517",
+      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
+      "summary": "This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. T...",
+      "published": "2026-05-21T11:52:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIiAs3r9mSWAyNYngQby6QllKy0gx1dGJB4MNtgMjRQLUIkp7-fr851xuTEe6-izLAtNHux1PgdVBiWmEQctN2QM1bzV_CP0bcR7_ReqHg-lXrDa-EqUsZAUgC8da72h6tdbZU6H8nWMzAfZEItMY49Big4dpxtSHr5r7sgm7W01mhA31E274dUfWBHMi/s1600/tday.png"
+    },
+    {
+      "id": "0381f5934086c463d950ada4413f4c91",
+      "title": "Switchboard - Le centre de contrôle pour vos sessions Claude Code",
+      "link": "https://korben.info/switchboard-claude-code-centre-controle.html",
+      "summary": "Claude Code, c'est génial pour coder mais alors pour s'organiser... c'est chiant de fouuuu. J'ai genre 200 fichiers .jsonl qui trainent dans ~/.claude/projects, y'a aucun moyen prévu pour savoir ce qui tourne en ce mo...",
+      "published": "2026-05-21T11:24:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/switchboard-claude-code-centre-controle/switchboard-claude-code-centre-controle-1.png"
+    },
+    {
+      "id": "c15f5c0fb92eb9a4ddb58a72308fc69b",
+      "title": "Flipper One project needs community help to build open Linux platform",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
+      "published": "2026-05-21T11:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "146f0eb14ce7b4d39203c3c0d995db8f",
+      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+      "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring syst...",
+      "published": "2026-05-21T10:55:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg"
+    },
+    {
+      "id": "1a9b23670594da24c1ab92878bfc6d50",
+      "title": "When Identity is the Attack Path",
+      "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anythi...",
+      "published": "2026-05-21T10:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9W2lSuCdHjvqeLUN5WtqUOgCwe2FAyP1Y_z4oUr1LgM1MdOE5A83gkzSOfGjIosfdlfB4SuLbeVbydeuParENW4MH2aWYuWqnB-DeOd7gC3RJnp7wFucmuinh9kiMBI99337kQYcBrlIX-WH3u204eu7FTy5b_gpkXC6ZHupWD3P60yFk4-2DUrTuuc/s1600/xmxm.jpg"
+    },
+    {
+      "id": "24cf27c2bba03922b1946e1cc93d1a55",
+      "title": "ssh-keysign-pwn - La faille kernel Linux cachée depuis 9 ans",
+      "link": "https://korben.info/faille-kernel-linux-ssh-keysign-pwn.html",
+      "summary": "Une faille planquée pendant 9 ans dans le noyau Linux, voilà ce que les chercheurs de Qualys viennent de déterrer. Son petit nom, c'est ssh-keysign-pwn ou DirtyDecrypt (CVE-2026-46333 pour les intimes), et elle permet...",
+      "published": "2026-05-21T10:21:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/faille-kernel-linux-ssh-keysign-pwn/faille-kernel-linux-ssh-keysign-pwn-1.png"
+    },
     {
       "id": "da08af16306baa835213b18fc6274ed8",
       "title": "Voilà le MacBook Neo le plus rapide du monde",
@@ -183,16 +313,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg"
     },
     {
-      "id": "dbdfa763c97f70e2401722e8aab07d71",
-      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
-      "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
-      "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
-      "published": "2026-05-20T14:02:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "9d5c42e398614dd0deefdca80da9d82b",
       "title": "J'ai collé un autocollant de raccourcis macOS sur mon Mac, et c’est génial (existe pour Windows aussi !)",
       "link": "https://korben.info/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi.html",
@@ -211,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents-1.png"
-    },
-    {
-      "id": "4827d13639e2365f0b9bf60cf17b2698",
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
-      "published": "2026-05-20T12:52:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "4d0ed00cf1341e9d1c7a982127c7092d",
@@ -243,46 +353,6 @@
       "image": ""
     },
     {
-      "id": "9b0d094f2ca1cc6f9d3ff3a9f46d12ad",
-      "title": "Une faille inconnue dans un routeur Huawei a mis tout le Luxembourg hors ligne pendant 3 heures",
-      "link": "https://korben.info/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures.html",
-      "summary": "Le 23 juillet 2025, le Luxembourg entier s'est retrouvé sans réseau mobile, sans téléphone fixe et sans communications d'urgence pendant plus de trois heures. Dix mois plus tard, on connaît enfin la cause grâce au méd...",
-      "published": "2026-05-20T12:34:05+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures-1.jpg"
-    },
-    {
-      "id": "1b7506d3de837186b6fff304a97ea943",
-      "title": "Google Cloud débranche Railway sans prévenir",
-      "link": "https://korben.info/google-cloud-debranche-railway-sans-prevenir.html",
-      "summary": "Hier soir, le compte Google Cloud de Railway est passé en statut restreint. Du jour au lendemain, sans préavis et sans la moindre explication. Railway, pour ceux qui ne connaissent pas, c'est un service américain qui ...",
-      "published": "2026-05-20T12:03:37+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/google-cloud-debranche-railway-sans-prevenir/google-cloud-debranche-railway-sans-prevenir-1.jpg"
-    },
-    {
-      "id": "b2bf169c4102d928b59566c1be826c3e",
-      "title": "Agent AI is Coming. Are You Ready?",
-      "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
-      "summary": "New Industry Data Just Released Suggests Not. On May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of i...",
-      "published": "2026-05-20T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjYQaF0euKIc86WLed9RLojSVHUNrnpx7_OeZHvmaPtnFPmL3WrhC-DU-7asOtrYx8fBGP-UCdxI1QljVgaT_wYA6uIye4yHpzpk-uSQb934K7NDSPn-jFJR63cEeUZ8SsDevlcvX-O62_-C8HZeVreeg2aB5stt6z9kluLUvIUgXAGVpAMccDc19lrsmK/s1600/agentai.gif"
-    },
-    {
-      "id": "cb647dad1b1b8baf80b95bd14349f8f9",
-      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a c...",
-      "published": "2026-05-20T11:38:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
-    },
-    {
       "id": "d709f2e904c4a904bb7cc61674ddb89c",
       "title": "Piratage GitHub : 3 800 dépôts internes volés suite au hack du PC d’un employé",
       "link": "https://www.it-connect.fr/piratage-github-3-800-depots-internes-voles-suite-au-hack-du-pc-dun-employe/",
@@ -290,66 +360,6 @@
       "published": "2026-05-20T11:32:33+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f9118cc0a116219dfc9fffee55afaffb",
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
-      "published": "2026-05-20T10:52:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d38b87899ef6c0352a86afed368cba71",
-      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
-      "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
-      "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires. Download the CISO Expe...",
-      "published": "2026-05-20T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWPxY_gRwc5keQNREyoTXSadlwpCLyUdAq4v1fQA5_lA2tJ0Ia6xOk-FaLuNHwJjV_xaF7M0xzPvqHk4e7aym6R7J2aaGCGm7Bnv8OXh7GScZ-G7ic5pdEgK-0E0_y_yLz16V2A2GL5uTmU7tRPUyoDl5LfzTzQnuMlI1QV7SEhRC9Cli7zci_no9pyk/s1600/ref.jpg"
-    },
-    {
-      "id": "401b324e43b8edd53413ee99b64cfb02",
-      "title": "Il accuse Pizza Hut de lui avoir fait perdre 100 millions à cause d'une IA",
-      "link": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia.html",
-      "summary": "Chaac Pizza Northeast, qui exploite plus de 100 restaurants Pizza Hut sur la côte est des États-Unis, attaque son propre franchiseur en justice. Le motif : un logiciel d'IA imposé par le siège pour gérer les livraison...",
-      "published": "2026-05-20T09:25:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia-1.jpg"
-    },
-    {
-      "id": "c50bb9d9a965032e3a06c37c0870faa6",
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-      "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8....",
-      "published": "2026-05-20T08:28:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png"
-    },
-    {
-      "id": "2590d53291e03f5db70c9223c768cde2",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
-      "published": "2026-05-20T08:14:08+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b5cc28ac5da73383b2be7f14bfd922b6",
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-      "published": "2026-05-20T07:31:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -393,16 +403,6 @@
       "image": ""
     },
     {
-      "id": "ebda63113794b44193274609b768840a",
-      "title": "Grafana se fait voler sa codebase sur GitHub mais refuse de payer la rançon des pirates",
-      "link": "https://www.it-connect.fr/grafana-se-fait-voler-sa-codebase-sur-github-mais-refuse-de-payer-la-rancon-des-pirates/",
-      "summary": "Les pirates de Coinbase Cartel sont parvenus à compromettre le compte GitHub de Grafana Labs et à voler la codebase après avoir compromis un jeton d'accès. Le post Grafana se fait voler sa codebase sur GitHub mais ref...",
-      "published": "2026-05-19T05:03:03+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "691cd1f74b1e29b18130a04187e20204",
       "title": "Vulnérabilité dans Microsoft Azure (15 mai 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0600/",
@@ -433,16 +433,6 @@
       "image": ""
     },
     {
-      "id": "b26cc56846004a0e2c412584de180a1a",
-      "title": "Multiples vulnérabilités dans Tenable Network Monitor (15 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0592/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité ...",
-      "published": "2026-05-15T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5ee5dd4f665e85c6a4a48c396b9cfa8a",
       "title": "Multiples vulnérabilités dans les produits Shibboleth (15 mai 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0597/",
@@ -463,11 +453,21 @@
       "image": ""
     },
     {
-      "id": "c08c0a9772402b569d36a1678fedc270",
-      "title": "Vulnérabilité dans Exim (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0589/",
-      "summary": "Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-13T00:00:00+00:00",
+      "id": "96fc0ff97ac776d52dc0f8de432bd3bd",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0601/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'édi...",
+      "published": "2026-05-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f6c2290e8a8db8334f3be99c34fe6669",
+      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (15 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0596/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privil...",
+      "published": "2026-05-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -483,21 +483,21 @@
       "image": ""
     },
     {
-      "id": "fbbc878fea8e6b4cdafbcd6505611222",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0588/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
-      "published": "2026-05-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "4074914ebf79eb44acacf36da6628e92",
       "title": "Multiples vulnérabilités dans MISP (30 avril 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0515/",
       "summary": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
       "published": "2026-04-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "503f4ca6bfac0885b17bf889249d3a75",
+      "title": "Vulnérabilité dans telnetd (21 janvier 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-003/",
+      "summary": "Le 20 janvier 2026, les détails de la vulnérabilité CVE-2026-24061, affectant *telnetd*, ont été publiés. Cette vulnérabilité permet à un attaquant de contourner l'authentification et de se connecter à une machine vul...",
+      "published": "2026-01-21T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
