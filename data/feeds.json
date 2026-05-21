@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-05-21T15:00:22.734067+00:00",
+  "last_updated": "2026-05-21T19:50:21.040213+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2b530aff717ff555d7d3fab46c1ec097",
+      "title": "Google accidentally exposed details of unfixed Chromium flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
+      "published": "2026-05-21T18:13:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "11a6d938c8d74bc2b1cb6f68247e9cbc",
+      "title": "Vous avez reçu un colis que vous n'avez pas commandé ? Attention au brushing",
+      "link": "https://korben.info/brushing-scams.html",
+      "summary": "-- Article en partenariat avec Surfshark -- C'est peut-être arrivé à une de vos connaissances récemment (ou même à vous). Un petit colis anonyme, sans expéditeur clair, avec dedans une coque de téléphone bas de gamme ...",
+      "published": "2026-05-21T16:48:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/brushing-scams/brushing-scams-1.webp"
+    },
+    {
+      "id": "e685aa066c57b02f0f9ce5942e6eee4e",
+      "title": "Android 17 travaille sur sa version de \"Continuité\" d'Apple",
+      "link": "https://korben.info/android-17-travaille-sur-sa-version-de-continuite-dapple.html",
+      "summary": "Android 17 va donc lancer une fonction baptisée \"Continue On\", et l'idée est simple : reprendre une appli exactement là où vous l'avez laissée, mais sur un autre appareil. Vous lisez un document sur votre téléphone, v...",
+      "published": "2026-05-21T16:30:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/android-17-travaille-sur-sa-version-de-continuite-dapple/android-17-travaille-sur-sa-version-de-continuite-dapple-1.jpg"
+    },
+    {
+      "id": "2fc59c6a5be7cca95b4b5ae7a99607e9",
+      "title": "Le bac à sable de Claude Code avait deux failles, et c'est plus gênant qu'il n'y paraît",
+      "link": "https://korben.info/le-bac-a-sable-de-claude-code-avait-deux-failles-et-cest-plus-genant-quil-ny-parait.html",
+      "summary": "Anthropic, l'entreprise derrière l'IA Claude, a corrigé en douce deux failles dans le bac à sable réseau de Claude Code, son assistant de programmation. Un bac à sable, dans le jargon, c'est un enclos de sécurité : il...",
+      "published": "2026-05-21T16:17:35+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/le-bac-a-sable-de-claude-code-avait-deux-failles-et-cest-plus-genant-quil-ny-parait/le-bac-a-sable-de-claude-code-avait-deux-failles-et-cest-plus-genant-quil-ny-parait-1.jpg"
+    },
+    {
+      "id": "befee4b318300826b9a5f86f12b8c4fe",
+      "title": "Quelqu'un a réussi à faire tourner de vraies fenêtres Linux à l'intérieur de Minecraft",
+      "link": "https://korben.info/quelquun-a-reussi-a-faire-tourner-de-vraies-fenetres-linux-a-linterieur-de-minecraft.html",
+      "summary": "Un développeur connu sous le pseudo EVVIE a sorti Waylandcraft, un projet qui n'aurait jamais dû exister et c'est tant mieux. Le principe : faire tourner de vrais logiciels Linux directement dans le monde de Minecraft...",
+      "published": "2026-05-21T15:28:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/quelquun-a-reussi-a-faire-tourner-de-vraies-fenetres-linux-a-linterieur-de-minecraft/quelquun-a-reussi-a-faire-tourner-de-vraies-fenetres-linux-a-linterieur-de-minecraft-1.jpg"
+    },
+    {
+      "id": "4754dfc8e1467712ec3f386b986df64e",
+      "title": "Ces badges LED de festival se synchronisent tout seuls",
+      "link": "https://korben.info/ces-badges-led-de-festival-se-synchronisent-tout-seuls.html",
+      "summary": "Tony Goacher a résolu un petit casse-tête avec élégance. Son projet CrowdClock, ce sont des badges lumineux pour festival qui clignotent tous en rythme, parfaitement synchronisés. Sauf qu'il n'y a aucun badge maître, ...",
+      "published": "2026-05-21T15:18:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ces-badges-led-de-festival-se-synchronisent-tout-seuls/ces-badges-led-de-festival-se-synchronisent-tout-seuls-1.jpg"
+    },
+    {
+      "id": "673e11e582dd1275b76791298e8ae2bb",
+      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+      "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
+      "published": "2026-05-21T15:11:08+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "4594248c55435d72c85a6a98f33e5cea",
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
@@ -203,36 +273,6 @@
       "image": ""
     },
     {
-      "id": "0b23f82cdead0b83095ae19ab74f9ddb",
-      "title": "Fauxx - Pour noyer les trackers sous du faux trafic",
-      "link": "https://korben.info/fauxx-pollution-donnees-trackers.html",
-      "summary": "Fauxx part d'une idée toute simple et un peu vicieuse qui est que plutôt que de cacher ce que vous faites en ligne avec votre smartphone Android, pourquoi ne pas générer en permanence des tas de fausses recherches, de...",
-      "published": "2026-05-21T05:43:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fauxx-pollution-donnees-trackers/fauxx-pollution-donnees-trackers-1.png"
-    },
-    {
-      "id": "b3e8cfa3e26dddc6d4e31b5999fc3218",
-      "title": "Chromium - Google publie l'exploit d'une faille vieille de 2 ans et demi",
-      "link": "https://korben.info/google-exploit-chromium-millions-utilisateurs.html",
-      "summary": "Bon, alors là, Google a fait encore trèèèès fort. Mercredi matin, la firme de Mountain View a carrément publié sur son propre bug tracker Chromium le code d'exploitation d'une faille... qui n'est toujours pas corrigée...",
-      "published": "2026-05-21T05:19:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/google-exploit-chromium-millions-utilisateurs/google-exploit-chromium-millions-utilisateurs-1.png"
-    },
-    {
-      "id": "7b96c019fb3b21a68c380e3c92af9f36",
-      "title": "Créez une passerelle SMS à partir d'un vieux smartphone",
-      "link": "https://korben.info/android-sms-gateway-smartphone-passerelle-api.html",
-      "summary": "Votre vieux Galaxy S5 qui prend fort la poussière dans un tiroir, mérite mieux je crois ! Un dev, Capcom6 a mis en ligne SMS Gateway for Android , une app Kotlin sous licence Apache 2.0 qui transforme n'importe quel s...",
-      "published": "2026-05-21T05:01:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/android-sms-gateway-smartphone-passerelle-api/android-sms-gateway-smartphone-passerelle-api-1.png"
-    },
-    {
       "id": "387ffdf5ed283c36d4b532508ceed359",
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
       "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
@@ -263,16 +303,6 @@
       "image": ""
     },
     {
-      "id": "df3065b3de54b99cef08b9e11b2ccf24",
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
-      "published": "2026-05-20T21:19:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5aec1795837b3671adb6a8f98b856fa9",
       "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
       "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
@@ -281,16 +311,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg"
-    },
-    {
-      "id": "6f98ab29cf85f7666447059b1b46ca2e",
-      "title": "Grafana breach caused by missed token rotation after TanStack attack",
-      "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
-      "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
-      "published": "2026-05-20T15:46:37+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "96d626fc48859129e5600c290f08d48c",
@@ -311,26 +331,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg"
-    },
-    {
-      "id": "9d5c42e398614dd0deefdca80da9d82b",
-      "title": "J'ai collé un autocollant de raccourcis macOS sur mon Mac, et c’est génial (existe pour Windows aussi !)",
-      "link": "https://korben.info/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi.html",
-      "summary": "– Contient des liens affiliés Amazon – Je suis tombé sur un accessoire à moins de 10 euros qui ne paie pas de mine, et que j'utilise pourtant tous les jours depuis que je l'ai reçu. C'est un simple autocollant. Un car...",
-      "published": "2026-05-20T13:30:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi-1.jpeg"
-    },
-    {
-      "id": "1e3ae03c0d0a3f161e7199510dc41c9a",
-      "title": "Anthropic rachète Stainless, l'outil qui fabrique aussi les SDK de ses concurrents",
-      "link": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents.html",
-      "summary": "Anthropic, la boîte derrière l'IA Claude, a racheté Stainless pour plus de 300 millions de dollars. Stainless, c'est un nom que le grand public ne connaît pas, mais l'outil est partout : il transforme automatiquement ...",
-      "published": "2026-05-20T13:05:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents-1.png"
     },
     {
       "id": "4d0ed00cf1341e9d1c7a982127c7092d",
