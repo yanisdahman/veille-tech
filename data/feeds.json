@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-23T02:44:28.719732+00:00",
+  "last_updated": "2026-05-23T08:14:26.686330+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e2766b13b3bbc0b8100bfd2fe1780857",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of in...",
+      "published": "2026-05-23T07:35:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0W1UqsbcZ-8IV_n8ov3V24MQ74VaKe3auGFWNunDUfubEBeKEGREuFjC9-i7H_fLfSwFQQ5wqe8bhVWvAUVC_8U5AQg1c1Qbe-M7bSjuWCwcjTRrc2Du7L0Tm-NKO7ErhPUTR7YS6b1vkpmbYS1VaClWUGOvGe4cxv-jHkQFZMXbSDLfBiF7FFwd7Nfe/s1600/lightspeed.png"
+    },
+    {
+      "id": "090748905bcd2e05cb2679ebe28f1ead",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of act...",
+      "published": "2026-05-23T07:23:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1600/cisa-drupal.jpg"
+    },
+    {
+      "id": "51595515908885777b35e00dc70afc99",
+      "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
+      "link": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur.html",
+      "summary": "Riley Testut et Shane Gill viennent de sortir une bêta d' AltStore Classic (la 2.3b1 ), qui supprime enfin le besoin d'avoir un ordinateur pour sideloader des apps sur iPhone. AltStore, pour ceux qui débarquent, c'est...",
+      "published": "2026-05-23T06:22:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur/altstore-sideloading-iphone-sans-ordinateur-1.png"
+    },
+    {
+      "id": "57d48c711b61c5f521aae7730421fec5",
+      "title": "Tomb Raider 1-3 Remastered - gratuit sur Epic jusqu'au 28 mai",
+      "link": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic.html",
+      "summary": "Aspyr et Crystal Dynamics lâchent en ce moment la trilogie Tomb Raider I-III Remastered gratuitement sur l'Epic Games Store , soit 0€ au lieu de 26,99€. Vous pouvez donc récupérer les trois premières aventures de Lara...",
+      "published": "2026-05-23T05:50:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic/tomb-raider-1-3-remastered-gratuit-epic-1.jpeg"
+    },
     {
       "id": "26f570e58ede95fba61cb603fe1eb1bb",
       "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
@@ -26,7 +66,7 @@
       "id": "715c732dcf8a155c86b08a3da384434c",
       "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
       "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform...",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the cou...",
       "published": "2026-05-22T16:20:32+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -223,26 +263,6 @@
       "image": "https://korben.info/boring-notch-encoche-macbook/boring-notch-encoche-macbook-1.png"
     },
     {
-      "id": "d1a0f2a8bc1c62a1c64516f327b716ad",
-      "title": "Les clés API Google encore en vie même après leur suppression",
-      "link": "https://korben.info/cles-api-google-actives-apres-suppression.html",
-      "summary": "Vous supprimez une clé API Google qui a fuité , et l'interface vous confirme que c'est bien réglé, que la clé ne fonctionne plus. Alors vous commencez à vous détendre en vous disant que vous avez bien fait votre boulo...",
-      "published": "2026-05-22T07:43:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cles-api-google-actives-apres-suppression/cles-api-google-actives-apres-suppression-1.png"
-    },
-    {
-      "id": "6f49386c4c3e776bf238dbc1c186aaad",
-      "title": "Une console rétro \"Lenovo\" à 72 dollars, bourrée de ROMs Nintendo piratées",
-      "link": "https://korben.info/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees.html",
-      "summary": "Une console de jeu portable estampillée Lenovo est apparue sur AliExpress à environ 72 dollars, et elle a un détail embarrassant : elle est livrée avec des milliers de jeux Nintendo piratés préinstallés. Le genre de p...",
-      "published": "2026-05-22T07:25:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees-1.webp"
-    },
-    {
       "id": "a44f7c0f11c354d82548fb251f0c80b3",
       "title": "Proxmox VE 9.2 est disponible : quelles sont les nouveautés ?",
       "link": "https://www.it-connect.fr/proxmox-ve-9-2-est-disponible-quelles-sont-les-nouveautes/",
@@ -341,26 +361,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "0296bd5819ac69dd9e69f78f14a17517",
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "summary": "This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. T...",
-      "published": "2026-05-21T11:52:14+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIiAs3r9mSWAyNYngQby6QllKy0gx1dGJB4MNtgMjRQLUIkp7-fr851xuTEe6-izLAtNHux1PgdVBiWmEQctN2QM1bzV_CP0bcR7_ReqHg-lXrDa-EqUsZAUgC8da72h6tdbZU6H8nWMzAfZEItMY49Big4dpxtSHr5r7sgm7W01mhA31E274dUfWBHMi/s1600/tday.png"
-    },
-    {
-      "id": "146f0eb14ce7b4d39203c3c0d995db8f",
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring syst...",
-      "published": "2026-05-21T10:55:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg"
     },
     {
       "id": "1a2ad67660ebc9abab51d634fe9c0747",
