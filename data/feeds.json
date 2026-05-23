@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-23T13:19:19.555721+00:00",
+  "last_updated": "2026-05-23T19:05:20.019761+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1f5db06f0a1cbae3c17369d47934772c",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for ins...",
+      "published": "2026-05-23T16:35:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png"
+    },
+    {
+      "id": "125e85c26b191619421aff33782f588b",
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages w...",
+      "published": "2026-05-23T16:07:51+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg"
+    },
+    {
+      "id": "001c05e31c72ee338c72087ae7960b13",
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
+      "published": "2026-05-23T14:23:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "f3df0f1faad5f0559eb7e7fff600c23d",
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
@@ -243,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "96e878cc71987ab6d7c729c400be873d",
-      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-      "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (a...",
-      "published": "2026-05-22T08:50:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg"
-    },
-    {
       "id": "05c3e504d26f40438e47b25bd4938e0c",
       "title": "Ce petit gadget DIY vous prédit l'avenir quand vous le secouez",
       "link": "https://korben.info/ce-petit-gadget-diy-vous-predit-lavenir-quand-vous-le-secouez.html",
@@ -293,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "542dcc54a54a4ba7149fc37622afb0ad",
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o...",
-      "published": "2026-05-22T05:47:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg"
-    },
-    {
       "id": "9b815d317f6089ca04bd8eae760009e9",
       "title": "ONLYOFFICE Docs 9.4 supprime la limite des 20 connexions et ajuste la licence open source",
       "link": "https://www.it-connect.fr/onlyoffice-docs-9-4-decouvrez-les-nouveautes/",
@@ -338,16 +348,6 @@
       "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
       "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
       "published": "2026-05-21T15:11:08+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b053029d416313d7f46aa4d166921910",
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions. Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation. [...]",
-      "published": "2026-05-21T14:00:10+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
