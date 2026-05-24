@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-23T19:05:20.019761+00:00",
+  "last_updated": "2026-05-24T02:56:39.145947+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d089f1278ed88771c560fba5bcc7a6d9",
+      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+      "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious ...",
+      "published": "2026-05-23T20:48:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "1f5db06f0a1cbae3c17369d47934772c",
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
@@ -338,16 +348,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
       "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
       "published": "2026-05-21T18:13:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "673e11e582dd1275b76791298e8ae2bb",
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
-      "published": "2026-05-21T15:11:08+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
