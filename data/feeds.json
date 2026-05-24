@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-24T13:19:55.651424+00:00",
+  "last_updated": "2026-05-24T19:13:29.701497+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1112d8cfa26002e6b8db705f038d7159",
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+      "published": "2026-05-24T14:12:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "4b1574ea7fb84f99d9e21fa6374c052b",
       "title": "Muxcard - Un ordinateur fin comme une carte bancaire",
@@ -340,16 +350,6 @@
       "published": "2026-05-22T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "2b530aff717ff555d7d3fab46c1ec097",
-      "title": "Google accidentally exposed details of unfixed Chromium flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
-      "published": "2026-05-21T18:13:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
