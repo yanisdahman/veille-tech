@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-25T14:48:40.696940+00:00",
+  "last_updated": "2026-05-25T19:25:44.831104+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9eed8ef67596e0bd075c5d6011f25c09",
+      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+      "summary": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
+      "published": "2026-05-25T17:07:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ebd8d9ae6e4bb18e0ac86b89b2b6470d",
+      "title": "Test UGREEN DXP4800 Pro : un NAS avec 10 GbE, un Intel Core i3 et 8 Go de RAM",
+      "link": "https://www.it-connect.fr/test-ugreen-dxp4800-pro-nas-avis-complet/",
+      "summary": "Découvrez le NAS UGREEN DXP4800 Pro, un modèle avec un processeur Intel Core i3, 8 Go de RAM DDR5, double réseau (2.5 GbE et 10 GbE), et d'autres surprises. Le post Test UGREEN DXP4800 Pro : un NAS avec 10 GbE, un Int...",
+      "published": "2026-05-25T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "346b515712cf3153b323f9f7112b10d3",
+      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "summary": "Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking o...",
+      "published": "2026-05-25T14:13:27+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3KNTIZROmtfiYkIEINzg34cq_-I4prGGMjQ8F8oHbOcrNNB0FyCuQq-bb9ChCEtkO5TxGqm_5YRrG7r3IJAkcsX_eC3vmpR1Va-b3NOfEQynjPDmOm2A_uJ15IZk5VPnrmZzOKKjzA6_kjUFNbUkFHKsEk_Ts92DfPZXa3x4r8o8UQkOpMmNUfBwGxx/s1600/rere.jpg"
+    },
     {
       "id": "0a1b52a38abf5963cfd3b133ca27480f",
       "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
@@ -143,16 +173,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0W1UqsbcZ-8IV_n8ov3V24MQ74VaKe3auGFWNunDUfubEBeKEGREuFjC9-i7H_fLfSwFQQ5wqe8bhVWvAUVC_8U5AQg1c1Qbe-M7bSjuWCwcjTRrc2Du7L0Tm-NKO7ErhPUTR7YS6b1vkpmbYS1VaClWUGOvGe4cxv-jHkQFZMXbSDLfBiF7FFwd7Nfe/s1600/lightspeed.png"
     },
     {
-      "id": "090748905bcd2e05cb2679ebe28f1ead",
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of act...",
-      "published": "2026-05-23T07:23:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1600/cisa-drupal.jpg"
-    },
-    {
       "id": "51595515908885777b35e00dc70afc99",
       "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
       "link": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur.html",
@@ -258,16 +278,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
       "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
       "published": "2026-05-22T13:09:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "42df5ac3c152342ad3eb37434cb0e865",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-      "published": "2026-05-22T12:00:42+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/pintheft-ce-nouvel-exploit-offre-les-droits-root-sur-arch-linux/",
       "summary": "Un code d'exploitation a été publié pour PinTheft, une faille dans le noyau Linux permettant d'effectuer une élévation de privilèges en local. Qui est affecté ? Le post PinTheft : ce nouvel exploit offre les droits ro...",
       "published": "2026-05-20T14:47:38+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cc326b681b2f31202a1d01c5a3dc213a",
-      "title": "« C’est ingérable » : pourquoi Linus Torvalds tape du poing sur la table face à l’IA",
-      "link": "https://www.it-connect.fr/cest-ingerable-pourquoi-linus-torvalds-tape-du-poing-sur-la-table-face-a-ia/",
-      "summary": "Linus Torvalds perd patience : la mailing list dédiée à la sécurité du noyau Linux est en train de craquer sous le poids des rapports de bugs soumis par IA. Le post « C’est ingérable » : pourquoi Linus Torvalds tape d...",
-      "published": "2026-05-20T12:35:33+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
