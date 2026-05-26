@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-05-26T09:49:21.027769+00:00",
+  "last_updated": "2026-05-26T15:18:53.051644+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2e1d36f65f6878b66d9684cf9bf64250",
+      "title": "Bambu Lab épinglé pour violation de licence open source depuis quatre ans",
+      "link": "https://korben.info/bambu-lab-epingle-pour-violation-de-licence-open-source-depuis-quatre-ans.html",
+      "summary": "C'est la Software Freedom Conservancy (SFC), l'ONG américaine qui défend les licences libres, qui a sorti l'affaire. Bambu Lab, l'un des plus gros fabricants d'imprimantes 3D grand public du moment, viole l'AGPLv3 dep...",
+      "published": "2026-05-26T15:03:45+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/bambu-lab-epingle-pour-violation-de-licence-open-source-depuis-quatre-ans/bambu-lab-epingle-pour-violation-de-licence-open-source-depuis-quatre-ans-1.jpg"
+    },
+    {
+      "id": "79696e05388cbc1c053a6abb8c371ce2",
+      "title": "Philips sort un moniteur avec un écran de chaque côté, et c'est pas idiot",
+      "link": "https://korben.info/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot.html",
+      "summary": "Un écran de 24 pouces autonome avec une dalle Full HD 120 Hz... des deux côtés. Voilà ce que propose le Philips 24B2D5300, repéré par TechSpot sur la boutique en ligne UK du constructeur, et que la marque revendique c...",
+      "published": "2026-05-26T14:16:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot-1.jpg"
+    },
+    {
+      "id": "3fd648e4b333f4bf4d38ef16743f4593",
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support complianc...",
+      "published": "2026-05-26T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e192d6acd323739ad48af1c4b7f0e15e",
+      "title": "AI Slop : LinkedIn part à la chasse aux contenus IA",
+      "link": "https://www.it-connect.fr/ai-slop-linkedin-part-a-la-chasse-aux-contenus-ia/",
+      "summary": "Sur LinkedIn, de nouvelles mesures de détection ont été déployées pour limiter la visibilité des publications générées par IA. Voici ce que ça va changer. Le post AI Slop : LinkedIn part à la chasse aux contenus IA a ...",
+      "published": "2026-05-26T13:26:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2df7516c8e4d4215a38ad5a7559bc6ff",
+      "title": "Microsoft 365 : le kit de phishing Kali365 pirate les comptes sans voler les mots de passe",
+      "link": "https://www.it-connect.fr/microsoft-365-le-kit-de-phishing-kali365-pirate-les-comptes-sans-voler-les-mots-de-passe/",
+      "summary": "Le FBI a émis une alerte de sécurité concernant Kali365, une plateforme de PhaaS utilisée pour compromettre des comptes Microsoft 365 sans voler d'identifiants. Le post Microsoft 365 : le kit de phishing Kali365 pirat...",
+      "published": "2026-05-26T12:41:59+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c0298b5db37481647a1074670b1c6c95",
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
+      "published": "2026-05-26T12:19:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d6abd5f9ff5e9b48dd97f89a49432aba",
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows ...",
+      "published": "2026-05-26T12:16:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "32f263b197af1f9ac1237b21af3ee872",
+      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+      "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+      "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tool...",
+      "published": "2026-05-26T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiphaRoHMD4mkIzApkJZumEOEdIR0c_RxQrvmjv5qM6Kgo8MBnKrIAxicsojC-CdXhcOfRR9t0DxQeyEMXjXtER-bkSqe97zvFr7mfz3HjwA-79JjLWg0IwhZFTulr__kB02fXgX09tOpLWUjqy-fFmQbfvCZG-2uLLAhJpFAFrPo5d9H0PVZHEaSvmZKFE/s1600/ddossss.jpg"
+    },
+    {
+      "id": "7627e971c0588207b9aae215c0369f91",
+      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+      "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met. The vulnerabi...",
+      "published": "2026-05-26T11:49:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34meakbjhvY3-jNVG7Q8tPJ5Xk1a-vtGSeKgfVDApX6pn88G7gYhK2oz34my6QeWHsldmSJuV4o8tlBOmw-9Ul32EJYhC-aFmExZvn6ibinw10_4DhBf6pHmIum2Ha_HggakezqS_uKiOPJzrIdwioMru5Oj74p87z_ZbQt_c-bH8kQl6jEXYycod7Vrw/s1600/sharepoint.png"
+    },
+    {
+      "id": "f291d0a090c900ed65c10d41985660d0",
+      "title": "Un bug surprenant affecte Windows Server 2016 suite aux correctifs de mai 2026",
+      "link": "https://www.it-connect.fr/un-bug-surprenant-affecte-windows-server-2016-suite-aux-correctifs-de-mai-2026/",
+      "summary": "Suite à l’installation de la mise à jour KB5087537 sur Windows Server 2016, la recherche et la découverte des contrôleurs de domaine AD peuvent échouer. Le post Un bug surprenant affecte Windows Server 2016 suite aux ...",
+      "published": "2026-05-26T11:45:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ceaef2e423725e728eb6c7e05c8a76c4",
+      "title": "Windows 11 distancé par Ubuntu sur le monstrueux Ryzen 9 9950X3D2 d'AMD",
+      "link": "https://korben.info/windows-11-distance-par-ubuntu-sur-le-monstrueux-ryzen-9-9950x3d2-damd.html",
+      "summary": "Nos confrères de chez Phoronix ont publié un comparatif des performances du tout nouveau Ryzen 9 9950X3D2 d'AMD sous deux systèmes : Windows 11 et Ubuntu 26.04 LTS. Le verdict est sans appel, Linux prend une avance tr...",
+      "published": "2026-05-26T11:31:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-11-distance-par-ubuntu-sur-le-monstrueux-ryzen-9-9950x3d2-damd/windows-11-distance-par-ubuntu-sur-le-monstrueux-ryzen-9-9950x3d2-damd-1.jpg"
+    },
+    {
+      "id": "8489ebc9089681d7ab13dd4b59dc06e4",
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While ...",
+      "published": "2026-05-26T10:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtums9LZoPXx5AzbNIYmdrNPI6vAAWAnYGfW6NzZ4DkICva0wX2GjMPvmYoq4EVuhvWUc6FyLrgJJ0Hvh8w0TBJ4MLkQplbffUwg89oiQxoJhV-93mboD0D2rdkrrhsblZ2tLJv-auc2GBNjIMsg8wGUCYOkZHNDHaQoqhDbLXrFC3-rD3cz0pI12U7rR2/s1600/prompt-1.jpg"
+    },
+    {
+      "id": "263fef7e996888ab606f036ac25708d0",
+      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"fe...",
+      "published": "2026-05-26T09:13:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9yN2AliOVdy0oCCMNYXnnrLjE6yWRz_eXVGFhiIw9vxnia2BMUxqhMrI8Q23Y2hHcF-hjqbw4aIqJTvO4zDD1k_WlKzEqx_FZ7P45mn8RiQ1UEqNUgqXv4DqrkzyyjjjgjKcPnNjzKHTTX8NIelTf4L_Cbx4XyYK6piDr1oPFfSmtk-59NCbU3cGCQEcQ/s1600/indian-cert.jpg"
+    },
     {
       "id": "f52da2d76287a4605a2e8b0332fb3899",
       "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
@@ -40,7 +170,7 @@
       "published": "2026-05-26T07:34:03+00:00",
       "source": "Korben",
       "category": "outils",
-      "image": "https://korben.info/motorola-detourne-amazon-code-affiliation/motorola-detourne-amazon-code-affiliation-1.jpg"
+      "image": "https://korben.info/motorola-detourne-amazon-code-affiliation/motorola-detourne-amazon-code-affiliation-1.png"
     },
     {
       "id": "d7176b5f9a469c4e56478c6f9c70c21b",
@@ -153,16 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg"
     },
     {
-      "id": "5a78d74d437aa99549a244fecbd74f10",
-      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious p...",
-      "published": "2026-05-25T05:59:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1600/npm-python-rust.jpg"
-    },
-    {
       "id": "1112d8cfa26002e6b8db705f038d7159",
       "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
       "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
@@ -193,46 +313,6 @@
       "image": ""
     },
     {
-      "id": "1f5db06f0a1cbae3c17369d47934772c",
-      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for ins...",
-      "published": "2026-05-23T16:35:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png"
-    },
-    {
-      "id": "125e85c26b191619421aff33782f588b",
-      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages w...",
-      "published": "2026-05-23T16:07:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg"
-    },
-    {
-      "id": "001c05e31c72ee338c72087ae7960b13",
-      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-      "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-      "published": "2026-05-23T14:23:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f3df0f1faad5f0559eb7e7fff600c23d",
-      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-      "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the ...",
-      "published": "2026-05-23T11:55:35+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg"
-    },
-    {
       "id": "51595515908885777b35e00dc70afc99",
       "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
       "link": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur.html",
@@ -251,26 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic/tomb-raider-1-3-remastered-gratuit-epic-1.jpeg"
-    },
-    {
-      "id": "6acfe913e9e3d567f9abafdf32cc0c10",
-      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-      "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
-      "published": "2026-05-22T17:24:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6bd68df32b883761fd4dc444828cca0a",
-      "title": "Former US execs plead guilty to aiding tech support scammers",
-      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
-      "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
-      "published": "2026-05-22T15:32:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "ca6d2a9a513c6d45dd799b40d9d2fad7",
@@ -301,36 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/arnaque-telephonique-faux-remboursement-enquete-micode/arnaque-telephonique-faux-remboursement-enquete-micode-1.png"
-    },
-    {
-      "id": "b5f48055329fc28cdf6738b2ea8343cd",
-      "title": "Amazon lâche les vieux Kindle - Comment reprendre la main ?",
-      "link": "https://korben.info/jailbreak-kindle-kindlemodding.html",
-      "summary": "Depuis quelques jours, les Kindle sortis en 2012 ou avant ont perdu l'accès à la boutique Amazon : plus d'achat, plus d'emprunt, plus de téléchargement, vous gardez bien sûr les bouquins déjà chargés sur l'appareil, m...",
-      "published": "2026-05-22T13:10:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/jailbreak-kindle-kindlemodding/jailbreak-kindle-kindlemodding-1.png"
-    },
-    {
-      "id": "afa1fbaf2e863df623bd3db53aa03baa",
-      "title": "Fabriquer un circuit imprimé sans aucun logiciel, juste avec un marqueur",
-      "link": "https://korben.info/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur.html",
-      "summary": "Un bricoleur connu sous le pseudo ALTco a fabriqué un circuit imprimé sans toucher au moindre logiciel. Pas de conception sur ordinateur, pas de commande envoyée à une usine. Juste un marqueur, une plaque de cuivre et...",
-      "published": "2026-05-22T11:18:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur-1.jpg"
-    },
-    {
-      "id": "b53f5589287fc28c2d7e021accfeff2a",
-      "title": "Casio F-91W - Comment régler et utiliser la montre culte ?",
-      "link": "https://korben.info/casio-f-91w-reglage-utilisation.html",
-      "summary": "Cet article contient des liens affiliés Bon, vous le savez, j'utilise mon site aussi comme un pense-bête. Et comme je viens de me racheter une nouvelle montre, j'en profite pour me faire mon petit mode d'emploi, rien ...",
-      "published": "2026-05-22T11:05:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/casio-f-91w-reglage-utilisation/casio-f-91w-reglage-utilisation-1.jpg"
     },
     {
       "id": "7b13366eccac38ae0da26e3b6efe1348",
@@ -373,33 +403,63 @@
       "image": ""
     },
     {
-      "id": "626c9a128781cf3f9bacbdcb0e264b56",
-      "title": "Flipper One : découvrez la fiche technique et les surprises du successeur du Flipper Zero",
-      "link": "https://www.it-connect.fr/flipper-one-decouvrez-la-fiche-technique-et-les-surprises-du-successeur-du-flipper-zero/",
-      "summary": "Le célèbre Flipper Zero a un successeur : le Flipper One. Il a des fonctions en plus, mais aussi des modules en moins. Voici l'essentiel à savoir. Le post Flipper One : découvrez la fiche technique et les surprises du...",
-      "published": "2026-05-21T11:57:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "fdf58cf27a4aa66a7281cdc84b393fb5",
+      "title": "Vulnérabilité dans Wireshark (20 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0616/",
+      "summary": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "1a2ad67660ebc9abab51d634fe9c0747",
-      "title": "Azure Linux 4.0 : Microsoft officialise sa première distribution Linux basée sur Fedora",
-      "link": "https://www.it-connect.fr/azure-linux-4-0-microsoft-officialise-sa-premiere-distribution-linux-basee-sur-fedora/",
-      "summary": "Microsoft a dévoilé Azure Linux 4.0, sa distribution Linux open source et gratuite. Elle peut tourner sur Windows 11 par l'intermédiaire de WSL. Le post Azure Linux 4.0 : Microsoft officialise sa première distribution...",
-      "published": "2026-05-21T07:27:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "8f829092f559dc89b798a2d9788d85e5",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (20 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0623/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "ac622de33c9a20c68aef32a570d34867",
-      "title": "Drupal – CVE-2026-9082 : cette faille critique de type injection SQL menace les sites Web",
-      "link": "https://www.it-connect.fr/drupal-cve-2026-9082-cette-faille-critique-de-type-injection-sql-menace-les-sites-web/",
-      "summary": "Protégez votre site web Drupal de la CVE-2026-9082 : c'est une faille critique de type injection SQL. Voici comment protéger votre site et vos données. Le post Drupal – CVE-2026-9082 : cette faille critique de type in...",
-      "published": "2026-05-21T05:50:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "eb1b0182e0874114c0e03669d31f6fc8",
+      "title": "Multiples vulnérabilités dans Docker (20 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0620/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Docker. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f1e3b6ead9e87a72c1f92c2736540a66",
+      "title": "Multiples vulnérabilités dans Microsoft Windows (20 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0622/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité. Microsoft indique qu'un...",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "863fb3bcce1d381a73d4d4729c9460be",
+      "title": "Multiples vulnérabilités dans Symfony (20 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0617/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et une injec...",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fbfbb8556db4527232afa3ade62a5c7b",
+      "title": "Vulnérabilité dans F5 NGINX (20 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0619/",
+      "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service à distance.",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -428,66 +488,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0610/",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-05-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "68d6a531b0c0b2f852833c5826c97d85",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-022 (18 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-022/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-05-18T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "654ba3af23a96037c5558f06591b6202",
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (18 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0608/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-18T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "28d9a254f19a0db7f6c1132f6f3fb243",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (18 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0607/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problèm...",
-      "published": "2026-05-18T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0643df5910c2d5258b85e2915d45677f",
-      "title": "Multiples vulnérabilités dans les produits IBM (15 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0606/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une a...",
-      "published": "2026-05-15T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fce12c170ac789970412481950bfec7e",
-      "title": "Multiples vulnérabilités dans Google Chrome (13 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0574/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4074914ebf79eb44acacf36da6628e92",
-      "title": "Multiples vulnérabilités dans MISP (30 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0515/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
-      "published": "2026-04-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
