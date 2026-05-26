@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-26T15:18:53.051644+00:00",
+  "last_updated": "2026-05-26T20:06:12.583717+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2f89d9b037602c99b024ba080cbe6e4f",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "published": "2026-05-26T19:46:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "75a7617456081a48fd636171d37b7311",
+      "title": "256 cœurs et 2 nanomètres - AMD met en production son serveur monstre Epyc Venice",
+      "link": "https://korben.info/256-coeurs-et-2-nanometres-amd-met-en-production-son-serveur-monstre-epyc-venice.html",
+      "summary": "256 cœurs CPU sur une seule puce. C'est ce que propose le nouvel Epyc Venice d'AMD, sixième génération de son processeur pour serveurs, dont la production de masse vient de démarrer chez le fondeur taïwanais TSMC. Dét...",
+      "published": "2026-05-26T16:12:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/256-coeurs-et-2-nanometres-amd-met-en-production-son-serveur-monstre-epyc-venice/256-coeurs-et-2-nanometres-amd-met-en-production-son-serveur-monstre-epyc-venice-1.jpg"
+    },
+    {
+      "id": "b6eeaba8a98170f042c2adc319713006",
+      "title": "L'Italie démantèle Cinemagoal, l'énorme appli de streaming pirate",
+      "link": "https://korben.info/litalie-demantele-cinemagoal-lenorme-appli-de-streaming-pirate.html",
+      "summary": "Le fisc italien a frappé fort il y a quelques jours. La Guardia di Finanza, sous la direction du parquet de Bologne, vient de démanteler un réseau de piratage de streaming baptisé Cinemagoal, dans une opération nommée...",
+      "published": "2026-05-26T16:05:35+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/litalie-demantele-cinemagoal-lenorme-appli-de-streaming-pirate/litalie-demantele-cinemagoal-lenorme-appli-de-streaming-pirate-1.jpg"
+    },
+    {
+      "id": "d7b7ecb3cc127c0aeb14ede3910291ca",
+      "title": "WinGet : gérer vos applications en ligne de commande sous Windows",
+      "link": "https://www.it-connect.fr/tuto-winget-gestionnaire-de-paquets-windows/",
+      "summary": "Avec ce tutoriel, apprenez à utiliser WinGet sur Windows pour installer, désinstaller, mettre à jour et gérer les applications directement en ligne de commande. Le post WinGet : gérer vos applications en ligne de comm...",
+      "published": "2026-05-26T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5e669b4965c3e81ef9688d2c50bed174",
+      "title": "Le firmware Linux manquant des laptops HP Panther Lake vient enfin d'arriver",
+      "link": "https://korben.info/le-firmware-linux-manquant-des-laptops-hp-panther-lake-vient-enfin-darriver.html",
+      "summary": "Si vous venez d'acheter un portable HP équipé d'un Intel Core Ultra Series 3 (nom de code Panther Lake) et que vous y faites tourner Linux, vous allez accueillir cette nouvelle avec une certaine satisfaction. Intel et...",
+      "published": "2026-05-26T15:50:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/le-firmware-linux-manquant-des-laptops-hp-panther-lake-vient-enfin-darriver/le-firmware-linux-manquant-des-laptops-hp-panther-lake-vient-enfin-darriver-1.jpg"
+    },
+    {
+      "id": "4f39bb1f560352e2ed89e5a1201309bf",
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted indust...",
+      "published": "2026-05-26T15:48:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkb692n4xA8jDUKZCkwPSIXqiyTaEk_bQhrNaZj33tRhusSP40-iwlk5x7iblb9M63WKWVbj8Gm6oPJZY3bm602-qFyLLnRXuCKsl40iAZG_5-ehqlQ4CYaO442hgo4FBKrspLCO4r_ET1U4U3fPCKCYOc7DFuDn_mv7ZzbzH_IC0NAt2HVVSxwIBNOruk/s1600/cyber-espionage.jpg"
+    },
+    {
+      "id": "a1d2eff78334121d9fa77dd316cfb22d",
+      "title": "Outlook se met à perdre les images dans vos mails, Microsoft confirme le bug",
+      "link": "https://korben.info/outlook-se-met-a-perdre-les-images-dans-vos-mails-microsoft-confirme-le-bug.html",
+      "summary": "Si vous avez remarqué récemment que les logos de vos correspondants pros sont remplacés par une vilaine croix rouge dans Outlook, ou pire, que certaines pièces visuelles disparaissent purement et simplement de vos mai...",
+      "published": "2026-05-26T15:27:30+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/outlook-se-met-a-perdre-les-images-dans-vos-mails-microsoft-confirme-le-bug/outlook-se-met-a-perdre-les-images-dans-vos-mails-microsoft-confirme-le-bug-1.jpg"
+    },
+    {
+      "id": "ed45ee56fb7f4e24d4be18d6dad99aba",
+      "title": "Faille RCE dans SharePoint : Microsoft publie un patch pour la CVE-2026-45659",
+      "link": "https://www.it-connect.fr/faille-rce-sharepoint-patch-cve-2026-45659/",
+      "summary": "Microsoft a publié un nouveau correctif de sécurité pour patcher une faille de sécurité RCE affectant plusieurs versions de SharePoint : CVE-2026-45659. Le post Faille RCE dans SharePoint : Microsoft publie un patch p...",
+      "published": "2026-05-26T15:20:54+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "2e1d36f65f6878b66d9684cf9bf64250",
       "title": "Bambu Lab épinglé pour violation de licence open source depuis quatre ans",
@@ -273,16 +353,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg"
     },
     {
-      "id": "795d2b30266c6f486e8831bce35b39aa",
-      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. R...",
-      "published": "2026-05-25T09:32:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg"
-    },
-    {
       "id": "1112d8cfa26002e6b8db705f038d7159",
       "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
       "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
@@ -303,46 +373,6 @@
       "image": "https://korben.info/muxcard-ordinateur-taille-carte-bancaire/muxcard-ordinateur-taille-carte-bancaire-1.jpeg"
     },
     {
-      "id": "d089f1278ed88771c560fba5bcc7a6d9",
-      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-      "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious ...",
-      "published": "2026-05-23T20:48:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "51595515908885777b35e00dc70afc99",
-      "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
-      "link": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur.html",
-      "summary": "Riley Testut et Shane Gill viennent de sortir une bêta d' AltStore Classic (la 2.3b1 ), qui supprime enfin le besoin d'avoir un ordinateur pour sideloader des apps sur iPhone. AltStore, pour ceux qui débarquent, c'est...",
-      "published": "2026-05-23T06:22:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur/altstore-sideloading-iphone-sans-ordinateur-1.png"
-    },
-    {
-      "id": "57d48c711b61c5f521aae7730421fec5",
-      "title": "Tomb Raider 1-3 Remastered - gratuit sur Epic jusqu'au 28 mai",
-      "link": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic.html",
-      "summary": "Aspyr et Crystal Dynamics lâchent en ce moment la trilogie Tomb Raider I-III Remastered gratuitement sur l'Epic Games Store , soit 0€ au lieu de 26,99€. Vous pouvez donc récupérer les trois premières aventures de Lara...",
-      "published": "2026-05-23T05:50:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic/tomb-raider-1-3-remastered-gratuit-epic-1.jpeg"
-    },
-    {
-      "id": "ca6d2a9a513c6d45dd799b40d9d2fad7",
-      "title": "Ce kit de phishing ouvre les comptes Microsoft 365 sans voler le mot de passe",
-      "link": "https://korben.info/ce-kit-de-phishing-ouvre-les-comptes-microsoft-365-sans-voler-le-mot-de-passe.html",
-      "summary": "Voler un mot de passe ? C'est presque devenu accessoire. Le FBI a lancé une alerte sur Kali365, un kit de piratage qui s'introduit dans les comptes Microsoft 365 d'une entreprise sans jamais avoir besoin du mot de pas...",
-      "published": "2026-05-22T13:55:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ce-kit-de-phishing-ouvre-les-comptes-microsoft-365-sans-voler-le-mot-de-passe/ce-kit-de-phishing-ouvre-les-comptes-microsoft-365-sans-voler-le-mot-de-passe-1.jpg"
-    },
-    {
       "id": "eb3e2b37af982d1e49c2987ee14ce02c",
       "title": "Windows : comment se protéger de la faille zero-day YellowKey ?",
       "link": "https://www.it-connect.fr/windows-comment-se-proteger-de-la-faille-zero-day-yellowkey/",
@@ -351,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ee428282661b94926612b93062c4f108",
-      "title": "Arnaque téléphonique - Micode infiltre le réseau d'escrocs",
-      "link": "https://korben.info/arnaque-telephonique-faux-remboursement-enquete-micode.html",
-      "summary": "Micode vient de lâcher une enquête de presque 50 minutes que vous devriez vraiment regarder, et je la relaie parce qu'elle est d'intérêt public. Avec son équipe, il a infiltré pendant des mois le réseau derrière ces a...",
-      "published": "2026-05-22T13:19:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/arnaque-telephonique-faux-remboursement-enquete-micode/arnaque-telephonique-faux-remboursement-enquete-micode-1.png"
     },
     {
       "id": "7b13366eccac38ae0da26e3b6efe1348",
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/proxmox-ve-9-2-est-disponible-quelles-sont-les-nouveautes/",
       "summary": "Découvrez les nouveautés principales de Proxmox VE 9.2, la nouvelle version disponible depuis le 21 mai 2026 : Dynamic Load Balancer, certificats UEFI, etc. Le post Proxmox VE 9.2 est disponible : quelles sont les nou...",
       "published": "2026-05-22T07:22:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9b815d317f6089ca04bd8eae760009e9",
-      "title": "ONLYOFFICE Docs 9.4 supprime la limite des 20 connexions et ajuste la licence open source",
-      "link": "https://www.it-connect.fr/onlyoffice-docs-9-4-decouvrez-les-nouveautes/",
-      "summary": "Découvrez ONLYOFFICE Docs 9.4 ! La version Community supprime enfin la limite des 20 connexions simultanées et met à jour sa licence open source. Le post ONLYOFFICE Docs 9.4 supprime la limite des 20 connexions et aju...",
-      "published": "2026-05-22T04:56:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7b5aa8a73869a95c70361726e9242adb",
-      "title": "Nouvelles offres chez GoDeal24 : bénéficiez de Microsoft Office et Windows 11, à partir de 12€",
-      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
-      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Nouvelles offres chez GoDeal24 : bénéficiez de Microso...",
-      "published": "2026-05-22T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
