@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-26T20:06:12.583717+00:00",
+  "last_updated": "2026-05-27T03:31:06.328351+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ddf8a18ff3f74db5c6f5a1bfbf0233b1",
+      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+      "published": "2026-05-26T20:07:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "2f89d9b037602c99b024ba080cbe6e4f",
       "title": "Charter confirms data breach after ShinyHunters extortion threat",
@@ -351,16 +361,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg"
-    },
-    {
-      "id": "1112d8cfa26002e6b8db705f038d7159",
-      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
-      "published": "2026-05-24T14:12:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "4b1574ea7fb84f99d9e21fa6374c052b",
