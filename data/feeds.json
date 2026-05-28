@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-05-28T09:57:10.791989+00:00",
+  "last_updated": "2026-05-28T15:44:50.535724+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9dafd1d46e709d8986009204773d1e4d",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+      "published": "2026-05-28T14:25:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "11350d2396a98dd350206d4481159e15",
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+      "published": "2026-05-28T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "25e22e6e75a89ee008856a8dab5030f2",
+      "title": "iOS 26 gèle vos appels FaceTime quand il détecte de la nudité, même entre adultes",
+      "link": "https://korben.info/ios-26-gele-vos-appels-facetime-quand-il-detecte-de-la-nudite-meme-entre-adultes.html",
+      "summary": "Attention, votre iPhone vous surveille pendant vos appels FaceTime. Depuis iOS 26, Apple a glissé une fonction baptisée \"Sensitive Content Warning\" qui scanne en temps réel le flux vidéo et fige automatiquement la com...",
+      "published": "2026-05-28T13:58:39+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ios-26-gele-vos-appels-facetime-quand-il-detecte-de-la-nudite-meme-entre-adultes/ios-26-gele-vos-appels-facetime-quand-il-detecte-de-la-nudite-meme-entre-adultes-1.jpg"
+    },
+    {
+      "id": "7f37ee7f51c7ed127599c00a8350a36c",
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact an...",
+      "published": "2026-05-28T13:53:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png"
+    },
+    {
+      "id": "2056855e64fcb4c44afd100d951de2a8",
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed ...",
+      "published": "2026-05-28T13:33:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg"
+    },
+    {
+      "id": "7af9c9609ca88cbc8b6d42a923e5da1b",
+      "title": "Un développeur de malware ooublie son propre token GitHub dans le code",
+      "link": "https://korben.info/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code.html",
+      "summary": "Voilà qui est rigolo. Un développeur malveillant a essayé de voler les fichiers sensibles des utilisateurs de Claude (l'assistant IA d'Anthropic, concurrent d'OpenAI sur les modèles de langage) en uploadant un package...",
+      "published": "2026-05-28T12:51:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code-1.jpg"
+    },
+    {
+      "id": "3e8da44c2e68633e3b0bc61c544eaf04",
+      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
+      "published": "2026-05-28T12:43:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "52e6a97dbc910ffc9d704f7fcec0fa35",
+      "title": "NVIDIA CUDA 13.3 fait passer Python en stable et amène un nouveau modèle de programmation pour C++",
+      "link": "https://korben.info/nvidia-cuda-13-3-fait-passer-python-en-stable-et-amene-un-nouveau-modele-de-programmation-pour-c.html",
+      "summary": "Avec la sortie de CUDA 13.3, NVIDIA renforce son écosystème GPU sur deux fronts importants. La version Python passe officiellement en 1.0 (donc considérée comme stable et utilisable en production), et CUDA Tile arrive...",
+      "published": "2026-05-28T12:34:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/nvidia-cuda-13-3-fait-passer-python-en-stable-et-amene-un-nouveau-modele-de-programmation-pour-c/nvidia-cuda-13-3-fait-passer-python-en-stable-et-amene-un-nouveau-modele-de-programmation-pour-c-1.jpg"
+    },
+    {
+      "id": "4a226a5fa604c74cc99bf54e1f34cce3",
+      "title": "Autopsie d'une résistance carbone vintage",
+      "link": "https://korben.info/autopsie-dune-resistance-carbone-vintage.html",
+      "summary": "CuriousMarc, un youtubeur connu pour ses restaurations d'équipements électroniques d'époque, est tombé sur un cas intéressant lors de la réparation d'un oscilloscope Metrix vintage. Après avoir changé tous les condens...",
+      "published": "2026-05-28T12:22:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/autopsie-dune-resistance-carbone-vintage/autopsie-dune-resistance-carbone-vintage-1.jpg"
+    },
+    {
+      "id": "9dae129f408ea273ec5c8247e364686b",
+      "title": "Webinar: Why network incidents take too long to resolve",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+      "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays ...",
+      "published": "2026-05-28T12:20:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "310e252e393992e8dc3d1a01d5e0444c",
+      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
+      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming f...",
+      "published": "2026-05-28T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg"
+    },
+    {
+      "id": "9c241f3062e017b1975e00b71e221a02",
+      "title": "BadHost - Un caractère et votre agent IA passe à l'ennemi",
+      "link": "https://korben.info/badhost-starlette-agents-ia.html",
+      "summary": "Les chercheurs de X41 D-Sec viennent de divulguer une faille critique baptisée BadHost (CVE-2026-48710) dans Starlette, le framework Python qui sert de fondation à FastAPI, vLLM , LiteLLM et une grande partie des serv...",
+      "published": "2026-05-28T10:51:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/badhost-starlette-agents-ia/badhost-starlette-agents-ia-1.png"
+    },
+    {
+      "id": "98bcfa9669cb43b8814124e293d7f71f",
+      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+      "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
+      "published": "2026-05-28T10:49:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ef3107f732fc19bddc312a37fb4d95cb",
+      "title": "\"Je capitule\" - Matt Mullenweg est abattu",
+      "link": "https://korben.info/matt-mullenweg-wp23-discours-fatigue.html",
+      "summary": "Matt Mullenweg vient de publier un billet anniversaire des 23 ans de WordPress, et ce qui devait ressembler à une célébration tient plus de l'appel au secours. Et j'avoue qu'à lecture, ça m'a mis un petit coup au mora...",
+      "published": "2026-05-28T10:23:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/matt-mullenweg-wp23-discours-fatigue/matt-mullenweg-wp23-discours-fatigue-1.png"
+    },
     {
       "id": "e2745c945420f58905d4ca13b108b636",
       "title": "Synology dévoile le FS200T, son nouveau NAS 100% stockage flash",
@@ -173,36 +313,6 @@
       "image": ""
     },
     {
-      "id": "24ed858dc9de49fcc4aebfcaeef0ba24",
-      "title": "Une alimentation USB-C miniature pour redonner vie au Commodore 64",
-      "link": "https://korben.info/une-alimentation-usb-c-miniature-pour-redonner-vie-au-commodore-64.html",
-      "summary": "L'alimentation d'origine du Commodore 64 a une fâcheuse réputation : elle a tendance à mourir en cuisant lentement ses propres composants. Le régulateur, noyé dans la résine, ne dissipe pas la chaleur, surchauffe, et ...",
-      "published": "2026-05-27T13:00:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-alimentation-usb-c-miniature-pour-redonner-vie-au-commodore-64/une-alimentation-usb-c-miniature-pour-redonner-vie-au-commodore-64-1.jpg"
-    },
-    {
-      "id": "1be31fe53a1db1f86478c1bd460ba8a2",
-      "title": "Un thermostat Honeywell bourré de failles",
-      "link": "https://korben.info/un-thermostat-honeywell-bourre-de-failles.html",
-      "summary": "Des chercheurs ont passé le thermostat connecté Honeywell X2S à la moulinette du reverse-engineering. Le résultat est un peu embarrassant. L'appareil en question, c'est un thermostat Wi-Fi qui se pilote depuis le smar...",
-      "published": "2026-05-27T12:55:49+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-thermostat-honeywell-bourre-de-failles/un-thermostat-honeywell-bourre-de-failles-1.jpg"
-    },
-    {
-      "id": "84d25ffd9eb11558450bcf22efb78390",
-      "title": "Votre bluetooth est en rade sur Linux ? Il existe une solution",
-      "link": "https://korben.info/votre-bluetooth-est-en-rade-sur-linux-il-existe-une-solution.html",
-      "summary": "Une mise à jour récente du noyau Linux a cassé le support de certains adaptateurs Bluetooth MediaTek, ceux qui sont intégrés aux puces Wi-Fi qu'on trouve sur beaucoup de cartes mères modernes. Le résultat : votre clav...",
-      "published": "2026-05-27T12:39:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/votre-bluetooth-est-en-rade-sur-linux-il-existe-une-solution/votre-bluetooth-est-en-rade-sur-linux-il-existe-une-solution-1.jpg"
-    },
-    {
       "id": "dbf950653333a27d07a5a2708355ecd0",
       "title": "FBI warns of in-person data theft attacks from extortion gang",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
@@ -253,16 +363,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtYSLWixSGb7jW2drND6NlHzXB4eHO0QyZNOovK9iVyaHGS6fSN4eqhWkijIhevhInH56hv03c29ziWCZiH58kY5EBbfuZloLfMP9yGJuFVtIaoJqj31KVFNeImMNVnLGrRHbhcGw7IMVZ8FEH2tK-Bit50KzXfe0F9jEQAO9iy5PNprbqJzgRB2WkI-0i/s1600/gitea-main.jpg"
     },
     {
-      "id": "9bf5d8bc9d4122b9ed2ee5c02db20bb5",
-      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is act...",
-      "published": "2026-05-27T10:06:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c8b05be6f206e78b5b0855cae9e68898",
       "title": "MDASH : l’IA de Microsoft plus efficace que Claude Mythos pour trouver des failles",
       "link": "https://www.it-connect.fr/mdash-ia-de-microsoft-plus-redoutable-que-claude-mythos-pour-trouver-les-failles-de-securite/",
@@ -271,66 +371,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ea18392dcdb76387a88a31c55da5e0d2",
-      "title": "Un vélo construit avec les techniques de la Renaissance italienne",
-      "link": "https://korben.info/un-velo-construit-avec-les-techniques-de-la-renaissance-italienne.html",
-      "summary": "La chaîne YouTube \"How To Make Everything\" s'est lancé un défi très improbable : construire un vélo en n'utilisant que des matériaux et des techniques disponibles à la Renaissance italienne. L'idée tourne autour d'un ...",
-      "published": "2026-05-27T09:37:46+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-velo-construit-avec-les-techniques-de-la-renaissance-italienne/un-velo-construit-avec-les-techniques-de-la-renaissance-italienne-1.jpg"
-    },
-    {
-      "id": "f7fe0bca0c928fae80762adf78535211",
-      "title": "Dutch police arrests suspect linked to Ajax football club hack",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-      "summary": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
-      "published": "2026-05-27T09:09:03+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7c6477155ca59e4f8bb177af01f5e551",
-      "title": "GhostDesk - Un bureau Linux complet pour votre agent IA",
-      "link": "https://korben.info/ghostdesk-agent-ia-bureau-linux-docker.html",
-      "summary": "GhostDesk , c'est un serveur MCP open source qui file à votre agent IA un bureau Linux complet tournant dans Docker. L'agent voit l'écran, clique, tape, lance des applis, comme un humain. Bref, c'est pas juste un brow...",
-      "published": "2026-05-27T08:49:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ghostdesk-agent-ia-bureau-linux-docker/ghostdesk-agent-ia-bureau-linux-docker-1.jpeg"
-    },
-    {
-      "id": "bde76cec34224ac0850d25ba2a770182",
-      "title": "Submit This Form - Le jeu où le boss final est un formulaire web",
-      "link": "https://korben.info/submit-this-form-jeu-puzzle-formulaire.html",
-      "summary": "Remplir un formulaire web, c'est sans doute l'activité la plus chiante qu'on puisse faire en ligne. C'est pourquoi Ben, un développeur qui me lit depuis 20 ans (merci !!!), a eu l'idée géniale d'en faire un jeu à part...",
-      "published": "2026-05-27T08:37:45+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/submit-this-form-jeu-puzzle-formulaire/submit-this-form-jeu-puzzle-formulaire-1.png"
-    },
-    {
-      "id": "15250157139b0a4318910e06e5146658",
-      "title": "Windows 11 KB5089573 update released with performance improvements",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
-      "summary": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
-      "published": "2026-05-27T08:33:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5deaf9976d1e89d6e8977920efdbe7a9",
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique ext...",
-      "published": "2026-05-27T07:45:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqt5LC8yrEqRzxRxEUTh3yZSnXovvZU0R11suWWfP1FEKvC5ZOpPnLHpdDjAzUADZarX1C3XucsG5OOXN3Zj4-esPhUnz4DBnAdDxkZw3aEqdH_HHPn4N5Eu03Y-tG_kEmPOxKyMH14wpiOYs9w8jh7U6MlHjHqiS4nNxLH_NpS47oR-mRW5GfuDvX9VFo/s1600/ai-tools.jpg"
     },
     {
       "id": "31b0c0bd56b8aa96ecfcdf0e6cb56274",
@@ -363,50 +403,60 @@
       "image": ""
     },
     {
-      "id": "ddf8a18ff3f74db5c6f5a1bfbf0233b1",
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
-      "published": "2026-05-26T20:07:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2f89d9b037602c99b024ba080cbe6e4f",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "published": "2026-05-26T19:46:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4f39bb1f560352e2ed89e5a1201309bf",
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted indust...",
-      "published": "2026-05-26T15:48:41+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkb692n4xA8jDUKZCkwPSIXqiyTaEk_bQhrNaZj33tRhusSP40-iwlk5x7iblb9M63WKWVbj8Gm6oPJZY3bm602-qFyLLnRXuCKsl40iAZG_5-ehqlQ4CYaO442hgo4FBKrspLCO4r_ET1U4U3fPCKCYOc7DFuDn_mv7ZzbzH_IC0NAt2HVVSxwIBNOruk/s1600/cyber-espionage.jpg"
-    },
-    {
-      "id": "32f263b197af1f9ac1237b21af3ee872",
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tool...",
-      "published": "2026-05-26T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiphaRoHMD4mkIzApkJZumEOEdIR0c_RxQrvmjv5qM6Kgo8MBnKrIAxicsojC-CdXhcOfRR9t0DxQeyEMXjXtER-bkSqe97zvFr7mfz3HjwA-79JjLWg0IwhZFTulr__kB02fXgX09tOpLWUjqy-fFmQbfvCZG-2uLLAhJpFAFrPo5d9H0PVZHEaSvmZKFE/s1600/ddossss.jpg"
-    },
-    {
       "id": "e557f27afcbea0fa1f2701616c42969e",
       "title": "Multiples vulnérabilités dans ISC BIND (21 mai 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0626/",
       "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-21T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5b896b496dce0cc17fbe39beb4406ef0",
+      "title": "Multiples vulnérabilités dans les produits Splunk (21 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0627/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et ...",
+      "published": "2026-05-21T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b14d0d29d1b3b3b258ebfd8a0241b568",
+      "title": "Vulnérabilité dans Cisco Secure Workload (21 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0628/",
+      "summary": "Une vulnérabilité a été découverte dans Cisco Secure Workload. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-05-21T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ccf43f4c16e358d03f4e3086dfb2a3e4",
+      "title": "Multiples vulnérabilités dans les produits Apereo (21 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0625/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apereo. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "published": "2026-05-21T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0d83471f98b1e5207c5cc66ee1625098",
+      "title": "Multiples vulnérabilités dans Progress MOVEit Automation (21 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0624/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Progress MOVEit Automation. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème ...",
+      "published": "2026-05-21T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bff6f660cbc2dcd624dc55e8b19da41e",
+      "title": "Vulnérabilité dans Drupal (21 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0629/",
+      "summary": "Une vulnérabilité a été découverte dans Drupal. Elle permet à un attaquant de provoquer une injection SQL (SQLi). L'éditeur précise que la vulnérabilité CVE-2026-9082 affecte uniquement les applications qui utilisent ...",
       "published": "2026-05-21T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -423,16 +473,6 @@
       "image": ""
     },
     {
-      "id": "eb1b0182e0874114c0e03669d31f6fc8",
-      "title": "Multiples vulnérabilités dans Docker (20 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0620/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Docker. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-05-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f1e3b6ead9e87a72c1f92c2736540a66",
       "title": "Multiples vulnérabilités dans Microsoft Windows (20 mai 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0622/",
@@ -443,50 +483,10 @@
       "image": ""
     },
     {
-      "id": "863fb3bcce1d381a73d4d4729c9460be",
-      "title": "Multiples vulnérabilités dans Symfony (20 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0617/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et une injec...",
-      "published": "2026-05-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fbfbb8556db4527232afa3ade62a5c7b",
-      "title": "Vulnérabilité dans F5 NGINX (20 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0619/",
-      "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service à distance.",
-      "published": "2026-05-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c94644ee98e346693a1bce5c4c4870a3",
-      "title": "Multiples vulnérabilités dans les produits Atlassian (20 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0621/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et...",
-      "published": "2026-05-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "dea29391930816d8554e32a6d6fd3e05",
       "title": "Multiples vulnérabilités dans Google Chrome (20 mai 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0613/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3474401b7eaec9a994830018d379821e",
-      "title": "Multiples vulnérabilités dans ISC BIND (20 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0618/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-05-20T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
