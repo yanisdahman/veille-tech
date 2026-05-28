@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-05-28T15:44:50.535724+00:00",
+  "last_updated": "2026-05-28T20:15:38.495626+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9eb49c7252e688aac50d14214158f199",
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...",
+      "published": "2026-05-28T19:08:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1e82424ff37c7b979583f31cdc17e633",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+      "published": "2026-05-28T17:25:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1b3ea063614b3d919ba51fd740b31911",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per...",
+      "published": "2026-05-28T17:24:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg"
+    },
+    {
+      "id": "1349e418fda6de8df6c4c8b52b234c18",
+      "title": "GHOST STADIUM : 4 300 faux sites FIFA menacent la Coupe du Monde 2026",
+      "link": "https://www.it-connect.fr/ghost-stadium-4-300-faux-sites-fifa-menacent-la-coupe-du-monde-2026/",
+      "summary": "La Coupe du Monde de la FIFA 2026 arrive et les cybercriminels sont déjà prêts ! La preuve avec plusieurs campagnes, dont GHOST STADIUM. Le post GHOST STADIUM : 4 300 faux sites FIFA menacent la Coupe du Monde 2026 a ...",
+      "published": "2026-05-28T15:53:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d97193efadc5b4154dda7a6f3603678a",
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted end...",
+      "published": "2026-05-28T15:26:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg"
+    },
     {
       "id": "9dafd1d46e709d8986009204773d1e4d",
       "title": "New Gogs zero-day flaw lets hackers get remote code execution",
@@ -303,26 +353,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
     },
     {
-      "id": "f129c4298a6c695eb73909b57127e852",
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and ...",
-      "published": "2026-05-27T13:28:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "dbf950653333a27d07a5a2708355ecd0",
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
-      "published": "2026-05-27T11:51:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "2b71a8de1fa9df3c9a8cad3f40d85315",
       "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
       "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
@@ -333,16 +363,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZssmt_sAQM7Hi8SpkOQnmc9tKVqlTyjMclO_ptRmn45_cDzz3KANdtBi4xzzuf7neoeylx39D4BZN_Wys34O8lCM9KP8qytxEq_QT4tQ_FTHBeRV75qVTNfzQg7UGa0IJGO3tuJBZGiDjNfB401rG6hPvu78_5H_Sp8UeYk9c74KlCr-CaVX1rg-Slxc6/s1600/botnet-down.jpg"
     },
     {
-      "id": "1f12b2a2dd09607e2312df90f4bec961",
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-      "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disgui...",
-      "published": "2026-05-27T11:45:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5SbPsI2Ip_2s2JkLJSNNO05Qfn3zFQTpOSmRmqTreVUxDWTgZXSUgEtIwEvu5bQ8wGM24s68ikCnVLdKujVhF8j-TxTM5lr38lAdKkEummRkZxVnB5P1CQWNYqY-Oswvf6FHz4gWhFSAbrokC_3bnFksFvzGSC-0Fh5YUUJSNS2jlKrOJt4RCRJlYoJ4/s1600/iocc.jpg"
-    },
-    {
       "id": "740bfc745e6135e99a5e30c5f191cee9",
       "title": "GLPI Carbon : mesurez l’empreinte énergétique de vos actifs informatiques",
       "link": "https://www.it-connect.fr/glpi-carbon-mesurez-lempreinte-energetique-de-vos-actifs-informatiques/",
@@ -351,16 +371,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "f3ebf219de39e0991651dfb467b0baea",
-      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-      "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea dep...",
-      "published": "2026-05-27T10:06:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtYSLWixSGb7jW2drND6NlHzXB4eHO0QyZNOovK9iVyaHGS6fSN4eqhWkijIhevhInH56hv03c29ziWCZiH58kY5EBbfuZloLfMP9yGJuFVtIaoJqj31KVFNeImMNVnLGrRHbhcGw7IMVZ8FEH2tK-Bit50KzXfe0F9jEQAO9iy5PNprbqJzgRB2WkI-0i/s1600/gitea-main.jpg"
     },
     {
       "id": "c8b05be6f206e78b5b0855cae9e68898",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/rocky-linux-un-nouveau-depot-optionnel-pour-patcher-les-failles-zero-day/",
       "summary": "Rocky Linux a un nouveau dépôt optionnel disponible pour distribuer des patchs de sécurité (hotfix) afin de protéger les machines des failles zero-day. Le post Rocky Linux : un nouveau dépôt optionnel pour patcher les...",
       "published": "2026-05-27T05:20:21+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ce2e3c2c9715d6d7fb9e31ca7644e4b1",
-      "title": "Microsoft Defender va pouvoir isoler automatiquement les appareils piratés !",
-      "link": "https://www.it-connect.fr/microsoft-defender-va-pouvoir-isoler-automatiquement-les-appareils-pirates/",
-      "summary": "Microsoft Defender for Endpoint va pouvoir isoler automatiquement les machines piratées pour empêcher les mouvements latéraux et limiter l'impact d'une attaque. Le post Microsoft Defender va pouvoir isoler automatique...",
-      "published": "2026-05-27T04:56:37+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
