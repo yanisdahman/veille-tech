@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-05-29T02:55:11.804768+00:00",
+  "last_updated": "2026-05-29T09:48:30.478336+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "df75e728493a967ced12cc2eaa4e9016",
+      "title": "SixBack - Ressusciter une Bose SoundTouch avec un ESP32",
+      "link": "https://korben.info/bose-ressuscite-esp32.html",
+      "summary": "Si comme moi, vous avez une enceinte Bose SoundTouch , vous savez que ses boutons de radio internet ont cessé de fonctionner début mai. En effet, Bose a coupé le cloud qui tournait derrière, et les six boutons de prés...",
+      "published": "2026-05-29T09:25:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/bose-ressuscite-esp32/bose-ressuscite-esp32-1.png"
+    },
+    {
+      "id": "f0350baf64a7152cad733218484f222d",
+      "title": "Linux va enfin faire tourner le GA100 de NVIDIA avec un pilote 100% libre",
+      "link": "https://korben.info/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre.html",
+      "summary": "Petite victoire pour le logiciel libre. Avec la prochaine version du noyau Linux, la 7.2, le pilote Nouveau va enfin prendre en charge le GA100 de NVIDIA. Pour situer, Nouveau, c'est le pilote graphique libre développ...",
+      "published": "2026-05-29T09:03:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre-1.jpg"
+    },
+    {
+      "id": "1f40905ea595f488aa8b21da2ed8424e",
+      "title": "Il transforme deux Xbox One hors service en une clé USB de 10 Go",
+      "link": "https://korben.info/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go.html",
+      "summary": "En pleine flambée des prix de la mémoire et du stockage, un bricoleur du nom de Chase Fournier a imaginé une façon rigolote de recycler du vieux matériel : récupérer les puces de stockage de deux Xbox One pour les ass...",
+      "published": "2026-05-29T08:51:21+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go-1.jpg"
+    },
+    {
+      "id": "44b181b6ae5f2234258eef24d47f55cf",
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Bee...",
+      "published": "2026-05-29T08:29:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fb9dcd96411e353f264d8c45efeccadb",
+      "title": "Apocalypse Early Warning - Quand les riches fuiront",
+      "link": "https://korben.info/ews-jets-prives-milliardaires-alerte.html",
+      "summary": "Le pari de Kyle McDonald, le site dont je vais vous parler aujourd'hui c'est que si une catastrophe se prépare, les milliardaires le sauront avant nous et fileront en jet privé. C'est pour ça que cet artiste-programme...",
+      "published": "2026-05-29T07:29:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ews-jets-prives-milliardaires-alerte/ews-jets-prives-milliardaires-alerte-1.png"
+    },
+    {
+      "id": "49b231dddb19c582ddffbfd7ec43b0a7",
+      "title": "Proton Mail lance une fonctionnalité pour vous aider à quitter Gmail",
+      "link": "https://www.it-connect.fr/proton-mail-lance-une-fonctionnalite-pour-vous-aider-a-quitter-gmail/",
+      "summary": "Proton Mail souhaite attirer les utilisateurs de Gmail grâce à sa nouvelle fonctionnalité Easy Switch compatible avec les services de Google. Le post Proton Mail lance une fonctionnalité pour vous aider à quitter Gmai...",
+      "published": "2026-05-29T07:25:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c4e848327b99860050f210c9158f2c08",
+      "title": "MS Icons : une ressource pratique pour vos diagrammes d’architecture Microsoft",
+      "link": "https://www.it-connect.fr/ms-icons-une-ressource-pratique-pour-vos-diagrammes-darchitecture-microsoft/",
+      "summary": "MS Icons est une bibliothèque d'icônes gratuites qui regroupe plus de 2 400 assets autour des produits et services Microsoft, téléchargeables en SVG et PNG. Le post MS Icons : une ressource pratique pour vos diagramme...",
+      "published": "2026-05-29T06:49:35+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "542858af03ad63381599625c01317bb6",
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2...",
+      "published": "2026-05-29T05:57:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfUl1K-os1XyLN-SBt6PgMia_jFG03ArRa3H0FI2hsiUqNa3lqSWY2NJcvOhY33TArSKJxeookUpkATdERUpEwKw-IUi6iv9ZVuUq4c1A99mLwgQB4ibCxBx4MBR1XXmM98zH7v-QWDO7bhh1AONQ8Op0htvwHhuivwI1Cch9rgLPO-zSGCjjQbvXdDte/s1600/north-korea.png"
+    },
+    {
+      "id": "4a908595f5972dadce52a9b8aa6b78a4",
+      "title": "FROST - Quand un site web peut vous tracker grâce à votre SSD",
+      "link": "https://korben.info/site-web-espionnage-activite-ssd.html",
+      "summary": "FROST, c'est le nom d'une nouvelle attaque qui transforme votre SSD en mouchard. Des chercheurs de l'université de Graz, avec Daniel Gruss au générique (un des cerveaux derrière Spectre et Meltdown), ont montré qu'un ...",
+      "published": "2026-05-29T05:23:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/site-web-espionnage-activite-ssd/site-web-espionnage-activite-ssd-1.png"
+    },
+    {
+      "id": "27f7231a85139c6bf3f7b343b62f914f",
+      "title": "Anthropic confirme l’arrivée de Claude Mythos dans les prochaines semaines",
+      "link": "https://www.it-connect.fr/anthropic-confirme-larrivee-de-claude-mythos-dans-les-prochaines-semaines/",
+      "summary": "Anthropic va rendre accessible Claude Mythos au grand public dans les prochaines semaines. Il est plus puissant que le modèle actuel, Claude Opus 4.8. Le post Anthropic confirme l’arrivée de Claude Mythos dans les pro...",
+      "published": "2026-05-29T04:57:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9a2ebad94f0454918115ac736f41a4d8",
+      "title": "Transition de Microsoft Entra Connect Sync vers Cloud Sync : ce qu’il faut savoir !",
+      "link": "https://www.it-connect.fr/transition-de-microsoft-entra-connect-sync-vers-cloud-sync-ce-quil-faut-savoir/",
+      "summary": "Microsoft a annoncé la transition d'Entra Connect Sync vers Entra Cloud Sync pour synchroniser les identités entre l'AD et Entra ID. Voici ce qui vous attend. Le post Transition de Microsoft Entra Connect Sync vers Cl...",
+      "published": "2026-05-29T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "d603b99d92a95c302777a69a5163f8a5",
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
@@ -203,26 +313,6 @@
       "image": "https://korben.info/badhost-starlette-agents-ia/badhost-starlette-agents-ia-1.png"
     },
     {
-      "id": "98bcfa9669cb43b8814124e293d7f71f",
-      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-      "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
-      "published": "2026-05-28T10:49:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ef3107f732fc19bddc312a37fb4d95cb",
-      "title": "\"Je capitule\" - Matt Mullenweg est abattu",
-      "link": "https://korben.info/matt-mullenweg-wp23-discours-fatigue.html",
-      "summary": "Matt Mullenweg vient de publier un billet anniversaire des 23 ans de WordPress, et ce qui devait ressembler à une célébration tient plus de l'appel au secours. Et j'avoue qu'à lecture, ça m'a mis un petit coup au mora...",
-      "published": "2026-05-28T10:23:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/matt-mullenweg-wp23-discours-fatigue/matt-mullenweg-wp23-discours-fatigue-1.png"
-    },
-    {
       "id": "e2745c945420f58905d4ca13b108b636",
       "title": "Synology dévoile le FS200T, son nouveau NAS 100% stockage flash",
       "link": "https://www.it-connect.fr/synology-devoile-le-fs200t-son-nouveau-nas-100-stockage-flash/",
@@ -231,26 +321,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "5f8228290c718f7d7fac74773dfcd7a1",
-      "title": "Un radioamateur décode le signal de la sonde chinoise Tianwen-2 en route vers un astéroïde",
-      "link": "https://korben.info/un-radioamateur-decode-le-signal-de-la-sonde-chinoise-tianwen-2-en-route-vers-un-asteroide.html",
-      "summary": "Daniel Estévez est ce qu'on appelle un radioamateur de haut vol. Spécialisé dans le décodage de signaux satellites et de sondes spatiales, l'Espagnol partage ses analyses techniques sur son blog depuis plusieurs année...",
-      "published": "2026-05-28T09:08:13+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-radioamateur-decode-le-signal-de-la-sonde-chinoise-tianwen-2-en-route-vers-un-asteroide/un-radioamateur-decode-le-signal-de-la-sonde-chinoise-tianwen-2-en-route-vers-un-asteroide-1.jpg"
-    },
-    {
-      "id": "732cadef60e471f588fb9e0a709043d1",
-      "title": "BumpMesh - Pour ajouter de la texture à vos impressions 3D",
-      "link": "https://korben.info/bumpmesh-textures-stl-impression-3d-navigateur.html",
-      "summary": "Stefan Hermann, le mec derrière la chaîne YouTube CNC Kitchen , vient de nous pondre un super outil web baptisé BumpMesh qui permet d'ajouter des textures de \" displacement \" à vos modèles STL, OBJ et 3MF... directeme...",
-      "published": "2026-05-28T07:55:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/bumpmesh-textures-stl-impression-3d-navigateur/bumpmesh-textures-stl-impression-3d-navigateur-1.jpeg"
     },
     {
       "id": "ec666a1e01b1f90e7edcd3080a75b73b",
@@ -271,16 +341,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "39bbf53ec1ba17ce46f38030dfd76dca",
-      "title": "Taphouse - La GUI Homebrew avec scanner CVE intégré",
-      "link": "https://korben.info/taphouse-homebrew-gui-macos.html",
-      "summary": "Multimodal Solutions, une boîte grecque, vient de sortir Taphouse 1.5 qui est une GUI native macOS pour Homebrew. GUI c'est pas que le nom de votre collègue qui fout rien, c'est surtout un acronyme qui veut dire Graph...",
-      "published": "2026-05-28T07:18:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/taphouse-homebrew-gui-macos/taphouse-homebrew-gui-macos-2.png"
     },
     {
       "id": "5dd1c791d615b3bb8adb55b1a57a5b34",
@@ -333,16 +393,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlezHawmKBTFBZSgR52vL_EBxfwIlMa0i4LdDK2xC_c8nw704KQHbRNSHYAy8TY4ShZMFwAJoZKUBSDJBCVnwbORTlz7iE0JI9f9ORbQQ-RB5lA_b9VbUzAsjpVeW2oJ94hdfzOeCWN3zd5Li7zWanNx3s07cF8IRlWuVrLqBNaY0sobbJww1Pa_o2t4JN/s1600/npm-ai.jpg"
     },
     {
-      "id": "b79ab13018f60dc8dda5af52c48efd17",
-      "title": "Le Canada coupe sa station radio horaire CHU après plus d'un siècle de service",
-      "link": "https://korben.info/le-canada-coupe-sa-station-radio-horaire-chu-apres-plus-dun-siecle-de-service.html",
-      "summary": "Le 22 juin prochain, le Canada va éteindre une voix qui parle sans interruption depuis 1923. La station CHU, opérée par le Conseil national de recherches (l'équivalent canadien du CNRS), cessera ses émissions sur onde...",
-      "published": "2026-05-27T14:37:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-canada-coupe-sa-station-radio-horaire-chu-apres-plus-dun-siecle-de-service/le-canada-coupe-sa-station-radio-horaire-chu-apres-plus-dun-siecle-de-service-1.jpg"
-    },
-    {
       "id": "e162aa34e917ee3167d8f86d56fad8fb",
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
       "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
@@ -351,56 +401,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
-    },
-    {
-      "id": "2b71a8de1fa9df3c9a8cad3f40d85315",
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campai...",
-      "published": "2026-05-27T11:48:37+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZssmt_sAQM7Hi8SpkOQnmc9tKVqlTyjMclO_ptRmn45_cDzz3KANdtBi4xzzuf7neoeylx39D4BZN_Wys34O8lCM9KP8qytxEq_QT4tQ_FTHBeRV75qVTNfzQg7UGa0IJGO3tuJBZGiDjNfB401rG6hPvu78_5H_Sp8UeYk9c74KlCr-CaVX1rg-Slxc6/s1600/botnet-down.jpg"
-    },
-    {
-      "id": "740bfc745e6135e99a5e30c5f191cee9",
-      "title": "GLPI Carbon : mesurez l’empreinte énergétique de vos actifs informatiques",
-      "link": "https://www.it-connect.fr/glpi-carbon-mesurez-lempreinte-energetique-de-vos-actifs-informatiques/",
-      "summary": "GLPI, grâce à son plugin nommé Carbon, accompagne les entreprises dans le suivi de l'empreinte carbone de leurs actifs informatiques. Voici une présentation. Le post GLPI Carbon : mesurez l’empreinte énergétique de vo...",
-      "published": "2026-05-27T11:15:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c8b05be6f206e78b5b0855cae9e68898",
-      "title": "MDASH : l’IA de Microsoft plus efficace que Claude Mythos pour trouver des failles",
-      "link": "https://www.it-connect.fr/mdash-ia-de-microsoft-plus-redoutable-que-claude-mythos-pour-trouver-les-failles-de-securite/",
-      "summary": "MDASH, c'est le nom système IA spécialisé dans la découverte de vulnérabilités mis au point par Microsoft. Il serait plus performant que Claude Mythos. Le post MDASH : l’IA de Microsoft plus efficace que Claude Mythos...",
-      "published": "2026-05-27T09:42:03+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "31b0c0bd56b8aa96ecfcdf0e6cb56274",
-      "title": "Microsoft va arrêter les codes par SMS pour les connexions aux comptes personnels !",
-      "link": "https://www.it-connect.fr/microsoft-va-arreter-les-codes-par-sms-pour-les-connexions-aux-comptes-personnels/",
-      "summary": "Microsoft veut mettre fin aux codes de validation envoyés par SMS pour la connexion aux comptes Microsoft. A la place, des passkeys seront utilisées. Le post Microsoft va arrêter les codes par SMS pour les connexions ...",
-      "published": "2026-05-27T05:55:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "af5f02e9590d5f44c79b09194ca32241",
-      "title": "Rocky Linux : un nouveau dépôt optionnel pour patcher les failles zero-day",
-      "link": "https://www.it-connect.fr/rocky-linux-un-nouveau-depot-optionnel-pour-patcher-les-failles-zero-day/",
-      "summary": "Rocky Linux a un nouveau dépôt optionnel disponible pour distribuer des patchs de sécurité (hotfix) afin de protéger les machines des failles zero-day. Le post Rocky Linux : un nouveau dépôt optionnel pour patcher les...",
-      "published": "2026-05-27T05:20:21+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "e557f27afcbea0fa1f2701616c42969e",
