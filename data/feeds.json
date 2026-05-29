@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-29T14:56:33.395144+00:00",
+  "last_updated": "2026-05-29T20:21:09.779716+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7e80ae894b0ace4b627b8b32d10a41bc",
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+      "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+      "published": "2026-05-29T18:21:36+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bdfadf771a6c8332fb2a39cae5146792",
+      "title": "California AG sues 23andMe over 2023 breach exposing health data",
+      "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+      "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+      "published": "2026-05-29T18:08:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6fdbdbea9b3ba49a883376d3f70df272",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injection...",
+      "published": "2026-05-29T18:07:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg"
+    },
+    {
+      "id": "3c404181085b3c2b076605769a25dac5",
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network u...",
+      "published": "2026-05-29T14:39:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
+    },
     {
       "id": "03bbc4111e12a60e17f8cdc0fd705de2",
       "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
@@ -253,26 +293,6 @@
       "image": ""
     },
     {
-      "id": "e3aa70330c4d11d55b9dd75e62b7d29f",
-      "title": "BTMOB Android malware service generates custom phishing payloads",
-      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
-      "published": "2026-05-28T21:10:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9eb49c7252e688aac50d14214158f199",
-      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-      "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...",
-      "published": "2026-05-28T19:08:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "1b3ea063614b3d919ba51fd740b31911",
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
       "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
@@ -343,16 +363,6 @@
       "image": "https://korben.info/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code-1.jpg"
     },
     {
-      "id": "310e252e393992e8dc3d1a01d5e0444c",
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming f...",
-      "published": "2026-05-28T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg"
-    },
-    {
       "id": "e2745c945420f58905d4ca13b108b636",
       "title": "Synology dévoile le FS200T, son nouveau NAS 100% stockage flash",
       "link": "https://www.it-connect.fr/synology-devoile-le-fs200t-son-nouveau-nas-100-stockage-flash/",
@@ -361,16 +371,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ec666a1e01b1f90e7edcd3080a75b73b",
-      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-      "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke mac...",
-      "published": "2026-05-28T07:54:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyRUE7TEns58pfRrpwegQH6tBvGORrdclhPKKI7B7l9eNy5bMA1_ra6HAyGPUC_NKD8ZTnpVt7z88AII1Sd8QpA-sqZ7ONKZGwEVFB0u8gNvsBVRtfJuTsvWM4q6V_9MXVj7fX4ug_7mel-x1i2l7qm1GY94gVA1AbyCrvRQA8JcaDmhF1i_tM22NF_RPX/s1600/crypto-hacks.jpg"
     },
     {
       "id": "503b7885d2c096f5f8f76c10ea6b245f",
