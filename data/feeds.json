@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-30T02:48:18.347507+00:00",
+  "last_updated": "2026-05-30T08:25:04.102499+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "50a90c58706fb5c3ccb4506cc0aa2092",
+      "title": "Il affiche du web moderne sur un Mac vieux de vingt-cinq ans",
+      "link": "https://korben.info/il-affiche-du-web-moderne-sur-un-mac-vieux-de-vingt-cinq-ans.html",
+      "summary": "Faire s'afficher un site en HTTPS sur une machine qui tournait déjà sous Mac OS 9, le système d'exploitation d'Apple antérieur à Mac OS X, relevait jusqu'ici de l'impossible, et c'est pourtant ce qu'a réussi un dévelo...",
+      "published": "2026-05-30T08:13:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-affiche-du-web-moderne-sur-un-mac-vieux-de-vingt-cinq-ans/il-affiche-du-web-moderne-sur-un-mac-vieux-de-vingt-cinq-ans-1.jpg"
+    },
+    {
+      "id": "5420e05836399b582d9f84504d254736",
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVS...",
+      "published": "2026-05-30T06:41:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
+    },
+    {
+      "id": "f5a09b91ace8e16eac2531ab64620998",
+      "title": "OpenAI Privacy Filter - Masquez vos données perso en local",
+      "link": "https://korben.info/openai-privacy-filter-anonymiser-pii-local.html",
+      "summary": "OpenAI vient de sortir un modèle open source qui repère et masque les données perso dans un texte, et le plus marrant, c'est qu'il tourne chez vous, pas chez eux. Ça nous change ^^. Ça s'appelle Privacy Filter , c'est...",
+      "published": "2026-05-30T05:46:38+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/openai-privacy-filter-anonymiser-pii-local/openai-privacy-filter-anonymiser-pii-local-1.png"
+    },
     {
       "id": "7e80ae894b0ace4b627b8b32d10a41bc",
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
@@ -104,7 +134,7 @@
     },
     {
       "id": "228bde2b24a05a3e010606b87e6feb88",
-      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
       "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is asse...",
       "published": "2026-05-29T11:31:59+00:00",
@@ -323,16 +353,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg"
     },
     {
-      "id": "25e22e6e75a89ee008856a8dab5030f2",
-      "title": "iOS 26 gèle vos appels FaceTime quand il détecte de la nudité, même entre adultes",
-      "link": "https://korben.info/ios-26-gele-vos-appels-facetime-quand-il-detecte-de-la-nudite-meme-entre-adultes.html",
-      "summary": "Attention, votre iPhone vous surveille pendant vos appels FaceTime. Depuis iOS 26, Apple a glissé une fonction baptisée \"Sensitive Content Warning\" qui scanne en temps réel le flux vidéo et fige automatiquement la com...",
-      "published": "2026-05-28T13:58:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ios-26-gele-vos-appels-facetime-quand-il-detecte-de-la-nudite-meme-entre-adultes/ios-26-gele-vos-appels-facetime-quand-il-detecte-de-la-nudite-meme-entre-adultes-1.jpg"
-    },
-    {
       "id": "7f37ee7f51c7ed127599c00a8350a36c",
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
       "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
@@ -341,26 +361,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png"
-    },
-    {
-      "id": "2056855e64fcb4c44afd100d951de2a8",
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed ...",
-      "published": "2026-05-28T13:33:16+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg"
-    },
-    {
-      "id": "7af9c9609ca88cbc8b6d42a923e5da1b",
-      "title": "Un développeur de malware oublie son propre token GitHub dans le code",
-      "link": "https://korben.info/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code.html",
-      "summary": "Voilà qui est rigolo. Un développeur malveillant a essayé de voler les fichiers sensibles des utilisateurs de Claude (l'assistant IA d'Anthropic, concurrent d'OpenAI sur les modèles de langage) en uploadant un package...",
-      "published": "2026-05-28T12:51:36+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code-1.jpg"
     },
     {
       "id": "e2745c945420f58905d4ca13b108b636",
