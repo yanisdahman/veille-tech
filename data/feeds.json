@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-01T17:33:10.084718+00:00",
+  "last_updated": "2026-06-01T21:29:31.580886+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "fc933048d359b8c006906be6e4de8c91",
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
+      "published": "2026-06-01T21:28:41+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "140641f7d37150df9f6c733330221dd9",
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+      "published": "2026-06-01T18:17:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4f197ff556f916e3b86a5fbab335549d",
+      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+      "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This...",
+      "published": "2026-06-01T17:40:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png"
+    },
     {
       "id": "2af64e7f3e79661f405a9975f25d7325",
       "title": "WordPress malware campaign hides payloads in Steam profiles",
@@ -283,26 +313,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png"
     },
     {
-      "id": "b5b09c68b9a2f32f3b89549684f4987b",
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
-      "published": "2026-05-30T18:02:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "15cfe7e98431e3cca724df8ff14d5ace",
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gai...",
-      "published": "2026-05-30T14:16:08+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5420e05836399b582d9f84504d254736",
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
       "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
@@ -331,16 +341,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
-    },
-    {
-      "id": "228bde2b24a05a3e010606b87e6feb88",
-      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-      "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is asse...",
-      "published": "2026-05-29T11:31:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg"
     },
     {
       "id": "49b231dddb19c582ddffbfd7ec43b0a7",
