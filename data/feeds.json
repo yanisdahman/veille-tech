@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-06-01T03:43:26.995806+00:00",
+  "last_updated": "2026-06-01T11:26:55.280458+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ffb2eee62ef221bba87086e944775886",
+      "title": "Palo Alto – CVE-2026-0257 : cette faille dans le VPN est activement exploitée !",
+      "link": "https://www.it-connect.fr/palo-alto-cve-2026-0257-cette-faille-dans-le-vpn-est-activement-exploitee/",
+      "summary": "Une faille de sécurité découverte dans le service VPN GlobalProtect de Palo Alto Networks est actuellement exploitée par les cybercriminels : CVE-2026-0257. Le post Palo Alto – CVE-2026-0257 : cette faille dans le VPN...",
+      "published": "2026-06-01T11:18:45+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "41f9eaf52a74a923b0c6c21784d7b992",
+      "title": "VideoLAN prépare déjà dav2d, le décodeur libre du futur codec vidéo AV2",
+      "link": "https://korben.info/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2.html",
+      "summary": "Jean-Baptiste Kempf, le fondateur de VideoLAN, la communauté derrière le lecteur VLC, vient de lever le voile sur dav2d, un décodeur logiciel taillé pour AV2, le prochain grand codec vidéo libre. Sa devise tient en un...",
+      "published": "2026-06-01T11:17:09+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2-1.jpg"
+    },
+    {
+      "id": "03bd982dfc54f684ee670a87a63597ac",
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "summary": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
+      "published": "2026-06-01T10:59:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cbd4dc82a8c210f4baad152b1a831340",
+      "title": "Charger un jeu Mega Drive depuis un vinyle ? Le pari génial d'un bidouilleur",
+      "link": "https://korben.info/charger-un-jeu-mega-drive-depuis-un-vinyle-le-pari-genial-dun-bidouilleur.html",
+      "summary": "Convertir un jeu de console en son, graver ce son sur un disque vinyle, puis le relire sur une platine pour relancer le jeu, c'est le genre de projet inutile et réjouissant dont seul le monde du retrogaming a le secre...",
+      "published": "2026-06-01T09:50:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/charger-un-jeu-mega-drive-depuis-un-vinyle-le-pari-genial-dun-bidouilleur/charger-un-jeu-mega-drive-depuis-un-vinyle-le-pari-genial-dun-bidouilleur-1.jpg"
+    },
+    {
+      "id": "a3c1407f6b73903a16a1cc760df748ac",
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is ...",
+      "published": "2026-06-01T09:31:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png"
+    },
+    {
+      "id": "0ace1f8b00ac011e78cef054f3071566",
+      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
+      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on su...",
+      "published": "2026-06-01T08:45:29+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg"
+    },
+    {
+      "id": "95c891dfe91ef13c6f33546efcb13d9b",
+      "title": "Pour sauver la loi de Moore, des chercheurs empilent les transistors au lieu de les rétrécir",
+      "link": "https://korben.info/pour-sauver-la-loi-de-moore-des-chercheurs-empilent-les-transistors-au-lieu-de-les-retrecir.html",
+      "summary": "Depuis cinquante ans, on rend les puces plus puissantes en gravant des transistors toujours plus petits, ces minuscules interrupteurs électriques qui font tout le travail. Sauf qu'on approche d'un mur physique : on ne...",
+      "published": "2026-06-01T08:12:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pour-sauver-la-loi-de-moore-des-chercheurs-empilent-les-transistors-au-lieu-de-les-retrecir/pour-sauver-la-loi-de-moore-des-chercheurs-empilent-les-transistors-au-lieu-de-les-retrecir-1.webp"
+    },
+    {
+      "id": "d6e7c67893cc133ac477433cfdc439c0",
+      "title": "Sources préférées Google - Reprenez la main sur votre actu",
+      "link": "https://korben.info/google-sources-preferees-site-favori.html",
+      "summary": "Après le suivi de profil Google qui vous permet de renforcer la qualité des actualités que vous voyez dans Discover, Google met maintenant à dispo un nouveau truc qui s'appelle les Sources préférées. Et l'idée (à la c...",
+      "published": "2026-06-01T07:52:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-sources-preferees-site-favori/google-sources-preferees-site-favori-1.png"
+    },
+    {
+      "id": "92993406f838f8300e57ca17077c9168",
+      "title": "Il fabrique de l'essence à partir de gaz dans son labo",
+      "link": "https://korben.info/il-fabrique-de-lessence-a-partir-de-gaz-dans-son-labo.html",
+      "summary": "Le bricoleur qui anime la chaîne YouTube Marb's Lab a présenté dans sa dernière vidéo un montage de verrerie de laboratoire qui transforme un simple gaz en carburant liquide, reproduisant le procédé Fischer-Tropsch, d...",
+      "published": "2026-06-01T07:33:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-fabrique-de-lessence-a-partir-de-gaz-dans-son-labo/il-fabrique-de-lessence-a-partir-de-gaz-dans-son-labo-1.jpg"
+    },
+    {
+      "id": "a534c6ce3281d0820c181dcb334e3d1b",
+      "title": "CIFSwitch : cette faille Linux présente depuis 19 ans offre un accès root",
+      "link": "https://www.it-connect.fr/cifswitch-cette-faille-linux-presente-depuis-19-ans-offre-un-acces-root/",
+      "summary": "CIFSwitch, c'est le nom de la nouvelle vulnérabilité permettant une élévation de privilèges en local sur Linux et présente dans le code du noyau depuis 19 ans. Le post CIFSwitch : cette faille Linux présente depuis 19...",
+      "published": "2026-06-01T06:56:47+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "e72aef427776311ec52f9efacca950fe",
       "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
@@ -203,26 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WTd_LhWXwvu2jTcVVVgE_IpLISA8vfn0awG8fVwVv_vxx1LvLU7XOxFCtSLMbiP6JKPQfFMdpA7cRJy0Phlu-RWtKH8m57ZMUwRI-tz0C-cAiASKIFS2Fytms6DnCCEif9l-CYN0drhFUEbrt71isM3LmzuA8Guqmhn6iiRqrTROcX-9tniNTQsglc/s1600/red.jpg"
     },
     {
-      "id": "ba946c3e1d7dcf703ee290f3b0a574c5",
-      "title": "US charges Google security engineer with Polymarket insider trading",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
-      "published": "2026-05-29T10:11:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "df75e728493a967ced12cc2eaa4e9016",
-      "title": "SixBack - Ressusciter une Bose SoundTouch avec un ESP32",
-      "link": "https://korben.info/bose-ressuscite-esp32.html",
-      "summary": "Si comme moi, vous avez une enceinte Bose SoundTouch , vous savez que ses boutons de radio internet ont cessé de fonctionner début mai. En effet, Bose a coupé le cloud qui tournait derrière, et les six boutons de prés...",
-      "published": "2026-05-29T09:25:36+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/bose-ressuscite-esp32/bose-ressuscite-esp32-1.png"
-    },
-    {
       "id": "c4034e31c0b48bd77241b947551df108",
       "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
       "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
@@ -231,36 +311,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbmZyAOVZRXrWddG8PMuXbVyex9s5HPD2cH8rDjYP6EHuVadkyj72NdN9PreAnGX9iOCVGxWI2YmSLu818VmdLGEcPkb60qPIUgBYh5oBHsA4KKYufsHbFGhAQDD7SjpZU0In0TPiHN4TxCR4THBwmKa4Bus98vBgx5mO3QTQRpTM5RERk8bFWi4psF7d/s1600/sdk.jpg"
-    },
-    {
-      "id": "f0350baf64a7152cad733218484f222d",
-      "title": "Linux va enfin faire tourner le GA100 de NVIDIA avec un pilote 100% libre",
-      "link": "https://korben.info/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre.html",
-      "summary": "Petite victoire pour le logiciel libre. Avec la prochaine version du noyau Linux, la 7.2, le pilote Nouveau va enfin prendre en charge le GA100 de NVIDIA. Pour situer, Nouveau, c'est le pilote graphique libre développ...",
-      "published": "2026-05-29T09:03:55+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre-1.jpg"
-    },
-    {
-      "id": "1f40905ea595f488aa8b21da2ed8424e",
-      "title": "Il transforme deux Xbox One hors service en une clé USB de 10 Go",
-      "link": "https://korben.info/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go.html",
-      "summary": "En pleine flambée des prix de la mémoire et du stockage, un bricoleur du nom de Chase Fournier a imaginé une façon rigolote de recycler du vieux matériel : récupérer les puces de stockage de deux Xbox One pour les ass...",
-      "published": "2026-05-29T08:51:21+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go-1.jpg"
-    },
-    {
-      "id": "fb9dcd96411e353f264d8c45efeccadb",
-      "title": "Apocalypse Early Warning - Quand les riches fuiront",
-      "link": "https://korben.info/ews-jets-prives-milliardaires-alerte.html",
-      "summary": "Le pari de Kyle McDonald, le site dont je vais vous parler aujourd'hui c'est que si une catastrophe se prépare, les milliardaires le sauront avant nous et fileront en jet privé. C'est pour ça que cet artiste-programme...",
-      "published": "2026-05-29T07:29:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ews-jets-prives-milliardaires-alerte/ews-jets-prives-milliardaires-alerte-1.png"
     },
     {
       "id": "49b231dddb19c582ddffbfd7ec43b0a7",
@@ -293,16 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfUl1K-os1XyLN-SBt6PgMia_jFG03ArRa3H0FI2hsiUqNa3lqSWY2NJcvOhY33TArSKJxeookUpkATdERUpEwKw-IUi6iv9ZVuUq4c1A99mLwgQB4ibCxBx4MBR1XXmM98zH7v-QWDO7bhh1AONQ8Op0htvwHhuivwI1Cch9rgLPO-zSGCjjQbvXdDte/s1600/north-korea.png"
     },
     {
-      "id": "4a908595f5972dadce52a9b8aa6b78a4",
-      "title": "FROST - Quand un site web peut vous tracker grâce à votre SSD",
-      "link": "https://korben.info/site-web-espionnage-activite-ssd.html",
-      "summary": "FROST, c'est le nom d'une nouvelle attaque qui transforme votre SSD en mouchard. Des chercheurs de l'université de Graz, avec Daniel Gruss au générique (un des cerveaux derrière Spectre et Meltdown), ont montré qu'un ...",
-      "published": "2026-05-29T05:23:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/site-web-espionnage-activite-ssd/site-web-espionnage-activite-ssd-1.png"
-    },
-    {
       "id": "27f7231a85139c6bf3f7b343b62f914f",
       "title": "Anthropic confirme l’arrivée de Claude Mythos dans les prochaines semaines",
       "link": "https://www.it-connect.fr/anthropic-confirme-larrivee-de-claude-mythos-dans-les-prochaines-semaines/",
@@ -333,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "1b3ea063614b3d919ba51fd740b31911",
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per...",
-      "published": "2026-05-28T17:24:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg"
-    },
-    {
       "id": "1349e418fda6de8df6c4c8b52b234c18",
       "title": "GHOST STADIUM : 4 300 faux sites FIFA menacent la Coupe du Monde 2026",
       "link": "https://www.it-connect.fr/ghost-stadium-4-300-faux-sites-fifa-menacent-la-coupe-du-monde-2026/",
@@ -351,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "d97193efadc5b4154dda7a6f3603678a",
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer. ...",
-      "published": "2026-05-28T15:26:04+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg"
     },
     {
       "id": "e2745c945420f58905d4ca13b108b636",
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/supply-chain-le-botnet-glassworm-ciblant-github-et-vs-code-a-ete-demantele/",
       "summary": "L'infrastructure du botnet Glassworm a été démantelée grâce à une action menée conjointement par CrowdStrike, Google et The Shadowserver Foundation. Le post Supply Chain : le botnet Glassworm ciblant GitHub et VS Code...",
       "published": "2026-05-28T07:52:41+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5dd1c791d615b3bb8adb55b1a57a5b34",
-      "title": "VMware Workstation Pro 26H1 : quelles sont les nouveautés ?",
-      "link": "https://www.it-connect.fr/vmware-workstation-pro-26h1-quelles-sont-les-nouveautes/",
-      "summary": "Broadcom a publié récemment VMware Workstation Pro 26H1 (build 25388281) : outre le passage sur une architecture 64 bits, découvrez les autres nouveautés. Le post VMware Workstation Pro 26H1 : quelles sont les nouveau...",
-      "published": "2026-05-28T07:10:11+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e8fe1d4b1b4e1b018b8fd840092eca5c",
-      "title": "Sync-in 2.3 : découvrez les nouveautés, dont l’éditeur Markdown",
-      "link": "https://www.it-connect.fr/sync-in-2-3-decouvrez-les-nouveautes-dont-lediteur-markdown/",
-      "summary": "Sync-in 2.3 apporte de nouvelles fonctionnalités, dont un éditeur Markdown natif, la gestion des quotas de stockage via LDAP/OIDC, etc... Voici un résumé. Le post Sync-in 2.3 : découvrez les nouveautés, dont l’éditeur...",
-      "published": "2026-05-27T23:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
