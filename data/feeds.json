@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-06-02T10:18:26.100105+00:00",
+  "last_updated": "2026-06-02T16:18:15.118622+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "fffe5f9fa4bc3f102af7bf6dee7fc5e3",
+      "title": "Android : le patch de juin 2026 corrige une faille zero-day déjà exploitée",
+      "link": "https://www.it-connect.fr/android-le-patch-de-juin-2026-corrige-une-faille-zero-day-deja-exploitee/",
+      "summary": "Les patchs de sécurité de juin 2026 pour Android corrigent 124 vulnérabilités, dont une faille de sécurité zero-day patchée par Google (CVE-2025-48595). Le post Android : le patch de juin 2026 corrige une faille zero-...",
+      "published": "2026-06-02T16:08:25+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3277014d05aa86e220df985121b87143",
+      "title": "Instagram users locked out after Meta AI abused to steal accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+      "summary": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
+      "published": "2026-06-02T15:47:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d662944b4ad8aefcb2460c6b506350b5",
+      "title": "Shai-Hulud : un ver vole les identifiants planqué dans des paquets Red Hat",
+      "link": "https://korben.info/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat.html",
+      "summary": "Du code piégé glissé dans des paquets signés Red Hat, et téléchargé environ 80 000 fois par semaine. C'est le bilan d'une attaque repérée le 1er juin. Pour bien saisir, il faut d'abord savoir ce qu'est npm. C'est l'im...",
+      "published": "2026-06-02T15:14:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat-1.jpg"
+    },
+    {
+      "id": "98b70cf9d9789bdacd8e49d679ab5a34",
+      "title": "Test ZimaCube 2 : un NAS tout-en-un pour votre Cloud personnel",
+      "link": "https://www.it-connect.fr/test-zimacube-2-un-nas-tout-en-un-pour-votre-cloud-personnel/",
+      "summary": "Découvrez le ZimaCube 2, un boîtier tout-en-un performant pour self-hoster et créer votre cloud personnel, avec l'installation d'applications en 1-clic. Le post Test ZimaCube 2 : un NAS tout-en-un pour votre Cloud per...",
+      "published": "2026-06-02T14:55:05+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a82aa1c81c9c79b2d8f663782d7e7efb",
+      "title": "Why the browser is now the front line for AI security",
+      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+      "summary": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
+      "published": "2026-06-02T14:30:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "aa7e91d432cf67acfca7d6d55787d894",
+      "title": "Microsoft Entra ID : la suppression réversible arrive enfin pour les appareils",
+      "link": "https://www.it-connect.fr/microsoft-entra-id-la-suppression-reversible-arrive-enfin-pour-les-appareils/",
+      "summary": "Microsoft a ajouté la fonction Device Soft Delete à Entra ID, ce qui permet de restaurer les appareils supprimés accidentellement dans un délai de 30 jours. Le post Microsoft Entra ID : la suppression réversible arriv...",
+      "published": "2026-06-02T13:11:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "cf3215ea9533f2b41e51b5905090cd9b",
+      "title": "Linux : Wine 11.10 ajoute VKD3D 2.0 et d’autres nouveautés !",
+      "link": "https://www.it-connect.fr/linux-wine-11-10-ajoute-vkd3d-2-0-et-dautres-nouveautes/",
+      "summary": "Le 29 mai 2026, l'équipe de développement de Wine a publié la version 11.10 de sa célèbre couche de compatibilité pour Linux : voici les principales nouveautés. Le post Linux : Wine 11.10 ajoute VKD3D 2.0 et d’autres ...",
+      "published": "2026-06-02T13:10:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "af465e50ecf8e88fe9d4a4368d76756a",
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
+      "published": "2026-06-02T12:40:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "10fee72750db9b5506f33ea4370c32b2",
+      "title": "Des mathématiciens ont calculé Pi avec des monstres de Minecraft, sans écrire une seule ligne de code",
+      "link": "https://korben.info/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code.html",
+      "summary": "Molly Lynch, de l'université Hollins, et Michael Weselcouch, du Roanoke College, deux profs de maths américains, ont eu une idée que personne n'avait osé tenter : estimer la valeur de Pi en lâchant des monstres dans M...",
+      "published": "2026-06-02T12:17:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code-1.png"
+    },
+    {
+      "id": "b6bc5d0af65bfaad2619e36c0046417e",
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security...",
+      "published": "2026-06-02T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
+    },
+    {
+      "id": "1bd0700275600712a87e56ea49bec87a",
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+      "published": "2026-06-02T11:10:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9342f9458f0e851eee891e1fb0301b03",
+      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand t...",
+      "published": "2026-06-02T10:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png"
+    },
     {
       "id": "176f9bd62bfdd08a0475e1f8346baa68",
       "title": "Surface Laptop Ultra : Microsoft s’allie à NVIDIA pour concurrencer le MacBook Pro",
@@ -76,7 +196,7 @@
       "id": "d4331a66b45f70d2d863f78ea64b9ef9",
       "title": "Instagram - Le chatbot de Meta donnait les clés des comptes",
       "link": "https://korben.info/instagram-faille-support-ia-piratage-comptes.html",
-      "summary": "Le support de Meta, quand vous contactez Instagram pour un souci de compte, c'est 100% IA maintenant. Je l'ai fait y'a pas longtemps et c'est assez surprenant, même s'il faut le reconnaitre, ça fonctionne bien. Et si ...",
+      "summary": "Le support de Meta, quand vous contactez Instagram pour un souci de compte, c'est 100% IA maintenant. Je l'ai fait y'a pas longtemps et c'est assez surprenant, même s'il faut le reconnaître, ça fonctionne bien. Et si ...",
       "published": "2026-06-02T06:44:07+00:00",
       "source": "Korben",
       "category": "outils",
@@ -101,6 +221,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png"
+    },
+    {
+      "id": "1959550fe9e3c4e7d0bf6148efd6f1d5",
+      "title": "Cartes-cadeaux Roblox : Eneba, l’alternative à la boutique officielle",
+      "link": "https://www.it-connect.fr/cartes-cadeaux-roblox-eneba-lalternative-a-la-boutique-officielle/",
+      "summary": "Pour obtenir des Robux à moindre coût, se tourner vers une place de marché est une bonne alternative aux boutiques officielles : Eneba est alors un bon choix. Le post Cartes-cadeaux Roblox : Eneba, l’alternative à la ...",
+      "published": "2026-06-02T03:55:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
     },
     {
       "id": "b0166dbfa4353f58048b2db3135467d1",
@@ -193,16 +323,6 @@
       "image": "https://korben.info/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque-1.jpg"
     },
     {
-      "id": "8adb0c390c6e6a397d9e5a3f8598cc67",
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
-      "published": "2026-06-01T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "711be162d073f1d187589fe4f3a55056",
       "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
       "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
@@ -233,26 +353,6 @@
       "image": "https://korben.info/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga-1.jpg"
     },
     {
-      "id": "91ff579cf2f6ec9f68dbad1d6937e237",
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in atta...",
-      "published": "2026-06-01T12:30:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8702edcde41d337d9dae68c7e638bcfe",
-      "title": "Microsoft rappelle à l’ordre Nightmare Eclipse et supprime son GitHub",
-      "link": "https://www.it-connect.fr/microsoft-rappelle-a-lordre-nightmare-eclipse-et-supprime-son-github/",
-      "summary": "Microsoft et Nightmare Eclipse continuent de s'affronter : l'éditeur américain s'est exprimé et a décidé de supprimer le compte GitHub du chercheur. Le post Microsoft rappelle à l’ordre Nightmare Eclipse et supprime s...",
-      "published": "2026-06-01T12:28:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "ba4326c84c65e193d6e32198758786dd",
       "title": "Il glisse un GPU de datacenter dans son PC gaming pour faire tourner une IA en local",
       "link": "https://korben.info/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local.html",
@@ -261,26 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local-1.jpg"
-    },
-    {
-      "id": "52e8abec1a3f4414ffc84e6a70b541bb",
-      "title": "Webinar tomorrow: From alert to resolution in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-      "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident...",
-      "published": "2026-06-01T12:01:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "51fc11eff12687139dcbe984e2c5650f",
-      "title": "La Maison Blanche veut garder le contrôle de Claude Mythos : l’UE toujours écartée",
-      "link": "https://www.it-connect.fr/la-maison-blanche-veut-garder-le-controle-de-claude-mythos-lue-toujours-ecartee/",
-      "summary": "Face à la puissance du modèle IA Claude Mythos d'Anthropic, l'administration américaine est opposée à ce que l'Union européenne puisse y avoir accès. Le post La Maison Blanche veut garder le contrôle de Claude Mythos ...",
-      "published": "2026-06-01T11:57:48+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "c167191312dc476b28ce4cbe029e1629",
@@ -293,26 +373,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg"
     },
     {
-      "id": "ecd7a9e62633229456e8e8a814d450a2",
-      "title": "À 81 ans, il termine la suite de Head Over Heels qu'il avait commencée il y a 37 ans",
-      "link": "https://korben.info/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans.html",
-      "summary": "Il aura fallu trente-sept ans à Colin Porch pour voir son jeu enfin sortir, et cette seule durée suffit à résumer l'histoire un peu folle de ce développeur britannique de 81 ans, ancien d'Ocean, l'un des studios de je...",
-      "published": "2026-06-01T11:43:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans-1.jpg"
-    },
-    {
-      "id": "753f11e42677773fd56d94e9fff0b459",
-      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "summary": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
-      "published": "2026-06-01T11:40:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "89994cf637f4b55248e1608bb1b2a684",
       "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
       "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
@@ -321,26 +381,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg"
-    },
-    {
-      "id": "ffb2eee62ef221bba87086e944775886",
-      "title": "Palo Alto – CVE-2026-0257 : cette faille dans le VPN est activement exploitée !",
-      "link": "https://www.it-connect.fr/palo-alto-cve-2026-0257-cette-faille-dans-le-vpn-est-activement-exploitee/",
-      "summary": "Une faille de sécurité découverte dans le service VPN GlobalProtect de Palo Alto Networks est actuellement exploitée par les cybercriminels : CVE-2026-0257. Le post Palo Alto – CVE-2026-0257 : cette faille dans le VPN...",
-      "published": "2026-06-01T11:18:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "41f9eaf52a74a923b0c6c21784d7b992",
-      "title": "VideoLAN prépare déjà dav2d, le décodeur libre du futur codec vidéo AV2",
-      "link": "https://korben.info/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2.html",
-      "summary": "Jean-Baptiste Kempf, le fondateur de VideoLAN, la communauté derrière le lecteur VLC, vient de lever le voile sur dav2d, un décodeur logiciel taillé pour AV2, le prochain grand codec vidéo libre. Sa devise tient en un...",
-      "published": "2026-06-01T11:17:09+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2-1.jpg"
     },
     {
       "id": "a3c1407f6b73903a16a1cc760df748ac",
@@ -363,43 +403,53 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg"
     },
     {
-      "id": "a534c6ce3281d0820c181dcb334e3d1b",
-      "title": "CIFSwitch : cette faille Linux présente depuis 19 ans offre un accès root",
-      "link": "https://www.it-connect.fr/cifswitch-cette-faille-linux-presente-depuis-19-ans-offre-un-acces-root/",
-      "summary": "CIFSwitch, c'est le nom de la nouvelle vulnérabilité permettant une élévation de privilèges en local sur Linux et présente dans le code du noyau depuis 19 ans. Le post CIFSwitch : cette faille Linux présente depuis 19...",
-      "published": "2026-06-01T06:56:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "55348252c0366a375f7a67af0291c251",
+      "title": "Multiples vulnérabilités dans Kaspersky Anti Targeted Attack Platform (27 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0648/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack Platform. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "published": "2026-05-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "ccbaea4196dbc082bb67891c52b61960",
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per th...",
-      "published": "2026-05-31T12:22:12+00:00",
-      "source": "The Hacker News",
+      "id": "9a3e26ef1762a4988c22d8eb89e3d4d4",
+      "title": "Multiples vulnérabilités dans Joomla! (27 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0649/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Joomla!. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une injection ...",
+      "published": "2026-05-27T00:00:00+00:00",
+      "source": "CERT-FR",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png"
+      "image": ""
     },
     {
-      "id": "5420e05836399b582d9f84504d254736",
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVS...",
-      "published": "2026-05-30T06:41:26+00:00",
-      "source": "The Hacker News",
+      "id": "c1a0f147b09ba7418e677f379d4eaf53",
+      "title": "Multiples vulnérabilités dans Samba (27 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0651/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l...",
+      "published": "2026-05-27T00:00:00+00:00",
+      "source": "CERT-FR",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
+      "image": ""
     },
     {
-      "id": "49b231dddb19c582ddffbfd7ec43b0a7",
-      "title": "Proton Mail lance une fonctionnalité pour vous aider à quitter Gmail",
-      "link": "https://www.it-connect.fr/proton-mail-lance-une-fonctionnalite-pour-vous-aider-a-quitter-gmail/",
-      "summary": "Proton Mail souhaite attirer les utilisateurs de Gmail grâce à sa nouvelle fonctionnalité Easy Switch compatible avec les services de Google. Le post Proton Mail lance une fonctionnalité pour vous aider à quitter Gmai...",
-      "published": "2026-05-29T07:25:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "df734e367cfa4282476de54ecb4fc80c",
+      "title": "Multiples vulnérabilités dans les produits Check Point (27 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0650/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des donnée...",
+      "published": "2026-05-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c7b83b33971a4c0134374df86ec8c587",
+      "title": "Multiples vulnérabilités dans Symfony (27 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0653/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF), une injection de code indirecte à distanc...",
+      "published": "2026-05-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -433,71 +483,21 @@
       "image": ""
     },
     {
-      "id": "be1953dfa9b8ace96b3074516b3b35c4",
-      "title": "Vulnérabilité dans Nginx (26 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0643/",
-      "summary": "Une vulnérabilité a été découverte dans Nginx. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "id": "7796a853bf49e920d0e47c345a24cce4",
+      "title": "Vulnérabilité dans Spring AI (26 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0646/",
+      "summary": "Une vulnérabilité a été découverte dans Spring AI. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
       "published": "2026-05-26T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "41a7439373556f78a355caa7f5c2be34",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (22 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0637/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de serv...",
-      "published": "2026-05-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fde2583cd5cce140d80b750c16ee1fb4",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (22 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0640/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une attei...",
-      "published": "2026-05-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0ede5d471253b07ab0f8ed2ad726162b",
-      "title": "Multiples vulnérabilités dans les produits Trend Micro (22 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0642/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité. Trend Micro indi...",
-      "published": "2026-05-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "51da1c08736d1cc75370403c8a2d1a4b",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (22 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0639/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'édit...",
-      "published": "2026-05-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c598fd36f2efaf7d9074cbd354246343",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (22 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0638/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "63bc3845862a8ccca518150cf85fecb1",
-      "title": "Multiples vulnérabilités dans les produits IBM (22 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0641/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-05-22T00:00:00+00:00",
+      "id": "69f4084ff92c15a75a88cb885d9c3285",
+      "title": "Vulnérabilité dans Firefox pour iOS (26 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0645/",
+      "summary": "Une vulnérabilité a été découverte dans Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-05-26T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
