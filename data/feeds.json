@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-06-02T16:18:15.118622+00:00",
+  "last_updated": "2026-06-02T20:43:52.040060+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "6cfe365ca55eca772451cca757dfd7ce",
+      "title": "Coreutils : vos commandes habituelles Linux s’invitent sur Windows",
+      "link": "https://www.it-connect.fr/coreutils-vos-commandes-habituelles-linux-sinvitent-sur-windows/",
+      "summary": "Lors du Build 2026, Microsoft a dévoilé un nouveau projet open source : Coreutils pour Windows. Il permet d'exécuter des commandes Linux nativement sur Windows. Le post Coreutils : vos commandes habituelles Linux s’in...",
+      "published": "2026-06-02T20:30:55+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8dea9fdef1b5132f6571a176a5a73575",
+      "title": "Fin de NTLM : IAKerb et LocalKDC arrivent en préversion sur Windows",
+      "link": "https://www.it-connect.fr/fin-de-ntlm-iakerb-et-localkdc-arrivent-en-preversion-sur-windows/",
+      "summary": "Lors de l'événement Build 2026, Microsoft a annoncé l'arrivée en préversion de deux composants destinés à éliminer NTLM sur Windows : IAKerb et LocalKDC. Le post Fin de NTLM : IAKerb et LocalKDC arrivent en préversion...",
+      "published": "2026-06-02T20:30:11+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c3914cb8e65f289dd1c4637ad94f5469",
+      "title": "Intelligent Terminal : Microsoft dévoile une nouvelle console boostée à l’IA",
+      "link": "https://www.it-connect.fr/intelligent-terminal-microsoft-devoile-une-nouvelle-console-boostee-a-lia/",
+      "summary": "À l'occasion du Build 2026, Microsoft a dévoilé Intelligent Terminal en version 0.1 : un fork de Windows Terminal compatible avec les agents IA. Le post Intelligent Terminal : Microsoft dévoile une nouvelle console bo...",
+      "published": "2026-06-02T20:29:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9553108fa3d710830d0fdd4aef1630be",
+      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+      "published": "2026-06-02T20:01:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5042e49aa00f0cb8bdf02d51df7758f5",
+      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under act...",
+      "published": "2026-06-02T18:46:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6SfsDfrb_dr_5DP0MiwOMy86maTi3XyrtkQLw-sHAGlBZbhZ0uEfRkamwFqXGT4qNmVIqg6LQtaaRVLr_oGnxvKHiSuCU0Qts79fzGzWbeySgkpak_Cci73EHSyvr1qC1EqiciaI86XW4KtODuln9vUkYHvoH1p3bh_FTzW6scXui1REmWDv84cTxhoX/s1600/android.jpg"
+    },
+    {
+      "id": "ec1ca545f493c8bbf09867dc93311116",
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activi...",
+      "published": "2026-06-02T18:21:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1600/russian-malware.jpg"
+    },
+    {
+      "id": "1db8c609a0019c07637c95ff2cbaedde",
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence o...",
+      "published": "2026-06-02T18:14:42+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg"
+    },
+    {
+      "id": "8c4ba7fd976a25c6cb9d64de5831031b",
+      "title": "Microsoft Exchange Online outage causes email delays, failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+      "summary": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
+      "published": "2026-06-02T17:02:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "baf14e338380887cb9ad8d6e6abc4012",
+      "title": "Ableton Extensions SDK - Codez vos propres outils pour Live",
+      "link": "https://korben.info/ableton-live-extensions-sdk.html",
+      "summary": "Je suis trop content parce qu'avec son nouveau SDK pour extensions , Ableton nous permet enfin d'écrire nos propres outils pour son DAW Live en JavaScript. L'intérêt c'est que ces extensions peuvent lire et modifier v...",
+      "published": "2026-06-02T16:37:38+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ableton-live-extensions-sdk/ableton-live-extensions-sdk-1.png"
+    },
     {
       "id": "fffe5f9fa4bc3f102af7bf6dee7fc5e3",
       "title": "Android : le patch de juin 2026 corrige une faille zero-day déjà exploitée",
@@ -183,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "e365c329424cf0e662dd6759d32cd9c7",
-      "title": "Windows Server – CVE-2026-41089 : cette faille critique dans Netlogon est exploitée !",
-      "link": "https://www.it-connect.fr/windows-server-cve-2026-41089-cette-faille-critique-dans-netlogon-est-exploitee/",
-      "summary": "Le CCB a publié une alerte à propos de la CVE-2026-41089, une faille présente dans le service Netlogon de Windows Server : elle est exploitée par les pirates. Le post Windows Server – CVE-2026-41089 : cette faille cri...",
-      "published": "2026-06-02T06:44:59+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "d4331a66b45f70d2d863f78ea64b9ef9",
       "title": "Instagram - Le chatbot de Meta donnait les clés des comptes",
       "link": "https://korben.info/instagram-faille-support-ia-piratage-comptes.html",
@@ -203,16 +283,6 @@
       "image": "https://korben.info/instagram-faille-support-ia-piratage-comptes/instagram-faille-support-ia-piratage-comptes-1.png"
     },
     {
-      "id": "cb8fa8fc8280781c8eeeb865b439dec4",
-      "title": "Proxmox Datacenter Manager 1.1 : découvrez les nouveautés principales",
-      "link": "https://www.it-connect.fr/proxmox-datacenter-manager-1-1-decouvrez-les-nouveautes-principales/",
-      "summary": "Proxmox Datacenter Manager 1.1 est disponible ! Cet outil de gestion multi-cluster pour Proxmox bénéficie de nouveautés, dont les déploiements automatisés. Le post Proxmox Datacenter Manager 1.1 : découvrez les nouvea...",
-      "published": "2026-06-02T05:59:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "93e4aa9689422a87ca9a7a4765759f9c",
       "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
       "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
@@ -221,16 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png"
-    },
-    {
-      "id": "1959550fe9e3c4e7d0bf6148efd6f1d5",
-      "title": "Cartes-cadeaux Roblox : Eneba, l’alternative à la boutique officielle",
-      "link": "https://www.it-connect.fr/cartes-cadeaux-roblox-eneba-lalternative-a-la-boutique-officielle/",
-      "summary": "Pour obtenir des Robux à moindre coût, se tourner vers une place de marché est une bonne alternative aux boutiques officielles : Eneba est alors un bon choix. Le post Cartes-cadeaux Roblox : Eneba, l’alternative à la ...",
-      "published": "2026-06-02T03:55:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "b0166dbfa4353f58048b2db3135467d1",
@@ -283,16 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png"
     },
     {
-      "id": "2af64e7f3e79661f405a9975f25d7325",
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-      "published": "2026-06-01T17:04:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "cce4b3f0adc1d0f0b425aa9d34a48e78",
       "title": "Il a transformé un vieil iPhone 8 en serveur OCR alimenté au soleil",
       "link": "https://korben.info/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil.html",
@@ -301,16 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil-1.jpg"
-    },
-    {
-      "id": "a4afa76857e1e2d0bfe6b2871d0419e4",
-      "title": "Microsoft investigates Office Apps, Teams file access issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
-      "published": "2026-06-01T14:36:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "dc47a8037d84ae2564b300763d1e7c68",
@@ -336,7 +376,7 @@
       "id": "f6551130a0041e9c8847cf966da0e3cb",
       "title": "De faux utilitaires PC transforment votre carte graphique en mineur de crypto à votre insu",
       "link": "https://korben.info/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu.html",
-      "summary": "Vous installez CrystalDiskInfo pour surveiller l'état de vos disques, FurMark pour pousser votre carte graphique dans ses retranchements, HWMonitor pour garder un oeil sur les températures... Attention ! Sauf que depu...",
+      "summary": "Vous installez CrystalDiskInfo pour surveiller l'état de vos disques, FurMark pour pousser votre carte graphique dans ses retranchements, HWMonitor pour garder un œil sur les températures... Attention ! Sauf que depui...",
       "published": "2026-06-01T13:11:47+00:00",
       "source": "Korben",
       "category": "outils",
@@ -353,16 +393,6 @@
       "image": "https://korben.info/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga-1.jpg"
     },
     {
-      "id": "ba4326c84c65e193d6e32198758786dd",
-      "title": "Il glisse un GPU de datacenter dans son PC gaming pour faire tourner une IA en local",
-      "link": "https://korben.info/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local.html",
-      "summary": "Oscar Molnar voulait une intelligence artificielle qui tourne entièrement chez lui, sans envoyer la moindre donnée vers le cloud, et il y est arrivé pour environ 200 euros en greffant dans son PC une carte graphique q...",
-      "published": "2026-06-01T12:07:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local-1.jpg"
-    },
-    {
       "id": "c167191312dc476b28ce4cbe029e1629",
       "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
       "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
@@ -371,36 +401,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg"
-    },
-    {
-      "id": "89994cf637f4b55248e1608bb1b2a684",
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a c...",
-      "published": "2026-06-01T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg"
-    },
-    {
-      "id": "a3c1407f6b73903a16a1cc760df748ac",
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is ...",
-      "published": "2026-06-01T09:31:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png"
-    },
-    {
-      "id": "0ace1f8b00ac011e78cef054f3071566",
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on su...",
-      "published": "2026-06-01T08:45:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg"
     },
     {
       "id": "55348252c0366a375f7a67af0291c251",
