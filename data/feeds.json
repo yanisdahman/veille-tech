@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-06-03T10:53:10.549631+00:00",
+  "last_updated": "2026-06-03T16:42:57.100717+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2ca0524277f1b819705377de98d7dd0e",
+      "title": "HTTP/2 Bomb : une mini-requête suffit pour faire tomber nginx, Apache ou IIS",
+      "link": "https://korben.info/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis.html",
+      "summary": "Il y a des failles qui réclament un arsenal de hacker chevronné, et puis il y a HTTP/2 Bomb, qui se contente de quelques kilo-octets pour faire vaciller des serveurs parmi les plus utilisés de la planète. Dévoilée le ...",
+      "published": "2026-06-03T16:19:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis-1.png"
+    },
+    {
+      "id": "9de21fa0db4165ed11a407ecde3dae8c",
+      "title": "ls, grep, cp : Microsoft fait entrer les commandes Linux nativement dans Windows",
+      "link": "https://korben.info/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows.html",
+      "summary": "À sa conférence Build 2026, le 2 juin, l'éditeur a lancé Coreutils for Windows, un paquet qui amène directement dans Windows les commandes de base bien connues des utilisateurs de Linux. On parle des classiques du ter...",
+      "published": "2026-06-03T16:08:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows-1.jpg"
+    },
+    {
+      "id": "4480dedcfa73e077048a42db4692fed6",
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+      "published": "2026-06-03T15:36:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "816f360e17abaa010b793566ca22c980",
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
+      "published": "2026-06-03T14:02:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "85408b688171b629462eca4b4523594a",
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to ...",
+      "published": "2026-06-03T12:58:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg"
+    },
+    {
+      "id": "563977848097a1c2f571bc510057f32e",
+      "title": "Le petit écran caché dans le capot des Zenbook fonctionne enfin sous Linux",
+      "link": "https://korben.info/le-petit-ecran-cache-dans-le-capot-des-zenbook-fonctionne-enfin-sous-linux.html",
+      "summary": "Si vous avez un Zenbook récent avec cet écran miniature encastré dans le couvercle, vous étiez jusqu'ici coincé sous Windows pour l'allumer. Un développeur vient de débloquer la situation. Olivier Magnier a fait fonct...",
+      "published": "2026-06-03T12:25:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/le-petit-ecran-cache-dans-le-capot-des-zenbook-fonctionne-enfin-sous-linux/le-petit-ecran-cache-dans-le-capot-des-zenbook-fonctionne-enfin-sous-linux-1.jpg"
+    },
+    {
+      "id": "d9869d875b1d554ff0793c90980af5f6",
+      "title": "Ce mini-PC Linux se pilote entièrement en morse, avec un seul bouton",
+      "link": "https://korben.info/ce-mini-pc-linux-se-pilote-entierement-en-morse-avec-un-seul-bouton.html",
+      "summary": "Un développeur a réussi à contrôler un ordinateur sous Linux sans clavier, sans souris et sans écran, uniquement en tapant du morse sur un bouton et en lisant les réponses clignotées par une petite diode lumineuse. La...",
+      "published": "2026-06-03T11:59:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ce-mini-pc-linux-se-pilote-entierement-en-morse-avec-un-seul-bouton/ce-mini-pc-linux-se-pilote-entierement-en-morse-avec-un-seul-bouton-1.png"
+    },
+    {
+      "id": "aee9050720f4221cae4212fdf733f7e8",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams...",
+      "published": "2026-06-03T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg"
+    },
+    {
+      "id": "384ab5f47ce555736a67a47d5ee5e552",
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "summary": "Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
+      "published": "2026-06-03T11:35:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b060caea1985ad6163dbf994d4b7eec5",
+      "title": "Il cuit des cookies avec son imprimante 3D",
+      "link": "https://korben.info/il-cuit-des-cookies-avec-son-imprimante-3d.html",
+      "summary": "Un bricoleur connu sous le nom de Startup Chuck a eu une idée que personne ne lui avait demandée : fabriquer des cookies de A à Z avec son imprimante 3D. Pas seulement les façonner. Les cuire aussi, dans la machine. L...",
+      "published": "2026-06-03T11:32:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-cuit-des-cookies-avec-son-imprimante-3d/il-cuit-des-cookies-avec-son-imprimante-3d-1.jpg"
+    },
+    {
+      "id": "0253a7ce4c100fd08457ae372a6a8bff",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control whi...",
+      "published": "2026-06-03T11:28:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
+    },
+    {
+      "id": "0c99e1692a1f0e19ff1a521bd9b5d71f",
+      "title": "Soft Serve - Le serveur Git auto-hébergé dans le terminal",
+      "link": "https://korben.info/soft-serve-serveur-git-self-hosted-ssh.html",
+      "summary": "Monter son propre serveur Git, ça rime souvent avec déployer une usine à gaz bourrée d'options qu'on n'utilisera jamais. Heureusement, Soft Serve prend le contre-pied total de tout ça ! Ce serveur Git self-hosted de c...",
+      "published": "2026-06-03T11:24:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/soft-serve-serveur-git-self-hosted-ssh/soft-serve-serveur-git-self-hosted-ssh-1.png"
+    },
+    {
+      "id": "ca0313fce9d4dcafcea069b265ad5e42",
+      "title": "J'ai testé les UGREEN FineTrack 2.0, des traceurs qui ne ressemblent pas à des AirTags (et tant mieux)",
+      "link": "https://korben.info/jai-teste-les-ugreen-finetrack-2-0-des-traceurs-qui-ne-ressemblent-pas-a-des-airtags-et-tant-mieux.html",
+      "summary": "– Contient des liens affiliés Amazon – J'ai reçu et testé pendant quelques jours la nouvelle série FineTrack 2.0 d'UGREEN, trois petits traceurs d'objets pensés pour ne plus jamais perdre ses clés, son sac ou son vélo.",
+      "published": "2026-06-03T11:15:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/jai-teste-les-ugreen-finetrack-2-0-des-traceurs-qui-ne-ressemblent-pas-a-des-airtags-et-tant-mieux/jai-teste-les-ugreen-finetrack-2-0-des-traceurs-qui-ne-ressemblent-pas-a-des-airtags-et-tant-mieux-1.jpeg"
+    },
     {
       "id": "c05ff4d14c80148ca760be593d459d07",
       "title": "Scratch - Des notes markdown que votre IA peut éditer",
@@ -93,16 +223,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBhPg_oWS3s5XgNMW4vuwq3Pwrnsw3l3FyzGwoYkQ7AwCuU6VXH6sOv03o04S4jw-7pkVzAsccuFCxzMX1tg8JbB8D9k5onrVg0-D7HBQduN4pAHq2FOH9a-tSeokVqGIyJS-hStrL7fs5I9u67yp2gRKjOYuTYF_xUrsJnIWL3GdTZ7bLiU6u1vObezoD/s1600/hacker-pirate.jpg"
     },
     {
-      "id": "383410ab42d2dc1190dfdc183a1f8147",
-      "title": "Sur le serveur X.Org, neuf nouvelles failles de sécurité dont huit débusquées par une IA",
-      "link": "https://korben.info/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia.html",
-      "summary": "Neuf failles de sécurité viennent d'être corrigées d'un coup sur le serveur X.Org, le vieux logiciel qui dessine les fenêtres, gère la souris et le clavier sur une grande partie des machines Linux. Et le plus marquant...",
-      "published": "2026-06-03T06:00:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia-1.jpg"
-    },
-    {
       "id": "fb70b972dcf5e7f2cb2007dd92b372ba",
       "title": "Microsoft lance MAI-Thinking-1, son premier modèle IA pour le raisonnement",
       "link": "https://www.it-connect.fr/microsoft-lance-mai-thinking-1-son-premier-modele-ia-pour-le-raisonnement/",
@@ -183,16 +303,6 @@
       "image": ""
     },
     {
-      "id": "9553108fa3d710830d0fdd4aef1630be",
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
-      "published": "2026-06-02T20:01:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5042e49aa00f0cb8bdf02d51df7758f5",
       "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
       "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
@@ -223,26 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg"
     },
     {
-      "id": "8c4ba7fd976a25c6cb9d64de5831031b",
-      "title": "Microsoft Exchange Online outage causes email delays, failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-      "summary": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
-      "published": "2026-06-02T17:02:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "baf14e338380887cb9ad8d6e6abc4012",
-      "title": "Ableton Extensions SDK - Codez vos propres outils pour Live",
-      "link": "https://korben.info/ableton-live-extensions-sdk.html",
-      "summary": "Je suis trop content parce qu'avec son nouveau SDK pour extensions , Ableton nous permet enfin d'écrire nos propres outils pour son DAW Live en JavaScript. L'intérêt c'est que ces extensions peuvent lire et modifier v...",
-      "published": "2026-06-02T16:37:38+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ableton-live-extensions-sdk/ableton-live-extensions-sdk-1.png"
-    },
-    {
       "id": "fffe5f9fa4bc3f102af7bf6dee7fc5e3",
       "title": "Android : le patch de juin 2026 corrige une faille zero-day déjà exploitée",
       "link": "https://www.it-connect.fr/android-le-patch-de-juin-2026-corrige-une-faille-zero-day-deja-exploitee/",
@@ -251,26 +341,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "3277014d05aa86e220df985121b87143",
-      "title": "Instagram users locked out after Meta AI abused to steal accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-      "summary": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
-      "published": "2026-06-02T15:47:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d662944b4ad8aefcb2460c6b506350b5",
-      "title": "Shai-Hulud : un ver vole les identifiants planqué dans des paquets Red Hat",
-      "link": "https://korben.info/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat.html",
-      "summary": "Du code piégé glissé dans des paquets signés Red Hat, et téléchargé environ 80 000 fois par semaine. C'est le bilan d'une attaque repérée le 1er juin. Pour bien saisir, il faut d'abord savoir ce qu'est npm. C'est l'im...",
-      "published": "2026-06-02T15:14:49+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat-1.jpg"
     },
     {
       "id": "98b70cf9d9789bdacd8e49d679ab5a34",
@@ -303,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "10fee72750db9b5506f33ea4370c32b2",
-      "title": "Des mathématiciens ont calculé Pi avec des monstres de Minecraft, sans écrire une seule ligne de code",
-      "link": "https://korben.info/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code.html",
-      "summary": "Molly Lynch, de l'université Hollins, et Michael Weselcouch, du Roanoke College, deux profs de maths américains, ont eu une idée que personne n'avait osé tenter : estimer la valeur de Pi en lâchant des monstres dans M...",
-      "published": "2026-06-02T12:17:29+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code-1.png"
-    },
-    {
       "id": "b6bc5d0af65bfaad2619e36c0046417e",
       "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
       "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
@@ -321,16 +381,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
-    },
-    {
-      "id": "9342f9458f0e851eee891e1fb0301b03",
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand t...",
-      "published": "2026-06-02T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png"
     },
     {
       "id": "176f9bd62bfdd08a0475e1f8346baa68",
@@ -343,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "f98e342eb34aff0e1b8a4afb0a16a319",
-      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-      "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
-      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access troj...",
-      "published": "2026-06-02T09:05:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiilTEadDjLrLdKByKVP6n_zfNSbhTTutHu-9BbbIDTBotobmqmIOI7fDdGGHZQQB7wTo00L66NAKZBA3iRBLQpSf_NgH9hKe9Xd-WUoijt7y-CUbdZore_qSZpTmuBhExaAxeXn39EPCVPYugMnJ85c15e161ttOMRmbSAv7NcbUlYrqDV4NnbzHZvw0A5/s1600/paki.gif"
-    },
-    {
       "id": "205ba489fe06dbd6640c920416fb2765",
       "title": "Ubuntu Core 26 LTS : ce système immuable continue de s’améliorer",
       "link": "https://www.it-connect.fr/ubuntu-core-26-lts-ce-systeme-immuable-continue-de-sameliorer/",
@@ -363,44 +403,34 @@
       "image": ""
     },
     {
-      "id": "e21245023097719fc58488bbdf159b5e",
-      "title": "Un ingénieur de Netflix crée une appli pour alléger ses factures d'IA, puis l'ouvre à tout le monde",
-      "link": "https://korben.info/un-ingenieur-de-netflix-cree-une-appli-pour-alleger-ses-factures-dia-puis-louvre-a-tout-le-monde.html",
-      "summary": "Tejas Chopra, ingénieur senior chez Netflix, a bricolé un petit logiciel appelé Headroom qui s'attaque à un poste de dépense devenu douloureux dans toutes les boîtes qui carburent à l'IA : la facture en tokens, ces un...",
-      "published": "2026-06-02T07:19:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-ingenieur-de-netflix-cree-une-appli-pour-alleger-ses-factures-dia-puis-louvre-a-tout-le-monde/un-ingenieur-de-netflix-cree-une-appli-pour-alleger-ses-factures-dia-puis-louvre-a-tout-le-monde-1.jpg"
-    },
-    {
-      "id": "b0626b82aaffeddc91f9ff4b6625d174",
-      "title": "Une bibliothèque Java a tenté de piéger les IA codeuses pour qu'elles effacent vos tests, et ça a failli marcher",
-      "link": "https://korben.info/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher.html",
-      "summary": "On vous résume. Un mainteneur a glissé dans jqwik, une bibliothèque Java que des milliers de développeurs utilisent pour écrire et lancer leurs tests automatisés, une instruction cachée destinée à faire effacer par le...",
-      "published": "2026-06-02T07:14:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher-1.jpg"
-    },
-    {
-      "id": "d4331a66b45f70d2d863f78ea64b9ef9",
-      "title": "Instagram - Le chatbot de Meta donnait les clés des comptes",
-      "link": "https://korben.info/instagram-faille-support-ia-piratage-comptes.html",
-      "summary": "Le support de Meta, quand vous contactez Instagram pour un souci de compte, c'est 100% IA maintenant. Je l'ai fait y'a pas longtemps et c'est assez surprenant, même s'il faut le reconnaître, ça fonctionne bien. Et si ...",
-      "published": "2026-06-02T06:44:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/instagram-faille-support-ia-piratage-comptes/instagram-faille-support-ia-piratage-comptes-1.png"
-    },
-    {
-      "id": "93e4aa9689422a87ca9a7a4765759f9c",
-      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-      "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-      "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, ...",
-      "published": "2026-06-02T03:55:25+00:00",
-      "source": "The Hacker News",
+      "id": "09a7cdaa970c6c18d508c3c887cc739c",
+      "title": "Vulnérabilité dans les produits NetApp (28 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0656/",
+      "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-05-28T00:00:00+00:00",
+      "source": "CERT-FR",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png"
+      "image": ""
+    },
+    {
+      "id": "fbd631992bfd951d586c6325613e3078",
+      "title": "Multiples vulnérabilités dans Google Chrome (28 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0655/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "09bacb0a85c86b5eb31456bcf18ae63c",
+      "title": "Vulnérabilité dans Apereo CAS (28 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0654/",
+      "summary": "Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
       "id": "55348252c0366a375f7a67af0291c251",
@@ -453,51 +483,21 @@
       "image": ""
     },
     {
-      "id": "00aa977113ca774a42babfbefa22c81b",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-023 (26 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-023/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-05-26T00:00:00+00:00",
+      "id": "6b2fa943314a69f268dd02da73f6ef92",
+      "title": "Multiples vulnérabilités dans Veeam Backup & Replication (27 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0652/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Backup & Replication. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données.",
+      "published": "2026-05-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "db46221e9994bad17abb232cae88ad43",
-      "title": "Vulnérabilité dans CPython (26 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0647/",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fd731c5cdf6e0a66d324c6801a02b6b8",
-      "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données...",
-      "published": "2026-05-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7796a853bf49e920d0e47c345a24cce4",
-      "title": "Vulnérabilité dans Spring AI (26 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0646/",
-      "summary": "Une vulnérabilité a été découverte dans Spring AI. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
-      "published": "2026-05-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "69f4084ff92c15a75a88cb885d9c3285",
-      "title": "Vulnérabilité dans Firefox pour iOS (26 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0645/",
-      "summary": "Une vulnérabilité a été découverte dans Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-05-26T00:00:00+00:00",
+      "id": "4074914ebf79eb44acacf36da6628e92",
+      "title": "Multiples vulnérabilités dans MISP (30 avril 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0515/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
+      "published": "2026-04-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
