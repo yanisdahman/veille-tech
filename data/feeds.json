@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-06-03T03:47:39.398674+00:00",
+  "last_updated": "2026-06-03T10:53:10.549631+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c05ff4d14c80148ca760be593d459d07",
+      "title": "Scratch - Des notes markdown que votre IA peut éditer",
+      "link": "https://korben.info/scratch-notes-markdown-offline-first.html",
+      "summary": "Avec Scratch , une app de prise de notes signée Eric Li que je viens de découvrir, vos notes, c'est vos fichiers stockés directement sur votre disque. Pas de cloud, pas de base de données, tout est portable / exportab...",
+      "published": "2026-06-03T10:23:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/scratch-notes-markdown-offline-first/scratch-notes-markdown-offline-first-1.png"
+    },
+    {
+      "id": "0299bb5317a22fc6e158d3477087318a",
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping ...",
+      "published": "2026-06-03T10:18:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Y4FY1kH_mrU4oH2X7TPrnmPdf9Ib4UZ4Xgud4Qgjie69on9qP9D1OU8i3ol3THTISUTy8OBJzPXzbUTyHwx1xF8cWuYvb9r-_7r_g-gFXyW62phdyaEAd41PI5cfduXxd084XQdwhxQ40Ti5n7SvkhIbZRktqP8G9bhufjlrxzxHYWpFTAXAfSSWstwc/s1600/NTLM.jpg"
+    },
+    {
+      "id": "48d62d2c0d01182f69c5116db5ee71d1",
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "summary": "European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
+      "published": "2026-06-03T10:12:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "21376fdf646c60d241a63b2a13a73817",
+      "title": "La boulette d'un pirate force tout un gang de rançongiciels à présenter ses excuses",
+      "link": "https://korben.info/la-boulette-dun-pirate-force-tout-un-gang-de-rancongiciels-a-presenter-ses-excuses.html",
+      "summary": "Un affilié du gang Nova, spécialisé dans les rançongiciels (ces logiciels qui chiffrent vos fichiers pour vous réclamer une rançon), a commis la bourde qui restera probablement dans les annales du milieu. Il a verroui...",
+      "published": "2026-06-03T09:03:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/la-boulette-dun-pirate-force-tout-un-gang-de-rancongiciels-a-presenter-ses-excuses/la-boulette-dun-pirate-force-tout-un-gang-de-rancongiciels-a-presenter-ses-excuses-1.jpg"
+    },
+    {
+      "id": "0da81bcf31ad9f5730c6306313999f34",
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "summary": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
+      "published": "2026-06-03T09:02:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3b405b293c6898b82863c44aa4b94145",
+      "title": "Microsoft lance Intelligent Terminal, un terminal open source qui vous laisse choisir votre IA",
+      "link": "https://korben.info/microsoft-lance-intelligent-terminal-un-terminal-open-source-qui-vous-laisse-choisir-votre-ia.html",
+      "summary": "Microsoft a présenté le 2 juin, pendant sa conférence développeurs Build 2026, une version expérimentale de son terminal baptisée Intelligent Terminal 0.1, un logiciel open source publié sous licence MIT qui intègre d...",
+      "published": "2026-06-03T08:55:58+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/microsoft-lance-intelligent-terminal-un-terminal-open-source-qui-vous-laisse-choisir-votre-ia/microsoft-lance-intelligent-terminal-un-terminal-open-source-qui-vous-laisse-choisir-votre-ia-1.webp"
+    },
+    {
+      "id": "03d274e5dc00f0c51baba09eeb613cf0",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been code...",
+      "published": "2026-06-03T08:33:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif"
+    },
+    {
+      "id": "ce624652d3301e1f2dc5cac796c6475b",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
+      "published": "2026-06-03T06:50:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c61cb5fecc94888728e6a69a064b7352",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaig...",
+      "published": "2026-06-03T06:16:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBhPg_oWS3s5XgNMW4vuwq3Pwrnsw3l3FyzGwoYkQ7AwCuU6VXH6sOv03o04S4jw-7pkVzAsccuFCxzMX1tg8JbB8D9k5onrVg0-D7HBQduN4pAHq2FOH9a-tSeokVqGIyJS-hStrL7fs5I9u67yp2gRKjOYuTYF_xUrsJnIWL3GdTZ7bLiU6u1vObezoD/s1600/hacker-pirate.jpg"
+    },
+    {
+      "id": "383410ab42d2dc1190dfdc183a1f8147",
+      "title": "Sur le serveur X.Org, neuf nouvelles failles de sécurité dont huit débusquées par une IA",
+      "link": "https://korben.info/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia.html",
+      "summary": "Neuf failles de sécurité viennent d'être corrigées d'un coup sur le serveur X.Org, le vieux logiciel qui dessine les fenêtres, gère la souris et le clavier sur une grande partie des machines Linux. Et le plus marquant...",
+      "published": "2026-06-03T06:00:27+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia-1.jpg"
+    },
+    {
+      "id": "fb70b972dcf5e7f2cb2007dd92b372ba",
+      "title": "Microsoft lance MAI-Thinking-1, son premier modèle IA pour le raisonnement",
+      "link": "https://www.it-connect.fr/microsoft-lance-mai-thinking-1-son-premier-modele-ia-pour-le-raisonnement/",
+      "summary": "Lors de la conférence Build 2026, Microsoft a dévoilé de nouveaux modèles IA développés en interne, dont son premier LLM pour le raisonnement : MAI-Thinking-1. Le post Microsoft lance MAI-Thinking-1, son premier modèl...",
+      "published": "2026-06-03T05:30:42+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "3c7520a5ba09bac9855e9b0177b77912",
       "title": "Microsoft's Coreutils project brings Linux commands to Windows",
@@ -33,9 +143,9 @@
       "image": ""
     },
     {
-      "id": "3430a7def7928ece8c74fdb728c153f0",
-      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "id": "6dd80d684d59e81d2a4dcfb49393045e",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
       "published": "2026-06-02T21:54:49+00:00",
       "source": "Bleeping Computer",
@@ -173,16 +283,6 @@
       "image": ""
     },
     {
-      "id": "a82aa1c81c9c79b2d8f663782d7e7efb",
-      "title": "Why the browser is now the front line for AI security",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "summary": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
-      "published": "2026-06-02T14:30:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "aa7e91d432cf67acfca7d6d55787d894",
       "title": "Microsoft Entra ID : la suppression réversible arrive enfin pour les appareils",
       "link": "https://www.it-connect.fr/microsoft-entra-id-la-suppression-reversible-arrive-enfin-pour-les-appareils/",
@@ -200,16 +300,6 @@
       "published": "2026-06-02T13:10:53+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "af465e50ecf8e88fe9d4a4368d76756a",
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
-      "published": "2026-06-02T12:40:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -231,16 +321,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
-    },
-    {
-      "id": "1bd0700275600712a87e56ea49bec87a",
-      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
-      "published": "2026-06-02T11:10:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "9342f9458f0e851eee891e1fb0301b03",
@@ -303,16 +383,6 @@
       "image": "https://korben.info/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher-1.jpg"
     },
     {
-      "id": "d7aaa27c3b7d9048590493523ea8e27a",
-      "title": "Dashlane : des vagues de connexions suspectes font paniquer les utilisateurs",
-      "link": "https://www.it-connect.fr/dashlane-des-vagues-de-connexions-suspectes-font-paniquer-les-utilisateurs/",
-      "summary": "Le gestionnaire de mots de passe Dashlane a été la cible d'une vaste campagne d'attaques par brute force au cours du week-end du 31 mai 2026. Le post Dashlane : des vagues de connexions suspectes font paniquer les uti...",
-      "published": "2026-06-02T07:13:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "d4331a66b45f70d2d863f78ea64b9ef9",
       "title": "Instagram - Le chatbot de Meta donnait les clés des comptes",
       "link": "https://korben.info/instagram-faille-support-ia-piratage-comptes.html",
@@ -331,76 +401,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png"
-    },
-    {
-      "id": "4f197ff556f916e3b86a5fbab335549d",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This...",
-      "published": "2026-06-01T17:40:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png"
-    },
-    {
-      "id": "cce4b3f0adc1d0f0b425aa9d34a48e78",
-      "title": "Il a transformé un vieil iPhone 8 en serveur OCR alimenté au soleil",
-      "link": "https://korben.info/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil.html",
-      "summary": "Un iPhone 8 qui dormait dans un tiroir. Hemant Kumar, ingénieur logiciel basé au Canada, l'a ressorti, branché sur un panneau solaire et transformé en serveur de reconnaissance de texte qui tourne sans la moindre inte...",
-      "published": "2026-06-01T16:10:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil-1.jpg"
-    },
-    {
-      "id": "dc47a8037d84ae2564b300763d1e7c68",
-      "title": "Ma visseuse de geek préférée a maintenant un écran, et oui, j'ai encore craqué",
-      "link": "https://korben.info/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque.html",
-      "summary": "– Contient des liens affiliés Amazon – Il y a un peu plus d'un an, je vous parlais ici de ma petite visseuse électrique Hoto, celle qui m'avait réconcilié avec le montage de meubles Ikea, ma grande phobie de toujours,...",
-      "published": "2026-06-01T14:00:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque-1.jpg"
-    },
-    {
-      "id": "711be162d073f1d187589fe4f3a55056",
-      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, s...",
-      "published": "2026-06-01T13:59:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-leTG-MQremNN5Ju342L6LQMn36xeD4jiS4YWT7EdYluHOtFDqIN8y3bQuV-A0D0wtsO5sRpG3Bpy5xdHhMs_sO_w3WoiiJzCd7o-7Hxw736ERxQs4WDd71EQEBIHLzT_UNFMwCDvC8Nij-gDNpMhsRnpsqoDHkuxUWLUEZSSTfDc4aXpx2qlpsaqlgH/s1600/cyberrecap.png"
-    },
-    {
-      "id": "f6551130a0041e9c8847cf966da0e3cb",
-      "title": "De faux utilitaires PC transforment votre carte graphique en mineur de crypto à votre insu",
-      "link": "https://korben.info/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu.html",
-      "summary": "Vous installez CrystalDiskInfo pour surveiller l'état de vos disques, FurMark pour pousser votre carte graphique dans ses retranchements, HWMonitor pour garder un œil sur les températures... Attention ! Sauf que depui...",
-      "published": "2026-06-01T13:11:47+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu-1.jpg"
-    },
-    {
-      "id": "f7195ae807b85ecf760a6269b3650f3c",
-      "title": "Ils ont refait la machine qui a cassé le code Enigma, version FPGA",
-      "link": "https://korben.info/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga.html",
-      "summary": "Trois étudiants de l'université Cornell ont reconstruit, sur une puce moderne, la machine qui a permis aux Alliés de casser le code Enigma pendant la Seconde Guerre mondiale. Erica Jiang, Kelvin Resch et Isabella Fran...",
-      "published": "2026-06-01T12:31:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga-1.jpg"
-    },
-    {
-      "id": "c167191312dc476b28ce4cbe029e1629",
-      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-      "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of ...",
-      "published": "2026-06-01T11:54:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg"
     },
     {
       "id": "55348252c0366a375f7a67af0291c251",
