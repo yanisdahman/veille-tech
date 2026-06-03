@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-06-03T16:42:57.100717+00:00",
+  "last_updated": "2026-06-03T20:52:58.139239+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "aa4528d7711dbb29a383e9fd98693f3f",
+      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
+      "published": "2026-06-03T20:31:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "33fa28021b42cb362422952196a049d3",
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tan...",
+      "published": "2026-06-03T20:21:56+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "17ef5f46ecfad1c6e8c7c475303880d5",
+      "title": "VS Code : un chercheur publie une faille zero-day pour punir Microsoft",
+      "link": "https://www.it-connect.fr/vs-code-un-chercheur-publie-une-faille-zero-day-pour-punir-microsoft/",
+      "summary": "Un chercheur en sécurité a divulgué une faille de sécurité zero-day affectant Visual Studio Code et plus particulièrement la version web via github.dev. Le post VS Code : un chercheur publie une faille zero-day pour p...",
+      "published": "2026-06-03T20:10:40+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1a5d125c6b70e05ad96862ca33012763",
+      "title": "Votre SSD vous trahit : FROST, la nouvelle méthode de tracking Web",
+      "link": "https://www.it-connect.fr/votre-ssd-vous-trahit-frost-la-nouvelle-methode-de-tracking-web/",
+      "summary": "FROST, c'est le nom d'une technique qui consiste à mesurer les ralentissements d'un SSD pour deviner quels autres sites et logiciels vous utilisez sur votre PC. Le post Votre SSD vous trahit : FROST, la nouvelle métho...",
+      "published": "2026-06-03T20:10:22+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6dbb0947ac8d66dc610a8de60f2c88f4",
+      "title": "Microsoft Scout : un nouvel agent IA « Autopilot » propulsé par OpenClaw",
+      "link": "https://www.it-connect.fr/microsoft-scout-un-nouvel-agent-ia-autopilot-propulse-par-openclaw/",
+      "summary": "Autonome et toujours actif, voici comment l'on peut définir Scout, l'agent IA Autopilot présenté par Microsoft à l'occasion de la conférence Build 2026. Le post Microsoft Scout : un nouvel agent IA « Autopilot » propu...",
+      "published": "2026-06-03T20:10:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "48f43643db38b59cb8ab9180949c8f57",
+      "title": "Weedhack : ce malware cible les joueurs de Minecraft et fait déjà plus de 116 000 victimes",
+      "link": "https://www.it-connect.fr/weedhack-ce-malware-cible-les-joueurs-de-minecraft-et-fait-deja-plus-de-116-000-victimes/",
+      "summary": "Découvrez comment la campagne Weedhack vise les joueurs de Minecraft via YouTube et le SEO poisoning, infectant plus de 116 000 machines en 6 mois. Le post Weedhack : ce malware cible les joueurs de Minecraft et fait ...",
+      "published": "2026-06-03T20:09:54+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3a8bec0020b7e7255d6c462f8c21a5db",
+      "title": "Windows Developer Configurations : l’idée de Microsoft pour préparer rapidement un environnement de code",
+      "link": "https://www.it-connect.fr/windows-developer-configurations-lidee-de-microsoft-pour-preparer-rapidement-un-environnement-de-code/",
+      "summary": "Windows Developer Configurations a été annoncé lors du MS Build 2026. L'idée : s'appuyer sur WinGet pour préparer rapidement une machine de dev optimisée. Le post Windows Developer Configurations : l’idée de Microsoft...",
+      "published": "2026-06-03T20:09:43+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "39c53e7940941ba527d7d41b5e56d8c8",
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message fr...",
+      "published": "2026-06-03T19:11:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJpW9I-QTgQOkP7AV3rwUtEOEs96ek2ySR06Go-xq5AThZV84qY3mDN1Dkh0oQ-94jZHc7zB21ax9ljU0dW2LtsSW5p7xuuX9ARsvoIZQTGaMSkESGxTjl-PgTy8hrnsI8ucVZpENLEuMa9QzoUYVmfp4aug4OnEZq3XeL3ZELNZVELSegpS398l8vKg/s1600/gemini-prompt.jpg"
+    },
+    {
+      "id": "29517ac83f9860cec82075aab62d0adf",
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+      "published": "2026-06-03T19:08:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ebef4474475574d09b83167d16690c6d",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before th...",
+      "published": "2026-06-03T16:29:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQ6QXxFH4zkfeHGdcm1WXVcNXMpyJm-1dlZLbFCdp6rKDRhuwICzYaKaR-rCpn61qod6A1F98PZejZbmYuxaUXPJLXQffoaniCkqgyqR1-p7gClpj4PYibjzIDHk8_Vw4ag00EYPCM3Nz1G0Hvzuf6wBV-HzDFoSiYDEEdjPU45Bk_rIlGk9dJ_MMVuue/s1600/ad-malware.jpg"
+    },
     {
       "id": "2ca0524277f1b819705377de98d7dd0e",
       "title": "HTTP/2 Bomb : une mini-requête suffit pour faire tomber nginx, Apache ou IIS",
@@ -33,6 +133,26 @@
       "image": ""
     },
     {
+      "id": "0253a7ce4c100fd08457ae372a6a8bff",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control whi...",
+      "published": "2026-06-03T14:56:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
+    },
+    {
+      "id": "080a0e674d16a0e41ba6f5e8e1f2d4e0",
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the same phone could ask ...",
+      "published": "2026-06-03T14:56:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_pEYWDRVadGL0WYM3iSY6jqFgBez8snXgoyeyAzcXNmxiytv-FgiKoBJX3aPivuYhSJjXp4o_zO1dQSIPUfduaAlB-rvSti7pFhdDZSrAa-ennBdfdVpe1Xo0dMxKATB8te61pyJAf60x5CP6OJzjzmtpFIg_qHQqA7VP-rUnEpaT37Z0qBOmbZ52BfM/s1600/ms-android.jpg"
+    },
+    {
       "id": "816f360e17abaa010b793566ca22c980",
       "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
       "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
@@ -41,6 +161,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "280c3abde4442d135f19d04ef30131d6",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt b...",
+      "published": "2026-06-03T13:47:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV6zPqD9KC3Rc5Mz9c8XENLiJntboDT6LIoD3L2FXlTUVC3rsWZ_3YLfe_jmhhyphenhyphenjb5RCwkTsdoyypD9VXxYgj_2GYaAupNMlOyZkycm94qr7XiarmBCpYQdZDN_Gwq6KrOmomzx1dmbz4hpUkw4OZparqEbydJneNKaWQI0fcP5tctpKxsZ7kFP5FCv0/s1600/redis-db.png"
     },
     {
       "id": "85408b688171b629462eca4b4523594a",
@@ -101,16 +231,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/il-cuit-des-cookies-avec-son-imprimante-3d/il-cuit-des-cookies-avec-son-imprimante-3d-1.jpg"
-    },
-    {
-      "id": "0253a7ce4c100fd08457ae372a6a8bff",
-      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
-      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control whi...",
-      "published": "2026-06-03T11:28:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
     },
     {
       "id": "0c99e1692a1f0e19ff1a521bd9b5d71f",
@@ -233,41 +353,21 @@
       "image": ""
     },
     {
+      "id": "c488f184627e3bc795bfb68f508cefb3",
+      "title": "eBPF et la révolution du monitoring « agentless » pour sécuriser vos infrastructures Linux",
+      "link": "https://www.it-connect.fr/ebpf-et-la-revolution-du-monitoring-agentless-pour-securiser-vos-infrastructures-linux/",
+      "summary": "Découvrez comment eBPF révolutionne la supervision Linux avec une observabilité haute performance, essentielle pour les infrastructures modernes et la sécurité. Le post eBPF et la révolution du monitoring « agentless ...",
+      "published": "2026-06-03T05:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
       "id": "3c7520a5ba09bac9855e9b0177b77912",
       "title": "Microsoft's Coreutils project brings Linux commands to Windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
       "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
       "published": "2026-06-02T22:52:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "523d3f359c0b33f767e323ce70b8bddd",
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
-      "published": "2026-06-02T22:44:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7b1c25cb092324634d28a0bf3f4ef5ac",
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "published": "2026-06-02T22:12:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6dd80d684d59e81d2a4dcfb49393045e",
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
-      "published": "2026-06-02T21:54:49+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -298,106 +398,6 @@
       "link": "https://www.it-connect.fr/intelligent-terminal-microsoft-devoile-une-nouvelle-console-boostee-a-lia/",
       "summary": "À l'occasion du Build 2026, Microsoft a dévoilé Intelligent Terminal en version 0.1 : un fork de Windows Terminal compatible avec les agents IA. Le post Intelligent Terminal : Microsoft dévoile une nouvelle console bo...",
       "published": "2026-06-02T20:29:18+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5042e49aa00f0cb8bdf02d51df7758f5",
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under act...",
-      "published": "2026-06-02T18:46:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6SfsDfrb_dr_5DP0MiwOMy86maTi3XyrtkQLw-sHAGlBZbhZ0uEfRkamwFqXGT4qNmVIqg6LQtaaRVLr_oGnxvKHiSuCU0Qts79fzGzWbeySgkpak_Cci73EHSyvr1qC1EqiciaI86XW4KtODuln9vUkYHvoH1p3bh_FTzW6scXui1REmWDv84cTxhoX/s1600/android.jpg"
-    },
-    {
-      "id": "ec1ca545f493c8bbf09867dc93311116",
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activi...",
-      "published": "2026-06-02T18:21:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1600/russian-malware.jpg"
-    },
-    {
-      "id": "1db8c609a0019c07637c95ff2cbaedde",
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence o...",
-      "published": "2026-06-02T18:14:42+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg"
-    },
-    {
-      "id": "fffe5f9fa4bc3f102af7bf6dee7fc5e3",
-      "title": "Android : le patch de juin 2026 corrige une faille zero-day déjà exploitée",
-      "link": "https://www.it-connect.fr/android-le-patch-de-juin-2026-corrige-une-faille-zero-day-deja-exploitee/",
-      "summary": "Les patchs de sécurité de juin 2026 pour Android corrigent 124 vulnérabilités, dont une faille de sécurité zero-day patchée par Google (CVE-2025-48595). Le post Android : le patch de juin 2026 corrige une faille zero-...",
-      "published": "2026-06-02T16:08:25+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "98b70cf9d9789bdacd8e49d679ab5a34",
-      "title": "Test ZimaCube 2 : un NAS tout-en-un pour votre Cloud personnel",
-      "link": "https://www.it-connect.fr/test-zimacube-2-un-nas-tout-en-un-pour-votre-cloud-personnel/",
-      "summary": "Découvrez le ZimaCube 2, un boîtier tout-en-un performant pour self-hoster et créer votre cloud personnel, avec l'installation d'applications en 1-clic. Le post Test ZimaCube 2 : un NAS tout-en-un pour votre Cloud per...",
-      "published": "2026-06-02T14:55:05+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "aa7e91d432cf67acfca7d6d55787d894",
-      "title": "Microsoft Entra ID : la suppression réversible arrive enfin pour les appareils",
-      "link": "https://www.it-connect.fr/microsoft-entra-id-la-suppression-reversible-arrive-enfin-pour-les-appareils/",
-      "summary": "Microsoft a ajouté la fonction Device Soft Delete à Entra ID, ce qui permet de restaurer les appareils supprimés accidentellement dans un délai de 30 jours. Le post Microsoft Entra ID : la suppression réversible arriv...",
-      "published": "2026-06-02T13:11:16+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cf3215ea9533f2b41e51b5905090cd9b",
-      "title": "Linux : Wine 11.10 ajoute VKD3D 2.0 et d’autres nouveautés !",
-      "link": "https://www.it-connect.fr/linux-wine-11-10-ajoute-vkd3d-2-0-et-dautres-nouveautes/",
-      "summary": "Le 29 mai 2026, l'équipe de développement de Wine a publié la version 11.10 de sa célèbre couche de compatibilité pour Linux : voici les principales nouveautés. Le post Linux : Wine 11.10 ajoute VKD3D 2.0 et d’autres ...",
-      "published": "2026-06-02T13:10:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b6bc5d0af65bfaad2619e36c0046417e",
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security...",
-      "published": "2026-06-02T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
-    },
-    {
-      "id": "176f9bd62bfdd08a0475e1f8346baa68",
-      "title": "Surface Laptop Ultra : Microsoft s’allie à NVIDIA pour concurrencer le MacBook Pro",
-      "link": "https://www.it-connect.fr/surface-laptop-ultra-microsoft-sallie-a-nvidia-pour-concurrencer-le-macbook-pro/",
-      "summary": "Microsoft a dévoilé le Surface Laptop Ultra, un PC ultra-puissant conçu en partenariat avec NVIDIA. Il embarque de la mémoire unifiée et un GPU Blackwell. Le post Surface Laptop Ultra : Microsoft s’allie à NVIDIA pour...",
-      "published": "2026-06-02T09:50:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "205ba489fe06dbd6640c920416fb2765",
-      "title": "Ubuntu Core 26 LTS : ce système immuable continue de s’améliorer",
-      "link": "https://www.it-connect.fr/ubuntu-core-26-lts-ce-systeme-immuable-continue-de-sameliorer/",
-      "summary": "Canonical a récemment dévoilé Ubuntu Core 26, la nouvelle version de ce système d'exploitation immuable : voici les nouveautés principales. Le post Ubuntu Core 26 LTS : ce système immuable continue de s’améliorer a ét...",
-      "published": "2026-06-02T08:01:24+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
