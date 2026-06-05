@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-05T09:41:12.490369+00:00",
+  "last_updated": "2026-06-05T14:43:54.857213+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c83996b83a1df452727b0f40f82dfd46",
+      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+      "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
+      "published": "2026-06-05T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "38b4a872a5ca191303381bd0807c4fbb",
+      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+      "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell frame...",
+      "published": "2026-06-05T12:33:38+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg"
+    },
+    {
+      "id": "637acc16b9138258ea903dec774522f4",
+      "title": "Rsync, le logiciel de sauvegarde culte sous Linux, mis à jour avec de l'IA et ça déclenche une vraie colère",
+      "link": "https://korben.info/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere.html",
+      "summary": "rsync vient de sortir sa version 3.4.3, un correctif censé boucher plusieurs trous de sécurité. Sauf que pour une partie des utilisateurs, leurs sauvegardes incrémentales se sont mises à mal fonctionner juste après la...",
+      "published": "2026-06-05T12:16:53+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere-1.jpg"
+    },
+    {
+      "id": "43945633ffd2c48ea4a9f07960eb2ff4",
+      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+      "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations pl...",
+      "published": "2026-06-05T11:20:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
+    },
     {
       "id": "7b3c269fa6ad6ca40e412f2c6b08772f",
       "title": "Anthropic - L'entreprise éthique qui hacke pour la NSA",
@@ -233,16 +273,6 @@
       "image": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root-1.jpg"
     },
     {
-      "id": "620378170d456d595e65b35dfc09dc4d",
-      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
-      "summary": "French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union. [...]",
-      "published": "2026-06-04T12:29:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "46896c011cf4b3f3010dfcde332f9c26",
       "title": "Webcamoid, ou comment fabriquer une fausse webcam sous Linux sans toucher à une ligne de commande",
       "link": "https://korben.info/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande.html",
@@ -261,26 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq_JkP80d1IA8rz-SoYEBmuGqK_K7OpGrqiki4vB1ShMW5mFBVSMvl8H5MnYylZMl3AWeqdAmp19oZIL_7amYErNxBGiUAJqrOqGO0zjHH2jxCKCNdiGH_nqjHlksD9dlu4QGCq9KzMRfnWAi7YnPQQ86pnCypNupFDn_h-hSJdfhWT0Y4s01w6Cw-s6Od/s1600/phishing-hook.jpg"
-    },
-    {
-      "id": "85d792f45c0e0b59552af6632083ede1",
-      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-      "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-      "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto Networks Unit 42, the campaign is sa...",
-      "published": "2026-06-04T11:19:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFQkJElJQpI5ODTBzh1EzrxsRYamFN0ntC9V6vF4b4FfEJ0svPhI_1TnKm960eIsewSFT-DR1RtNk3M511OQK6I-k3UQNNLut1f_fjM9wB4NHxdvJzJQ3VvhIGO9ja0hNIzRAOZLVMngS4R8hQxXfV-_DO71x0CU0YSnxpclCnV0DGX6TdNmr32ongewk/s1600/macos.jpg"
-    },
-    {
-      "id": "1f786937811f472cf314e0dc06c0fb68",
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families ...",
-      "published": "2026-06-04T09:51:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7j9PG_c741so0RmX7eIB48xO-ndyZSF0pIU5j2anTqxJNj8A3XVstoIjq3iMnuQxhgyhl3LKP5laenFIj7IT0V8SOJ0lK7-Ywdsr5yBioNKF60SegkvR3SkfaSkPqZxN3rak0J-sZbvjxGDozCupAP3wraZjk0XU6-ZA590Q42cPaHXrdg7PJFGk1Ss/s1600/site.jpg"
     },
     {
       "id": "ac39bed375224dd9ec7906469d1174eb",
@@ -373,16 +383,6 @@
       "image": "https://korben.info/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis-1.png"
     },
     {
-      "id": "9de21fa0db4165ed11a407ecde3dae8c",
-      "title": "ls, grep, cp : Microsoft fait entrer les commandes Linux nativement dans Windows",
-      "link": "https://korben.info/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows.html",
-      "summary": "À sa conférence Build 2026, le 2 juin, l'éditeur a lancé Coreutils for Windows, un paquet qui amène directement dans Windows les commandes de base bien connues des utilisateurs de Linux. On parle des classiques du ter...",
-      "published": "2026-06-03T16:08:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows-1.jpg"
-    },
-    {
       "id": "fb70b972dcf5e7f2cb2007dd92b372ba",
       "title": "Microsoft lance MAI-Thinking-1, son premier modèle IA pour le raisonnement",
       "link": "https://www.it-connect.fr/microsoft-lance-mai-thinking-1-son-premier-modele-ia-pour-le-raisonnement/",
@@ -403,91 +403,91 @@
       "image": ""
     },
     {
-      "id": "0217befb9d19347c5b3d6b4246cef928",
-      "title": "Multiples vulnérabilités dans Centreon Web (29 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0659/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Centreon Web. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "id": "e6b44799927ca181f9876d65cfadd3fc",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-024 (01 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-024/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-06-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7d66fced609f80a868dc482b8a513eb3",
+      "title": "Vulnérabilité dans Kaspersky Anti Targeted Attack Platform (01 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0668/",
+      "summary": "Une vulnérabilité a été découverte dans Kaspersky Anti Targeted Attack Platform. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "published": "2026-06-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1917c89f8a479ae59e9f0bbb4ebb0924",
+      "title": "Multiples vulnérabilités dans les produits Mitel (01 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0672/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+      "published": "2026-06-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c239f54a63bf980c444ef473b455a094",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (29 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0664/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et...",
       "published": "2026-05-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "13306daa41589311cae9a485bc463aab",
-      "title": "Multiples vulnérabilités dans Elastic Kibana (29 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0661/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confi...",
+      "id": "c9dd1cea4391464623f6c15cd7b343ed",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (29 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0663/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à...",
       "published": "2026-05-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "09a7cdaa970c6c18d508c3c887cc739c",
-      "title": "Vulnérabilité dans les produits NetApp (28 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0656/",
-      "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-05-28T00:00:00+00:00",
+      "id": "261bf35d458a8736c4d758901f950f2e",
+      "title": "Multiples vulnérabilités dans les produits IBM (29 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0667/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-05-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "fbd631992bfd951d586c6325613e3078",
-      "title": "Multiples vulnérabilités dans Google Chrome (28 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0655/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-28T00:00:00+00:00",
+      "id": "050ae8ad76ec41a486897f6ccd11a7a1",
+      "title": "Multiples vulnérabilités dans Oracle Database Server (29 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0662/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "published": "2026-05-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "09bacb0a85c86b5eb31456bcf18ae63c",
-      "title": "Vulnérabilité dans Apereo CAS (28 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0654/",
-      "summary": "Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-28T00:00:00+00:00",
+      "id": "b87c4f35970cdc2ed56c09b95a80deda",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (29 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0666/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données ...",
+      "published": "2026-05-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "f4cbb844db706c4f8f04ee86fa467b37",
-      "title": "Multiples vulnérabilités dans GitLab (28 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0658/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-      "published": "2026-05-28T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "457b2167f04b0d4ca7363935a4b9f70b",
-      "title": "Multiples vulnérabilités dans les produits Veeam (28 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0657/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-05-28T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9a3e26ef1762a4988c22d8eb89e3d4d4",
-      "title": "Multiples vulnérabilités dans Joomla! (27 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0649/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Joomla!. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une injection ...",
-      "published": "2026-05-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c7b83b33971a4c0134374df86ec8c587",
-      "title": "Multiples vulnérabilités dans Symfony (27 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0653/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF), une injection de code indirecte à distanc...",
-      "published": "2026-05-27T00:00:00+00:00",
+      "id": "92b9e74c3a07b3518dbec57190f30188",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (29 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0665/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données...",
+      "published": "2026-05-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
