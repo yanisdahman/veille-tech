@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-04T20:01:40.343025+00:00",
+  "last_updated": "2026-06-05T03:30:04.584337+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7ffb882b9817e0d6aef79227c4e14944",
+      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
+      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+      "summary": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
+      "published": "2026-06-04T21:37:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "84016d4b1fd3250fc9452a5461982038",
+      "title": "Hola Browser for Windows compromised to deliver cryptominer",
+      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
+      "published": "2026-06-04T21:27:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cbd30d91620993db985cf7b506049107",
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
+      "published": "2026-06-04T20:47:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "bccf1c3164478e840411365b9b7d254b",
       "title": "DentaQuest data breach exposed info of 2.6 million accounts",
@@ -210,36 +240,6 @@
       "published": "2026-06-04T05:24:21+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6012dcf0e4048de0d7968530d279b88e",
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
-      "published": "2026-06-03T21:45:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "aa4528d7711dbb29a383e9fd98693f3f",
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
-      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
-      "published": "2026-06-03T20:31:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "33fa28021b42cb362422952196a049d3",
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tan...",
-      "published": "2026-06-03T20:21:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
