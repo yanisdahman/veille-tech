@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-06T13:26:02.459246+00:00",
+  "last_updated": "2026-06-06T19:17:27.971601+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a46618ea36dc04058c1bb9f40bec073e",
+      "title": "Votre enceinte USB peut être piratée par un voisin",
+      "link": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin.html",
+      "summary": "Un chercheur en sécurité a réussi à prendre le contrôle d'un ordinateur en passant par une simple enceinte branchée en USB, à distance, et sans jamais s'approcher de la machine. L'appareil en question est la Sound Bla...",
+      "published": "2026-06-06T18:26:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin/votre-enceinte-usb-peut-etre-piratee-par-un-voisin-1.jpeg"
+    },
+    {
+      "id": "85ad70cf3048cc2bbb507ff3538029fe",
+      "title": "VoxDrop 1.1 - Le moteur vocal d'Apple est devenu mon préféré",
+      "link": "https://korben.info/voxdrop-1-1-dictee-vocale-mac.html",
+      "summary": "VoxDrop , ma petite app de dictée vocale qui tourne 100% en local sur Mac, passe en version 1.1. Et le gros morceau de cette release, c'est le grand ménage que j'ai fait dans les moteurs de reconnaissance vocale. Le n...",
+      "published": "2026-06-06T18:08:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/voxdrop-1-1-dictee-vocale-mac/voxdrop-1-1-dictee-vocale-mac-1.jpg"
+    },
+    {
+      "id": "34ee4a9c4286761906e4b3892f422950",
+      "title": "WinCalls : l’appli mobile qui bloque les démarcheurs à votre place",
+      "link": "https://www.it-connect.fr/wincalls-lappli-mobile-qui-bloque-les-demarcheurs-a-votre-place/",
+      "summary": "Marre des appels spam sur votre téléphone ? WinCalls bloque les arnaques et le démarchage téléphonique de façon automatique et efficace sur Android. Le post WinCalls : l’appli mobile qui bloque les démarcheurs à votre...",
+      "published": "2026-06-06T17:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ce94cd0e6015c41f5e968a8502bae579",
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
+      "published": "2026-06-06T14:09:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cb1a6ca2a610ea2806bf94a76b55a110",
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+      "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people an...",
+      "published": "2026-06-06T13:36:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg"
+    },
     {
       "id": "da2fca79c0c6d04caa866aecb4d6fd68",
       "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
@@ -213,16 +263,6 @@
       "image": "https://korben.info/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle-1.jpg"
     },
     {
-      "id": "b290527c461d0b41af1634957218991e",
-      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise. The vuln...",
-      "published": "2026-06-05T08:38:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKOwHRwFSrcOI7vBYVGbebtc3DwR3w7SYc9l7FUXp1yXc_N2MbNNlEXtfRjVneU4wz2YB8PqC_k54o_6ZpB2oKZKhVBlK7IC-CGU05B5GgE7qS26MBxKIWLZTC2rNhVf2vufJcwh7RK4zuH-twWCcd_eZtNm25Pmn-pQyOXcB7N_C9918yOP7C1K4KrNz/s1600/wordpress.jpg"
-    },
-    {
       "id": "f273bae52bd24579da69e499b6a83215",
       "title": "Votre voiture peut devenir un objet connecté de plus dans votre maison",
       "link": "https://korben.info/votre-voiture-peut-devenir-un-objet-connecte-de-plus-dans-votre-maison.html",
@@ -293,16 +333,6 @@
       "image": ""
     },
     {
-      "id": "cbd30d91620993db985cf7b506049107",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-      "published": "2026-06-04T20:47:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5b2e06e10f5d21398358b54677dc99ff",
       "title": "Libinput corrige une faille qui transformait une fausse manette en accès root",
       "link": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root.html",
@@ -311,26 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root-1.jpg"
-    },
-    {
-      "id": "46896c011cf4b3f3010dfcde332f9c26",
-      "title": "Webcamoid, ou comment fabriquer une fausse webcam sous Linux sans toucher à une ligne de commande",
-      "link": "https://korben.info/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande.html",
-      "summary": "Sur Linux, faire passer une vidéo trafiquée pour un vrai flux de webcam dans Zoom ou Discord, ça se fait depuis longtemps. Le souci, c'est que la méthode classique demande de taper des commandes assez obscures dans un...",
-      "published": "2026-06-04T12:24:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande-1.webp"
-    },
-    {
-      "id": "ac39bed375224dd9ec7906469d1174eb",
-      "title": "Des circuits électroniques cuits dans de l'argile, et ça marche vraiment",
-      "link": "https://korben.info/des-circuits-electroniques-cuits-dans-de-largile-et-ca-marche-vraiment.html",
-      "summary": "Emily Velasco , bricoleuse et artiste américaine, a fabriqué une carte électronique fonctionnelle à partir d'un simple disque d'argile tourné à la main, sans la moindre plaque de fibre de verre ni le moindre bain d'ac...",
-      "published": "2026-06-04T08:40:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/des-circuits-electroniques-cuits-dans-de-largile-et-ca-marche-vraiment/des-circuits-electroniques-cuits-dans-de-largile-et-ca-marche-vraiment-1.jpg"
     },
     {
       "id": "e098ee0aa4070aa46c6937dc2bd89ab2",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/windows-developer-configurations-lidee-de-microsoft-pour-preparer-rapidement-un-environnement-de-code/",
       "summary": "Windows Developer Configurations a été annoncé lors du MS Build 2026. L'idée : s'appuyer sur WinGet pour préparer rapidement une machine de dev optimisée. Le post Windows Developer Configurations : l’idée de Microsoft...",
       "published": "2026-06-03T20:09:43+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fb70b972dcf5e7f2cb2007dd92b372ba",
-      "title": "Microsoft lance MAI-Thinking-1, son premier modèle IA pour le raisonnement",
-      "link": "https://www.it-connect.fr/microsoft-lance-mai-thinking-1-son-premier-modele-ia-pour-le-raisonnement/",
-      "summary": "Lors de la conférence Build 2026, Microsoft a dévoilé de nouveaux modèles IA développés en interne, dont son premier LLM pour le raisonnement : MAI-Thinking-1. Le post Microsoft lance MAI-Thinking-1, son premier modèl...",
-      "published": "2026-06-03T05:30:42+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
