@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-07T03:35:24.777380+00:00",
+  "last_updated": "2026-06-07T08:52:40.237832+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "290275c4c14f7142c45a59ebff3e1be0",
+      "title": "ESP32 Bit Pirate - Le Bus Pirate qui tient dans un Cardputer",
+      "link": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking.html",
+      "summary": "Les Bus Pirate , si vous ne connaissez pas encore, ce sont des petites sondes que les bidouilleurs utilisent pour \"parler\" à des puces inconnues, lire une EEPROM ou dumper des firmwares. C'est assez spécifique comme m...",
+      "published": "2026-06-07T07:38:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking/esp32-bit-pirate-multitool-hardware-hacking-1.jpg"
+    },
     {
       "id": "a46618ea36dc04058c1bb9f40bec073e",
       "title": "Votre enceinte USB peut être piratée par un voisin",
@@ -306,7 +316,7 @@
       "id": "8802f7dc20a313b67bc58dad09e78df3",
       "title": "Vos données de navigation appartiennent-elles encore à quelqu'un ?",
       "link": "https://korben.info/surfshark-et-donnees-de-navigation.html",
-      "summary": "-- Article en partenariat avec Surfshark -- Posez la question à votre fournisseur d'accès internet. Orange, Free, Bouygues, SFR (ah non, RIP petit opérateur partit trop tôt) vous répondront poliment qu'ils respectent ...",
+      "summary": "-- Article en partenariat avec Surfshark -- Posez la question à votre fournisseur d'accès internet. Orange, Free, Bouygues, SFR (ah non, RIP petit opérateur parti trop tôt) vous répondront poliment qu'ils respectent l...",
       "published": "2026-06-05T05:00:21+00:00",
       "source": "Korben",
       "category": "outils",
@@ -331,16 +341,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "5b2e06e10f5d21398358b54677dc99ff",
-      "title": "Libinput corrige une faille qui transformait une fausse manette en accès root",
-      "link": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root.html",
-      "summary": "La bibliothèque libinput est passée en version 1.31.2, et pas pour ajouter des fonctions, mais pour boucher un trou de sécurité plutôt vilain. C'est elle qui gère vos périphériques d'entrée (clavier, souris, pavé tact...",
-      "published": "2026-06-04T12:59:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root-1.jpg"
     },
     {
       "id": "e098ee0aa4070aa46c6937dc2bd89ab2",
