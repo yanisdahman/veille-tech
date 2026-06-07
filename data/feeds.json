@@ -1,56 +1,26 @@
 {
-  "last_updated": "2026-06-07T13:46:45.482524+00:00",
-  "count": 50,
+  "last_updated": "2026-06-07T19:18:40.643677+00:00",
+  "count": 40,
   "articles": [
     {
-      "id": "83eabc321c57e7b1b63ee33a5552187e",
-      "title": "Age of Empires II est aussi conscient que votre ChatGPT",
-      "link": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
-      "summary": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT ou Claude « comprendrait vraiment » ce que vous racontez, qu'il aurait une « morale », une « intention » , voire bientôt une conscienc...",
-      "published": "2026-06-07T13:01:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/age-of-empires-2-llm-attributs-humains/age-of-empires-2-llm-attributs-humains-1.jpg"
+      "id": "8e1be0ce669efcf871c51d816ee74043",
+      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+      "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+      "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
+      "published": "2026-06-07T14:17:46+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
-      "id": "40baddd1846ba7ef001bc583e1358228",
-      "title": "Il transforme un microcontrôleur à 8 euros en routeur WiFi-Ethernet, sans la moindre puce réseau",
-      "link": "https://korben.info/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau.html",
-      "summary": "Difficile de faire plus minimaliste comme routeur. Celui que vient de bricoler Matt Deeds tient sur un Raspberry Pi Pico 2W, ce microcontrôleur grand comme une clé USB que l'on trouve pour une poignée d'euros, et il a...",
-      "published": "2026-06-07T09:59:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau-1.jpg"
-    },
-    {
-      "id": "290275c4c14f7142c45a59ebff3e1be0",
-      "title": "ESP32 Bit Pirate - Le Bus Pirate qui tient dans un Cardputer",
-      "link": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking.html",
-      "summary": "Les Bus Pirate , si vous ne connaissez pas encore, ce sont des petites sondes que les bidouilleurs utilisent pour \"parler\" à des puces inconnues, lire une EEPROM ou dumper des firmwares. C'est assez spécifique comme m...",
-      "published": "2026-06-07T07:38:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking/esp32-bit-pirate-multitool-hardware-hacking-1.jpg"
-    },
-    {
-      "id": "a46618ea36dc04058c1bb9f40bec073e",
-      "title": "Votre enceinte USB peut être piratée par un voisin",
-      "link": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin.html",
-      "summary": "Un chercheur en sécurité a réussi à prendre le contrôle d'un ordinateur en passant par une simple enceinte branchée en USB, à distance, et sans jamais s'approcher de la machine. L'appareil en question est la Sound Bla...",
-      "published": "2026-06-06T18:26:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin/votre-enceinte-usb-peut-etre-piratee-par-un-voisin-1.jpeg"
-    },
-    {
-      "id": "85ad70cf3048cc2bbb507ff3538029fe",
-      "title": "VoxDrop 1.1 - Le moteur vocal d'Apple est devenu mon préféré",
-      "link": "https://korben.info/voxdrop-1-1-dictee-vocale-mac.html",
-      "summary": "VoxDrop , ma petite app de dictée vocale qui tourne 100% en local sur Mac, passe en version 1.1. Et le gros morceau de cette release, c'est le grand ménage que j'ai fait dans les moteurs de reconnaissance vocale. Le n...",
-      "published": "2026-06-06T18:08:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/voxdrop-1-1-dictee-vocale-mac/voxdrop-1-1-dictee-vocale-mac-1.jpg"
+      "id": "60bf91b4795059bbd989176969a14137",
+      "title": "Silent Ransom Group targets law firms with fake IT support calls",
+      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+      "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, accordin...",
+      "published": "2026-06-07T14:09:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
       "id": "34ee4a9c4286761906e4b3892f422950",
@@ -193,16 +163,6 @@
       "image": ""
     },
     {
-      "id": "b2bd1883b7ec0060ad5718bbf650b117",
-      "title": "Test de ce chargeur 65W, avec sa taille ridicule qui n’a aucun sens",
-      "link": "https://korben.info/test-de-ce-chargeur-65w-avec-sa-taille-ridicule-qui-na-aucun-sens.html",
-      "summary": "– Contient des liens affiliés Amazon – Tellement de produits UGREEN passent entre mes mains que c'en est devenu une blague. Plus j'en kiffe un, plus ils m'en envoient un autre. Et à chaque fois, je craque pareil. Mais...",
-      "published": "2026-06-05T15:17:53+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-de-ce-chargeur-65w-avec-sa-taille-ridicule-qui-na-aucun-sens/test-de-ce-chargeur-65w-avec-sa-taille-ridicule-qui-na-aucun-sens-1.jpg"
-    },
-    {
       "id": "a8bf8fbef4274f3ec8d5cb9ee11940a3",
       "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
       "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
@@ -221,16 +181,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "6dbd5cabd8e47c749521827322ef58ff",
-      "title": "Il projette au plafond, en temps réel, tous les avions qui passent au-dessus de sa maison",
-      "link": "https://korben.info/il-projette-au-plafond-en-temps-reel-tous-les-avions-qui-passent-au-dessus-de-sa-maison.html",
-      "summary": "Un développeur qui se fait appeler cpaczek a eu une idée un peu folle, celle de transformer le plafond de son salon en fenêtre sur le ciel. Son projet, baptisé Skylight, affiche en temps réel chaque avion qui passe ré...",
-      "published": "2026-06-05T14:35:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-projette-au-plafond-en-temps-reel-tous-les-avions-qui-passent-au-dessus-de-sa-maison/il-projette-au-plafond-en-temps-reel-tous-les-avions-qui-passent-au-dessus-de-sa-maison-1.jpg"
     },
     {
       "id": "c83996b83a1df452727b0f40f82dfd46",
@@ -253,16 +203,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg"
     },
     {
-      "id": "637acc16b9138258ea903dec774522f4",
-      "title": "Rsync, le logiciel de sauvegarde culte sous Linux, mis à jour avec de l'IA et ça déclenche une vraie colère",
-      "link": "https://korben.info/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere.html",
-      "summary": "rsync vient de sortir sa version 3.4.3, un correctif censé boucher plusieurs trous de sécurité. Sauf que pour une partie des utilisateurs, leurs sauvegardes incrémentales se sont mises à mal fonctionner juste après la...",
-      "published": "2026-06-05T12:16:53+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere-1.jpg"
-    },
-    {
       "id": "43945633ffd2c48ea4a9f07960eb2ff4",
       "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
       "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
@@ -271,26 +211,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
-    },
-    {
-      "id": "7b3c269fa6ad6ca40e412f2c6b08772f",
-      "title": "Anthropic - L'entreprise éthique qui hacke pour la NSA",
-      "link": "https://korben.info/anthropic-nsa-mythos-cyber-offensif.html",
-      "summary": "Anthropic, c'est la boite qui nous rabâche le plus les oreilles avec l'importance de l'éthique dans les IA. Sauf que d'après le Financial Times, la société a \"discrètement\" embarqué une demi-douzaine d'ingénieurs envi...",
-      "published": "2026-06-05T09:11:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/anthropic-nsa-mythos-cyber-offensif/anthropic-nsa-mythos-cyber-offensif-1.jpg"
-    },
-    {
-      "id": "bc1353a477237d4f04ffa95be2ec47fb",
-      "title": "Ce clone de Game Boy tournait trop vite, un seul composant a tout réglé",
-      "link": "https://korben.info/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle.html",
-      "summary": "Il existe une catégorie d'objets qu'on achète sur un coup de tête, qu'on déballe avec enthousiasme, et qu'on range au fond d'un tiroir une demi-heure plus tard parce qu'ils sont tout bonnement inutilisables. La GB Boy...",
-      "published": "2026-06-05T08:47:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle-1.jpg"
     },
     {
       "id": "6746ed16c490dbd2312b03ce8d04045b",
@@ -320,26 +240,6 @@
       "published": "2026-06-05T05:08:49+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7ffb882b9817e0d6aef79227c4e14944",
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
-      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "summary": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
-      "published": "2026-06-04T21:37:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "84016d4b1fd3250fc9452a5461982038",
-      "title": "Hola Browser for Windows compromised to deliver cryptominer",
-      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
-      "published": "2026-06-04T21:27:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
