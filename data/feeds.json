@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-06-08T03:41:12.209199+00:00",
+  "last_updated": "2026-06-08T10:47:36.128058+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a512ced84acaf950ed37b65ac54444ef",
+      "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+      "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
+      "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux s...",
+      "published": "2026-06-08T10:27:32+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni0Ay24Jcfz-LCxqQ8xD9rJais13OOnt5cfz9XtZY-4LzlGgyVY9S2Cu7V0Uo9JMjIxfyTMk8oOeaPHcIkkYnw4RMiLgYFuiS2CyHd9JAihJsC7SQ-wtm8K545YuACojNwKRfsYBXLWe8s3u1evEVjyGLI2WM9KwAYyWur_XrpPfQRF8s4CzXP8c_OU01/s1600/chinese.jpg"
+    },
+    {
+      "id": "8905c6de0da31bdee91d796d1a0e97dd",
+      "title": "OpenAI ajoute un \"mode confinement\" à ChatGPT pour bloquer les injections de prompt",
+      "link": "https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html",
+      "summary": "ChatGPT a gagné un réglage qui ne plaira pas à tout le monde. Un \"mode confinement\", Lockdown Mode dans le texte, qui débranche volontairement une partie des fonctions de l'assistant pour réduire le risque de fuite de...",
+      "published": "2026-06-08T09:45:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt-1.jpg"
+    },
+    {
+      "id": "9b08a5fde951337fcd67e33ed8c4ed09",
+      "title": "Encore un zero-day chez Cisco, exploité en ce moment même et toujours sans correctif",
+      "link": "https://korben.info/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif.html",
+      "summary": "Le Catalyst SD-WAN Manager de Cisco, anciennement appelé vManage, c'est la salle de contrôle depuis laquelle une grande entreprise règle, surveille et met à jour à distance le réseau entier qui relie ses dizaines d'ag...",
+      "published": "2026-06-08T09:35:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif-1.jpg"
+    },
+    {
+      "id": "efbcaa25cd1794dadad59518351fb85d",
+      "title": "Mindwtr - Une app GTD libre qui tourne partout",
+      "link": "https://korben.info/mindwtr-gtd-open-source-multiplateforme.html",
+      "summary": "Des apps de todo qui se réclament de la mouvance GTD , y'en a des centaines ! Mais des apps qui appliquent vraiment la méthode de David Allen de bout en bout, et qui en plus sont libres, locales, et qui tournent sur t...",
+      "published": "2026-06-08T07:41:35+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mindwtr-gtd-open-source-multiplateforme/mindwtr-gtd-open-source-multiplateforme-1.jpg"
+    },
+    {
+      "id": "38ab7398bcd330ff029372d57bf9d050",
+      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+      "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. betwee...",
+      "published": "2026-06-08T07:39:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUzV1qMNLxMhQ6z22gKy4A5VPPrLn4b1nlfLaMyR6dBM6ostnGD8O3jiaPdM_diQNx24uX-TbI6iiX0Yw4m7msT6_3_UFz_g-g1fQGh3J55fzWzRyKTel4uIp05eBMvxwaQWvNv-VM0_p9jkclDuIyq0Ztu8r4gHIKN1xNSoGYV8Lj31kb_mCcZcBeXrB/s1600/vishing.jpg"
+    },
+    {
+      "id": "4f6c0831ece64548a3426ca08d07148e",
+      "title": "Coup de sang sur GitHub autour de Rsync et de l’utilisation de l’IA Claude",
+      "link": "https://www.it-connect.fr/coup-de-sang-sur-github-autour-de-rsync-et-de-lutilisation-de-ia-claude/",
+      "summary": "Rsync : une mise à jour perturbe les sauvegardes incrémentales, révélant des commits co-écrits avec l'IA Claude d'Anthropic. Qu'en est-il ? Le post Coup de sang sur GitHub autour de Rsync et de l’utilisation de l’IA C...",
+      "published": "2026-06-08T07:22:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6e30e4ce7a27cadebadd6af96c967600",
+      "title": "FixMyCV - Faites relire votre CV par des recruteurs IA",
+      "link": "https://korben.info/fixmycv-analyse-ia-cv-junior-it-gratuit.html",
+      "summary": "Chercher un job dans l'IT en ce moment, faut le savoir, c'est rude. Vous balancez votre CV, et très souvent c'est un logiciel à la con qui passe dessus avant même le moindre humain, le décortique, le classe, et s'il l...",
+      "published": "2026-06-08T07:08:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fixmycv-analyse-ia-cv-junior-it-gratuit/fixmycv-analyse-ia-cv-junior-it-gratuit-1.jpg"
+    },
+    {
+      "id": "78745e075c4cffd418761c0a5bdee575",
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+      "summary": "Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to ta...",
+      "published": "2026-06-08T06:08:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMxcu3ZcBpbZRC5rw9BlnoZMoXgrA-dRRquG6F6PSZZUc0JNzGHbl6c50yqTxs60QyQ5ut5ZC2qP9Csk_mR1Aqi48DO0wwDbUZ6zei45FNO2UgXaU0pOf8gWk8iAT81Ee1XJGrYyFgjYJqCeGTlnYeq-U8Nh4i5cxskA5n3eWyaQqMQPmyMAAR30bDKf2/s1600/ms-delay.jpg"
+    },
+    {
+      "id": "b3da4125bc01c47f6169dd245e5d9ed0",
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "published": "2026-06-08T06:00:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cf888a75d7c56966a0337d442cf177b9",
+      "title": "La réinitialisation de mot de passe dans Entra ID évolue en 2026 : ce qu’il faut savoir",
+      "link": "https://www.it-connect.fr/la-reinitialisation-de-mot-de-passe-dans-entra-id-evolue-en-2026-ce-quil-faut-savoir/",
+      "summary": "À partir du 7 septembre 2026, la réinitialisation de mot de passe en libre-service (SSPR) exigera des méthodes d’authentification enregistrées sur Entra ID. Le post La réinitialisation de mot de passe dans Entra ID év...",
+      "published": "2026-06-08T04:54:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "02746a69533b66b9a111011ef859d08f",
       "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
@@ -91,46 +191,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/age-of-empires-2-llm-attributs-humains/age-of-empires-2-llm-attributs-humains-1.jpg"
-    },
-    {
-      "id": "40baddd1846ba7ef001bc583e1358228",
-      "title": "Il transforme un microcontrôleur à 8 euros en routeur WiFi-Ethernet, sans la moindre puce réseau",
-      "link": "https://korben.info/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau.html",
-      "summary": "Difficile de faire plus minimaliste comme routeur. Celui que vient de bricoler Matt Deeds tient sur un Raspberry Pi Pico 2W, ce microcontrôleur grand comme une clé USB que l'on trouve pour une poignée d'euros, et il a...",
-      "published": "2026-06-07T09:59:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau-1.jpg"
-    },
-    {
-      "id": "290275c4c14f7142c45a59ebff3e1be0",
-      "title": "ESP32 Bit Pirate - Le Bus Pirate qui tient dans un Cardputer",
-      "link": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking.html",
-      "summary": "Les Bus Pirate , si vous ne connaissez pas encore, ce sont des petites sondes que les bidouilleurs utilisent pour \"parler\" à des puces inconnues, lire une EEPROM ou dumper des firmwares. C'est assez spécifique comme m...",
-      "published": "2026-06-07T07:38:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking/esp32-bit-pirate-multitool-hardware-hacking-1.jpg"
-    },
-    {
-      "id": "a46618ea36dc04058c1bb9f40bec073e",
-      "title": "Votre enceinte USB peut être piratée par un voisin",
-      "link": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin.html",
-      "summary": "Un chercheur en sécurité a réussi à prendre le contrôle d'un ordinateur en passant par une simple enceinte branchée en USB, à distance, et sans jamais s'approcher de la machine. L'appareil en question est la Sound Bla...",
-      "published": "2026-06-06T18:26:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin/votre-enceinte-usb-peut-etre-piratee-par-un-voisin-1.jpeg"
-    },
-    {
-      "id": "85ad70cf3048cc2bbb507ff3538029fe",
-      "title": "VoxDrop 1.1 - Le moteur vocal d'Apple est devenu mon préféré",
-      "link": "https://korben.info/voxdrop-1-1-dictee-vocale-mac.html",
-      "summary": "VoxDrop , ma petite app de dictée vocale qui tourne 100% en local sur Mac, passe en version 1.1. Et le gros morceau de cette release, c'est le grand ménage que j'ai fait dans les moteurs de reconnaissance vocale. Le n...",
-      "published": "2026-06-06T18:08:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/voxdrop-1-1-dictee-vocale-mac/voxdrop-1-1-dictee-vocale-mac-1.jpg"
     },
     {
       "id": "34ee4a9c4286761906e4b3892f422950",
@@ -273,16 +333,6 @@
       "image": ""
     },
     {
-      "id": "a8bf8fbef4274f3ec8d5cb9ee11940a3",
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple cam...",
-      "published": "2026-06-05T14:53:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png"
-    },
-    {
       "id": "01f7e99693c1d8f1e56ef808373bedcd",
       "title": "Over 900 US gas station tank gauge systems exposed to attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
@@ -291,36 +341,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "c83996b83a1df452727b0f40f82dfd46",
-      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
-      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-      "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
-      "published": "2026-06-05T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "38b4a872a5ca191303381bd0807c4fbb",
-      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-      "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed targeting Microsoft Internet Information Services (IIS) servers ...",
-      "published": "2026-06-05T12:33:38+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg"
-    },
-    {
-      "id": "43945633ffd2c48ea4a9f07960eb2ff4",
-      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
-      "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations pl...",
-      "published": "2026-06-05T11:20:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
     },
     {
       "id": "6746ed16c490dbd2312b03ce8d04045b",
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/microsoft-scout-un-nouvel-agent-ia-autopilot-propulse-par-openclaw/",
       "summary": "Autonome et toujours actif, voici comment l'on peut définir Scout, l'agent IA Autopilot présenté par Microsoft à l'occasion de la conférence Build 2026. Le post Microsoft Scout : un nouvel agent IA « Autopilot » propu...",
       "published": "2026-06-03T20:10:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "48f43643db38b59cb8ab9180949c8f57",
-      "title": "Weedhack : ce malware cible les joueurs de Minecraft et fait déjà plus de 116 000 victimes",
-      "link": "https://www.it-connect.fr/weedhack-ce-malware-cible-les-joueurs-de-minecraft-et-fait-deja-plus-de-116-000-victimes/",
-      "summary": "Découvrez comment la campagne Weedhack vise les joueurs de Minecraft via YouTube et le SEO poisoning, infectant plus de 116 000 machines en 6 mois. Le post Weedhack : ce malware cible les joueurs de Minecraft et fait ...",
-      "published": "2026-06-03T20:09:54+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3a8bec0020b7e7255d6c462f8c21a5db",
-      "title": "Windows Developer Configurations : l’idée de Microsoft pour préparer rapidement un environnement de code",
-      "link": "https://www.it-connect.fr/windows-developer-configurations-lidee-de-microsoft-pour-preparer-rapidement-un-environnement-de-code/",
-      "summary": "Windows Developer Configurations a été annoncé lors du MS Build 2026. L'idée : s'appuyer sur WinGet pour préparer rapidement une machine de dev optimisée. Le post Windows Developer Configurations : l’idée de Microsoft...",
-      "published": "2026-06-03T20:09:43+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
