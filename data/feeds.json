@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-07T19:18:40.643677+00:00",
-  "count": 40,
+  "last_updated": "2026-06-08T03:41:12.209199+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "02746a69533b66b9a111011ef859d08f",
+      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+      "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
+      "published": "2026-06-07T23:20:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bd426c486660af0ec9d6109a8b571a69",
+      "title": "Surface RTX Spark Dev Box - L'IA locale signée NVIDIA",
+      "link": "https://korben.info/surface-rtx-spark-dev-box-ia-locale.html",
+      "summary": "Microsoft vient d'annoncer lors de son événement Build 2026 l'arrivée de sa Surface RTX Spark Dev Box, un petit boîtier qui se pose sur le bureau et qui fait tourner des modèles IA de 120 milliards de paramètres en lo...",
+      "published": "2026-06-07T19:52:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/surface-rtx-spark-dev-box-ia-locale/surface-rtx-spark-dev-box-ia-locale-1.jpg"
+    },
+    {
+      "id": "31dfeaa824d50de5120afae884a1d231",
+      "title": "C0XMO - le botnet qui squatte vos vieux routeurs DD-WRT",
+      "link": "https://korben.info/c0xmo-botnet-faille-dd-wrt-routeurs.html",
+      "summary": "Un vieux routeur DD-WRT qui prend la poussière et que vous n'avez pas mis à jour depuis des lustres, c'est pile poil ce que recherche C0XMO. C'est un nouveau botnet repéré par les chercheurs de Fortinet qui enrôle les...",
+      "published": "2026-06-07T16:38:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/c0xmo-botnet-faille-dd-wrt-routeurs/c0xmo-botnet-faille-dd-wrt-routeurs-1.jpg"
+    },
+    {
+      "id": "8387f297b924893e61a4df94459bcc74",
+      "title": "Zcash - Une IA déniche en 24h une faille vieille de 4 ans",
+      "link": "https://korben.info/claude-opus-faille-zcash-vie-privee.html",
+      "summary": "Un chercheur en sécurité, Taylor Hornby, a lâché Claude Opus 4.8 sur le code de Zcash et 24 heures plus tard, le modèle lui a déniché une faille bien planquée là depuis 4 ans qui avait échappé aux auditeurs ! Et ce qu...",
+      "published": "2026-06-07T16:02:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/claude-opus-faille-zcash-vie-privee/claude-opus-faille-zcash-vie-privee-1.jpg"
+    },
+    {
+      "id": "52d7e8420a2a9bdbb0fcb2bca9f2638a",
+      "title": "ntsc-rs - L'effet VHS open source qui simule le vrai signal",
+      "link": "https://korben.info/ntsc-rs-effet-vhs-analogique.html",
+      "summary": "Les couleurs qui bavent, le grain qui grouille, et cette barre de \"bruit\" qui tremblote en bas de l'image... la VHS, c'est clairement toute une époque !! Le souci, c'est que recréer ce look proprement sur des vidéos, ...",
+      "published": "2026-06-07T14:54:04+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ntsc-rs-effet-vhs-analogique/ntsc-rs-effet-vhs-analogique-1.jpg"
+    },
+    {
+      "id": "021238284d2cf7f2e28ca3f9d0674484",
+      "title": "DOOM Retro - Le portage qui fait couler encore plus de sang",
+      "link": "https://korben.info/doom-retro-portage-windows.html",
+      "summary": "DOOM, vous connaissez forcément, sauf peut-être si vous avez moins de 13 ans, lol. Ce célèbre jeu de tir à la première personne (FPS) est un vrai classique des années 90 et même après toutes ces années, il continue d'...",
+      "published": "2026-06-07T14:30:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/doom-retro-portage-windows/doom-retro-portage-windows-1.png"
+    },
     {
       "id": "8e1be0ce669efcf871c51d816ee74043",
       "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
@@ -21,6 +81,56 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "83eabc321c57e7b1b63ee33a5552187e",
+      "title": "Age of Empires II est aussi conscient que votre ChatGPT",
+      "link": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
+      "summary": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT ou Claude « comprendrait vraiment » ce que vous racontez, qu'il aurait une « morale », une « intention » , voire bientôt une conscienc...",
+      "published": "2026-06-07T13:01:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/age-of-empires-2-llm-attributs-humains/age-of-empires-2-llm-attributs-humains-1.jpg"
+    },
+    {
+      "id": "40baddd1846ba7ef001bc583e1358228",
+      "title": "Il transforme un microcontrôleur à 8 euros en routeur WiFi-Ethernet, sans la moindre puce réseau",
+      "link": "https://korben.info/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau.html",
+      "summary": "Difficile de faire plus minimaliste comme routeur. Celui que vient de bricoler Matt Deeds tient sur un Raspberry Pi Pico 2W, ce microcontrôleur grand comme une clé USB que l'on trouve pour une poignée d'euros, et il a...",
+      "published": "2026-06-07T09:59:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau-1.jpg"
+    },
+    {
+      "id": "290275c4c14f7142c45a59ebff3e1be0",
+      "title": "ESP32 Bit Pirate - Le Bus Pirate qui tient dans un Cardputer",
+      "link": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking.html",
+      "summary": "Les Bus Pirate , si vous ne connaissez pas encore, ce sont des petites sondes que les bidouilleurs utilisent pour \"parler\" à des puces inconnues, lire une EEPROM ou dumper des firmwares. C'est assez spécifique comme m...",
+      "published": "2026-06-07T07:38:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking/esp32-bit-pirate-multitool-hardware-hacking-1.jpg"
+    },
+    {
+      "id": "a46618ea36dc04058c1bb9f40bec073e",
+      "title": "Votre enceinte USB peut être piratée par un voisin",
+      "link": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin.html",
+      "summary": "Un chercheur en sécurité a réussi à prendre le contrôle d'un ordinateur en passant par une simple enceinte branchée en USB, à distance, et sans jamais s'approcher de la machine. L'appareil en question est la Sound Bla...",
+      "published": "2026-06-06T18:26:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin/votre-enceinte-usb-peut-etre-piratee-par-un-voisin-1.jpeg"
+    },
+    {
+      "id": "85ad70cf3048cc2bbb507ff3538029fe",
+      "title": "VoxDrop 1.1 - Le moteur vocal d'Apple est devenu mon préféré",
+      "link": "https://korben.info/voxdrop-1-1-dictee-vocale-mac.html",
+      "summary": "VoxDrop , ma petite app de dictée vocale qui tourne 100% en local sur Mac, passe en version 1.1. Et le gros morceau de cette release, c'est le grand ménage que j'ai fait dans les moteurs de reconnaissance vocale. Le n...",
+      "published": "2026-06-06T18:08:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/voxdrop-1-1-dictee-vocale-mac/voxdrop-1-1-dictee-vocale-mac-1.jpg"
     },
     {
       "id": "34ee4a9c4286761906e4b3892f422950",
@@ -220,16 +330,6 @@
       "published": "2026-06-05T07:26:03+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "2aa223dfbdcbf3bdd560266d2a93a5ca",
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-      "published": "2026-06-05T06:24:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
