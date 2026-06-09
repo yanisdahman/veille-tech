@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-08T20:10:43.568980+00:00",
+  "last_updated": "2026-06-09T02:50:11.915130+00:00",
   "count": 40,
   "articles": [
+    {
+      "id": "75f0f0772197de9661e54c0f088ce2dc",
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+      "published": "2026-06-08T22:11:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b345ab9d8bfd507499c1b058b4eedb93",
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+      "published": "2026-06-08T21:55:46+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b4639bcf7e9dd5d9456479579af60d7e",
+      "title": "New Apple feature automatically changes your compromised passwords",
+      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+      "summary": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
+      "published": "2026-06-08T21:03:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "95e6516b4a567895f9825affa494c257",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+      "published": "2026-06-08T20:41:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c4da432e2312b6293a149fce9f4f73f4",
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in t...",
+      "published": "2026-06-08T20:17:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA8UsvPZqRGiHkumM_jxIGyax3NmK9lBR-XAaVK3Stujz8_bExONh9gAroIEXnLQo9KaXb2MpyZsqb2kcfaUxNJJtFhiSpCZjHDzOtgt-sZczb2rx2eRi-rqMiqFtfs0lq6iqJd74J3aoFRN-azg51ZhnQq84Ve1y_-AMXudSuiePM0mi1UHwTh0MHtIE/s1600/linux.jpg"
+    },
     {
       "id": "ba77b3437f0cfbce3ba490894091be8d",
       "title": "Ces trois failles offrent un accès root sur UniFi OS Server : patchez !",
@@ -203,16 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMxcu3ZcBpbZRC5rw9BlnoZMoXgrA-dRRquG6F6PSZZUc0JNzGHbl6c50yqTxs60QyQ5ut5ZC2qP9Csk_mR1Aqi48DO0wwDbUZ6zei45FNO2UgXaU0pOf8gWk8iAT81Ee1XJGrYyFgjYJqCeGTlnYeq-U8Nh4i5cxskA5n3eWyaQqMQPmyMAAR30bDKf2/s1600/ms-delay.jpg"
     },
     {
-      "id": "b3da4125bc01c47f6169dd245e5d9ed0",
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
-      "published": "2026-06-08T06:00:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "cf888a75d7c56966a0337d442cf177b9",
       "title": "La réinitialisation de mot de passe dans Entra ID évolue en 2026 : ce qu’il faut savoir",
       "link": "https://www.it-connect.fr/la-reinitialisation-de-mot-de-passe-dans-entra-id-evolue-en-2026-ce-quil-faut-savoir/",
@@ -230,36 +270,6 @@
       "published": "2026-06-08T03:55:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "02746a69533b66b9a111011ef859d08f",
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
-      "published": "2026-06-07T23:20:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8e1be0ce669efcf871c51d816ee74043",
-      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-      "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-      "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
-      "published": "2026-06-07T14:17:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "60bf91b4795059bbd989176969a14137",
-      "title": "Silent Ransom Group targets law firms with fake IT support calls",
-      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, accordin...",
-      "published": "2026-06-07T14:09:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -281,16 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg"
-    },
-    {
-      "id": "da2fca79c0c6d04caa866aecb4d6fd68",
-      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
-      "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
-      "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data b...",
-      "published": "2026-06-06T08:29:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKr3KoscB_oGLqU5_JV16DIaB7jXY1ko8PiJDTuwrxbHcZV2DYJpfkx8lqwNbscwTSTVQUMwd8vBf-nI13mQE7vzzmUzwKF3BF6q7s5Lnq7kG7CovDsKaHYlvKpEXo2cvNk4mA27BdJSI6buZLqtVCKhYQ31GOaozmEHQecUa9Zdt-jwFJIZ0OCvlF27_p/s1600/smart-tv.jpg"
     },
     {
       "id": "467de79622392a7888bdf307ea7c954f",
