@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-06-09T02:50:11.915130+00:00",
-  "count": 40,
+  "last_updated": "2026-06-09T09:37:47.785159+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "0416a8c155e38cca322f3c94bff0a31e",
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
+      "published": "2026-06-09T08:18:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cfc692b36364ecde38df4eb47c77a2ee",
+      "title": "Refroidir à -84°C avec une imprimante 3D et de l'air comprimé",
+      "link": "https://korben.info/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime.html",
+      "summary": "Un youtubeur qui se fait appeler Hyperspace Pirate a fabriqué chez lui un cryogénérateur, c'est-à-dire une machine capable de produire du froid extrême, en imprimant lui-même la plupart des pièces en plastique. Sur se...",
+      "published": "2026-06-09T07:48:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime-1.jpg"
+    },
+    {
+      "id": "d55975af0a31f43c549b7429209e1bfa",
+      "title": "Faille kernel Linux - Un seul caractère et vous voilà root",
+      "link": "https://korben.info/faille-kernel-linux-nf-tables-root.html",
+      "summary": "Oliver Sieber, un chercheur de chez Exodus Intelligence, vient de publier l'exploit complet d'une faille qui tient dans un seul caractère. C'est la CVE-2026-23111, planquée dans nf_tables, c'est à dire au bout du noya...",
+      "published": "2026-06-09T07:35:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/faille-kernel-linux-nf-tables-root/faille-kernel-linux-nf-tables-root-1.jpg"
+    },
+    {
+      "id": "857f2573f8c816b227eeccebba2b5981",
+      "title": "Music Decoy - Apple Music ne se lancera plus tout seul",
+      "link": "https://korben.info/music-decoy-bloquer-apple-music.html",
+      "summary": "Vous appuyez sur la touche ▶ Play de votre clavier pour mettre en pause une vidéo. Et c'est ce couillon d'Apple Music qui s'ouvre en grand alors que vous n'avez rien demandé. Ou alors vous branchez votre casque Blueto...",
+      "published": "2026-06-09T07:25:31+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/music-decoy-bloquer-apple-music/music-decoy-bloquer-apple-music-1.jpg"
+    },
+    {
+      "id": "27e1fa936deba14ae5d885729f59ab38",
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+      "published": "2026-06-09T06:56:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7c90f9c5113910213c4d8897f18584ed",
+      "title": "Vie privée : l’appli open source Loupe révèle le fingerprinting sur iPhone",
+      "link": "https://www.it-connect.fr/vie-privee-lappli-open-source-loupe-revele-le-fingerprinting-sur-iphone/",
+      "summary": "Loupe, l'application gratuite et open source pour iOS et iPadOS, révèle comment les apps tierces créent une empreinte numérique unique grâce aux API publiques. Le post Vie privée : l’appli open source Loupe révèle le ...",
+      "published": "2026-06-09T06:39:35+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2f4f953504be449b197a5becbe085bbc",
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitat...",
+      "published": "2026-06-09T06:26:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGMn_z7P9hbHMRzYk9OL9_kLaqTo4GucKa1of13sGhpNvKkSBDrhZSrcG53FJsPKJguHNThZK130Ku7Fjz6i1eFXP4Hx__9KoHxiv0gBT1LAomQr0exe44OnZkJjyIhv2X5hIA-rZAiu1AFLSUXAJSjb6DhF3DqQGx-XBkup8rwwonKFLCeWbNHrS3r2rm/s1600/lite.png"
+    },
+    {
+      "id": "a07214e0c60f8ee343d734f50d4e814c",
+      "title": "Cyberattaque Tchap : un pirate s’est introduit sur la messagerie chiffrée de l’État",
+      "link": "https://www.it-connect.fr/cyberattaque-tchap-un-pirate-sest-introduit-sur-la-messagerie-chiffree-de-letat/",
+      "summary": "Tchap, la messagerie instantanée réservée aux agents publics français a été la cible d'une intrusion suite à la compromission du compte d'un agent. Le post Cyberattaque Tchap : un pirate s’est introduit sur la message...",
+      "published": "2026-06-09T06:04:47+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "75f0f0772197de9661e54c0f088ce2dc",
       "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
@@ -113,6 +193,26 @@
       "image": ""
     },
     {
+      "id": "09616b279113b3dcfa8906b978d8348c",
+      "title": "Un clone de DOOM en COBOL ça vous dit ?",
+      "link": "https://korben.info/un-clone-de-doom-en-cobol-ca-vous-dit.html",
+      "summary": "Un développeur connu sous le pseudonyme icitry s'est posé une question que personne de sensé ne formule jamais, peut-on coder un jeu de tir à la première personne en COBOL ? La réponse, contre toute attente, est oui, ...",
+      "published": "2026-06-08T16:17:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-clone-de-doom-en-cobol-ca-vous-dit/un-clone-de-doom-en-cobol-ca-vous-dit-1.jpg"
+    },
+    {
+      "id": "e6b46ac837e9403bd0ebdf2bad51c86f",
+      "title": "Test du Leap Nova de chez Strong - Google TV pour réveiller votre vieille téloche",
+      "link": "https://korben.info/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche.html",
+      "summary": "– Contient des liens affiliés Amazon – Mon problème de départ était tout bête, je voulais lancer GeForce Now, le service de Nvidia qui fait tourner des jeux à distance sans grosse machine, directement sur ma télé LG O...",
+      "published": "2026-06-08T16:00:07+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche-1.jpeg"
+    },
+    {
       "id": "286e0441ce766233d866d49312e34c98",
       "title": "Critical UniFi OS bug lets hackers gain root without authentication",
       "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
@@ -131,6 +231,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "782efb4dad1376ebf95f9e8f5e4caae6",
+      "title": "Signal, DuckDuckGo et NordVPN menacent de quitter le Canada à cause d'une loi sur la surveillance",
+      "link": "https://korben.info/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance.html",
+      "summary": "Le Canada planche sur un projet de loi, le C-22, qui obligerait les services numériques à conserver pendant un an les métadonnées de leurs utilisateurs, c'est-à-dire pas le contenu de vos messages mais qui vous contac...",
+      "published": "2026-06-08T15:08:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance-1.jpg"
     },
     {
       "id": "88c839a6c55e614ead3bcdb878638fe7",
@@ -173,16 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpRME_50jfgFZwHR0bIcYNE3-253LUHG3foA4Xd2IPQ0LCvXI4-_cLxJ-m8erh3Zof0ZY0pMOculHNwlSGAiUnwaL2H2DoXC9aKTehIh_R4vI66aZTzo00jj-hWlZ1lXtuDbDBWROGfTI4tH8G8Mb8cOlqBJLtG2l6bQS62hZlKlEt5qcLaEwsO_RhO4k/s1600/cybersecurity-recap.jpg"
     },
     {
-      "id": "88e466495c3b2c0b0c6a797e71181f25",
-      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-      "summary": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
-      "published": "2026-06-08T13:05:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "af673f14b4911c495b05124fc463bb46",
       "title": "The Hardest Fork",
       "link": "https://thehackernews.com/2026/06/the-hardest-fork.html",
@@ -191,16 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnMnAqwiH7Dgv_dmF2bugYLlu8uMyFQkl7DseYkwwzl5MzUP-KeplSbGg_aNt_OqIDtT5rLyDO_Ea96Hf_uti0eKVIseQTxtS7zt-WQksEp8c4V50Hdq0kWqWjvyOVMHVlbMo1gagsSGu4lmdhlm1NSLQLp9QZVohv74jIWehnGY-l_PAPYzUvtITBMs/s1600/fork.jpg"
-    },
-    {
-      "id": "a0ac83a8d9ffd03d6c3c998f74577157",
-      "title": "Oxford University discloses data breach after careers platform hack",
-      "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-      "summary": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
-      "published": "2026-06-08T11:14:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "c2f37682f146dcb2f79f8f15a3d5acb2",
@@ -223,6 +313,36 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni0Ay24Jcfz-LCxqQ8xD9rJais13OOnt5cfz9XtZY-4LzlGgyVY9S2Cu7V0Uo9JMjIxfyTMk8oOeaPHcIkkYnw4RMiLgYFuiS2CyHd9JAihJsC7SQ-wtm8K545YuACojNwKRfsYBXLWe8s3u1evEVjyGLI2WM9KwAYyWur_XrpPfQRF8s4CzXP8c_OU01/s1600/chinese.jpg"
     },
     {
+      "id": "8905c6de0da31bdee91d796d1a0e97dd",
+      "title": "OpenAI ajoute un \"mode confinement\" à ChatGPT pour bloquer les injections de prompt",
+      "link": "https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html",
+      "summary": "ChatGPT a gagné un réglage qui ne plaira pas à tout le monde. Un \"mode confinement\", Lockdown Mode dans le texte, qui débranche volontairement une partie des fonctions de l'assistant pour réduire le risque de fuite de...",
+      "published": "2026-06-08T09:45:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt-1.jpg"
+    },
+    {
+      "id": "9b08a5fde951337fcd67e33ed8c4ed09",
+      "title": "Encore un zero-day chez Cisco, exploité en ce moment même et toujours sans correctif",
+      "link": "https://korben.info/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif.html",
+      "summary": "Le Catalyst SD-WAN Manager de Cisco, anciennement appelé vManage, c'est la salle de contrôle depuis laquelle une grande entreprise règle, surveille et met à jour à distance le réseau entier qui relie ses dizaines d'ag...",
+      "published": "2026-06-08T09:35:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif-1.jpg"
+    },
+    {
+      "id": "efbcaa25cd1794dadad59518351fb85d",
+      "title": "Mindwtr - Une app GTD libre qui tourne partout",
+      "link": "https://korben.info/mindwtr-gtd-open-source-multiplateforme.html",
+      "summary": "Des apps de todo qui se réclament de la mouvance GTD , y'en a des centaines ! Mais des apps qui appliquent vraiment la méthode de David Allen de bout en bout, et qui en plus sont libres, locales, et qui tournent sur t...",
+      "published": "2026-06-08T07:41:35+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mindwtr-gtd-open-source-multiplateforme/mindwtr-gtd-open-source-multiplateforme-1.jpg"
+    },
+    {
       "id": "38ab7398bcd330ff029372d57bf9d050",
       "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
       "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
@@ -241,6 +361,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "6e30e4ce7a27cadebadd6af96c967600",
+      "title": "FixMyCV - Faites relire votre CV par des recruteurs IA",
+      "link": "https://korben.info/fixmycv-analyse-ia-cv-junior-it-gratuit.html",
+      "summary": "Chercher un job dans l'IT en ce moment, faut le savoir, c'est rude. Vous balancez votre CV, et très souvent c'est un logiciel à la con qui passe dessus avant même le moindre humain, le décortique, le classe, et s'il l...",
+      "published": "2026-06-08T07:08:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fixmycv-analyse-ia-cv-junior-it-gratuit/fixmycv-analyse-ia-cv-junior-it-gratuit-1.jpg"
     },
     {
       "id": "78745e075c4cffd418761c0a5bdee575",
@@ -268,36 +398,6 @@
       "link": "https://www.it-connect.fr/comment-les-tres-petites-entreprises-gerent-elles-leurs-rendez-vous-en-ligne-sans-infrastructure-informatique/",
       "summary": "Pour les TPE, la réservation en ligne via SaaS simplifie la gestion: planning centralisé, rappels et paiement anticipé, sans infra lourde. Le post Comment les très petites entreprises gèrent-elles leurs rendez-vous en...",
       "published": "2026-06-08T03:55:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "34ee4a9c4286761906e4b3892f422950",
-      "title": "WinCalls : l’appli mobile qui bloque les démarcheurs à votre place",
-      "link": "https://www.it-connect.fr/wincalls-lappli-mobile-qui-bloque-les-demarcheurs-a-votre-place/",
-      "summary": "Marre des appels spam sur votre téléphone ? WinCalls bloque les arnaques et le démarchage téléphonique de façon automatique et efficace sur Android. Le post WinCalls : l’appli mobile qui bloque les démarcheurs à votre...",
-      "published": "2026-06-06T17:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cb1a6ca2a610ea2806bf94a76b55a110",
-      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
-      "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people an...",
-      "published": "2026-06-06T13:36:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg"
-    },
-    {
-      "id": "467de79622392a7888bdf307ea7c954f",
-      "title": "Trafic Internet : les robots ont officiellement dépassé les humains selon Cloudflare",
-      "link": "https://www.it-connect.fr/trafic-internet-les-robots-ont-officiellement-depasse-les-humains-selon-cloudflare/",
-      "summary": "Pour la première fois de l'histoire d'Internet, le trafic généré par les bots a officiellement dépassé celui des humains, d'après les stats Cloudflare. Le post Trafic Internet : les robots ont officiellement dépassé l...",
-      "published": "2026-06-05T16:30:40+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
