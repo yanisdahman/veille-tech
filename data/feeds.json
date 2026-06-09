@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-06-09T14:44:07.512158+00:00",
+  "last_updated": "2026-06-09T20:04:03.021855+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "5879fa454d25f373fec4efb8463a1d6b",
+      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]",
+      "published": "2026-06-09T19:36:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "89fe2c45a97e4788402dd06f7ddc92d9",
+      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates t...",
+      "published": "2026-06-09T18:35:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f7d5968e7e560f55ca59a8891b182f35",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "2026-06-09T17:57:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6bbdb89d40ed34e9b0d7c1a74e397e3a",
+      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "2026-06-09T17:32:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d9af2bdb8f5964dcaf6fcf6f9099c2ab",
+      "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
+      "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
+      "summary": "Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads. \"Busin...",
+      "published": "2026-06-09T17:03:58+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQhSgYELKe_2HC7BB5NcjkNvIdsBgzfzSoH7tF0EmyFq9_vXEMFYWH9cczwGUWAxITkKt0TCwTLTyeIz82mfdCBmT1Hez5SO6z5zNEmx-laLfzVEy323arr0yCMHhTWv7igdUMtmriAIGIcIcjhaXfId5iCpwUSQxEaFMP0DqA5Oov8KyEFqoWWKgh21d/s1600/facebook.jpg"
+    },
+    {
+      "id": "4825a8548849f1fa6d85f2710d6c0933",
+      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
+      "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
+      "summary": "Veeam has released security patches to address a critical flaw in its Backup & Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 ...",
+      "published": "2026-06-09T16:39:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIM_y_SajgbuzxJeP8uc2J0ZdX_6Izzhyphenhypheny9PANPhj_Ci0ylC6gnMhvvgeCzMT_AGAQDcAaKpyj_auV5wD8iTtvcfKocAwD61XRdHarhEVyMi9qlmE4aN1wgPOBFP8dH2SWiQh2OPuXY1kAajjypM-Jr1UUpJ_e6L9NInsVJ1qK4nlUFV0zJlR6kn9clw4/s1600/veeam.jpg"
+    },
+    {
+      "id": "c5e4743b1cc70131074294c8988f7d80",
+      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+      "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information steale...",
+      "published": "2026-06-09T16:34:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg"
+    },
+    {
+      "id": "e835ecc17e8efafac1cb2c08821cbc00",
+      "title": "GitHub désactive 73 dépôts Microsoft en 105 secondes pour stopper le ver Miasma",
+      "link": "https://korben.info/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma.html",
+      "summary": "GitHub a désactivé 73 dépôts appartenant à Microsoft en l'espace de 105 secondes, le temps de couper la propagation d'un ver baptisé Miasma. Un ver, vous le savez, c'est ce genre de logiciel malveillant qui se recopie...",
+      "published": "2026-06-09T16:21:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma-1.jpg"
+    },
+    {
+      "id": "4929fb005f559d126d72aee7b860f62f",
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live...",
+      "published": "2026-06-09T16:16:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9c6dc73edd4e67c11b6ca873df71ef5e",
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "summary": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
+      "published": "2026-06-09T15:42:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5c2b8a92b49fe40ecfde17d4ec905066",
+      "title": "Pocket World - Avions, navires, radios et météo sur un globe 3D",
+      "link": "https://korben.info/pocket-world-globe-3d-tracker-temps-reel.html",
+      "summary": "Vous avez déjà tous joué avec Flightradar pour pister un vol, ou cliqué au pif sur un globe terrestre pour écouter une radio FM brésilienne . Hé bien Pocket World , c'est un peu tout ça en même temps, plus la météo, l...",
+      "published": "2026-06-09T14:42:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pocket-world-globe-3d-tracker-temps-reel/pocket-world-globe-3d-tracker-temps-reel-1.jpeg"
+    },
+    {
+      "id": "a058831fac8952fdfc1fccb9e097a1d8",
+      "title": "Let's Encrypt - Les sanctions US s'invitent dans le contrat",
+      "link": "https://korben.info/lets-encrypt-v17-subscriber-agreement.html",
+      "summary": "Si vous êtes développeur en Iran, à Cuba ou en Corée du Nord, vous venez officiellement de perdre l'accès à Let's Encrypt ! En effet, la version 1.7 du Subscriber Agreement publiée par l'ISRG (Internet Security Resear...",
+      "published": "2026-06-09T14:32:39+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/lets-encrypt-v17-subscriber-agreement/lets-encrypt-v17-subscriber-agreement-1.png"
+    },
     {
       "id": "e1c25d4801758f88069b1a70f72730e7",
       "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
@@ -203,56 +323,6 @@
       "image": ""
     },
     {
-      "id": "75f0f0772197de9661e54c0f088ce2dc",
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
-      "published": "2026-06-08T22:11:58+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b345ab9d8bfd507499c1b058b4eedb93",
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
-      "published": "2026-06-08T21:55:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b4639bcf7e9dd5d9456479579af60d7e",
-      "title": "New Apple feature automatically changes your compromised passwords",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-      "summary": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
-      "published": "2026-06-08T21:03:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "95e6516b4a567895f9825affa494c257",
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
-      "published": "2026-06-08T20:41:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c4da432e2312b6293a149fce9f4f73f4",
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
-      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in t...",
-      "published": "2026-06-08T20:17:39+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA8UsvPZqRGiHkumM_jxIGyax3NmK9lBR-XAaVK3Stujz8_bExONh9gAroIEXnLQo9KaXb2MpyZsqb2kcfaUxNJJtFhiSpCZjHDzOtgt-sZczb2rx2eRi-rqMiqFtfs0lq6iqJd74J3aoFRN-azg51ZhnQq84Ve1y_-AMXudSuiePM0mi1UHwTh0MHtIE/s1600/linux.jpg"
-    },
-    {
       "id": "ba77b3437f0cfbce3ba490894091be8d",
       "title": "Ces trois failles offrent un accès root sur UniFi OS Server : patchez !",
       "link": "https://www.it-connect.fr/ces-trois-failles-offrent-un-acces-root-sur-unifi-os-server-patchez/",
@@ -260,16 +330,6 @@
       "published": "2026-06-08T18:59:26+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e0b7f1e492530eb992a566861c9123b7",
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-      "published": "2026-06-08T18:40:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -283,16 +343,6 @@
       "image": ""
     },
     {
-      "id": "cde0e1a9dde3f6b35622331e90dec105",
-      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
-      "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
-      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for viola...",
-      "published": "2026-06-08T17:08:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi00ODwGXyrxQobZ30bAt_HwwRgLni-5_Dc77J-cG8lFCYonl0IGGu3s-tgpNHst6AZOwL1guVsSL02yuQN_4C1SiEBU9jRyBh5rIgPTSRvNkCO0m29zZidWMKb4ymvRZYl6SCD-sXatYAnebdLgtVxiFFHAEJGO6RhlbuGT9iRJbuPuzprB9NthxiuLBXh/s1600/whatsapp.jpg"
-    },
-    {
       "id": "a50211ce59721171a36b38ff8e236c41",
       "title": "PowerBgInfo : personnalisez le fond d’écran des serveurs avec PowerShell",
       "link": "https://www.it-connect.fr/powerbginfo-personnalisez-le-fond-decran-des-serveurs-avec-powershell/",
@@ -303,36 +353,6 @@
       "image": ""
     },
     {
-      "id": "c80c1e61c4eb6c713b1cefa5518c8bc2",
-      "title": "Gogs patches critical zero-day enabling remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
-      "published": "2026-06-08T16:18:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "09616b279113b3dcfa8906b978d8348c",
-      "title": "Un clone de DOOM en COBOL ça vous dit ?",
-      "link": "https://korben.info/un-clone-de-doom-en-cobol-ca-vous-dit.html",
-      "summary": "Un développeur connu sous le pseudonyme icitry s'est posé une question que personne de sensé ne formule jamais, peut-on coder un jeu de tir à la première personne en COBOL ? La réponse, contre toute attente, est oui, ...",
-      "published": "2026-06-08T16:17:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-clone-de-doom-en-cobol-ca-vous-dit/un-clone-de-doom-en-cobol-ca-vous-dit-1.jpg"
-    },
-    {
-      "id": "e6b46ac837e9403bd0ebdf2bad51c86f",
-      "title": "Test du Leap Nova de chez Strong - Google TV pour réveiller votre vieille téloche",
-      "link": "https://korben.info/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche.html",
-      "summary": "– Contient des liens affiliés Amazon – Mon problème de départ était tout bête, je voulais lancer GeForce Now, le service de Nvidia qui fait tourner des jeux à distance sans grosse machine, directement sur ma télé LG O...",
-      "published": "2026-06-08T16:00:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche-1.jpeg"
-    },
-    {
       "id": "6b9217d4720a64e83316feea71bbe7d9",
       "title": "Plus de 20 000 comptes Instagram piratés à cause d’une faille dans un outil de support !",
       "link": "https://www.it-connect.fr/plus-de-20-000-comptes-instagram-pirates-a-cause-dune-faille-dans-un-outil-de-support/",
@@ -341,26 +361,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "782efb4dad1376ebf95f9e8f5e4caae6",
-      "title": "Signal, DuckDuckGo et NordVPN menacent de quitter le Canada à cause d'une loi sur la surveillance",
-      "link": "https://korben.info/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance.html",
-      "summary": "Le Canada planche sur un projet de loi, le C-22, qui obligerait les services numériques à conserver pendant un an les métadonnées de leurs utilisateurs, c'est-à-dire pas le contenu de vos messages mais qui vous contac...",
-      "published": "2026-06-08T15:08:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance-1.jpg"
-    },
-    {
-      "id": "88c839a6c55e614ead3bcdb878638fe7",
-      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-      "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerabil...",
-      "published": "2026-06-08T14:17:39+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYhQjzMpxYhylqWwtRqt0p7upc-fSMohRLJs5lRSXUg51_lrzt63JYz0K9zo2V7Rl9yCOMpQk6YFBfTdE1CuSuFYGA3odGeHu3mIV-LY_JHWyIx7g32NPOx1tuSZ-ZIMasTT5S-43DoYHEpCTykl4E4TfyXw89HksiOppUEMp5ganCT27SF0xu7noBUQ5i/s1600/checkpoint.jpg"
     },
     {
       "id": "c2f37682f146dcb2f79f8f15a3d5acb2",
