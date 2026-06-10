@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-06-10T15:27:06.737469+00:00",
-  "count": 40,
+  "last_updated": "2026-06-10T20:26:23.995065+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "9b61e969f1de8269ca73708a2bf6ebea",
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
+      "published": "2026-06-10T19:41:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7a2ffdc1e84d714a696e0bdd1be17b0c",
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "summary": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
+      "published": "2026-06-10T18:31:57+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f7e7d468af7210fbedefcf347d48b054",
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and hom...",
+      "published": "2026-06-10T16:08:42+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png"
+    },
+    {
+      "id": "468199d4e19f6451e44420b513fe1052",
+      "title": "Un ver informatique qui raisonne tout seul",
+      "link": "https://korben.info/un-ver-informatique-qui-raisonne-tout-seul.html",
+      "summary": "La crainte n'est pas neuve. Mais cette fois la démonstration existe : une équipe réunissant l'université de Toronto, le Vector Institute, l'université de Cambridge et la division recherche de ServiceNow a dévoilé un l...",
+      "published": "2026-06-10T15:50:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-ver-informatique-qui-raisonne-tout-seul/un-ver-informatique-qui-raisonne-tout-seul-1.jpg"
+    },
+    {
+      "id": "e21db2304b862d4aa24d1c34bc4d9367",
+      "title": "Siri IA bloqué en Europe : Bruxelles renvoie Apple à ses responsabilités",
+      "link": "https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites.html",
+      "summary": "La Commission européenne vient de couper l'herbe sous le pied d'Apple en affirmant que la décision de ne pas lancer le nouveau Siri dopé à l'intelligence artificielle dans l'Union est le choix d'Apple, et de personne ...",
+      "published": "2026-06-10T15:38:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites-1.webp"
+    },
+    {
+      "id": "cea8864a39446bc7a119f79311d9e18a",
+      "title": "L'IOCCC 2025 couronne le code C le plus illisible du monde",
+      "link": "https://korben.info/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde.html",
+      "summary": "Faire tourner Tetris sur un émulateur Game Boy dont le code source tient dans moins de 5 ko de C volontairement incompréhensible, voilà le genre de prouesse que célèbre l'IOCCC, le concours international de code C obf...",
+      "published": "2026-06-10T15:23:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde-1.jpg"
+    },
+    {
+      "id": "3e49862488c9d9a0ec9213c02a5bb679",
+      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+      "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by For...",
+      "published": "2026-06-10T15:10:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2l0GUUy91D4hHU067eYWpRzvSJGcfOkHce2jcVXZGWI9sld0hgaomhoKTc3dYEXEbz05oZQ5mFzo34eXp-wNJ2j_ofUjXjR7ZR5obszwH7bCRRmah9Q9HY3RSDrwrAf8QD162ca7nvxTRELWzcVW8AbbVMpXJfHXtaYEiSxXAw49VpCG8ep33SbGeLSF/s1600/ivanti.jpg"
+    },
+    {
+      "id": "f30b8a144d49aaa196b19aa80cd2d63a",
+      "title": "Chrome débranche les dernières combines qui faisaient survivre uBlock Origin",
+      "link": "https://korben.info/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin.html",
+      "summary": "Google ferme les dernières portes. À partir de fin juin, avec Chrome 150 ou 151, les combines qui permettaient encore de garder uBlock Origin en vie dans le navigateur vont sauter une à une, et avec elles à peu près t...",
+      "published": "2026-06-10T15:03:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin-1.png"
+    },
+    {
+      "id": "47496bcca9d5f821f957654f8ffc211d",
+      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+      "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from Vuln...",
+      "published": "2026-06-10T15:00:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidDfz-Q5s2ON-nc6gW-4Lgw1yMocr3YiLP82vXcoWHcs6-_ICHWHZsciCnM2aU4kBZ2yyCJ622deCwKAXZdOFVyIoG41JC7SHyXIG6soj-RrFySsKHp2N51PpbGb7LxJWXvqOXE6GTap75h_QIjH78l0Ys__M_4EtgxMgymWgCS1vfdmWmwgpkW1TIq61I/s1600/lang.png"
+    },
     {
       "id": "31924abc69046b24b2c809d79031e218",
       "title": "China-linked JDY botnet expands targeting of U.S. military networks",
@@ -11,6 +101,26 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "994c7bf91e667bee0f4234f7fbb82342",
+      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The list of v...",
+      "published": "2026-06-10T14:44:29+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyS_5xYGR8v-Lv2x6gLklggySrwxfhnOTIwaLNXWT0xCUHcG8742JNest-ScZPBIUEqChp4KxYPdOnrWOJUJ-Dcv1VYYBOGY6eMYgwOw5tIxBxD2RPbFM-xR05SpacfiwmIKeL6jAFpw8PScLXjV_gR9ZNRqQ8HmsOBAbom73N_i3JRkAsf-dZVoBpGVlI/s1600/cisaa.jpg"
+    },
+    {
+      "id": "63835f8f43417c8be66d365bae61034d",
+      "title": "Anthropic met entre toutes les mains un modèle qu'elle jugeait trop dangereux à publier il y a deux mois",
+      "link": "https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois.html",
+      "summary": "Voilà autre chose dites donc. En avril, Anthropic, le concurrent direct d'OpenAI et créateur de l'assistant Claude, dévoilait Mythos, un modèle d'intelligence artificielle tellement doué pour dénicher et exploiter des...",
+      "published": "2026-06-10T14:25:58+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois-1.jpg"
     },
     {
       "id": "e31527f23c918fbffbb503fe783baf01",
@@ -71,6 +181,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "83c478d4c9c4c2b4cb733fab09dc572d",
+      "title": "Green Bank - La ville « sans ondes » qui écoute l'univers",
+      "link": "https://korben.info/green-bank-zone-sans-ondes-radio.html",
+      "summary": "Aujourd'hui je suis tombé sur une story Instagram d' Artisan de demain qui parlait d'un truc qui m'a plutôt intrigué. En fait, quelque part en Virginie-Occidentale, il existerait une ville qui vit « sans ondes électro...",
+      "published": "2026-06-10T12:09:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/green-bank-zone-sans-ondes-radio/green-bank-zone-sans-ondes-radio-1.jpg"
     },
     {
       "id": "03af156aac9efb33f99b59a82d8c00a1",
@@ -153,6 +273,16 @@
       "image": ""
     },
     {
+      "id": "26971497d63097f350acf36f6584c6d4",
+      "title": "eSpectre - Quand votre Wi-Fi détecte les mouvements sans caméra",
+      "link": "https://korben.info/espectre-detection-mouvement-wifi-esp32.html",
+      "summary": "C'est toujours un peu magique, ces histoires d'ondes radio. On sait par exemple que notre box Wi-Fi \"voit\" déjà quand on traverse le salon, sauf que jusqu'ici, personne ne l'écoutait vraiment. Mais j'ai découvert qu'o...",
+      "published": "2026-06-10T08:01:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/espectre-detection-mouvement-wifi-esp32/espectre-detection-mouvement-wifi-esp32-1.png"
+    },
+    {
       "id": "ee2ed4455d6d2e136583246267999d81",
       "title": "Protéger ses cryptoactifs : adoptez les bons réflexes",
       "link": "https://www.it-connect.fr/proteger-ses-cryptoactifs-adoptez-les-bons-reflexes/",
@@ -161,6 +291,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "3a94cd8c1929495fdcf31d5da644731e",
+      "title": "Apple Container 1.0 - Le WSL du Mac est enfin là",
+      "link": "https://korben.info/apple-container-machines-linux-mac.html",
+      "summary": "Quand on est habitué à Linux et qu'on se retrouve avec un Mac, même si c'est une base unix, c'est déroutant. Heureusement, Apple est de plus en plus ouvert au monde du libre et vient de publier la version 1.0 de Conta...",
+      "published": "2026-06-10T07:43:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/apple-container-machines-linux-mac/apple-container-machines-linux-mac-1.jpg"
     },
     {
       "id": "b0434aacec54021b3aa879962f0527c6",
@@ -183,6 +323,16 @@
       "image": ""
     },
     {
+      "id": "fb9314d28f027993d8cce3bf1d69fdc9",
+      "title": "iOS 27 : votre iPhone va se connecter tout seul à vos comptes pour réparer vos mots de passe pourris",
+      "link": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris.html",
+      "summary": "À la WWDC 2026, Apple a survolé la nouveauté en quelques secondes. Dans iOS 27, l'app Mots de passe ne se contente plus de signaler vos identifiants vulnérables, elle les remplace toute seule, en se rendant sur chaque...",
+      "published": "2026-06-10T07:09:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris-1.jpg"
+    },
+    {
       "id": "4c14751f8755dbb3e358ee7fe263fc54",
       "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
       "link": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
@@ -191,6 +341,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdoQ33nXrsmYyHLAdeWHw4nf5zrUhZhVi755NnYVGzkyNPbpR60m4Rt6w8JiKdPuXgn1Md6_nu253LeMjXG7VyEZcBWMaE-ST8lN8P8QqtACeftxFrV3nyIoF8TEHzX6m2sqjiv6KFz4_4eZoddHKWQYVSQgagI4oW_NcdjcnYrWyNPBbq05O7hdE8zZoj/s1600/servicenow.jpg"
+    },
+    {
+      "id": "2608e40ab3bae803ff3bd78dc24d3299",
+      "title": "Goddard, le chien robot de Jimmy Neutron, existe maintenant en vrai",
+      "link": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai.html",
+      "summary": "Une créatrice connue sous le pseudo de Kiara a reconstruit Goddard, le chien mécanique du dessin animé Jimmy Neutron, en taille réelle et en version qui bouge pour de bon. Pour ceux qui n'ont pas grandi avec la série,...",
+      "published": "2026-06-10T06:52:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai-1.jpg"
     },
     {
       "id": "ceebaf82d917c858c60f987dd1465fca",
@@ -241,66 +401,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "65f544d3498efb32c0ba6f18c3bd01ec",
-      "title": "ServiceNow discloses security incident exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-      "summary": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
-      "published": "2026-06-09T21:34:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e6a39fede0fc8bfa43affbec07334dd4",
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "summary": "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
-      "published": "2026-06-09T21:20:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d9af2bdb8f5964dcaf6fcf6f9099c2ab",
-      "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
-      "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
-      "summary": "Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads. \"Busin...",
-      "published": "2026-06-09T17:03:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQhSgYELKe_2HC7BB5NcjkNvIdsBgzfzSoH7tF0EmyFq9_vXEMFYWH9cczwGUWAxITkKt0TCwTLTyeIz82mfdCBmT1Hez5SO6z5zNEmx-laLfzVEy323arr0yCMHhTWv7igdUMtmriAIGIcIcjhaXfId5iCpwUSQxEaFMP0DqA5Oov8KyEFqoWWKgh21d/s1600/facebook.jpg"
-    },
-    {
-      "id": "4825a8548849f1fa6d85f2710d6c0933",
-      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
-      "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-      "summary": "Veeam has released security patches to address a critical flaw in its Backup & Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 ...",
-      "published": "2026-06-09T16:39:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIM_y_SajgbuzxJeP8uc2J0ZdX_6Izzhyphenhypheny9PANPhj_Ci0ylC6gnMhvvgeCzMT_AGAQDcAaKpyj_auV5wD8iTtvcfKocAwD61XRdHarhEVyMi9qlmE4aN1wgPOBFP8dH2SWiQh2OPuXY1kAajjypM-Jr1UUpJ_e6L9NInsVJ1qK4nlUFV0zJlR6kn9clw4/s1600/veeam.jpg"
-    },
-    {
-      "id": "c5e4743b1cc70131074294c8988f7d80",
-      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-      "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information steale...",
-      "published": "2026-06-09T16:34:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg"
-    },
-    {
-      "id": "b78163bca03fa7b2da9755af396702f6",
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been a...",
-      "published": "2026-06-09T12:26:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdAzGyUad4rioCXpoCvPwiGqto_MgCesTBLTn-1uBtWpWAXB99KN0xiE1oIqwDbVi_vkFDnn05XOxwH3WYjLkPNDykxieuftfe-wLFibGL1o8iiUuGfhiG5yYS7KXBV3gvdIYk5PFCurpn0-L77hajka35iE_a-JxWCaYeKc2Yej1gQrkcrQ61ijTm4HS/s1600/winrar-exploit.jpg"
     },
     {
       "id": "ebf96dcf0d211d12b0915dbe92de85e3",
