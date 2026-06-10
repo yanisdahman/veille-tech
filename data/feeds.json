@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-06-10T09:53:53.514229+00:00",
-  "count": 50,
+  "last_updated": "2026-06-10T15:27:06.737469+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "31924abc69046b24b2c809d79031e218",
+      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+      "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+      "published": "2026-06-10T15:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e31527f23c918fbffbb503fe783baf01",
+      "title": "Coupe du Monde 2026 & mots de passe thématiques : vos utilisateurs sont-ils hors-jeu ?",
+      "link": "https://www.it-connect.fr/coupe-du-monde-2026-mots-de-passe-thematiques-vos-utilisateurs-sont-ils-hors-jeu/",
+      "summary": "Football et mots de passe : découvrez pourquoi les noms de joueurs et clubs facilitent le guessing et comment prévenir ce risque dans l'Active Directory. Le post Coupe du Monde 2026 & mots de passe thématiques : vos u...",
+      "published": "2026-06-10T14:16:52+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "48d17960205a0fe0c4a43101c62c151f",
+      "title": "Windows 11 KB5094126 : beaucoup de nouveautés avec la mise à jour de juin 2026",
+      "link": "https://www.it-connect.fr/windows-11-kb5094126-nouveautes-mise-a-jour-juin-2026/",
+      "summary": "KB5094126 et KB5093998 : voici les deux nouvelles mises à jour de juin 2026 publiées par Microsoft pour les machines sous Windows 11 24H2, 25H2 et 23H2. Le post Windows 11 KB5094126 : beaucoup de nouveautés avec la mi...",
+      "published": "2026-06-10T14:12:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2c78eec5399ac26062b9dc3b736e3a11",
+      "title": "Windows 10 KB5094127 : le point sur la mise à jour ESU de juin 2026",
+      "link": "https://www.it-connect.fr/windows-10-kb5094127-le-point-sur-la-mise-a-jour-esu-de-juin-2026/",
+      "summary": "Mardi 9 juin 2026, la mise à jour ESU de juin 2026 pour Windows 10 a été publiée par Microsoft : KB5094127. Voici les nouveautés de cette mise à jour. Le post Windows 10 KB5094127 : le point sur la mise à jour ESU de ...",
+      "published": "2026-06-10T14:11:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "58cfd70df232b728abf8d18aad6cd082",
+      "title": "The 5 Best Practices for Secure Identity Verification",
+      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+      "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and acce...",
+      "published": "2026-06-10T14:05:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3aa690b311655f50eedc80067c748e8a",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+      "published": "2026-06-10T13:44:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6f537374323e6bf925ff51f3029708ee",
+      "title": "Patch Tuesday – Juin 2026 : 200 failles de sécurité patchées, dont 3 zero-day",
+      "link": "https://www.it-connect.fr/patch-tuesday-juin-2026-200-failles-de-securite-patchees-dont-3-zero-day/",
+      "summary": "Le programme du Patch Tuesday de juin 2026 publié par Microsoft est très chargé : 200 failles de sécurité ont été corrigées, dont 3 failles zero-day. Le post Patch Tuesday – Juin 2026 : 200 failles de sécurité patchée...",
+      "published": "2026-06-10T13:24:48+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "03af156aac9efb33f99b59a82d8c00a1",
+      "title": "macOS 27 Golden Gate : Apple enterre les Mac Intel et dévoile Siri AI",
+      "link": "https://www.it-connect.fr/macos-27-golden-gate-apple-enterre-les-mac-intel-et-devoile-siri-ai/",
+      "summary": "Apple a dévoilé macOS 27 Golden Gate : cette nouvelle mise à jour majeure marque un tournant : les Mac avec des processeurs Intel ne pourront pas en profiter. Le post macOS 27 Golden Gate : Apple enterre les Mac Intel...",
+      "published": "2026-06-10T12:00:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8010344bddb4120138124180418b0b3b",
+      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+      "summary": "Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
+      "published": "2026-06-10T11:33:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f85d61da8f0be68e5a361d2253e48665",
+      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
+      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
+      "summary": "Your pentest report looks clean. That might be the problem. Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks stable. Leaders...",
+      "published": "2026-06-10T10:27:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD1olwyKxwxfkuyKu0JAUMudQZs0lycGOkWf3zBrMSYzJ_fuP7vUHclJrsZipKMxe1ldNNHE3llOH4B26Hk4f-noIzZnQMdBy9IGT_MkD903KCxvP0jOUr_AO2IBGZz-W-p-MLnoxDUVAz1myBaOUWeOpYQtlEYgdArjxpkxg6imCLUB9brmL3b6Vk1L4/s1600/picus-webinar.jpg"
+    },
+    {
+      "id": "0bd077c4430cf26287c4f2972079459d",
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+      "summary": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
+      "published": "2026-06-10T09:57:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "fb6215cf4a641ea0986c926b9dad53cd",
       "title": "Proton prépare un client Proton Drive natif pour Linux",
@@ -11,6 +121,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "dbb7d43ebd32d9b6d51c0558b77e438d",
+      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
+      "link": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
+      "summary": "Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release. Of the 206 flaws, 39 are ...",
+      "published": "2026-06-10T09:38:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDOIX9PorKjXDciuKmL8xLL9vrOVtBou5tBhn4T-u7cgllDKei3HRDr8vsXGM-MllL1eb6E_pdEID5s_sRUxbjHiA6AhlLUQLFi6vDXM5v0Mq0hM43eWSh8Pc_qdYtcjqushm7Wl-S64w6qEGg5P6ETD_o9l5VGGoflzGo3VpgFqmL9NhIe2RUuilVAB0c/s1600/windows-patch.jpg"
     },
     {
       "id": "d48c522c230bf4f8ef35dfe13690f447",
@@ -33,24 +153,14 @@
       "image": ""
     },
     {
-      "id": "26971497d63097f350acf36f6584c6d4",
-      "title": "eSpectre - Quand votre Wi-Fi détecte les mouvements sans caméra",
-      "link": "https://korben.info/espectre-detection-mouvement-wifi-esp32.html",
-      "summary": "C'est toujours un peu magique, ces histoires d'ondes radio. On sait par exemple que notre box Wi-Fi \"voit\" déjà quand on traverse le salon, sauf que jusqu'ici, personne ne l'écoutait vraiment. Mais j'ai découvert qu'o...",
-      "published": "2026-06-10T08:01:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/espectre-detection-mouvement-wifi-esp32/espectre-detection-mouvement-wifi-esp32-1.png"
-    },
-    {
-      "id": "3a94cd8c1929495fdcf31d5da644731e",
-      "title": "Apple Container 1.0 - Le WSL du Mac est enfin là",
-      "link": "https://korben.info/apple-container-machines-linux-mac.html",
-      "summary": "Quand on est habitué à Linux et qu'on se retrouve avec un Mac, même si c'est une base unix, c'est déroutant. Heureusement, Apple est de plus en plus ouvert au monde du libre et vient de publier la version 1.0 de Conta...",
-      "published": "2026-06-10T07:43:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/apple-container-machines-linux-mac/apple-container-machines-linux-mac-1.jpg"
+      "id": "ee2ed4455d6d2e136583246267999d81",
+      "title": "Protéger ses cryptoactifs : adoptez les bons réflexes",
+      "link": "https://www.it-connect.fr/proteger-ses-cryptoactifs-adoptez-les-bons-reflexes/",
+      "summary": "Vous êtes détenteur d’un portefeuille Crypto et vous vous rendez fréquemment sur des sites de trading : attention, un peu d'hygiène informatique s'impose ! Le post Protéger ses cryptoactifs : adoptez les bons réflexes...",
+      "published": "2026-06-10T08:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
     },
     {
       "id": "b0434aacec54021b3aa879962f0527c6",
@@ -73,16 +183,6 @@
       "image": ""
     },
     {
-      "id": "fb9314d28f027993d8cce3bf1d69fdc9",
-      "title": "iOS 27 : votre iPhone va se connecter tout seul à vos comptes pour réparer vos mots de passe pourris",
-      "link": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris.html",
-      "summary": "À la WWDC 2026, Apple a survolé la nouveauté en quelques secondes. Dans iOS 27, l'app Mots de passe ne se contente plus de signaler vos identifiants vulnérables, elle les remplace toute seule, en se rendant sur chaque...",
-      "published": "2026-06-10T07:09:42+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris-1.jpg"
-    },
-    {
       "id": "4c14751f8755dbb3e358ee7fe263fc54",
       "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
       "link": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
@@ -93,16 +193,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdoQ33nXrsmYyHLAdeWHw4nf5zrUhZhVi755NnYVGzkyNPbpR60m4Rt6w8JiKdPuXgn1Md6_nu253LeMjXG7VyEZcBWMaE-ST8lN8P8QqtACeftxFrV3nyIoF8TEHzX6m2sqjiv6KFz4_4eZoddHKWQYVSQgagI4oW_NcdjcnYrWyNPBbq05O7hdE8zZoj/s1600/servicenow.jpg"
     },
     {
-      "id": "2608e40ab3bae803ff3bd78dc24d3299",
-      "title": "Goddard, le chien robot de Jimmy Neutron, existe maintenant en vrai",
-      "link": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai.html",
-      "summary": "Une créatrice connue sous le pseudo de Kiara a reconstruit Goddard, le chien mécanique du dessin animé Jimmy Neutron, en taille réelle et en version qui bouge pour de bon. Pour ceux qui n'ont pas grandi avec la série,...",
-      "published": "2026-06-10T06:52:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai-1.jpg"
-    },
-    {
       "id": "ceebaf82d917c858c60f987dd1465fca",
       "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
       "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
@@ -111,16 +201,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "1844e2c4663a8aa0d48ed3d0cbcbc70d",
-      "title": "Claude FM - La radio lofi planquée dans Claude Code",
-      "link": "https://korben.info/claude-fm-radio-lofi-anthropic.html",
-      "summary": "Vous aimez bosser avec un petit fond sonore ? Et bien sachez qu'Anthropic diffuse désormais sa propre radio lofi sur YouTube, 24h sur 24. Ça s'appelle Claude FM et c'est même planqué dans Claude Code derrière la comma...",
-      "published": "2026-06-10T05:34:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/claude-fm-radio-lofi-anthropic/claude-fm-radio-lofi-anthropic-1.jpeg"
     },
     {
       "id": "42af76600e33f9a2bca16e9ca5f033e7",
@@ -183,46 +263,6 @@
       "image": ""
     },
     {
-      "id": "5879fa454d25f373fec4efb8463a1d6b",
-      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]",
-      "published": "2026-06-09T19:36:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "89fe2c45a97e4788402dd06f7ddc92d9",
-      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates t...",
-      "published": "2026-06-09T18:35:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f7d5968e7e560f55ca59a8891b182f35",
-      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
-      "published": "2026-06-09T17:57:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6bbdb89d40ed34e9b0d7c1a74e397e3a",
-      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "2026-06-09T17:32:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d9af2bdb8f5964dcaf6fcf6f9099c2ab",
       "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
       "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
@@ -253,66 +293,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg"
     },
     {
-      "id": "e835ecc17e8efafac1cb2c08821cbc00",
-      "title": "GitHub désactive 73 dépôts Microsoft en 105 secondes pour stopper le ver Miasma",
-      "link": "https://korben.info/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma.html",
-      "summary": "GitHub a désactivé 73 dépôts appartenant à Microsoft en l'espace de 105 secondes, le temps de couper la propagation d'un ver baptisé Miasma. Un ver, vous le savez, c'est ce genre de logiciel malveillant qui se recopie...",
-      "published": "2026-06-09T16:21:55+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma-1.jpg"
-    },
-    {
-      "id": "4929fb005f559d126d72aee7b860f62f",
-      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
-      "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
-      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live...",
-      "published": "2026-06-09T16:16:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5c2b8a92b49fe40ecfde17d4ec905066",
-      "title": "Pocket World - Avions, navires, radios et météo sur un globe 3D",
-      "link": "https://korben.info/pocket-world-globe-3d-tracker-temps-reel.html",
-      "summary": "Vous avez déjà tous joué avec Flightradar pour pister un vol, ou cliqué au pif sur un globe terrestre pour écouter une radio FM brésilienne . Hé bien Pocket World , c'est un peu tout ça en même temps, plus la météo, l...",
-      "published": "2026-06-09T14:42:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pocket-world-globe-3d-tracker-temps-reel/pocket-world-globe-3d-tracker-temps-reel-1.jpeg"
-    },
-    {
-      "id": "a058831fac8952fdfc1fccb9e097a1d8",
-      "title": "Let's Encrypt - Les sanctions US s'invitent dans le contrat",
-      "link": "https://korben.info/lets-encrypt-v17-subscriber-agreement.html",
-      "summary": "Si vous êtes développeur en Iran, à Cuba ou en Corée du Nord, vous venez officiellement de perdre l'accès à Let's Encrypt ! En effet, la version 1.7 du Subscriber Agreement publiée par l'ISRG (Internet Security Resear...",
-      "published": "2026-06-09T14:32:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lets-encrypt-v17-subscriber-agreement/lets-encrypt-v17-subscriber-agreement-1.png"
-    },
-    {
-      "id": "cc78caa433110b9ff371663f516976c4",
-      "title": "Lego Batman - Un easter egg Commodore 64 BASIC caché dedans",
-      "link": "https://korben.info/lego-batman-commodore-64-easter-egg.html",
-      "summary": "Cabel Sasser, le boss de Panic Inc. (les gars derrière Coda, Nova et la fameuse Playdate ), vient de tomber sur un easter egg complètement génial dans LEGO Batman: Legacy of the Dark Knight, le jeu sorti fin mai 2026....",
-      "published": "2026-06-09T14:13:17+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lego-batman-commodore-64-easter-egg/lego-batman-commodore-64-easter-egg-1.png"
-    },
-    {
-      "id": "576d626640e5fee37c3bb33b63e0304a",
-      "title": "Le compilateur JIT de Python est menacé, et pas pour une raison technique",
-      "link": "https://korben.info/le-compilateur-jit-de-python-est-menace-et-pas-pour-une-raison-technique.html",
-      "summary": "Le conseil de pilotage de Python, l'instance qui tranche les grandes décisions du langage, a demandé le 5 juin la suspension de tout nouveau développement sur son compilateur JIT. Un JIT (just-in-time), c'est un compi...",
-      "published": "2026-06-09T13:15:31+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-compilateur-jit-de-python-est-menace-et-pas-pour-une-raison-technique/le-compilateur-jit-de-python-est-menace-et-pas-pour-une-raison-technique-1.png"
-    },
-    {
       "id": "b78163bca03fa7b2da9755af396702f6",
       "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
       "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
@@ -323,181 +303,101 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdAzGyUad4rioCXpoCvPwiGqto_MgCesTBLTn-1uBtWpWAXB99KN0xiE1oIqwDbVi_vkFDnn05XOxwH3WYjLkPNDykxieuftfe-wLFibGL1o8iiUuGfhiG5yYS7KXBV3gvdIYk5PFCurpn0-L77hajka35iE_a-JxWCaYeKc2Yej1gQrkcrQ61ijTm4HS/s1600/winrar-exploit.jpg"
     },
     {
-      "id": "5f834f8cb470dfb9d8535097e4d55ceb",
-      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-      "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
-      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored att...",
-      "published": "2026-06-09T11:59:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2H1xd7_K6KgUGsDu0E9YGBOLVgXF4DX0rDhf_pUhDRujatedeTJFwy0e_JxsMGGpQB80HOn4wTXRSxCB2DrxNo0nHYVUJC2ehyphenhyphenum_Cyjg-5bVXOIuGahdDFIIa9NBleTGfYDXQuqf005BOME3HAXVxVQw1OXNJNZwpZ4Tgke2qUK2TITR0qFMgaAH8Mf9/s1600/worm.gif"
-    },
-    {
-      "id": "dc1b2039550e0d682ce54988d57d409d",
-      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
-      "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has ...",
-      "published": "2026-06-09T11:58:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg"
-    },
-    {
-      "id": "7c90f9c5113910213c4d8897f18584ed",
-      "title": "Vie privée : l’appli open source Loupe révèle le fingerprinting sur iPhone",
-      "link": "https://www.it-connect.fr/vie-privee-lappli-open-source-loupe-revele-le-fingerprinting-sur-iphone/",
-      "summary": "Loupe, l'application gratuite et open source pour iOS et iPadOS, révèle comment les apps tierces créent une empreinte numérique unique grâce aux API publiques. Le post Vie privée : l’appli open source Loupe révèle le ...",
-      "published": "2026-06-09T06:39:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a07214e0c60f8ee343d734f50d4e814c",
-      "title": "Cyberattaque Tchap : un pirate s’est introduit sur la messagerie chiffrée de l’État",
-      "link": "https://www.it-connect.fr/cyberattaque-tchap-un-pirate-sest-introduit-sur-la-messagerie-chiffree-de-letat/",
-      "summary": "Tchap, la messagerie instantanée réservée aux agents publics français a été la cible d'une intrusion suite à la compromission du compte d'un agent. Le post Cyberattaque Tchap : un pirate s’est introduit sur la message...",
-      "published": "2026-06-09T06:04:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ba77b3437f0cfbce3ba490894091be8d",
-      "title": "Ces trois failles offrent un accès root sur UniFi OS Server : patchez !",
-      "link": "https://www.it-connect.fr/ces-trois-failles-offrent-un-acces-root-sur-unifi-os-server-patchez/",
-      "summary": "CVE-2026-34908, CVE-2026-34909, et CVE-2026-34910 : exploitées ensemble, ces trois failles permettent d'exécuter du code en tant que root sur UniFi OS Server. Le post Ces trois failles offrent un accès root sur UniFi ...",
-      "published": "2026-06-08T18:59:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "183c79bff0e298df191fe0f9160208d7",
-      "title": "Vente spéciale GoDeal24 : Office 2024 à 16.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-licences-godeal24-windows-office-logiciels/",
-      "summary": "GoDeal24 a lancé une vente flash spéciale Mid-Year 2026 : des promos sur les tarifs des licences Windows 11, Office 2021, Office 2024 et Windows Server 2025. Le post Vente spéciale GoDeal24 : Office 2024 à 16.99€ et W...",
-      "published": "2026-06-08T18:00:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a50211ce59721171a36b38ff8e236c41",
-      "title": "PowerBgInfo : personnalisez le fond d’écran des serveurs avec PowerShell",
-      "link": "https://www.it-connect.fr/powerbginfo-personnalisez-le-fond-decran-des-serveurs-avec-powershell/",
-      "summary": "Cet article explique comment utiliser PowerBgInfo pour afficher l'état du système sur le fond d'écran des machines Windows et Windows Server via PowerShell. Le post PowerBgInfo : personnalisez le fond d’écran des serv...",
-      "published": "2026-06-08T16:57:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6b9217d4720a64e83316feea71bbe7d9",
-      "title": "Plus de 20 000 comptes Instagram piratés à cause d’une faille dans un outil de support !",
-      "link": "https://www.it-connect.fr/plus-de-20-000-comptes-instagram-pirates-a-cause-dune-faille-dans-un-outil-de-support/",
-      "summary": "Une faille de sécurité dans l'outil High Touch Support (HTS) de Meta a permis à des pirates de prendre le contrôle de plus de 20 000 comptes Instagram. Le post Plus de 20 000 comptes Instagram piratés à cause d’une fa...",
-      "published": "2026-06-08T15:11:05+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ca756a40c22195d63b2565c4239f4c46",
-      "title": "Vulnérabilité dans les produits Cisco (04 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0689/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).",
-      "published": "2026-06-04T00:00:00+00:00",
+      "id": "ebf96dcf0d211d12b0915dbe92de85e3",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-025 (08 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-025/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-06-08T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "b1ac9638157680c58a845ebe03d42464",
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0685/",
+      "id": "270af9a48f419f8cdeadd094f7e6d6eb",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (08 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0701/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-08T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "41d9853f975faec0e1f6304803f697cc",
+      "title": "Vulnérabilité dans Laravel (08 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0703/",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-06-08T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8c25324d41ef76eabae45dcd05e943aa",
+      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (05 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0693/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-03T00:00:00+00:00",
+      "published": "2026-06-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "5ad44d893cd021072f4313a46781a96c",
-      "title": "Multiples vulnérabilités dans Mozilla Firefox (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0684/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-03T00:00:00+00:00",
+      "id": "d99081aca8e87aa0f5a19c9c1e6cc895",
+      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (05 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0699/",
+      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer une élévation de privilèges. Cisco indique que la vulnérabilité CVE-2026-20245 est activement exploitée.",
+      "published": "2026-06-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "9958a70c37875b899055c3ece0a5e126",
-      "title": "Vulnérabilité dans HPE Aruba Networking AOS-CX (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0683/",
-      "summary": "Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-06-03T00:00:00+00:00",
+      "id": "ebd72b64f0508cd905eef448487dcdab",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (05 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0697/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des...",
+      "published": "2026-06-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "afe3add4796d7d8a15f3b22ea433aa6e",
-      "title": "Vulnérabilité dans les produits Laravel (03 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0682/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-06-03T00:00:00+00:00",
+      "id": "4d5c35c12928cd29ab2d7f57e2816daf",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (05 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0696/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
+      "published": "2026-06-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "6e722ab2df3cf11bcb3106da14a15d2e",
-      "title": "Multiples vulnérabilités dans Google Android (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0679/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une attei...",
-      "published": "2026-06-02T00:00:00+00:00",
+      "id": "df50eed92f7a715bd76a334ef8d96b4b",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (05 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0694/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données...",
+      "published": "2026-06-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "06197eca27c233a31db47550fdd468a2",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0681/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-02T00:00:00+00:00",
+      "id": "7cd017a25e5af8c2bb8ef00f3af7b178",
+      "title": "Multiples vulnérabilités dans les produits IBM (05 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0698/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-06-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "78c6aba211d8d128955c38fe4916745a",
-      "title": "Vulnérabilité dans Apache Kafka (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0678/",
-      "summary": "Une vulnérabilité a été découverte dans Apache Kafka. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "published": "2026-06-02T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "534ed8f8c4a1f5d7557eeb1ae9375e04",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (02 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0680/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-02T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4074914ebf79eb44acacf36da6628e92",
-      "title": "Multiples vulnérabilités dans MISP (30 avril 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0515/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
-      "published": "2026-04-30T00:00:00+00:00",
+      "id": "4484a1b64bb71c63b3ed923fd822336f",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (05 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0695/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteint...",
+      "published": "2026-06-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
