@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-09T20:04:03.021855+00:00",
+  "last_updated": "2026-06-10T03:27:39.755157+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "62f21e3a67161d1f1de20788c3f8e1fd",
+      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
+      "summary": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
+      "published": "2026-06-10T02:03:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2e20fb8b2cf8f509abd09147e982bcee",
+      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+      "summary": "[...]",
+      "published": "2026-06-09T23:11:18+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "65f544d3498efb32c0ba6f18c3bd01ec",
+      "title": "ServiceNow discloses security incident exposing customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
+      "summary": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
+      "published": "2026-06-09T21:34:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e6a39fede0fc8bfa43affbec07334dd4",
+      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
+      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
+      "summary": "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
+      "published": "2026-06-09T21:20:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "5879fa454d25f373fec4efb8463a1d6b",
       "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
@@ -123,16 +163,6 @@
       "image": "https://korben.info/lets-encrypt-v17-subscriber-agreement/lets-encrypt-v17-subscriber-agreement-1.png"
     },
     {
-      "id": "e1c25d4801758f88069b1a70f72730e7",
-      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-      "summary": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
-      "published": "2026-06-09T14:27:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "cc78caa433110b9ff371663f516976c4",
       "title": "Lego Batman - Un easter egg Commodore 64 BASIC caché dedans",
       "link": "https://korben.info/lego-batman-commodore-64-easter-egg.html",
@@ -203,16 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJqeGTf-8XwdqkhtSdYoCT3HhGAP5pxBuBeA1ngKoX7BfGUcJMwqGhtf8Eh5TVXaN8-p-Ggk8Uiz4DhtmfT8GkKggOPmqRoh5j6XEumgw9aT7kwo4YcNAi_JrqIhSJU-_7gsyBXfwxAi7YfOS1_6CuDSen29PlEk5O4yA80Ob8_WNh81sExm8vgWSVnsY/s1600/tines.jpg"
     },
     {
-      "id": "aa1a64b3cb3094f41ca192c2b697dc96",
-      "title": "French govt messaging service breached in account hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-      "summary": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
-      "published": "2026-06-09T10:53:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f3ccf7a6c2e0630045c03d4e65cfdd51",
       "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
       "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
@@ -243,16 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimsh1r7uS0J7o39IjoPTuHOzh-EiqtvAat_29YiejSgsn0oTvwmlklYrtu0VqUU05z-THGSE__CFshF8lpSdkRbx-b7Ez0uvlBnWcNQntBPcjv08iKy_hqq5W6NrLSUFek3FfLN5Z6ookVi6zqFE_uQhF56Nu_uyorkUuHOlYxm-cpfFsDwMUhWNRB9Mxi/s1600/python-worm.png"
     },
     {
-      "id": "0416a8c155e38cca322f3c94bff0a31e",
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
-      "published": "2026-06-09T08:18:39+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "cfc692b36364ecde38df4eb47c77a2ee",
       "title": "Refroidir à -84°C avec une imprimante 3D et de l'air comprimé",
       "link": "https://korben.info/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime.html",
@@ -281,16 +291,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/music-decoy-bloquer-apple-music/music-decoy-bloquer-apple-music-1.jpg"
-    },
-    {
-      "id": "27e1fa936deba14ae5d885729f59ab38",
-      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
-      "published": "2026-06-09T06:56:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "7c90f9c5113910213c4d8897f18584ed",
