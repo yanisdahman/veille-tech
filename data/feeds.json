@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-11T03:39:02.173596+00:00",
-  "count": 50,
+  "last_updated": "2026-06-11T10:19:02.057775+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "3c22dad552d6bb2f5e818be0a02501c3",
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+      "published": "2026-06-11T08:44:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bd386ab7192de4e58e36fab966bd6458",
+      "title": "Microsoft corrige la faille YellowKey, il révèle GreatXML pour contourner BitLocker !",
+      "link": "https://www.it-connect.fr/faille-greatxml-contournement-bitlocker-windows-zero-day/",
+      "summary": "À peine la faille YellowKey corrigée, une nouvelle zero-day nommée GreatXML menace BitLocker sur les machines Windows. Voici ce que l'on sait. Le post Microsoft corrige la faille YellowKey, il révèle GreatXML pour con...",
+      "published": "2026-06-11T07:37:36+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "688533530ee91f267bc5be214188febd",
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "published": "2026-06-11T07:27:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "86b1db111a1f65cbddbe47c21a621765",
+      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques...",
+      "published": "2026-06-11T06:23:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg"
+    },
+    {
+      "id": "aebbfe6afe49484927c5f2ab2eaf9aa6",
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+      "published": "2026-06-11T06:20:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5325d54bdff932080cade4492dae091e",
+      "title": "Windows : RoguePlanet, une faille zero-day dévoilée juste après les mises à jour de juin",
+      "link": "https://www.it-connect.fr/windows-rogueplanet-une-faille-zero-day-devoilee-juste-apres-les-mises-a-jour-de-juin/",
+      "summary": "RoguePlanet, une faille zero-day ciblant Windows Defender et permettant d'obtenir les privilèges SYSTEM sur Windows, a été publiée par Nightmare Eclipse. Le post Windows : RoguePlanet, une faille zero-day dévoilée jus...",
+      "published": "2026-06-11T05:03:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "9207236dea091dd9995e5197f543f90d",
       "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
@@ -53,36 +113,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png"
     },
     {
-      "id": "468199d4e19f6451e44420b513fe1052",
-      "title": "Un ver informatique qui raisonne tout seul",
-      "link": "https://korben.info/un-ver-informatique-qui-raisonne-tout-seul.html",
-      "summary": "La crainte n'est pas neuve. Mais cette fois la démonstration existe : une équipe réunissant l'université de Toronto, le Vector Institute, l'université de Cambridge et la division recherche de ServiceNow a dévoilé un l...",
-      "published": "2026-06-10T15:50:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-ver-informatique-qui-raisonne-tout-seul/un-ver-informatique-qui-raisonne-tout-seul-1.jpg"
-    },
-    {
-      "id": "e21db2304b862d4aa24d1c34bc4d9367",
-      "title": "Siri IA bloqué en Europe : Bruxelles renvoie Apple à ses responsabilités",
-      "link": "https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites.html",
-      "summary": "La Commission européenne vient de couper l'herbe sous le pied d'Apple en affirmant que la décision de ne pas lancer le nouveau Siri dopé à l'intelligence artificielle dans l'Union est le choix d'Apple, et de personne ...",
-      "published": "2026-06-10T15:38:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites-1.webp"
-    },
-    {
-      "id": "cea8864a39446bc7a119f79311d9e18a",
-      "title": "L'IOCCC 2025 couronne le code C le plus illisible du monde",
-      "link": "https://korben.info/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde.html",
-      "summary": "Faire tourner Tetris sur un émulateur Game Boy dont le code source tient dans moins de 5 ko de C volontairement incompréhensible, voilà le genre de prouesse que célèbre l'IOCCC, le concours international de code C obf...",
-      "published": "2026-06-10T15:23:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde-1.jpg"
-    },
-    {
       "id": "3e49862488c9d9a0ec9213c02a5bb679",
       "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
       "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
@@ -91,16 +121,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2l0GUUy91D4hHU067eYWpRzvSJGcfOkHce2jcVXZGWI9sld0hgaomhoKTc3dYEXEbz05oZQ5mFzo34eXp-wNJ2j_ofUjXjR7ZR5obszwH7bCRRmah9Q9HY3RSDrwrAf8QD162ca7nvxTRELWzcVW8AbbVMpXJfHXtaYEiSxXAw49VpCG8ep33SbGeLSF/s1600/ivanti.jpg"
-    },
-    {
-      "id": "f30b8a144d49aaa196b19aa80cd2d63a",
-      "title": "Chrome débranche les dernières combines qui faisaient survivre uBlock Origin",
-      "link": "https://korben.info/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin.html",
-      "summary": "Google ferme les dernières portes. À partir de fin juin, avec Chrome 150 ou 151, les combines qui permettaient encore de garder uBlock Origin en vie dans le navigateur vont sauter une à une, et avec elles à peu près t...",
-      "published": "2026-06-10T15:03:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin-1.png"
     },
     {
       "id": "47496bcca9d5f821f957654f8ffc211d",
@@ -131,16 +151,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyS_5xYGR8v-Lv2x6gLklggySrwxfhnOTIwaLNXWT0xCUHcG8742JNest-ScZPBIUEqChp4KxYPdOnrWOJUJ-Dcv1VYYBOGY6eMYgwOw5tIxBxD2RPbFM-xR05SpacfiwmIKeL6jAFpw8PScLXjV_gR9ZNRqQ8HmsOBAbom73N_i3JRkAsf-dZVoBpGVlI/s1600/cisaa.jpg"
-    },
-    {
-      "id": "63835f8f43417c8be66d365bae61034d",
-      "title": "Anthropic met entre toutes les mains un modèle qu'elle jugeait trop dangereux à publier il y a deux mois",
-      "link": "https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois.html",
-      "summary": "Voilà autre chose dites donc. En avril, Anthropic, le concurrent direct d'OpenAI et créateur de l'assistant Claude, dévoilait Mythos, un modèle d'intelligence artificielle tellement doué pour dénicher et exploiter des...",
-      "published": "2026-06-10T14:25:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois-1.jpg"
     },
     {
       "id": "e31527f23c918fbffbb503fe783baf01",
@@ -203,16 +213,6 @@
       "image": ""
     },
     {
-      "id": "83c478d4c9c4c2b4cb733fab09dc572d",
-      "title": "Green Bank - La ville « sans ondes » qui écoute l'univers",
-      "link": "https://korben.info/green-bank-zone-sans-ondes-radio.html",
-      "summary": "Aujourd'hui je suis tombé sur une story Instagram d' Artisan de demain qui parlait d'un truc qui m'a plutôt intrigué. En fait, quelque part en Virginie-Occidentale, il existerait une ville qui vit « sans ondes électro...",
-      "published": "2026-06-10T12:09:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/green-bank-zone-sans-ondes-radio/green-bank-zone-sans-ondes-radio-1.jpg"
-    },
-    {
       "id": "03af156aac9efb33f99b59a82d8c00a1",
       "title": "macOS 27 Golden Gate : Apple enterre les Mac Intel et dévoile Siri AI",
       "link": "https://www.it-connect.fr/macos-27-golden-gate-apple-enterre-les-mac-intel-et-devoile-siri-ai/",
@@ -220,16 +220,6 @@
       "published": "2026-06-10T12:00:10+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8010344bddb4120138124180418b0b3b",
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "summary": "Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
-      "published": "2026-06-10T11:33:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -241,16 +231,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD1olwyKxwxfkuyKu0JAUMudQZs0lycGOkWf3zBrMSYzJ_fuP7vUHclJrsZipKMxe1ldNNHE3llOH4B26Hk4f-noIzZnQMdBy9IGT_MkD903KCxvP0jOUr_AO2IBGZz-W-p-MLnoxDUVAz1myBaOUWeOpYQtlEYgdArjxpkxg6imCLUB9brmL3b6Vk1L4/s1600/picus-webinar.jpg"
-    },
-    {
-      "id": "0bd077c4430cf26287c4f2972079459d",
-      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-      "summary": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
-      "published": "2026-06-10T09:57:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "fb6215cf4a641ea0986c926b9dad53cd",
@@ -293,36 +273,6 @@
       "image": ""
     },
     {
-      "id": "26971497d63097f350acf36f6584c6d4",
-      "title": "eSpectre - Quand votre Wi-Fi détecte les mouvements sans caméra",
-      "link": "https://korben.info/espectre-detection-mouvement-wifi-esp32.html",
-      "summary": "C'est toujours un peu magique, ces histoires d'ondes radio. On sait par exemple que notre box Wi-Fi \"voit\" déjà quand on traverse le salon, sauf que jusqu'ici, personne ne l'écoutait vraiment. Mais j'ai découvert qu'o...",
-      "published": "2026-06-10T08:01:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/espectre-detection-mouvement-wifi-esp32/espectre-detection-mouvement-wifi-esp32-1.png"
-    },
-    {
-      "id": "ee2ed4455d6d2e136583246267999d81",
-      "title": "Protéger ses cryptoactifs : adoptez les bons réflexes",
-      "link": "https://www.it-connect.fr/proteger-ses-cryptoactifs-adoptez-les-bons-reflexes/",
-      "summary": "Vous êtes détenteur d’un portefeuille Crypto et vous vous rendez fréquemment sur des sites de trading : attention, un peu d'hygiène informatique s'impose ! Le post Protéger ses cryptoactifs : adoptez les bons réflexes...",
-      "published": "2026-06-10T08:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3a94cd8c1929495fdcf31d5da644731e",
-      "title": "Apple Container 1.0 - Le WSL du Mac est enfin là",
-      "link": "https://korben.info/apple-container-machines-linux-mac.html",
-      "summary": "Quand on est habitué à Linux et qu'on se retrouve avec un Mac, même si c'est une base unix, c'est déroutant. Heureusement, Apple est de plus en plus ouvert au monde du libre et vient de publier la version 1.0 de Conta...",
-      "published": "2026-06-10T07:43:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/apple-container-machines-linux-mac/apple-container-machines-linux-mac-1.jpg"
-    },
-    {
       "id": "b0434aacec54021b3aa879962f0527c6",
       "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
       "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
@@ -331,26 +281,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYvpTDJ-P39EdhVGhwg0QbEd9xU2yd2194Va1QAQaegDG_yW45yTaKCGYCZ7fe-olcVpP-cLSczkES4VDO8IIPOGXXMdL8aOU0mFBOBwPX6b-HHBVDZYcCFLpwm2P11_Xaqc4csTJ2UWLAq2hpGY1TnZMBVNDt1D0P3gkflmAvv8ifdFZbMbcna3oFeo/s1600/claude-fable.jpg"
-    },
-    {
-      "id": "6c78a6051d2330a638cb89e797dafc7c",
-      "title": "GitHub a bloqué 73 dépôts officiels de Microsoft pour protéger les entreprises",
-      "link": "https://www.it-connect.fr/github-a-bloque-73-depots-officiels-de-microsoft-pour-proteger-les-entreprises/",
-      "summary": "73, c'est le nombre de dépôts désactivés par GitHub au sein de ses organisations officielles de Microsoft sur GitHub pour prévenir la propagation d'un ver. Le post GitHub a bloqué 73 dépôts officiels de Microsoft pour...",
-      "published": "2026-06-10T07:29:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fb9314d28f027993d8cce3bf1d69fdc9",
-      "title": "iOS 27 : votre iPhone va se connecter tout seul à vos comptes pour réparer vos mots de passe pourris",
-      "link": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris.html",
-      "summary": "À la WWDC 2026, Apple a survolé la nouveauté en quelques secondes. Dans iOS 27, l'app Mots de passe ne se contente plus de signaler vos identifiants vulnérables, elle les remplace toute seule, en se rendant sur chaque...",
-      "published": "2026-06-10T07:09:42+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris-1.jpg"
     },
     {
       "id": "4c14751f8755dbb3e358ee7fe263fc54",
@@ -363,26 +293,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdoQ33nXrsmYyHLAdeWHw4nf5zrUhZhVi755NnYVGzkyNPbpR60m4Rt6w8JiKdPuXgn1Md6_nu253LeMjXG7VyEZcBWMaE-ST8lN8P8QqtACeftxFrV3nyIoF8TEHzX6m2sqjiv6KFz4_4eZoddHKWQYVSQgagI4oW_NcdjcnYrWyNPBbq05O7hdE8zZoj/s1600/servicenow.jpg"
     },
     {
-      "id": "2608e40ab3bae803ff3bd78dc24d3299",
-      "title": "Goddard, le chien robot de Jimmy Neutron, existe maintenant en vrai",
-      "link": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai.html",
-      "summary": "Une créatrice connue sous le pseudo de Kiara a reconstruit Goddard, le chien mécanique du dessin animé Jimmy Neutron, en taille réelle et en version qui bouge pour de bon. Pour ceux qui n'ont pas grandi avec la série,...",
-      "published": "2026-06-10T06:52:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai-1.jpg"
-    },
-    {
-      "id": "ceebaf82d917c858c60f987dd1465fca",
-      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
-      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
-      "summary": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
-      "published": "2026-06-10T06:26:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "42af76600e33f9a2bca16e9ca5f033e7",
       "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
       "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
@@ -391,16 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnTGKGBThpUUZgwRx8hcclb0nuPbrV9o3MSZhFoGEp_3DLGRzdJVpj8Xfrnk1cEPUu76_u8R5Lpt10tcaWPUlbHMwbY225I3jyiBx91pYb4dmdBFbDYVai8DS3UcXAk98dTqEuyW0r3D5c2OaHHaXJzRyCAwS32tpmB83cAJRwKxI4GIT2iGnrdBI_EV7/s1600/windows-exploit.jpg"
-    },
-    {
-      "id": "29b6d471bf34e0a0888de2e9a047c651",
-      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
-      "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
-      "summary": "Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote co...",
-      "published": "2026-06-10T05:08:35+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJXkAy-j0jwPWQiC9bJinbwINT6pxRmO7CJ_df4bkbAP3VD-xU8oblGB5ZBBR1oLMN0uqf_lBb5al4KSR82lU1kZsXu14TAMaXi6kIjcp5xxk5yLKnOCTloqgZd6w_PuzPxTxNROksgp9pld0D9HoxceBwprkC5cDXEvoSP64bzC_UZyZthInrECAReAeH/s1600/protobuf.jpg"
     },
     {
       "id": "ebf96dcf0d211d12b0915dbe92de85e3",
