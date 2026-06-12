@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-06-12T14:52:14.996742+00:00",
+  "last_updated": "2026-06-12T20:06:09.186974+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "960e7cb4a6f113bf9a3e0d4b40e16c8e",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "published": "2026-06-12T19:33:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "83da8f6def226871292fcb54fcd8165d",
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "link": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built...",
+      "published": "2026-06-12T19:24:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg"
+    },
+    {
+      "id": "5c34458ebfd9848c62c4030f3b3adf88",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network...",
+      "published": "2026-06-12T18:59:32+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VG_lHXgOeahfKoUs6hQ7fOmh-dK1ZGloqzAWilTU73LKJF5mBDqw4OSpU8ViE0NEI1iW4cNS5vyz4TpqoJ_aGjHYt4-qJXfmZP2a3mi8GILe4OeP7qSFKeqDWrbHyoMmf49EtaDTylhnpLvem5LCwqX2e8MRSR5rQC5cNv9qH-H_ySeUT5uYHWRLGa5P/s1600/gemini-phishing.jpg"
+    },
+    {
+      "id": "6fad488c9a613a5f398ff53e549d8a43",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "published": "2026-06-12T18:19:34+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8a77ae01fe4f3132eee7710ecba05c6e",
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it...",
+      "published": "2026-06-12T18:17:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg"
+    },
+    {
+      "id": "a10650f55e25a448412e012fa822e5dd",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "published": "2026-06-12T17:54:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9ce06d08160f086df0973c467391a596",
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "published": "2026-06-12T17:03:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0ea5ddd547d6c3d6a64655aa9b10e7f0",
+      "title": "AUR Arch Linux - 400 paquets vérolés, êtes-vous touché ?",
+      "link": "https://korben.info/arch-linux-aur-paquets-compromis.html",
+      "summary": "Si vous tournez sous Arch Linux et que vous piochez vos paquets dans l'AUR, lâchez ce que vous faites 2 minutes et lisez mon article. Car plus de 400 paquets de l'Arch User Repository ont été vérolés ce 11 juin, et le...",
+      "published": "2026-06-12T15:54:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/arch-linux-aur-paquets-compromis/arch-linux-aur-paquets-compromis-1.jpg"
+    },
+    {
+      "id": "868bc7896006e1ebee7a74eed4321d52",
+      "title": "PulseLoop libère les bagues connectées à 7 dollars",
+      "link": "https://korben.info/pulseloop-bague-connectee-open-source.html",
+      "summary": "7 dollars, c'est le prix d'une bague connectée chinoise sur AliExpress, et c'est surtout tout ce que Saksham Bhutani a payé pour se bricoler un coach santé privé. Son truc s'appelle PulseLoop , et c'est une app iPhone...",
+      "published": "2026-06-12T15:43:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pulseloop-bague-connectee-open-source/pulseloop-bague-connectee-open-source-1.png"
+    },
+    {
+      "id": "01571804fd60db14f0e67202a4ff7c4b",
+      "title": "Telegram Drive - Vos messages transformés en stockage cloud",
+      "link": "https://korben.info/telegram-drive-stockage-illimite.html",
+      "summary": "Comme beaucoup d'âmes en peine, vous utilisez les messages enregistrés sur Telegram comme un gros dépotoir pour stocker tous vos fichiers en vrac ? C'est pas con, mais pour retrouver un PDF précis ou streamer une vidé...",
+      "published": "2026-06-12T15:16:27+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/telegram-drive-stockage-illimite/telegram-drive-stockage-illimite-1.png"
+    },
     {
       "id": "e3629d4d13b88a0bc78664b10eceb099",
       "title": "Windows 11 : la mise à jour KB5094126 casse l’accès OneDrive dans l’Explorateur !",
@@ -193,16 +293,6 @@
       "image": ""
     },
     {
-      "id": "d9ad5a749181b9924c05bbde573e1d6f",
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the...",
-      "published": "2026-06-11T22:44:58+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "752b90fa61064ecc5d562ea512ccec15",
       "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
       "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
@@ -213,16 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpNcbfulhruio1VSh8OPKOjdx3gvP-Chg8OjSm7LZeVK2GaVR-osKeoQjO9e1_56Dtedmlisu76lYc70Wv5I1efqJcs2uh1RnbKJOITEcqcJoN-8PhNfmzAeLkDrST8Kg3qTbqE8wUrOd4jxE-gMi-vKN1B8W2zgY0ymFTtip79RVltY9J3QmXrAOJa4H/s1600/shinyHunters-universities.jpg"
     },
     {
-      "id": "ee959a58a8a78263386754c33ec5c83d",
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attack...",
-      "published": "2026-06-11T19:39:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d5d60d7db19d929d8a808718add09c7f",
       "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
       "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
@@ -231,26 +311,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6r68iB-MZv_eNGG3y0evEVbk7WXNkMzcKno1phHiSyOwfKd0G7bv8VCCrxQgmZOutmZdP1Nz-Xr1mxxUIx_rV8imT0-Ifk0e0FL525Z2v0C94GWgeo-wUpTk39rDdilNC_K20uqw0JipHlT7XmyTHn786UIAe_z3H2VXT1cYNAIEbKSwn2qYc_9MXzpbi/s1600/openclaw-hacks.jpg"
-    },
-    {
-      "id": "d6dfe9a733b5347827f7fd40c745a868",
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accid...",
-      "published": "2026-06-11T17:43:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg"
-    },
-    {
-      "id": "0bd4a62dbe41a6b9a27b7aef56ec0c96",
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources fro...",
-      "published": "2026-06-11T16:50:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT390XWb8ahl36RgVGzdXiIpEJ43hxHfayY1i2C_rBLbVyu5A2Q-uOFptUFJL33Ehedvbx97RiUV2NivTy-FxxFCNiIKekiqeljYrI3kThk9Sko4wQlFniMDjIfNqgiP-BaN3JYFjAbo2EfP7EBuEDe_p00RtrAmdUl_lsbgzQgV-M7CM_u3Vi7AtqgbSS/s1600/ransomware.jpg"
     },
     {
       "id": "8f11ec5ea6be16094ccac3b312575fb6",
@@ -283,16 +343,6 @@
       "image": "https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement-1.webp"
     },
     {
-      "id": "4b905644247bc9459783a7a6c387c9b8",
-      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
-      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-      "summary": "Law enforcement has dismantled the “AudiA6” cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
-      "published": "2026-06-11T15:55:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "9b0f14558182177100a2fdf69d7a284e",
       "title": "Maîtriser la gestion des paquets avec APT sous Linux",
       "link": "https://www.it-connect.fr/gestion-paquets-apt-linux/",
@@ -301,56 +351,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "38389fd22fb7b279ebb96955511b463e",
-      "title": "GreatXML - BitLocker contourné en quelques clics via WinRE",
-      "link": "https://korben.info/greatxml-bitlocker-bypass.html",
-      "summary": "BitLocker, je le rappelle c'est quand même le truc censé protéger vos données en cas de vol de votre bécane. Sauf que voilà, la théorie et Redmond, ça fait parfois deux... Le chercheur en sécurité Chaotic Eclipse (déj...",
-      "published": "2026-06-11T15:20:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/greatxml-bitlocker-bypass/greatxml-bitlocker-bypass-1.jpg"
-    },
-    {
-      "id": "aa6a8a0f10e0ae0b2d49cfaa51547a7f",
-      "title": "J'ai testé les Orbi 970, le système WiFi 7 le plus avancé de chez Netgear",
-      "link": "https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear.html",
-      "summary": "– Contient des liens affiliés Amazon – Netgear vend son Orbi 970 à 1 999 euros le pack de trois ( en promotion, au lieu de 2400 euros ha ha ). Et le tarif a beau faire tousser, ce système maillé en WiFi 7 (la toute de...",
-      "published": "2026-06-11T14:59:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear-1.jpeg"
-    },
-    {
-      "id": "3ced67577a306d62701c0d37c6a30c12",
-      "title": "La beta de macOS 27 fait disparaître Asahi Linux des Mac",
-      "link": "https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac.html",
-      "summary": "Mauvaise surprise pour les utilisateurs d'Asahi Linux, le projet qui fait tourner Linux nativement sur les Mac équipés de puces Apple Silicon (les fameuses M1, M2 et suivantes). La première beta développeur de macOS 2...",
-      "published": "2026-06-11T14:16:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac-1.jpg"
-    },
-    {
-      "id": "ccd814aaae40bdb88deefa654bd9c93b",
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-      "published": "2026-06-11T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b043c8076486e6eaea6ba353d5cf4cfc",
-      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
-      "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
-      "summary": "Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories. The reason is simple. Cybersecur...",
-      "published": "2026-06-11T13:26:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZHAWbb4vxxCvcuKVVx_cF20NdH25LsT22W5ftwdgoPt9RSB_6g399zuxnBqiClQMbMTVTlZ5w2uZ7LoZnhySiv2rdRpu_992csHQmBaTqzkBAB3jkpru_Ofvli3RzA6r2kYxapez3lqhW02JPzqtJcDd2DGnZC62u72F59zUJbsS3CujuYH_mpj9lhk/s1600/winners.jpg"
     },
     {
       "id": "bd386ab7192de4e58e36fab966bd6458",
