@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-12T03:38:52.627790+00:00",
-  "count": 50,
+  "last_updated": "2026-06-12T10:06:06.106892+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "7f11d34d85c05b63f6528dca8958a644",
+      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
+      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-sourc...",
+      "published": "2026-06-12T09:50:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifnUd6CRFC-YdhoEDgmNoLtKUYjbZvqQJOETqK59Zd5Pk_epd9uGMfPCrujB3grOrajNxMls_p7TWQwnyCxFo1Ou8MM70yUh3dP04776sp-xk3O8544Z9YD-v_konqCTv1eX_42iMBkr4j5c-h0_I5dyBWvrr_3jrphGH3xLcZgaDAN1uH8OA5rWerJE5B/s1600/langgraph.jpg"
+    },
+    {
+      "id": "136c7a5f6deb458375e60dd0c780600e",
+      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
+      "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
+      "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between Octo...",
+      "published": "2026-06-12T08:52:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcWT1xHrfFw79S9Oy4jvo4Uw-tcziRPU4yzf1sySQQHWcn2S1Q-ke0f75hujKSNOkS375t93N6FrNzo0JXtXBm4lmsk4DQxVQyb8WVWOrQ2QSVBTMKjOexXV5394bYytXtS6putjNb8A0hqLqu7uvuKhGarI8TmwaxtxJebZJJDu6sEP17k6ic0tPSFiB/s1600/phish.jpg"
+    },
+    {
+      "id": "83b499bcddab2f85e6ab44a342dceaad",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Dir...",
+      "published": "2026-06-12T08:26:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9d44f5f89ce45f66f8635eb160bad3ed",
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "summary": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
+      "published": "2026-06-12T07:09:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "09c555186b4025968a9cd14308917532",
+      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
+      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"...",
+      "published": "2026-06-12T06:38:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Of2v3fH68mBon8j-FkHg2vnpmDnEko0AOFIqTz07PQRxQdYgAO78dWxylFMVzJT4Z4Q8WI88zsOr6mRyBIW1Ym4gVAE21meQ3GqosaIn9f6i8u2bIuiq9Nn-pa0vYFqLK1Cy_evX4KEP_lfBD9UlmiqAl9SDjuXWbRTe8pnDnFDwgiMXEFcHi5lvDryQ/s1600/dark2web.jpg"
+    },
+    {
+      "id": "4a89c7648cff068891ee70239cecdbcf",
+      "title": "Linux : une faille permet de devenir root à cause d’un unique caractère",
+      "link": "https://www.it-connect.fr/linux-une-faille-permet-de-devenir-root-a-cause-dun-unique-caractere/",
+      "summary": "Une simple erreur de syntaxe, réduite à un unique caractère dans le code du noyau Linux, est à l'origine d'une faille de sécurité : CVE-2026-23111. Le post Linux : une faille permet de devenir root à cause d’un unique...",
+      "published": "2026-06-12T05:59:48+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "c31bedc1c92d3cb90e31459b5829477f",
       "title": "Japanese energy firm loses drive with data of 10.9 million clients",
@@ -73,16 +133,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT390XWb8ahl36RgVGzdXiIpEJ43hxHfayY1i2C_rBLbVyu5A2Q-uOFptUFJL33Ehedvbx97RiUV2NivTy-FxxFCNiIKekiqeljYrI3kThk9Sko4wQlFniMDjIfNqgiP-BaN3JYFjAbo2EfP7EBuEDe_p00RtrAmdUl_lsbgzQgV-M7CM_u3Vi7AtqgbSS/s1600/ransomware.jpg"
     },
     {
-      "id": "8f11ec5ea6be16094ccac3b312575fb6",
-      "title": "eMule - Le grand retour de l'âne du P2P",
-      "link": "https://korben.info/retour-emule-amule.html",
-      "summary": "eMule ? Sérieusement ? Hé bien oui les amis, le célèbre mulet du P2P n'est pas encore mort de sa belle mort et en ce moment y'a un petit revival de cette bestiole du début des années 2000. C'est logique car les abonne...",
-      "published": "2026-06-11T16:24:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/retour-emule-amule/retour-emule-amule-1.jpg"
-    },
-    {
       "id": "7662e92c25ade7825b64c7389ed4405f",
       "title": "Intune + Robopack : le combo idéal pour automatiser la gestion des applications",
       "link": "https://www.it-connect.fr/intune-robopack-le-combo-ideal-pour-automatiser-la-gestion-des-applications/",
@@ -91,16 +141,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "1ed6892a717363694f65ef7f0db42f63",
-      "title": "ReactOS, le clone libre de Windows, fait enfin tourner Half-Life après trente ans de développement",
-      "link": "https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement.html",
-      "summary": "ReactOS, le système d'exploitation libre qui recopie Windows brique par brique, fait désormais tourner Half-Life ( et oui, décidément c'est la journée ! ), le jeu de tir que Valve a sorti en 1998 et qui a propulsé tou...",
-      "published": "2026-06-11T15:59:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement-1.webp"
     },
     {
       "id": "4b905644247bc9459783a7a6c387c9b8",
@@ -123,36 +163,6 @@
       "image": ""
     },
     {
-      "id": "38389fd22fb7b279ebb96955511b463e",
-      "title": "GreatXML - BitLocker contourné en quelques clics via WinRE",
-      "link": "https://korben.info/greatxml-bitlocker-bypass.html",
-      "summary": "BitLocker, je le rappelle c'est quand même le truc censé protéger vos données en cas de vol de votre bécane. Sauf que voilà, la théorie et Redmond, ça fait parfois deux... Le chercheur en sécurité Chaotic Eclipse (déj...",
-      "published": "2026-06-11T15:20:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/greatxml-bitlocker-bypass/greatxml-bitlocker-bypass-1.jpg"
-    },
-    {
-      "id": "aa6a8a0f10e0ae0b2d49cfaa51547a7f",
-      "title": "J'ai testé les Orbi 970, le système WiFi 7 le plus avancé de chez Netgear",
-      "link": "https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear.html",
-      "summary": "– Contient des liens affiliés Amazon – Netgear vend son Orbi 970 à 1 999 euros le pack de trois ( en promotion, au lieu de 2400 euros ha ha ). Et le tarif a beau faire tousser, ce système maillé en WiFi 7 (la toute de...",
-      "published": "2026-06-11T14:59:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear-1.jpeg"
-    },
-    {
-      "id": "3ced67577a306d62701c0d37c6a30c12",
-      "title": "La beta de macOS 27 fait disparaître Asahi Linux des Mac",
-      "link": "https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac.html",
-      "summary": "Mauvaise surprise pour les utilisateurs d'Asahi Linux, le projet qui fait tourner Linux nativement sur les Mac équipés de puces Apple Silicon (les fameuses M1, M2 et suivantes). La première beta développeur de macOS 2...",
-      "published": "2026-06-11T14:16:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac-1.jpg"
-    },
-    {
       "id": "ccd814aaae40bdb88deefa654bd9c93b",
       "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
       "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
@@ -163,26 +173,6 @@
       "image": ""
     },
     {
-      "id": "f00cdfd5dd43da7d503ca7f5d1749840",
-      "title": "Half-Life tourne à 30 fps sur un Nokia N95 de 2007",
-      "link": "https://korben.info/half-life-tourne-a-30-fps-sur-un-nokia-n95-de-2007.html",
-      "summary": "Un Nokia N95 qui fait tourner Half-Life à 30 images par seconde, avec la campagne solo complète, le son, les armes et même un clavier Bluetooth, voilà ce que montre la dernière démonstration de Dante Leoncini, un déve...",
-      "published": "2026-06-11T13:55:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/half-life-tourne-a-30-fps-sur-un-nokia-n95-de-2007/half-life-tourne-a-30-fps-sur-un-nokia-n95-de-2007-1.jpg"
-    },
-    {
-      "id": "e69fd4a2e875e37b15f39814676100c7",
-      "title": "DOF Simulator - Apprenez la profondeur de champ en jouant",
-      "link": "https://korben.info/dof-simulator-profondeur-champ.html",
-      "summary": "Vous avez pris une photo que vous aimez beaucoup... Bravo ! Sauf que tout est net du premier plan jusqu'au fond, et ça fait un peu photo de constat d'assurance. Vous avez vraiment du talent ^^ Alors comment faire quan...",
-      "published": "2026-06-11T13:43:17+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/dof-simulator-profondeur-champ/dof-simulator-profondeur-champ-1.jpg"
-    },
-    {
       "id": "b043c8076486e6eaea6ba353d5cf4cfc",
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
       "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
@@ -191,16 +181,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZHAWbb4vxxCvcuKVVx_cF20NdH25LsT22W5ftwdgoPt9RSB_6g399zuxnBqiClQMbMTVTlZ5w2uZ7LoZnhySiv2rdRpu_992csHQmBaTqzkBAB3jkpru_Ofvli3RzA6r2kYxapez3lqhW02JPzqtJcDd2DGnZC62u72F59zUJbsS3CujuYH_mpj9lhk/s1600/winners.jpg"
-    },
-    {
-      "id": "b88ab698921b92ea655af677ffbb8efc",
-      "title": "Wattcycle dégrade ses batteries en douce une fois les tests YouTube passés",
-      "link": "https://korben.info/wattcycle-degrade-ses-batteries-en-douce-une-fois-les-tests-youtube-passes.html",
-      "summary": "La batterie Wattcycle LFP que Will Prowse avait démontée face caméra il y a quelques mois, avec ses barres de cuivre massif entre les cellules, ses câbles tressés sous gaine et son assemblage soigné digne de modèles d...",
-      "published": "2026-06-11T13:24:43+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/wattcycle-degrade-ses-batteries-en-douce-une-fois-les-tests-youtube-passes/wattcycle-degrade-ses-batteries-en-douce-une-fois-les-tests-youtube-passes-1.jpg"
     },
     {
       "id": "a102233d6de2917bd2f2aa92f7f37344",
@@ -243,36 +223,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg"
     },
     {
-      "id": "09208ce167a967ac00b90a3a724cf4db",
-      "title": "Rackula - Le designer de rack serveur open source pour homelab",
-      "link": "https://korben.info/rackula-designer-rack-serveur-homelab.html",
-      "summary": "Si vous avez un homelab, il vous arrive peut-être parfois de vous retrouver en galère parce qu'en essayant de caser un énième serveur dans votre baie, vous réalisez, trop tard, qu'il vous manque deux unités ou que le ...",
-      "published": "2026-06-11T11:25:45+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rackula-designer-rack-serveur-homelab/rackula-designer-rack-serveur-homelab-1.jpg"
-    },
-    {
-      "id": "2fde5ad1eea3a9e624c9c009a0ed2751",
-      "title": "Surfshark VPN : regarder le sport de chez soi, même quand on est à l’autre bout du monde",
-      "link": "https://korben.info/surfshark-vpn-regarder-le-sport.html",
-      "summary": "-- Article en partenariat avec Surfshark -- Il y a des gens qui voyagent avec une valise. D’autres seulement avec une tente et des chaussettes (si, j'en connais). D'autres encore avec un abonnement lié à leur pays d’o...",
-      "published": "2026-06-11T11:11:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/surfshark-vpn-regarder-le-sport/surfshark-vpn-regarder-le-sport-1.webp"
-    },
-    {
-      "id": "381c544f3322064d82c21c21795e1ed7",
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a pr...",
-      "published": "2026-06-11T09:45:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WExeCWTOdaaW7iQfV9dxGz0_rzPShImjBUQfoeRsJeTLg09lrGsSEgA2k05q-weIqQaQ_VVP25lTObup7E0xtcnxj3AtK1HHkNIAkI_hykxraL74qXTPwCRlRCdTB3S5QJO-e2j5zPGxgvCBg9SyRFl9QD2gwVtOqgg3eNF7_ZXGI9JgFSE4LGPjwoS3/s1600/cyberattacks.jpg"
-    },
-    {
       "id": "3c22dad552d6bb2f5e818be0a02501c3",
       "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
@@ -293,36 +243,6 @@
       "image": ""
     },
     {
-      "id": "688533530ee91f267bc5be214188febd",
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "published": "2026-06-11T07:27:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "86b1db111a1f65cbddbe47c21a621765",
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques...",
-      "published": "2026-06-11T06:23:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg"
-    },
-    {
-      "id": "aebbfe6afe49484927c5f2ab2eaf9aa6",
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-      "published": "2026-06-11T06:20:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5325d54bdff932080cade4492dae091e",
       "title": "Windows : RoguePlanet, une faille zero-day dévoilée juste après les mises à jour de juin",
       "link": "https://www.it-connect.fr/windows-rogueplanet-une-faille-zero-day-devoilee-juste-apres-les-mises-a-jour-de-juin/",
@@ -331,16 +251,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "f7e7d468af7210fbedefcf347d48b054",
-      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
-      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and hom...",
-      "published": "2026-06-10T16:08:42+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png"
     },
     {
       "id": "e31527f23c918fbffbb503fe783baf01",
@@ -388,16 +298,6 @@
       "link": "https://www.it-connect.fr/macos-27-golden-gate-apple-enterre-les-mac-intel-et-devoile-siri-ai/",
       "summary": "Apple a dévoilé macOS 27 Golden Gate : cette nouvelle mise à jour majeure marque un tournant : les Mac avec des processeurs Intel ne pourront pas en profiter. Le post macOS 27 Golden Gate : Apple enterre les Mac Intel...",
       "published": "2026-06-10T12:00:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fb6215cf4a641ea0986c926b9dad53cd",
-      "title": "Proton prépare un client Proton Drive natif pour Linux",
-      "link": "https://www.it-connect.fr/proton-prepare-un-client-proton-drive-natif-pour-linux/",
-      "summary": "Proton travaille actuellement sur un client Proton Drive officiel pour Linux, basé sur le nouveau SDK conçu pour améliorer les performances globales du Drive. Le post Proton prépare un client Proton Drive natif pour L...",
-      "published": "2026-06-10T09:49:34+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
