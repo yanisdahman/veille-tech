@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-06-12T10:06:06.106892+00:00",
-  "count": 40,
+  "last_updated": "2026-06-12T14:52:14.996742+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "e3629d4d13b88a0bc78664b10eceb099",
+      "title": "Windows 11 : la mise à jour KB5094126 casse l’accès OneDrive dans l’Explorateur !",
+      "link": "https://www.it-connect.fr/windows-11-la-mise-a-jour-kb5094126-casse-lacces-onedrive-dans-lexplorateur/",
+      "summary": "Suite à l'installation de la mise à jour KB5094126 sur Windows 11, les liens OneDrive et SharePoint intégrés à l'Explorateur de fichiers ne fonctionnent plus. Le post Windows 11 : la mise à jour KB5094126 casse l’accè...",
+      "published": "2026-06-12T14:20:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "abb11e41f59391046bc39e99ba5e28a9",
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
+      "published": "2026-06-12T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6371da69ad5f8f810352db3c04fb570f",
+      "title": "Cyberattaque chez Novo Nordisk : des données d’essais cliniques dans la nature",
+      "link": "https://www.it-connect.fr/cyberattaque-chez-novo-nordisk-des-donnees-dessais-cliniques-dans-la-nature/",
+      "summary": "Des pirates ont introduit les systèmes informatiques de Novo Nordisk et copié des informations liées à des patients participant à des essais cliniques. Le post Cyberattaque chez Novo Nordisk : des données d’essais cli...",
+      "published": "2026-06-12T13:19:03+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "00b133d39c9fcbdfe6bbef8d846c72e5",
+      "title": "Git 2.55 active Rust par défaut, et la fin du tout-C est déjà programmée",
+      "link": "https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee.html",
+      "summary": "Vingt et un ans après sa création par Linus Torvalds, Git amorce pour de bon son changement de langage. La première version de test de Git 2.55, publiée hier, active par défaut le code Rust dans le gestionnaire de ver...",
+      "published": "2026-06-12T12:44:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee-1.jpg"
+    },
+    {
+      "id": "ae4cb1b293b0a7e015bd13448eec6e84",
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet...",
+      "published": "2026-06-12T12:04:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1600/Agentjacking.jpg"
+    },
+    {
+      "id": "73b43aea2a9355850d63644f001b864e",
+      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+      "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
+      "published": "2026-06-12T11:44:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1391b7ef3d439e4e35d908546b7a21d6",
+      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+      "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
+      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert ...",
+      "published": "2026-06-12T11:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WauAS1qxBj0Oziu-jmgn34YGvKsu9xISK-gtccFv-0WkcX6EC6e-ge9UF2PCZINf9RW5cN40GWijtbnZOvADSJKZ4ErYKX_Iqoo9AO9nk3E0548I07_5PNz6vWA13UMKwU1jGjXCQJLBFyXj_RPEgiVvCuEZZyijeNBxgaiIB1itadpRaDzzoyR_DcA/s1600/mdr.jpg"
+    },
+    {
+      "id": "3069f19c5a6cf08647a983ba03e78c64",
+      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
+      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
+      "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
+      "published": "2026-06-12T10:13:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "7f11d34d85c05b63f6528dca8958a644",
       "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
@@ -33,6 +113,26 @@
       "image": ""
     },
     {
+      "id": "d4ab7dd77df449316d381853e97575dc",
+      "title": "CorridorKey - Le détourage de fond vert par IA",
+      "link": "https://korben.info/corridorkey.html",
+      "summary": "Détourer un sujet filmé sur un fond vert, c'est le cauchemar classique du compositing. Entre les cheveux rebelles, le flou de mouvement et cette satanée frange verte sur les bords, on y passe vite des heures. Faut dir...",
+      "published": "2026-06-12T07:40:53+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/corridorkey/corridorkey-1.jpg"
+    },
+    {
+      "id": "59d10db4b86d1d36ec86c0cafbdacbe9",
+      "title": "DiffusionGemma : le nouveau modèle de Google écrit son texte d'un bloc, et 4 fois plus vite",
+      "link": "https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite.html",
+      "summary": "Plus de 1 000 tokens par seconde sur une seule carte H100, l'accélérateur que Nvidia vend aux centres de données, et environ 700 sur une RTX 5090, sa carte gaming haut de gamme. C'est le débit que Google DeepMind anno...",
+      "published": "2026-06-12T07:32:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite-1.png"
+    },
+    {
       "id": "9d44f5f89ce45f66f8635eb160bad3ed",
       "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
@@ -53,6 +153,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Of2v3fH68mBon8j-FkHg2vnpmDnEko0AOFIqTz07PQRxQdYgAO78dWxylFMVzJT4Z4Q8WI88zsOr6mRyBIW1Ym4gVAE21meQ3GqosaIn9f6i8u2bIuiq9Nn-pa0vYFqLK1Cy_evX4KEP_lfBD9UlmiqAl9SDjuXWbRTe8pnDnFDwgiMXEFcHi5lvDryQ/s1600/dark2web.jpg"
     },
     {
+      "id": "e4ec1e7d52db3ba1f4cb2b3f81d06bbc",
+      "title": "SteelSeries Sonar - L'alternative gratuite à Voicemeeter",
+      "link": "https://korben.info/steelseries-sonar-alternative-voicemeeter.html",
+      "summary": "Si vous voulez mixer vos sources audio sous Windows sans y passer vos nuits en mode David Guetta, vous allez kiffer SteelSeries Sonar et enfin dire adieu à l'interface imbuvable de Voicemeeter et la configuration ultr...",
+      "published": "2026-06-12T06:23:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/steelseries-sonar-alternative-voicemeeter/steelseries-sonar-alternative-voicemeeter-1.webp"
+    },
+    {
       "id": "4a89c7648cff068891ee70239cecdbcf",
       "title": "Linux : une faille permet de devenir root à cause d’un unique caractère",
       "link": "https://www.it-connect.fr/linux-une-faille-permet-de-devenir-root-a-cause-dun-unique-caractere/",
@@ -61,6 +171,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "46272e22302a71f2c3a0bc6aec97619f",
+      "title": "Beszel - Le monitoring de serveur simple et ultra-léger",
+      "link": "https://korben.info/beszel-monitoring-serveur.html",
+      "summary": "Vous connaissez le duo Prometheus et Grafana ? C'est le grand classique pour surveiller ses serveurs, mais configurer tout ce bazar et le garder propre, c'est vite l'enfer. Alors pour ceux qui veulent juste garder un ...",
+      "published": "2026-06-12T05:39:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/beszel-monitoring-serveur/beszel-monitoring-serveur-1.png"
     },
     {
       "id": "c31bedc1c92d3cb90e31459b5829477f",
@@ -133,6 +253,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT390XWb8ahl36RgVGzdXiIpEJ43hxHfayY1i2C_rBLbVyu5A2Q-uOFptUFJL33Ehedvbx97RiUV2NivTy-FxxFCNiIKekiqeljYrI3kThk9Sko4wQlFniMDjIfNqgiP-BaN3JYFjAbo2EfP7EBuEDe_p00RtrAmdUl_lsbgzQgV-M7CM_u3Vi7AtqgbSS/s1600/ransomware.jpg"
     },
     {
+      "id": "8f11ec5ea6be16094ccac3b312575fb6",
+      "title": "eMule - Le grand retour de l'âne du P2P",
+      "link": "https://korben.info/retour-emule-amule.html",
+      "summary": "eMule ? Sérieusement ? Hé bien oui les amis, le célèbre mulet du P2P n'est pas encore mort de sa belle mort et en ce moment y'a un petit revival de cette bestiole du début des années 2000. C'est logique car les abonne...",
+      "published": "2026-06-11T16:24:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/retour-emule-amule/retour-emule-amule-1.jpg"
+    },
+    {
       "id": "7662e92c25ade7825b64c7389ed4405f",
       "title": "Intune + Robopack : le combo idéal pour automatiser la gestion des applications",
       "link": "https://www.it-connect.fr/intune-robopack-le-combo-ideal-pour-automatiser-la-gestion-des-applications/",
@@ -141,6 +271,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "1ed6892a717363694f65ef7f0db42f63",
+      "title": "ReactOS, le clone libre de Windows, fait enfin tourner Half-Life après trente ans de développement",
+      "link": "https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement.html",
+      "summary": "ReactOS, le système d'exploitation libre qui recopie Windows brique par brique, fait désormais tourner Half-Life ( et oui, décidément c'est la journée ! ), le jeu de tir que Valve a sorti en 1998 et qui a propulsé tou...",
+      "published": "2026-06-11T15:59:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement-1.webp"
     },
     {
       "id": "4b905644247bc9459783a7a6c387c9b8",
@@ -163,6 +303,36 @@
       "image": ""
     },
     {
+      "id": "38389fd22fb7b279ebb96955511b463e",
+      "title": "GreatXML - BitLocker contourné en quelques clics via WinRE",
+      "link": "https://korben.info/greatxml-bitlocker-bypass.html",
+      "summary": "BitLocker, je le rappelle c'est quand même le truc censé protéger vos données en cas de vol de votre bécane. Sauf que voilà, la théorie et Redmond, ça fait parfois deux... Le chercheur en sécurité Chaotic Eclipse (déj...",
+      "published": "2026-06-11T15:20:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/greatxml-bitlocker-bypass/greatxml-bitlocker-bypass-1.jpg"
+    },
+    {
+      "id": "aa6a8a0f10e0ae0b2d49cfaa51547a7f",
+      "title": "J'ai testé les Orbi 970, le système WiFi 7 le plus avancé de chez Netgear",
+      "link": "https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear.html",
+      "summary": "– Contient des liens affiliés Amazon – Netgear vend son Orbi 970 à 1 999 euros le pack de trois ( en promotion, au lieu de 2400 euros ha ha ). Et le tarif a beau faire tousser, ce système maillé en WiFi 7 (la toute de...",
+      "published": "2026-06-11T14:59:58+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear-1.jpeg"
+    },
+    {
+      "id": "3ced67577a306d62701c0d37c6a30c12",
+      "title": "La beta de macOS 27 fait disparaître Asahi Linux des Mac",
+      "link": "https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac.html",
+      "summary": "Mauvaise surprise pour les utilisateurs d'Asahi Linux, le projet qui fait tourner Linux nativement sur les Mac équipés de puces Apple Silicon (les fameuses M1, M2 et suivantes). La première beta développeur de macOS 2...",
+      "published": "2026-06-11T14:16:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac-1.jpg"
+    },
+    {
       "id": "ccd814aaae40bdb88deefa654bd9c93b",
       "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
       "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
@@ -181,56 +351,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZHAWbb4vxxCvcuKVVx_cF20NdH25LsT22W5ftwdgoPt9RSB_6g399zuxnBqiClQMbMTVTlZ5w2uZ7LoZnhySiv2rdRpu_992csHQmBaTqzkBAB3jkpru_Ofvli3RzA6r2kYxapez3lqhW02JPzqtJcDd2DGnZC62u72F59zUJbsS3CujuYH_mpj9lhk/s1600/winners.jpg"
-    },
-    {
-      "id": "a102233d6de2917bd2f2aa92f7f37344",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clone...",
-      "published": "2026-06-11T13:20:41+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1600/tt.png"
-    },
-    {
-      "id": "4115be3bf978f6e979b6fc9b61c6adc0",
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach af...",
-      "published": "2026-06-11T12:52:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1cf126a5efa3040f73928e0859a98d9c",
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
-      "published": "2026-06-11T12:46:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2414bdda7de4f83adaefa4464541eb0f",
-      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by s...",
-      "published": "2026-06-11T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg"
-    },
-    {
-      "id": "3c22dad552d6bb2f5e818be0a02501c3",
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
-      "published": "2026-06-11T08:44:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "bd386ab7192de4e58e36fab966bd6458",
@@ -283,31 +403,41 @@
       "image": ""
     },
     {
-      "id": "6f537374323e6bf925ff51f3029708ee",
-      "title": "Patch Tuesday – Juin 2026 : 200 failles de sécurité patchées, dont 3 zero-day",
-      "link": "https://www.it-connect.fr/patch-tuesday-juin-2026-200-failles-de-securite-patchees-dont-3-zero-day/",
-      "summary": "Le programme du Patch Tuesday de juin 2026 publié par Microsoft est très chargé : 200 failles de sécurité ont été corrigées, dont 3 failles zero-day. Le post Patch Tuesday – Juin 2026 : 200 failles de sécurité patchée...",
-      "published": "2026-06-10T13:24:48+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "40adef6433f7dd9587820ca896313be6",
+      "title": "Multiples vulnérabilités dans les produits Fortinet (10 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0725/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
+      "published": "2026-06-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "03af156aac9efb33f99b59a82d8c00a1",
-      "title": "macOS 27 Golden Gate : Apple enterre les Mac Intel et dévoile Siri AI",
-      "link": "https://www.it-connect.fr/macos-27-golden-gate-apple-enterre-les-mac-intel-et-devoile-siri-ai/",
-      "summary": "Apple a dévoilé macOS 27 Golden Gate : cette nouvelle mise à jour majeure marque un tournant : les Mac avec des processeurs Intel ne pourront pas en profiter. Le post macOS 27 Golden Gate : Apple enterre les Mac Intel...",
-      "published": "2026-06-10T12:00:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "1b77d49a12a965f1ebf780b79c758e7f",
+      "title": "Multiples vulnérabilités dans FreeBSD (10 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0716/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans FreeBSD. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+      "published": "2026-06-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "c34540df4a35552013484b63e1c8fa2c",
-      "title": "Multiples vulnérabilités dans les VPN Check Point (09 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0711/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les VPN Check Point. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité. Check Point indique que la vulnérabilité CVE-2026-50...",
-      "published": "2026-06-09T00:00:00+00:00",
+      "id": "7d8d74eeee5d8ac77af4ef8bd216526e",
+      "title": "Multiples vulnérabilités dans Microsoft Office (10 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0727/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
+      "published": "2026-06-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7a911e27285e11934e0358b729cc2b72",
+      "title": "Multiples vulnérabilités dans Xen (10 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0721/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "published": "2026-06-10T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -317,36 +447,6 @@
       "title": "Multiples vulnérabilités dans les produits SAP (09 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0715/",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), une injection de code indirecte à distance (XSS) et un co...",
-      "published": "2026-06-09T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1fb99aa599cc9170bec4fed7830b8d31",
-      "title": "Vulnérabilité dans CPython (09 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0704/",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-06-09T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0e133b21b09d9b31f472cd3b42cf3af3",
-      "title": "Vulnérabilité dans strongSwan (09 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0709/",
-      "summary": "Une vulnérabilité a été découverte dans strongSwan. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-06-09T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "77cd711d1b66d3486fa36456f798b878",
-      "title": "Multiples vulnérabilités dans les produits Spring (09 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0705/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la ...",
       "published": "2026-06-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -363,21 +463,21 @@
       "image": ""
     },
     {
-      "id": "41d9853f975faec0e1f6304803f697cc",
-      "title": "Vulnérabilité dans Laravel (08 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0703/",
-      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-06-08T00:00:00+00:00",
+      "id": "fefb6b07d7536a45b696a23df4456c96",
+      "title": "Vulnérabilité dans Veeam Backup & Replication (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0712/",
+      "summary": "Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-06-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "252d5d4c0cbcbec130a2c34d9bbd4391",
-      "title": "Multiples vulnérabilités dans Spring Micrometer (08 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0702/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Spring Micrometer. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-06-08T00:00:00+00:00",
+      "id": "6786baee6185facc375846bbd25d699c",
+      "title": "Multiples vulnérabilités dans les produits Siemens (09 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0714/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la c...",
+      "published": "2026-06-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
