@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-13T13:52:49.383040+00:00",
-  "count": 50,
+  "last_updated": "2026-06-13T19:20:54.014043+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "7f0ad743262dd872096612d3ee92a4f0",
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+      "published": "2026-06-13T14:06:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "8375823b34df93a93b46e3192643e1ed",
       "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
@@ -31,26 +41,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "02ea89eb44a096b57048ffae2c5d6a36",
-      "title": "Save Stargate - Les fans se mobilisent contre Amazon",
-      "link": "https://korben.info/save-stargate-fans-mobilisation-amazon.html",
-      "summary": "Si, comme moi, vous êtes un grand fan de la série Stargate , accrochez-vous bien parce que la Porte des Etoiles secoue plutôt pas mal ces derniers jours. J'sais pas si vous saviez mais en novembre dernier, Amazon avai...",
-      "published": "2026-06-13T07:22:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/save-stargate-fans-mobilisation-amazon/save-stargate-fans-mobilisation-amazon-1.jpg"
-    },
-    {
-      "id": "28185e7bdae9d7d61989d724801e588a",
-      "title": "Trump veut couper Claude Fable 5 pour les étrangers - Anthropic coupe tout",
-      "link": "https://korben.info/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout.html",
-      "summary": "Vendredi soir, vers 23h heure de Paris, Anthropic a reçu un courrier du gouvernement américain. Trois heures plus tard, ses deux modèles d'IA les plus avancés étaient hors ligne. Partout. Pour tout le monde. Anthropic...",
-      "published": "2026-06-13T05:46:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout-1.jpg"
     },
     {
       "id": "da6373d6eca2dc7f73ec335d7dce6717",
@@ -133,36 +123,6 @@
       "image": ""
     },
     {
-      "id": "0ea5ddd547d6c3d6a64655aa9b10e7f0",
-      "title": "AUR Arch Linux - 400 paquets vérolés, êtes-vous touché ?",
-      "link": "https://korben.info/arch-linux-aur-paquets-compromis.html",
-      "summary": "Si vous tournez sous Arch Linux et que vous piochez vos paquets dans l'AUR, lâchez ce que vous faites 2 minutes et lisez mon article. Car plus de 400 paquets de l'Arch User Repository ont été vérolés ce 11 juin, et le...",
-      "published": "2026-06-12T15:54:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/arch-linux-aur-paquets-compromis/arch-linux-aur-paquets-compromis-1.jpg"
-    },
-    {
-      "id": "868bc7896006e1ebee7a74eed4321d52",
-      "title": "PulseLoop libère les bagues connectées à 7 dollars",
-      "link": "https://korben.info/pulseloop-bague-connectee-open-source.html",
-      "summary": "7 dollars, c'est le prix d'une bague connectée chinoise sur AliExpress, et c'est surtout tout ce que Saksham Bhutani a payé pour se bricoler un coach santé privé. Son truc s'appelle PulseLoop , et c'est une app iPhone...",
-      "published": "2026-06-12T15:43:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pulseloop-bague-connectee-open-source/pulseloop-bague-connectee-open-source-1.png"
-    },
-    {
-      "id": "01571804fd60db14f0e67202a4ff7c4b",
-      "title": "Telegram Drive - Vos messages transformés en stockage cloud",
-      "link": "https://korben.info/telegram-drive-stockage-illimite.html",
-      "summary": "Comme beaucoup d'âmes en peine, vous utilisez les messages enregistrés sur Telegram comme un gros dépotoir pour stocker tous vos fichiers en vrac ? C'est pas con, mais pour retrouver un PDF précis ou streamer une vidé...",
-      "published": "2026-06-12T15:16:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/telegram-drive-stockage-illimite/telegram-drive-stockage-illimite-1.png"
-    },
-    {
       "id": "e3629d4d13b88a0bc78664b10eceb099",
       "title": "Windows 11 : la mise à jour KB5094126 casse l’accès OneDrive dans l’Explorateur !",
       "link": "https://www.it-connect.fr/windows-11-la-mise-a-jour-kb5094126-casse-lacces-onedrive-dans-lexplorateur/",
@@ -191,16 +151,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "00b133d39c9fcbdfe6bbef8d846c72e5",
-      "title": "Git 2.55 active Rust par défaut, et la fin du tout-C est déjà programmée",
-      "link": "https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee.html",
-      "summary": "Vingt et un ans après sa création par Linus Torvalds, Git amorce pour de bon son changement de langage. La première version de test de Git 2.55, publiée hier, active par défaut le code Rust dans le gestionnaire de ver...",
-      "published": "2026-06-12T12:44:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee-1.jpg"
     },
     {
       "id": "ae4cb1b293b0a7e015bd13448eec6e84",
@@ -273,36 +223,6 @@
       "image": ""
     },
     {
-      "id": "d4ab7dd77df449316d381853e97575dc",
-      "title": "CorridorKey - Le détourage de fond vert par IA",
-      "link": "https://korben.info/corridorkey.html",
-      "summary": "Détourer un sujet filmé sur un fond vert, c'est le cauchemar classique du compositing. Entre les cheveux rebelles, le flou de mouvement et cette satanée frange verte sur les bords, on y passe vite des heures. Faut dir...",
-      "published": "2026-06-12T07:40:53+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/corridorkey/corridorkey-1.jpg"
-    },
-    {
-      "id": "59d10db4b86d1d36ec86c0cafbdacbe9",
-      "title": "DiffusionGemma : le nouveau modèle de Google écrit son texte d'un bloc, et 4 fois plus vite",
-      "link": "https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite.html",
-      "summary": "Plus de 1 000 tokens par seconde sur une seule carte H100, l'accélérateur que Nvidia vend aux centres de données, et environ 700 sur une RTX 5090, sa carte gaming haut de gamme. C'est le débit que Google DeepMind anno...",
-      "published": "2026-06-12T07:32:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite-1.png"
-    },
-    {
-      "id": "9d44f5f89ce45f66f8635eb160bad3ed",
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "summary": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "published": "2026-06-12T07:09:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "09c555186b4025968a9cd14308917532",
       "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
       "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
@@ -313,16 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Of2v3fH68mBon8j-FkHg2vnpmDnEko0AOFIqTz07PQRxQdYgAO78dWxylFMVzJT4Z4Q8WI88zsOr6mRyBIW1Ym4gVAE21meQ3GqosaIn9f6i8u2bIuiq9Nn-pa0vYFqLK1Cy_evX4KEP_lfBD9UlmiqAl9SDjuXWbRTe8pnDnFDwgiMXEFcHi5lvDryQ/s1600/dark2web.jpg"
     },
     {
-      "id": "e4ec1e7d52db3ba1f4cb2b3f81d06bbc",
-      "title": "SteelSeries Sonar - L'alternative gratuite à Voicemeeter",
-      "link": "https://korben.info/steelseries-sonar-alternative-voicemeeter.html",
-      "summary": "Si vous voulez mixer vos sources audio sous Windows sans y passer vos nuits en mode David Guetta, vous allez kiffer SteelSeries Sonar et enfin dire adieu à l'interface imbuvable de Voicemeeter et la configuration ultr...",
-      "published": "2026-06-12T06:23:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/steelseries-sonar-alternative-voicemeeter/steelseries-sonar-alternative-voicemeeter-1.webp"
-    },
-    {
       "id": "4a89c7648cff068891ee70239cecdbcf",
       "title": "Linux : une faille permet de devenir root à cause d’un unique caractère",
       "link": "https://www.it-connect.fr/linux-une-faille-permet-de-devenir-root-a-cause-dun-unique-caractere/",
@@ -331,16 +241,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "46272e22302a71f2c3a0bc6aec97619f",
-      "title": "Beszel - Le monitoring de serveur simple et ultra-léger",
-      "link": "https://korben.info/beszel-monitoring-serveur.html",
-      "summary": "Vous connaissez le duo Prometheus et Grafana ? C'est le grand classique pour surveiller ses serveurs, mais configurer tout ce bazar et le garder propre, c'est vite l'enfer. Alors pour ceux qui veulent juste garder un ...",
-      "published": "2026-06-12T05:39:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/beszel-monitoring-serveur/beszel-monitoring-serveur-1.png"
     },
     {
       "id": "7662e92c25ade7825b64c7389ed4405f",
