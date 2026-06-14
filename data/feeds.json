@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-14T13:56:31.480060+00:00",
-  "count": 50,
+  "last_updated": "2026-06-14T19:21:59.313273+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "886d877ce365675a8761a720dd87ae0b",
+      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+      "summary": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal...",
+      "published": "2026-06-14T14:36:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "5cb1a4ed1914b4480b7084b769974b25",
       "title": "Ex-school district employee jailed for hacks on former employer",
@@ -11,26 +21,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "db8def98dfede90ae7797e21269032da",
-      "title": "Des listes de cybercriminels à télécharger",
-      "link": "https://korben.info/threat-actor-usernames-scrape-cybercriminels.html",
-      "summary": "Si vous faites un peu de renseignements (OSINT) et que ce que vous cherchez, c'est des pseudos de cybercriminels, spmedia a un truc qui devrait vous plaire. Son repo GitHub Threat-Actor-Usernames-Scrape rassemble envi...",
-      "published": "2026-06-13T15:05:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/threat-actor-usernames-scrape-cybercriminels/threat-actor-usernames-scrape-cybercriminels-1.jpg"
-    },
-    {
-      "id": "d4975691335266b08cbc8f33ae352659",
-      "title": "Grasp - Et si votre code ne dépendait plus d'une boîte ?",
-      "link": "https://korben.info/grasp-protocol.html",
-      "summary": "Grasp , c'est une alternative décentralisée à GitHub, signée DanConwayDev, le dev derrière ngit. Ça carbure à Nostr , le protocole décentralisé de fiatjaf, et l'idée avec ce truc, c'est que votre identité de dev, ce n...",
-      "published": "2026-06-13T14:50:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/grasp-protocol/grasp-protocol-1.jpg"
     },
     {
       "id": "7f0ad743262dd872096612d3ee92a4f0",
@@ -71,26 +61,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "02ea89eb44a096b57048ffae2c5d6a36",
-      "title": "Save Stargate - Les fans se mobilisent contre Amazon",
-      "link": "https://korben.info/save-stargate-fans-mobilisation-amazon.html",
-      "summary": "Si, comme moi, vous êtes un grand fan de la série Stargate , accrochez-vous bien parce que la Porte des Étoiles secoue plutôt pas mal ces derniers jours. J'sais pas si vous saviez mais en novembre dernier, Amazon avai...",
-      "published": "2026-06-13T07:22:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/save-stargate-fans-mobilisation-amazon/save-stargate-fans-mobilisation-amazon-1.jpg"
-    },
-    {
-      "id": "28185e7bdae9d7d61989d724801e588a",
-      "title": "Trump veut couper Claude Fable 5 pour les étrangers - Anthropic coupe tout",
-      "link": "https://korben.info/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout.html",
-      "summary": "Vendredi soir, vers 23h heure de Paris, Anthropic a reçu un courrier du gouvernement américain. Trois heures plus tard, ses deux modèles d'IA les plus avancés étaient hors ligne. Partout. Pour tout le monde. Anthropic...",
-      "published": "2026-06-13T05:46:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout-1.jpg"
     },
     {
       "id": "da6373d6eca2dc7f73ec335d7dce6717",
@@ -173,36 +143,6 @@
       "image": ""
     },
     {
-      "id": "0ea5ddd547d6c3d6a64655aa9b10e7f0",
-      "title": "AUR Arch Linux - 400 paquets vérolés, êtes-vous touché ?",
-      "link": "https://korben.info/arch-linux-aur-paquets-compromis.html",
-      "summary": "Si vous tournez sous Arch Linux et que vous piochez vos paquets dans l'AUR, lâchez ce que vous faites 2 minutes et lisez mon article. Car plus de 400 paquets de l'Arch User Repository ont été vérolés ce 11 juin, et le...",
-      "published": "2026-06-12T15:54:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/arch-linux-aur-paquets-compromis/arch-linux-aur-paquets-compromis-1.jpg"
-    },
-    {
-      "id": "868bc7896006e1ebee7a74eed4321d52",
-      "title": "PulseLoop libère les bagues connectées à 7 dollars",
-      "link": "https://korben.info/pulseloop-bague-connectee-open-source.html",
-      "summary": "7 dollars, c'est le prix d'une bague connectée chinoise sur AliExpress, et c'est surtout tout ce que Saksham Bhutani a payé pour se bricoler un coach santé privé. Son truc s'appelle PulseLoop , et c'est une app iPhone...",
-      "published": "2026-06-12T15:43:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pulseloop-bague-connectee-open-source/pulseloop-bague-connectee-open-source-1.png"
-    },
-    {
-      "id": "01571804fd60db14f0e67202a4ff7c4b",
-      "title": "Telegram Drive - Vos messages transformés en stockage cloud",
-      "link": "https://korben.info/telegram-drive-stockage-illimite.html",
-      "summary": "Comme beaucoup d'âmes en peine, vous utilisez les messages enregistrés sur Telegram comme un gros dépotoir pour stocker tous vos fichiers en vrac ? C'est pas con, mais pour retrouver un PDF précis ou streamer une vidé...",
-      "published": "2026-06-12T15:16:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/telegram-drive-stockage-illimite/telegram-drive-stockage-illimite-1.png"
-    },
-    {
       "id": "e3629d4d13b88a0bc78664b10eceb099",
       "title": "Windows 11 : la mise à jour KB5094126 casse l’accès OneDrive dans l’Explorateur !",
       "link": "https://www.it-connect.fr/windows-11-la-mise-a-jour-kb5094126-casse-lacces-onedrive-dans-lexplorateur/",
@@ -231,16 +171,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "00b133d39c9fcbdfe6bbef8d846c72e5",
-      "title": "Git 2.55 active Rust par défaut, et la fin du tout-C est déjà programmée",
-      "link": "https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee.html",
-      "summary": "Vingt et un ans après sa création par Linus Torvalds, Git amorce pour de bon son changement de langage. La première version de test de Git 2.55, publiée hier, active par défaut le code Rust dans le gestionnaire de ver...",
-      "published": "2026-06-12T12:44:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee-1.jpg"
     },
     {
       "id": "ae4cb1b293b0a7e015bd13448eec6e84",
@@ -273,16 +203,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WauAS1qxBj0Oziu-jmgn34YGvKsu9xISK-gtccFv-0WkcX6EC6e-ge9UF2PCZINf9RW5cN40GWijtbnZOvADSJKZ4ErYKX_Iqoo9AO9nk3E0548I07_5PNz6vWA13UMKwU1jGjXCQJLBFyXj_RPEgiVvCuEZZyijeNBxgaiIB1itadpRaDzzoyR_DcA/s1600/mdr.jpg"
     },
     {
-      "id": "3069f19c5a6cf08647a983ba03e78c64",
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "published": "2026-06-12T10:13:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "7f11d34d85c05b63f6528dca8958a644",
       "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
       "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
@@ -301,26 +221,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcWT1xHrfFw79S9Oy4jvo4Uw-tcziRPU4yzf1sySQQHWcn2S1Q-ke0f75hujKSNOkS375t93N6FrNzo0JXtXBm4lmsk4DQxVQyb8WVWOrQ2QSVBTMKjOexXV5394bYytXtS6putjNb8A0hqLqu7uvuKhGarI8TmwaxtxJebZJJDu6sEP17k6ic0tPSFiB/s1600/phish.jpg"
-    },
-    {
-      "id": "d4ab7dd77df449316d381853e97575dc",
-      "title": "CorridorKey - Le détourage de fond vert par IA",
-      "link": "https://korben.info/corridorkey.html",
-      "summary": "Détourer un sujet filmé sur un fond vert, c'est le cauchemar classique du compositing. Entre les cheveux rebelles, le flou de mouvement et cette satanée frange verte sur les bords, on y passe vite des heures. Faut dir...",
-      "published": "2026-06-12T07:40:53+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/corridorkey/corridorkey-1.jpg"
-    },
-    {
-      "id": "59d10db4b86d1d36ec86c0cafbdacbe9",
-      "title": "DiffusionGemma : le nouveau modèle de Google écrit son texte d'un bloc, et 4 fois plus vite",
-      "link": "https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite.html",
-      "summary": "Plus de 1 000 tokens par seconde sur une seule carte H100, l'accélérateur que Nvidia vend aux centres de données, et environ 700 sur une RTX 5090, sa carte gaming haut de gamme. C'est le débit que Google DeepMind anno...",
-      "published": "2026-06-12T07:32:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite-1.png"
     },
     {
       "id": "09c555186b4025968a9cd14308917532",
