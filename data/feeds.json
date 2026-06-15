@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-15T17:20:23.119689+00:00",
+  "last_updated": "2026-06-15T20:52:30.171844+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "bbd671bcce3983478ee4e543395ba7ce",
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
+      "published": "2026-06-15T20:06:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5ecad1271cf75693fd227ff64e64a476",
+      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Voi...",
+      "published": "2026-06-15T19:32:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqLMLYAQa1ICXVdOhmxnFqqoh_YonevmQPjEtYbmqLsdFC7JJnGc_F7K1no96DjZhTicVxI7sJUO04JM3e64Ko2eh1X6NlEqpKO2Nc1MKCzDPdqlmPZzTphhJlL7ibJ1CLRsIaVBZZvWtm7mv_jXLT53iwjlRVjBnyKCypFigPA0mZzFew-02Xp_aKu9o/s1600/northkorea.jpg"
+    },
+    {
+      "id": "4ac47e97b44561bf34ee3a6b8d136206",
+      "title": "Le VPN intégré de Firefox devient illimité cet été : profitez-en dès maintenant",
+      "link": "https://www.it-connect.fr/le-vpn-integre-de-firefox-devient-illimite-cet-ete-profitez-en-des-maintenant/",
+      "summary": "Jusqu'au 31 août 2026, le VPN intégré et gratuit de Firefox passe en données illimitées et propose 28 localisations de serveurs. Voici comment en profiter. Le post Le VPN intégré de Firefox devient illimité cet été : ...",
+      "published": "2026-06-15T19:06:51+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c389ce3ccf82d566d7ca60123260cdf8",
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
+      "published": "2026-06-15T17:37:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "4b098101a0972e9fcc11514132a5f39a",
       "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
@@ -76,7 +116,7 @@
       "id": "2f0001a2653320cb4dd5bca1a7667c92",
       "title": "Reconstituer l'écran d'une radio médicale avec une électrode de soudure",
       "link": "https://korben.info/reconstituer-lecran-dune-radio-medicale-avec-une-electrode-de-soudure.html",
-      "summary": "Un bricoleu, MarcellF , s'est mis en tête de produire lui-même l'écran fluorescent qui rend les rayons X visibles. Le genre de composant qu'on imagine sorti d'un labo d'imagerie. Sauf qu'il y est parvenu dans son atel...",
+      "summary": "Un bricoleur, MarcellF , s'est mis en tête de produire lui-même l'écran fluorescent qui rend les rayons X visibles. Le genre de composant qu'on imagine sorti d'un labo d'imagerie. Sauf qu'il y est parvenu dans son ate...",
       "published": "2026-06-15T15:23:34+00:00",
       "source": "Korben",
       "category": "outils",
@@ -303,6 +343,16 @@
       "image": ""
     },
     {
+      "id": "19188707dd7ef638361d9a66084b31c4",
+      "title": "La pénurie de compétences Cyber s’amplifie en France",
+      "link": "https://www.it-connect.fr/la-penurie-de-competences-cyber-samplifie-en-france/",
+      "summary": "Le déraillement des compétences en cybersécurité expose PME et État: analyse des failles, besoins en formation et pistes de montée en maturité. Le post La pénurie de compétences Cyber s’amplifie en France a été publié...",
+      "published": "2026-06-15T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
       "id": "9268d69cb6a237a0c8c8effdf715827b",
       "title": "CrankGPT : l'IA à manivelle qui se mérite à la force des bras",
       "link": "https://korben.info/crankgpt-lia-a-manivelle-qui-se-merite-a-la-force-des-bras.html",
@@ -311,26 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/crankgpt-lia-a-manivelle-qui-se-merite-a-la-force-des-bras/crankgpt-lia-a-manivelle-qui-se-merite-a-la-force-des-bras-1.jpg"
-    },
-    {
-      "id": "886d877ce365675a8761a720dd87ae0b",
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "summary": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal...",
-      "published": "2026-06-14T14:36:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5cb1a4ed1914b4480b7084b769974b25",
-      "title": "Ex-school district employee jailed for hacks on former employer",
-      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
-      "summary": "A former IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caus...",
-      "published": "2026-06-13T20:53:13+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "db8def98dfede90ae7797e21269032da",
@@ -368,36 +398,6 @@
       "link": "https://www.it-connect.fr/anthropic-coupe-lacces-a-fable-5-et-mythos-5-sur-ordre-du-gouvernement-americain/",
       "summary": "Lancés le 9 juin 2026, désactivés 3 jours plus tard : Anthropic a dû suspendre l'accès à Fable 5 et Mythos 5 suite à une directive du gouvernement américain. Le post Anthropic coupe l’accès à Fable 5 et Mythos 5 sur o...",
       "published": "2026-06-13T11:32:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "da6373d6eca2dc7f73ec335d7dce6717",
-      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-      "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-      "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the model...",
-      "published": "2026-06-13T05:42:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitE4uRkPKzQw_uUTSEzPgbuTByOaSNQeEHcANQCdYOtD8HJxqjIy9e0TIkkYeMN5QQghbvb1Nc4RJdwpGUD4ttQ8FqBpDAIMBe5Biw4zXIF-iYgl-vZPCGL1b5VNZpajQ8_cCPj7jx0DFABYuXLpyHYUSOe3jBKPsSej0y7TxrIHZwG_4m56TrDdTS9Ap1/s1600/Anthropic-claude.jpg"
-    },
-    {
-      "id": "e3629d4d13b88a0bc78664b10eceb099",
-      "title": "Windows 11 : la mise à jour KB5094126 casse l’accès OneDrive dans l’Explorateur !",
-      "link": "https://www.it-connect.fr/windows-11-la-mise-a-jour-kb5094126-casse-lacces-onedrive-dans-lexplorateur/",
-      "summary": "Suite à l'installation de la mise à jour KB5094126 sur Windows 11, les liens OneDrive et SharePoint intégrés à l'Explorateur de fichiers ne fonctionnent plus. Le post Windows 11 : la mise à jour KB5094126 casse l’accè...",
-      "published": "2026-06-12T14:20:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6371da69ad5f8f810352db3c04fb570f",
-      "title": "Cyberattaque chez Novo Nordisk : des données d’essais cliniques dans la nature",
-      "link": "https://www.it-connect.fr/cyberattaque-chez-novo-nordisk-des-donnees-dessais-cliniques-dans-la-nature/",
-      "summary": "Des pirates ont introduit les systèmes informatiques de Novo Nordisk et copié des informations liées à des patients participant à des essais cliniques. Le post Cyberattaque chez Novo Nordisk : des données d’essais cli...",
-      "published": "2026-06-12T13:19:03+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
