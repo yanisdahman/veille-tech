@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-06-15T11:58:09.510102+00:00",
+  "last_updated": "2026-06-15T17:20:23.119689+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4b098101a0972e9fcc11514132a5f39a",
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+      "published": "2026-06-15T17:12:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5fa2a44b2ecef4badde2323702fb0364",
+      "title": "Google Earth - Un simulateur de vol planqué dans un menu",
+      "link": "https://korben.info/google-earth-simulateur-vol-cache.html",
+      "summary": "Google a planqué un vrai petit simulateur de vol dans Google Earth, et quasiment personne n'en a parlé encore... C'est tout en bas du menu Tools, une option \"Flight simulator\" estampillée \"Experimental\". Vous cliquez ...",
+      "published": "2026-06-15T16:39:21+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-earth-simulateur-vol-cache/google-earth-simulateur-vol-cache-1.png"
+    },
+    {
+      "id": "ded9c232b49bbf1cb0977760c793f104",
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-sou...",
+      "published": "2026-06-15T16:39:01+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiH9LcMRhk5Li59rG05yXoOOofNzGpeG1MMSKQqhFCGW_28n0SjLKd9D4MC68N7jPP6dF2h2l8gW1OE7Y7akY2fckld2w1UKa3itsrCKeDjo_2vgzuvL3HxZpJ5naBx5LgPdjxhekaFONzBtR9SoJw-ugGVXOuceLQQPvJzcj7SSCgbRsqurOgnIgZppo/s1600/litellm.jpg"
+    },
+    {
+      "id": "46b88b31109474ef06a2a6cfaf42cb3b",
+      "title": "Council of Europe investigates ShinyHunters data breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
+      "published": "2026-06-15T16:37:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "955a2538d5ba8903ee0ab7fb90b71a64",
+      "title": "ClamUI : un antivirus graphique pour votre PC Linux",
+      "link": "https://www.it-connect.fr/tuto-clamui-linux-interface-graphique-clamav/",
+      "summary": "Besoin d'un antivirus sur votre PC Linux ? Découvrez ClamUI, l'interface graphique de ClamAV : installation, scan, protection en temps réel et quarantaine. Le post ClamUI : un antivirus graphique pour votre PC Linux a...",
+      "published": "2026-06-15T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bce7bfc0b63028290cae7a132407fa9b",
+      "title": "Noyau Linux 7.1 : entre nouveau pilote NTFS et nettoyage du code, voici les nouveautés",
+      "link": "https://www.it-connect.fr/noyau-linux-7-1-recapitulatif-nouveautes/",
+      "summary": "Linux 7.1 dévoile un pilote NTFS entièrement réécrit et un nettoyage en profondeur du noyau. Découvrez les nouveautés principales de cette version. Le post Noyau Linux 7.1 : entre nouveau pilote NTFS et nettoyage du c...",
+      "published": "2026-06-15T15:46:50+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "88d611523a839a1e497bd60481d6035a",
+      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
+      "published": "2026-06-15T15:30:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2f0001a2653320cb4dd5bca1a7667c92",
+      "title": "Reconstituer l'écran d'une radio médicale avec une électrode de soudure",
+      "link": "https://korben.info/reconstituer-lecran-dune-radio-medicale-avec-une-electrode-de-soudure.html",
+      "summary": "Un bricoleu, MarcellF , s'est mis en tête de produire lui-même l'écran fluorescent qui rend les rayons X visibles. Le genre de composant qu'on imagine sorti d'un labo d'imagerie. Sauf qu'il y est parvenu dans son atel...",
+      "published": "2026-06-15T15:23:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/reconstituer-lecran-dune-radio-medicale-avec-une-electrode-de-soudure/reconstituer-lecran-dune-radio-medicale-avec-une-electrode-de-soudure-1.webp"
+    },
+    {
+      "id": "0c053fa1b9e28cff8b119bfb93e9a94a",
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
+      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three b...",
+      "published": "2026-06-15T15:09:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3B8zgsVZmHEyLi8McE-eOrGvwf6Uh3zyqWrttvaEddXJCot7sybI1o-Ly5Q1TtuEJx9BzXol3oaXSFdzFif_5fg0TE3bFA7cuuNewVB2QiZC9HuWNsVDLZlpANK_qnbk_DfBgO1fRgpUbYbc_dL60zHQFxxFN4DgYDVI-D1LsA-8dkcVKpNjAStg9b4/s1600/ms365.jpg"
+    },
+    {
+      "id": "ffe5ffd6736b1e5d518ceeb60deea439",
+      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
+      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
+      "summary": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance chall...",
+      "published": "2026-06-15T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4c2016076984d7fcdef954b237987a16",
+      "title": "Chinese hackers breach REDCap servers, steal medical research",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
+      "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
+      "published": "2026-06-15T14:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a073d873ef0baa14803a31323cf6be94",
+      "title": "Test UGREEN DXP4800 GT : un NAS avec un processeur AMD et 2 interfaces 10 GbE",
+      "link": "https://www.it-connect.fr/test-ugreen-dxp4800-gt-nas/",
+      "summary": "Test complet du NAS UGREEN DXP4800 GT : AMD Ryzen Embedded, 2 x 10 GbE, compatible RAM ECC, etc... Voici mon avis sur ce nouveau NAS. Le post Test UGREEN DXP4800 GT : un NAS avec un processeur AMD et 2 interfaces 10 G...",
+      "published": "2026-06-15T14:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9ecfdbe1a96af65fca04c348c8dac424",
+      "title": "dnsweaver - DNS automatique pour Docker, Proxmox et K8s",
+      "link": "https://korben.info/dnsweaver-dns-automatique-homelab.html",
+      "summary": "Si vous hébergez vos propres services derrière une IP dynamique, vous connaissez sans doute des outils merveilleux comme DynDNS, NoIP, ou encore Cloudflare DDNS. Sauf que dès que votre homelab mélange du Docker, du Pr...",
+      "published": "2026-06-15T13:55:54+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dnsweaver-dns-automatique-homelab/dnsweaver-dns-automatique-homelab-1.png"
+    },
+    {
+      "id": "856a8ffbdb69929c783a53a3ac085a13",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easie...",
+      "published": "2026-06-15T13:49:29+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdohah5P1Lv9egIZCwwxpEdcV4phYigmhvgzB3ulDhSeeffe4qDsVoowrzaTD6WsgwyjKIdJ_vzvnsUJ78zn5oxOl83qUj5ie8NN_MF8pMbdcikrPpV9vAUgm-7NLOztqN17uTx-dktpkgcQSFrmulSyCtE3MCGHOe5yQRVDFbsrx0DUjoHTa76k4Oos/s1600/thn-recap.jpg"
+    },
+    {
+      "id": "203a335c132fdae377795a9a19877522",
+      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "summary": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted U...",
+      "published": "2026-06-15T13:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ced9048373ef14aaf38e1fed6ff1f2e6",
+      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student information system i...",
+      "published": "2026-06-15T12:38:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9cfc1f64814f5c737fb4cb35a77c5603",
+      "title": "PowerToys 0.100 est disponible : une galerie d’extensions pour la Palette de commandes",
+      "link": "https://www.it-connect.fr/powertoys-0-100-les-nouveautes/",
+      "summary": "PowerToys 0.100 est disponible : entre Dock multi-écrans, galerie d'extension pour la palette de Commandes... Découvrez les nouveautés de cette version. Le post PowerToys 0.100 est disponible : une galerie d’extension...",
+      "published": "2026-06-15T12:22:11+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7b2f334a16f237b582447ed8b7b2f3a1",
+      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
+      "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, ...",
+      "published": "2026-06-15T12:12:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "176069d623ac480202dbe3dca4408a57",
+      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+      "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
+      "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" passw...",
+      "published": "2026-06-15T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDj2pDJr4F9HBYmRTjOtetTz0h0vViw1lMZp6N0YAS5bGKv8ELJ1hjEcSffQg4xCTqhpIEkLchZxDXn-JNCQdUELSWNW5FcfHceLFvjAvVFXNJq5tClyqJ4onrgYp4lX3axgc2u0QU_k9MQoyjLfZt1RV3ZPapqVaZXrJy6H2wn4dw1dYWS1S4iou-dDI/s1600/outpost24.jpg"
+    },
     {
       "id": "351b1e1ea378852bd64beabe11e6359d",
       "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
@@ -163,16 +353,6 @@
       "image": "https://korben.info/grasp-protocol/grasp-protocol-1.jpg"
     },
     {
-      "id": "7f0ad743262dd872096612d3ee92a4f0",
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-      "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
-      "published": "2026-06-13T14:06:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8375823b34df93a93b46e3192643e1ed",
       "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
       "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
@@ -193,36 +373,6 @@
       "image": ""
     },
     {
-      "id": "66d6650c9b211b16f354fae3ab1f4f0f",
-      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-      "summary": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling ...",
-      "published": "2026-06-13T10:01:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "02ea89eb44a096b57048ffae2c5d6a36",
-      "title": "Save Stargate - Les fans se mobilisent contre Amazon",
-      "link": "https://korben.info/save-stargate-fans-mobilisation-amazon.html",
-      "summary": "Si, comme moi, vous êtes un grand fan de la série Stargate , accrochez-vous bien parce que la Porte des Étoiles secoue plutôt pas mal ces derniers jours. J'sais pas si vous saviez mais en novembre dernier, Amazon avai...",
-      "published": "2026-06-13T07:22:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/save-stargate-fans-mobilisation-amazon/save-stargate-fans-mobilisation-amazon-1.jpg"
-    },
-    {
-      "id": "28185e7bdae9d7d61989d724801e588a",
-      "title": "Trump veut couper Claude Fable 5 pour les étrangers - Anthropic coupe tout",
-      "link": "https://korben.info/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout.html",
-      "summary": "Vendredi soir, vers 23h heure de Paris, Anthropic a reçu un courrier du gouvernement américain. Trois heures plus tard, ses deux modèles d'IA les plus avancés étaient hors ligne. Partout. Pour tout le monde. Anthropic...",
-      "published": "2026-06-13T05:46:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout-1.jpg"
-    },
-    {
       "id": "da6373d6eca2dc7f73ec335d7dce6717",
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
       "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
@@ -231,86 +381,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitE4uRkPKzQw_uUTSEzPgbuTByOaSNQeEHcANQCdYOtD8HJxqjIy9e0TIkkYeMN5QQghbvb1Nc4RJdwpGUD4ttQ8FqBpDAIMBe5Biw4zXIF-iYgl-vZPCGL1b5VNZpajQ8_cCPj7jx0DFABYuXLpyHYUSOe3jBKPsSej0y7TxrIHZwG_4m56TrDdTS9Ap1/s1600/Anthropic-claude.jpg"
-    },
-    {
-      "id": "960e7cb4a6f113bf9a3e0d4b40e16c8e",
-      "title": "Maine disables data breach notification portal after fake disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
-      "published": "2026-06-12T19:33:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "96229a308f6e8434eb574698cbb95eb6",
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built...",
-      "published": "2026-06-12T19:33:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg"
-    },
-    {
-      "id": "5c34458ebfd9848c62c4030f3b3adf88",
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network...",
-      "published": "2026-06-12T18:59:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VG_lHXgOeahfKoUs6hQ7fOmh-dK1ZGloqzAWilTU73LKJF5mBDqw4OSpU8ViE0NEI1iW4cNS5vyz4TpqoJ_aGjHYt4-qJXfmZP2a3mi8GILe4OeP7qSFKeqDWrbHyoMmf49EtaDTylhnpLvem5LCwqX2e8MRSR5rQC5cNv9qH-H_ySeUT5uYHWRLGa5P/s1600/gemini-phishing.jpg"
-    },
-    {
-      "id": "6fad488c9a613a5f398ff53e549d8a43",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
-      "published": "2026-06-12T18:19:34+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8a77ae01fe4f3132eee7710ecba05c6e",
-      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it...",
-      "published": "2026-06-12T18:17:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg"
-    },
-    {
-      "id": "a10650f55e25a448412e012fa822e5dd",
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
-      "published": "2026-06-12T17:54:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9ce06d08160f086df0973c467391a596",
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "published": "2026-06-12T17:03:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0ea5ddd547d6c3d6a64655aa9b10e7f0",
-      "title": "AUR Arch Linux - 400 paquets vérolés, êtes-vous touché ?",
-      "link": "https://korben.info/arch-linux-aur-paquets-compromis.html",
-      "summary": "MÀJ du 12 juin : quand j'ai publié cet article, on en était à 400 paquets vérolés. Sauf que le chiffre n'a pas arrêté de grimper dans la journée. Quelques heures plus tard on parlait de 900, puis en fin de journée la ...",
-      "published": "2026-06-12T15:54:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/arch-linux-aur-paquets-compromis/arch-linux-aur-paquets-compromis-1.jpg"
     },
     {
       "id": "e3629d4d13b88a0bc78664b10eceb099",
@@ -323,81 +393,11 @@
       "image": ""
     },
     {
-      "id": "abb11e41f59391046bc39e99ba5e28a9",
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
-      "published": "2026-06-12T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6371da69ad5f8f810352db3c04fb570f",
       "title": "Cyberattaque chez Novo Nordisk : des données d’essais cliniques dans la nature",
       "link": "https://www.it-connect.fr/cyberattaque-chez-novo-nordisk-des-donnees-dessais-cliniques-dans-la-nature/",
       "summary": "Des pirates ont introduit les systèmes informatiques de Novo Nordisk et copié des informations liées à des patients participant à des essais cliniques. Le post Cyberattaque chez Novo Nordisk : des données d’essais cli...",
       "published": "2026-06-12T13:19:03+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ae4cb1b293b0a7e015bd13448eec6e84",
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet...",
-      "published": "2026-06-12T12:04:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1600/Agentjacking.jpg"
-    },
-    {
-      "id": "73b43aea2a9355850d63644f001b864e",
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
-      "published": "2026-06-12T11:44:58+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4a89c7648cff068891ee70239cecdbcf",
-      "title": "Linux : une faille permet de devenir root à cause d’un unique caractère",
-      "link": "https://www.it-connect.fr/linux-une-faille-permet-de-devenir-root-a-cause-dun-unique-caractere/",
-      "summary": "Une simple erreur de syntaxe, réduite à un unique caractère dans le code du noyau Linux, est à l'origine d'une faille de sécurité : CVE-2026-23111. Le post Linux : une faille permet de devenir root à cause d’un unique...",
-      "published": "2026-06-12T05:59:48+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7662e92c25ade7825b64c7389ed4405f",
-      "title": "Intune + Robopack : le combo idéal pour automatiser la gestion des applications",
-      "link": "https://www.it-connect.fr/intune-robopack-le-combo-ideal-pour-automatiser-la-gestion-des-applications/",
-      "summary": "Automatisez la gestion et le déploiement de vos applications dans Microsoft Intune avec Robopack. Gagnez un temps précieux au quotidien. Le post Intune + Robopack : le combo idéal pour automatiser la gestion des appli...",
-      "published": "2026-06-11T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9b0f14558182177100a2fdf69d7a284e",
-      "title": "Maîtriser la gestion des paquets avec APT sous Linux",
-      "link": "https://www.it-connect.fr/gestion-paquets-apt-linux/",
-      "summary": "Guide complet pour maîtriser la gestion des paquets avec APT sous Linux : apt update, install, upgrade, remove et toutes les commandes essentielles sous Debian. Le post Maîtriser la gestion des paquets avec APT sous L...",
-      "published": "2026-06-11T15:46:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bd386ab7192de4e58e36fab966bd6458",
-      "title": "Microsoft corrige la faille YellowKey, il révèle GreatXML pour contourner BitLocker !",
-      "link": "https://www.it-connect.fr/faille-greatxml-contournement-bitlocker-windows-zero-day/",
-      "summary": "À peine la faille YellowKey corrigée, une nouvelle zero-day nommée GreatXML menace BitLocker sur les machines Windows. Voici ce que l'on sait. Le post Microsoft corrige la faille YellowKey, il révèle GreatXML pour con...",
-      "published": "2026-06-11T07:37:36+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
