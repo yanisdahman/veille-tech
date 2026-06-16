@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-15T20:52:30.171844+00:00",
+  "last_updated": "2026-06-16T03:45:41.037308+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "772d48eb7f61da8345f0c245b27c336f",
+      "title": "Faux mail « Vos données sont sur le dark web » : décryptage d’une arnaque",
+      "link": "https://www.it-connect.fr/faux-mail-vos-donnees-sont-sur-le-dark-web-decryptage-dune-arnaque/",
+      "summary": "Comment un faux service d’effacement de données et un abonnement à 49,99 €/mois exploitent peur et IA pour tromper les victimes. Décryptage. Le post Faux mail « Vos données sont sur le dark web » : décryptage d’une ar...",
+      "published": "2026-06-15T22:10:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "05e303fde293f7d9cc16228000b8a6ac",
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "summary": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the f...",
+      "published": "2026-06-15T21:56:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c35011f9e5c74ff3674212ab3df5d013",
+      "title": "Oracle divise par deux son offre ARM gratuite, sans prévenir",
+      "link": "https://korben.info/oracle-cloud-always-free-arm-reduit.html",
+      "summary": "Si vous faites tourner un petit serveur gratuit chez Oracle, je vous invite prestement, comme dirait Godefroy, à aller vérifier votre compte. Car oui mes amis, Oracle vient de diviser par deux son offre \"Always Free\" ...",
+      "published": "2026-06-15T21:17:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/oracle-cloud-always-free-arm-reduit/oracle-cloud-always-free-arm-reduit-1.jpg"
+    },
     {
       "id": "bbd671bcce3983478ee4e543395ba7ce",
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
@@ -11,6 +41,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "e5fd7f85c5ee76073d1ce0837cef2d0d",
+      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+      "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on thei...",
+      "published": "2026-06-15T19:44:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE7EMoBrh5-6_V336v7LMFfChDVp-Sux8RX-UY5zhONtACR6kiz2w_VQ9o7e8nuqaWCqbxrvzPgSrruvEXN0jw_zKnaeVl73yDnfqbVqTPDnjHDPJPuBLd9vhGCJIl1BuqSblleOG9zG9YgbriqE7oiCuTEBQRDadsFOgQdN9PjdOglDeI_y2ZV5-Ehbo/s1600/google-china.jpg"
     },
     {
       "id": "5ecad1271cf75693fd227ff64e64a476",
@@ -213,16 +253,6 @@
       "image": ""
     },
     {
-      "id": "7b2f334a16f237b582447ed8b7b2f3a1",
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, ...",
-      "published": "2026-06-15T12:12:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "176069d623ac480202dbe3dca4408a57",
       "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
       "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
@@ -371,36 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/threat-actor-usernames-scrape-cybercriminels/threat-actor-usernames-scrape-cybercriminels-1.jpg"
-    },
-    {
-      "id": "d4975691335266b08cbc8f33ae352659",
-      "title": "Grasp - Et si votre code ne dépendait plus d'une boîte ?",
-      "link": "https://korben.info/grasp-protocol.html",
-      "summary": "Grasp , c'est une alternative décentralisée à GitHub, signée DanConwayDev, le dev derrière ngit. Ça carbure à Nostr , le protocole décentralisé de fiatjaf, et l'idée avec ce truc, c'est que votre identité de dev, ce n...",
-      "published": "2026-06-13T14:50:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/grasp-protocol/grasp-protocol-1.jpg"
-    },
-    {
-      "id": "8375823b34df93a93b46e3192643e1ed",
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, track...",
-      "published": "2026-06-13T13:23:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
-    },
-    {
-      "id": "51b38699c0b96d8520ecbc487c5d65ee",
-      "title": "Anthropic coupe l’accès à Fable 5 et Mythos 5 sur ordre du gouvernement américain",
-      "link": "https://www.it-connect.fr/anthropic-coupe-lacces-a-fable-5-et-mythos-5-sur-ordre-du-gouvernement-americain/",
-      "summary": "Lancés le 9 juin 2026, désactivés 3 jours plus tard : Anthropic a dû suspendre l'accès à Fable 5 et Mythos 5 suite à une directive du gouvernement américain. Le post Anthropic coupe l’accès à Fable 5 et Mythos 5 sur o...",
-      "published": "2026-06-13T11:32:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "40adef6433f7dd9587820ca896313be6",
