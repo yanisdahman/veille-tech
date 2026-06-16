@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-06-16T11:05:46.956298+00:00",
+  "last_updated": "2026-06-16T16:46:43.872161+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "10b63554c0e2fcfe553d9f8ac10373bb",
+      "title": "Connecter l’IA à Thunderbird avec ce serveur MCP pour gérer vos e-mails",
+      "link": "https://www.it-connect.fr/connecter-ia-a-thunderbird-pour-gerer-ses-e-mails-avec-un-serveur-mcp/",
+      "summary": "Apprenez à installer et à configurer le serveur MCP thunderbird-mcp pour connecter une IA à Thunderbird et bénéficier d'un assistant pour gérer vos e-mails. Le post Connecter l’IA à Thunderbird avec ce serveur MCP pou...",
+      "published": "2026-06-16T16:17:24+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b95930d6df7424f720230e082f90ff27",
+      "title": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
+      "link": "https://korben.info/commodore-callback-8020.html",
+      "summary": "Commodore est de retour les amis ! Et pas avec une énième réédition miniaturisé avec IA du C64. Non, la marque, rachetée l'an dernier par le YouTubeur Peri Fractic devenu maintenant son PDG, sort un téléphone à clapet...",
+      "published": "2026-06-16T16:10:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/commodore-callback-8020/commodore-callback-8020-1.avif"
+    },
+    {
+      "id": "4e1637c77fb6fdbd594bad98e61fad19",
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "summary": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the ag...",
+      "published": "2026-06-16T14:38:49+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0056011a6a3b73411caa3e0168a387a5",
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetecte...",
+      "published": "2026-06-16T14:17:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4df03170d3ed14e9a37d8ab24428b675",
+      "title": "Le FBI a bâti une fausse ville entière dans un hangar, juste pour la pirater",
+      "link": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater.html",
+      "summary": "Le FBI possède sa propre ville, sauf que personne n'y habite, et pour cause, elle a été montée de toutes pièces dans un hangar de Huntsville, en Alabama, avec ses maisons meublées, son hôtel, sa station-service, son é...",
+      "published": "2026-06-16T14:01:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater-1.jpg"
+    },
+    {
+      "id": "b1c4408ed21dbbfd9f7ef2fef861294f",
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+      "published": "2026-06-16T13:42:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bfd07474759aaa2f24b28f20f410932f",
+      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+      "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-t...",
+      "published": "2026-06-16T13:10:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_U2JZgjmQGUfV3q90DEMUgqHK2kqloGQR5lBYn_8UUC2DUIFpJPpCnETlOUh1IldJXcWdr9YZ5hA3yUtZETvviRousyQt7En5mNSjwoJiD_gJ9_kjS7L8ujw_y6CN3NeygZWa-sXCEG1zo5PBmuB5CkSP-EYxBWsUEtUq4iYJ3AYXHVM_TscyngMwPU/s1600/android-banking-trojan.jpg"
+    },
+    {
+      "id": "ffdfe4690efa2c3c5bd19f8ab4c8ec02",
+      "title": "Test du Dreo TurboCool 516S : je n’ai plus peur de la canicule",
+      "link": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule.html",
+      "summary": "– Contient des liens affiliés Amazon – J'ai posé le Dreo TurboCool 516S sur mon bureau au début de la vague de chaleur, et c'est vite devenu mon arme anti-canicule pour bosser. Ce n'est ni un ventilateur classique, ni...",
+      "published": "2026-06-16T12:32:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule-1.jpeg"
+    },
+    {
+      "id": "3ebab55acf2b4242657b276f5ab89b97",
+      "title": "WordPress : 1,2 million de sites exposés après le piratage d’OptinMonster",
+      "link": "https://www.it-connect.fr/wordpress-1-2-million-de-sites-exposes-apres-le-piratage-doptinmonster/",
+      "summary": "OptinMonster, TrustPulse et PushEngage ont été visés par une attaque supply chain exposant plus de 1,2 million de sites WordPress. Voici comment réagir. Le post WordPress : 1,2 million de sites exposés après le pirata...",
+      "published": "2026-06-16T12:05:07+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "271affb47608710f51b5d2519f5f6cfc",
+      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
+      "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
+      "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors an...",
+      "published": "2026-06-16T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjJejsRU4njToU8avtW_XwlouRy_HhUCWBUzgTtjb0e-LWzIO6zQprJ_tRqq6KO0Dvn64NNH35d6lYYadq7WSWAjn4jG_onOHYaJYrdg5CgUeVxyXBQJu7LUIAeVrEhFziJvlITCbj4kN9GSi9vp4ZpRpVwnxYCHKskOjUiFf-KIue9JlZzAJqJZUsxE/s1600/Spur-IP-Intel-Study-Feature.png"
+    },
+    {
+      "id": "e896dd3e29b026822e93627de6cf1f14",
+      "title": "Des versions Windows du malware SprySOCKS visent des gouvernements",
+      "link": "https://www.it-connect.fr/des-versions-windows-du-malware-sprysocks-visent-des-gouvernements/",
+      "summary": "ESET a découvert des variantes Windows du malware SprySOCKS, liées au groupe chinois Earth Lusca, utilisées pour espionner des gouvernements dans quatre pays. Le post Des versions Windows du malware SprySOCKS visent d...",
+      "published": "2026-06-16T11:21:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "73e896dfbf6e0919f2bef98ad05919ea",
       "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
@@ -143,16 +253,6 @@
       "image": "https://korben.info/episteme-lecteur-ebooks-open-source/episteme-lecteur-ebooks-open-source-1.jpg"
     },
     {
-      "id": "cbef8701c40bd4025213f5482381c231",
-      "title": "MOTHER 1 sur SNES - le remake que Nintendo n'a jamais fait",
-      "link": "https://korben.info/mother-1-snes-earthbound-patch.html",
-      "summary": "EarthBound Beginnings Remake est à l'origine un projet entre potes qui traine depuis 19 ans et qui youpi !, vient enfin de voir le jour ! Il s'agit d'un ROM hack mené par un certain Gabbls, qui recrée MOTHER, le tout ...",
-      "published": "2026-06-16T06:41:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/mother-1-snes-earthbound-patch/mother-1-snes-earthbound-patch-1.jpg"
-    },
-    {
       "id": "d98fb3a0a4933bd880483ade450ee3c0",
       "title": "iRhythm discloses data breach, says hackers stole patient info",
       "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
@@ -213,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "c35011f9e5c74ff3674212ab3df5d013",
-      "title": "Oracle divise par deux son offre ARM gratuite, sans prévenir",
-      "link": "https://korben.info/oracle-cloud-always-free-arm-reduit.html",
-      "summary": "Si vous faites tourner un petit serveur gratuit chez Oracle, je vous invite prestement, comme dirait Godefroy, à aller vérifier votre compte. Car oui mes amis, Oracle vient de diviser par deux son offre \"Always Free\" ...",
-      "published": "2026-06-15T21:17:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/oracle-cloud-always-free-arm-reduit/oracle-cloud-always-free-arm-reduit-1.jpg"
-    },
-    {
       "id": "bbd671bcce3983478ee4e543395ba7ce",
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
       "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
@@ -273,36 +363,6 @@
       "image": ""
     },
     {
-      "id": "c389ce3ccf82d566d7ca60123260cdf8",
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-      "published": "2026-06-15T17:37:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4b098101a0972e9fcc11514132a5f39a",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "published": "2026-06-15T17:12:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5fa2a44b2ecef4badde2323702fb0364",
-      "title": "Google Earth - Un simulateur de vol planqué dans un menu",
-      "link": "https://korben.info/google-earth-simulateur-vol-cache.html",
-      "summary": "Google a planqué un vrai petit simulateur de vol dans Google Earth. Alors soyons honnêtes, ce n’est pas tout neuf : l’easter egg traîne dans la version desktop depuis 2007 (Google Earth 4.2, on le débloquait avec le r...",
-      "published": "2026-06-15T16:39:21+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/google-earth-simulateur-vol-cache/google-earth-simulateur-vol-cache-1.png"
-    },
-    {
       "id": "ded9c232b49bbf1cb0977760c793f104",
       "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
       "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
@@ -311,16 +371,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiH9LcMRhk5Li59rG05yXoOOofNzGpeG1MMSKQqhFCGW_28n0SjLKd9D4MC68N7jPP6dF2h2l8gW1OE7Y7akY2fckld2w1UKa3itsrCKeDjo_2vgzuvL3HxZpJ5naBx5LgPdjxhekaFONzBtR9SoJw-ugGVXOuceLQQPvJzcj7SSCgbRsqurOgnIgZppo/s1600/litellm.jpg"
-    },
-    {
-      "id": "46b88b31109474ef06a2a6cfaf42cb3b",
-      "title": "Council of Europe investigates ShinyHunters data breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
-      "published": "2026-06-15T16:37:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "955a2538d5ba8903ee0ab7fb90b71a64",
@@ -343,61 +393,11 @@
       "image": ""
     },
     {
-      "id": "0c053fa1b9e28cff8b119bfb93e9a94a",
-      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three b...",
-      "published": "2026-06-15T15:09:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3B8zgsVZmHEyLi8McE-eOrGvwf6Uh3zyqWrttvaEddXJCot7sybI1o-Ly5Q1TtuEJx9BzXol3oaXSFdzFif_5fg0TE3bFA7cuuNewVB2QiZC9HuWNsVDLZlpANK_qnbk_DfBgO1fRgpUbYbc_dL60zHQFxxFN4DgYDVI-D1LsA-8dkcVKpNjAStg9b4/s1600/ms365.jpg"
-    },
-    {
       "id": "a073d873ef0baa14803a31323cf6be94",
       "title": "Test UGREEN DXP4800 GT : un NAS avec un processeur AMD et 2 interfaces 10 GbE",
       "link": "https://www.it-connect.fr/test-ugreen-dxp4800-gt-nas/",
       "summary": "Test complet du NAS UGREEN DXP4800 GT : AMD Ryzen Embedded, 2 x 10 GbE, compatible RAM ECC, etc... Voici mon avis sur ce nouveau NAS. Le post Test UGREEN DXP4800 GT : un NAS avec un processeur AMD et 2 interfaces 10 G...",
       "published": "2026-06-15T14:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "856a8ffbdb69929c783a53a3ac085a13",
-      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easie...",
-      "published": "2026-06-15T13:49:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdohah5P1Lv9egIZCwwxpEdcV4phYigmhvgzB3ulDhSeeffe4qDsVoowrzaTD6WsgwyjKIdJ_vzvnsUJ78zn5oxOl83qUj5ie8NN_MF8pMbdcikrPpV9vAUgm-7NLOztqN17uTx-dktpkgcQSFrmulSyCtE3MCGHOe5yQRVDFbsrx0DUjoHTa76k4Oos/s1600/thn-recap.jpg"
-    },
-    {
-      "id": "9cfc1f64814f5c737fb4cb35a77c5603",
-      "title": "PowerToys 0.100 est disponible : une galerie d’extensions pour la Palette de commandes",
-      "link": "https://www.it-connect.fr/powertoys-0-100-les-nouveautes/",
-      "summary": "PowerToys 0.100 est disponible : entre Dock multi-écrans, galerie d'extension pour la palette de Commandes... Découvrez les nouveautés de cette version. Le post PowerToys 0.100 est disponible : une galerie d’extension...",
-      "published": "2026-06-15T12:22:11+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d2f4dd1bdd5208d4affbe0b57f95ee3d",
-      "title": "Le point sur les mises à jour de juin 2026 pour Windows Server",
-      "link": "https://www.it-connect.fr/le-point-sur-les-mises-a-jour-de-juin-2026-pour-windows-server/",
-      "summary": "Microsoft a mis en ligne les mises à jour de juin 2026 pour les machines sous Windows Server : KB5094125, KB5094128, etc.... Voici les nouveautés. Le post Le point sur les mises à jour de juin 2026 pour Windows Server...",
-      "published": "2026-06-15T07:10:33+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5608578d82971df91a3157e735242b0e",
-      "title": "Arch Linux : plus de 400 paquets de l’AUR piégés par un rootkit et un infostealer",
-      "link": "https://www.it-connect.fr/arch-linux-plus-de-400-paquets-de-laur-pieges-par-un-rootkit-et-un-infostealer/",
-      "summary": "Plus de 400 paquets de l'Arch User Repository (AUR) ont été compromis pour diffuser un rootkit et un infostealer ciblant les identifiants des développeurs. Le post Arch Linux : plus de 400 paquets de l’AUR piégés par ...",
-      "published": "2026-06-15T05:24:05+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -427,26 +427,6 @@
       "title": "Multiples vulnérabilités dans Microsoft Office (10 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0727/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
-      "published": "2026-06-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7a911e27285e11934e0358b729cc2b72",
-      "title": "Multiples vulnérabilités dans Xen (10 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0721/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "published": "2026-06-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4a1b4642d6dee66081431d6bdacd0d9d",
-      "title": "Multiples vulnérabilités dans Typo3 (10 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0722/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la ...",
       "published": "2026-06-10T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -483,11 +463,31 @@
       "image": ""
     },
     {
-      "id": "d99081aca8e87aa0f5a19c9c1e6cc895",
-      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (05 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0699/",
-      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer une élévation de privilèges. Cisco indique que la vulnérabilité CVE-2026-20245 est activement exploitée.",
-      "published": "2026-06-05T00:00:00+00:00",
+      "id": "4d2a541a721a4fdfb90c5908fea2d014",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (10 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0731/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
+      "published": "2026-06-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c7d84c90e63f6b9bdba638e4fc6fa7ed",
+      "title": "Multiples vulnérabilités dans Microsoft Azure (10 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0730/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "published": "2026-06-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fa03046c5d36f4681119349e8a590e6a",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (22 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0632/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-05-22T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
