@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-06-17T03:49:44.636882+00:00",
-  "count": 50,
+  "last_updated": "2026-06-17T10:49:53.899102+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "7a1317c9b6804780644358eec112084c",
+      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited ...",
+      "published": "2026-06-17T10:09:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ecc0d33c2b0bb24af000e39a12422cf1",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider k...",
+      "published": "2026-06-17T09:38:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg"
+    },
+    {
+      "id": "e564c26475689296cc45eda5cb7acf37",
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
+      "published": "2026-06-17T08:32:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6332b5691b35a537ee5c97922cfdccde",
+      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised a...",
+      "published": "2026-06-17T07:38:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKLWn0zHFuJ8rkb2bqILIyAGxt_-VJ13Ytmv1TRWtGJkI6Rva5Oag5LdLasE2rmenokuRvoEI2wH0Ayfe_P4_5q1Qc5FQ2MrQgUHrgD9wY6DTlYugAtj8CP7Fh0OPjKkU5LbeRKWvPEh0Ol0CmLTe4QVayeZiNlVFvU7MO5tWl-b8Lbn80hKd45q9Z1yOd/s1600/npms.jpg"
+    },
+    {
+      "id": "4cd4fe87e954ecde75a56b451efd8bf8",
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
+      "published": "2026-06-17T07:07:56+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "10870789f2fe1041afff653a79460725",
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) cata...",
+      "published": "2026-06-17T05:50:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1600/joomla.jpg"
+    },
+    {
+      "id": "ffc2c8feff6cf46e4c22a0c3cbcaadd3",
+      "title": "La touche Copilot vous agace ? Microsoft reconnaît le problème et vous laissera la réaffecter",
+      "link": "https://www.it-connect.fr/la-touche-copilot-vous-agace-microsoft-reconnait-le-probleme-et-vous-laissera-la-reaffecter/",
+      "summary": "Microsoft admet enfin que la touche Copilot perturbe la productivité. Une mise à jour de Windows 11 permettra de la réaffecter. On vous explique comment. Le post La touche Copilot vous agace ? Microsoft reconnaît le p...",
+      "published": "2026-06-17T05:01:07+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "605bc54040ab45ddddcf92bb6dab79ac",
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
@@ -63,16 +133,6 @@
       "image": ""
     },
     {
-      "id": "b95930d6df7424f720230e082f90ff27",
-      "title": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
-      "link": "https://korben.info/commodore-callback-8020.html",
-      "summary": "Commodore est de retour les amis ! Et pas avec une énième réédition miniaturisé avec IA du C64. Non, la marque, rachetée l'an dernier par le YouTubeur Peri Fractic devenu maintenant son PDG, sort un téléphone à clapet...",
-      "published": "2026-06-16T16:10:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/commodore-callback-8020/commodore-callback-8020-1.avif"
-    },
-    {
       "id": "4e1637c77fb6fdbd594bad98e61fad19",
       "title": "UK to require ID or face scan before you can make social media accounts",
       "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
@@ -93,16 +153,6 @@
       "image": ""
     },
     {
-      "id": "4df03170d3ed14e9a37d8ab24428b675",
-      "title": "Le FBI a bâti une fausse ville entière dans un hangar, juste pour la pirater",
-      "link": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater.html",
-      "summary": "Le FBI possède sa propre ville, sauf que personne n'y habite, et pour cause, elle a été montée de toutes pièces dans un hangar de Huntsville, en Alabama, avec ses maisons meublées, son hôtel, sa station-service, son é...",
-      "published": "2026-06-16T14:01:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater-1.jpg"
-    },
-    {
       "id": "b1c4408ed21dbbfd9f7ef2fef861294f",
       "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
@@ -121,16 +171,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_U2JZgjmQGUfV3q90DEMUgqHK2kqloGQR5lBYn_8UUC2DUIFpJPpCnETlOUh1IldJXcWdr9YZ5hA3yUtZETvviRousyQt7En5mNSjwoJiD_gJ9_kjS7L8ujw_y6CN3NeygZWa-sXCEG1zo5PBmuB5CkSP-EYxBWsUEtUq4iYJ3AYXHVM_TscyngMwPU/s1600/android-banking-trojan.jpg"
-    },
-    {
-      "id": "ffdfe4690efa2c3c5bd19f8ab4c8ec02",
-      "title": "Test du Dreo TurboCool 516S : je n’ai plus peur de la canicule",
-      "link": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule.html",
-      "summary": "– Contient des liens affiliés Amazon – J'ai posé le Dreo TurboCool 516S sur mon bureau au début de la vague de chaleur, et c'est vite devenu mon arme anti-canicule pour bosser. Ce n'est ni un ventilateur classique, ni...",
-      "published": "2026-06-16T12:32:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule-1.jpeg"
     },
     {
       "id": "3ebab55acf2b4242657b276f5ab89b97",
@@ -183,26 +223,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisozpc0YfCvHjGAyEZf7c1G10iEOgszA-mkIIrhG3A4VYcq8_Hih8U0hO66iBoDPPJZhfq7Dc3fGTsMLDiFiGSk6-xS7ltGORLe0_sC8VyhZHlfIkeGpOkMTcbQ0R7BeDtDmZFb-VB_GF3le8p0mx2ZMD-CLZb5eWlMJPiBhdu9ljzlh_E01hIon9dA-Y3/s1600/Fortinet.png"
     },
     {
-      "id": "1ba186f5a9d56c9c3cecd0b47b69f909",
-      "title": "OpenCAL - Imprimer un objet en quelques secondes, sans la moindre couche",
-      "link": "https://korben.info/opencal-imprimer-un-objet-en-quelques-secondes-sans-la-moindre-couche.html",
-      "summary": "Une équipe issue de l'université de Berkeley vient de publier OpenCAL, une version libre et documentée d'une technique d'impression 3D qui ne ressemble à rien de ce qu'on connaît, et le projet est désormais reproducti...",
-      "published": "2026-06-16T10:22:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/opencal-imprimer-un-objet-en-quelques-secondes-sans-la-moindre-couche/opencal-imprimer-un-objet-en-quelques-secondes-sans-la-moindre-couche-1.jpg"
-    },
-    {
-      "id": "a0af703507a67a6ebef3ba63eba47202",
-      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "summary": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
-      "published": "2026-06-16T10:18:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "e4161cf0fe7cbfedf9ba789d0c8137de",
       "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
       "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
@@ -213,56 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxym2hiE83TbiNOrIeH3s4QCF0wQ_BYcSYPKlC3m9LGSuJnH7UNicbkgIk4kQTbpPiLRul9dSxQ180XW656_9NPtlqWoTGivTamDVl24ZfUQFPgUleakZq6aZI5kZqszNz3GpVyJQnPiXis_kjlMqAxKBxGKZsDdAvb-rX20fxszdd0pCKRO9GqK3CSu-p/s1600/chinese-proxy.png"
     },
     {
-      "id": "884b7fdc7e3e2f429e842469f0ba7a8a",
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-      "published": "2026-06-16T09:19:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5f6981dd3365411841630a64b52e737a",
-      "title": "Une veste qui fabrique de l'eau potable à partir de l'air, comme dans Dune",
-      "link": "https://korben.info/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune.html",
-      "summary": "Des ingénieurs de l'université du Texas à Austin ont mis au point un vêtement qui tire de l'eau potable directement de l'air ambiant, sans réservoir à remplir ni source à proximité, simplement grâce au tissu dont il e...",
-      "published": "2026-06-16T09:13:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune-1.avif"
-    },
-    {
-      "id": "365efd03b8c4a7da594b9e93ece71d29",
-      "title": "Une seule commande, et votre Surface se transformait en presse-papier",
-      "link": "https://korben.info/une-seule-commande-et-votre-surface-se-transformait-en-presse-papier.html",
-      "summary": "Une seule petite ligne de code envoyée au mauvais endroit pouvait transformer un Surface Laptop en bloc de métal inutilisable. C'est sur cette faille que Microsoft a discrètement travaillé pendant trois mois, avant qu...",
-      "published": "2026-06-16T09:00:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-seule-commande-et-votre-surface-se-transformait-en-presse-papier/une-seule-commande-et-votre-surface-se-transformait-en-presse-papier-1.jpeg"
-    },
-    {
-      "id": "9909f0eac12b98d1eb294947fd52cdb7",
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
-      "published": "2026-06-16T09:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c00c5fa63ca38eb88b743ecab7d1aa9a",
-      "title": "GeoFS - Le simulateur de vol gratuit qui tourne dans le navigateur",
-      "link": "https://korben.info/geofs-simulateur-vol-navigateur.html",
-      "summary": "Vous avez aimé le simulateur de vol planqué dans la version web de Google Earth ? Alors GeoFS risque de vous scotcher pour de bon ! GeoFS, c'est un simulateur de vol entièrement gratuit développé par le Français Xavie...",
-      "published": "2026-06-16T08:30:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/geofs-simulateur-vol-navigateur/geofs-simulateur-vol-navigateur-1.png"
-    },
-    {
       "id": "abca21c7dbe549a502357ee1bd16f398",
       "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
       "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
@@ -271,56 +241,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lf-lxaztGp4Ov5_hu7TmA6AEoqhh2oBADVLVEbA1HTzmsAyX9ePZtZvvBlBzNym1RiifCmOnb-pf604J7plqPdarQxnW-m6Ds0Wi-kT1Ytqm1KlGsf4hWmL8YPa17MXv4yxcEN0CwkA_9qwbEGn74XdX4Y0J4t1rR3oflfW5cpy2tXo65kVMFI3oRFxr/s1600/ms-alert.jpg"
-    },
-    {
-      "id": "430a84c1b55a97c6f58a606105543490",
-      "title": "Age of LLM - Un Age of Empires où aucun humain ne joue",
-      "link": "https://korben.info/age-of-llm-ia-strategie-sans-humains.html",
-      "summary": "Vous voulez savoir comment GPT-5.5, Claude ou Grok raisonnent quand on les met sous pression ? Hé bien filez-leur un jeu de stratégie et regardez-les se faire la guerre. C'est tout le principe d' Age of LLM , monté pa...",
-      "published": "2026-06-16T08:10:20+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/age-of-llm-ia-strategie-sans-humains/age-of-llm-ia-strategie-sans-humains-1.png"
-    },
-    {
-      "id": "a722a8604d7dd4297ca34263544c7bfc",
-      "title": "FIFA - Un hacker pouvait rickroller le Mondial 2026 en direct",
-      "link": "https://korben.info/fifa-faille-streaming-mondial-2026.html",
-      "summary": "Avis aux fans de foot parmi vous qui comptent regarder cette Coupe du Monde 2026, j'ai une bonne et une mauvaise nouvelle à vous annoncer ! Non, je déconne, je n'ai que des mauvaises nouvelles à vous annoncer ! La pre...",
-      "published": "2026-06-16T07:53:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fifa-faille-streaming-mondial-2026/fifa-faille-streaming-mondial-2026-1.png"
-    },
-    {
-      "id": "c3dd9406d18735a02f92df009bf04699",
-      "title": "Episteme - Le lecteur d'ebooks libre qui lit (vraiment) tout",
-      "link": "https://korben.info/episteme-lecteur-ebooks-open-source.html",
-      "summary": "Le monde des liseuses, c'est un monde impitoyaaaable. Entre les Kobo, les Kindle, les tablettes chinoises ou encore les formats proprio des ebooks et leurs DRM à la con, c'est super difficile de faire le bon choix. Pu...",
-      "published": "2026-06-16T06:52:47+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/episteme-lecteur-ebooks-open-source/episteme-lecteur-ebooks-open-source-1.jpg"
-    },
-    {
-      "id": "4c575b5bb9bb1889d35e1074597eb347",
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS scor...",
-      "published": "2026-06-16T06:05:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-vJIadGle0Cre1cNAxZIcD9ktkl1mPnUwtEtF1xuMbeH75BnvGq3twL0W2OowYW7ZZMxvzMjdbU-VMEZfEvV1q2pTIoG8VU_D0d_rpRqwlViZqUyb1WKcL6pM9Nklx_mISZR2BttoBxMq8w6Z87rf3Stm37ZbcRbAYM0SQeEJqg0T8dc2KsrX1a9l95B7/s1600/cisco-flaw.jpg"
-    },
-    {
-      "id": "5b94477ed5ec6723600f72bc204673f2",
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive B...",
-      "published": "2026-06-16T05:41:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweJrEaMuAEZCtL6h2H2XMxWOMGzKSktYq9kDvwXAGvIAt39-gz3irXruUA0KVSSupFdIh13o2F5quHfout07-tOHYK334xgNwRq5WcVbfyL5T1i-jYVCGLuVksBYExOncAm72ZuyRacuSG8a1ssx6jrxN8WcQ5Q91gYN3MYh-rWcY_86jVcbvZJbabPR1/s1600/litespeed.jpg"
     },
     {
       "id": "0b0c962a3a3847ca10c66e52187e5670",
@@ -353,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "e5fd7f85c5ee76073d1ce0837cef2d0d",
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-      "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on thei...",
-      "published": "2026-06-15T19:44:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE7EMoBrh5-6_V336v7LMFfChDVp-Sux8RX-UY5zhONtACR6kiz2w_VQ9o7e8nuqaWCqbxrvzPgSrruvEXN0jw_zKnaeVl73yDnfqbVqTPDnjHDPJPuBLd9vhGCJIl1BuqSblleOG9zG9YgbriqE7oiCuTEBQRDadsFOgQdN9PjdOglDeI_y2ZV5-Ehbo/s1600/google-china.jpg"
-    },
-    {
       "id": "4ac47e97b44561bf34ee3a6b8d136206",
       "title": "Le VPN intégré de Firefox devient illimité cet été : profitez-en dès maintenant",
       "link": "https://www.it-connect.fr/le-vpn-integre-de-firefox-devient-illimite-cet-ete-profitez-en-des-maintenant/",
@@ -388,16 +298,6 @@
       "link": "https://www.it-connect.fr/noyau-linux-7-1-recapitulatif-nouveautes/",
       "summary": "Linux 7.1 dévoile un pilote NTFS entièrement réécrit et un nettoyage en profondeur du noyau. Découvrez les nouveautés principales de cette version. Le post Noyau Linux 7.1 : entre nouveau pilote NTFS et nettoyage du c...",
       "published": "2026-06-15T15:46:50+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a073d873ef0baa14803a31323cf6be94",
-      "title": "Test UGREEN DXP4800 GT : un NAS avec un processeur AMD et 2 interfaces 10 GbE",
-      "link": "https://www.it-connect.fr/test-ugreen-dxp4800-gt-nas/",
-      "summary": "Test complet du NAS UGREEN DXP4800 GT : AMD Ryzen Embedded, 2 x 10 GbE, compatible RAM ECC, etc... Voici mon avis sur ce nouveau NAS. Le post Test UGREEN DXP4800 GT : un NAS avec un processeur AMD et 2 interfaces 10 G...",
-      "published": "2026-06-15T14:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
