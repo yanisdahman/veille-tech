@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-18T03:37:48.074951+00:00",
-  "count": 50,
+  "last_updated": "2026-06-18T10:16:31.248467+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "d00184687348ba400f53710fcf17839b",
+      "title": "Microsoft fixes Windows Server 2016 security update failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
+      "summary": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
+      "published": "2026-06-18T10:14:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "931fb74b3f670d62856caba2342b704c",
+      "title": "À partir du 3 août 2026, Google va utiliser votre adresse IP pour le ciblage publicitaire !",
+      "link": "https://www.it-connect.fr/a-partir-du-3-aout-2026-google-va-utiliser-votre-adresse-ip-pour-le-ciblage-publicitaire/",
+      "summary": "Google va commencer à exploiter votre adresse IP pour proposer des publicités personnalisées dans l'Espace économique européen, au Royaume-Uni et en Suisse. Le post À partir du 3 août 2026, Google va utiliser votre ad...",
+      "published": "2026-06-18T07:41:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "50d039bf60a4c4935232a3d659a2f090",
+      "title": "FortiBleed : une fuite expose les identifiants VPN de 73 000 pare-feu Fortinet",
+      "link": "https://www.it-connect.fr/fortibleed-une-fuite-expose-les-identifiants-vpn-de-73-000-pare-feu-fortinet/",
+      "summary": "La fuite FortiBleed expose les identifiants VPN de 73 000 pare-feu Fortinet à travers le monde. Découvrez l'ampleur de la fuite et les mesures à prendre. Le post FortiBleed : une fuite expose les identifiants VPN de 7...",
+      "published": "2026-06-18T04:55:37+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "642fe252da66b3cf6cef760fbf374e80",
       "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
@@ -41,16 +71,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3ayOlDb3vsL747G9hStxxjTd3N5i2u8hegcT_hTs4RlNqylS_HyYH4mGLQEavD-QwH3G4l-p2tE5xrXoeK-Btj5YjbENpZcnqRZ7mXCjnJgqHKaoqyE3I3yqy3tYxafbDGNOMrDsvTnJ8UKkn7DDQ8PY_sQNZI6TsNTV0lOmSqs1uxUKm3pgpmkSDpeZ/s1600/ms-patch.jpg"
-    },
-    {
-      "id": "0355ba72a83b251c6806545cd33e11d0",
-      "title": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
-      "link": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec.html",
-      "summary": "Le 12 juin, l'avion expérimental X-59 de la NASA a filé à Mach 1,4, soit environ 1 490 km/h, à 17 000 mètres d'altitude. Et au sol, silence. La quête du silence quand on travaille sur un avion qui dépasse le mur du so...",
-      "published": "2026-06-17T17:10:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec-1.jpeg"
     },
     {
       "id": "599d838669e846120be835edc125f058",
@@ -163,16 +183,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2DfFAWIuQ6v6hyh32CXcT_wKU72aTUxixyWIcnjW04ydv40r8RtVXjDrxKJzksW6zzqYciPMxgYAwcDGRz8kahhZVZXoi0FySWg5o8LpWo_KkHdX4wRX4Qgk6ONxHqyb7_cF5TN5qQp-9B4hOQpB3WljI8sDbHMlOh6n2jyTjV30kxC-ccJVJHu4bTs/s1600/INTRUDER.jpg"
     },
     {
-      "id": "61a0fa817c3d48519d56c89ac19c2d55",
-      "title": "Un Yoshi tout n'œuf",
-      "link": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test.html",
-      "summary": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Sûrement un des dinosaures les plus connus de toute la planète, il est vert mais ce n'est pas Denver... Je parle de Yoshi bien sûr ! Fidèle ami et destri...",
-      "published": "2026-06-17T10:17:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test/avis-yoshi-et-le-livre-mysterieux-test-1.webp"
-    },
-    {
       "id": "7a1317c9b6804780644358eec112084c",
       "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
@@ -213,16 +223,6 @@
       "image": ""
     },
     {
-      "id": "d548815d05538667a4f3f02cab59e80e",
-      "title": "Le vieux Pixel de votre tiroir vaut peut-être mieux qu'un serveur",
-      "link": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur.html",
-      "summary": "Des chercheurs de l'université de Californie à San Diego, épaulés par Google, viennent de prouver un truc contre-intuitif : un Pixel mis au rebut il y a trois ans tient encore tête à un serveur professionnel sur certa...",
-      "published": "2026-06-17T06:53:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur-1.jpg"
-    },
-    {
       "id": "10870789f2fe1041afff653a79460725",
       "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
       "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
@@ -240,16 +240,6 @@
       "published": "2026-06-17T05:01:07+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "605bc54040ab45ddddcf92bb6dab79ac",
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "summary": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
-      "published": "2026-06-16T21:54:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -283,36 +273,6 @@
       "image": ""
     },
     {
-      "id": "b95930d6df7424f720230e082f90ff27",
-      "title": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
-      "link": "https://korben.info/commodore-callback-8020.html",
-      "summary": "Commodore est de retour les amis ! Et pas avec une énième réédition miniaturisé avec IA du C64. Non, la marque, rachetée l'an dernier par le YouTubeur Peri Fractic devenu maintenant son PDG, sort un téléphone à clapet...",
-      "published": "2026-06-16T16:10:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/commodore-callback-8020/commodore-callback-8020-1.avif"
-    },
-    {
-      "id": "4df03170d3ed14e9a37d8ab24428b675",
-      "title": "Le FBI a bâti une fausse ville entière dans un hangar, juste pour la pirater",
-      "link": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater.html",
-      "summary": "Le FBI possède sa propre ville, sauf que personne n'y habite, et pour cause, elle a été montée de toutes pièces dans un hangar de Huntsville, en Alabama, avec ses maisons meublées, son hôtel, sa station-service, son é...",
-      "published": "2026-06-16T14:01:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater-1.jpg"
-    },
-    {
-      "id": "ffdfe4690efa2c3c5bd19f8ab4c8ec02",
-      "title": "Test du Dreo TurboCool 516S : je n’ai plus peur de la canicule",
-      "link": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule.html",
-      "summary": "– Contient des liens affiliés Amazon – J'ai posé le Dreo TurboCool 516S sur mon bureau au début de la vague de chaleur, et c'est vite devenu mon arme anti-canicule pour bosser. Ce n'est ni un ventilateur classique, ni...",
-      "published": "2026-06-16T12:32:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule-1.jpeg"
-    },
-    {
       "id": "3ebab55acf2b4242657b276f5ab89b97",
       "title": "WordPress : 1,2 million de sites exposés après le piratage d’OptinMonster",
       "link": "https://www.it-connect.fr/wordpress-1-2-million-de-sites-exposes-apres-le-piratage-doptinmonster/",
@@ -333,71 +293,11 @@
       "image": ""
     },
     {
-      "id": "1ba186f5a9d56c9c3cecd0b47b69f909",
-      "title": "OpenCAL - Imprimer un objet en quelques secondes, sans la moindre couche",
-      "link": "https://korben.info/opencal-imprimer-un-objet-en-quelques-secondes-sans-la-moindre-couche.html",
-      "summary": "Une équipe issue de l'université de Berkeley vient de publier OpenCAL, une version libre et documentée d'une technique d'impression 3D qui ne ressemble à rien de ce qu'on connaît, et le projet est désormais reproducti...",
-      "published": "2026-06-16T10:22:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/opencal-imprimer-un-objet-en-quelques-secondes-sans-la-moindre-couche/opencal-imprimer-un-objet-en-quelques-secondes-sans-la-moindre-couche-1.jpg"
-    },
-    {
-      "id": "5f6981dd3365411841630a64b52e737a",
-      "title": "Une veste qui fabrique de l'eau potable à partir de l'air, comme dans Dune",
-      "link": "https://korben.info/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune.html",
-      "summary": "Des ingénieurs de l'université du Texas à Austin ont mis au point un vêtement qui tire de l'eau potable directement de l'air ambiant, sans réservoir à remplir ni source à proximité, simplement grâce au tissu dont il e...",
-      "published": "2026-06-16T09:13:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune-1.avif"
-    },
-    {
-      "id": "365efd03b8c4a7da594b9e93ece71d29",
-      "title": "Une seule commande, et votre Surface se transformait en presse-papier",
-      "link": "https://korben.info/une-seule-commande-et-votre-surface-se-transformait-en-presse-papier.html",
-      "summary": "Une seule petite ligne de code envoyée au mauvais endroit pouvait transformer un Surface Laptop en bloc de métal inutilisable. C'est sur cette faille que Microsoft a discrètement travaillé pendant trois mois, avant qu...",
-      "published": "2026-06-16T09:00:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-seule-commande-et-votre-surface-se-transformait-en-presse-papier/une-seule-commande-et-votre-surface-se-transformait-en-presse-papier-1.jpeg"
-    },
-    {
-      "id": "c00c5fa63ca38eb88b743ecab7d1aa9a",
-      "title": "GeoFS - Le simulateur de vol gratuit qui tourne dans le navigateur",
-      "link": "https://korben.info/geofs-simulateur-vol-navigateur.html",
-      "summary": "Vous avez aimé le simulateur de vol planqué dans la version web de Google Earth ? Alors GeoFS risque de vous scotcher pour de bon ! GeoFS, c'est un simulateur de vol entièrement gratuit développé par le Français Xavie...",
-      "published": "2026-06-16T08:30:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/geofs-simulateur-vol-navigateur/geofs-simulateur-vol-navigateur-1.png"
-    },
-    {
       "id": "0b0c962a3a3847ca10c66e52187e5670",
       "title": "SearchLeak : la faille qui transformait Copilot en outil de vol de données en un clic",
       "link": "https://www.it-connect.fr/searchleak-la-faille-qui-transformait-copilot-en-outil-de-vol-de-donnees-en-un-clic/",
       "summary": "L'attaque SearchLeak détourne l'IA Microsoft Copilot Enterprise pour exfiltrer e-mails, fichiers OneDrive et SharePoint via une URL piégée (CVE-2026-42824). Le post SearchLeak : la faille qui transformait Copilot en o...",
       "published": "2026-06-16T05:02:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "772d48eb7f61da8345f0c245b27c336f",
-      "title": "Faux mail « Vos données sont sur le dark web » : décryptage d’une arnaque",
-      "link": "https://www.it-connect.fr/faux-mail-vos-donnees-sont-sur-le-dark-web-decryptage-dune-arnaque/",
-      "summary": "Comment un faux service d’effacement de données et un abonnement à 49,99 €/mois exploitent peur et IA pour tromper les victimes. Décryptage. Le post Faux mail « Vos données sont sur le dark web » : décryptage d’une ar...",
-      "published": "2026-06-15T22:10:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7e574d1395fde8e9103001fbaf1e6cc7",
-      "title": "Plus avantageux que le Prime Day : 25 % de remise sur le mini PC Geekom A5 Pro !",
-      "link": "https://www.it-connect.fr/25-de-remise-sur-le-mini-pc-geekom-a5-pro-une-offre-a-ne-pas-manquer/",
-      "summary": "En juin 2026, le mini PC Geekom A5 Pro profite de 25 % de réduction et passe à 374 € au lieu de 499 €. Découvrez le code réservé aux lecteurs d'IT-Connect. Le post Plus avantageux que le Prime Day : 25 % de remise sur...",
-      "published": "2026-06-15T20:00:20+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
