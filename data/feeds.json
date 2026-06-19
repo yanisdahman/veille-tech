@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-19T14:58:20.738804+00:00",
+  "last_updated": "2026-06-19T19:45:35.191560+00:00",
   "count": 40,
   "articles": [
+    {
+      "id": "e7b27af79906373961790705d467275b",
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon...",
+      "published": "2026-06-19T18:37:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
+    },
+    {
+      "id": "0b57aaec379bb19269ba5f6fa540f390",
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses befo...",
+      "published": "2026-06-19T18:33:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg"
+    },
+    {
+      "id": "12cc54355addb3b6372679b436fc9ff3",
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+      "published": "2026-06-19T16:12:41+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "317de22f4dac6034658e5e5b0fcabaed",
+      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+      "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's ...",
+      "published": "2026-06-19T15:30:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wJOg5Y5vAn_dM0DcIB6SwV2B34iO0H-moeyuWLJ_DF1KgEEZMBGtKPDXYk0pL4wclWbnSmOB74sqReSZoGI2_SwUSzKSscUxEdvuJFx_sCIfU7UplU2k5s4UA0cOVAZT_s80PDTek6OGfrsnE8f6QxrQU58rBqPiuk_J__Yja3YNzZLzd-6s8Ji1PBhc/s1600/agent.jpg"
+    },
+    {
+      "id": "61a3e81ee060d294ed20fb1d0b47cab5",
+      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+      "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+      "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websit...",
+      "published": "2026-06-19T15:07:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg"
+    },
     {
       "id": "2e7e41d5c87e7df228150e7b33834759",
       "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
@@ -194,63 +244,13 @@
     },
     {
       "id": "ff1e4960f0ccd70d710f1d6eda223fd2",
-      "title": "Guide ClamAV : installer et configurer un antivirus sur Linux",
+      "title": "Guide ClamAV : installer et configurer un antivirus sur un serveur Linux",
       "link": "https://www.it-connect.fr/guide-clamav-installer-et-configurer-un-antivirus-sur-linux/",
-      "summary": "Ce tutoriel explique comment installer et configurer l'antivirus ClamAV sur Linux (Debian, Ubuntu, Linux Mint) via la ligne de commande et l'outil ClamUI. Le post Guide ClamAV : installer et configurer un antivirus su...",
+      "summary": "Ce tutoriel explique comment installer et configurer l'antivirus ClamAV sur un serveur Linux (Debian, Ubuntu, Linux Mint) via la ligne de commande. Le post Guide ClamAV : installer et configurer un antivirus sur un se...",
       "published": "2026-06-18T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "50dcdffda7829b311bda15b9db560845",
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush t...",
-      "published": "2026-06-18T15:33:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nqjviAfaPP-eOuhtQKNwdvOGLaN-rOmxVnoQPMOruaJvDcw5rsCi-kIKxAhOpxjCggRXt7bfwyRAKMzVKdwIPlRAJpXLl4OReBnbVtOSZYGS4Bsf9EvU71bMIkWdpDwjydNWe22WCdjgqX6b_TrPtXptekJc3N8BH5m56-wauHl5KX0DePQmv2gIoNks/s1600/webinar.jpg"
-    },
-    {
-      "id": "07556cde505866b03a2ad6b0908d1c64",
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memor...",
-      "published": "2026-06-18T15:27:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6k3CSWsyKHS6UdXmxX-w92fdsWjTSL7JR7xeaPBPh8d5G6rkZbMhmJHr9o3gxF5G2I2GojubOJnzhRqxjtKYxlXTrmlgrdRFRrmmyEEIi_zXAQXT3zpq5KNQqOFHrfGKhUFHzsMx1E2Eqs7S_jvTFfN3Jnz1YO58Ryvk0urKEDUZggoQgI07lKFWQDMfw/s1600/threatss.jpg"
-    },
-    {
-      "id": "7575824c8720f83ae7ff85ba6247bc17",
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor ano...",
-      "published": "2026-06-18T14:30:42+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKWONrjyxy3cGsc9xfw7n-6izVRjMImK2DpiOv4JDrtutcENRgX6JxsFQhsEMHDhZx9fGfeoj_mAQSVk9SoJumNREvmLtbWOjWaTlYn3c25sH_paaeZk-Xw08k3ckerv19Ax9stFCURiV321W7vh0f6qQbrmSHnuvPeNBeW6Grb7o6TU4s5dhJNkXyIon/s1600/clipper-malware.jpg"
-    },
-    {
-      "id": "08da26aacf86bc926435968d5e886c5f",
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
-      "published": "2026-06-18T14:19:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8e1de10bb25afc67dbe8a3a85f377224",
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since Augus...",
-      "published": "2026-06-18T14:12:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2MOms1DiyvYE-L_zXvrgrL_4cDaNBZwrhVFPq7ee58uPMORAF9v60xW8_QZbjJ05C34E2F5u9xKXBal4_DbVvUjcg8aDAvQ9iKSgWss6vnvlk4f1tgLYwb3a5xNc6T3lbGeE1pcTf35vf320No6XzS4mkw_5dTTILKfc0w6VpcTHX5VitEodFJBKMWzjA/s1600/ransomware-malware.jpg"
     },
     {
       "id": "931fb74b3f670d62856caba2342b704c",
