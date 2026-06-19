@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-18T20:22:04.186681+00:00",
-  "count": 50,
+  "last_updated": "2026-06-19T04:00:33.441602+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "5bf0c00d6c0221e97704be3b855a535c",
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
+      "published": "2026-06-18T22:31:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "dd7420a20c789b02c836416913256103",
       "title": "Microsoft Office et Windows à prix cassés sur GoDeal24 : profitez-en !",
@@ -183,36 +193,6 @@
       "image": ""
     },
     {
-      "id": "3b47df7d8aa1e12162ef432610a07144",
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "summary": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable s...",
-      "published": "2026-06-18T11:33:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "56e4392d5fbcb3b36594cb6ba36d5279",
-      "title": "Linux tire un trait sur AppleTalk",
-      "link": "https://korben.info/linux-tire-un-trait-sur-appletalk.html",
-      "summary": "C'est la fin d'une époque. Le noyau Linux, le cœur du système qui pilote le matériel et les communications, s'apprête à supprimer le support d'AppleTalk, ce vieux protocole réseau qu'Apple utilisait dans les années 80...",
-      "published": "2026-06-18T10:12:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linux-tire-un-trait-sur-appletalk/linux-tire-un-trait-sur-appletalk-1.jpg"
-    },
-    {
-      "id": "90c216aef5a0426037ec9d8f9826983a",
-      "title": "Tapo C675D KIT - 2 objectifs 4K et zéro angle mort",
-      "link": "https://korben.info/tapo-c675d-kit-camera-solaire-dual-4k.html",
-      "summary": "-- Article en partenariat avec Tapo - Contient des liens affiliés -- La Tapo C675D KIT de TP-Link est une caméra de surveillance solaire qui vient de sortie, avec un truc qu'on voit rarement à ce tarif : 2 objectifs 4K.",
-      "published": "2026-06-18T07:54:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/tapo-c675d-kit-camera-solaire-dual-4k/tapo-c675d-kit-camera-solaire-dual-4k-1.jpg"
-    },
-    {
       "id": "931fb74b3f670d62856caba2342b704c",
       "title": "À partir du 3 août 2026, Google va utiliser votre adresse IP pour le ciblage publicitaire !",
       "link": "https://www.it-connect.fr/a-partir-du-3-aout-2026-google-va-utiliser-votre-adresse-ip-pour-le-ciblage-publicitaire/",
@@ -221,26 +201,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ae04a05998e1bf1befee896695927825",
-      "title": "75 000 pare-feu Fortinet siphonnés : l'attaque FortiBleed touche la moitié du parc mondial",
-      "link": "https://korben.info/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial.html",
-      "summary": "Environ 75 000 pare-feu Fortinet ont vu leurs identifiants de connexion volés puis vérifiés un par un, des FortiGate, ces boîtiers qui filtrent l'accès au réseau des entreprises et servent très souvent de porte d'entr...",
-      "published": "2026-06-18T07:21:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial-1.webp"
-    },
-    {
-      "id": "bccb73b2007378b345c6639cd6084305",
-      "title": "Qwen-Robot Suite - Alibaba donne un corps à son IA",
-      "link": "https://korben.info/qwen-robot-suite-ia-robotique.html",
-      "summary": "Voici une news concernant l'intelligence artificielle, qui je pense devrait vous plaire si vous vous intéressez à la robotique. Alibaba qu'on ne présente plus, vient de sortir sa Qwen-Robot Suite, 3 modèles IA signés ...",
-      "published": "2026-06-18T06:56:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/qwen-robot-suite-ia-robotique/qwen-robot-suite-ia-robotique-1.jpg"
     },
     {
       "id": "50d039bf60a4c4935232a3d659a2f090",
@@ -271,16 +231,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3ayOlDb3vsL747G9hStxxjTd3N5i2u8hegcT_hTs4RlNqylS_HyYH4mGLQEavD-QwH3G4l-p2tE5xrXoeK-Btj5YjbENpZcnqRZ7mXCjnJgqHKaoqyE3I3yqy3tYxafbDGNOMrDsvTnJ8UKkn7DDQ8PY_sQNZI6TsNTV0lOmSqs1uxUKm3pgpmkSDpeZ/s1600/ms-patch.jpg"
-    },
-    {
-      "id": "0355ba72a83b251c6806545cd33e11d0",
-      "title": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
-      "link": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec.html",
-      "summary": "Le 12 juin, l'avion expérimental X-59 de la NASA a filé à Mach 1,4, soit environ 1 490 km/h, à 17 000 mètres d'altitude. Et au sol, silence. La quête du silence quand on travaille sur un avion qui dépasse le mur du so...",
-      "published": "2026-06-17T17:10:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec-1.jpeg"
     },
     {
       "id": "599d838669e846120be835edc125f058",
@@ -323,26 +273,6 @@
       "image": ""
     },
     {
-      "id": "61a0fa817c3d48519d56c89ac19c2d55",
-      "title": "Un Yoshi tout n'œuf",
-      "link": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test.html",
-      "summary": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Sûrement un des dinosaures les plus connus de toute la planète, il est vert mais ce n'est pas Denver... Je parle de Yoshi bien sûr ! Fidèle ami et destri...",
-      "published": "2026-06-17T10:17:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test/avis-yoshi-et-le-livre-mysterieux-test-1.webp"
-    },
-    {
-      "id": "d548815d05538667a4f3f02cab59e80e",
-      "title": "Le vieux Pixel de votre tiroir vaut peut-être mieux qu'un serveur",
-      "link": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur.html",
-      "summary": "Des chercheurs de l'université de Californie à San Diego, épaulés par Google, viennent de prouver un truc contre-intuitif : un Pixel mis au rebut il y a trois ans tient encore tête à un serveur professionnel sur certa...",
-      "published": "2026-06-17T06:53:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur-1.jpg"
-    },
-    {
       "id": "ffc2c8feff6cf46e4c22a0c3cbcaadd3",
       "title": "La touche Copilot vous agace ? Microsoft reconnaît le problème et vous laissera la réaffecter",
       "link": "https://www.it-connect.fr/la-touche-copilot-vous-agace-microsoft-reconnait-le-probleme-et-vous-laissera-la-reaffecter/",
@@ -361,36 +291,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "b95930d6df7424f720230e082f90ff27",
-      "title": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
-      "link": "https://korben.info/commodore-callback-8020.html",
-      "summary": "Commodore est de retour les amis ! Et pas avec une énième réédition miniaturisé avec IA du C64. Non, la marque, rachetée l'an dernier par le YouTubeur Peri Fractic devenu maintenant son PDG, sort un téléphone à clapet...",
-      "published": "2026-06-16T16:10:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/commodore-callback-8020/commodore-callback-8020-1.avif"
-    },
-    {
-      "id": "4df03170d3ed14e9a37d8ab24428b675",
-      "title": "Le FBI a bâti une fausse ville entière dans un hangar, juste pour la pirater",
-      "link": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater.html",
-      "summary": "Le FBI possède sa propre ville, sauf que personne n'y habite, et pour cause, elle a été montée de toutes pièces dans un hangar de Huntsville, en Alabama, avec ses maisons meublées, son hôtel, sa station-service, son é...",
-      "published": "2026-06-16T14:01:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater-1.jpg"
-    },
-    {
-      "id": "ffdfe4690efa2c3c5bd19f8ab4c8ec02",
-      "title": "Test du Dreo TurboCool 516S : je n’ai plus peur de la canicule",
-      "link": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule.html",
-      "summary": "– Contient des liens affiliés Amazon – J'ai posé le Dreo TurboCool 516S sur mon bureau au début de la vague de chaleur, et c'est vite devenu mon arme anti-canicule pour bosser. Ce n'est ni un ventilateur classique, ni...",
-      "published": "2026-06-16T12:32:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule-1.jpeg"
     },
     {
       "id": "3ebab55acf2b4242657b276f5ab89b97",
