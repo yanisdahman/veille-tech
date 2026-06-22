@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-22T16:50:26.768034+00:00",
+  "last_updated": "2026-06-22T20:42:54.801125+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8a43567db397bda7fe29257491cdcc16",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "published": "2026-06-22T20:01:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "00fffac18392b7aae4d2345f8160115b",
+      "title": "Relay attack - Ils volent une voiture avec un babyphone",
+      "link": "https://korben.info/relay-attack-vol-voiture.html",
+      "summary": "Vous vous souvenez du streamer Twitch qui s'était fait piquer sa caisse en plein live, à cause d'un boîtier bizarre posé contre sa porte d'entrée ? Tout le monde a crié au fake évidemment, sauf que dans une certaine m...",
+      "published": "2026-06-22T18:36:27+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/relay-attack-vol-voiture/relay-attack-vol-voiture-1.jpg"
+    },
+    {
+      "id": "97ce7d79a5b9c74093178e4266abfb48",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised th...",
+      "published": "2026-06-22T18:00:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4DchiVkQLBMvGHgWrojoZUdyk2SwEhEj5q6cOYzKCUWF1Lz3Mxeizurg1O-SLVi2jg319ib4SJsSoVWixAkl5WLPu4rL1cMoYXUM6EziOVyt42ESt1zmMo_iLEfHx9XSAXpsDd1FEtRSgKk4AhDzA7DjJN8c__pUgogxTQgaGjsxM04WNiesgRnbEVHN/s1600/wordpress-plugin.jpg"
+    },
+    {
+      "id": "a2e4e7e63e56dc2353158ae3ba6c2351",
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+      "published": "2026-06-22T17:41:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7ebad193cd50491c34cd25e51fb7dfd6",
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a...",
+      "published": "2026-06-22T17:28:57+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "f4704f20d32799364b8dcd501270bd60",
       "title": "Fin de l’OTP SharePoint en 2026 : impacts pour votre DSI et alternatives pour le partage externe",
@@ -11,6 +61,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "a2d26ae6302baa068aa98ac6fa38a101",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial ...",
+      "published": "2026-06-22T16:13:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png"
     },
     {
       "id": "6eddb51029888d4c2e2682d0407bd7bc",
@@ -263,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "3c02ee8690f770fb334836241dfa97e7",
-      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a med...",
-      "published": "2026-06-20T09:56:04+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
-    },
-    {
       "id": "57f6ab9ee04bfe112fa15c06b70e0672",
       "title": "SAMDUO propose une batterie domestique ultra fine",
       "link": "https://korben.info/samduo-propose-une-batterie-domestique-ultra-fine.html",
@@ -303,41 +353,11 @@
       "image": ""
     },
     {
-      "id": "e7b27af79906373961790705d467275b",
-      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-      "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-      "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon...",
-      "published": "2026-06-19T18:37:41+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
-    },
-    {
       "id": "12cc54355addb3b6372679b436fc9ff3",
       "title": "Texas govt data breach exposes over 3 million driver’s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
       "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
       "published": "2026-06-19T16:12:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b83855c5e359b27aeb3588f2062bac48",
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance ...",
-      "published": "2026-06-19T13:10:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "53e3022f69882cc06e7a7e6ae1325767",
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help secu...",
-      "published": "2026-06-19T12:12:20+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -353,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "932b681fafbc72dac7ec42692cd9a952",
-      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-      "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
-      "published": "2026-06-19T11:32:34+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "4120504dd3f5266c3e28a1b6ae99a4a9",
       "title": "EQ-Bench - Le benchmark de l'intelligence émotionnelle des IA",
       "link": "https://korben.info/eqbench-intelligence-emotionnelle-ia.html",
@@ -371,16 +381,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/eqbench-intelligence-emotionnelle-ia/eqbench-intelligence-emotionnelle-ia-1.png"
-    },
-    {
-      "id": "c1fe93aad5ab09c4015b2b761842a77e",
-      "title": "Un bug qui gèle l'écran des portables AMD sous Linux traîne depuis 2017, et c'est Claude qui a aidé à le corriger",
-      "link": "https://korben.info/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger.html",
-      "summary": "Si vous utilisez un ordinateur portable à puce graphique AMD Radeon sous Linux, vous avez peut-être déjà vu l'écran se figer d'un coup, sans raison apparente, à peu près une fois par semaine. Ce bug agace les utilisat...",
-      "published": "2026-06-19T09:47:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger-1.jpg"
     },
     {
       "id": "947344e89261de5c683336f252798f50",
