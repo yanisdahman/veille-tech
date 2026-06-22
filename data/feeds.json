@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-06-22T03:55:37.055075+00:00",
+  "last_updated": "2026-06-22T11:47:45.627389+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "288e12af304fc0df36506ef8f36a25cf",
+      "title": "Tanko - Lire des mangas dans le terminal en scred",
+      "link": "https://korben.info/tanko-lecteur-manga-terminal.html",
+      "summary": "Si vous passez votre vie dans un terminal et que vous avez réussi un jour à quitter tout seul Vi / Vim, voici une application qui va vous intéresser. Il s'agit de Tanko , signé Alexandro Mendez, un outil en ligne de c...",
+      "published": "2026-06-22T09:34:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tanko-lecteur-manga-terminal/tanko-lecteur-manga-terminal-1.png"
+    },
+    {
+      "id": "297ed19139e3daf8e3876143db585599",
+      "title": "Ransomware Gentlemen : ce gang fournit ses propres outils pour neutraliser les EDR",
+      "link": "https://www.it-connect.fr/ransomware-gentlemen-gentlekiller-edr/",
+      "summary": "Le gang de ransomware Gentlemen développe et maintient ses propres EDR killers pour ses affiliés. ESET décrypte l'arsenal GentleKiller. La France est ciblée. Le post Ransomware Gentlemen : ce gang fournit ses propres ...",
+      "published": "2026-06-22T09:25:11+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "737989c010c5c788bed2fe967f254621",
+      "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
+      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
+      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court released a public version of ...",
+      "published": "2026-06-22T09:11:37+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwfeNp6y7paVA9a8F1NvROjNla494WBkRnt8JfQrDpxLCB-cEiewUAhyQeD9_xw1xL_KQkfXp5EnMImW7_js9HDTAjN5b-Sf5uIV4RghVuxpHYvd0YdAeJMXuRsm-xJldrNnBnoRK1lfZNT3aFUd-re2yS6X5Q05F2k7_RXQb1sPkhQp3_faoocFqayvj/s1600/cn.jpg"
+    },
+    {
+      "id": "b16082cdea840beefbf562e2155b46e2",
+      "title": "Windows 11 26H2 confirmé : peu de nouveautés, mais un support étendu à octobre 2028",
+      "link": "https://www.it-connect.fr/windows-11-26h2-enablement-package-mise-a-jour/",
+      "summary": "Windows 11 26H2 arrivera fin 2026 sous forme d'enablement package : aucune nouveauté majeure, mais un support prolongé jusqu'en octobre 2028. On fait le point. Le post Windows 11 26H2 confirmé : peu de nouveautés, mai...",
+      "published": "2026-06-22T08:38:35+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3e6022491dd66af7a28e81200a174946",
+      "title": "Une ampoule connectée transformée en bibliothèque clandestine de livres interdits",
+      "link": "https://korben.info/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits.html",
+      "summary": "Aux États-Unis, la guerre contre les livres ne se joue plus seulement dans les conseils d'administration des écoles, mais désormais aussi à l'intérieur d'une ampoule connectée vissée au plafond. La performance est sig...",
+      "published": "2026-06-22T08:11:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits-1.webp"
+    },
+    {
+      "id": "9ffce28c33388b3cc57cd0e5c092ce36",
+      "title": "Microsoft va basculer OneDrive vers cloud.microsoft : préparez-vous",
+      "link": "https://www.it-connect.fr/microsoft-va-basculer-onedrive-vers-cloud-microsoft-preparez-vous/",
+      "summary": "Microsoft va migrer les URL OneDrive vers cloud.microsoft dès juillet 2026. Découvrez ce qui change et les points à vérifier côté firewall et proxy. Le post Microsoft va basculer OneDrive vers cloud.microsoft : prépar...",
+      "published": "2026-06-22T07:50:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "dfa1f070d75a45e1113529711a6a0b80",
+      "title": "Superviser un serveur Windows verrouillé sans rien installer : l’approche d’Eric Guiffault en PowerShell",
+      "link": "https://www.it-connect.fr/superviser-un-serveur-windows-verrouille-sans-rien-installer/",
+      "summary": "Superviser Windows sans installation de logiciels : découvrez PS-MRTG et d'autres outils PowerShell autonomes, accessibles via le navigateur, même en air‑gap. Le post Superviser un serveur Windows verrouillé sans rien...",
+      "published": "2026-06-22T07:50:28+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1eba8e96ef2d7a3c37ff74c8d9dda922",
+      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
+      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's XLab calls it AryStinger and counts at least 4...",
+      "published": "2026-06-22T06:57:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr0TUOEuqak_4OJNaS9ogmGXQl1QWTMkdmvIDNy6mlYVxjA-Z5qfywF_6OwxaJRDuvrq9E106Cx9hqmsFMKMnVATj5uApKOILaXa3BeTojf-TBEqe80iUtz-dyqlLSxbgygqj-hE_rSeJMWAM40HIdWkY1YhGD5dYjzVSMwNAn4GbfaCijDUoudDau-DIj/s1600/router.jpg"
+    },
+    {
+      "id": "9e82a399afc3d8793e06211dbd684e45",
+      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
+      "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a dis...",
+      "published": "2026-06-22T06:06:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCZyCo0qR6bFgeSdNHxD4d56tgq1YYTWI2aMHnDz63YlOYGrMbPnbpAumvGLNyZxxfLVTYEi7VBiVscqTpCC2sgfMtX-YFVAvy_flQZTKinHhT6qtKIc6boJfuGC4sbpNl9qYfblyZZizkaDRkMIScE3upxa-vBcGYeL6YqTBufD1ro3t0Mpwa6O8Ag4iU/s1600/asia.jpg"
+    },
+    {
+      "id": "d5bfabdee3d1de6e9a065f88cd13dacd",
+      "title": "Windows : un bug de la Corbeille affecte toutes les versions après les mises à jour de juin 2026",
+      "link": "https://www.it-connect.fr/windows-mise-a-jour-juin-2026-bug-corbeille/",
+      "summary": "Après les mises à jour de juin 2026, la Corbeille de Windows affiche un mauvais nom de fichier lors des suppressions. Toutes les versions sont concernées. Le post Windows : un bug de la Corbeille affecte toutes les ve...",
+      "published": "2026-06-22T04:59:42+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "6b6f2f1134bfc8c104d2ecfa38bbff97",
       "title": "Fatigue informationnelle - Quand fuir l'actu n'est pas une faiblesse",
@@ -223,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "3c6f9a5a3e9c4b04a5105b4c0b6ba62d",
-      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-      "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
-      "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention r...",
-      "published": "2026-06-19T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6R48ZeaNtIzMVc6atNjuxbNYFUfiFCJ_cE1qE_85yGOOavsX0ijvQGdv9QZ2-4Lky8mTOPhrNIydUvLS2DtGkkFXYJFRTT99Vbb03s3Rtk9pTariHdQ2on2RGxiAsMQnySj7AJfxUtBxO1aJTupjkQvDvt5jp1klznY9_WHckqm64F-BbCtCR2UoJ968/s1600/tines-main.jpg"
-    },
-    {
       "id": "4120504dd3f5266c3e28a1b6ae99a4a9",
       "title": "EQ-Bench - Le benchmark de l'intelligence émotionnelle des IA",
       "link": "https://korben.info/eqbench-intelligence-emotionnelle-ia.html",
@@ -251,16 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger-1.jpg"
-    },
-    {
-      "id": "ebfedc03120bf09b47da1105f9763d6d",
-      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-      "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-      "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organi...",
-      "published": "2026-06-19T09:03:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7q_DYP5ExkNSDd8Y10rOfYtTIs6sNXxdE6X55nsvKVllZZ14U9mqUY23nzGGPhXx515NVPMI5Btp4MM5qUx0V1lKDvURtKBICbblPPYuN1VSCN12-J0RmpBKCSM0veZc_9hNt1TnD9PdkNTQi8x337E9cPmLn7uyHOPw0_HshcbxKqVnmgOAjJHOOw6g/s1600/salesforce.jpg"
     },
     {
       "id": "cb3fc3c6ebf52176eb7fc0b9306424f4",
@@ -283,16 +363,6 @@
       "image": "https://korben.info/windows-nt-nintendo-gamecube/windows-nt-nintendo-gamecube-1.jpeg"
     },
     {
-      "id": "27dfc49daf104cca9afa15285b072256",
-      "title": "Super Mario 64 enfin sur Nintendo DS avec un mode coop",
-      "link": "https://korben.info/nintendo-ds-port-super-mario-64-multijoueur.html",
-      "summary": "À tous les nostalgiques de la Nintendo 64 et notamment de Super Mario 64, j'ai un petit truc cool à vous montrer. Tobi Friedly vient de sortir un portage du jeu sur Nintendo DS, et pas n'importe lequel, puisque celui-...",
-      "published": "2026-06-19T06:51:21+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/nintendo-ds-port-super-mario-64-multijoueur/nintendo-ds-port-super-mario-64-multijoueur-1.jpg"
-    },
-    {
       "id": "947344e89261de5c683336f252798f50",
       "title": "Cette faille de Firefox transformait l’IA en complice du vol de vos e-mails",
       "link": "https://www.it-connect.fr/cette-faille-de-firefox-transformait-lia-en-complice-du-vol-de-vos-e-mails/",
@@ -301,16 +371,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "da05497c15b5a3d3e6cb129f98167f98",
-      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
-      "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
-      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score...",
-      "published": "2026-06-19T06:36:09+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1600/apple.jpg"
     },
     {
       "id": "d8b0446b8ffa46d5fb11ce39308ff0ac",
@@ -338,66 +398,6 @@
       "link": "https://www.it-connect.fr/guide-clamav-installer-et-configurer-un-antivirus-sur-linux/",
       "summary": "Ce tutoriel explique comment installer et configurer l'antivirus ClamAV sur un serveur Linux (Debian, Ubuntu, Linux Mint) via la ligne de commande. Le post Guide ClamAV : installer et configurer un antivirus sur un se...",
       "published": "2026-06-18T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "56e4392d5fbcb3b36594cb6ba36d5279",
-      "title": "Linux tire un trait sur AppleTalk",
-      "link": "https://korben.info/linux-tire-un-trait-sur-appletalk.html",
-      "summary": "C'est la fin d'une époque. Le noyau Linux, le cœur du système qui pilote le matériel et les communications, s'apprête à supprimer le support d'AppleTalk, ce vieux protocole réseau qu'Apple utilisait dans les années 80...",
-      "published": "2026-06-18T10:12:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linux-tire-un-trait-sur-appletalk/linux-tire-un-trait-sur-appletalk-1.jpg"
-    },
-    {
-      "id": "931fb74b3f670d62856caba2342b704c",
-      "title": "À partir du 3 août 2026, Google va utiliser votre adresse IP pour le ciblage publicitaire !",
-      "link": "https://www.it-connect.fr/a-partir-du-3-aout-2026-google-va-utiliser-votre-adresse-ip-pour-le-ciblage-publicitaire/",
-      "summary": "Google va commencer à exploiter votre adresse IP pour proposer des publicités personnalisées dans l'Espace économique européen, au Royaume-Uni et en Suisse. Le post À partir du 3 août 2026, Google va utiliser votre ad...",
-      "published": "2026-06-18T07:41:16+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "50d039bf60a4c4935232a3d659a2f090",
-      "title": "FortiBleed : une fuite expose les identifiants VPN de 73 000 pare-feu Fortinet",
-      "link": "https://www.it-connect.fr/fortibleed-une-fuite-expose-les-identifiants-vpn-de-73-000-pare-feu-fortinet/",
-      "summary": "La fuite FortiBleed expose les identifiants VPN de 73 000 pare-feu Fortinet à travers le monde. Découvrez l'ampleur de la fuite et les mesures à prendre. Le post FortiBleed : une fuite expose les identifiants VPN de 7...",
-      "published": "2026-06-18T04:55:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "160ca0771275dfa9dbddfb4d8fa4a55c",
-      "title": "Maintenant : monitoring de conteneurs, d’endpoints et de certificats sans empiler les outils",
-      "link": "https://www.it-connect.fr/maintenant-supervision-open-source/",
-      "summary": "Découvrez Maintenant, un outil de supervision open source tout-en-un pour surveiller les conteneurs, les services Web, les certificats et les tâches cron. Le post Maintenant : monitoring de conteneurs, d’endpoints et ...",
-      "published": "2026-06-17T13:23:59+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1ad81fbe33089077147bebb1bd467973",
-      "title": "AUR : plus de 1 500 paquets compromis, Arch Linux ferme les inscriptions",
-      "link": "https://www.it-connect.fr/aur-plus-de-1-500-paquets-compromis-arch-linux-ferme-les-inscriptions/",
-      "summary": "Arch Linux bloque la création de comptes sur l'AUR le temps de nettoyer une vague de paquets malveillants touchant plus de 1 500 paquets. Le post AUR : plus de 1 500 paquets compromis, Arch Linux ferme les inscription...",
-      "published": "2026-06-17T12:23:05+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6da1b0bc406836d097213302507f64e6",
-      "title": "Fête des Pères 2026 : offrez une serrure connectée WELOCK à prix réduit",
-      "link": "https://www.it-connect.fr/fete-des-peres-2026-offrez-une-serrure-connectee-welock-a-prix-reduit/",
-      "summary": "WELOCK célèbre la Fête des pères avec des codes promo exclusifs sur 3 serrures connectées. Livraison gratuite, garantie 2 ans et retour 30 jours. Le post Fête des Pères 2026 : offrez une serrure connectée WELOCK à pri...",
-      "published": "2026-06-17T11:57:09+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
