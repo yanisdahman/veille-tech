@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-22T20:42:54.801125+00:00",
+  "last_updated": "2026-06-23T02:54:45.859666+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e98b0efe8cfc912ba8d010c8c90eca01",
+      "title": "Claude : Anthropic va vérifier l’âge et l’identité de ses utilisateurs dès le 8 juillet",
+      "link": "https://www.it-connect.fr/claude-anthropic-va-verifier-age-et-identite-de-ses-utilisateurs-des-le-8-juillet/",
+      "summary": "À partir du 8 juillet 2026, Anthropic pourra demander aux utilisateurs de Claude une pièce d'identité : et si c'était pour donner un accès à Fable 5 ? Le post Claude : Anthropic va vérifier l’âge et l’identité de ses ...",
+      "published": "2026-06-22T23:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fd2dd00a840fcda947c344bc105088e2",
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+      "published": "2026-06-22T22:42:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3b3deca8f1502421eea030a6f575c36c",
+      "title": "Coupe du monde 2026 : une faille FIFA permettait de détourner les flux TV mondiaux",
+      "link": "https://www.it-connect.fr/coupe-du-monde-2026-une-faille-fifa-permettait-de-detourner-les-flux-tv-mondiaux/",
+      "summary": "Une simple inscription comme agent de football ouvrait l'accès aux systèmes de production de la Coupe du monde 2026 : flux TV, scores, commentaires. Le post Coupe du monde 2026 : une faille FIFA permettait de détourne...",
+      "published": "2026-06-22T22:15:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "75cfaa52139a310d0c5fd54e4363d71c",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+      "published": "2026-06-22T21:52:18+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "12d0cf1c5faddf5051cd6f274921ae99",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi...",
+      "published": "2026-06-22T21:05:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "8a43567db397bda7fe29257491cdcc16",
       "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
@@ -333,36 +383,6 @@
       "image": "https://korben.info/samduo-propose-une-batterie-domestique-ultra-fine/samduo-propose-une-batterie-domestique-ultra-fine-1.jpg"
     },
     {
-      "id": "1b1fd40c34f847a49c3bf22cbbdae18f",
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion...",
-      "published": "2026-06-19T22:31:04+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3912158d914e5a07d4ee6c05cf25d08e",
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-      "published": "2026-06-19T20:25:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "12cc54355addb3b6372679b436fc9ff3",
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
-      "published": "2026-06-19T16:12:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ce900a5eceb90d8a0e59994b7c92b59c",
       "title": "Attention sur Steam : des wallpapers animés installent infostealers et ransomwares",
       "link": "https://www.it-connect.fr/attention-sur-steam-des-wallpapers-animes-installent-infostealers-et-ransomwares/",
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/eqbench-intelligence-emotionnelle-ia/eqbench-intelligence-emotionnelle-ia-1.png"
-    },
-    {
-      "id": "947344e89261de5c683336f252798f50",
-      "title": "Cette faille de Firefox transformait l’IA en complice du vol de vos e-mails",
-      "link": "https://www.it-connect.fr/cette-faille-de-firefox-transformait-lia-en-complice-du-vol-de-vos-e-mails/",
-      "summary": "Via une injection de prompt, un site piégé pouvait pousser l'IA de Firefox à exfiltrer vos e-mails. Retour sur cette faille atténuée par Mozilla. Le post Cette faille de Firefox transformait l’IA en complice du vol de...",
-      "published": "2026-06-19T06:47:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d8b0446b8ffa46d5fb11ce39308ff0ac",
-      "title": "En France, la DGSI mise sur ChapsVision pour tourner la page Palantir !",
-      "link": "https://www.it-connect.fr/en-france-la-dgsi-mise-sur-chapsvision-pour-tourner-la-page-palantir/",
-      "summary": "La DGSI remplace progressivement Palantir par ChapsVision et sa plateforme ArgonOS. Souveraineté numérique, IA et renseignement : ce qu'il faut retenir. Le post En France, la DGSI mise sur ChapsVision pour tourner la ...",
-      "published": "2026-06-19T06:06:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "2c1379b65190ea6dc117b1a0e6c85e92",
