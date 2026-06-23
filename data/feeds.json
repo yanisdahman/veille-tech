@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-06-23T09:33:30.751464+00:00",
+  "last_updated": "2026-06-23T14:41:57.534957+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "dae2aef5b020a07fce81ed01e3bc1dbd",
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code ...",
+      "published": "2026-06-23T14:22:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcacTEKD_LZFda1wwX5aClbAVOb6mwah2lVUY-jUZwNsrSZGDOFL18LP5zYLX3M2DwKng0qknZ5qo_hMk4q-NExgZv1ozhCy7DJuZwvviZE0sv36PQ2k8Y2emv1KMDFplakFwVzulOFPteWkmVoLO6Le912KAbJGFW0nkqKWHEkwJQLbsGhz5npWO3aJaR/s1600/github-actions.jpg"
+    },
+    {
+      "id": "39b591f4b37a92abd5349e3d46a8ed0e",
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists...",
+      "published": "2026-06-23T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a57ae7bf8ddf7dffbf5a2037082dd28c",
+      "title": "FixMyCV : 7 recruteurs IA relisent votre CV avant les vrais",
+      "link": "https://www.it-connect.fr/fixmycv-7-recruteurs-ia-relisent-votre-cv-avant-les-vrais/",
+      "summary": "FixMyCV, un outil web gratuit français, fait passer votre CV devant 7 recruteurs IA : analyse, lettre de motivation et simulation d'entretien au programme. Le post FixMyCV : 7 recruteurs IA relisent votre CV avant les...",
+      "published": "2026-06-23T14:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6f618f8044c50b2f94cc05d61f244884",
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+      "published": "2026-06-23T13:58:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bb5e5936bed867e759f081bc7349a0d0",
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing ale...",
+      "published": "2026-06-23T12:12:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "22ec7f54d791f04cc8f71baab9ebf17f",
+      "title": "Cet outil open source traque les conseils de sécurité que l'IA vous a refilés et qui ne valent plus rien",
+      "link": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien.html",
+      "summary": "Quand vous demandez à un assistant IA de corriger une faille dans une de vos dépendances, il vous propose presque toujours la même chose : ajouter ce qu'on appelle un \"override\", une ligne de configuration qui force v...",
+      "published": "2026-06-23T11:56:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien-1.png"
+    },
+    {
+      "id": "c8e3569189f8451f92b2576e7286e31a",
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight...",
+      "published": "2026-06-23T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5YrdKJuy4ZmnWf_7L2RdXqS2QWC2BHJIbGsapJLmmYy1hBXfHxE7WMk-itWDkh-oCbAr8-CZOiUTyLftdM6191lDL8Iu2ENNU_i6Wfw2qy3lKY41iCrOnaLXHIl8cWDto42eqVlnsM4OetK0ymQUnwdpRXIniZQ-o7pBIDkqOYbm7o4CMlQTYFOeQyJI/s1600/ai-weapon.jpg"
+    },
     {
       "id": "d62fc348d8b26420ec15314822c1006f",
       "title": "GEEKOM : le top des offres mini PC du Prime Day 2026 sur Amazon",
@@ -193,6 +263,16 @@
       "image": ""
     },
     {
+      "id": "6eddb51029888d4c2e2682d0407bd7bc",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug...",
+      "published": "2026-06-22T16:29:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg"
+    },
+    {
       "id": "a2d26ae6302baa068aa98ac6fa38a101",
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
       "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
@@ -201,16 +281,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png"
-    },
-    {
-      "id": "6eddb51029888d4c2e2682d0407bd7bc",
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug...",
-      "published": "2026-06-22T14:29:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg"
     },
     {
       "id": "575a79468e89930eea17cdedd1038090",
@@ -273,26 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisV9q8kKe0eopbInTHgwScUvzjKlnPTpk74j7M6F-6BH46hVr9wcadvztA2RYJdKDQDzpV89bN4wH0hEL9qTfIh2_4f3FEIT1OWwSeYehcOb-sVNNkEshTBBC6qviBMlFuwMXQL2iG_VVVBaT6NoGnbdcVBfcMm61T6NosKLtOdMgIebKCRh7hukQxIOk/s1600/playstore.jpg"
     },
     {
-      "id": "43941e2d42031698dde8721bba2c4df5",
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legac...",
-      "published": "2026-06-22T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdS_7552zEvsn5xVfDcVMG2u8ponFIE1E65j5A8Wx-qUroU49h-f6qF7FPCABA063IjNnw-JntL-L1iZjHpiuqATqkDv-2vpi6lCVG1idXkg_elRJkyoUgASk4uYCTJ95EHfVQLJngVLKOxM2H5zLkdeFY7kpzveHUuKFoks0_ujNo9tJNQxm7XVgYb4/s1600/xmcyber.jpg"
-    },
-    {
-      "id": "8b260fd460fb074c843e682401cbbdcb",
-      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much ...",
-      "published": "2026-06-22T10:55:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1600/recap-main.gif"
-    },
-    {
       "id": "288e12af304fc0df36506ef8f36a25cf",
       "title": "Tanko - Lire des mangas dans le terminal en scred",
       "link": "https://korben.info/tanko-lecteur-manga-terminal.html",
@@ -343,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "dfa1f070d75a45e1113529711a6a0b80",
-      "title": "Superviser un serveur Windows verrouillé sans rien installer : l’approche d’Eric Guiffault en PowerShell",
-      "link": "https://www.it-connect.fr/superviser-un-serveur-windows-verrouille-sans-rien-installer/",
-      "summary": "Superviser Windows sans installation de logiciels : découvrez PS-MRTG et d'autres outils PowerShell autonomes, accessibles via le navigateur, même en air‑gap. Le post Superviser un serveur Windows verrouillé sans rien...",
-      "published": "2026-06-22T07:50:28+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "6b6f2f1134bfc8c104d2ecfa38bbff97",
       "title": "Fatigue informationnelle - Quand fuir l'actu n'est pas une faiblesse",
       "link": "https://korben.info/fatigue-informationnelle-eviter-mauvaises-nouvelles.html",
@@ -361,46 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/fatigue-informationnelle-eviter-mauvaises-nouvelles/fatigue-informationnelle-eviter-mauvaises-nouvelles-1.jpg"
-    },
-    {
-      "id": "2a31619f1405decca5e8177cdac8eeb3",
-      "title": "Robots humanoïdes - On attend vraiment qu'il y ait un mort ?",
-      "link": "https://korben.info/robots-humanoides-on-attend-vraiment-quil-y-ait-un-mort.html",
-      "summary": "Je sais pas si vous vous intéressez un petit peu à la robotique, mais cette semaine il y a eu deux vidéos qui sont sorties et je voudrais réagir par rapport à ça. La première, c'est lors d'une démonstration dans la ru...",
-      "published": "2026-06-21T14:16:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/robots-humanoides-on-attend-vraiment-quil-y-ait-un-mort/robots-humanoides-on-attend-vraiment-quil-y-ait-un-mort-1.png"
-    },
-    {
-      "id": "9bd54d2b090f8ebb59864b1bc272c85a",
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
-      "published": "2026-06-21T14:14:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8b5688190b3d8ea01f6592aefece5145",
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
-      "published": "2026-06-20T15:23:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6dc962b757f829c626cf588d6e969168",
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-      "published": "2026-06-20T14:09:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "2c1379b65190ea6dc117b1a0e6c85e92",
@@ -443,21 +443,21 @@
       "image": ""
     },
     {
-      "id": "2acc072ce8f3acd10e8208f6870b9500",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (16 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0757/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-16T00:00:00+00:00",
+      "id": "572c069152c9e71f490d57e626758fbb",
+      "title": "Multiples vulnérabilités dans Oracle Systems (17 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0767/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégr...",
+      "published": "2026-06-17T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "d693c5f8da2dbc797b41dce1f6543cdd",
-      "title": "Vulnérabilité dans Cisco Catalyst (16 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0756/",
-      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-20262 est activement exploitée.",
-      "published": "2026-06-16T00:00:00+00:00",
+      "id": "d7992cd27ca44016540c64a25a75f920",
+      "title": "Multiples vulnérabilités dans Oracle Virtualization (17 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0768/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et ...",
+      "published": "2026-06-17T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
