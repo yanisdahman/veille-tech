@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-23T14:41:57.534957+00:00",
+  "last_updated": "2026-06-23T19:58:37.118120+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c6e7ed04596c89ace9b347d72161fe60",
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
+      "published": "2026-06-23T18:30:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "42c86b7f6ce0574e147a69fd8bf50a7a",
+      "title": "Une tablette de prison américaine ouverte à la scie",
+      "link": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie.html",
+      "summary": "Le réparateur australien Hugh Jeffreys, connu pour ses vidéos de démontage et ses collaborations avec le site de réparation iFixit, a mis la main sur l'un de ces appareils que les prisons américaines louent à leurs dé...",
+      "published": "2026-06-23T16:22:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie/une-tablette-de-prison-americaine-ouverte-a-la-scie-1.jpg"
+    },
+    {
+      "id": "e0154ed39675914bda00f3afd7eb034f",
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
+      "published": "2026-06-23T15:31:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "70da639e50d29b870448d12d6323f7df",
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security s...",
+      "published": "2026-06-23T15:16:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb14v3ddlfpybc15jRbk-cwHI-0S8BAzdp8Ix83L5ZCZ4AB8gCySG7J4tZr4od9q3Jbuic1a4J29VAvRcdSQag_-ju1o9ae9yCcL6XV_jRDVhgd31E5BljiThpXcfHu_gdsmSySY8o0WyjuUoSQ5CGOyKO3cKXVDYeGKa1b1up2VM5ZJE6_PjPNCVOD_M/s1600/skills.jpg"
+    },
+    {
+      "id": "5382cb6b456e3df10a48275317e6fc76",
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December ...",
+      "published": "2026-06-23T15:16:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoC7KFWoDGkSi-UzAyKNUkw-Ogs4oy2tCOAYXiYAAkqEUC1WMotLAE1GUwoWApfXK3prWVctTP05aLGjru0hDBfJkZ1NzPiFeI1VObgSNCx4egTrYhKIUt4m1S14eQ6_GpdffFBL4Ak3Mgjw7UiiBethv1lmyd_OaPIfhk_b-zuMjxCHLZtih8Tk6MtRg/s1600/unitedstates.jpg"
+    },
+    {
+      "id": "eec9256b7d2c014b956b348d7ca0eda8",
+      "title": "LightComposer, la lampe qui se règle au cadran comme un vieux téléphone",
+      "link": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone.html",
+      "summary": "Le bidouilleur allemand John Engeln en avait assez. Il voulait une petite lampe de bureau qui change de couleur, point, sans dégainer son smartphone pour télécharger une appli et appairer le moindre objet, et plutôt q...",
+      "published": "2026-06-23T15:13:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone-1.jpg"
+    },
     {
       "id": "dae2aef5b020a07fce81ed01e3bc1dbd",
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
@@ -243,16 +303,6 @@
       "image": ""
     },
     {
-      "id": "7ebad193cd50491c34cd25e51fb7dfd6",
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a...",
-      "published": "2026-06-22T17:28:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f4704f20d32799364b8dcd501270bd60",
       "title": "Fin de l’OTP SharePoint en 2026 : impacts pour votre DSI et alternatives pour le partage externe",
       "link": "https://www.it-connect.fr/fin-otp-sharepoint-2026-solutions-et-alternatives-pour-le-partage-externe/",
@@ -283,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png"
     },
     {
-      "id": "575a79468e89930eea17cdedd1038090",
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "summary": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, ...",
-      "published": "2026-06-22T14:05:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ff0ff4776194625db1860aa1f97fc0cd",
       "title": "Test des Eufy Indoor Cam E30, qui ont remplacé toutes mes vieilles caméras",
       "link": "https://korben.info/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras.html",
@@ -301,16 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras-1.jpeg"
-    },
-    {
-      "id": "564dea78e9760b4524bb276c9a42d727",
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign lever...",
-      "published": "2026-06-22T13:20:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sz7SHbQd4E8HNEKbvGGSYhPpJrUydP_gCRt_mWYYTr6QHLmChyphenhyphenca6BXhLBXA4OyKw-eS9xbqRqpKcYWFqDp4HoLBYKjVdWzhF0K1pqjX2bPtB91y1P1PZ8gh5r7Bpp-PIeUJVi_Hki91Qf6YjFAtFmf-qh7V9gNzmbEh_A2lISCvCDnNMALAuiqAlkL_/s1600/loader.jpg"
     },
     {
       "id": "a22fa97db4184d361ac482ea2f7c2dfa",
@@ -331,16 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10-1.jpg"
-    },
-    {
-      "id": "7b782dd6342d0803a9e4f4ba84097d55",
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Androi...",
-      "published": "2026-06-22T12:45:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisV9q8kKe0eopbInTHgwScUvzjKlnPTpk74j7M6F-6BH46hVr9wcadvztA2RYJdKDQDzpV89bN4wH0hEL9qTfIh2_4f3FEIT1OWwSeYehcOb-sVNNkEshTBBC6qviBMlFuwMXQL2iG_VVVBaT6NoGnbdcVBfcMm61T6NosKLtOdMgIebKCRh7hukQxIOk/s1600/playstore.jpg"
     },
     {
       "id": "288e12af304fc0df36506ef8f36a25cf",
@@ -373,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "3e6022491dd66af7a28e81200a174946",
-      "title": "Une ampoule connectée transformée en bibliothèque clandestine de livres interdits",
-      "link": "https://korben.info/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits.html",
-      "summary": "Aux États-Unis, la guerre contre les livres ne se joue plus seulement dans les conseils d'administration des écoles, mais désormais aussi à l'intérieur d'une ampoule connectée vissée au plafond. La performance est sig...",
-      "published": "2026-06-22T08:11:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits-1.webp"
-    },
-    {
       "id": "9ffce28c33388b3cc57cd0e5c092ce36",
       "title": "Microsoft va basculer OneDrive vers cloud.microsoft : préparez-vous",
       "link": "https://www.it-connect.fr/microsoft-va-basculer-onedrive-vers-cloud-microsoft-preparez-vous/",
@@ -391,16 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "6b6f2f1134bfc8c104d2ecfa38bbff97",
-      "title": "Fatigue informationnelle - Quand fuir l'actu n'est pas une faiblesse",
-      "link": "https://korben.info/fatigue-informationnelle-eviter-mauvaises-nouvelles.html",
-      "summary": "Je ne lis pas les médias d'actu, et je ne vais quasiment plus sur les réseaux sociaux. Pas par flemme, mais parce qu'à force, je ne voyais plus le monde QUE par le prisme des mauvaises nouvelles et de la négativité (s...",
-      "published": "2026-06-21T16:45:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fatigue-informationnelle-eviter-mauvaises-nouvelles/fatigue-informationnelle-eviter-mauvaises-nouvelles-1.jpg"
     },
     {
       "id": "2c1379b65190ea6dc117b1a0e6c85e92",
