@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-23T19:58:37.118120+00:00",
-  "count": 50,
+  "last_updated": "2026-06-24T02:55:30.698046+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "805ccd49441eecde5b738e033ce8d950",
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
+      "published": "2026-06-23T21:48:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d0bed5536a39211967057de1b52bf2f2",
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
+      "published": "2026-06-23T21:06:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "517d2a4bda7f06e897dee6b1be18b916",
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "summary": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
+      "published": "2026-06-23T20:22:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bd9e7213f3b104ccf7d9e9be8d506e80",
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
+      "published": "2026-06-23T19:59:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "c6e7ed04596c89ace9b347d72161fe60",
       "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
@@ -13,14 +53,14 @@
       "image": ""
     },
     {
-      "id": "42c86b7f6ce0574e147a69fd8bf50a7a",
-      "title": "Une tablette de prison américaine ouverte à la scie",
-      "link": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie.html",
-      "summary": "Le réparateur australien Hugh Jeffreys, connu pour ses vidéos de démontage et ses collaborations avec le site de réparation iFixit, a mis la main sur l'un de ces appareils que les prisons américaines louent à leurs dé...",
-      "published": "2026-06-23T16:22:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie/une-tablette-de-prison-americaine-ouverte-a-la-scie-1.jpg"
+      "id": "c2c9035536172e70a97387ae750e6a8d",
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls glo...",
+      "published": "2026-06-23T18:20:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJkhDD5qINhfAhBFXG2C13raQF6T6zAOmnHlArhnLUP5z0ifBzpyq6M_4n11cgynQfZW0mxJWnYU-TDYSpKQHYFHvXsZHCB7uoMFg0w02yZILY-JLMm2-uqm-CA_wIqZHhzl25FfO_lMd7dYm6VfprDP83bz_SoB3MWLEc059E4YCa554bba-qWHW5udHv/s1600/fortigate.jpg"
     },
     {
       "id": "e0154ed39675914bda00f3afd7eb034f",
@@ -51,16 +91,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoC7KFWoDGkSi-UzAyKNUkw-Ogs4oy2tCOAYXiYAAkqEUC1WMotLAE1GUwoWApfXK3prWVctTP05aLGjru0hDBfJkZ1NzPiFeI1VObgSNCx4egTrYhKIUt4m1S14eQ6_GpdffFBL4Ak3Mgjw7UiiBethv1lmyd_OaPIfhk_b-zuMjxCHLZtih8Tk6MtRg/s1600/unitedstates.jpg"
-    },
-    {
-      "id": "eec9256b7d2c014b956b348d7ca0eda8",
-      "title": "LightComposer, la lampe qui se règle au cadran comme un vieux téléphone",
-      "link": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone.html",
-      "summary": "Le bidouilleur allemand John Engeln en avait assez. Il voulait une petite lampe de bureau qui change de couleur, point, sans dégainer son smartphone pour télécharger une appli et appairer le moindre objet, et plutôt q...",
-      "published": "2026-06-23T15:13:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone-1.jpg"
     },
     {
       "id": "dae2aef5b020a07fce81ed01e3bc1dbd",
@@ -113,16 +143,6 @@
       "image": ""
     },
     {
-      "id": "22ec7f54d791f04cc8f71baab9ebf17f",
-      "title": "Cet outil open source traque les conseils de sécurité que l'IA vous a refilés et qui ne valent plus rien",
-      "link": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien.html",
-      "summary": "Quand vous demandez à un assistant IA de corriger une faille dans une de vos dépendances, il vous propose presque toujours la même chose : ajouter ce qu'on appelle un \"override\", une ligne de configuration qui force v...",
-      "published": "2026-06-23T11:56:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien-1.png"
-    },
-    {
       "id": "c8e3569189f8451f92b2576e7286e31a",
       "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
       "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
@@ -143,16 +163,6 @@
       "image": ""
     },
     {
-      "id": "c4baf8eda2e9b14893d52828c55179ed",
-      "title": "RawGraphs - Et vos données moches deviennent de beaux graphiques sans coder",
-      "link": "https://korben.info/rawgraphs-data-visualisation-open-source.html",
-      "summary": "Je ne sais pas si vous manipulez souvent des fichiers CSV, mais sans savoir coder, en tirer un graphique correct, c'est souvent la croix et la bannière ! Excel nous sort en général un camembert tristoune qui pue comme...",
-      "published": "2026-06-23T09:07:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rawgraphs-data-visualisation-open-source/rawgraphs-data-visualisation-open-source-1.png"
-    },
-    {
       "id": "0860e9752fec58321d74a703fd67c25b",
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
@@ -163,16 +173,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiENcFC1DFPXKuRCT_WmSwq-wpzC8IcZUdZzu5IHi597n77W8LFs9qSUdDPCuMK9QzkRZEBMbBh4p2xhnI1OXZu4akIgR5suIv_yRA7AtEkojDcyXaU5x0UiZKRDRvTn0n0wy9HIQnhJj9zUO0rpemNOFNZEmMl4NQsCj5aDEpDrqXUkivsOX1QoLRqeKZh/s1600/npmm.jpg"
     },
     {
-      "id": "56ac98fd4d66bad4df0db3dd5c621fef",
-      "title": "Codex d'OpenAI bouffait votre SSD - 640 To de logs par an",
-      "link": "https://korben.info/codex-logs-sqlite-ssd-usure.html",
-      "summary": "Si vous utilisez Codex , le CLI de dev d'OpenAI, allez vite jeter un œil à votre SSD avant qu'il ne rende l'âme ! Si je vous dis ça, c'est parce qu'un utilisateur a remarqué que l'outil écrivait en douce des quantités...",
-      "published": "2026-06-23T08:45:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/codex-logs-sqlite-ssd-usure/codex-logs-sqlite-ssd-usure-1.jpg"
-    },
-    {
       "id": "1dca77909ac6962dba05a022e77a36d4",
       "title": "Squidbleed : une faille vieille de 29 ans fait fuiter les identifiants des utilisateurs du proxy Squid",
       "link": "https://www.it-connect.fr/squidbleed-faille-proxy-squid-cve-2026-47729/",
@@ -181,16 +181,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "01385e75bd89216a84ffac53adb35ba9",
-      "title": "Vivre sans État - Le doc ARTE qui titille l'anarchiste en vous",
-      "link": "https://korben.info/vivre-sans-etat-documentaire-arte.html",
-      "summary": "J'sais pas si vous saviez mais l'État, ce truc qui organise et contrôle toute notre vie, sans que nous l'ayons jamais vraiment choisi, n'a que 4 siècles au compteur... C'est comme ça que débute Vivre sans État, un doc...",
-      "published": "2026-06-23T07:37:20+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/vivre-sans-etat-documentaire-arte/vivre-sans-etat-documentaire-arte-1.jpg"
     },
     {
       "id": "80bbbfc909526e3068fbecd0249d285f",
@@ -243,46 +233,6 @@
       "image": ""
     },
     {
-      "id": "75cfaa52139a310d0c5fd54e4363d71c",
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
-      "published": "2026-06-22T21:52:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "12d0cf1c5faddf5051cd6f274921ae99",
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi...",
-      "published": "2026-06-22T21:05:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8a43567db397bda7fe29257491cdcc16",
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-      "published": "2026-06-22T20:01:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "00fffac18392b7aae4d2345f8160115b",
-      "title": "Relay attack - Ils volent une voiture avec un babyphone",
-      "link": "https://korben.info/relay-attack-vol-voiture.html",
-      "summary": "Vous vous souvenez du streamer Twitch qui s'était fait piquer sa caisse en plein live, à cause d'un boîtier bizarre posé contre sa porte d'entrée ? Tout le monde a crié au fake évidemment, sauf que dans une certaine m...",
-      "published": "2026-06-22T18:36:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/relay-attack-vol-voiture/relay-attack-vol-voiture-1.jpg"
-    },
-    {
       "id": "97ce7d79a5b9c74093178e4266abfb48",
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
       "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
@@ -291,16 +241,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4DchiVkQLBMvGHgWrojoZUdyk2SwEhEj5q6cOYzKCUWF1Lz3Mxeizurg1O-SLVi2jg319ib4SJsSoVWixAkl5WLPu4rL1cMoYXUM6EziOVyt42ESt1zmMo_iLEfHx9XSAXpsDd1FEtRSgKk4AhDzA7DjJN8c__pUgogxTQgaGjsxM04WNiesgRnbEVHN/s1600/wordpress-plugin.jpg"
-    },
-    {
-      "id": "a2e4e7e63e56dc2353158ae3ba6c2351",
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-      "published": "2026-06-22T17:41:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "f4704f20d32799364b8dcd501270bd60",
@@ -323,26 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg"
     },
     {
-      "id": "a2d26ae6302baa068aa98ac6fa38a101",
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial ...",
-      "published": "2026-06-22T16:13:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png"
-    },
-    {
-      "id": "ff0ff4776194625db1860aa1f97fc0cd",
-      "title": "Test des Eufy Indoor Cam E30, qui ont remplacé toutes mes vieilles caméras",
-      "link": "https://korben.info/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras.html",
-      "summary": "– Contient des liens affiliés Amazon – Cela faisait des années que je tournais avec de très anciennes caméras Eufy, et je me suis dit récemment qu'il était temps de les remplacer. J'ai donc pris l' Indoor Cam E30 , le...",
-      "published": "2026-06-22T13:47:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras-1.jpeg"
-    },
-    {
       "id": "a22fa97db4184d361ac482ea2f7c2dfa",
       "title": "Sefirah : une application open source pour relier son smartphone Android à son PC Windows ou Linux",
       "link": "https://www.it-connect.fr/sefirah-alternative-kde-connect-phone-link/",
@@ -351,26 +271,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "6e2644fbcf7b36b035c3949f8391a7c8",
-      "title": "Doom tourne désormais sur un bracelet Xiaomi Mi Band 10",
-      "link": "https://korben.info/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10.html",
-      "summary": "Il y a des gens qui se détendent en regardant une petite série. Aaron Christophel, lui, se détend en désossant des bracelets connectés Xiaomi pour leur faire cracher du code qu'aucun ingénieur de la marque n'avait pré...",
-      "published": "2026-06-22T13:06:38+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10-1.jpg"
-    },
-    {
-      "id": "288e12af304fc0df36506ef8f36a25cf",
-      "title": "Tanko - Lire des mangas dans le terminal en scred",
-      "link": "https://korben.info/tanko-lecteur-manga-terminal.html",
-      "summary": "Si vous passez votre vie dans un terminal et que vous avez réussi un jour à quitter tout seul Vi / Vim, voici une application qui va vous intéresser. Il s'agit de Tanko , signé Alexandro Mendez, un outil en ligne de c...",
-      "published": "2026-06-22T09:34:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/tanko-lecteur-manga-terminal/tanko-lecteur-manga-terminal-1.png"
     },
     {
       "id": "297ed19139e3daf8e3876143db585599",
