@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-24T14:24:04.206441+00:00",
+  "last_updated": "2026-06-24T19:42:09.536066+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "874900ad42f27edf1e6c2b5641dce773",
+      "title": "GitHub submergé par l’IA : Microsoft contraint de faire appel à AWS",
+      "link": "https://www.it-connect.fr/github-submerge-par-ia-microsoft-contraint-de-faire-appel-a-aws/",
+      "summary": "Claude Code génère déjà au moins 4% des commits publics de GitHub (135 000/jour). Une vague de code IA qui pousserait Microsoft à louer de la capacité chez AWS. Le post GitHub submergé par l’IA : Microsoft contraint d...",
+      "published": "2026-06-24T18:47:33+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "36ae22fa31d6d2ac6781f7fb8deed534",
+      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branc...",
+      "published": "2026-06-24T17:19:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjZtIkR9YS2fMY5MvIzgyEShmJAP1bgHqhBdU115iSY7WZ2EcBAbFKb1OQP6Nq8hoF4HlnRifxW890ztCcnezyAivPNWZjVsyJrhoNe8BVnZgSfcRo1Jbl4XilQM9bcQTU9nOeDgfWXSzh9sBru4RH6mDhwa1IijucDmj-l1gVI8NAiQRzu0IJ8d2AIVh9/s1600/1000085210.jpg"
+    },
+    {
+      "id": "36dfceae362da3903693266d7cb713f8",
+      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+      "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+      "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and ...",
+      "published": "2026-06-24T15:59:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBVSibdiZdJ1tNYJFrsHtZ8Vr1EG28rqKLY4E7HvAtuax2i3vgpcaMZjEAcGDRxUVu5aa_BHzCAahpw5l2RP2HNw9t7PF6zknNICdw0iuW5jozt5fzqsSfb3Lw55MIvStq2vh5W0139JychUhhJHvchyphenhyphenm7tT2oTS555CkVZrBYSkhmlMKWaXMLtO4OcSp6/s1600/cybercrime-ms.jpg"
+    },
+    {
+      "id": "0aeb3878ed4e2c8066ef1fc1158b2f87",
+      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
+      "published": "2026-06-24T14:35:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c73bd85a4121184ea931af38acbda57b",
+      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+      "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
+      "published": "2026-06-24T14:35:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "49a332afb2199226a007cb2d7d8fbacd",
       "title": "PACT - Le token Cloudflare qui veut remplacer les CAPTCHA",
@@ -293,16 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcacTEKD_LZFda1wwX5aClbAVOb6mwah2lVUY-jUZwNsrSZGDOFL18LP5zYLX3M2DwKng0qknZ5qo_hMk4q-NExgZv1ozhCy7DJuZwvviZE0sv36PQ2k8Y2emv1KMDFplakFwVzulOFPteWkmVoLO6Le912KAbJGFW0nkqKWHEkwJQLbsGhz5npWO3aJaR/s1600/github-actions.jpg"
     },
     {
-      "id": "39b591f4b37a92abd5349e3d46a8ed0e",
-      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
-      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
-      "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists...",
-      "published": "2026-06-23T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a57ae7bf8ddf7dffbf5a2037082dd28c",
       "title": "FixMyCV : 7 recruteurs IA relisent votre CV avant les vrais",
       "link": "https://www.it-connect.fr/fixmycv-7-recruteurs-ia-relisent-votre-cv-avant-les-vrais/",
@@ -313,26 +353,6 @@
       "image": ""
     },
     {
-      "id": "6f618f8044c50b2f94cc05d61f244884",
-      "title": "LastPass confirms data breach in Klue supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-      "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
-      "published": "2026-06-23T13:58:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c8e3569189f8451f92b2576e7286e31a",
-      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight...",
-      "published": "2026-06-23T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5YrdKJuy4ZmnWf_7L2RdXqS2QWC2BHJIbGsapJLmmYy1hBXfHxE7WMk-itWDkh-oCbAr8-CZOiUTyLftdM6191lDL8Iu2ENNU_i6Wfw2qy3lKY41iCrOnaLXHIl8cWDto42eqVlnsM4OetK0ymQUnwdpRXIniZQ-o7pBIDkqOYbm7o4CMlQTYFOeQyJI/s1600/ai-weapon.jpg"
-    },
-    {
       "id": "d62fc348d8b26420ec15314822c1006f",
       "title": "GEEKOM : le top des offres mini PC du Prime Day 2026 sur Amazon",
       "link": "https://www.it-connect.fr/geekom-le-top-des-offres-mini-pc-du-prime-day-2026-sur-amazon/",
@@ -341,16 +361,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "0860e9752fec58321d74a703fd67c25b",
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145...",
-      "published": "2026-06-23T08:54:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiENcFC1DFPXKuRCT_WmSwq-wpzC8IcZUdZzu5IHi597n77W8LFs9qSUdDPCuMK9QzkRZEBMbBh4p2xhnI1OXZu4akIgR5suIv_yRA7AtEkojDcyXaU5x0UiZKRDRvTn0n0wy9HIQnhJj9zUO0rpemNOFNZEmMl4NQsCj5aDEpDrqXUkivsOX1QoLRqeKZh/s1600/npmm.jpg"
     },
     {
       "id": "1dca77909ac6962dba05a022e77a36d4",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/fin-otp-sharepoint-2026-solutions-et-alternatives-pour-le-partage-externe/",
       "summary": "L'OTP tel que vous le connaissez avec les partages externes SharePoint évolue pour s'appuyer sur Entra B2B : un changement important que vous devez anticiper. Le post Fin de l’OTP SharePoint en 2026 : impacts pour vot...",
       "published": "2026-06-22T16:29:05+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a22fa97db4184d361ac482ea2f7c2dfa",
-      "title": "Sefirah : une application open source pour relier son smartphone Android à son PC Windows ou Linux",
-      "link": "https://www.it-connect.fr/sefirah-alternative-kde-connect-phone-link/",
-      "summary": "Découvrez Sefirah, l'application open source qui relie Android à Windows et Linux : presse-papiers, notifications, fichiers et recopie d'écran. Le post Sefirah : une application open source pour relier son smartphone ...",
-      "published": "2026-06-22T13:12:15+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
