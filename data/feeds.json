@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-06-24T02:55:30.698046+00:00",
-  "count": 40,
+  "last_updated": "2026-06-24T09:23:05.781959+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "8a575443d9371d36688dcc7a80a22639",
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanct...",
+      "published": "2026-06-24T08:55:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWpkKj6KRX5Q7jeH07PFaANRRfRbl_CdrBEZ0cypjUg2UBsy49GSGNAOXF74dDez1H9xz_FXTMWh1lziO6f1Q0xrhjZRICtxmzQQJruQoQ8fk33kgTacTn5Y0BrNHmkHfLy3iC4s2oEL7H2CRCaBTcbLBqCbg3jcSFfHTSYiIa_RZV49sE58GCHOWorXJ/s1600/cybercrime.jpg"
+    },
+    {
+      "id": "51fa28b2683e2b267c6dbbcf55eaf6b2",
+      "title": "Le gestionnaire de mots de passe qui vous donne des alias email natifs",
+      "link": "https://korben.info/proton-pass.html",
+      "summary": "-- Article en partenariat avec Proton -- Si vous avez encore un mot de passe identique sur trois sites, ou que vous vous dites « le 2FA c'est bien, mais je ferai ça plus tard », ce billet est pour vous. Proton Pass, c...",
+      "published": "2026-06-24T07:57:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/proton-pass/proton-pass-1.png"
+    },
+    {
+      "id": "a47429480d1c4d27c07ba87cb2424255",
+      "title": "Samsung KNOX - Le bouclier qui ouvrait le kernel des Galaxy",
+      "link": "https://korben.info/samsung-knox-faille-kernel-galaxy.html",
+      "summary": "Samsung nous vend KNOX comme le gros cadenas de nos smartphones Galaxy mais il semblerait que ce soit un gros fail. Si vous ne connaissez pas encore KNOX, c'est la couche maison de Samsung qui garde un oeil sur tout c...",
+      "published": "2026-06-24T07:33:05+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/samsung-knox-faille-kernel-galaxy/samsung-knox-faille-kernel-galaxy-1.avif"
+    },
+    {
+      "id": "d92d3c4beddf3781440ca059edc6bbed",
+      "title": "USB4STREAM - Le transfert direct entre 2 machines sous Linux",
+      "link": "https://korben.info/usb4stream-linux-transfert-direct-usb4.html",
+      "summary": "Admettons que vous ayez besoin de transmettre des fichiers d'une machine A à une machine B, le plus vite possible et sans vous prendre la tête ? Et bien j'ai ce qu'il vous faut et ça s'appelle USB4STREAM, qui vient d'...",
+      "published": "2026-06-24T07:15:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/usb4stream-linux-transfert-direct-usb4/usb4stream-linux-transfert-direct-usb4-1.png"
+    },
+    {
+      "id": "2c83202ca84fb3c0b323b59f71606cfb",
+      "title": "Favicon - Un site web planqué dans 212 octets",
+      "link": "https://korben.info/favicon-site-web-complet.html",
+      "summary": "Si vous ne connaissez pas, un favicon, c'est cette mini icône pixelisée que vous pouvez voir dans l'onglet de votre navigateur qui en général est le logo du site que vous visitez. Hé bien le dev Tim Wehrle a réussi à ...",
+      "published": "2026-06-24T06:58:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/favicon-site-web-complet/favicon-site-web-complet-1.png"
+    },
+    {
+      "id": "881db7d77599d527fa15ca26fd8cbc33",
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+      "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME...",
+      "published": "2026-06-24T06:50:38+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivauBSNOsDqBHvUFSnF1NdlWJ8BAt2JVgIo_ZUQhBkVppSz0PvkEmrc9RP1hMf2-oFFRgr5PNm7pxLmPngAJHcxV6-F3e43bEqmdEg38013JmlUKDlGVOLQTj6bYbyk_R7WXBqbW3o2yPHdosqz7nncLivqDqXGAuiTFcHkPqiVPBJuDHlsvYWtEreVmk_/s1600/cc.jpg"
+    },
+    {
+      "id": "7df23de818581643ff9a663ec07926d3",
+      "title": "PACT : Cloudflare veut en finir avec les CAPTCHA sur le Web",
+      "link": "https://www.it-connect.fr/pact-cloudflare-veut-en-finir-avec-les-captcha-sur-le-web/",
+      "summary": "Cloudflare dévoile PACT, un protocole anti-bots respectueux de la vie privée, développé avec Mozilla, Google, Microsoft et Shopify. Sans CAPTCHA ni pistage. Le post PACT : Cloudflare veut en finir avec les CAPTCHA sur...",
+      "published": "2026-06-24T06:35:04+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0905c8c6514328146b0a4519c416b4e1",
+      "title": "PixelSmash : une faille FFmpeg expose Jellyfin au RCE",
+      "link": "https://www.it-connect.fr/pixelsmash-une-faille-ffmpeg-expose-jellyfin-au-rce/",
+      "summary": "PixelSmash est une faille critique de FFmpeg (CVE-2026-8461) permettant d'exécuter du code à distance sur un serveur Jellyfin via un simple fichier vidéo piégé. Le post PixelSmash : une faille FFmpeg expose Jellyfin a...",
+      "published": "2026-06-24T05:48:23+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "805ccd49441eecde5b738e033ce8d950",
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
@@ -63,6 +143,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJkhDD5qINhfAhBFXG2C13raQF6T6zAOmnHlArhnLUP5z0ifBzpyq6M_4n11cgynQfZW0mxJWnYU-TDYSpKQHYFHvXsZHCB7uoMFg0w02yZILY-JLMm2-uqm-CA_wIqZHhzl25FfO_lMd7dYm6VfprDP83bz_SoB3MWLEc059E4YCa554bba-qWHW5udHv/s1600/fortigate.jpg"
     },
     {
+      "id": "42c86b7f6ce0574e147a69fd8bf50a7a",
+      "title": "Une tablette de prison américaine ouverte à la scie",
+      "link": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie.html",
+      "summary": "Le réparateur australien Hugh Jeffreys, connu pour ses vidéos de démontage et ses collaborations avec le site de réparation iFixit, a mis la main sur l'un de ces appareils que les prisons américaines louent à leurs dé...",
+      "published": "2026-06-23T16:22:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie/une-tablette-de-prison-americaine-ouverte-a-la-scie-1.jpg"
+    },
+    {
       "id": "e0154ed39675914bda00f3afd7eb034f",
       "title": "Scattered Spider members plead guilty to hacking Transport for London",
       "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
@@ -91,6 +181,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoC7KFWoDGkSi-UzAyKNUkw-Ogs4oy2tCOAYXiYAAkqEUC1WMotLAE1GUwoWApfXK3prWVctTP05aLGjru0hDBfJkZ1NzPiFeI1VObgSNCx4egTrYhKIUt4m1S14eQ6_GpdffFBL4Ak3Mgjw7UiiBethv1lmyd_OaPIfhk_b-zuMjxCHLZtih8Tk6MtRg/s1600/unitedstates.jpg"
+    },
+    {
+      "id": "eec9256b7d2c014b956b348d7ca0eda8",
+      "title": "LightComposer, la lampe qui se règle au cadran comme un vieux téléphone",
+      "link": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone.html",
+      "summary": "Le bidouilleur allemand John Engeln en avait assez. Il voulait une petite lampe de bureau qui change de couleur, point, sans dégainer son smartphone pour télécharger une appli et appairer le moindre objet, et plutôt q...",
+      "published": "2026-06-23T15:13:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone-1.jpg"
     },
     {
       "id": "dae2aef5b020a07fce81ed01e3bc1dbd",
@@ -143,6 +243,16 @@
       "image": ""
     },
     {
+      "id": "22ec7f54d791f04cc8f71baab9ebf17f",
+      "title": "Cet outil open source traque les conseils de sécurité que l'IA vous a refilés et qui ne valent plus rien",
+      "link": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien.html",
+      "summary": "Quand vous demandez à un assistant IA de corriger une faille dans une de vos dépendances, il vous propose presque toujours la même chose : ajouter ce qu'on appelle un \"override\", une ligne de configuration qui force v...",
+      "published": "2026-06-23T11:56:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien-1.png"
+    },
+    {
       "id": "c8e3569189f8451f92b2576e7286e31a",
       "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
       "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
@@ -163,6 +273,16 @@
       "image": ""
     },
     {
+      "id": "c4baf8eda2e9b14893d52828c55179ed",
+      "title": "RawGraphs - Et vos données moches deviennent de beaux graphiques sans coder",
+      "link": "https://korben.info/rawgraphs-data-visualisation-open-source.html",
+      "summary": "Je ne sais pas si vous manipulez souvent des fichiers CSV, mais sans savoir coder, en tirer un graphique correct, c'est souvent la croix et la bannière ! Excel nous sort en général un camembert tristoune qui pue comme...",
+      "published": "2026-06-23T09:07:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rawgraphs-data-visualisation-open-source/rawgraphs-data-visualisation-open-source-1.png"
+    },
+    {
       "id": "0860e9752fec58321d74a703fd67c25b",
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
@@ -173,6 +293,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiENcFC1DFPXKuRCT_WmSwq-wpzC8IcZUdZzu5IHi597n77W8LFs9qSUdDPCuMK9QzkRZEBMbBh4p2xhnI1OXZu4akIgR5suIv_yRA7AtEkojDcyXaU5x0UiZKRDRvTn0n0wy9HIQnhJj9zUO0rpemNOFNZEmMl4NQsCj5aDEpDrqXUkivsOX1QoLRqeKZh/s1600/npmm.jpg"
     },
     {
+      "id": "56ac98fd4d66bad4df0db3dd5c621fef",
+      "title": "Codex d'OpenAI bouffait votre SSD - 640 To de logs par an",
+      "link": "https://korben.info/codex-logs-sqlite-ssd-usure.html",
+      "summary": "Si vous utilisez Codex , le CLI de dev d'OpenAI, allez vite jeter un œil à votre SSD avant qu'il ne rende l'âme ! Si je vous dis ça, c'est parce qu'un utilisateur a remarqué que l'outil écrivait en douce des quantités...",
+      "published": "2026-06-23T08:45:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/codex-logs-sqlite-ssd-usure/codex-logs-sqlite-ssd-usure-1.jpg"
+    },
+    {
       "id": "1dca77909ac6962dba05a022e77a36d4",
       "title": "Squidbleed : une faille vieille de 29 ans fait fuiter les identifiants des utilisateurs du proxy Squid",
       "link": "https://www.it-connect.fr/squidbleed-faille-proxy-squid-cve-2026-47729/",
@@ -181,6 +311,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "01385e75bd89216a84ffac53adb35ba9",
+      "title": "Vivre sans État - Le doc ARTE qui titille l'anarchiste en vous",
+      "link": "https://korben.info/vivre-sans-etat-documentaire-arte.html",
+      "summary": "J'sais pas si vous saviez mais l'État, ce truc qui organise et contrôle toute notre vie, sans que nous l'ayons jamais vraiment choisi, n'a que 4 siècles au compteur... C'est comme ça que débute Vivre sans État, un doc...",
+      "published": "2026-06-23T07:37:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vivre-sans-etat-documentaire-arte/vivre-sans-etat-documentaire-arte-1.jpg"
     },
     {
       "id": "80bbbfc909526e3068fbecd0249d285f",
@@ -233,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "97ce7d79a5b9c74093178e4266abfb48",
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised th...",
-      "published": "2026-06-22T18:00:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4DchiVkQLBMvGHgWrojoZUdyk2SwEhEj5q6cOYzKCUWF1Lz3Mxeizurg1O-SLVi2jg319ib4SJsSoVWixAkl5WLPu4rL1cMoYXUM6EziOVyt42ESt1zmMo_iLEfHx9XSAXpsDd1FEtRSgKk4AhDzA7DjJN8c__pUgogxTQgaGjsxM04WNiesgRnbEVHN/s1600/wordpress-plugin.jpg"
-    },
-    {
       "id": "f4704f20d32799364b8dcd501270bd60",
       "title": "Fin de l’OTP SharePoint en 2026 : impacts pour votre DSI et alternatives pour le partage externe",
       "link": "https://www.it-connect.fr/fin-otp-sharepoint-2026-solutions-et-alternatives-pour-le-partage-externe/",
@@ -251,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "6eddb51029888d4c2e2682d0407bd7bc",
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug...",
-      "published": "2026-06-22T16:29:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg"
     },
     {
       "id": "a22fa97db4184d361ac482ea2f7c2dfa",
@@ -278,26 +398,6 @@
       "link": "https://www.it-connect.fr/ransomware-gentlemen-gentlekiller-edr/",
       "summary": "Le gang de ransomware Gentlemen développe et maintient ses propres EDR killers pour ses affiliés. ESET décrypte l'arsenal GentleKiller. La France est ciblée. Le post Ransomware Gentlemen : ce gang fournit ses propres ...",
       "published": "2026-06-22T09:25:11+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b16082cdea840beefbf562e2155b46e2",
-      "title": "Windows 11 26H2 confirmé : peu de nouveautés, mais un support étendu à octobre 2028",
-      "link": "https://www.it-connect.fr/windows-11-26h2-enablement-package-mise-a-jour/",
-      "summary": "Windows 11 26H2 arrivera fin 2026 sous forme d'enablement package : aucune nouveauté majeure, mais un support prolongé jusqu'en octobre 2028. On fait le point. Le post Windows 11 26H2 confirmé : peu de nouveautés, mai...",
-      "published": "2026-06-22T08:38:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9ffce28c33388b3cc57cd0e5c092ce36",
-      "title": "Microsoft va basculer OneDrive vers cloud.microsoft : préparez-vous",
-      "link": "https://www.it-connect.fr/microsoft-va-basculer-onedrive-vers-cloud-microsoft-preparez-vous/",
-      "summary": "Microsoft va migrer les URL OneDrive vers cloud.microsoft dès juillet 2026. Découvrez ce qui change et les points à vérifier côté firewall et proxy. Le post Microsoft va basculer OneDrive vers cloud.microsoft : prépar...",
-      "published": "2026-06-22T07:50:41+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
