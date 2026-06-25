@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-24T19:42:09.536066+00:00",
+  "last_updated": "2026-06-25T02:54:57.532657+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1006b60d43936b40b43af37f807ea6d8",
+      "title": "Google releases new privacy controls for activity history, personalization",
+      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
+      "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
+      "published": "2026-06-24T23:46:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ed32afcd0c15c5d39dc4a80b7a79d2c5",
+      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+      "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
+      "published": "2026-06-24T21:55:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ec428f863166f2032383e65fbe73fba6",
+      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
+      "published": "2026-06-24T21:29:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "561a7b58b7202c947f4756e9f21a82ca",
+      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+      "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
+      "published": "2026-06-24T20:58:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "30375fa659da88a031d5a62027eb80fb",
+      "title": "Rpilocator ferme - Adieu au traqueur de stock Raspberry Pi",
+      "link": "https://korben.info/comment-trouver-un-raspberry-pi-facilement.html",
+      "summary": "Putain, j'sais pas si vous vous souvenez de cette galère que c'était de mettre la main sur un Raspberry Pi neuf y'a pas si longtemps. Et triste nouvelle, le site qui nous a tous sauvés pendant cette galère, rpilocator...",
+      "published": "2026-06-24T20:35:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/comment-trouver-un-raspberry-pi-facilement/comment-trouver-un-raspberry-pi-facilement-1.jpg"
+    },
+    {
+      "id": "0e5060193c5a4a031a3ff4f475cb6c97",
+      "title": "Orion - Le navigateur Mac qui ne carbure pas à Chromium",
+      "link": "https://korben.info/orion-navigateur-webkit-mac.html",
+      "summary": "Quand je regarde la liste des navigateurs divers et variés qu'on a à notre disposition, franchement, je déprime... Chrome, Edge, Brave, Opera, Vivaldi, et même feu Arc... tous tournent sur Chromium, donc sur le moteur...",
+      "published": "2026-06-24T20:16:21+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/orion-navigateur-webkit-mac/orion-navigateur-webkit-mac-1.png"
+    },
     {
       "id": "874900ad42f27edf1e6c2b5641dce773",
       "title": "GitHub submergé par l’IA : Microsoft contraint de faire appel à AWS",
@@ -193,26 +253,6 @@
       "image": "https://korben.info/samsung-knox-faille-kernel-galaxy/samsung-knox-faille-kernel-galaxy-1.avif"
     },
     {
-      "id": "d92d3c4beddf3781440ca059edc6bbed",
-      "title": "USB4STREAM - Le transfert direct entre 2 machines sous Linux",
-      "link": "https://korben.info/usb4stream-linux-transfert-direct-usb4.html",
-      "summary": "Admettons que vous ayez besoin de transmettre des fichiers d'une machine A à une machine B, le plus vite possible et sans vous prendre la tête ? Et bien j'ai ce qu'il vous faut et ça s'appelle USB4STREAM, qui vient d'...",
-      "published": "2026-06-24T07:15:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/usb4stream-linux-transfert-direct-usb4/usb4stream-linux-transfert-direct-usb4-1.png"
-    },
-    {
-      "id": "2c83202ca84fb3c0b323b59f71606cfb",
-      "title": "Favicon - Un site web planqué dans 212 octets",
-      "link": "https://korben.info/favicon-site-web-complet.html",
-      "summary": "Si vous ne connaissez pas, un favicon, c'est cette mini icône pixelisée que vous pouvez voir dans l'onglet de votre navigateur qui en général est le logo du site que vous visitez. Hé bien le dev Tim Wehrle a réussi à ...",
-      "published": "2026-06-24T06:58:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/favicon-site-web-complet/favicon-site-web-complet-1.png"
-    },
-    {
       "id": "881db7d77599d527fa15ca26fd8cbc33",
       "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
       "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
@@ -263,36 +303,6 @@
       "image": ""
     },
     {
-      "id": "517d2a4bda7f06e897dee6b1be18b916",
-      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-      "summary": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
-      "published": "2026-06-23T20:22:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bd9e7213f3b104ccf7d9e9be8d506e80",
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
-      "published": "2026-06-23T19:59:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c6e7ed04596c89ace9b347d72161fe60",
-      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-      "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
-      "published": "2026-06-23T18:30:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c2c9035536172e70a97387ae750e6a8d",
       "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
       "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
@@ -301,16 +311,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJkhDD5qINhfAhBFXG2C13raQF6T6zAOmnHlArhnLUP5z0ifBzpyq6M_4n11cgynQfZW0mxJWnYU-TDYSpKQHYFHvXsZHCB7uoMFg0w02yZILY-JLMm2-uqm-CA_wIqZHhzl25FfO_lMd7dYm6VfprDP83bz_SoB3MWLEc059E4YCa554bba-qWHW5udHv/s1600/fortigate.jpg"
-    },
-    {
-      "id": "e0154ed39675914bda00f3afd7eb034f",
-      "title": "Scattered Spider members plead guilty to hacking Transport for London",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-      "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
-      "published": "2026-06-23T15:31:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "70da639e50d29b870448d12d6323f7df",
