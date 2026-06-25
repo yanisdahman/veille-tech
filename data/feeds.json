@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-06-25T02:54:57.532657+00:00",
+  "last_updated": "2026-06-25T08:56:39.131275+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a18492dafee16311d9ae8ddd4a1c5db0",
+      "title": "Distillation - Comment Alibaba aurait aspiré l'IA Claude",
+      "link": "https://korben.info/distillation-modele-ia-alibaba-claude.html",
+      "summary": "Anthropic vient d'accuser frontalement Alibaba d'avoir siphonné les capacités de son IA Claude. Et le plus dingue dans cette histoire, c'est la méthode qui aurait été employée. Car non, rassurez-vous, personne n'a pir...",
+      "published": "2026-06-25T07:24:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/distillation-modele-ia-alibaba-claude/distillation-modele-ia-alibaba-claude-1.png"
+    },
+    {
+      "id": "9cce04ffdd88ddab6b3333858cdc8594",
+      "title": "Derniers jours : les mini PC Geekom A6 et A7 MAX au meilleur prix de l’année !",
+      "link": "https://www.it-connect.fr/derniers-jours-les-mini-pc-geekom-a6-et-a7-max-au-meilleur-prix-de-lannee/",
+      "summary": "Mieux que le Prime Day : le Geekom A7 MAX passe à 615 € (au lieu de 999 €) et l'A6 à 489 € avec le code réservé aux lecteurs d'IT-Connect, jusqu'au 2 juillet. Le post Derniers jours : les mini PC Geekom A6 et A7 MAX a...",
+      "published": "2026-06-25T06:39:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "58da57ced9e6cac693dfd0e2f4cfac64",
+      "title": "Patch the Planet : OpenAI met son IA au service de l’open source",
+      "link": "https://www.it-connect.fr/patch-the-planet-openai-met-son-ia-au-service-de-lopen-source/",
+      "summary": "OpenAI étend Daybreak : plugin Codex Security, version complète de GPT-5.5-Cyber et l'initiative open source Patch the Planet. Voici ce qu'il faut retenir. Le post Patch the Planet : OpenAI met son IA au service de l’...",
+      "published": "2026-06-25T06:17:31+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ad3ad8530f92b6335ce622ad7b31fde5",
+      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
+      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Goo...",
+      "published": "2026-06-25T05:46:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UeGaI_Ej8KFu7-vQHTOuoohYdx04xIdI3W2B6JjCdaTSR6m-y1PAZ-aes-tH9nxtPGO2sFUiu1NwYkwT5s8bDPaHpG8nyN4t_mbZfVjf0nU8L11XujdqERtFUQlMZ85NV_nG6ZhqIQbGdAtyi8p1Oqq7TsBRs1IDn8HvOOnUPFEaL9_2cXrh9eovvaYz/s1600/cisco-20245.jpg"
+    },
+    {
+      "id": "ccfe11223943ef7e295bca7674b2fd09",
+      "title": "Secure Boot : Ventoy 1.1.14 anticipe le casse-tête UEFI CA 2023",
+      "link": "https://www.it-connect.fr/secure-boot-ventoy-1-1-14-anticipe-le-casse-tete-uefi-ca-2023/",
+      "summary": "Ventoy 1.1.14 met à jour son shim Secure Boot pour résoudre le problème de l'UEFI CA 2023. Découvrez les nouveautés de cette nouvelle version. Le post Secure Boot : Ventoy 1.1.14 anticipe le casse-tête UEFI CA 2023 a ...",
+      "published": "2026-06-25T05:29:52+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6fab54a1b3ba1923ecb20675e68ab832",
+      "title": "Windows 11 : la KB5095093 muscle la restauration du PC",
+      "link": "https://www.it-connect.fr/windows-11-la-kb5095093-muscle-la-restauration-du-pc/",
+      "summary": "Microsoft a publié la mise à jour optionnelle KB5095093 pour Windows 11 24H2 et 25H2 : Point-in-time restore, pause calendrier de Windows Update et bien plus. Le post Windows 11 : la KB5095093 muscle la restauration d...",
+      "published": "2026-06-25T04:57:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fb3bd90a92202f70e54e024f3b6ada8f",
+      "title": "GLPI 11.0.8 et 10.0.26 : 16 failles patchées, dont 2 critiques",
+      "link": "https://www.it-connect.fr/glpi-11-0-8-et-10-0-26-16-failles-patchees-dont-2-critiques/",
+      "summary": "GLPI reçoit deux patchs de sécurité : 11.0.8 et 10.0.26. 16 vulnérabilités ont été patchées dans GLPI 11, dont 2 critiques : une RCE et un contournement du MFA. Le post GLPI 11.0.8 et 10.0.26 : 16 failles patchées, do...",
+      "published": "2026-06-25T04:13:36+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "1006b60d43936b40b43af37f807ea6d8",
       "title": "Google releases new privacy controls for activity history, personalization",
@@ -243,16 +313,6 @@
       "image": "https://korben.info/proton-pass/proton-pass-1.png"
     },
     {
-      "id": "a47429480d1c4d27c07ba87cb2424255",
-      "title": "Samsung KNOX - Le bouclier qui ouvrait le kernel des Galaxy",
-      "link": "https://korben.info/samsung-knox-faille-kernel-galaxy.html",
-      "summary": "Samsung nous vend KNOX comme le gros cadenas de nos smartphones Galaxy mais il semblerait que ce soit un gros fail. Si vous ne connaissez pas encore KNOX, c'est la couche maison de Samsung qui garde un oeil sur tout c...",
-      "published": "2026-06-24T07:33:05+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/samsung-knox-faille-kernel-galaxy/samsung-knox-faille-kernel-galaxy-1.avif"
-    },
-    {
       "id": "881db7d77599d527fa15ca26fd8cbc33",
       "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
       "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
@@ -333,71 +393,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoC7KFWoDGkSi-UzAyKNUkw-Ogs4oy2tCOAYXiYAAkqEUC1WMotLAE1GUwoWApfXK3prWVctTP05aLGjru0hDBfJkZ1NzPiFeI1VObgSNCx4egTrYhKIUt4m1S14eQ6_GpdffFBL4Ak3Mgjw7UiiBethv1lmyd_OaPIfhk_b-zuMjxCHLZtih8Tk6MtRg/s1600/unitedstates.jpg"
     },
     {
-      "id": "dae2aef5b020a07fce81ed01e3bc1dbd",
-      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code ...",
-      "published": "2026-06-23T14:22:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcacTEKD_LZFda1wwX5aClbAVOb6mwah2lVUY-jUZwNsrSZGDOFL18LP5zYLX3M2DwKng0qknZ5qo_hMk4q-NExgZv1ozhCy7DJuZwvviZE0sv36PQ2k8Y2emv1KMDFplakFwVzulOFPteWkmVoLO6Le912KAbJGFW0nkqKWHEkwJQLbsGhz5npWO3aJaR/s1600/github-actions.jpg"
-    },
-    {
       "id": "a57ae7bf8ddf7dffbf5a2037082dd28c",
       "title": "FixMyCV : 7 recruteurs IA relisent votre CV avant les vrais",
       "link": "https://www.it-connect.fr/fixmycv-7-recruteurs-ia-relisent-votre-cv-avant-les-vrais/",
       "summary": "FixMyCV, un outil web gratuit français, fait passer votre CV devant 7 recruteurs IA : analyse, lettre de motivation et simulation d'entretien au programme. Le post FixMyCV : 7 recruteurs IA relisent votre CV avant les...",
       "published": "2026-06-23T14:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d62fc348d8b26420ec15314822c1006f",
-      "title": "GEEKOM : le top des offres mini PC du Prime Day 2026 sur Amazon",
-      "link": "https://www.it-connect.fr/geekom-le-top-des-offres-mini-pc-du-prime-day-2026-sur-amazon/",
-      "summary": "Pour le Prime Day 2026, Geekom casse les prix de ses mini PC sur Amazon : A5, IT12, A6 et A7 MAX en promo. Découvrez notre sélection des meilleures offres. Le post GEEKOM : le top des offres mini PC du Prime Day 2026 ...",
-      "published": "2026-06-23T09:13:59+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1dca77909ac6962dba05a022e77a36d4",
-      "title": "Squidbleed : une faille vieille de 29 ans fait fuiter les identifiants des utilisateurs du proxy Squid",
-      "link": "https://www.it-connect.fr/squidbleed-faille-proxy-squid-cve-2026-47729/",
-      "summary": "Squidbleed (CVE-2026-47729) : une faille présente depuis 1997 dans le proxy Squid permet de voler en clair les requêtes HTTP d'autres utilisateurs. Le post Squidbleed : une faille vieille de 29 ans fait fuiter les ide...",
-      "published": "2026-06-23T07:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e98b0efe8cfc912ba8d010c8c90eca01",
-      "title": "Claude : Anthropic va vérifier l’âge et l’identité de ses utilisateurs dès le 8 juillet",
-      "link": "https://www.it-connect.fr/claude-anthropic-va-verifier-age-et-identite-de-ses-utilisateurs-des-le-8-juillet/",
-      "summary": "À partir du 8 juillet 2026, Anthropic pourra demander aux utilisateurs de Claude une pièce d'identité : et si c'était pour donner un accès à Fable 5 ? Le post Claude : Anthropic va vérifier l’âge et l’identité de ses ...",
-      "published": "2026-06-22T23:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3b3deca8f1502421eea030a6f575c36c",
-      "title": "Coupe du monde 2026 : une faille FIFA permettait de détourner les flux TV mondiaux",
-      "link": "https://www.it-connect.fr/coupe-du-monde-2026-une-faille-fifa-permettait-de-detourner-les-flux-tv-mondiaux/",
-      "summary": "Une simple inscription comme agent de football ouvrait l'accès aux systèmes de production de la Coupe du monde 2026 : flux TV, scores, commentaires. Le post Coupe du monde 2026 : une faille FIFA permettait de détourne...",
-      "published": "2026-06-22T22:15:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f4704f20d32799364b8dcd501270bd60",
-      "title": "Fin de l’OTP SharePoint en 2026 : impacts pour votre DSI et alternatives pour le partage externe",
-      "link": "https://www.it-connect.fr/fin-otp-sharepoint-2026-solutions-et-alternatives-pour-le-partage-externe/",
-      "summary": "L'OTP tel que vous le connaissez avec les partages externes SharePoint évolue pour s'appuyer sur Entra B2B : un changement important que vous devez anticiper. Le post Fin de l’OTP SharePoint en 2026 : impacts pour vot...",
-      "published": "2026-06-22T16:29:05+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
