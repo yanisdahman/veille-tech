@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-06-25T14:25:43.296502+00:00",
+  "last_updated": "2026-06-25T19:55:49.301805+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "49381ecaf39da5a3432435aaf0d83630",
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access soft...",
+      "published": "2026-06-25T19:45:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5888f2d8af8d6494a65629b772e1c685",
+      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+      "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. ...",
+      "published": "2026-06-25T18:29:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fb6da4d91e2c292610c441f52aba6297",
+      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+      "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
+      "published": "2026-06-25T16:23:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "56cdd34dbfe6ab9f6b73c98da8b33ba5",
+      "title": "Cache-aware scheduling - Le patch Linux qui vise +360% de perf sur MySQL",
+      "link": "https://korben.info/cache-aware-scheduling-linux-hygon.html",
+      "summary": "L' ordonnanceur du noyau Linux vient de recevoir une proposition de mise à jour qui fait grimper les perfs de façon assez spectaculaire sur certaines charges. Hygon, le fondeur chinois qui fabrique des x86 sous licenc...",
+      "published": "2026-06-25T16:22:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cache-aware-scheduling-linux-hygon/cache-aware-scheduling-linux-hygon-1.png"
+    },
+    {
+      "id": "6f16afa64d78f605de387bc839dd237d",
+      "title": "Windows Server 2025 : comment configurer le DNS-over-HTTPS sur le serveur DNS ?",
+      "link": "https://www.it-connect.fr/configurer-doh-windows-server-dns/",
+      "summary": "Découvrez comment activer et configurer DNS-over-HTTPS (DoH) sur un serveur DNS Windows Server 2025, avec la gestion du certificat, pour chiffrer les flux DNS. Le post Windows Server 2025 : comment configurer le DNS-o...",
+      "published": "2026-06-25T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8a06976a841381caa75f94a66eeff1ab",
+      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+      "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
+      "published": "2026-06-25T15:36:56+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "52ba4c9cff9c8877a6e12d1ea3bdc3cf",
+      "title": "Clash of Clans 2012 - La version disparue est rejouable en ligne",
+      "link": "https://korben.info/clash-of-clans-2012-navigateur.html",
+      "summary": "C'est triste mais la toute première version de Clash of Clans, celle de 2012, n'était plus jouable nulle part depuis longtemps. En effet, les serveurs officiels rejettent ses vieilles connexions depuis des années, et ...",
+      "published": "2026-06-25T15:32:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/clash-of-clans-2012-navigateur/clash-of-clans-2012-navigateur-1.png"
+    },
+    {
+      "id": "09983116482e7da426804a303702e323",
+      "title": "Snake sur un switch Ubiquiti - Parfaitement inutile, donc génial",
+      "link": "https://korben.info/snake-switch-ubiquiti-etherlighting.html",
+      "summary": "Si vous cherchez la définition exacte du mot bidouille, la voilà : Prendre un switch réseau à plusieurs centaines d'euros et s'en servir pour jouer à Snake. C'est en tout cas comme cela qu'Adam Jezek voit les choses p...",
+      "published": "2026-06-25T15:16:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/snake-switch-ubiquiti-etherlighting/snake-switch-ubiquiti-etherlighting-1.png"
+    },
+    {
+      "id": "784da3b2d1df174b9c09d6b0f62e951e",
+      "title": "Firefox - Personnalisez (enfin) vos raccourcis clavier !",
+      "link": "https://korben.info/firefox-raccourcis-clavier-about-keyboard.html",
+      "summary": "Ça fait des années et des années, je dirais pas loin de 20 ans, que nous, pauvres utilisateurs de Firefox, réclamons un truc tout bête : Pouvoir enfin changer les raccourcis clavier du navigateur. Hé bien croyez le ou...",
+      "published": "2026-06-25T15:09:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/firefox-raccourcis-clavier-about-keyboard/firefox-raccourcis-clavier-about-keyboard-1.png"
+    },
+    {
+      "id": "b53c16079f84579717d2af201a8668d3",
+      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+      "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
+      "published": "2026-06-25T15:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "26e385d92dc07f179675a0604597d56d",
+      "title": "L'app de la Maison Blanche s'incruste sur les tel des fonctionnaires",
+      "link": "https://korben.info/app-maison-blanche-telephones-gouvernement.html",
+      "summary": "J'sais pas si vous avez vu encore ce truc de dingue qui est arrivé aux Etats-Unis mais des employés de l'USDA, du Département d'État et du Département du Travail, qui ont parlé à WIRED sous anonymat par peur de représ...",
+      "published": "2026-06-25T14:53:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/app-maison-blanche-telephones-gouvernement/app-maison-blanche-telephones-gouvernement-1.png"
+    },
+    {
+      "id": "1613adfa6fdbfebd884e352668bb4595",
+      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+      "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcn...",
+      "published": "2026-06-25T14:12:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtdBDQ0Y38i0JZmDwU6XKiZ1R6HJ0KHe59012E0krnPubG5pJgiTg6IUg4fHEzoW5jm7QyEk8fXOL9swj7FlpXdMcjyn0ltziMhQJD2pYPtzjXimsntV8DFg-c1erOgWkLl8du8eBvJYlukTCDDycp5jSmWNfwmv5WwGKlJRJvZt1GvUZZl24dP2HVDkn/s1600/adblocker.jpg"
+    },
     {
       "id": "ef91d6a5abd1ac52f6a074d0dbfbc58f",
       "title": "The Four Elevations of Effective Fraud Prevention",
@@ -93,16 +213,6 @@
       "image": "https://korben.info/protocole-vpn-concu-pour-vous/protocole-vpn-concu-pour-vous-1.webp"
     },
     {
-      "id": "620cbfc8d7f59d99ba8863567fc997a7",
-      "title": "Fwupd 2.0.21 corrige plus de 250 failles de sécurité repérées grâce à l'IA",
-      "link": "https://korben.info/fwupd-2-0-21-corrige-plus-de-250-failles-de-securite-reperees-grace-a-lia.html",
-      "summary": "On savait que les modèles d'IA savaient écrire du code, on découvre cette année, de plus en plus qu'ils savent aussi le casser à une échelle qui dépasse l'entendement, et le projet fwupd vient d'en faire les frais d'u...",
-      "published": "2026-06-25T09:58:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fwupd-2-0-21-corrige-plus-de-250-failles-de-securite-reperees-grace-a-lia/fwupd-2-0-21-corrige-plus-de-250-failles-de-securite-reperees-grace-a-lia-1.jpg"
-    },
-    {
       "id": "bd25b0b3685df00067dd7045f2efcd97",
       "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
       "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
@@ -113,16 +223,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbTrOy7FP80AfVcwyuiLtJx1T9YECQ6fxHaelQKUn3MNwSV9P3tiVq4_-pOB-gmU3lF9GpWnc5ebVSAbp0MZMZpHHZkdpTK_HX40hfg3KbusQS5bD0kRYjYVyRzffkUpWBsblvGULiZnnOj6e0NF-dg49It3Wn8p9WqD2TNEz0ruG1XrnqCckAXqsDAOTn/s1600/ai-full-disk.jpg"
     },
     {
-      "id": "a8586c1c4074af68b961a072dc1967c7",
-      "title": "Le i-Buddy de MSN Messenger ressuscité",
-      "link": "https://korben.info/le-i-buddy-de-msn-messenger-ressuscite.html",
-      "summary": "Le i-Buddy de MSN Messenger ressuscité en accessoire USB Pendant que des nostalgiques s'acharnent depuis des années à ranimer MSN Messenger, la messagerie instantanée de Microsoft débranchée pour de bon depuis longtem...",
-      "published": "2026-06-25T09:06:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-i-buddy-de-msn-messenger-ressuscite/le-i-buddy-de-msn-messenger-ressuscite-1.jpg"
-    },
-    {
       "id": "95ba2c853fc77b2f89b298eeb61cb43b",
       "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
       "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
@@ -131,16 +231,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1-4l_iOC19z96Q7C7O_dZSKwEvMnMLhHyb7kpt2rpOzQmn3gKpz6_BaZmSpzgvyhTJf8BBQmBTx0Nvymxk1vfO5O5bE0nNGbYPHAcb5F8ZF_WjTyQe4AXSK71q6fESS9i5Rdpcfzt6ULab7eo21OZKRCYlqwU7G97mF4-AeVVANlT4YIbigdYxUJkwfy/s1600/clickattack.jpg"
-    },
-    {
-      "id": "a18492dafee16311d9ae8ddd4a1c5db0",
-      "title": "Distillation - Comment Alibaba aurait aspiré l'IA Claude",
-      "link": "https://korben.info/distillation-modele-ia-alibaba-claude.html",
-      "summary": "Anthropic vient d'accuser frontalement Alibaba d'avoir siphonné les capacités de son IA Claude. Et le plus dingue dans cette histoire, c'est la méthode qui aurait été employée. Car non, rassurez-vous, personne n'a pir...",
-      "published": "2026-06-25T07:24:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/distillation-modele-ia-alibaba-claude/distillation-modele-ia-alibaba-claude-1.png"
     },
     {
       "id": "9cce04ffdd88ddab6b3333858cdc8594",
@@ -233,36 +323,6 @@
       "image": ""
     },
     {
-      "id": "561a7b58b7202c947f4756e9f21a82ca",
-      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-      "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
-      "published": "2026-06-24T20:58:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "30375fa659da88a031d5a62027eb80fb",
-      "title": "Rpilocator ferme - Adieu au traqueur de stock Raspberry Pi",
-      "link": "https://korben.info/comment-trouver-un-raspberry-pi-facilement.html",
-      "summary": "Putain, j'sais pas si vous vous souvenez de cette galère que c'était de mettre la main sur un Raspberry Pi neuf y'a pas si longtemps. Et triste nouvelle, le site qui nous a tous sauvés pendant cette galère, rpilocator...",
-      "published": "2026-06-24T20:35:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/comment-trouver-un-raspberry-pi-facilement/comment-trouver-un-raspberry-pi-facilement-1.jpg"
-    },
-    {
-      "id": "0e5060193c5a4a031a3ff4f475cb6c97",
-      "title": "Orion - Le navigateur Mac qui ne carbure pas à Chromium",
-      "link": "https://korben.info/orion-navigateur-webkit-mac.html",
-      "summary": "Quand je regarde la liste des navigateurs divers et variés qu'on a à notre disposition, franchement, je déprime... Chrome, Edge, Brave, Opera, Vivaldi, et même feu Arc... tous tournent sur Chromium, donc sur le moteur...",
-      "published": "2026-06-24T20:16:21+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/orion-navigateur-webkit-mac/orion-navigateur-webkit-mac-1.png"
-    },
-    {
       "id": "874900ad42f27edf1e6c2b5641dce773",
       "title": "GitHub submergé par l’IA : Microsoft contraint de faire appel à AWS",
       "link": "https://www.it-connect.fr/github-submerge-par-ia-microsoft-contraint-de-faire-appel-a-aws/",
@@ -291,36 +351,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBVSibdiZdJ1tNYJFrsHtZ8Vr1EG28rqKLY4E7HvAtuax2i3vgpcaMZjEAcGDRxUVu5aa_BHzCAahpw5l2RP2HNw9t7PF6zknNICdw0iuW5jozt5fzqsSfb3Lw55MIvStq2vh5W0139JychUhhJHvchyphenhyphenm7tT2oTS555CkVZrBYSkhmlMKWaXMLtO4OcSp6/s1600/cybercrime-ms.jpg"
-    },
-    {
-      "id": "0aeb3878ed4e2c8066ef1fc1158b2f87",
-      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
-      "published": "2026-06-24T14:35:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c73bd85a4121184ea931af38acbda57b",
-      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-      "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
-      "published": "2026-06-24T14:35:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "85644ecdfaaf7721d1376adeb35d2b56",
-      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-      "summary": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how or...",
-      "published": "2026-06-24T14:02:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "ee83935181987dad2ff7d94a63571b30",
@@ -353,26 +383,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuQ2GvCcnjBgMTXoXBXqazE9MU3nbNgeccOlWELBQOL9WcHHH4uXS1BKCrrmv6iWWAn6vu1LZJzpHl1MGetv8EfnylIM48MlBK91Gyiz5zCL6cMFr6sJd5x0qdSvjPkwm-V5ON79TgMNPHdOuGQIqSWwTdQcmBnEjehYuDoKMllm9Xray6dVy2uqexoas/s1600/apex.jpg"
     },
     {
-      "id": "578eae52665ca4da90cd06347c1c589d",
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-      "published": "2026-06-24T10:41:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8a575443d9371d36688dcc7a80a22639",
-      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
-      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanct...",
-      "published": "2026-06-24T08:55:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWpkKj6KRX5Q7jeH07PFaANRRfRbl_CdrBEZ0cypjUg2UBsy49GSGNAOXF74dDez1H9xz_FXTMWh1lziO6f1Q0xrhjZRICtxmzQQJruQoQ8fk33kgTacTn5Y0BrNHmkHfLy3iC4s2oEL7H2CRCaBTcbLBqCbg3jcSFfHTSYiIa_RZV49sE58GCHOWorXJ/s1600/cybercrime.jpg"
-    },
-    {
       "id": "7df23de818581643ff9a663ec07926d3",
       "title": "PACT : Cloudflare veut en finir avec les CAPTCHA sur le Web",
       "link": "https://www.it-connect.fr/pact-cloudflare-veut-en-finir-avec-les-captcha-sur-le-web/",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/pixelsmash-une-faille-ffmpeg-expose-jellyfin-au-rce/",
       "summary": "PixelSmash est une faille critique de FFmpeg (CVE-2026-8461) permettant d'exécuter du code à distance sur un serveur Jellyfin via un simple fichier vidéo piégé. Le post PixelSmash : une faille FFmpeg expose Jellyfin a...",
       "published": "2026-06-24T05:48:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a57ae7bf8ddf7dffbf5a2037082dd28c",
-      "title": "FixMyCV : 7 recruteurs IA relisent votre CV avant les vrais",
-      "link": "https://www.it-connect.fr/fixmycv-7-recruteurs-ia-relisent-votre-cv-avant-les-vrais/",
-      "summary": "FixMyCV, un outil web gratuit français, fait passer votre CV devant 7 recruteurs IA : analyse, lettre de motivation et simulation d'entretien au programme. Le post FixMyCV : 7 recruteurs IA relisent votre CV avant les...",
-      "published": "2026-06-23T14:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
