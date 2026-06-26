@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-06-26T08:58:47.669727+00:00",
+  "last_updated": "2026-06-26T14:18:14.549531+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3487a157f60cad66fb463c0a037a3351",
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation t...",
+      "published": "2026-06-26T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "73f078ed386cedeb92973c14c2ca14db",
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (ac...",
+      "published": "2026-06-26T13:00:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0PC1aWOiorYx2AGD7fl-IVefJBKPJvjy7sMo5MURoMlaq492QcSdpSqqdGZRZk3u3e6BMS7qVzrJXBuWk-kH4oRqQy1cHTxkvHBLMMbllF9R_rNqL618rz5zEV_FfOvE0_YQgI-VVWbVX772Bc72qSphwMK-TtOAoZ5A9swYpvSNYsFfdR17i8AAXXzDZ/s1600/linux-hack.jpg"
+    },
+    {
+      "id": "051d862466ebe7a5de6bb7dd92ea2ea6",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM...",
+      "published": "2026-06-26T12:31:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg"
+    },
+    {
+      "id": "ad59c145702169e4746e104dcc08a220",
+      "title": "Game Porting Toolkit 4 - Les jeux Windows enfin fluides sur Mac",
+      "link": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac.html",
+      "summary": "Il y a deux ans, Apple lâchait le Game Porting Toolkit en jurant ses grands dieux qu'on pourrait faire tourner des jeux Windows sur un Mac Apple Silicon. À l'époque je vous disais que le gaming Windows sur Mac, c'étai...",
+      "published": "2026-06-26T12:22:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac/game-porting-toolkit-4-jeux-windows-mac-1.png"
+    },
+    {
+      "id": "6d4443e362e8561963b28c32694425b5",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. ...",
+      "published": "2026-06-26T11:51:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrcFiZh5KSQ9sYpF7Fafoy8kYny6olyD5WlY_oaAdYt0krMeOL8eNiTItqYmEmJ55wueKdZJlhIKMun7kwQR8AbbFPKTw0Nv-qJbPiaKA1n2J1rUHBV3YuRmdJHQpOTlsKctFMXoO8ogpgHC8rXls3FGamF7p7K1gxc-7dmU2va58Es1c40FV8AZFR-w/s1600/dirtyclone.jpg"
+    },
+    {
+      "id": "6520f6dcf874d5b3c594b5bb07348797",
+      "title": "Guardian Agents: The Next Layer of Identity Governance",
+      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human acce...",
+      "published": "2026-06-26T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg"
+    },
+    {
+      "id": "a3fcb097a6e8d4e706033e5db5db8a47",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has pr...",
+      "published": "2026-06-26T11:05:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1600/Miasma.jpg"
+    },
+    {
+      "id": "195c111ef2ff8e8aaa5d941fd511a3de",
+      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines...",
+      "published": "2026-06-26T09:27:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWYWOSDRBtv65eOzqdHSuOxXN7BWyBo1EAltLLUTTKGt68GYJ67zn9ixdKIQjTPCgE3P1o09UzrwXzvbopRZIhjN0LxYAZR06WaXOd116NQutGo1zLaceeob3nkuIHCeP6ZhlVp1yVOfc7dt-YZKFhEJJiPF8H5P03bc1ny0E3mi7jbIhqh7wqodC_zKE/s1600/hotel-photo-zip.jpg"
+    },
+    {
+      "id": "0a8526a009cf87658322d49ca5a23df1",
+      "title": "ANES - Il greffe une seconde puce graphique dans sa NES",
+      "link": "https://korben.info/anes-nes-double-ppu.html",
+      "summary": "Decrazyo vient de sortir ANES , un mod hardware qui transforme votre vieille NES en lui collant un deuxième PPU, la puce graphique de la console. Résultat, plus de couleurs à l'écran, plus de sprites, et même du paral...",
+      "published": "2026-06-26T09:15:25+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/anes-nes-double-ppu/anes-nes-double-ppu-1.png"
+    },
+    {
+      "id": "0969a267d8ce41e85ccf6aa808772626",
+      "title": "BioPass - Déverrouiller son Linux avec sa tronche et son doigt",
+      "link": "https://korben.info/biopass-login-biometrique-linux.html",
+      "summary": "Contrairement à ce que dit Yann Barthès, on n'est pas tous égaux face à la canicule. Et l'autre truc face auquel on n'est pas tous égaux non plus, c'est le déverrouillage biométrique de son ordi. On les connaît les Li...",
+      "published": "2026-06-26T09:08:38+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/biopass-login-biometrique-linux/biopass-login-biometrique-linux-1.png"
+    },
+    {
+      "id": "2f439c2bab70e9567c3816bd4408a817",
+      "title": "macUSB - Créer une clé USB macOS sans toucher au Terminal",
+      "link": "https://korben.info/macusb-cle-usb-bootable-macos.html",
+      "summary": "Krystian Pierz, un développeur polonais qui se planque derrière le pseudo Kruszoneq, en a eu marre de se galérer à chaque fois pour faire des clés USB bootable pour Mac, alors il a sorti macUSB , une app Mac native (d...",
+      "published": "2026-06-26T08:52:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/macusb-cle-usb-bootable-macos/macusb-cle-usb-bootable-macos-1.jpeg"
+    },
+    {
+      "id": "acc3b012b2608f7fc56bf4fd84bf33bb",
+      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+      "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+      "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and ...",
+      "published": "2026-06-26T08:49:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBSVw_gpnELsdqj1fhZXQ6Jm-ycv8RsT1-Q7vfNeyj0_Sd-keBXqrAA9w7Vz8qt0tKM3yXkVPknx8FtRKBGBShrelNUIlZbkoUDdDz4MEeWbStRxJt5ggHFA2LFTv5Lc2g-1VC9L7-HGtWY_8VZMTInbZrXa0UY_oZsu2GUeFDH8VsHnUekF4m64OET3U/s1600/iphone-hack.jpg"
+    },
     {
       "id": "da661b13e7f2fab5868f5b08ffc4842a",
       "title": "Une IA a lu un rouleau carbonisé par le Vésuve il y a près de 2 000 ans",
@@ -83,16 +203,6 @@
       "image": ""
     },
     {
-      "id": "58cfc212e5dc53bbcd2efba5130d0942",
-      "title": "OS9Map - OpenStreetMap sur votre Mac de 1999",
-      "link": "https://korben.info/os9map-openstreetmap-mac-os-9.html",
-      "summary": "Un dev prénommé Yllan vient de sortir OS9Map , une application qui affiche OpenStreetMap directement sur Mac OS 9. Oui, je parle bien du système d'exploitation de 1999 qui ronronnait sur nos vieux PowerPC. Pour l'inst...",
-      "published": "2026-06-26T06:14:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/os9map-openstreetmap-mac-os-9/os9map-openstreetmap-mac-os-9-1.png"
-    },
-    {
       "id": "e5f9119ef274657783e2a8046071dc1c",
       "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
@@ -111,36 +221,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "00591232cc789d90bd086e6d3062ac1a",
-      "title": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
-      "link": "https://korben.info/half-life-2-navigateur-webassembly-slqnt.html",
-      "summary": "Vous vous souvenez de la première fois que vous avez lancé Half-Life 2 et que vous avez attrapé une caisse avec le gravity gun ? Eh bien un lycéen qui se fait appeler slqnt vient de remettre tout ça dans votre navigat...",
-      "published": "2026-06-25T22:34:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/half-life-2-navigateur-webassembly-slqnt/half-life-2-navigateur-webassembly-slqnt-1.jpg"
-    },
-    {
-      "id": "50dcc21ac6867888e0225527a298c349",
-      "title": "Adblock for YouTube - 10 millions d'installs et un piège dormant",
-      "link": "https://korben.info/adblock-youtube-extension-injection-script.html",
-      "summary": "Si vous avez installé une extension qui s'appelle \"Adblock for YouTube\" pour virer les pubs de vos vidéos, prenez deux minutes pour lire mon article. Les chercheurs Oleg Zaytsev et Shachar Gritzman, de la boîte de séc...",
-      "published": "2026-06-25T22:20:43+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/adblock-youtube-extension-injection-script/adblock-youtube-extension-injection-script-1.png"
-    },
-    {
-      "id": "de96a8f161147d8ba5f543cb3da215fa",
-      "title": "Pannes d'IA - Les coupures ont été multipliées par 8 en un an",
-      "link": "https://korben.info/fiabilite-ia-pannes-downdetector-2026.html",
-      "summary": "Vous vous souvenez quand ChatGPT tombait trop souvent en rade et que ça vous faisait juste lever les yeux au ciel avant d'aller vous chercher un café en trainant de la pantoufle ?? Bah cette époque est en train de se ...",
-      "published": "2026-06-25T20:41:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fiabilite-ia-pannes-downdetector-2026/fiabilite-ia-pannes-downdetector-2026-1.png"
     },
     {
       "id": "49381ecaf39da5a3432435aaf0d83630",
@@ -243,36 +323,6 @@
       "image": ""
     },
     {
-      "id": "18d345efb30e0c4b48c8e47edfaa777b",
-      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
-      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-      "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know ...",
-      "published": "2026-06-25T11:17:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGC4Kd3HcSGw5TQ1GQNwgQST4imnVTlHZ4yW1dDr_kwUksDH1MHmlPUMzW8LhePZZTM1HszkIQwL8Ggm-cxlXRRMbUdcXbXfQ57FUfzbN4yj1OimJJxQy0XokmSC-lVr4XyFM5b3LqVQ8hMDIqr34xQXHpD0q8FnuR50Rdg19jXFC9xKKtn3Yap5BQhZg/s1600/corelight.jpg"
-    },
-    {
-      "id": "bd25b0b3685df00067dd7045f2efcd97",
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into ...",
-      "published": "2026-06-25T09:23:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbTrOy7FP80AfVcwyuiLtJx1T9YECQ6fxHaelQKUn3MNwSV9P3tiVq4_-pOB-gmU3lF9GpWnc5ebVSAbp0MZMZpHHZkdpTK_HX40hfg3KbusQS5bD0kRYjYVyRzffkUpWBsblvGULiZnnOj6e0NF-dg49It3Wn8p9WqD2TNEz0ruG1XrnqCckAXqsDAOTn/s1600/ai-full-disk.jpg"
-    },
-    {
-      "id": "95ba2c853fc77b2f89b298eeb61cb43b",
-      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-      "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since Apr...",
-      "published": "2026-06-25T08:54:37+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1-4l_iOC19z96Q7C7O_dZSKwEvMnMLhHyb7kpt2rpOzQmn3gKpz6_BaZmSpzgvyhTJf8BBQmBTx0Nvymxk1vfO5O5bE0nNGbYPHAcb5F8ZF_WjTyQe4AXSK71q6fESS9i5Rdpcfzt6ULab7eo21OZKRCYlqwU7G97mF4-AeVVANlT4YIbigdYxUJkwfy/s1600/clickattack.jpg"
-    },
-    {
       "id": "9cce04ffdd88ddab6b3333858cdc8594",
       "title": "Derniers jours : les mini PC Geekom A6 et A7 MAX au meilleur prix de l’année !",
       "link": "https://www.it-connect.fr/derniers-jours-les-mini-pc-geekom-a6-et-a7-max-au-meilleur-prix-de-lannee/",
@@ -291,16 +341,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ad3ad8530f92b6335ce622ad7b31fde5",
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Goo...",
-      "published": "2026-06-25T05:46:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UeGaI_Ej8KFu7-vQHTOuoohYdx04xIdI3W2B6JjCdaTSR6m-y1PAZ-aes-tH9nxtPGO2sFUiu1NwYkwT5s8bDPaHpG8nyN4t_mbZfVjf0nU8L11XujdqERtFUQlMZ85NV_nG6ZhqIQbGdAtyi8p1Oqq7TsBRs1IDn8HvOOnUPFEaL9_2cXrh9eovvaYz/s1600/cisco-20245.jpg"
     },
     {
       "id": "ccfe11223943ef7e295bca7674b2fd09",
@@ -333,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "1006b60d43936b40b43af37f807ea6d8",
-      "title": "Google releases new privacy controls for activity history, personalization",
-      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
-      "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
-      "published": "2026-06-24T23:46:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "874900ad42f27edf1e6c2b5641dce773",
       "title": "GitHub submergé par l’IA : Microsoft contraint de faire appel à AWS",
       "link": "https://www.it-connect.fr/github-submerge-par-ia-microsoft-contraint-de-faire-appel-a-aws/",
@@ -353,26 +383,6 @@
       "image": ""
     },
     {
-      "id": "36ae22fa31d6d2ac6781f7fb8deed534",
-      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branc...",
-      "published": "2026-06-24T17:19:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjZtIkR9YS2fMY5MvIzgyEShmJAP1bgHqhBdU115iSY7WZ2EcBAbFKb1OQP6Nq8hoF4HlnRifxW890ztCcnezyAivPNWZjVsyJrhoNe8BVnZgSfcRo1Jbl4XilQM9bcQTU9nOeDgfWXSzh9sBru4RH6mDhwa1IijucDmj-l1gVI8NAiQRzu0IJ8d2AIVh9/s1600/1000085210.jpg"
-    },
-    {
-      "id": "36dfceae362da3903693266d7cb713f8",
-      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-      "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-      "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and ...",
-      "published": "2026-06-24T15:59:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBVSibdiZdJ1tNYJFrsHtZ8Vr1EG28rqKLY4E7HvAtuax2i3vgpcaMZjEAcGDRxUVu5aa_BHzCAahpw5l2RP2HNw9t7PF6zknNICdw0iuW5jozt5fzqsSfb3Lw55MIvStq2vh5W0139JychUhhJHvchyphenhyphenm7tT2oTS555CkVZrBYSkhmlMKWaXMLtO4OcSp6/s1600/cybercrime-ms.jpg"
-    },
-    {
       "id": "ee83935181987dad2ff7d94a63571b30",
       "title": "Comprendre et gérer le licencing Entra ID en 2026",
       "link": "https://www.it-connect.fr/licensing-entra-id/",
@@ -381,16 +391,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "e2ec3832ae69343d3b75867da0a4f136",
-      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-      "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\" has been codenamed C...",
-      "published": "2026-06-24T12:48:11+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_D6QzBWfQRZAXbjo9RhhLXSedzJR2Q2sUQoQYnDxpC7yETzJgn3KnpT8CcoqlfXdqkcnTCNcEpR1QKphy77NvG_9PIO57hHNF27x8pBb1pLf_4n3A6pTBs3qXQMsz81rvzpGIOqHZn7VqvJoJoB98o7COHOxi5wfkQvxhL4LcOxBkziY4MLxVCEOljX8/s1600/1000085115.jpg"
     },
     {
       "id": "7df23de818581643ff9a663ec07926d3",
