@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-06-26T14:18:14.549531+00:00",
+  "last_updated": "2026-06-26T19:45:54.436209+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2e7eb46ed2e20eba1bc9364d6f7367c1",
+      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+      "published": "2026-06-26T19:43:06+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7ef04aaf4274557391ff629872ddc867",
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersk...",
+      "published": "2026-06-26T18:17:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1600/shark.jpg"
+    },
+    {
+      "id": "d47729d0d9ec0fb2db54b7dfb2822a51",
+      "title": "Polymarket customers lose $3 million in supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+      "published": "2026-06-26T18:04:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "01f1cb61c1bb73e2bcaa63e525d856f4",
+      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats...",
+      "published": "2026-06-26T17:49:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "83600cf1569ae64edceeb49680e41a3c",
+      "title": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
+      "link": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html",
+      "summary": "*-- Contient des liens affiliés -- * La Steam Machine de Valve vient à peine d'arriver dans les salons que le youtubeur ETA Prime l'a déjà éventrée sur son établi. Et je sais pas vous, mais moi j'ai bien envie de voir...",
+      "published": "2026-06-26T16:30:09+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to/steam-machine-teardown-ram-64go-ssd-4to-1.jpg"
+    },
+    {
+      "id": "ddb9cd015f7f78414dd4275b01d9bb7f",
+      "title": "Dropbox se branche à Claude Code et lui permet de lire vos fichiers",
+      "link": "https://korben.info/dropbox-plugin-claude-code.html",
+      "summary": "Dropbox vient de sortir un plugin pour Claude Code , et leur idée c'est de pouvoir brancher vos fichiers Dropbox directement dans vos sessions de dev Claude Code / Cowork. Alors je me suis demandé à quoi ça pouvait bi...",
+      "published": "2026-06-26T16:22:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dropbox-plugin-claude-code/dropbox-plugin-claude-code-1.png"
+    },
+    {
+      "id": "7a6fc6e72b7906a66b33e84a6b61e75e",
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. Th...",
+      "published": "2026-06-26T16:21:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsYcZgd4WIkN0k-b4_j7JxBgi0R0dzj0jSwSWVgItyIy88VoZK5z8BAiwjmYnou7YLrNuckCgQvnHXV2KYHoNS8WRZbjU1MP5HqvLKkIakvRVuJio7oZeUbi1XsgQVmJ-cDKKWeOzgGouUAzUtJrFRu8CtPQJG-eXCy7aSOx_fyCvGK2tRl12tBbPG7YC/s1600/tinyrct.jpg"
+    },
+    {
+      "id": "df09b05e501fcbae54534fc8eb586ebd",
+      "title": "Dolphin - Le Game Boy Player émulé, et c'était pas une blague",
+      "link": "https://korben.info/dolphin-emulator-2606-game-boy-player.html",
+      "summary": "Les développeurs de Dolphin viennent de mettre un point final à un truc qu'ils se traînaient depuis 16 ans : leur émulateur GameCube et Wii sait maintenant émuler le Game Boy Player. Pour tester ça, faut charger une R...",
+      "published": "2026-06-26T15:03:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dolphin-emulator-2606-game-boy-player/dolphin-emulator-2606-game-boy-player-1.png"
+    },
+    {
+      "id": "a630cf985208b6e38df28e28cb18bf2d",
+      "title": "Dream Server - Un serveur IA complet chez vous en une commande",
+      "link": "https://korben.info/dream-server-ia-locale-auto-hebergee.html",
+      "summary": "Monter une vraie IA à la maison, c'est vite une galère. Vous achetez une super machine puis vous collez dessus toute votre liste au père Noël (Chat local, reco vocale, génération d'image, RAG et compagnie) et vous voi...",
+      "published": "2026-06-26T14:41:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dream-server-ia-locale-auto-hebergee/dream-server-ia-locale-auto-hebergee-1.png"
+    },
+    {
+      "id": "17ebfedf3705a9e3220ed15ee80afb4c",
+      "title": "Communautés tech toxiques, faudrait en parler à un moment",
+      "link": "https://korben.info/communautes-tech-toxiques-boys-club.html",
+      "summary": "Y'a un truc dont on parle pas assez dans le milieu tech je trouve, et pourtant tout le monde le constate : Une grande partie des communautés autour du logiciel libre, de Linux, du dev...etc sont devenues des endroits ...",
+      "published": "2026-06-26T14:16:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/communautes-tech-toxiques-boys-club/communautes-tech-toxiques-boys-club-1.png"
+    },
     {
       "id": "3487a157f60cad66fb463c0a037a3351",
       "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
@@ -17,10 +117,20 @@
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (ac...",
-      "published": "2026-06-26T13:00:41+00:00",
+      "published": "2026-06-26T13:57:55+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0PC1aWOiorYx2AGD7fl-IVefJBKPJvjy7sMo5MURoMlaq492QcSdpSqqdGZRZk3u3e6BMS7qVzrJXBuWk-kH4oRqQy1cHTxkvHBLMMbllF9R_rNqL618rz5zEV_FfOvE0_YQgI-VVWbVX772Bc72qSphwMK-TtOAoZ5A9swYpvSNYsFfdR17i8AAXXzDZ/s1600/linux-hack.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWN46D03nuGH8FWFxZD7Ax6T3Wvmf5bt3WrqjghU6ZJU65L6pfoPjt2fVw4-dGXfyEx8fkygfYUftIDlMpPaRcegTEH6eL58nSyiFvbbg5A0GxtFTIhwQUIj16DF-vIqiH2B6jnC7C3DebkJja3v6ayIjOF-eY5DoDL9qef319S3m4ny2lnodtc1WeE59/s1600/linux-cow.jpg"
+    },
+    {
+      "id": "e8d8161afe599365e1d9d2a719b2c65b",
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the...",
+      "published": "2026-06-26T13:53:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3gygt20RdznayWN2yru6wSgNt8CSdr16F8I-naxtPn837cr6v0uV0bXdhz36P1XYrpnjmzDXTAtH0wa43Me8rqD2hvET-xQP0ndoX-ddXsypZCjSSNJUqmfl69g96R6yMiUqgXE_NGAL8bl2z6lYutrgKiY74tNIafz_xRsNsJQSB9s_9lSHiybX2kQ/s1600/aws.jpg"
     },
     {
       "id": "051d862466ebe7a5de6bb7dd92ea2ea6",
@@ -133,66 +243,6 @@
       "image": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans-1.jpg"
     },
     {
-      "id": "3f801cd3a0fb2456659a6a23e5966c83",
-      "title": "New 3D Golf - Il greffe du Virtual Boy dans une Mega Drive",
-      "link": "https://korben.info/portage-golf-3d-virtual-boy-megadrive.html",
-      "summary": "Matt Sephton, alias gingerbeardman, a passé une nuit d'avril à arracher un parcours de golf des entrailles d'un vieux jeu, et il en est ressorti avec une idée bien plus tordue. Vous connaissez New 3D Golf Simulation, ...",
-      "published": "2026-06-26T08:29:05+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/portage-golf-3d-virtual-boy-megadrive/portage-golf-3d-virtual-boy-megadrive-1.jpeg"
-    },
-    {
-      "id": "7a35335ae84c0feec89f9deebdddf9ff",
-      "title": "Un disque ressuscite le CD+G, ce format graphique oublié des CD audio",
-      "link": "https://korben.info/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio.html",
-      "summary": "Sur un disque audio classique, il restait depuis toujours quelques canaux de données inutilisés, glissés juste à côté des informations qui affichent le numéro de piste ou le temps écoulé, et c'est précisément dans ces...",
-      "published": "2026-06-26T08:28:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio-1.jpg"
-    },
-    {
-      "id": "2d1bd70da2bb174e9b7720c023f95a28",
-      "title": "EmuDevz - Le jeu où vous codez votre émulateur NES",
-      "link": "https://korben.info/emudevz-jeu-coder-emulateur-nes.html",
-      "summary": "Afska, le développeur derrière une flopée d'outils pour Game Boy Advance, a eu avec son studio [r]labs une idée géniale ! Ça s'appelle EmuDevz, et c'est un jeu vidéo dans lequel vous devez coder votre propre émulateur...",
-      "published": "2026-06-26T07:39:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/emudevz-jeu-coder-emulateur-nes/emudevz-jeu-coder-emulateur-nes-1.png"
-    },
-    {
-      "id": "7fd86766ba845cccaf658200fb8e0c7b",
-      "title": "Le Casio VL-1 de 1981 modernisée pour quelques euros",
-      "link": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros.html",
-      "summary": "En 1981, Casio sortait le VL-1, un drôle d'objet vendu autour de 70 dollars, à mi-chemin entre la calculatrice de poche et le synthétiseur monophonique, avec un séquenceur de cent notes planqué dedans et un afficheur ...",
-      "published": "2026-06-26T07:33:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros-1.jpg"
-    },
-    {
-      "id": "0c0ba9847ad6588337f1b60662b1a41f",
-      "title": "GB-Link USB - Faites jouer vos vraies Game Boy en ligne",
-      "link": "https://korben.info/gb-link-usb-game-boy-online-multijoueur.html",
-      "summary": "Le bidouilleur Starlarkus vient de sortir son nouveau projet, le GB-Link USB V2 qui n'est ni plus ni moins qu'un petit adaptateur permettant de brancher une VRAIE Game Boy sur le net. Le truc se fait passer pour un câ...",
-      "published": "2026-06-26T07:25:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gb-link-usb-game-boy-online-multijoueur/gb-link-usb-game-boy-online-multijoueur-1.jpg"
-    },
-    {
-      "id": "3af4d7a4a2521e78d5a57f5ed9c21560",
-      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-      "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, ...",
-      "published": "2026-06-26T07:15:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9SthtlfUvEkaX0iZanYdYTAOV5hgm44yCwHu_3GCaoa11rO-GkO9oc0_qN9JGw2n86dsEsN_sdaYt2ra_4I_dQ57ja0kiUeYtkg1eY8ZJtu45oKtN-TqWLdKudnJPFQQFGPReCfu1xcfHGgfqgtLe8zyFlEoMnO2AwnsEsosf9LCZS9gJHq58Q8OcPlWP/s1600/STOCKSTAY.jpg"
-    },
-    {
       "id": "1b8a6b37d812051572a23870597815aa",
       "title": "Windows 10 : Microsoft prolonge discrètement le programme ESU jusqu’en octobre 2027",
       "link": "https://www.it-connect.fr/windows-10-microsoft-prolonge-discretement-le-programme-esu-jusquen-octobre-2027/",
@@ -268,56 +318,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
       "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
       "published": "2026-06-25T15:36:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b53c16079f84579717d2af201a8668d3",
-      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-      "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
-      "published": "2026-06-25T15:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1613adfa6fdbfebd884e352668bb4595",
-      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-      "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcn...",
-      "published": "2026-06-25T14:12:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtdBDQ0Y38i0JZmDwU6XKiZ1R6HJ0KHe59012E0krnPubG5pJgiTg6IUg4fHEzoW5jm7QyEk8fXOL9swj7FlpXdMcjyn0ltziMhQJD2pYPtzjXimsntV8DFg-c1erOgWkLl8du8eBvJYlukTCDDycp5jSmWNfwmv5WwGKlJRJvZt1GvUZZl24dP2HVDkn/s1600/adblocker.jpg"
-    },
-    {
-      "id": "ef91d6a5abd1ac52f6a074d0dbfbc58f",
-      "title": "The Four Elevations of Effective Fraud Prevention",
-      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-      "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
-      "published": "2026-06-25T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3365fe334d2647d032bff59430956dd2",
-      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
-      "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence,...",
-      "published": "2026-06-25T12:24:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1f6pZmhVaPQd2FjrrAG-IbL0vMk7zHVZ6BqjzkzJS8qd7HlAtIJ-7chRUbqR7tZHPNqdZFbm0QL9O03mkW7YsOh0pVwW1_ogikaoxNX8dFd5-ZB4SwB7-tfpWmp9Hr22DJL6tzZgTdeFnCU4VwaZXSY_htGs2_xlaB8n0EOedrfe7wHuI30GXTF6Pofc/s1600/threatsday-june.jpg"
-    },
-    {
-      "id": "f349a31f0943f0588957a2c41e8bc565",
-      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
-      "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify c...",
-      "published": "2026-06-25T12:12:20+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -403,6 +403,36 @@
       "image": ""
     },
     {
+      "id": "6ab34224cf137a6a96ed9244ab52dd6d",
+      "title": "Multiples vulnérabilités dans les produits IBM (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0788/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-06-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4564bf85e019dd9b255708ef2cc98bd4",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0784/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "75605d595dcf3e03248a39a27fef676c",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0787/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteint...",
+      "published": "2026-06-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "bbd32d63c20e2b48ce1335c50e986116",
       "title": "Multiples vulnérabilités dans Mattermost Desktop App (18 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0777/",
@@ -423,71 +453,41 @@
       "image": ""
     },
     {
-      "id": "017294dd5482f766303ca7b5a5001850",
-      "title": "Multiples vulnérabilités dans les produits Cisco (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0772/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
+      "id": "726adf9692d6243f8e70919fa1b9c2bb",
+      "title": "Multiples vulnérabilités dans Splunk AI Toolkit (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0774/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Splunk AI Toolkit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
       "published": "2026-06-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "6174f937558be00e3bcb6dcef7597c78",
-      "title": "Multiples vulnérabilités dans Drupal (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0771/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et une falsification de...",
+      "id": "1b1e68641770d7d505038c768c7e49b1",
+      "title": "Multiples vulnérabilités dans Nginx (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0775/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité ...",
       "published": "2026-06-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "ec7d4f03311c97f40b901e180f978200",
-      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (17 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0766/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une at...",
-      "published": "2026-06-17T00:00:00+00:00",
+      "id": "758bc25f7f31afc587b2f097be0a6bc3",
+      "title": "Multiples vulnérabilités dans les produits Atlassian (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0773/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et...",
+      "published": "2026-06-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "c387ec387cf544b756dec113b0ab298f",
-      "title": "Multiples vulnérabilités dans Oracle MySQL (17 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0765/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une attei...",
-      "published": "2026-06-17T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "572c069152c9e71f490d57e626758fbb",
-      "title": "Multiples vulnérabilités dans Oracle Systems (17 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0767/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégr...",
-      "published": "2026-06-17T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d7992cd27ca44016540c64a25a75f920",
-      "title": "Multiples vulnérabilités dans Oracle Virtualization (17 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0768/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et ...",
-      "published": "2026-06-17T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "31b7826da28a3541e7a070110d222adc",
-      "title": "Multiples vulnérabilités dans Oracle Weblogic (17 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0769/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une at...",
-      "published": "2026-06-17T00:00:00+00:00",
+      "id": "9d637793570dbf7e9a7a85c0d9deda21",
+      "title": "Multiples vulnérabilités dans Google Android 17 (18 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0778/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android 17. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
+      "published": "2026-06-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
