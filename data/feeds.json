@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-25T19:55:49.301805+00:00",
+  "last_updated": "2026-06-26T03:24:08.321587+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e5f9119ef274657783e2a8046071dc1c",
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
+      "published": "2026-06-25T22:53:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "33c3a0dd8bfc81ce0260b8b8793a2567",
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+      "published": "2026-06-25T22:37:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "00591232cc789d90bd086e6d3062ac1a",
+      "title": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
+      "link": "https://korben.info/half-life-2-navigateur-webassembly-slqnt.html",
+      "summary": "Vous vous souvenez de la première fois que vous avez lancé Half-Life 2 et que vous avez attrapé une caisse avec le gravity gun ? Eh bien un lycéen qui se fait appeler slqnt vient de remettre tout ça dans votre navigat...",
+      "published": "2026-06-25T22:34:07+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/half-life-2-navigateur-webassembly-slqnt/half-life-2-navigateur-webassembly-slqnt-1.jpg"
+    },
+    {
+      "id": "50dcc21ac6867888e0225527a298c349",
+      "title": "Adblock for YouTube - 10 millions d'installs et un piège dormant",
+      "link": "https://korben.info/adblock-youtube-extension-injection-script.html",
+      "summary": "Si vous avez installé une extension qui s'appelle \"Adblock for YouTube\" pour virer les pubs de vos vidéos, prenez deux minutes pour lire mon article. Les chercheurs Oleg Zaytsev et Shachar Gritzman, de la boîte de séc...",
+      "published": "2026-06-25T22:20:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/adblock-youtube-extension-injection-script/adblock-youtube-extension-injection-script-1.png"
+    },
+    {
+      "id": "de96a8f161147d8ba5f543cb3da215fa",
+      "title": "Pannes d'IA - Les coupures ont été multipliées par 8 en un an",
+      "link": "https://korben.info/fiabilite-ia-pannes-downdetector-2026.html",
+      "summary": "Vous vous souvenez quand ChatGPT tombait trop souvent en rade et que ça vous faisait juste lever les yeux au ciel avant d'aller vous chercher un café en trainant de la pantoufle ?? Bah cette époque est en train de se ...",
+      "published": "2026-06-25T20:41:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fiabilite-ia-pannes-downdetector-2026/fiabilite-ia-pannes-downdetector-2026-1.png"
+    },
     {
       "id": "49381ecaf39da5a3432435aaf0d83630",
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
@@ -163,16 +213,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1f6pZmhVaPQd2FjrrAG-IbL0vMk7zHVZ6BqjzkzJS8qd7HlAtIJ-7chRUbqR7tZHPNqdZFbm0QL9O03mkW7YsOh0pVwW1_ogikaoxNX8dFd5-ZB4SwB7-tfpWmp9Hr22DJL6tzZgTdeFnCU4VwaZXSY_htGs2_xlaB8n0EOedrfe7wHuI30GXTF6Pofc/s1600/threatsday-june.jpg"
     },
     {
-      "id": "51009c25d2628a59c156c4dd6b1d604e",
-      "title": "Squidbleed : une fuite mémoire passée inaperçue pendant 30 ans",
-      "link": "https://korben.info/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans.html",
-      "summary": "Une faille très bien planquée dans le code depuis 1997, vient seulement d'être corrigée. Elle s'appelle Squidbleed, référencée comme CVE-2026-47729, et elle touche Squid, un serveur proxy open source que des entrepris...",
-      "published": "2026-06-25T12:15:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans-1.png"
-    },
-    {
       "id": "f349a31f0943f0588957a2c41e8bc565",
       "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
@@ -191,26 +231,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGC4Kd3HcSGw5TQ1GQNwgQST4imnVTlHZ4yW1dDr_kwUksDH1MHmlPUMzW8LhePZZTM1HszkIQwL8Ggm-cxlXRRMbUdcXbXfQ57FUfzbN4yj1OimJJxQy0XokmSC-lVr4XyFM5b3LqVQ8hMDIqr34xQXHpD0q8FnuR50Rdg19jXFC9xKKtn3Yap5BQhZg/s1600/corelight.jpg"
-    },
-    {
-      "id": "73777a233b0b6912bc7b4bf25c248f50",
-      "title": "Umihi Music - Lecteur YouTube Music libre",
-      "link": "https://korben.info/umihi-music-lecteur-youtube-android.html",
-      "summary": "Ça vous dirait de streamer l'ensemble de YouTube Music sur votre smartphone Android avec une appli entièrement libre ??? Hé bien c'est faisable grâce à l'excellent travail de Iliano Kokoro qui a développé Umihi Music....",
-      "published": "2026-06-25T11:16:17+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/umihi-music-lecteur-youtube-android/umihi-music-lecteur-youtube-android-1.png"
-    },
-    {
-      "id": "c33dd2b388cf8aec9dfafe78d7a9288c",
-      "title": "Le premier protocole VPN conçu pour vous, pas pour les admins d'entreprise",
-      "link": "https://korben.info/protocole-vpn-concu-pour-vous.html",
-      "summary": "-- Article en partenariat avec Surfshark -- Vous vous souvenez de l'époque où choisir un VPN, c'était comme choisir entre la peste et le choléra ? Soit ça ramait, soit on galérait sur des réseaux bloqués, ou encore ça...",
-      "published": "2026-06-25T10:56:21+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/protocole-vpn-concu-pour-vous/protocole-vpn-concu-pour-vous-1.webp"
     },
     {
       "id": "bd25b0b3685df00067dd7045f2efcd97",
@@ -298,26 +318,6 @@
       "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
       "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
       "published": "2026-06-24T23:46:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ed32afcd0c15c5d39dc4a80b7a79d2c5",
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-      "published": "2026-06-24T21:55:43+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ec428f863166f2032383e65fbe73fba6",
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-      "published": "2026-06-24T21:29:10+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
