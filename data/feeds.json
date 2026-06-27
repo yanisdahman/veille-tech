@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-27T13:26:36.524667+00:00",
+  "last_updated": "2026-06-27T19:16:02.543917+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "cdd3a23529c8e6d87ac4971d6f738d25",
+      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
+      "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
+      "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging ...",
+      "published": "2026-06-27T17:27:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg"
+    },
+    {
+      "id": "326cd407ab7d6e6119c7621e72df49b1",
+      "title": "DNS4EU refuse de bloquer les sites pirates de la BREIN",
+      "link": "https://korben.info/dns4eu-blocklist-sites-pirates.html",
+      "summary": "DNS4EU dont je vous ai causé y'a pas longtemps, c'est le service de DNS co-financé par l'UE et opéré par une société tchèque nommée Whalebone. Et bizarrement, depuis des mois, cette société récupère auprès de l'organi...",
+      "published": "2026-06-27T15:19:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dns4eu-blocklist-sites-pirates/dns4eu-blocklist-sites-pirates-1.jpg"
+    },
+    {
+      "id": "e6448c1692d0cef6841c1df670c1cfd3",
+      "title": "Clean GitHub repo tricks AI coding agents into running malware",
+      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+      "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+      "published": "2026-06-27T14:22:36+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "84222de80e842511e06f77d1f93fe175",
       "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
@@ -213,16 +243,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg"
     },
     {
-      "id": "a3fcb097a6e8d4e706033e5db5db8a47",
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has pr...",
-      "published": "2026-06-26T11:05:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1600/Miasma.jpg"
-    },
-    {
       "id": "0a8526a009cf87658322d49ca5a23df1",
       "title": "ANES - Il greffe une seconde puce graphique dans sa NES",
       "link": "https://korben.info/anes-nes-double-ppu.html",
@@ -241,16 +261,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/biopass-login-biometrique-linux/biopass-login-biometrique-linux-1.png"
-    },
-    {
-      "id": "2f439c2bab70e9567c3816bd4408a817",
-      "title": "macUSB - Créer une clé USB macOS sans toucher au Terminal",
-      "link": "https://korben.info/macusb-cle-usb-bootable-macos.html",
-      "summary": "Krystian Pierz, un développeur polonais qui se planque derrière le pseudo Kruszoneq, en a eu marre de se galérer à chaque fois pour faire des clés USB bootable pour Mac, alors il a sorti macUSB , une app Mac native (d...",
-      "published": "2026-06-26T08:52:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/macusb-cle-usb-bootable-macos/macusb-cle-usb-bootable-macos-1.jpeg"
     },
     {
       "id": "1b8a6b37d812051572a23870597815aa",
@@ -298,16 +308,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
       "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. ...",
       "published": "2026-06-25T18:29:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fb6da4d91e2c292610c441f52aba6297",
-      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-      "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
-      "published": "2026-06-25T16:23:19+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
