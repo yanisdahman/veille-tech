@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-28T03:31:36.383696+00:00",
+  "last_updated": "2026-06-28T08:47:25.439520+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a32d0ebef6fdc3269cf7334a51efb483",
+      "title": "Les flux RSS c'est la vie !",
+      "link": "https://korben.info/flux-rss-korben-feedfull.html",
+      "summary": "J'aime bien lire les articles de l'EFF (l'Electronic Frontier Foundation, la Quadrature du Net des américains quoi...) et là ils viennent de publier un truc m'a fait plaisir : un vrai plaidoyer pour la défense du RSS ...",
+      "published": "2026-06-28T08:37:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/flux-rss-korben-feedfull/flux-rss-korben-feedfull-1.jpg"
+    },
+    {
+      "id": "9e9a41e5043b922eb2e71db372af50bb",
+      "title": "JaiLIP - L'image piégée qui débride les IA qui voient",
+      "link": "https://korben.info/image-piegee-jailbreak-ia-vision-langage.html",
+      "summary": "Md Jueal Mia et Hadi Amini, deux chercheurs de Florida International University , ont mis au point une méthode qu'ils ont baptisée JaiLIP qui permet de forger une image capable de contourner les garde-fous des LLM pou...",
+      "published": "2026-06-28T06:19:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/image-piegee-jailbreak-ia-vision-langage/image-piegee-jailbreak-ia-vision-langage-1.png"
+    },
+    {
+      "id": "c1d80044dc8fa6a284e9e7de4f8cc09d",
+      "title": "GBCYouTube - YouTube en direct sur une Game Boy Color",
+      "link": "https://korben.info/youtube-game-boy-color-cartouche.html",
+      "summary": "Un bidouilleur du nom de Throaty Mumbo a décidé de s'attaquer à la Game Boy Color (sortie en 1998, ça ne nous rajeunit pas) pour y faire tourner YouTube ! Et du vrai YouTube hein, en streaming, sur 160x144 pixels. Ça ...",
+      "published": "2026-06-28T06:04:31+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/youtube-game-boy-color-cartouche/youtube-game-boy-color-cartouche-1.jpg"
+    },
+    {
+      "id": "aad01724f2e7c3631642446b5ebd1598",
+      "title": "Steam Controller - elle rampe toute seule vers son chargeur",
+      "link": "https://korben.info/steam-controller-retour-chargeur-autonome.html",
+      "summary": "Il y a des problèmes qui n'existent pas, et des gens qui les résolvent quand même... Ray Foss en fait partie. Ce dernier a fait en sorte que sa Steam Controller flambant neuve rampe toute seule jusqu'à son chargeur, s...",
+      "published": "2026-06-28T05:55:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/steam-controller-retour-chargeur-autonome/steam-controller-retour-chargeur-autonome-1.jpg"
+    },
+    {
+      "id": "26bf30f15edf85c193bc83431bdf392c",
+      "title": "Beam Universe Splitter - Le hasard quantique fait maison",
+      "link": "https://korben.info/beam-universe-splitter-hasard-quantique.html",
+      "summary": "David Noel Ng, un chercheur installé à Munich, en avait marre du pile ou face et des tirages de dés truqués par les ordinateurs, alors il a construit une machine qui pose directement la question à l'univers. Son engin...",
+      "published": "2026-06-28T05:36:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/beam-universe-splitter-hasard-quantique/beam-universe-splitter-hasard-quantique-1.png"
+    },
     {
       "id": "cdd3a23529c8e6d87ac4971d6f738d25",
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
@@ -153,26 +203,6 @@
       "image": "https://korben.info/dolphin-emulator-2606-game-boy-player/dolphin-emulator-2606-game-boy-player-1.png"
     },
     {
-      "id": "a630cf985208b6e38df28e28cb18bf2d",
-      "title": "Dream Server - Un serveur IA complet chez vous en une commande",
-      "link": "https://korben.info/dream-server-ia-locale-auto-hebergee.html",
-      "summary": "Monter une vraie IA à la maison, c'est vite une galère. Vous achetez une super machine puis vous collez dessus toute votre liste au père Noël (Chat local, reco vocale, génération d'image, RAG et compagnie) et vous voi...",
-      "published": "2026-06-26T14:41:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/dream-server-ia-locale-auto-hebergee/dream-server-ia-locale-auto-hebergee-1.png"
-    },
-    {
-      "id": "17ebfedf3705a9e3220ed15ee80afb4c",
-      "title": "Communautés tech toxiques, faudrait en parler à un moment",
-      "link": "https://korben.info/communautes-tech-toxiques-boys-club.html",
-      "summary": "Y'a un truc dont on parle pas assez dans le milieu tech je trouve, et pourtant tout le monde le constate : Une grande partie des communautés autour du logiciel libre, de Linux, du dev...etc sont devenues des endroits ...",
-      "published": "2026-06-26T14:16:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/communautes-tech-toxiques-boys-club/communautes-tech-toxiques-boys-club-1.png"
-    },
-    {
       "id": "3487a157f60cad66fb463c0a037a3351",
       "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
       "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
@@ -213,16 +243,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg"
     },
     {
-      "id": "ad59c145702169e4746e104dcc08a220",
-      "title": "Game Porting Toolkit 4 - Les jeux Windows enfin fluides sur Mac",
-      "link": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac.html",
-      "summary": "Il y a deux ans, Apple lâchait le Game Porting Toolkit en jurant ses grands dieux qu'on pourrait faire tourner des jeux Windows sur un Mac Apple Silicon. À l'époque je vous disais que le gaming Windows sur Mac, c'étai...",
-      "published": "2026-06-26T12:22:47+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac/game-porting-toolkit-4-jeux-windows-mac-1.png"
-    },
-    {
       "id": "6d4443e362e8561963b28c32694425b5",
       "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
       "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
@@ -241,26 +261,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg"
-    },
-    {
-      "id": "0a8526a009cf87658322d49ca5a23df1",
-      "title": "ANES - Il greffe une seconde puce graphique dans sa NES",
-      "link": "https://korben.info/anes-nes-double-ppu.html",
-      "summary": "Decrazyo vient de sortir ANES , un mod hardware qui transforme votre vieille NES en lui collant un deuxième PPU, la puce graphique de la console. Résultat, plus de couleurs à l'écran, plus de sprites, et même du paral...",
-      "published": "2026-06-26T09:15:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/anes-nes-double-ppu/anes-nes-double-ppu-1.png"
-    },
-    {
-      "id": "0969a267d8ce41e85ccf6aa808772626",
-      "title": "BioPass - Déverrouiller son Linux avec sa tronche et son doigt",
-      "link": "https://korben.info/biopass-login-biometrique-linux.html",
-      "summary": "Contrairement à ce que dit Yann Barthès, on n'est pas tous égaux face à la canicule. Et l'autre truc face auquel on n'est pas tous égaux non plus, c'est le déverrouillage biométrique de son ordi. On les connaît les Li...",
-      "published": "2026-06-26T09:08:38+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/biopass-login-biometrique-linux/biopass-login-biometrique-linux-1.png"
     },
     {
       "id": "1b8a6b37d812051572a23870597815aa",
