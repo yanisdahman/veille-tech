@@ -1,12 +1,22 @@
 {
-  "last_updated": "2026-06-28T13:40:06.669417+00:00",
+  "last_updated": "2026-06-28T19:14:27.348046+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "44b1143094a1e48aa73857200db11f11",
+      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
+      "published": "2026-06-28T14:13:46+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "acef21876508568d0a1f1177be7d6a59",
       "title": "Fingerprint Defender - Brouiller son empreinte sur Firefox",
       "link": "https://korben.info/fingerprint-defender-extension-firefox.html",
-      "summary": "Si vous me lisez depuis longtemps, vous savez forcément que le Fingerprinting est une technique de pistage qui permet de vous identifer en mesurant les petites particularité de votre naigateurs tels que les polices in...",
+      "summary": "Si vous me lisez depuis longtemps, vous savez forcément que le Fingerprinting est une technique de pistage qui permet de vous identifier en mesurant les petites particularités de votre navigateur telles que les police...",
       "published": "2026-06-28T12:17:50+00:00",
       "source": "Korben",
       "category": "outils",
@@ -26,7 +36,7 @@
       "id": "a32d0ebef6fdc3269cf7334a51efb483",
       "title": "Les flux RSS c'est la vie !",
       "link": "https://korben.info/flux-rss-korben-feedfull.html",
-      "summary": "J'aime bien lire les articles de l'EFF (l'Electronic Frontier Foundation, la Quadrature du Net des américains quoi...) et là ils viennent de publier un truc m'a fait plaisir : un vrai plaidoyer pour la défense du RSS ...",
+      "summary": "J'aime bien lire les articles de l'EFF (l'Electronic Frontier Foundation, la Quadrature du Net des américains quoi...) et là ils viennent de publier un truc qui m'a fait plaisir : un vrai plaidoyer pour la défense du ...",
       "published": "2026-06-28T08:37:28+00:00",
       "source": "Korben",
       "category": "outils",
@@ -298,16 +308,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
       "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access soft...",
       "published": "2026-06-25T19:45:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5888f2d8af8d6494a65629b772e1c685",
-      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-      "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. ...",
-      "published": "2026-06-25T18:29:20+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
