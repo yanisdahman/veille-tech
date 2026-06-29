@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-06-29T10:51:39.899937+00:00",
+  "last_updated": "2026-06-29T15:40:44.947071+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "bcc19d116889d3f01b4eb53e952686f2",
+      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+      "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military service...",
+      "published": "2026-06-29T15:09:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7ca247ff7a5a4532948a0b8472403fad",
+      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, r...",
+      "published": "2026-06-29T14:41:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg"
+    },
+    {
+      "id": "a18b6e1374fdbb9b4ef8df2c4ea8cb8f",
+      "title": "Cartes.gouv.fr : la France défie Google Maps et Street View",
+      "link": "https://www.it-connect.fr/cartes-gouv-fr-la-france-defie-google-maps-et-street-view/",
+      "summary": "Depuis le 25 juin 2026, l'IGN ouvre cartes.gouv.fr au grand public : 1 100 couches de données, un Street View souverain (Panoramax) et la fin de Géoportail. Le post Cartes.gouv.fr : la France défie Google Maps et Stre...",
+      "published": "2026-06-29T14:24:54+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e2742f9a16f393633d23f64a383bd238",
+      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+      "published": "2026-06-29T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8781c6671835bf9d8410b639d64cc627",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Lin...",
+      "published": "2026-06-29T14:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c2428f9706cef96a66a28f630be60f08",
+      "title": "Un développeur a fait tourner Swift sur un Apple II de 1977",
+      "link": "https://korben.info/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977.html",
+      "summary": "Swift, le langage maison qu'Apple a sorti en 2014 pour remplacer le vieillissant Objective-C, vient de débarquer sur une machine qui a quarante-neuf ans de plus que lui. Yeo Kheng Meng, un bidouilleur basé à Singapour...",
+      "published": "2026-06-29T13:54:25+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977-1.jpg"
+    },
+    {
+      "id": "baba54473b71adef6f78eb13418f1071",
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+      "published": "2026-06-29T13:46:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e310d5fd15021eb7bfc5d7e75e261db4",
+      "title": "LinuxMD - du Linux sur la Sega Megadrive",
+      "link": "https://korben.info/linux-sega-megadrive.html",
+      "summary": "Une Megadrive qui fait tourner du bon gros Linux qui tâche, vous en avez rêvé ? Hé bien Daniel Palmer l'a fait !! Le souci, c'est que le processeur 68000 de la console n'a pas de MMU, ce petit composant que Linux récl...",
+      "published": "2026-06-29T13:13:30+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/linux-sega-megadrive/linux-sega-megadrive-1.png"
+    },
+    {
+      "id": "bcb94d49662ba7d6c8ee1ed8ea7ebbf2",
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI c...",
+      "published": "2026-06-29T12:14:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "392a934979d244a977b7a05f589c1d71",
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud ...",
+      "published": "2026-06-29T11:57:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
+    },
+    {
+      "id": "b391bb2db9a5bde2d248472b9471ab5a",
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can br...",
+      "published": "2026-06-29T11:42:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg"
+    },
+    {
+      "id": "b371d9655871b015e2b79a87b3704f06",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said...",
+      "published": "2026-06-29T11:40:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg"
+    },
+    {
+      "id": "3c920439e09f56a77fea45aaaeab591f",
+      "title": "True First Person Camera 2.0 - Votre vrai corps en vue FPS sur Cyberpunk",
+      "link": "https://korben.info/cyberpunk-2077-mod-vue-ego-immersive.html",
+      "summary": "Alors oui, je sais, Cyberpunk 2077 vous montre déjà votre corps quand vous baissez les yeux en plein Night City, jambes comprises. C'est d'ailleurs suffisamment rare en vue FPS pour être souligné. Sauf que cette camér...",
+      "published": "2026-06-29T11:39:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cyberpunk-2077-mod-vue-ego-immersive/cyberpunk-2077-mod-vue-ego-immersive-1.jpeg"
+    },
+    {
+      "id": "5f248162235dc90bfcdf25ea72f9a9c8",
+      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+      "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+      "published": "2026-06-29T11:21:03+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "a3e1bbc4da010b01b8ca1098bb72147e",
       "title": "Vérifier l’authenticité des sources d’installation Microsoft et Linux avec CheckISO",
@@ -143,16 +283,6 @@
       "image": "https://korben.info/steam-controller-retour-chargeur-autonome/steam-controller-retour-chargeur-autonome-1.jpg"
     },
     {
-      "id": "26bf30f15edf85c193bc83431bdf392c",
-      "title": "Beam Universe Splitter - Le hasard quantique fait maison",
-      "link": "https://korben.info/beam-universe-splitter-hasard-quantique.html",
-      "summary": "David Noel Ng, un chercheur installé à Munich, en avait marre du pile ou face et des tirages de dés truqués par les ordinateurs, alors il a construit une machine qui pose directement la question à l'univers. Son engin...",
-      "published": "2026-06-28T05:36:46+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/beam-universe-splitter-hasard-quantique/beam-universe-splitter-hasard-quantique-1.png"
-    },
-    {
       "id": "cdd3a23529c8e6d87ac4971d6f738d25",
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
       "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
@@ -161,16 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg"
-    },
-    {
-      "id": "326cd407ab7d6e6119c7621e72df49b1",
-      "title": "DNS4EU refuse de bloquer les sites pirates de la BREIN",
-      "link": "https://korben.info/dns4eu-blocklist-sites-pirates.html",
-      "summary": "DNS4EU dont je vous ai causé y'a pas longtemps, c'est le service de DNS co-financé par l'UE et opéré par une société tchèque nommée Whalebone. Et bizarrement, depuis des mois, cette société récupère auprès de l'organi...",
-      "published": "2026-06-27T15:19:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/dns4eu-blocklist-sites-pirates/dns4eu-blocklist-sites-pirates-1.jpg"
     },
     {
       "id": "e6448c1692d0cef6841c1df670c1cfd3",
@@ -191,16 +311,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweorWxmIvPG8uskOe44fLur9F5OJvqVdFLV1ejFqQozXruk70nzMhRaY58n4BuMhW1sbsdSvhTrlSxM8U5SLwPdaeRWNi4eQMUjEsFgmGV-37gTdnqk1NXLT4Ixadu4sq_pm0l_HVzuGHaIgcDnV_y092aZ1gCKkZ6lh2bp24PUBUfgsCSgvjlZiKRLMH/s1600/gpt.jpg"
-    },
-    {
-      "id": "5712a113447372e2802f0b9cfc99b8ac",
-      "title": "La faille d'Amazon Q : ouvrir un projet suffisait à se faire voler ses accès au cloud",
-      "link": "https://korben.info/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud.html",
-      "summary": "Amazon Q, l'assistant de programmation dopé à l'IA que propose Amazon, pouvait se faire piéger d'une manière aussi simple qu'embarrassante. Petit rappel pour situer. Amazon Q se greffe dans Visual Studio Code, l'édite...",
-      "published": "2026-06-27T10:52:49+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud-1.jpg"
     },
     {
       "id": "922139f56e6adc7a1bd0eb8b00ea0d43",
@@ -233,76 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjt2-y25_EiB31BmVQQpt9ne8mH9iPOJpYJmItVSIKGexUBmKRwzNSvDYzbVyRm9xxR6H0rE880CTv3QTblUdJgkRh2EoXqYGJ9wwOq-cOktE6iIvI0fZdeuxf8gTmdEpStuzq5CywuWYEjb32JqfwIznRc6YtDK_V5dFH1bcx2EoqvQ1Koieo4g7QDKA/s1600/signal-phishing.jpg"
     },
     {
-      "id": "7ef04aaf4274557391ff629872ddc867",
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersk...",
-      "published": "2026-06-26T18:17:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1600/shark.jpg"
-    },
-    {
-      "id": "d47729d0d9ec0fb2db54b7dfb2822a51",
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
-      "published": "2026-06-26T18:04:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "01f1cb61c1bb73e2bcaa63e525d856f4",
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats...",
-      "published": "2026-06-26T17:49:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7a6fc6e72b7906a66b33e84a6b61e75e",
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. Th...",
-      "published": "2026-06-26T16:21:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsYcZgd4WIkN0k-b4_j7JxBgi0R0dzj0jSwSWVgItyIy88VoZK5z8BAiwjmYnou7YLrNuckCgQvnHXV2KYHoNS8WRZbjU1MP5HqvLKkIakvRVuJio7oZeUbi1XsgQVmJ-cDKKWeOzgGouUAzUtJrFRu8CtPQJG-eXCy7aSOx_fyCvGK2tRl12tBbPG7YC/s1600/tinyrct.jpg"
-    },
-    {
-      "id": "3487a157f60cad66fb463c0a037a3351",
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-      "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation t...",
-      "published": "2026-06-26T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "73f078ed386cedeb92973c14c2ca14db",
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (ac...",
-      "published": "2026-06-26T13:57:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWN46D03nuGH8FWFxZD7Ax6T3Wvmf5bt3WrqjghU6ZJU65L6pfoPjt2fVw4-dGXfyEx8fkygfYUftIDlMpPaRcegTEH6eL58nSyiFvbbg5A0GxtFTIhwQUIj16DF-vIqiH2B6jnC7C3DebkJja3v6ayIjOF-eY5DoDL9qef319S3m4ny2lnodtc1WeE59/s1600/linux-cow.jpg"
-    },
-    {
-      "id": "e8d8161afe599365e1d9d2a719b2c65b",
-      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the...",
-      "published": "2026-06-26T13:53:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3gygt20RdznayWN2yru6wSgNt8CSdr16F8I-naxtPn837cr6v0uV0bXdhz36P1XYrpnjmzDXTAtH0wa43Me8rqD2hvET-xQP0ndoX-ddXsypZCjSSNJUqmfl69g96R6yMiUqgXE_NGAL8bl2z6lYutrgKiY74tNIafz_xRsNsJQSB9s_9lSHiybX2kQ/s1600/aws.jpg"
-    },
-    {
       "id": "1b8a6b37d812051572a23870597815aa",
       "title": "Windows 10 : Microsoft prolonge discrètement le programme ESU jusqu’en octobre 2027",
       "link": "https://www.it-connect.fr/windows-10-microsoft-prolonge-discretement-le-programme-esu-jusquen-octobre-2027/",
@@ -310,36 +350,6 @@
       "published": "2026-06-26T06:30:47+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e5f9119ef274657783e2a8046071dc1c",
-      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-      "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
-      "published": "2026-06-25T22:53:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "33c3a0dd8bfc81ce0260b8b8793a2567",
-      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-      "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
-      "published": "2026-06-25T22:37:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "49381ecaf39da5a3432435aaf0d83630",
-      "title": "Order-tracking app Shop abused to push callback phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-      "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access soft...",
-      "published": "2026-06-25T19:45:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -393,16 +403,6 @@
       "image": ""
     },
     {
-      "id": "fb3bd90a92202f70e54e024f3b6ada8f",
-      "title": "GLPI 11.0.8 et 10.0.26 : 16 failles patchées, dont 2 critiques",
-      "link": "https://www.it-connect.fr/glpi-11-0-8-et-10-0-26-16-failles-patchees-dont-2-critiques/",
-      "summary": "GLPI reçoit deux patchs de sécurité : 11.0.8 et 10.0.26. 16 vulnérabilités ont été patchées dans GLPI 11, dont 2 critiques : une RCE et un contournement du MFA. Le post GLPI 11.0.8 et 10.0.26 : 16 failles patchées, do...",
-      "published": "2026-06-25T04:13:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "6ab34224cf137a6a96ed9244ab52dd6d",
       "title": "Multiples vulnérabilités dans les produits IBM (19 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0788/",
@@ -433,71 +433,71 @@
       "image": ""
     },
     {
-      "id": "bbd32d63c20e2b48ce1335c50e986116",
-      "title": "Multiples vulnérabilités dans Mattermost Desktop App (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0777/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-18T00:00:00+00:00",
+      "id": "e52f58559a210e247c19950310da9df1",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0782/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des donné...",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "4a08714d5a89f1c3fa1de1b4769009da",
-      "title": "Vulnérabilité dans Synacor Zimbra Collaboration (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0776/",
-      "summary": "Une vulnérabilité a été découverte dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-06-18T00:00:00+00:00",
+      "id": "a72ec80c45075d3f91bc6906fdeca601",
+      "title": "Multiples vulnérabilités dans Microsoft Azure (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0783/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "726adf9692d6243f8e70919fa1b9c2bb",
-      "title": "Multiples vulnérabilités dans Splunk AI Toolkit (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0774/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Splunk AI Toolkit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "published": "2026-06-18T00:00:00+00:00",
+      "id": "1ab9dae07df272f96d30aa637e01c138",
+      "title": "Vulnérabilité dans Apereo CAS (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0780/",
+      "summary": "Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "1b1e68641770d7d505038c768c7e49b1",
-      "title": "Multiples vulnérabilités dans Nginx (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0775/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité ...",
-      "published": "2026-06-18T00:00:00+00:00",
+      "id": "c7042ebbecab5ced97b3a32e308bfff7",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0781/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "758bc25f7f31afc587b2f097be0a6bc3",
-      "title": "Multiples vulnérabilités dans les produits Atlassian (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0773/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et...",
-      "published": "2026-06-18T00:00:00+00:00",
+      "id": "ad0629547fe6dd68eb9e3215ed72d967",
+      "title": "Multiples vulnérabilités dans Node.js (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0786/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte...",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "9d637793570dbf7e9a7a85c0d9deda21",
-      "title": "Multiples vulnérabilités dans Google Android 17 (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0778/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android 17. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
-      "published": "2026-06-18T00:00:00+00:00",
+      "id": "31503996ec82a48a0abb43d2f8f80ba2",
+      "title": "Vulnérabilité dans Traefik (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0785/",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "e871326885595c888cedfb984e16ab46",
-      "title": "Note d’alerte – Ciblage des messageries instantanées (20 mars 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-003/",
-      "summary": "Le CERT-FR observe une recrudescence de campagnes d’attaques ciblant les comptes de messagerie instantanées. Ces campagnes ciblent particulièrement les secteurs régaliens (personnalités politiques, cadres de l’adminis...",
-      "published": "2026-03-20T00:00:00+00:00",
+      "id": "6eb4ee1c5a7e1a9c816b78bdcf2ffd45",
+      "title": "Multiples vulnérabilités dans Google Pixel (19 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0779/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de ...",
+      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
