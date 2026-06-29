@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-06-29T03:36:13.409241+00:00",
+  "last_updated": "2026-06-29T10:51:39.899937+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a3e1bbc4da010b01b8ca1098bb72147e",
+      "title": "Vérifier l’authenticité des sources d’installation Microsoft et Linux avec CheckISO",
+      "link": "https://www.it-connect.fr/verifier-authenticite-image-iso-windows-office-microsoft/",
+      "summary": "Pourquoi et comment vérifier l'authenticité de vos images ISO (Windows et Linux) : comparaison d'empreinte, signature GPG et vérification avec CheckISO. Le post Vérifier l’authenticité des sources d’installation Micro...",
+      "published": "2026-06-29T09:35:12+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "22f480849749ef6a16624903114a0214",
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run a...",
+      "published": "2026-06-29T08:32:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmbNHaJMqOcEeoUkaQeIZC_ilbUt8RpG-kyweNVY_fJ_3BQk19-pmJQXV_soXqZiHleBISNTwcYSqew2nzpc3eBEDULz52KaY1RNrJTb7u87f2oEtpJuTtmi4OL6Lc_HXP9WQcMDRco_w4U5mklzQ1QJj8ndNiBYVQRRUsevzc1P6hZe2N26_lyAhkQbsP/s1600/edge.jpg"
+    },
+    {
+      "id": "28092dd5f1f3db01be28e919ea88d16a",
+      "title": "Adblock for YouTube : 11 millions d’installations et une grave faille à corriger !",
+      "link": "https://www.it-connect.fr/adblock-for-youtube-11-millions-dinstallations-et-une-grave-faille-a-corriger/",
+      "summary": "Adblock for YouTube, bloqueur de pubs aux 11 millions d'installations, embarque une capacité d'injection de code activable à distance. Un correctif attendu. Le post Adblock for YouTube : 11 millions d’installations et...",
+      "published": "2026-06-29T07:37:27+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f53b27c138472132b01211fcba7a4d7a",
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No cr...",
+      "published": "2026-06-29T07:06:34+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9yQyR_bCP0-I73R6EpwLjJtptGUvzeJD90oYzZvFZXVnM99EIvHFtIJlhZ2f4NSZkAyO7JWjJOy6Zd3lAtPz1Bbk2vmj7Ls8aMIZsFqiIVtIArSjypgJRIHJzlDN5BykKcZziAicpJiNE02Wg3Aheu5BIF1SvY3Pn09WYcdLtvWAT5giGf9mC_uY9GkG/s1600/ssh.jpg"
+    },
+    {
+      "id": "1ab6daeacbac72d37d198a536522e366",
+      "title": "Modos Flow - L'écran e-ink open source qui pousse le refresh à fond",
+      "link": "https://korben.info/glider-moniteur-e-ink-open-source.html",
+      "summary": "Wenting Zhang, le développeur derrière Modos Labs, s'est attaqué depuis des années à un truc qui faisait rire tout le monde, jusqu'à ce qu'il y parvienne. Son but dans la vie c'était de faire tourner un écran e-ink as...",
+      "published": "2026-06-29T06:59:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/glider-moniteur-e-ink-open-source/glider-moniteur-e-ink-open-source-1.jpg"
+    },
+    {
+      "id": "09c40992d4e4195ed32950c1d65c6000",
+      "title": "DirtyClone : la faille Linux qui donne un accès root en silence",
+      "link": "https://www.it-connect.fr/dirtyclone-la-faille-linux-qui-donne-un-acces-root-en-silence/",
+      "summary": "DirtyClone (CVE-2026-43503), nouvelle faille du noyau Linux, permet à un utilisateur local de devenir root sur Debian, Ubuntu et Fedora. Comment se protéger. Le post DirtyClone : la faille Linux qui donne un accès roo...",
+      "published": "2026-06-29T06:53:48+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7f8fbc92092a0d5ab55cb5577bbcd06a",
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This atta...",
+      "published": "2026-06-29T05:36:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg"
+    },
     {
       "id": "44b1143094a1e48aa73857200db11f11",
       "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
@@ -193,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "83600cf1569ae64edceeb49680e41a3c",
-      "title": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
-      "link": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html",
-      "summary": "*-- Contient des liens affiliés -- * La Steam Machine de Valve vient à peine d'arriver dans les salons que le youtubeur ETA Prime l'a déjà éventrée sur son établi. Et je sais pas vous, mais moi j'ai bien envie de voir...",
-      "published": "2026-06-26T16:30:09+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to/steam-machine-teardown-ram-64go-ssd-4to-1.jpg"
-    },
-    {
       "id": "7a6fc6e72b7906a66b33e84a6b61e75e",
       "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
       "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
@@ -241,36 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3gygt20RdznayWN2yru6wSgNt8CSdr16F8I-naxtPn837cr6v0uV0bXdhz36P1XYrpnjmzDXTAtH0wa43Me8rqD2hvET-xQP0ndoX-ddXsypZCjSSNJUqmfl69g96R6yMiUqgXE_NGAL8bl2z6lYutrgKiY74tNIafz_xRsNsJQSB9s_9lSHiybX2kQ/s1600/aws.jpg"
-    },
-    {
-      "id": "051d862466ebe7a5de6bb7dd92ea2ea6",
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM...",
-      "published": "2026-06-26T12:31:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg"
-    },
-    {
-      "id": "6d4443e362e8561963b28c32694425b5",
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. ...",
-      "published": "2026-06-26T11:51:35+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrcFiZh5KSQ9sYpF7Fafoy8kYny6olyD5WlY_oaAdYt0krMeOL8eNiTItqYmEmJ55wueKdZJlhIKMun7kwQR8AbbFPKTw0Nv-qJbPiaKA1n2J1rUHBV3YuRmdJHQpOTlsKctFMXoO8ogpgHC8rXls3FGamF7p7K1gxc-7dmU2va58Es1c40FV8AZFR-w/s1600/dirtyclone.jpg"
-    },
-    {
-      "id": "6520f6dcf874d5b3c594b5bb07348797",
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human acce...",
-      "published": "2026-06-26T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg"
     },
     {
       "id": "1b8a6b37d812051572a23870597815aa",
@@ -368,36 +398,6 @@
       "link": "https://www.it-connect.fr/glpi-11-0-8-et-10-0-26-16-failles-patchees-dont-2-critiques/",
       "summary": "GLPI reçoit deux patchs de sécurité : 11.0.8 et 10.0.26. 16 vulnérabilités ont été patchées dans GLPI 11, dont 2 critiques : une RCE et un contournement du MFA. Le post GLPI 11.0.8 et 10.0.26 : 16 failles patchées, do...",
       "published": "2026-06-25T04:13:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "874900ad42f27edf1e6c2b5641dce773",
-      "title": "GitHub submergé par l’IA : Microsoft contraint de faire appel à AWS",
-      "link": "https://www.it-connect.fr/github-submerge-par-ia-microsoft-contraint-de-faire-appel-a-aws/",
-      "summary": "Claude Code génère déjà au moins 4% des commits publics de GitHub (135 000/jour). Une vague de code IA qui pousserait Microsoft à louer de la capacité chez AWS. Le post GitHub submergé par l’IA : Microsoft contraint d...",
-      "published": "2026-06-24T18:47:33+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ee83935181987dad2ff7d94a63571b30",
-      "title": "Comprendre et gérer le licencing Entra ID en 2026",
-      "link": "https://www.it-connect.fr/licensing-entra-id/",
-      "summary": "Free, P1, P2, Entra Suite : licences Entra ID, tarifs 2026, règles d'affectation par utilisateur et conseils pour rester conforme tout en optimisant vos coûts. Le post Comprendre et gérer le licencing Entra ID en 2026...",
-      "published": "2026-06-24T13:50:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7df23de818581643ff9a663ec07926d3",
-      "title": "PACT : Cloudflare veut en finir avec les CAPTCHA sur le Web",
-      "link": "https://www.it-connect.fr/pact-cloudflare-veut-en-finir-avec-les-captcha-sur-le-web/",
-      "summary": "Cloudflare dévoile PACT, un protocole anti-bots respectueux de la vie privée, développé avec Mozilla, Google, Microsoft et Shopify. Sans CAPTCHA ni pistage. Le post PACT : Cloudflare veut en finir avec les CAPTCHA sur...",
-      "published": "2026-06-24T06:35:04+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
