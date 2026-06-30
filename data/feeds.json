@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-06-30T09:28:35.977517+00:00",
+  "last_updated": "2026-06-30T14:12:20.916976+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "df616eeb167d05468a0e165c6fb1f9b2",
+      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+      "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attack...",
+      "published": "2026-06-30T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "55addf98218c558faa898eb2ed3fa481",
+      "title": "GeoSpoof - Le VPN cache votre IP mais le navigateur vous trahit",
+      "link": "https://korben.info/geospoof-vpn-navigateur-localisation.html",
+      "summary": "Anthony Sgro vient d'open-sourcer un truc que tout utilisateur de VPN devrait avoir sous la main. C'est extension pour Safari, Chrome et Firefox (et pas Faille-Fox, déso) qui s'appelle GeoSpoof et qui part d'un consta...",
+      "published": "2026-06-30T12:48:39+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/geospoof-vpn-navigateur-localisation/geospoof-vpn-navigateur-localisation-1.jpg"
+    },
+    {
+      "id": "bc7ebf2d2f5846f53c65eeb9ebc22774",
+      "title": "Exploitarium : un chercheur dévoile des failles zero-day dans 15 logiciels open source",
+      "link": "https://www.it-connect.fr/exploitarium-un-chercheur-devoile-des-failles-zero-day-dans-15-logiciels-open-source/",
+      "summary": "Un chercheur anonyme a publié sur GitHub des codes d'exploitation pour des failles zero-day dans 15 logiciels open source. Deux sont déjà exploitées. Le post Exploitarium : un chercheur dévoile des failles zero-day da...",
+      "published": "2026-06-30T12:02:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "12d859b1d04f3e8f0d6ccafc750c589c",
+      "title": "Cursor Mobile - Vos agents de coding pilotés depuis iPhone",
+      "link": "https://korben.info/cursor-mobile-piloter-agents-ia-smartphone.html",
+      "summary": "Cursor , le célèbre IDE de vibe coding, vient de sortir une app iOS qui permet de piloter des agents IA codant à votre place, directement depuis un smartphone. Je ne parle donc pas d'écrire du code sur un écran de six...",
+      "published": "2026-06-30T11:31:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cursor-mobile-piloter-agents-ia-smartphone/cursor-mobile-piloter-agents-ia-smartphone-1.jpg"
+    },
+    {
+      "id": "b2122e08a297edf9158a122d018b4fad",
+      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
+      "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
+      "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-p...",
+      "published": "2026-06-30T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEZt1Yxw3eiMzyzPpblDGru8JlEmw-Rr1Lgn8hG9YCvxeCNDpKOCyn5_Evvmc_lB9tKDpcmBLfH3a6mHGkZBMDT8cr9Q39XpMpDhwCrqSieA2wG1BVYDBXTppmPkOJA2Sj8kakQExnh207X99wqRR1nOnYMcWPZ41BNKGhQHdOCkUzzgkRkMjzX-RdvyA/s1600/checkpoint-main.jpg"
+    },
+    {
+      "id": "92496be41bbb472864d9ff3429de96a7",
+      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion...",
+      "published": "2026-06-30T11:18:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEid1CxvsX2dPrKoA1VzJ6PUhwrXxvSC4ehRmgyaRRCJlP_MFSeOxvwrT2ODJSbQx3E-7bBwBG4YpP3CQGLzojfXEveOgwZgUlcCSf-trk_G0k0Q1_nz4rb1nbRfhXgijfZ9eLDT8v_ATsmqz5AnbNgBuGX7UIc3YwAw1hYZwvzp5Z0eopWNRqTs4W3bP3/s1600/help-hackers.jpg"
+    },
+    {
+      "id": "109bfb30ed0f641e5dd0467b601d4588",
+      "title": "Allégez Nextcloud en virant les dossiers node_modules de l'index",
+      "link": "https://korben.info/nextcloud-files-excludedirs-node-modules.html",
+      "summary": "Si vous avez déjà branché un stockage externe sur votre Nextcloud et regardé occ files:scan ramper en mode larve durant des plombes lors d'une indexation, vous connaissez le coupable. C'est évidemment un dossier node_...",
+      "published": "2026-06-30T11:18:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/nextcloud-files-excludedirs-node-modules/nextcloud-files-excludedirs-node-modules-1.png"
+    },
+    {
+      "id": "f5715f66c15255338b0b2a0c3b2db44d",
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
+      "published": "2026-06-30T11:12:18+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f44a4cec985ee0ebc14f30169cacfc80",
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
+      "published": "2026-06-30T10:52:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ecec46e4736d2df5562359f70984b283",
+      "title": "Il a transformé quatre disques durs en enceintes pour rejouer une démo culte de 1993",
+      "link": "https://korben.info/il-a-transforme-quatre-disques-durs-en-enceintes-pour-rejouer-une-demo-culte-de-1993.html",
+      "summary": "Un développeur du nom de Niv Singer a eu l'idée improbable de brancher quatre vieux disques durs en guise d'enceintes, puis de leur faire cracher Second Reality, cette production que le groupe finlandais Future Crew a...",
+      "published": "2026-06-30T09:53:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/il-a-transforme-quatre-disques-durs-en-enceintes-pour-rejouer-une-demo-culte-de-1993/il-a-transforme-quatre-disques-durs-en-enceintes-pour-rejouer-une-demo-culte-de-1993-1.jpg"
+    },
+    {
+      "id": "01509c6c3f944f6dadb0ca536ef1e0e9",
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "summary": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
+      "published": "2026-06-30T09:46:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fb742c3c31c4425e6cd163cc64f36a5d",
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
+      "published": "2026-06-30T09:41:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7f75382da651a5ecdef282d4e511fddf",
+      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+      "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a l...",
+      "published": "2026-06-30T09:27:58+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCyrr25-wXst4kOLIEi1-Q1d5XMVDCvWqUacEoSRsLn6C5CbKoXGLb4nzTB-DVr9cLOkyuIT5wyMrQICAVhQFlTsXrR_Ng9CBBXPZGeK_rLtOVXh5C8CsrZHaGyJ5WukGI3vTpMOw1S09_U9j_s5rzEFcYq55g7ZmOthGTPw5XxJJkALMH9VOxr0DjX8Vi/s1600/share-ai.jpg"
+    },
     {
       "id": "1a56d49e55cd132479fcff71a8c091a3",
       "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
@@ -51,16 +181,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/claude-code-depot-malveillant-prompt-injection/claude-code-depot-malveillant-prompt-injection-1.png"
-    },
-    {
-      "id": "9247b208c4ffadcdfc198b9f5d16121c",
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) ...",
-      "published": "2026-06-30T07:15:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgEWbrJH-z_uAL6GFaOqplYF1ewSOBvFpaKD24W74VEBaSO-pW3sy0I0e57Bmc9yBKV4vb6zWYaVjd-oTSy2sSQNSubgQHcmFav_bp3HnySXcSGR-ocRiUfYcXgUXm44XZyrdNnIq2JqJxZQG5bnbui12eVoG3GPgVnGy9AE6vfDp3km5TTtf6rjPv6FZV/s1600/apple-updates-ai.jpg"
     },
     {
       "id": "39d7db286032329e67f6a897bdbcff32",
@@ -163,16 +283,6 @@
       "image": ""
     },
     {
-      "id": "c8391fc028e73e226ba3ba54ef61f2e4",
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through ...",
-      "published": "2026-06-29T18:40:09+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg"
-    },
-    {
       "id": "7b5aa8a73869a95c70361726e9242adb",
       "title": "Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vie à 16.99€ et Windows 11 Pro à 12.25€",
       "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
@@ -213,26 +323,6 @@
       "image": ""
     },
     {
-      "id": "d765641b4d8d4aed0212697c5140fc1e",
-      "title": "La fin de l'encoche ? Des chercheurs suisses ont créé un pixel qui voit et qui s'affiche",
-      "link": "https://korben.info/la-fin-de-lencoche-des-chercheurs-suisses-ont-cree-un-pixel-qui-voit-et-qui-saffiche.html",
-      "summary": "Depuis dix ans, toute l'industrie du smartphone se galère avec le même problème, à savoir caser la caméra frontale sans bouffer de la place sur l'écran, ce qui nous a valu la tristement célèbre encoche, puis le poinço...",
-      "published": "2026-06-29T16:48:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-fin-de-lencoche-des-chercheurs-suisses-ont-cree-un-pixel-qui-voit-et-qui-saffiche/la-fin-de-lencoche-des-chercheurs-suisses-ont-cree-un-pixel-qui-voit-et-qui-saffiche-1.webp"
-    },
-    {
-      "id": "c239cb7ea2292e19656b508d401973ca",
-      "title": "Alexandria - Vos ebooks en livres audio multi-voix, en local",
-      "link": "https://korben.info/alexandria-ebook-livre-audio-multivoix.html",
-      "summary": "Je ne suis pas très client des livres audio parce que mon cerveau, en général, part faire des trucs dans son coin et je me retrouve à rien écouter du tout. Je préfère un petit podcast où ça rigole qu'une œuvre littéra...",
-      "published": "2026-06-29T16:18:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/alexandria-ebook-livre-audio-multivoix/alexandria-ebook-livre-audio-multivoix-1.png"
-    },
-    {
       "id": "74266ad71cd94fdb938d1893495b4069",
       "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
       "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
@@ -253,14 +343,24 @@
       "image": ""
     },
     {
-      "id": "bcc19d116889d3f01b4eb53e952686f2",
-      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
-      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
-      "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military service...",
-      "published": "2026-06-29T15:09:43+00:00",
-      "source": "Bleeping Computer",
+      "id": "c8391fc028e73e226ba3ba54ef61f2e4",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through ...",
+      "published": "2026-06-29T15:40:00+00:00",
+      "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": ""
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg"
+    },
+    {
+      "id": "9247b208c4ffadcdfc198b9f5d16121c",
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) ...",
+      "published": "2026-06-29T15:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgEWbrJH-z_uAL6GFaOqplYF1ewSOBvFpaKD24W74VEBaSO-pW3sy0I0e57Bmc9yBKV4vb6zWYaVjd-oTSy2sSQNSubgQHcmFav_bp3HnySXcSGR-ocRiUfYcXgUXm44XZyrdNnIq2JqJxZQG5bnbui12eVoG3GPgVnGy9AE6vfDp3km5TTtf6rjPv6FZV/s1600/apple-updates-ai.jpg"
     },
     {
       "id": "ac85adacac83fa5bd2439fa2b651a2e8",
@@ -273,16 +373,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg"
     },
     {
-      "id": "7ca247ff7a5a4532948a0b8472403fad",
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, r...",
-      "published": "2026-06-29T14:41:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg"
-    },
-    {
       "id": "a18b6e1374fdbb9b4ef8df2c4ea8cb8f",
       "title": "Cartes.gouv.fr : la France défie Google Maps et Street View",
       "link": "https://www.it-connect.fr/cartes-gouv-fr-la-france-defie-google-maps-et-street-view/",
@@ -291,86 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "e2742f9a16f393633d23f64a383bd238",
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
-      "published": "2026-06-29T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8781c6671835bf9d8410b639d64cc627",
-      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Lin...",
-      "published": "2026-06-29T14:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c2428f9706cef96a66a28f630be60f08",
-      "title": "Un développeur a fait tourner Swift sur un Apple II de 1977",
-      "link": "https://korben.info/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977.html",
-      "summary": "Swift, le langage maison qu'Apple a sorti en 2014 pour remplacer le vieillissant Objective-C, vient de débarquer sur une machine qui a quarante-neuf ans de plus que lui. Yeo Kheng Meng, un bidouilleur basé à Singapour...",
-      "published": "2026-06-29T13:54:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977-1.jpg"
-    },
-    {
-      "id": "baba54473b71adef6f78eb13418f1071",
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
-      "published": "2026-06-29T13:46:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e310d5fd15021eb7bfc5d7e75e261db4",
-      "title": "LinuxMD - du Linux sur la Sega Megadrive",
-      "link": "https://korben.info/linux-sega-megadrive.html",
-      "summary": "Une Megadrive qui fait tourner du bon gros Linux qui tâche, vous en avez rêvé ? Hé bien Daniel Palmer l'a fait !! Le souci, c'est que le processeur 68000 de la console n'a pas de MMU, ce petit composant que Linux récl...",
-      "published": "2026-06-29T13:13:30+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linux-sega-megadrive/linux-sega-megadrive-1.png"
-    },
-    {
-      "id": "bcb94d49662ba7d6c8ee1ed8ea7ebbf2",
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI c...",
-      "published": "2026-06-29T12:14:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "392a934979d244a977b7a05f589c1d71",
-      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud ...",
-      "published": "2026-06-29T11:57:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
-    },
-    {
-      "id": "b391bb2db9a5bde2d248472b9471ab5a",
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can br...",
-      "published": "2026-06-29T11:42:16+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg"
     },
     {
       "id": "a3e1bbc4da010b01b8ca1098bb72147e",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/adblock-for-youtube-11-millions-dinstallations-et-une-grave-faille-a-corriger/",
       "summary": "Adblock for YouTube, bloqueur de pubs aux 11 millions d'installations, embarque une capacité d'injection de code activable à distance. Un correctif attendu. Le post Adblock for YouTube : 11 millions d’installations et...",
       "published": "2026-06-29T07:37:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "09c40992d4e4195ed32950c1d65c6000",
-      "title": "DirtyClone : la faille Linux qui donne un accès root en silence",
-      "link": "https://www.it-connect.fr/dirtyclone-la-faille-linux-qui-donne-un-acces-root-en-silence/",
-      "summary": "DirtyClone (CVE-2026-43503), nouvelle faille du noyau Linux, permet à un utilisateur local de devenir root sur Debian, Ubuntu et Fedora. Comment se protéger. Le post DirtyClone : la faille Linux qui donne un accès roo...",
-      "published": "2026-06-29T06:53:48+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
