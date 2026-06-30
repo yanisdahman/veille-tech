@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-29T19:52:29.830437+00:00",
+  "last_updated": "2026-06-30T02:58:58.077286+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3ad213a0da88ded617742f02cfe5e237",
+      "title": "WSL Containers - des conteneurs Linux sans Docker Desktop",
+      "link": "https://korben.info/wsl-containers-conteneurs-linux-windows.html",
+      "summary": "Microsoft vient de lâcher un truc qui va faire plaisir à tous ceux qui bidouillent fort des conteneurs Linux depuis leur machine Windows. Ça s'appelle WSL Containers (WSLC pour les intimes, et pas WSL 3) et l'objectif...",
+      "published": "2026-06-29T21:07:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/wsl-containers-conteneurs-linux-windows/wsl-containers-conteneurs-linux-windows-1.webp"
+    },
+    {
+      "id": "8ee8a488844943651ae7e7af474bf1e6",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters exto...",
+      "published": "2026-06-29T20:40:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "91c34bfad569a3913e09b81ea92bdeb4",
+      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+      "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+      "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a z...",
+      "published": "2026-06-29T20:30:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "db79873c154a6f214802be992e071149",
       "title": "Un bateau à ballon à imprimer en 3D",
@@ -333,16 +363,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg"
     },
     {
-      "id": "44b1143094a1e48aa73857200db11f11",
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
-      "published": "2026-06-28T14:13:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "acef21876508568d0a1f1177be7d6a59",
       "title": "Fingerprint Defender - Brouiller son empreinte sur Firefox",
       "link": "https://korben.info/fingerprint-defender-extension-firefox.html",
@@ -351,26 +371,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/fingerprint-defender-extension-firefox/fingerprint-defender-extension-firefox-1.png"
-    },
-    {
-      "id": "154a956bbd99d2e38fc1e5de257f3f32",
-      "title": "QR Font - La police qui transforme du texte en QR code",
-      "link": "https://korben.info/qr-code-police-truetype.html",
-      "summary": "Tapez [hello] dans votre éditeur, appliquez une police, et le mot se change en QR code scannable. Pas de générateur en ligne, pas d'image à exporter mais juste une police de caractères. C'est l'idée complètement barré...",
-      "published": "2026-06-28T10:56:46+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/qr-code-police-truetype/qr-code-police-truetype-1.jpg"
-    },
-    {
-      "id": "e6448c1692d0cef6841c1df670c1cfd3",
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
-      "published": "2026-06-27T14:22:36+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "1b8a6b37d812051572a23870597815aa",
