@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-06-30T02:58:58.077286+00:00",
+  "last_updated": "2026-06-30T09:28:35.977517+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1a56d49e55cd132479fcff71a8c091a3",
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+      "published": "2026-06-30T08:53:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "27e06c2f7b7d18b0abbe148809ff4d82",
+      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+      "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into...",
+      "published": "2026-06-30T08:37:19+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNDarGF3uRKXTWC12cbM97uJW3DxiLuQwmplVLHEqdrUZJdzbkMz6Wc524z5Xu2GGSyNYhMT_m9kGqqGjRmIxDf0fy_ZXCx3f6G7JvvCFkcdga3PTnUR8XqfrPtIH_9_yrb9n7VaJZTqsLK4CznHRTcYZA1B84r2T_Jl5YYjnUbwUAvyGo4K05ckMnyYG/s1600/ai-prompt.jpg"
+    },
+    {
+      "id": "13a9a9c0ad90628ce245021aa14444c4",
+      "title": "Docky : le Dock de macOS réinventé, gratuit et open source",
+      "link": "https://www.it-connect.fr/docky-le-dock-de-macos-reinvente-gratuit-et-open-source/",
+      "summary": "Docky, remplaçant gratuit et open source du Dock de macOS : widgets, Launchpad, sélecteur de fenêtres… Découvrez ses fonctionnalités. Le post Docky : le Dock de macOS réinventé, gratuit et open source a été publié sur...",
+      "published": "2026-06-30T07:51:49+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d983d87df6a44696ae3b04b01bee4b76",
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as CVE-2026-8037,...",
+      "published": "2026-06-30T07:38:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtFZGtJwnGA8dQHmNpd8Pzgx4p0wSq_e2hyphenhyphen2bZwWBQEDK8QPAi2CEOR_Nbns5jhRw9mMSPv6RBe2IqRO1c9fIMvMlUAV14B3VQE7-csMvfMQK6Qr3THGlxQY3C9HiYW_TYHGzok-TWFmMoMkto0OA8fNsQuvADEaJNFQYdIrXXzHGJEhyqpKRC2IFCaRM6/s1600/loadmaster.jpg"
+    },
+    {
+      "id": "f5c7bd085af3819ab1ed87f90097ded9",
+      "title": "Un dépôt GitHub trop propre suffit à pirater Claude Code",
+      "link": "https://korben.info/claude-code-depot-malveillant-prompt-injection.html",
+      "summary": "Les chercheurs Andre Hall et Miller Engelbrecht, du Zero Day Investigative Network de Mozilla (0DIN), viennent de montrer comment prendre le contrôle complet d'une machine avec un dépôt GitHub qui ne contient aucun co...",
+      "published": "2026-06-30T07:18:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/claude-code-depot-malveillant-prompt-injection/claude-code-depot-malveillant-prompt-injection-1.png"
+    },
+    {
+      "id": "9247b208c4ffadcdfc198b9f5d16121c",
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) ...",
+      "published": "2026-06-30T07:15:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgEWbrJH-z_uAL6GFaOqplYF1ewSOBvFpaKD24W74VEBaSO-pW3sy0I0e57Bmc9yBKV4vb6zWYaVjd-oTSy2sSQNSubgQHcmFav_bp3HnySXcSGR-ocRiUfYcXgUXm44XZyrdNnIq2JqJxZQG5bnbui12eVoG3GPgVnGy9AE6vfDp3km5TTtf6rjPv6FZV/s1600/apple-updates-ai.jpg"
+    },
+    {
+      "id": "39d7db286032329e67f6a897bdbcff32",
+      "title": "Arma Cold War Assault - Code source ouvert pour ses 25 ans",
+      "link": "https://korben.info/arma-cold-war-assault-remaster-open-source.html",
+      "summary": "Il y a 25 ans, le studio tchèque Bohemia Interactive sortait Operation Flashpoint : Cold War Crisis, un shooter tactique qui a marqué toute une génération de joueurs PC. Eh bien, pour l'anniversaire du jeu, ils n'ont ...",
+      "published": "2026-06-30T07:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/arma-cold-war-assault-remaster-open-source/arma-cold-war-assault-remaster-open-source-1.jpg"
+    },
+    {
+      "id": "b51cda07adc57fe9e3aa8c7bc828e9f5",
+      "title": "StegoAd : un malware caché dans 119 extensions Microsoft Edge",
+      "link": "https://www.it-connect.fr/stegoad-un-malware-cache-dans-119-extensions-microsoft-edge/",
+      "summary": "Microsoft a supprimé 119 extensions Edge de la campagne StegoAd : un malware caché dans des images et des polices, qui volait identifiants et cookies. Le post StegoAd : un malware caché dans 119 extensions Microsoft E...",
+      "published": "2026-06-30T06:53:35+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9ce8a5f2aac6227ba334629772cc4dd4",
+      "title": "Cet écran e-ink fait tourner la Game Boy à 60 FPS",
+      "link": "https://korben.info/gameboy-emulateur-liseuse-eink-esp32.html",
+      "summary": "Je vous parlais de ces écrans e-ink hier qui sont capables de se rafraichir beaucoup plus rapidement que les écrans tout pâle de nos liseuses. Et v'la ti pas que je tombe sur ce projet de Wenting Channel où le gars a ...",
+      "published": "2026-06-30T05:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/gameboy-emulateur-liseuse-eink-esp32/gameboy-emulateur-liseuse-eink-esp32-1.jpeg"
+    },
+    {
+      "id": "1385fcf32c938491383f23d9d3637746",
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an impro...",
+      "published": "2026-06-30T05:04:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwCBjb2uPzIs-8BNIxo90ae4xRgxzM1av-ijebBJ32Y2DEvRUvM-jMd6S535UdnbPKrLtFHxm0k9Lo7GJgVjCWCrH-0RNFZukDv7shdA02IkDs1Iqx8C-uH2hOCyfpJ01tmNVGhrvQ-6FGlmdjnCP0nXrq7zl5KVL3XZ84I9QTImD5DM8HYoJbA0A1P3w/s1600/oracle.jpg"
+    },
+    {
+      "id": "ee701293a884be4d1dd304e793687a06",
+      "title": "Windows Server 2022 : le Hotpatching prolongé jusqu’en octobre 2027",
+      "link": "https://www.it-connect.fr/windows-server-2022-le-hotpatching-prolonge-jusquen-octobre-2027/",
+      "summary": "Microsoft prolonge d'un an le Hotpatching de Windows Server 2022 Datacenter: Azure Edition, jusqu'en octobre 2027. À une condition près. Le post Windows Server 2022 : le Hotpatching prolongé jusqu’en octobre 2027 a ét...",
+      "published": "2026-06-30T04:56:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "3ad213a0da88ded617742f02cfe5e237",
       "title": "WSL Containers - des conteneurs Linux sans Docker Desktop",
@@ -263,36 +373,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg"
     },
     {
-      "id": "b371d9655871b015e2b79a87b3704f06",
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said...",
-      "published": "2026-06-29T11:40:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg"
-    },
-    {
-      "id": "3c920439e09f56a77fea45aaaeab591f",
-      "title": "True First Person Camera 2.0 - Votre vrai corps en vue FPS sur Cyberpunk",
-      "link": "https://korben.info/cyberpunk-2077-mod-vue-ego-immersive.html",
-      "summary": "Alors oui, je sais, Cyberpunk 2077 vous montre déjà votre corps quand vous baissez les yeux en plein Night City, jambes comprises. C'est d'ailleurs suffisamment rare en vue FPS pour être souligné. Sauf que cette camér...",
-      "published": "2026-06-29T11:39:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cyberpunk-2077-mod-vue-ego-immersive/cyberpunk-2077-mod-vue-ego-immersive-1.jpeg"
-    },
-    {
-      "id": "5f248162235dc90bfcdf25ea72f9a9c8",
-      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-      "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-      "published": "2026-06-29T11:21:03+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a3e1bbc4da010b01b8ca1098bb72147e",
       "title": "Vérifier l’authenticité des sources d’installation Microsoft et Linux avec CheckISO",
       "link": "https://www.it-connect.fr/verifier-authenticite-image-iso-windows-office-microsoft/",
@@ -301,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "22f480849749ef6a16624903114a0214",
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run a...",
-      "published": "2026-06-29T08:32:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmbNHaJMqOcEeoUkaQeIZC_ilbUt8RpG-kyweNVY_fJ_3BQk19-pmJQXV_soXqZiHleBISNTwcYSqew2nzpc3eBEDULz52KaY1RNrJTb7u87f2oEtpJuTtmi4OL6Lc_HXP9WQcMDRco_w4U5mklzQ1QJj8ndNiBYVQRRUsevzc1P6hZe2N26_lyAhkQbsP/s1600/edge.jpg"
     },
     {
       "id": "28092dd5f1f3db01be28e919ea88d16a",
@@ -323,81 +393,11 @@
       "image": ""
     },
     {
-      "id": "f53b27c138472132b01211fcba7a4d7a",
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No cr...",
-      "published": "2026-06-29T07:06:34+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9yQyR_bCP0-I73R6EpwLjJtptGUvzeJD90oYzZvFZXVnM99EIvHFtIJlhZ2f4NSZkAyO7JWjJOy6Zd3lAtPz1Bbk2vmj7Ls8aMIZsFqiIVtIArSjypgJRIHJzlDN5BykKcZziAicpJiNE02Wg3Aheu5BIF1SvY3Pn09WYcdLtvWAT5giGf9mC_uY9GkG/s1600/ssh.jpg"
-    },
-    {
-      "id": "1ab6daeacbac72d37d198a536522e366",
-      "title": "Modos Flow - L'écran e-ink open source qui pousse le refresh à fond",
-      "link": "https://korben.info/glider-moniteur-e-ink-open-source.html",
-      "summary": "Wenting Zhang, le développeur derrière Modos Labs, s'est attaqué depuis des années à un truc qui faisait rire tout le monde, jusqu'à ce qu'il y parvienne. Son but dans la vie c'était de faire tourner un écran e-ink as...",
-      "published": "2026-06-29T06:59:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/glider-moniteur-e-ink-open-source/glider-moniteur-e-ink-open-source-1.jpg"
-    },
-    {
       "id": "09c40992d4e4195ed32950c1d65c6000",
       "title": "DirtyClone : la faille Linux qui donne un accès root en silence",
       "link": "https://www.it-connect.fr/dirtyclone-la-faille-linux-qui-donne-un-acces-root-en-silence/",
       "summary": "DirtyClone (CVE-2026-43503), nouvelle faille du noyau Linux, permet à un utilisateur local de devenir root sur Debian, Ubuntu et Fedora. Comment se protéger. Le post DirtyClone : la faille Linux qui donne un accès roo...",
       "published": "2026-06-29T06:53:48+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7f8fbc92092a0d5ab55cb5577bbcd06a",
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This atta...",
-      "published": "2026-06-29T05:36:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg"
-    },
-    {
-      "id": "acef21876508568d0a1f1177be7d6a59",
-      "title": "Fingerprint Defender - Brouiller son empreinte sur Firefox",
-      "link": "https://korben.info/fingerprint-defender-extension-firefox.html",
-      "summary": "Si vous me lisez depuis longtemps, vous savez forcément que le Fingerprinting est une technique de pistage qui permet de vous identifier en mesurant les petites particularités de votre navigateur telles que les police...",
-      "published": "2026-06-28T12:17:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fingerprint-defender-extension-firefox/fingerprint-defender-extension-firefox-1.png"
-    },
-    {
-      "id": "1b8a6b37d812051572a23870597815aa",
-      "title": "Windows 10 : Microsoft prolonge discrètement le programme ESU jusqu’en octobre 2027",
-      "link": "https://www.it-connect.fr/windows-10-microsoft-prolonge-discretement-le-programme-esu-jusquen-octobre-2027/",
-      "summary": "Sans annonce officielle, Microsoft prolonge d'un an le programme ESU gratuit de Windows 10. Les mises à jour de sécurité sont assurées jusqu'en octobre 2027. Le post Windows 10 : Microsoft prolonge discrètement le pro...",
-      "published": "2026-06-26T06:30:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6f16afa64d78f605de387bc839dd237d",
-      "title": "Windows Server 2025 : comment configurer le DNS-over-HTTPS sur le serveur DNS ?",
-      "link": "https://www.it-connect.fr/configurer-doh-windows-server-dns/",
-      "summary": "Découvrez comment activer et configurer DNS-over-HTTPS (DoH) sur un serveur DNS Windows Server 2025, avec la gestion du certificat, pour chiffrer les flux DNS. Le post Windows Server 2025 : comment configurer le DNS-o...",
-      "published": "2026-06-25T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9cce04ffdd88ddab6b3333858cdc8594",
-      "title": "Derniers jours : les mini PC Geekom A6 et A7 MAX au meilleur prix de l’année !",
-      "link": "https://www.it-connect.fr/derniers-jours-les-mini-pc-geekom-a6-et-a7-max-au-meilleur-prix-de-lannee/",
-      "summary": "Mieux que le Prime Day : le Geekom A7 MAX passe à 615 € (au lieu de 999 €) et l'A6 à 489 € avec le code réservé aux lecteurs d'IT-Connect, jusqu'au 2 juillet. Le post Derniers jours : les mini PC Geekom A6 et A7 MAX a...",
-      "published": "2026-06-25T06:39:38+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
