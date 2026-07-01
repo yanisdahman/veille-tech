@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-07-01T09:40:07.150921+00:00",
+  "last_updated": "2026-07-01T14:28:24.783226+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f1a803048a53b6eef7387052dda0ed07",
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+      "published": "2026-07-01T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d1b8aeb52048f3182f3c90c9df5c5a75",
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity co...",
+      "published": "2026-07-01T13:56:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
+    },
+    {
+      "id": "778a2f943ffa2c9b674cf4e0085e768b",
+      "title": "Un Sony Cyber-shot transformé en Game Boy par retroHAI",
+      "link": "https://korben.info/retrohai-mods-cybershot-gameboy.html",
+      "summary": "Un appareil photo Sony Cyber-shot d'un côté, une Game Boy Advance SP de l'autre, et au milieu un objet qui n'a aucun sens mais qui me plaît bien quand même ! C'est la signature de Hairo Satoh, un modder japonais insta...",
+      "published": "2026-07-01T13:32:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/retrohai-mods-cybershot-gameboy/retrohai-mods-cybershot-gameboy-1.png"
+    },
+    {
+      "id": "9b551befd6dffcc4720787cfe5636e00",
+      "title": "PS5-Linux - La Slim peut enfin tourner sous Linux",
+      "link": "https://korben.info/ps5-linux-firmware-ps5-slim.html",
+      "summary": "Il y a trois mois, Andy Nguyen (theflow0 pour les intimes) lâchait PS5-Linux et posait direct cette limite bien nette, à savoir que ça ne concernerait que les PS5 Phat, et pas les Slim ni les Pro. Bon ben cette limite...",
+      "published": "2026-07-01T13:13:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ps5-linux-firmware-ps5-slim/ps5-linux-firmware-ps5-slim-1.png"
+    },
+    {
+      "id": "45dbf678a05e043f3fdbb5fe129695ab",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it in...",
+      "published": "2026-07-01T12:59:19+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4BJdHYquuxXoz8n0LhMEmm9KPcWcMC57w4LnqbMNCPXMAFdS95ys3zE6F5jZOvSKwsVWp6t3z8pVImRJ3Nvxgkr4QiPI5O06zJywlL5uuBIU2G0ZtPucYq80Z_G-PnVzjYfChzbnpLxGyD2PpbH8VdLWjIuNLt0RoAe5Q8mVulX2s_4Ueg7XR0pxZVwKn/s1600/chrome-ransomware.jpg"
+    },
+    {
+      "id": "709eb35ec08505caddab8049dbddc32e",
+      "title": "Kim Dotcom - Son extradition aux USA se rapproche",
+      "link": "https://korben.info/kim-dotcom-extradition-etats-unis.html",
+      "summary": "Le 20 janvier 2012, 76 policiers et deux hélicoptères débarquent sur le manoir de Coatesville, en Nouvelle-Zélande, pour coffrer un gros bonhomme allemand la veille de ses 38 ans. Ce bonhomme, c'est Kim Dotcom , le pa...",
+      "published": "2026-07-01T12:34:04+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/kim-dotcom-extradition-etats-unis/kim-dotcom-extradition-etats-unis-1.png"
+    },
+    {
+      "id": "1e03c8f85a704a0be5443f79103cc822",
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+      "published": "2026-07-01T12:30:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ce2d75768883a915781d5a3358642086",
+      "title": "OpenClaw - L'assistant IA arrive sur iPhone et Android",
+      "link": "https://korben.info/openclaw-apps-mobiles-ios-android.html",
+      "summary": "Chers amateurs d'OpenClaw, bonne nouvelle, votre outil préféré débarque sur iPhone et Android. Mais contrairement à ce que vous faites d'habitude, pour une fois, je vous conseille de bien lire mon article avant de fon...",
+      "published": "2026-07-01T11:33:45+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/openclaw-apps-mobiles-ios-android/openclaw-apps-mobiles-ios-android-1.jpg"
+    },
+    {
+      "id": "6545b151b911f2fb297b28c08b33c07b",
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+      "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the ...",
+      "published": "2026-07-01T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1ozclOI3O1fTjKYLZrt0RCp54Fr-6NPYAifKy5c1fYwj4ceFq9U62ra9eoBq4Qw7qAh3qXE7ttfy6239qiAwK3SFyQxg316fl8BNxeeZ6IRDJFbjl09AE-gHC9Qa2V3nFljMblCovx6MgP66ZxMfawWVnAWEPNX9YS_FATZFtC69nlKhTvQQeOD58_I/s1600/Assessment.jpg"
+    },
+    {
+      "id": "52244a9b42bbb1ce5e772d1394a78181",
+      "title": "Hide My Email - La faille qui crame votre vraie adresse mail",
+      "link": "https://korben.info/apple-hide-my-email-faille-adresse-reelle.html",
+      "summary": "Si vous utilisez Hide My Email d'Apple pour éviter de balancer votre vraie adresse mail à tous les sites qui vous la réclament, j'ai une mauvaise nouvelle les amis ! Tyler Murphy, cofondateur d'EasyOptOuts a découvert...",
+      "published": "2026-07-01T11:19:27+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/apple-hide-my-email-faille-adresse-reelle/apple-hide-my-email-faille-adresse-reelle-1.png"
+    },
+    {
+      "id": "bf9cc945869a81232f29e4cd5a4f0b9e",
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
+      "published": "2026-07-01T10:52:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e8d2574e42ac275d4f0e2f455424338d",
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously e...",
+      "published": "2026-07-01T10:41:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyPq-iy_BsDM3LGWIEtwydOynDIApb_bokv6EuarUGUbyIw8tFnntySLPL5FuN0Qw1PIGNzlabEaSq00S9ojIShTnbJyM0kWKUbCcIEOH3eEbdLOpgOumlnXHVvrsn2o9A75a2R3_8vjpTB18P45qaK7CtSuggZyGAb2uA8SGGXp_bUV7mqY4aGNlYGXwM/s1600/Microsoft-Encryption.jpg"
+    },
+    {
+      "id": "86a6164c46bb402117fc3c7f2d6ef7c9",
+      "title": "Reflect v1.0 - Programmer un humanoïde en une phrase",
+      "link": "https://korben.info/flexion-reflect-humanoides-autonomie.html",
+      "summary": "Un humanoïde qui traverse un immeuble, appelle l'ascenseur, ouvre un colis avec un outil et range les courses dans un tiroir, tout seul, et sur une seule consigne qui lui est donnée en langage naturel, ce n'est pas de...",
+      "published": "2026-07-01T10:07:17+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/flexion-reflect-humanoides-autonomie/flexion-reflect-humanoides-autonomie-1.avif"
+    },
+    {
+      "id": "6878c8c7d9c41fe54c80feb19ce3f8be",
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
+      "published": "2026-07-01T09:43:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bdd7345b8c462ddb376c0ad9aa56fd5b",
+      "title": "Google agents-cli - Quand votre agent IA en crée d'autres",
+      "link": "https://korben.info/google-agents-cli-build-agents-ia.html",
+      "summary": "Les devs de chez Google viennent de sortir un outil conçu pour les agents IA qui codent afin qu'ils deviennent des experts en développement d'agents IA sur Google Cloud. J'sais pas si je suis très clair, alors je vais...",
+      "published": "2026-07-01T09:31:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-agents-cli-build-agents-ia/google-agents-cli-build-agents-ia-1.png"
+    },
     {
       "id": "ae57b4d9cb736b380903a51ba217e77a",
       "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
@@ -163,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "5ca31060e59f06dbad5fa542afe646aa",
-      "title": "Claude Desktop - L'appli officielle débarque enfin sur Linux",
-      "link": "https://korben.info/claude-desktop-linux.html",
-      "summary": "Amis linuxiens, je viens vous quérir d'une charmante nouvelle qui va faire frisoter votre barbe. Anthropic vient de sortir son application Claude Desktop pour Linux, et cette fois c'est une beta officielle, qui plus e...",
-      "published": "2026-06-30T17:55:37+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/claude-desktop-linux/claude-desktop-linux-1.jpg"
-    },
-    {
       "id": "37d29293c42aefd7504a2e2bebb8a524",
       "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
       "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
@@ -181,76 +321,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbjfrraZ05p0kN5CedcQSOZYouoHGrdpCvi9TGxEZM_9zlXc_juWZ1F8VsvjV9c-iD7Ejgj0V6b0uYwOb9mLpb7ALcOVk53m2ppmg6mDI3qwANc8KZFMt3X7H7fT_Eym3OJijFmr0CZS6yJNTtf4kef0gOYtbx6A3LYa15PNzpzJuOg-nd6orLosZzfQ8/s1600/ms-ai.jpg"
-    },
-    {
-      "id": "56d673f9c000319584f3260feee6f37f",
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. ...",
-      "published": "2026-06-30T17:45:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2XzOOqoX4E_CfxUMxd0YAH9MRjvZ8-kBBiVhd2VvCvbie3zla8PA80fO2xZ4Ux3_gmreVKG7ANFrSGpDk1lsURfQZuVVapjqi565oGmkqImmFdiQsQFL5z7V9s7TTkH4KgmGbEFnpdAQz94DrXip4q8Qa-ec9K1B1cmeL3szEBWUq9nX-MWppatyug3A/s1600/RustDuck.jpg"
-    },
-    {
-      "id": "ee57ca1411b58adc8720f8413440efe6",
-      "title": "GLM 5.2 - Le premier modèle IA open source que je garde",
-      "link": "https://korben.info/glm-5-2-retour-experience.html",
-      "summary": "Les amis, il faut que je vous parle de GLM 5.2 . Je l'utilise en ce moment même à travers Z.ai, et c'est la première fois qu'un modèle open weights me donne satisfaction sur ce que je lui demande de faire. Et dieu sai...",
-      "published": "2026-06-30T16:42:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/glm-5-2-retour-experience/glm-5-2-retour-experience-1.png"
-    },
-    {
-      "id": "3da15198b03a166bed792f6ccfc5bf0c",
-      "title": "Hugging Face sait enfin vous dire si un modèle tourne sur votre machine",
-      "link": "https://korben.info/huggingface-filtre-modeles-materiel.html",
-      "summary": "Vous avez une petite carte graphique, un vieux Mac ou juste un bon processeur, et vous cherchez LE modèle d'IA parfait qui pourra tourner en local sans que ça rame ? Hugging Face vient d'ajouter le filtre qui manquait...",
-      "published": "2026-06-30T16:24:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/huggingface-filtre-modeles-materiel/huggingface-filtre-modeles-materiel-1.png"
-    },
-    {
-      "id": "18d5b5f2fbd829b5e2123067d35caf01",
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score...",
-      "published": "2026-06-30T15:47:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA2GvsvmPnHZF-e1GDbhOVW4DxQZr79HzSMLp7-YKaA9DC-V2fVo6cmBig0bxUxWjK0Kz1mTm2Cmg6CrjaKgNhxC7xE6SsBxRx8DW5ljkMWPuJ0-7WUzxYbSrRWFdix8Nks8tobGkIY5cpNjczspeiKYyXYVSgoVct-7u1SFpWXB0mEi8AB5X-Wcp59Vca/s1600/Langflow.jpg"
-    },
-    {
-      "id": "ba2aa83ea0259664b39ad1e2dcbed7e7",
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-      "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
-      "published": "2026-06-30T15:46:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5dab0877ee6a2238a848d066e5e917b7",
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptoc...",
-      "published": "2026-06-30T15:40:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfz8WYO9wONzogh2V8g9VorZ8Ab_nAUZMD7rOM9xrVUhg3cbKGA5zc73PGQiAkbsNgY-qbm2AFAUjBdeMcpemGmDNWrvnpyjzKiqU8iJHMetkW68d20V_U-96mHOaHF6fff7VKBREN2v6fz1R_ahyIklq-Fd7ILYKxXck5ahL1BoFWC_CDQFrQZqQqg3hm/s1600/chrome-wallet.jpg"
-    },
-    {
-      "id": "df592acb420ec87d0e4fd2a165a6638b",
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is na...",
-      "published": "2026-06-30T14:26:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR59EidY6iMYv3s9bikjIxpj6_YTaUIesrZ3MyD9OqUbOk262aDW7bCArqr-IjT9CUQUSzE2F_knKKvs4bIJ2d9cuzZ-DKlmkW_Q3SO43HkA79kSVhCELVyKaStWliNZc9l1xxEGEFE5UmT1Abn6XMKTjk-rxBRTTtRAjb-jYDRKj-ODtIYy8dGQvbzDE/s1600/shell-ai.jpg"
     },
     {
       "id": "37840647fbb53fcbd3ae257aa7d9b073",
@@ -273,26 +343,6 @@
       "image": ""
     },
     {
-      "id": "df616eeb167d05468a0e165c6fb1f9b2",
-      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-      "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attack...",
-      "published": "2026-06-30T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "55addf98218c558faa898eb2ed3fa481",
-      "title": "GeoSpoof - Le VPN cache votre IP mais le navigateur vous trahit",
-      "link": "https://korben.info/geospoof-vpn-navigateur-localisation.html",
-      "summary": "Anthony Sgro vient d'open-sourcer un truc que tout utilisateur de VPN devrait avoir sous la main. C'est extension pour Safari, Chrome et Firefox (et pas Faille-Fox, déso) qui s'appelle GeoSpoof et qui part d'un consta...",
-      "published": "2026-06-30T12:48:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/geospoof-vpn-navigateur-localisation/geospoof-vpn-navigateur-localisation-1.jpg"
-    },
-    {
       "id": "bc7ebf2d2f5846f53c65eeb9ebc22774",
       "title": "Exploitarium : un chercheur dévoile des failles zero-day dans 15 logiciels open source",
       "link": "https://www.it-connect.fr/exploitarium-un-chercheur-devoile-des-failles-zero-day-dans-15-logiciels-open-source/",
@@ -301,56 +351,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "12d859b1d04f3e8f0d6ccafc750c589c",
-      "title": "Cursor Mobile - Vos agents de coding pilotés depuis iPhone",
-      "link": "https://korben.info/cursor-mobile-piloter-agents-ia-smartphone.html",
-      "summary": "Cursor , le célèbre IDE de vibe coding, vient de sortir une app iOS qui permet de piloter des agents IA codant à votre place, directement depuis un smartphone. Je ne parle donc pas d'écrire du code sur un écran de six...",
-      "published": "2026-06-30T11:31:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cursor-mobile-piloter-agents-ia-smartphone/cursor-mobile-piloter-agents-ia-smartphone-1.jpg"
-    },
-    {
-      "id": "109bfb30ed0f641e5dd0467b601d4588",
-      "title": "Allégez Nextcloud en virant les dossiers node_modules de l'index",
-      "link": "https://korben.info/nextcloud-files-excludedirs-node-modules.html",
-      "summary": "Si vous avez déjà branché un stockage externe sur votre Nextcloud et regardé occ files:scan ramper en mode larve durant des plombes lors d'une indexation, vous connaissez le coupable. C'est évidemment un dossier node_...",
-      "published": "2026-06-30T11:18:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/nextcloud-files-excludedirs-node-modules/nextcloud-files-excludedirs-node-modules-1.png"
-    },
-    {
-      "id": "f5715f66c15255338b0b2a0c3b2db44d",
-      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-      "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information of 4.38 million customers. [...]",
-      "published": "2026-06-30T11:12:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f44a4cec985ee0ebc14f30169cacfc80",
-      "title": "Microsoft adds smarter bot protection to Teams meetings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-      "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
-      "published": "2026-06-30T10:52:26+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ecec46e4736d2df5562359f70984b283",
-      "title": "Il a transformé quatre disques durs en enceintes pour rejouer une démo culte de 1993",
-      "link": "https://korben.info/il-a-transforme-quatre-disques-durs-en-enceintes-pour-rejouer-une-demo-culte-de-1993.html",
-      "summary": "Un développeur du nom de Niv Singer a eu l'idée improbable de brancher quatre vieux disques durs en guise d'enceintes, puis de leur faire cracher Second Reality, cette production que le groupe finlandais Future Crew a...",
-      "published": "2026-06-30T09:53:28+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/il-a-transforme-quatre-disques-durs-en-enceintes-pour-rejouer-une-demo-culte-de-1993/il-a-transforme-quatre-disques-durs-en-enceintes-pour-rejouer-une-demo-culte-de-1993-1.jpg"
     },
     {
       "id": "13a9a9c0ad90628ce245021aa14444c4",
@@ -433,6 +433,36 @@
       "image": ""
     },
     {
+      "id": "9186587a7ccc343b8c069a1daf892e93",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (22 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0791/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-22T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9ca0faf4768238822fb5b758f0de44c2",
+      "title": "Vulnérabilité dans PaperCut Print Deploy Client (22 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0789/",
+      "summary": "Une vulnérabilité a été découverte dans PaperCut Print Deploy Client. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
+      "published": "2026-06-22T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4c674509f415509f8c3c1f174468d071",
+      "title": "Vulnérabilité dans CPython pour Windows (22 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0790/",
+      "summary": "Une vulnérabilité a été découverte dans CPython pour Windows. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "published": "2026-06-22T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "6ab34224cf137a6a96ed9244ab52dd6d",
       "title": "Multiples vulnérabilités dans les produits IBM (19 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0788/",
@@ -443,40 +473,10 @@
       "image": ""
     },
     {
-      "id": "4564bf85e019dd9b255708ef2cc98bd4",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0784/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "75605d595dcf3e03248a39a27fef676c",
       "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (19 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0787/",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteint...",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e52f58559a210e247c19950310da9df1",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0782/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des donné...",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a72ec80c45075d3f91bc6906fdeca601",
-      "title": "Multiples vulnérabilités dans Microsoft Azure (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0783/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
