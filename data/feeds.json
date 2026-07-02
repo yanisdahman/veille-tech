@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-07-02T08:51:34.404952+00:00",
+  "last_updated": "2026-07-02T13:52:29.554421+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "425c8f77d2e775e794a788739d4b6222",
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attacker...",
+      "published": "2026-07-02T13:04:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMnC-1ujLiZRcV1xgXbB3qFoIREcbSiGqLCFID8-G-z8GFI3YEY8VniprVEBW4b4TZKJUvoRDg27elntNJWL9S6JZUHMMe1Ie1JLf9w5Fzsgx2w9c94ja1NoED4m3G1pNngC2DDWOOQPgVGiKOd0uBpZkQSSpFOo60S2Tbl8j2VWKdhb70sIJzF8d93LM/s1600/gmail.jpg"
+    },
+    {
+      "id": "fdf987528534ce49435f33b00daae90b",
+      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+      "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
+      "published": "2026-07-02T12:15:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cacfd6984d090096af00c2bbbde609c8",
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+      "published": "2026-07-02T11:35:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "952025ebfdc8e034f24f24d839adbc97",
+      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+      "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environmen...",
+      "published": "2026-07-02T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg"
+    },
+    {
+      "id": "e60a2469e2a3f601533665216c3c5097",
+      "title": "oomwoo : l’aspirateur robot open source que l’on fabrique soi-même, sans cloud",
+      "link": "https://www.it-connect.fr/oomwoo-aspirateur-robot-open-source/",
+      "summary": "oomwoo, c'est l'aspirateur robot open source à monter soi-même : Raspberry Pi, imprimante 3D, ROS 2 et 100 % local. Bye bye le cloud et le vendor lock-in. Le post oomwoo : l’aspirateur robot open source que l’on fabri...",
+      "published": "2026-07-02T11:09:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "87797102390c7d0c6da4a3e2190df835",
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+      "published": "2026-07-02T10:52:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0a00fa736cb4762f2f8e613a519f3bff",
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
+      "published": "2026-07-02T10:46:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3eec2a62abf453956b0a1f087de538b8",
+      "title": "NanoKVM-Go - Le KVM USB-C qui garde vos écrans en mémoire",
+      "link": "https://korben.info/sipeed-nanokvm-go.html",
+      "summary": "La société Sipeed vient d'annoncer la sortie d'un nouveau KVM USB-C qui je pense va vous intéresser. Il s'appelle le NanoKVM-GO, il fait la taille d'une grosse boite d'allumettes et permet de prendre le contrôle de n'...",
+      "published": "2026-07-02T09:53:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/sipeed-nanokvm-go/sipeed-nanokvm-go-1.avif"
+    },
+    {
+      "id": "0fd2d78cefeac667f52b25c98d268b8f",
+      "title": "La Russie réclame 52 millions à Apple alors qu'ils n'y vendent plus rien",
+      "link": "https://korben.info/apple-amende-russie-apps-obligatoires.html",
+      "summary": "4 milliards de roubles, c'est ce que réclame Moscou à Apple. Si vous n'êtes pas fortiche en roubles, c'est environ 52 millions de dollars. Mais alors pourquoi la Russie réclame-t-elle une telle somme à Apple ? Eh bien...",
+      "published": "2026-07-02T09:35:21+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/apple-amende-russie-apps-obligatoires/apple-amende-russie-apps-obligatoires-1.png"
+    },
+    {
+      "id": "545a87363dea6b47b61f5465e5995230",
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model ha...",
+      "published": "2026-07-02T09:13:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirfJNnWRTyyKkXeatZdtLvMsQhba-L0J9yuyASwy4T-6nlbGWnkEl0FUBVO8wS6je9Hc9wPdu01JJ0TETOa1jOjQelGiJY3ZrvsJzFIqpr_gbEvv5F4lnQrJWxTHbpYM6ah6sPJbQ63XtdxlOcFy7KZ06S69LW2escSgSAM-ycKZCqttjAZEcHJ_sO9DdQ/s1600/ai-agent-ransomware.jpg"
+    },
+    {
+      "id": "3188b17e3d1185a7ac64d9d169c9d186",
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
+      "published": "2026-07-02T08:58:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "84197ede93c292dd6425e3ec1760b383",
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An...",
+      "published": "2026-07-02T08:00:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcA80dQWiuszAlBgwcxzc3suImls2cKOwk_2nYMo7UY5MNSdlKNMgibekQNEhWRuxmX5s1JcLHCd_dsDZ3m9oy_FxN-livXwyMIqre86oK8WIOMKUSZwDBvoN7XQOaV63zVBAIKQCH77-RGxhyLNc0bnip4LoUd0P7HsWQx-bxBu8nHr7St5HKs6T1cS6Z/s1600/bleed-ransomware.jpg"
+    },
     {
       "id": "c9a1143d73f05246e3c8d296b1e09c36",
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
@@ -183,16 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3OuCh7SjXAd7hG_0Q0p__EmpV5MwYh0fOfMZHc1wxRHpsCN9qlonLr93NB6-iJMWJd6nv8VoMqSt9hWW34H7R7tpoGuhkn1mkEL8UgsiUIfNxh9L1Bh0Qpvt0xrX9Pqq6rw1vb-0CEC3KLAT5N7fdlgEHWnYVDyeuUHt2pD59vugSKLaC9n8-LBLoqV0Y/s1600/blogger.jpg"
     },
     {
-      "id": "0ca31d9a4efe4b975d85f2e696620ceb",
-      "title": "Webinar: Why traditional email security is no longer enough",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-      "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This web...",
-      "published": "2026-07-01T16:54:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "9f26903ee7aa87e8a2f864d91df74d10",
       "title": "Claude Code planquait un mouchard dans la date du prompt",
       "link": "https://korben.info/claude-code-steganographie-requetes.html",
@@ -201,16 +311,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/claude-code-steganographie-requetes/claude-code-steganographie-requetes-1.png"
-    },
-    {
-      "id": "7f0784d8636321dea236eb718dff0f9c",
-      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-      "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
-      "published": "2026-07-01T16:38:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "0a229ddaec2b8d1acb0a3d34210f787c",
@@ -223,36 +323,6 @@
       "image": "https://korben.info/carte-identite-electronique-lire-puce-python/carte-identite-electronique-lire-puce-python-1.png"
     },
     {
-      "id": "4f343c0bd259ff6006950b167e9defb3",
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrup...",
-      "published": "2026-07-01T15:26:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GnjevIMTqO1nAZ7LWeRKAz2NCKGTKCC2ldSx5dsd2SShjh4pWcmddVJse4MP4QLhA_DOP1K_RajPwe8YR7rc57CqPUO0i9RDYoZQA0yRAokZt1r2hyphenhyphenccOjcFh2SgUTnyUjj-M-y7WUUXVF0rpSrcxTrjb5nPOnpnIP5YvdxzUaLXkubSTXFaj0RzxEvH/s1600/windows-trojan.jpg"
-    },
-    {
-      "id": "b594e284db7f72f8a59da8176e394344",
-      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to...",
-      "published": "2026-07-01T15:25:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2LpF3s-oL3WaiHtAZ9N33J120bvGnWDoQ39eE1fyToERHmJgkAtMzarRyW9-gOG0N4U1_nOEQmwg-3krYIZDcXXB6JYpurMezefSiM5-ygJd9CuuS1sS-gHNjoKgBRayO0wBow5GB1yaanR55TW2fwus6MQXwlqeXDJ2Xu7z2fiOGbPXo4qio4LpXZPO/s1600/adobe.jpg"
-    },
-    {
-      "id": "95f6d5232954e3f1b9702d5b265646f1",
-      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-      "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval...",
-      "published": "2026-07-01T14:42:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjItlLuWZZxw3YcKcnCVEsKn7HKF0QcPnXqFNjor23XT93Xp49dvLt4tZFYIbUApP4eABXQZ3pwnoidAp5GW1wm7ZfBA6vXRlX7i0Lbzw4KWlSkxayxjZQeoxg3TEAQWmLdGP9DePsYjoC1p07KGommOwATsJOHhRQ2zZatOaFRzHoKHVHcQW8K9s-Hd5w/s1600/cato.jpg"
-    },
-    {
       "id": "191fcf82b513f57ddde3ded86820b3b3",
       "title": "Korben News Tab - Ne ratez plus jamais un seul de mes articles",
       "link": "https://korben.info/extension-firefox-actualites-korben-nouvel-onglet.html",
@@ -261,66 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/extension-firefox-actualites-korben-nouvel-onglet/extension-firefox-actualites-korben-nouvel-onglet-1.png"
-    },
-    {
-      "id": "f1a803048a53b6eef7387052dda0ed07",
-      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-      "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
-      "published": "2026-07-01T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d1b8aeb52048f3182f3c90c9df5c5a75",
-      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity co...",
-      "published": "2026-07-01T13:56:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
-    },
-    {
-      "id": "778a2f943ffa2c9b674cf4e0085e768b",
-      "title": "Un Sony Cyber-shot transformé en Game Boy par retroHAI",
-      "link": "https://korben.info/retrohai-mods-cybershot-gameboy.html",
-      "summary": "Un appareil photo Sony Cyber-shot d'un côté, une Game Boy Advance SP de l'autre, et au milieu un objet qui n'a aucun sens mais qui me plaît bien quand même ! C'est la signature de Hairo Satoh, un modder japonais insta...",
-      "published": "2026-07-01T13:32:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/retrohai-mods-cybershot-gameboy/retrohai-mods-cybershot-gameboy-1.png"
-    },
-    {
-      "id": "9b551befd6dffcc4720787cfe5636e00",
-      "title": "PS5-Linux - La Slim peut enfin tourner sous Linux",
-      "link": "https://korben.info/ps5-linux-firmware-ps5-slim.html",
-      "summary": "Il y a trois mois, Andy Nguyen (theflow0 pour les intimes) lâchait PS5-Linux et posait direct cette limite bien nette, à savoir que ça ne concernerait que les PS5 Phat, et pas les Slim ni les Pro. Bon ben cette limite...",
-      "published": "2026-07-01T13:13:43+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ps5-linux-firmware-ps5-slim/ps5-linux-firmware-ps5-slim-1.png"
-    },
-    {
-      "id": "1e03c8f85a704a0be5443f79103cc822",
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-      "published": "2026-07-01T12:30:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bf9cc945869a81232f29e4cd5a4f0b9e",
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-      "published": "2026-07-01T10:52:26+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "56d0173ba11898adb22caf0e996365e9",
@@ -393,21 +403,71 @@
       "image": ""
     },
     {
-      "id": "ee701293a884be4d1dd304e793687a06",
-      "title": "Windows Server 2022 : le Hotpatching prolongé jusqu’en octobre 2027",
-      "link": "https://www.it-connect.fr/windows-server-2022-le-hotpatching-prolonge-jusquen-octobre-2027/",
-      "summary": "Microsoft prolonge d'un an le Hotpatching de Windows Server 2022 Datacenter: Azure Edition, jusqu'en octobre 2027. À une condition près. Le post Windows Server 2022 : le Hotpatching prolongé jusqu’en octobre 2027 a ét...",
-      "published": "2026-06-30T04:56:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "d48d3120cd421a84c0197c276757f0c3",
+      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (25 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0802/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-25T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "320f491554bf0ba7c07185b7d5c80c1b",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-027 (22 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-027/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-06-22T00:00:00+00:00",
+      "id": "8af8738d33b5dbce19d7a43be1ecf0f2",
+      "title": "Multiples vulnérabilités dans Google Chrome (25 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0801/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-25T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c85fa9f1c26085c0a5c593f37abeb503",
+      "title": "Multiples vulnérabilités dans cURL et libcurl (24 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0797/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans cURL et libcurl. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un c...",
+      "published": "2026-06-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3b987f4a82fcf20542f2d91605d331b1",
+      "title": "Multiples vulnérabilités dans Tenable Identity Exposure (24 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0796/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance...",
+      "published": "2026-06-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1b39ea71f46685566ac6a8e5ee37374f",
+      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (24 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0798/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fd01c9fc170725ac0a477465f990b490",
+      "title": "Multiples vulnérabilités dans Moodle (23 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0794/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle Moodle. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et un...",
+      "published": "2026-06-23T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6c02bb9d84d8ef4c1775144ad7a181d7",
+      "title": "Multiples vulnérabilités dans Squid (23 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0795/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -438,66 +498,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0791/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-06-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9ca0faf4768238822fb5b758f0de44c2",
-      "title": "Vulnérabilité dans PaperCut Print Deploy Client (22 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0789/",
-      "summary": "Une vulnérabilité a été découverte dans PaperCut Print Deploy Client. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-      "published": "2026-06-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4c674509f415509f8c3c1f174468d071",
-      "title": "Vulnérabilité dans CPython pour Windows (22 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0790/",
-      "summary": "Une vulnérabilité a été découverte dans CPython pour Windows. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "published": "2026-06-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6ab34224cf137a6a96ed9244ab52dd6d",
-      "title": "Multiples vulnérabilités dans les produits IBM (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0788/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "75605d595dcf3e03248a39a27fef676c",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0787/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteint...",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ad0629547fe6dd68eb9e3215ed72d967",
-      "title": "Multiples vulnérabilités dans Node.js (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0786/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte...",
-      "published": "2026-06-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "31503996ec82a48a0abb43d2f8f80ba2",
-      "title": "Vulnérabilité dans Traefik (19 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0785/",
-      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-06-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
