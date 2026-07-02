@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-02T13:52:29.554421+00:00",
+  "last_updated": "2026-07-02T19:19:45.584745+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7276542e3384a87037c2380b61c4cbd8",
+      "title": "Google veut scanner votre main pour prouver que vous êtes humain",
+      "link": "https://korben.info/google-recaptcha-scan-main.html",
+      "summary": "Google en a marre que les IA passent ses CAPTCHA les doigts dans le nez, alors sa nouvelle idée de génie à la con pour vérifier que vous êtes bien humain, ça va bientôt être de vous faire agiter la main devant votre w...",
+      "published": "2026-07-02T17:01:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-recaptcha-scan-main/google-recaptcha-scan-main-1.png"
+    },
+    {
+      "id": "dc09bc2d649adda1d7c395f4b0bcdd8b",
+      "title": "Par quoi remplacer TV Time avant sa fermeture ?",
+      "link": "https://korben.info/remplacer-tv-time-alternatives-suivi-series.html",
+      "summary": "Triste nouvelle, TV Time tire sa révérence le 15 juillet prochain, et je vous avoue que ça me fait un petit quelque chose. Cette appli, vous la connaissez peut-être sous son nom d'origine, TV Show Time, une petite pép...",
+      "published": "2026-07-02T16:09:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/remplacer-tv-time-alternatives-suivi-series/remplacer-tv-time-alternatives-suivi-series-1.png"
+    },
+    {
+      "id": "35bc7f542e28ab60ff013d3427b9698b",
+      "title": "Technitium DNS Server : bloquer les pubs et héberger son DNS",
+      "link": "https://www.it-connect.fr/technitium-dns-server/",
+      "summary": "Installez Technitium DNS Server sur Linux avec Docker et configurez la récursion native, le blocage des publicités, vos zones DNS et d'autres fonctionnalités. Le post Technitium DNS Server : bloquer les pubs et héberg...",
+      "published": "2026-07-02T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8906f16770ea9bf5933b307bd5874064",
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and fin...",
+      "published": "2026-07-02T15:24:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMzwXbN53zy07KSkFJL7uOzty4Pj7VgKS6lSwWWGSCppX0wEX5eY0ZLur2NiFcs-ByBBhbd1WZ270Y4VMMGL6WkvOIZ5MhyphenhyphenkDX2B45wiQue-W88oiF_-RZs0HxvrvcxCHI8Zhhv1-fqHDgnX-VLWk00gt463rQhyKY7Mzcd5STMCYeCUcyVri3aBSUpl2t/s1600/threatsday-board.jpg"
+    },
+    {
+      "id": "9149e58485c6934654d0772fbd617ac6",
+      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+      "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service...",
+      "published": "2026-07-02T15:18:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "df3d0f837e652193d7c782c472caf97e",
+      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+      "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+      "published": "2026-07-02T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "425c8f77d2e775e794a788739d4b6222",
       "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
@@ -243,16 +303,6 @@
       "image": "https://korben.info/zcode-zai-glm-coding/zcode-zai-glm-coding-1.png"
     },
     {
-      "id": "3ad3d106ca11c72dd4cb971695651aff",
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to...",
-      "published": "2026-07-01T20:08:13+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ea36e4db98f1fe541abdc795a5600c9b",
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
       "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
@@ -283,26 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbKfADFEhazeaRztmVJkTBhFqZxALUDBwsOV_25bWjZ6Qm3pCBoSSawssWOOJC2ZQ7M6hrUDRXLfR5gcpWRkkaSdNtSPCz-FLrG5Dy4-Y-IzEMt_souSqJuc3JK9FNQ9p2-dT7Ojf3ufzPkWBpLNyDAVeeuYS7Ya-BJWT4MmAHz7OjHvwjMSCfF5Jvahyphenhyphenj/s1600/SEO-MALWARE.jpg"
     },
     {
-      "id": "d90562af312b09a430300bc4f925a608",
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private...",
-      "published": "2026-07-01T17:32:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "98cdc4b0f155ce4f0b4489439513fb71",
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed ...",
-      "published": "2026-07-01T17:18:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3OuCh7SjXAd7hG_0Q0p__EmpV5MwYh0fOfMZHc1wxRHpsCN9qlonLr93NB6-iJMWJd6nv8VoMqSt9hWW34H7R7tpoGuhkn1mkEL8UgsiUIfNxh9L1Bh0Qpvt0xrX9Pqq6rw1vb-0CEC3KLAT5N7fdlgEHWnYVDyeuUHt2pD59vugSKLaC9n8-LBLoqV0Y/s1600/blogger.jpg"
-    },
-    {
       "id": "9f26903ee7aa87e8a2f864d91df74d10",
       "title": "Claude Code planquait un mouchard dans la date du prompt",
       "link": "https://korben.info/claude-code-steganographie-requetes.html",
@@ -311,26 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/claude-code-steganographie-requetes/claude-code-steganographie-requetes-1.png"
-    },
-    {
-      "id": "0a229ddaec2b8d1acb0a3d34210f787c",
-      "title": "Lire la puce de sa carte d'identité en Python sous Linux",
-      "link": "https://korben.info/carte-identite-electronique-lire-puce-python.html",
-      "summary": "Hubert, fidèle lecteur de Korben.info m'a envoyé un mail pour me dire qu'il avait reçu sa nouvelle carte d'identité. Vous savez celle en petit format avec la puce dedans qu'on peut scanner avec l'app France Identité. ...",
-      "published": "2026-07-01T16:28:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/carte-identite-electronique-lire-puce-python/carte-identite-electronique-lire-puce-python-1.png"
-    },
-    {
-      "id": "191fcf82b513f57ddde3ded86820b3b3",
-      "title": "Korben News Tab - Ne ratez plus jamais un seul de mes articles",
-      "link": "https://korben.info/extension-firefox-actualites-korben-nouvel-onglet.html",
-      "summary": "Vous ouvrez combien d'onglets par jour ? Cinquante ? Cent ? Des millions ???? J'en étais sûr !! Et à chaque fois, vous tombez sur cette page blanche de Google de la dépression ou sur les quelques vignettes d'actu remp...",
-      "published": "2026-07-01T14:27:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/extension-firefox-actualites-korben-nouvel-onglet/extension-firefox-actualites-korben-nouvel-onglet-1.png"
     },
     {
       "id": "56d0173ba11898adb22caf0e996365e9",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/docky-le-dock-de-macos-reinvente-gratuit-et-open-source/",
       "summary": "Docky, remplaçant gratuit et open source du Dock de macOS : widgets, Launchpad, sélecteur de fenêtres… Découvrez ses fonctionnalités. Le post Docky : le Dock de macOS réinventé, gratuit et open source a été publié sur...",
       "published": "2026-06-30T07:51:49+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b51cda07adc57fe9e3aa8c7bc828e9f5",
-      "title": "StegoAd : un malware caché dans 119 extensions Microsoft Edge",
-      "link": "https://www.it-connect.fr/stegoad-un-malware-cache-dans-119-extensions-microsoft-edge/",
-      "summary": "Microsoft a supprimé 119 extensions Edge de la campagne StegoAd : un malware caché dans des images et des polices, qui volait identifiants et cookies. Le post StegoAd : un malware caché dans 119 extensions Microsoft E...",
-      "published": "2026-06-30T06:53:35+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
