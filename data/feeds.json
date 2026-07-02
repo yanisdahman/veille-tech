@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-07-02T02:56:25.290160+00:00",
+  "last_updated": "2026-07-02T08:51:34.404952+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c9a1143d73f05246e3c8d296b1e09c36",
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that c...",
+      "published": "2026-07-02T07:24:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_BdKzn7-7TCZJfnsZBy25kGm8xiQTrJquj8vMVsjlRXf7LXqMiJLQs8ic-lNLRc51whJzP-B4Nv9OOzfgOSHKzmIjZFv0krEDBuSeuXXNj-OccwbpBBBBIofZFMBT4DaThqLeE2Bsx-Nkp8aZZfEs6tVB43kby1L5UbtPjauqfedlANNzOYGrNB7ec5o/s1600/fake.jpg"
+    },
+    {
+      "id": "04e837762cf5a612727e207541deebb2",
+      "title": "Les sauvegardes du tenant Entra ID sont là, et rien ne peut les supprimer",
+      "link": "https://www.it-connect.fr/entra-id-backup-and-recovery-sauvegarde-tenant/",
+      "summary": "Microsoft Entra Backup and Recovery est disponible : sauvegarde et restauration natives du tenant Entra ID, incluses dans les licences P1 et P2. Le post Les sauvegardes du tenant Entra ID sont là, et rien ne peut les ...",
+      "published": "2026-07-02T07:19:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9add4ab34e0b3c433b116d9ee8081cd5",
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of a...",
+      "published": "2026-07-02T05:46:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEHDpcGNoddFf8yfkJ1L21X61VSA66xZiVjYA5qdfJpZ8tyWxzRy7Il8fwcY59pRUm7mlNChrPHhjySmFLV-dHEIdZiOXj0ZDQ9Wv8yxgfU8qKm_ga3kYcNer9z85cj7KwtYkRuxGtPaNUL0ebiuM2SILSWMVr-fZtnVFejlJ24h48ECds-iMQBTW3vHb/s1600/cisa-ms.jpg"
+    },
+    {
+      "id": "79ef9046d5c9b549703e52eb88723fd5",
+      "title": "SpudCell - La première cellule artificielle complète",
+      "link": "https://korben.info/cellule-artificielle-cycle-vie-complet.html",
+      "summary": "Les humains font vraiment des trucs de dingues. Surtout les scientifiques !! On a 2 biochimistes de l'Université du Minnesota (Kate Adamala et Aaron Engelhart) qui viennent de créer SpudCell, la première cellule artif...",
+      "published": "2026-07-02T05:13:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cellule-artificielle-cycle-vie-complet/cellule-artificielle-cycle-vie-complet-1.png"
+    },
+    {
+      "id": "85c125b02b5ca7b8b2313eb6f8be8dc9",
+      "title": "Apple corrige plus de 30 failles sur iOS et macOS découvertes en partie avec l’IA",
+      "link": "https://www.it-connect.fr/apple-corrige-plus-de-30-failles-sur-ios-et-macos-decouvertes-en-partie-avec-lia/",
+      "summary": "Apple publie iOS, iPadOS et macOS Tahoe 26.5.2 pour corriger plus de trente failles, dont quatre trouvées via l'IA, et livre ses correctifs plus tôt que prévu. Le post Apple corrige plus de 30 failles sur iOS et macOS...",
+      "published": "2026-07-02T05:09:54+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0eaa888011cfdedba88cbb4ff10fc52b",
+      "title": "Un ransomware dans le navigateur ? Suffit de demander à DeepSeek",
+      "link": "https://korben.info/deepseek-ransomware-navigateur.html",
+      "summary": "Dans la série \"Qu'est-ce qu'on se marre avec les LLMs\", des chercheurs en cybersécurité de Check Point ont tenté une expérience plutôt fun (enfin, je trouve ^^) : Demander à DeepSeek de leur coder un ransomware capabl...",
+      "published": "2026-07-02T04:51:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/deepseek-ransomware-navigateur/deepseek-ransomware-navigateur-1.png"
+    },
+    {
+      "id": "7defa9155809ab1521b4856ac4e05df8",
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+      "published": "2026-07-02T04:25:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "6204345eb2359f1ef1a87666de2ff6f8",
       "title": "SpaceX aurait développé un appareil IA plus fin qu'un iPhone - Elon Musk dément",
@@ -233,26 +303,6 @@
       "image": "https://korben.info/ps5-linux-firmware-ps5-slim/ps5-linux-firmware-ps5-slim-1.png"
     },
     {
-      "id": "45dbf678a05e043f3fdbb5fe129695ab",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
-      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it in...",
-      "published": "2026-07-01T12:59:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4BJdHYquuxXoz8n0LhMEmm9KPcWcMC57w4LnqbMNCPXMAFdS95ys3zE6F5jZOvSKwsVWp6t3z8pVImRJ3Nvxgkr4QiPI5O06zJywlL5uuBIU2G0ZtPucYq80Z_G-PnVzjYfChzbnpLxGyD2PpbH8VdLWjIuNLt0RoAe5Q8mVulX2s_4Ueg7XR0pxZVwKn/s1600/chrome-ransomware.jpg"
-    },
-    {
-      "id": "709eb35ec08505caddab8049dbddc32e",
-      "title": "Kim Dotcom - Son extradition aux USA se rapproche",
-      "link": "https://korben.info/kim-dotcom-extradition-etats-unis.html",
-      "summary": "Le 20 janvier 2012, 76 policiers et deux hélicoptères débarquent sur le manoir de Coatesville, en Nouvelle-Zélande, pour coffrer un gros bonhomme allemand la veille de ses 38 ans. Ce bonhomme, c'est Kim Dotcom , le pa...",
-      "published": "2026-07-01T12:34:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/kim-dotcom-extradition-etats-unis/kim-dotcom-extradition-etats-unis-1.png"
-    },
-    {
       "id": "1e03c8f85a704a0be5443f79103cc822",
       "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
@@ -263,41 +313,11 @@
       "image": ""
     },
     {
-      "id": "ce2d75768883a915781d5a3358642086",
-      "title": "OpenClaw - L'assistant IA arrive sur iPhone et Android",
-      "link": "https://korben.info/openclaw-apps-mobiles-ios-android.html",
-      "summary": "Chers amateurs d'OpenClaw, bonne nouvelle, votre outil préféré débarque sur iPhone et Android. Mais contrairement à ce que vous faites d'habitude, pour une fois, je vous conseille de bien lire mon article avant de fon...",
-      "published": "2026-07-01T11:33:45+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/openclaw-apps-mobiles-ios-android/openclaw-apps-mobiles-ios-android-1.jpg"
-    },
-    {
-      "id": "6545b151b911f2fb297b28c08b33c07b",
-      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
-      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-      "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the ...",
-      "published": "2026-07-01T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1ozclOI3O1fTjKYLZrt0RCp54Fr-6NPYAifKy5c1fYwj4ceFq9U62ra9eoBq4Qw7qAh3qXE7ttfy6239qiAwK3SFyQxg316fl8BNxeeZ6IRDJFbjl09AE-gHC9Qa2V3nFljMblCovx6MgP66ZxMfawWVnAWEPNX9YS_FATZFtC69nlKhTvQQeOD58_I/s1600/Assessment.jpg"
-    },
-    {
       "id": "bf9cc945869a81232f29e4cd5a4f0b9e",
       "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
       "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
       "published": "2026-07-01T10:52:26+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6878c8c7d9c41fe54c80feb19ce3f8be",
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
-      "published": "2026-07-01T09:43:27+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/windows-server-2022-le-hotpatching-prolonge-jusquen-octobre-2027/",
       "summary": "Microsoft prolonge d'un an le Hotpatching de Windows Server 2022 Datacenter: Azure Edition, jusqu'en octobre 2027. À une condition près. Le post Windows Server 2022 : le Hotpatching prolongé jusqu’en octobre 2027 a ét...",
       "published": "2026-06-30T04:56:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "82352f5de84fec9cf816f88392573ec4",
-      "title": "Plugins GLPI : 15 failles patchées, dont une RCE critique !",
-      "link": "https://www.it-connect.fr/plugins-glpi-15-failles-patchees-dont-une-rce-critique/",
-      "summary": "GLPI alerte sur plusieurs failles dans ses plugins communautaires, dont une RCE critique (CVSS 8,9) dans GenericObject. Les correctifs sont disponibles. Le post Plugins GLPI : 15 failles patchées, dont une RCE critiqu...",
-      "published": "2026-06-29T18:54:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7b5aa8a73869a95c70361726e9242adb",
-      "title": "Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vie à 16.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
-      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vi...",
-      "published": "2026-06-29T18:34:53+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
