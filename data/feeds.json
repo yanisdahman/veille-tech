@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-07-03T02:40:04.296441+00:00",
+  "last_updated": "2026-07-03T08:57:37.774417+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "87b5e9964257c7569609f72fd834fb4a",
+      "title": "oomwoo - Le robot aspirateur open source à monter soi-même",
+      "link": "https://korben.info/oomwoo-robot-aspirateur-open-source.html",
+      "summary": "La société Maker's Pet vient de lancer oomwoo , un robot aspirateur open source que vous construisez vous-même ! C'est fait à base de Raspberry Pi 5, LiDAR 2D, ROS 2, châssis imprimé en 3D, et le tout fonctionne en lo...",
+      "published": "2026-07-03T08:28:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/oomwoo-robot-aspirateur-open-source/oomwoo-robot-aspirateur-open-source-1.png"
+    },
+    {
+      "id": "155468923c02ed0ba5c44f0d9b05a059",
+      "title": "iOS 27 veut bloquer les arnaqueurs en temps réel",
+      "link": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel.html",
+      "summary": "Le scénario est toujours le même. Un faux conseiller bancaire au bout du fil, avec un ton pressant qui vous répète de valider vite, et vous confirmez un virement que vous regretterez très fort avant la fin de la journ...",
+      "published": "2026-07-03T08:24:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel-1.jpg"
+    },
+    {
+      "id": "65a840805b6a0f8552a3c00f800dda0b",
+      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs,...",
+      "published": "2026-07-03T08:03:37+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
+    },
+    {
+      "id": "80b29678326580d30e0c92a3ae2b9a5a",
+      "title": "Vos fichiers protégés à vie, et cette fois personne ne vous les piquera",
+      "link": "https://korben.info/vos-fichiers-proteges-a-vie.html",
+      "summary": "-- Article en partenariat avec pCloud -- Vous vous souvenez de l'époque où stocker ses photos dans le cloud, c'était synonyme de \"donner ses données à Google pour qu'il les analyse et essaye de vous faire cliquer sur ...",
+      "published": "2026-07-03T08:00:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vos-fichiers-proteges-a-vie/vos-fichiers-proteges-a-vie-1.jpg"
+    },
+    {
+      "id": "e2192b41e43b85e54d3d615f49a193b6",
+      "title": "PamStealer : ce malware macOS valide votre mot de passe avant de le voler",
+      "link": "https://www.it-connect.fr/pamstealer-infostealer-macos-maccy-pam/",
+      "summary": "PamStealer, un infostealer macOS déguisé en Maccy, présente la particularité de valider le mot de passe via PAM avant de voler cookies et identifiants. Le post PamStealer : ce malware macOS valide votre mot de passe a...",
+      "published": "2026-07-03T07:42:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7d30b05bd1021ff3550bf255863c5eb7",
+      "title": "Brave 1.92 – le multi-comptes natif avec les Containers",
+      "link": "https://www.it-connect.fr/brave-1-92-le-multi-comptes-natif-avec-les-containers/",
+      "summary": "Brave 1.92 intègre nativement les Containers sur desktop : des onglets cloisonnés pour rester connecté à plusieurs comptes d'un même site, sans extension. Le post Brave 1.92 – le multi-comptes natif avec les Container...",
+      "published": "2026-07-03T06:53:26+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f432da86dcf7b4f81d4246e8da5f2c2b",
+      "title": "OpenVPN : 7 failles corrigées, risque de crash du serveur",
+      "link": "https://www.it-connect.fr/openvpn-7-failles-corrigees-risque-de-crash-du-serveur/",
+      "summary": "OpenVPN 2.7.5 corrige sept vulnérabilités : use-after-free, fuites mémoire et débordements de tampon, dont plusieurs peuvent faire planter un serveur VPN. Le post OpenVPN : 7 failles corrigées, risque de crash du serv...",
+      "published": "2026-07-03T06:24:33+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4a879af026e8ead0d7f93d11444e2c47",
+      "title": "Google Chrome : 382 failles corrigées d’un coup, un record largement porté par l’IA",
+      "link": "https://www.it-connect.fr/google-chrome-151-382-failles-corrigees-ia/",
+      "summary": "Google a publié Chrome 151 et a corrigé 382 vulnérabilités, dont 15 critiques, via une seule mise à jour. Un correctif record largement porté par l'IA. Le post Google Chrome : 382 failles corrigées d’un coup, un recor...",
+      "published": "2026-07-03T04:54:03+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "03cd72511e24e4f79f0d9319499866e4",
       "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
@@ -38,6 +118,16 @@
       "link": "https://www.it-connect.fr/botnet-rustduck-attaques-ddos-routeurs-serveurs/",
       "summary": "Le botnet RustDuck cible routeurs, caméras et serveurs pour lancer des attaques DDoS. Réécriture en Rust et arsenal anti-analyse : voici ce qu'il faut savoir. Le post Le botnet RustDuck détourne routeurs, caméras et s...",
       "published": "2026-07-02T23:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6476d0619dc2ec5baefc8c0cb8a964e4",
+      "title": "Les montres connectées Xiaomi en 2026 : tendances et nouveautés",
+      "link": "https://www.it-connect.fr/montres-connectees-xiaomi-en-2026/",
+      "summary": "Découvrez la gamme de montres connectées Xiaomi en 2026 : caractéristiques, autonomie, suivi de santé et options de personnalisation des différents modèles. Le post Les montres connectées Xiaomi en 2026 : tendances et...",
+      "published": "2026-07-02T22:45:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -230,7 +320,7 @@
       "published": "2026-07-02T09:53:19+00:00",
       "source": "Korben",
       "category": "outils",
-      "image": "https://korben.info/sipeed-nanokvm-go/sipeed-nanokvm-go-1.avif"
+      "image": "https://korben.info/sipeed-nanokvm-go/sipeed-nanokvm-go-1.jpg"
     },
     {
       "id": "0fd2d78cefeac667f52b25c98d268b8f",
@@ -303,36 +393,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEHDpcGNoddFf8yfkJ1L21X61VSA66xZiVjYA5qdfJpZ8tyWxzRy7Il8fwcY59pRUm7mlNChrPHhjySmFLV-dHEIdZiOXj0ZDQ9Wv8yxgfU8qKm_ga3kYcNer9z85cj7KwtYkRuxGtPaNUL0ebiuM2SILSWMVr-fZtnVFejlJ24h48ECds-iMQBTW3vHb/s1600/cisa-ms.jpg"
     },
     {
-      "id": "79ef9046d5c9b549703e52eb88723fd5",
-      "title": "SpudCell - La première cellule artificielle complète",
-      "link": "https://korben.info/cellule-artificielle-cycle-vie-complet.html",
-      "summary": "Les humains font vraiment des trucs de dingues. Surtout les scientifiques !! On a 2 biochimistes de l'Université du Minnesota (Kate Adamala et Aaron Engelhart) qui viennent de créer SpudCell, la première cellule artif...",
-      "published": "2026-07-02T05:13:41+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cellule-artificielle-cycle-vie-complet/cellule-artificielle-cycle-vie-complet-1.png"
-    },
-    {
-      "id": "85c125b02b5ca7b8b2313eb6f8be8dc9",
-      "title": "Apple corrige plus de 30 failles sur iOS et macOS découvertes en partie avec l’IA",
-      "link": "https://www.it-connect.fr/apple-corrige-plus-de-30-failles-sur-ios-et-macos-decouvertes-en-partie-avec-lia/",
-      "summary": "Apple publie iOS, iPadOS et macOS Tahoe 26.5.2 pour corriger plus de trente failles, dont quatre trouvées via l'IA, et livre ses correctifs plus tôt que prévu. Le post Apple corrige plus de 30 failles sur iOS et macOS...",
-      "published": "2026-07-02T05:09:54+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0eaa888011cfdedba88cbb4ff10fc52b",
-      "title": "Un ransomware dans le navigateur ? Suffit de demander à DeepSeek",
-      "link": "https://korben.info/deepseek-ransomware-navigateur.html",
-      "summary": "Dans la série \"Qu'est-ce qu'on se marre avec les LLMs\", des chercheurs en cybersécurité de Check Point ont tenté une expérience plutôt fun (enfin, je trouve ^^) : Demander à DeepSeek de leur coder un ransomware capabl...",
-      "published": "2026-07-02T04:51:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/deepseek-ransomware-navigateur/deepseek-ransomware-navigateur-1.png"
-    },
-    {
       "id": "7defa9155809ab1521b4856ac4e05df8",
       "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
       "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
@@ -340,66 +400,6 @@
       "published": "2026-07-02T04:25:42+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6204345eb2359f1ef1a87666de2ff6f8",
-      "title": "SpaceX aurait développé un appareil IA plus fin qu'un iPhone - Elon Musk dément",
-      "link": "https://korben.info/spacex-appareil-ia-plus-fin-iphone.html",
-      "summary": "D'après le Wall Street Journal , SpaceX bosserait sur un appareil IA qui serait plus fin qu'un iPhone. Évidemment, ça hype tout le monde, alors je me suis un peu renseigné. Ce serait un petit boitier au look de smartp...",
-      "published": "2026-07-01T22:24:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/spacex-appareil-ia-plus-fin-iphone/spacex-appareil-ia-plus-fin-iphone-1.png"
-    },
-    {
-      "id": "ea36e4db98f1fe541abdc795a5600c9b",
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal net...",
-      "published": "2026-07-01T19:40:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9emdIsaMBcMQoyS0ot-ckXq8LWhMk6P2zAm3WdCVFBhRMNUqN6E1vZqllIq6qYHBvGm8WhCGi8C3PLUNOecmNYU4LLoWH5zRBadBejDgpbC5DihDwqiYAMLpZNsQBk2MsiN89nt-honwtPiQzjg4fDUp5w2aiCXWZBKk94qHwfG4yEHak6zoZuNmXKgY/s1600/argo-cd.jpg"
-    },
-    {
-      "id": "56d0173ba11898adb22caf0e996365e9",
-      "title": "Claude Fable 5 est de retour, et Anthropic lance Sonnet 5 dans la foulée",
-      "link": "https://www.it-connect.fr/claude-fable-5-est-de-retour-et-anthropic-lance-sonnet-5-dans-la-foulee/",
-      "summary": "Anthropic rétablit l'accès à Claude Fable 5 ce mercredi 1er juillet 2026 et lance Sonnet 5, presque aussi performant qu'Opus 4.8 mais moins cher. Le post Claude Fable 5 est de retour, et Anthropic lance Sonnet 5 dans ...",
-      "published": "2026-07-01T06:52:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "864d82fb8ae790e953e2a1e584703cf4",
-      "title": "Intune : gestion des vulnérabilités et mises à jour des apps, découvrez les nouveautés de juin 2026",
-      "link": "https://www.it-connect.fr/intune-nouveautes-de-juin-2026/",
-      "summary": "Microsoft détaille les nouveautés Intune de juin 2026 : un agent IA pour hiérarchiser les CVE et des mises à jour d'applications automatiques. Le post Intune : gestion des vulnérabilités et mises à jour des apps, déco...",
-      "published": "2026-07-01T04:52:09+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "37840647fbb53fcbd3ae257aa7d9b073",
-      "title": "Apple Container : bien débuter avec les conteneurs macOS",
-      "link": "https://www.it-connect.fr/conteneurs-macos-apple-container/",
-      "summary": "Découvrez Apple Container, l'outil open source pour exécuter des conteneurs Linux sur macOS : installation, commandes, équivalent Compose et clients GUI. Le post Apple Container : bien débuter avec les conteneurs macO...",
-      "published": "2026-06-30T14:13:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d53e2168727aa71e6e2b70dcb91c7de5",
-      "title": "container machine : un environnement Linux sur Mac, façon WSL",
-      "link": "https://www.it-connect.fr/container-machine-linux-sur-mac/",
-      "summary": "Faire tourner Linux sur Mac avec container machine, le mode de l'outil Apple Container qui offre un environnement Linux persistant : un équivalent de WSL. Le post container machine : un environnement Linux sur Mac, fa...",
-      "published": "2026-06-30T14:13:22+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
       "image": ""
     },
     {
