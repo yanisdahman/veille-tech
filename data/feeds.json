@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-04T13:17:42.649878+00:00",
+  "last_updated": "2026-07-04T19:06:32.533548+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0a4428d5fdfdcb61f1f239063186fcec",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+      "published": "2026-07-04T14:16:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "da3100ccc13cee2e3fe2d12d2cbaf958",
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the ...",
+      "published": "2026-07-04T12:47:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg"
+    },
     {
       "id": "4475c81b7436e8daa4353902b4f4747f",
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
@@ -313,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
     },
     {
-      "id": "77f12a272980622074814c38fb498df8",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, commo...",
-      "published": "2026-07-02T18:30:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg"
-    },
-    {
       "id": "35bc7f542e28ab60ff013d3427b9698b",
       "title": "Technitium DNS Server : bloquer les pubs et héberger son DNS",
       "link": "https://www.it-connect.fr/technitium-dns-server/",
@@ -388,16 +398,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
       "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
       "published": "2026-07-02T10:52:43+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0a00fa736cb4762f2f8e613a519f3bff",
-      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-      "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
-      "published": "2026-07-02T10:46:58+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
