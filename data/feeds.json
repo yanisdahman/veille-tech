@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-07-06T02:53:21.323648+00:00",
-  "count": 40,
+  "last_updated": "2026-07-06T10:12:42.337880+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "2d39045915785731a8c2548037644d13",
+      "title": "Comment j'ai fait mon catalogue de vide-maison sans toucher à Figma",
+      "link": "https://korben.info/figma-mcp-claude-code-retour-experience.html",
+      "summary": "Je déménage bientôt, et comme je quitte ma jolie campagne pour aller dans un endroit plus petit et sans nature (ouin), je dois me débarrasser de pas mal de matériel... Ponceuse, débroussailleuse, taille-haie, tronçonn...",
+      "published": "2026-07-06T09:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/figma-mcp-claude-code-retour-experience/figma-mcp-claude-code-retour-experience-1.jpg"
+    },
+    {
+      "id": "7da960865d2be7b9596dd357c9ceb610",
+      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+      "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that t...",
+      "published": "2026-07-06T08:50:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg"
+    },
+    {
+      "id": "f6101c09931377707497819257704d5b",
+      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+      "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+      "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malwa...",
+      "published": "2026-07-06T08:13:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
+    },
+    {
+      "id": "f6c29e4e70ccd68eee38d5dd216fc1f1",
+      "title": "FatFs : 7 failles non patchées menacent des millions de systèmes embarqués",
+      "link": "https://www.it-connect.fr/fatfs-sept-failles-sans-correctif-appareils-iot/",
+      "summary": "Sept failles non corrigées frappent FatFs, une brique logicielle présente dans des millions de systèmes embarqués. Mais, c'est difficile à patcher. Le post FatFs : 7 failles non patchées menacent des millions de systè...",
+      "published": "2026-07-06T07:56:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d32fe1565044020b030465e7ba1cd0c9",
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+      "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In...",
+      "published": "2026-07-06T07:27:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg"
+    },
+    {
+      "id": "c2f724e50012ff729ac23b122a1a3730",
+      "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
+      "link": "https://korben.info/baremetal-ram-dumper-cold-boot-attack.html",
+      "summary": "Vous branchez une clé USB sur un PC, vous démarrez dessus, et le temps de vous servir un petit café, hop, tout le contenu de la mémoire vive est recopié sur la clé. Le rêve pour les gens qui font du forensic, car dans...",
+      "published": "2026-07-06T07:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/baremetal-ram-dumper-cold-boot-attack/baremetal-ram-dumper-cold-boot-attack-1.jpg"
+    },
+    {
+      "id": "6f394a28950ac260ed115e08e69fd727",
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Sci...",
+      "published": "2026-07-06T06:33:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg"
+    },
+    {
+      "id": "364d875a27e32109bab6e1a99fc0265b",
+      "title": "Bad Epoll : la faille Linux qui donne un accès root sur Android, et que l’IA Mythos n’avait pas vue",
+      "link": "https://www.it-connect.fr/bad-epoll-faille-noyau-linux-android-acces-root/",
+      "summary": "Bad Epoll (CVE-2026-46242) permet à un utilisateur local de devenir root sur Linux et Android. Une faille que l'IA Mythos avait laissé passer. Le post Bad Epoll : la faille Linux qui donne un accès root sur Android, e...",
+      "published": "2026-07-06T05:37:07+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8ad396775f80fca037923c5c9b90e63f",
+      "title": "Command & Conquer Generals débarque sur iOS / macOS - Merci l'IA !",
+      "link": "https://korben.info/command-conquer-generals-zero-hour-ios-mac.html",
+      "summary": "Il y a six mois, je vous parlais de Command & Conquer Generals, un jeu mort depuis 12 ans qu’un ver s’amusait à attaquer. Hé bien Ammaar Reshi, un designer connu pour ses projets IA (dont un livre pour enfants généré ...",
+      "published": "2026-07-05T14:41:04+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/command-conquer-generals-zero-hour-ios-mac/command-conquer-generals-zero-hour-ios-mac-1.png"
+    },
     {
       "id": "c53cdb933007595799df411b7d31a2a4",
       "title": "Flipper Zero firmware development continues with community help",
@@ -43,6 +133,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
     },
     {
+      "id": "f1151fb41174241a6c4fea9ac69cea6e",
+      "title": "wacli - Archivez tout WhatsApp en local et faites-y des recherches hors ligne",
+      "link": "https://korben.info/wacli-whatsapp-cli-steipete.html",
+      "summary": "Peter Steinberger, le papa de PSPDFKit , s'est mis en tête de faire sortir WhatsApp de sa prison dorée. Et pour cela, il a mis au point wacli, un client WhatsApp qui tourne exclusivement dans votre terminal. Ça se com...",
+      "published": "2026-07-04T08:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/wacli-whatsapp-cli-steipete/wacli-whatsapp-cli-steipete-1.png"
+    },
+    {
       "id": "05bf5e79981fa7f928e47c1243696610",
       "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
       "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
@@ -51,6 +151,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
+    },
+    {
+      "id": "60f2c48900e4f1a244c15a21cbd9e7f8",
+      "title": "Mars Attack à l'envers ?",
+      "link": "https://korben.info/panspermie-humaine-semer-vie-espace.html",
+      "summary": "Depuis plus d'un siècle, des scientifiques sérieux (en général, ce sont ceux avec du poil sur le nez) se demandent si la vie sur Terre ne serait pas tombée du ciel, portée par un astéroïde. Ce serait fou, non ? C'est ...",
+      "published": "2026-07-03T20:01:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/panspermie-humaine-semer-vie-espace/panspermie-humaine-semer-vie-espace-1.png"
     },
     {
       "id": "d8e23367fb10f678fb2c7754c4cf6500",
@@ -103,14 +213,14 @@
       "image": ""
     },
     {
-      "id": "f8a424b44be48a7b1fbc7052c7371c40",
-      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blen...",
-      "published": "2026-07-03T13:36:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
+      "id": "e8479cdfe01dc44f8c363d0398ffea89",
+      "title": "RomM - Le gestionnaire de ROMs des retro gamers sérieux",
+      "link": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html",
+      "summary": "Vous galérez avec vos ROMs de jeux rétro éparpillées un peu partout sur votre PC ? Vous passez des heures à chercher le bon émulateur, les bons fichiers, les bonnes versions ? Et bien tout ça c'est fini, grâce à RomM ...",
+      "published": "2026-07-03T13:28:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime-1.webp"
     },
     {
       "id": "8f3b9a2d54847ba0e764111f8f1de715",
@@ -123,24 +233,44 @@
       "image": ""
     },
     {
-      "id": "c2a08bc857089361a8c03e12a2e3a9d4",
-      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-      "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
-      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee th...",
-      "published": "2026-07-03T11:05:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
+      "id": "806ed30c626bbe28bd456684bfba0ff9",
+      "title": "Microsoft a imaginé un Windows sans applications, juste Copilot",
+      "link": "https://korben.info/microsoft-project-aion-copilot-os.html",
+      "summary": "Honnêtement, avec la puissance actuelle de nos LLM, finalement, est-ce qu'on a encore besoin d'avoir des applications ? Un outil type Claude Code ou Microsoft Copilot, à côté, un gros tas de données diverses et variée...",
+      "published": "2026-07-03T11:55:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/microsoft-project-aion-copilot-os/microsoft-project-aion-copilot-os-1.png"
     },
     {
-      "id": "65a840805b6a0f8552a3c00f800dda0b",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs,...",
-      "published": "2026-07-03T08:03:37+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
+      "id": "5e89383be23983f7c87cda3cbe046e5b",
+      "title": "Un cafard cyborg en combinaison de plongée",
+      "link": "https://korben.info/cafard-cyborg-plongee-sous-marine.html",
+      "summary": "Un cafard qui plonge et reste sous l'eau trois heures d'affilée, ça n'existait pas jusqu'à la semaine dernière. L'équipe d'Hirotaka Sato, à la NTU de Singapour, avec leurs collègues de l'université Waseda au Japon, vi...",
+      "published": "2026-07-03T11:01:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cafard-cyborg-plongee-sous-marine/cafard-cyborg-plongee-sous-marine-1.png"
+    },
+    {
+      "id": "275fa3521e26720f472653085fd79ce7",
+      "title": "Valve refuse de vendre ce faceplate e-ink mais file les plans",
+      "link": "https://korben.info/steam-machine-faceplate-eink-3d-print.html",
+      "summary": "Ils sont trop sympas chez Valve ! Ils viennent de balancer sur GitLab tous les fichiers nécessaires à la fabrication d'un FacePlate pour leur Steam Machine avec un écran e-ink intégré. Les plans 3D, la liste des compo...",
+      "published": "2026-07-03T09:34:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/steam-machine-faceplate-eink-3d-print/steam-machine-faceplate-eink-3d-print-1.jpg"
+    },
+    {
+      "id": "a113fd142e340e89deba3bc25a1b732d",
+      "title": "Pegasus a espionné l'eurodéputé qui enquêtait sur... Pegasus",
+      "link": "https://korben.info/pegasus-membre-commission-pega-parlement-europeen.html",
+      "summary": "Stelios Kouloglou, ancien eurodéputé grec, et journaliste d'investigation, siégeait à la commission PEGA du Parlement européen et à l'époque, son cheval de bataille c'était de traquer Pegasus, le mouchard pour smartph...",
+      "published": "2026-07-03T09:28:35+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pegasus-membre-commission-pega-parlement-europeen/pegasus-membre-commission-pega-parlement-europeen-1.png"
     },
     {
       "id": "e2192b41e43b85e54d3d615f49a193b6",
@@ -233,26 +363,6 @@
       "image": ""
     },
     {
-      "id": "cf4bf0c55185d883a046bd25b5a154e7",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group ...",
-      "published": "2026-07-02T18:54:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
-    },
-    {
-      "id": "35bc7f542e28ab60ff013d3427b9698b",
-      "title": "Technitium DNS Server : bloquer les pubs et héberger son DNS",
-      "link": "https://www.it-connect.fr/technitium-dns-server/",
-      "summary": "Installez Technitium DNS Server sur Linux avec Docker et configurez la récursion native, le blocage des publicités, vos zones DNS et d'autres fonctionnalités. Le post Technitium DNS Server : bloquer les pubs et héberg...",
-      "published": "2026-07-02T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "9149e58485c6934654d0772fbd617ac6",
       "title": "Google loses final appeal to overturn €4.1 billion EU fine",
       "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
@@ -290,16 +400,6 @@
       "published": "2026-07-02T11:35:25+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e60a2469e2a3f601533665216c3c5097",
-      "title": "oomwoo : l’aspirateur robot open source que l’on fabrique soi-même, sans cloud",
-      "link": "https://www.it-connect.fr/oomwoo-aspirateur-robot-open-source/",
-      "summary": "oomwoo, c'est l'aspirateur robot open source à monter soi-même : Raspberry Pi, imprimante 3D, ROS 2 et 100 % local. Bye bye le cloud et le vendor lock-in. Le post oomwoo : l’aspirateur robot open source que l’on fabri...",
-      "published": "2026-07-02T11:09:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
       "image": ""
     },
     {
