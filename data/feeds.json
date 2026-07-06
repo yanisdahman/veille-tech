@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-07-06T10:12:42.337880+00:00",
+  "last_updated": "2026-07-06T15:24:54.523269+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "5fb4e12d52595b0131f50048daea8fba",
+      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+      "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have tra...",
+      "published": "2026-07-06T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5ff5d4d3531ddf06cd7430dd1b6fa255",
+      "title": "Nomlings - Le Tamagotchi affamé qui dévore vos tokens Claude Code",
+      "link": "https://korben.info/nomlings-tamagotchi-claude-code.html",
+      "summary": "Nomlings, c'est un Tamagotchi qui vit à côté de votre terminal, et dont la seule nourriture, ce sont les tokens que crament vos sessions Claude Code. Vous bossez, il mange. Vous glandez, il patiente. Et pendant que vo...",
+      "published": "2026-07-06T13:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/nomlings-tamagotchi-claude-code/nomlings-tamagotchi-claude-code-1.png"
+    },
+    {
+      "id": "fdcfae22facc6a6af3b4473806e2b448",
+      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]",
+      "published": "2026-07-06T13:18:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e2e70e897ddd730992e6c1374f10c79d",
+      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home d...",
+      "published": "2026-07-06T13:01:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg"
+    },
+    {
+      "id": "73b69658b6e28d3aa14374a4075a40cd",
+      "title": "Dawarich : l’alternative open source et auto-hébergée à Google Timeline",
+      "link": "https://www.it-connect.fr/dawarich-alternative-auto-hebergee-google-timeline/",
+      "summary": "Google Maps Timeline a disparu du web et votre historique de localisation s'efface ? Dawarich, alternative open source et auto-hébergée, prend le relais. Le post Dawarich : l’alternative open source et auto-hébergée à...",
+      "published": "2026-07-06T12:46:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5e2c63a270001d16f351434bd8ad91e8",
+      "title": "Kordle - Le jeu tech de l'été",
+      "link": "https://korben.info/kordle-le-jeu-tech-de-lete.html",
+      "summary": "Histoire de m'amuser un peu ce weekend, et de vous proposer un truc fun pour vous occuper 30 secondes cet été, je vous ai mis en ligne un petit jeu qui reprend le concept de Wordle (où il faut deviner des mots) mais e...",
+      "published": "2026-07-06T12:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/kordle-le-jeu-tech-de-lete/kordle-le-jeu-tech-de-lete-1.png"
+    },
+    {
+      "id": "4fc2a2785967dbe4b6596d94b5599bcf",
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolte...",
+      "published": "2026-07-06T11:30:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg"
+    },
+    {
+      "id": "4b4a108c788d00c1060537dc6919ce2f",
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from comp...",
+      "published": "2026-07-06T10:58:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg"
+    },
     {
       "id": "2d39045915785731a8c2548037644d13",
       "title": "Comment j'ai fait mon catalogue de vide-maison sans toucher à Figma",
@@ -163,26 +243,6 @@
       "image": "https://korben.info/panspermie-humaine-semer-vie-espace/panspermie-humaine-semer-vie-espace-1.png"
     },
     {
-      "id": "d8e23367fb10f678fb2c7754c4cf6500",
-      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-      "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-      "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is ...",
-      "published": "2026-07-03T19:40:01+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
-    },
-    {
-      "id": "dfa2effb540b9254cd94632bc0473b33",
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security cont...",
-      "published": "2026-07-03T18:55:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
-    },
-    {
       "id": "4290d6efe58468c099744a6299fa3cdb",
       "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
       "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
@@ -191,16 +251,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "bac9ac0517ac021151fa6e8f526d6364",
-      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-      "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages ...",
-      "published": "2026-07-03T16:07:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
     },
     {
       "id": "2d21a38e34f93944c6416147e43ea8fe",
@@ -251,26 +301,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/cafard-cyborg-plongee-sous-marine/cafard-cyborg-plongee-sous-marine-1.png"
-    },
-    {
-      "id": "275fa3521e26720f472653085fd79ce7",
-      "title": "Valve refuse de vendre ce faceplate e-ink mais file les plans",
-      "link": "https://korben.info/steam-machine-faceplate-eink-3d-print.html",
-      "summary": "Ils sont trop sympas chez Valve ! Ils viennent de balancer sur GitLab tous les fichiers nécessaires à la fabrication d'un FacePlate pour leur Steam Machine avec un écran e-ink intégré. Les plans 3D, la liste des compo...",
-      "published": "2026-07-03T09:34:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/steam-machine-faceplate-eink-3d-print/steam-machine-faceplate-eink-3d-print-1.jpg"
-    },
-    {
-      "id": "a113fd142e340e89deba3bc25a1b732d",
-      "title": "Pegasus a espionné l'eurodéputé qui enquêtait sur... Pegasus",
-      "link": "https://korben.info/pegasus-membre-commission-pega-parlement-europeen.html",
-      "summary": "Stelios Kouloglou, ancien eurodéputé grec, et journaliste d'investigation, siégeait à la commission PEGA du Parlement européen et à l'époque, son cheval de bataille c'était de traquer Pegasus, le mouchard pour smartph...",
-      "published": "2026-07-03T09:28:35+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pegasus-membre-commission-pega-parlement-europeen/pegasus-membre-commission-pega-parlement-europeen-1.png"
     },
     {
       "id": "e2192b41e43b85e54d3d615f49a193b6",
@@ -353,16 +383,6 @@
       "image": ""
     },
     {
-      "id": "6476d0619dc2ec5baefc8c0cb8a964e4",
-      "title": "Les montres connectées Xiaomi en 2026 : tendances et nouveautés",
-      "link": "https://www.it-connect.fr/montres-connectees-xiaomi-en-2026/",
-      "summary": "Découvrez la gamme de montres connectées Xiaomi en 2026 : caractéristiques, autonomie, suivi de santé et options de personnalisation des différents modèles. Le post Les montres connectées Xiaomi en 2026 : tendances et...",
-      "published": "2026-07-02T22:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "9149e58485c6934654d0772fbd617ac6",
       "title": "Google loses final appeal to overturn €4.1 billion EU fine",
       "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
@@ -378,26 +398,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
       "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
       "published": "2026-07-02T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fdf987528534ce49435f33b00daae90b",
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
-      "published": "2026-07-02T12:15:47+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "cacfd6984d090096af00c2bbbde609c8",
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
-      "published": "2026-07-02T11:35:25+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -433,6 +433,46 @@
       "image": ""
     },
     {
+      "id": "12e8cdb973d759bcdc6ce20ab48addfd",
+      "title": "Multiples vulnérabilités dans Tenable Nessus (26 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0804/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer une injection SQL (SQLi).",
+      "published": "2026-06-26T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "98cf04e135d6a8c25a5e8f194632e4eb",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (26 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0808/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
+      "published": "2026-06-26T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fd572c28ffe0ad3213e4f13eb505b8bc",
+      "title": "Multiples vulnérabilités dans Asterisk (26 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0805/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement d...",
+      "published": "2026-06-26T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9b8f145b4fcf9344300ff47f95135527",
+      "title": "Multiples vulnérabilités dans Google Chrome (26 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0803/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-26T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "d48d3120cd421a84c0197c276757f0c3",
       "title": "Multiples vulnérabilités dans Microsoft Azure Linux (25 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0802/",
@@ -453,51 +493,11 @@
       "image": ""
     },
     {
-      "id": "d473d641a0b57d1db6fc8dc5baba2913",
-      "title": "Multiples vulnérabilités dans GitLab (25 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0799/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur (SS...",
-      "published": "2026-06-25T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "11e4ae272797143c3c91ca06a6b6f360",
       "title": "Multiples vulnérabilités dans CPython (25 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0800/",
       "summary": "De multiples vulnérabilités ont été découvertes dans CPython. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte...",
       "published": "2026-06-25T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c85fa9f1c26085c0a5c593f37abeb503",
-      "title": "Multiples vulnérabilités dans cURL et libcurl (24 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0797/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans cURL et libcurl. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un c...",
-      "published": "2026-06-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3b987f4a82fcf20542f2d91605d331b1",
-      "title": "Multiples vulnérabilités dans Tenable Identity Exposure (24 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0796/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance...",
-      "published": "2026-06-24T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1b39ea71f46685566ac6a8e5ee37374f",
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (24 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0798/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-24T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
