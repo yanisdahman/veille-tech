@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-07-07T02:47:47.201528+00:00",
+  "last_updated": "2026-07-07T09:35:31.208424+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e135ef3629a38e3c27801ef20da13c14",
+      "title": "Forensic Windows – Partie 4 : exploiter le SuperFetch",
+      "link": "https://www.it-connect.fr/forensic-windows-partie-4-exploiter-le-superfetch/",
+      "summary": "SuperFetch (SysMain) recèle de précieuses traces d'exécution. Où trouver ses fichiers Ag*.db et comment les analyser avec SysMainView sous Windows 10 et 11. Le post Forensic Windows – Partie 4 : exploiter le SuperFetc...",
+      "published": "2026-07-07T09:30:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9bb1b547431541eb54f0498c84c008ad",
+      "title": "Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple",
+      "link": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage.html",
+      "summary": "Posez votre doigt sur un capteur et hop, votre session s'ouvre. Sur un Mac, ce petit confort passe par exemple par le Magic Keyboard avec Touch ID (lien affilié) parce qu'Apple réserve la biométrie à son propre matéri...",
+      "published": "2026-07-07T08:51:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage/tinytouch-esp32-empreinte-deverrouillage-1.webp"
+    },
+    {
+      "id": "a751616b18064ef5a9f0c3d5508ff8fb",
+      "title": "BeyondTrust warns of critical flaws in remote access software",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+      "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
+      "published": "2026-07-07T08:12:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f0490e930bf67037a3c549a918ca7fca",
+      "title": "Windows 11 : avec Cloud rebuild, Microsoft réinstalle votre PC depuis le cloud, même s’il ne démarre plus",
+      "link": "https://www.it-connect.fr/windows-11-cloud-rebuild-reinstallation-cloud/",
+      "summary": "Microsoft teste Cloud rebuild sur Windows 11 : réinstallation complète de l'OS et des pilotes via Windows Update, sans clé USB, même si le PC ne démarre plus. Le post Windows 11 : avec Cloud rebuild, Microsoft réinsta...",
+      "published": "2026-07-07T07:45:08+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "64cf0b821bea0ff8b6a691092ae40985",
+      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
+      "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
+      "published": "2026-07-07T07:37:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "648c521b6be34e029e54f1398ed1d8db",
+      "title": "Windows 11 26H2 : la sauvegarde des paramètres activée par défaut sur les PC",
+      "link": "https://www.it-connect.fr/windows-11-26h2-windows-backup-organizations-active-par-defaut/",
+      "summary": "Avec Windows 11 26H2, Microsoft activera par défaut la sauvegarde des paramètres sur les PC d'entreprise. Les appareils situés dans l'UE ne sont pas concernés. Le post Windows 11 26H2 : la sauvegarde des paramètres ac...",
+      "published": "2026-07-07T07:12:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4ddf0e4bf87721a30497ac7bcc0dc3e2",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management int...",
+      "published": "2026-07-07T06:40:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
+    },
+    {
+      "id": "7efe8d588960f06fedcfdc1517aeb34c",
+      "title": "Un faux « admin système » sur Microsoft Teams déploie le malware EtherRAT",
+      "link": "https://www.it-connect.fr/faux-support-microsoft-teams-etherrat/",
+      "summary": "Selon Unit 42, de faux appels du support IT sur Microsoft Teams piègent les salariés pour installer le malware EtherRAT sur leur poste Windows. Le post Un faux « admin système » sur Microsoft Teams déploie le malware ...",
+      "published": "2026-07-07T06:02:20+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "eb63274753a8fe9fcad12e5c626abe71",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers ...",
+      "published": "2026-07-07T05:16:51+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg"
+    },
     {
       "id": "c1d5d586e3eaf76d2fc753ad7b35b330",
       "title": "France Vue : une appli gratuite pour explorer la France en 3D avec les données de l’IGN",
@@ -213,16 +303,6 @@
       "image": ""
     },
     {
-      "id": "d32fe1565044020b030465e7ba1cd0c9",
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In...",
-      "published": "2026-07-06T07:27:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg"
-    },
-    {
       "id": "c2f724e50012ff729ac23b122a1a3730",
       "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
       "link": "https://korben.info/baremetal-ram-dumper-cold-boot-attack.html",
@@ -231,16 +311,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/baremetal-ram-dumper-cold-boot-attack/baremetal-ram-dumper-cold-boot-attack-1.jpg"
-    },
-    {
-      "id": "6f394a28950ac260ed115e08e69fd727",
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Sci...",
-      "published": "2026-07-06T06:33:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg"
     },
     {
       "id": "364d875a27e32109bab6e1a99fc0265b",
@@ -313,16 +383,6 @@
       "image": ""
     },
     {
-      "id": "2d21a38e34f93944c6416147e43ea8fe",
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Micro...",
-      "published": "2026-07-03T14:12:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "e8479cdfe01dc44f8c363d0398ffea89",
       "title": "RomM - Le gestionnaire de ROMs des retro gamers sérieux",
       "link": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html",
@@ -333,16 +393,6 @@
       "image": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime-1.webp"
     },
     {
-      "id": "8f3b9a2d54847ba0e764111f8f1de715",
-      "title": "Project Aion : le Windows 100 % IA que Microsoft a caché",
-      "link": "https://www.it-connect.fr/project-aion-os-ia-microsoft/",
-      "summary": "La démo interne de Project Aion a fuité : un OS agentique de Microsoft bâti sur Edge, où Copilot remplace le menu Démarrer et l'IA pilote tout. Le post Project Aion : le Windows 100 % IA que Microsoft a caché a été pu...",
-      "published": "2026-07-03T12:05:12+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "806ed30c626bbe28bd456684bfba0ff9",
       "title": "Microsoft a imaginé un Windows sans applications, juste Copilot",
       "link": "https://korben.info/microsoft-project-aion-copilot-os.html",
@@ -351,56 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/microsoft-project-aion-copilot-os/microsoft-project-aion-copilot-os-1.png"
-    },
-    {
-      "id": "5e89383be23983f7c87cda3cbe046e5b",
-      "title": "Un cafard cyborg en combinaison de plongée",
-      "link": "https://korben.info/cafard-cyborg-plongee-sous-marine.html",
-      "summary": "Un cafard qui plonge et reste sous l'eau trois heures d'affilée, ça n'existait pas jusqu'à la semaine dernière. L'équipe d'Hirotaka Sato, à la NTU de Singapour, avec leurs collègues de l'université Waseda au Japon, vi...",
-      "published": "2026-07-03T11:01:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cafard-cyborg-plongee-sous-marine/cafard-cyborg-plongee-sous-marine-1.png"
-    },
-    {
-      "id": "e2192b41e43b85e54d3d615f49a193b6",
-      "title": "PamStealer : ce malware macOS valide votre mot de passe avant de le voler",
-      "link": "https://www.it-connect.fr/pamstealer-infostealer-macos-maccy-pam/",
-      "summary": "PamStealer, un infostealer macOS déguisé en Maccy, présente la particularité de valider le mot de passe via PAM avant de voler cookies et identifiants. Le post PamStealer : ce malware macOS valide votre mot de passe a...",
-      "published": "2026-07-03T07:42:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7d30b05bd1021ff3550bf255863c5eb7",
-      "title": "Brave 1.92 – le multi-comptes natif avec les Containers",
-      "link": "https://www.it-connect.fr/brave-1-92-le-multi-comptes-natif-avec-les-containers/",
-      "summary": "Brave 1.92 intègre nativement les Containers sur desktop : des onglets cloisonnés pour rester connecté à plusieurs comptes d'un même site, sans extension. Le post Brave 1.92 – le multi-comptes natif avec les Container...",
-      "published": "2026-07-03T06:53:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f432da86dcf7b4f81d4246e8da5f2c2b",
-      "title": "OpenVPN : 7 failles corrigées, risque de crash du serveur",
-      "link": "https://www.it-connect.fr/openvpn-7-failles-corrigees-risque-de-crash-du-serveur/",
-      "summary": "OpenVPN 2.7.5 corrige sept vulnérabilités : use-after-free, fuites mémoire et débordements de tampon, dont plusieurs peuvent faire planter un serveur VPN. Le post OpenVPN : 7 failles corrigées, risque de crash du serv...",
-      "published": "2026-07-03T06:24:33+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "03cd72511e24e4f79f0d9319499866e4",
-      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
-      "published": "2026-07-03T01:37:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "856c2ca42383b7c8df5ec975d3a1a476",
