@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-07T14:25:26.753046+00:00",
+  "last_updated": "2026-07-07T19:50:39.353910+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "bde71ba4e1c2b20a87436e5fa0b948ed",
+      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
+      "published": "2026-07-07T18:52:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "09b8d0df23c81d7b4fe608665f684f00",
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
+      "published": "2026-07-07T17:27:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "375218aecbb4658a9adebc62b035b01e",
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture t...",
+      "published": "2026-07-07T17:10:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdqPEGRKkKA7pjGNpR8hijHzJLPvyPD1g1C8bTt91eLUOFdu6Jw99i8LFybvHG9SP3syQ8shdXpC6EhinlQoB9aTgBMtejiCWAzVhhTi0o3nCTKZeKNnwDY0J_Lbf9LGN-KIQIoJ7-GW2op-JUcBg64uz5Actwh7TsFEstwNx9fXnLj4SODskUpnX9TPE/s1600/android-trojan-telegram.jpg"
+    },
+    {
+      "id": "916346ef42a3f95d19e40dcdde2e555e",
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could...",
+      "published": "2026-07-07T16:37:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg"
+    },
+    {
+      "id": "e0177106d1957d728f2c3dcdcf1cf739",
+      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+      "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
+      "published": "2026-07-07T15:21:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c246501a51cbb336a7bed5b0f8095817",
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBE...",
+      "published": "2026-07-07T15:14:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__v7vicSomxW52wnr8HsJgQKf0vg3kdjUicmIUCMCDexaBZ68pLZzXKVSJxNEeBuBuEzueOldcd5GhtGQI-8eMqd9j0QWMqGScmbZpqBS9RFkXxXSfOZYhBSGqD8BBDfVUEn4RN86sKhgkl9xkJtYMl-7a2zsIU6LCC5j_U2BkupJGr3JqP9_GZCHfHtl/s1600/ms-device-code.jpg"
+    },
     {
       "id": "a9fbfb7c4fd1942390ab135a03602925",
       "title": "Januscape : 16 ans dans l’ombre pour cette faille KVM qui menace le cloud",
@@ -11,6 +71,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "abe9f09c818d3cd947f077d3ff13951c",
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on...",
+      "published": "2026-07-07T14:04:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg"
     },
     {
       "id": "5f19908e7dbcd92128640bf4f79d3ef8",
@@ -73,16 +143,6 @@
       "image": "https://korben.info/trojpix-exfiltration-air-gap-cable-video/trojpix-exfiltration-air-gap-cable-video-1.jpg"
     },
     {
-      "id": "5b4ed35bdf1c0616cdd4faec7a57dd5c",
-      "title": "Tromper les caméras de surveillance avec une veste",
-      "link": "https://korben.info/tromper-les-cameras-de-surveillance-avec-une-veste.html",
-      "summary": "Nicole Scheller a passé toutes ses études de mode à bosser sur un sujet qui compte pour elle : la contre-surveillance. Tout ceci a fini par devenir un vrai métier : depuis septembre 2023, sa marque Urban Privacy, mont...",
-      "published": "2026-07-07T12:25:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/tromper-les-cameras-de-surveillance-avec-une-veste/tromper-les-cameras-de-surveillance-avec-une-veste-1.webp"
-    },
-    {
       "id": "e7763346e1fe7e1560494ab711ed06f2",
       "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
@@ -101,16 +161,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/windows-11-capabilityaccessmanager-espace-disque/windows-11-capabilityaccessmanager-espace-disque-1.jpg"
-    },
-    {
-      "id": "2ff935e0811f2168da04c081470d91a3",
-      "title": "Ils ont transformé une simple vidéo YouTube en jeu Mario Kart jouable au clavier",
-      "link": "https://korben.info/ils-ont-transforme-une-simple-video-youtube-en-jeu-mario-kart-jouable-au-clavier.html",
-      "summary": "Voilà typiquement le genre de bidouille qui rappelle pourquoi internet est génial. Deux chaînes YouTube, Atlas Arcade et Animated Subtitles, ont mis en ligne une vidéo baptisée « Mario Kart but it's PLAYABLE in YouTub...",
-      "published": "2026-07-07T12:08:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ils-ont-transforme-une-simple-video-youtube-en-jeu-mario-kart-jouable-au-clavier/ils-ont-transforme-une-simple-video-youtube-en-jeu-mario-kart-jouable-au-clavier-1.jpg"
     },
     {
       "id": "7b56bcf92b29ecf3dc39d63e93dfe349",
@@ -283,56 +333,6 @@
       "image": ""
     },
     {
-      "id": "d47fade4fc4a48dc87c0c2c78d9b1806",
-      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-      "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
-      "published": "2026-07-06T20:23:45+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2bfca71c2efb35f9aa63953f8362436a",
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting ...",
-      "published": "2026-07-06T18:34:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg"
-    },
-    {
-      "id": "72fdcdeb0ed88bf1f7ef9283ba604934",
-      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-      "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
-      "published": "2026-07-06T18:25:06+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e94101ec945c29d07fee21c7182dc715",
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw...",
-      "published": "2026-07-06T17:37:01+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg"
-    },
-    {
-      "id": "7942e4adcd6cf799b4c153936d22f0e2",
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulner...",
-      "published": "2026-07-06T16:28:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge0sNgi3moDw0JpFy3UdFB6bK0oxjaqc8ORZFecu5QqxA_wgpoWT1t56L9u2wScSkxYHP2aLO3N01yCPd8IkTBEyc_MvxIaG6BKzneB0LcXuwO_nEorvNvyvuEL3Krp003q6xOF0gePQCXN_bDswxBIhqV7q89_HY9mIxJ5ySShQwtU_jSa9FQnt0tq0RU/s1600/admin.jpg"
-    },
-    {
       "id": "9602aa074db342057c855601c10e009a",
       "title": "Specops Device Trust : sécuriser vos accès au-delà de la MFA grâce à la validation de l’appareil",
       "link": "https://www.it-connect.fr/specops-device-trust-validation-appareil/",
@@ -340,16 +340,6 @@
       "published": "2026-07-06T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5fb4e12d52595b0131f50048daea8fba",
-      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-      "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have tra...",
-      "published": "2026-07-06T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -361,16 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/nomlings-tamagotchi-claude-code/nomlings-tamagotchi-claude-code-1.png"
-    },
-    {
-      "id": "e2e70e897ddd730992e6c1374f10c79d",
-      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home d...",
-      "published": "2026-07-06T13:01:14+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg"
     },
     {
       "id": "73b69658b6e28d3aa14374a4075a40cd",
@@ -393,6 +373,16 @@
       "image": "https://korben.info/kordle-le-jeu-tech-de-lete/kordle-le-jeu-tech-de-lete-1.png"
     },
     {
+      "id": "2d39045915785731a8c2548037644d13",
+      "title": "Comment j'ai fait mon catalogue de vide-maison sans toucher à Figma",
+      "link": "https://korben.info/figma-mcp-claude-code-retour-experience.html",
+      "summary": "Je déménage bientôt, et comme je quitte ma jolie campagne pour aller dans un endroit plus petit et sans nature (ouin), je dois me débarrasser de pas mal de matériel... Ponceuse, débroussailleuse, taille-haie, tronçonn...",
+      "published": "2026-07-06T09:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/figma-mcp-claude-code-retour-experience/figma-mcp-claude-code-retour-experience-1.jpg"
+    },
+    {
       "id": "f6c29e4e70ccd68eee38d5dd216fc1f1",
       "title": "FatFs : 7 failles non patchées menacent des millions de systèmes embarqués",
       "link": "https://www.it-connect.fr/fatfs-sept-failles-sans-correctif-appareils-iot/",
@@ -401,6 +391,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "c2f724e50012ff729ac23b122a1a3730",
+      "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
+      "link": "https://korben.info/baremetal-ram-dumper-cold-boot-attack.html",
+      "summary": "Vous branchez une clé USB sur un PC, vous démarrez dessus, et le temps de vous servir un petit café, hop, tout le contenu de la mémoire vive est recopié sur la clé. Le rêve pour les gens qui font du forensic, car dans...",
+      "published": "2026-07-06T07:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/baremetal-ram-dumper-cold-boot-attack/baremetal-ram-dumper-cold-boot-attack-1.jpg"
     },
     {
       "id": "ac9fb4b9408507b7758a3eafd576a658",
