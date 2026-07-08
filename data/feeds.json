@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-07-08T08:22:37.120295+00:00",
+  "last_updated": "2026-07-08T13:56:14.915279+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c25d9b4195e12e4eae526bee0cc3f71b",
+      "title": "Windows cache un identifiant secret que Microsoft file au FBI",
+      "link": "https://korben.info/windows-gdid-identifiant-mouchard-vpn.html",
+      "summary": "Putain, c'est abusé, vous allez voir ! Peter Stokes, 19 ans, accusé d'appartenir au groupe Scattered Spider, enchaînait les VPN et changeait de pays pour brouiller les pistes mais le FBI l'a quand même coincé. Et vous...",
+      "published": "2026-07-08T12:55:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-gdid-identifiant-mouchard-vpn/windows-gdid-identifiant-mouchard-vpn-1.png"
+    },
+    {
+      "id": "98741c0dd43869c05d363e402fad562f",
+      "title": "Proton 11 ressuscite Dino Crisis et Resident Evil sur Linux",
+      "link": "https://korben.info/proton-11-jeux-windows-linux.html",
+      "summary": "Je sais pas si vous avez vu mais Valve vient de sortir Proton 11, la nouvelle version stable de sa couche de compatibilité qui fait tourner les jeux Windows sur Linux via Steam Play. Et cette fois, c'est basé sur Wine...",
+      "published": "2026-07-08T12:42:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/proton-11-jeux-windows-linux/proton-11-jeux-windows-linux-1.jpg"
+    },
+    {
+      "id": "2e40829a4d7157dace400fe50b05939a",
+      "title": "Cette Atari Jaguar de 1993 boote sous Linux avec 2 Mo de RAM",
+      "link": "https://korben.info/linux-atari-jaguar-68000.html",
+      "summary": "Une Atari Jaguar, la console de 1993 qu'Atari vendait comme la première machine 64 bits et que le marché a snobée, vient de booter sous Linux pour la première fois ! Derrière ce hack, un développeur connu sous le pseu...",
+      "published": "2026-07-08T12:12:21+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/linux-atari-jaguar-68000/linux-atari-jaguar-68000-1.jpg"
+    },
+    {
+      "id": "b9bf33e0fc82f6e5fee31eae0f475b94",
+      "title": "Ça c'est ma veille tech",
+      "link": "https://korben.info/veille-tech-direct-flux-rss.html",
+      "summary": "Ça fait un moment que ça me trotte dans la tête et vous êtes plusieurs à me réclamer régulièrement ma veille, comme dans la chanson, en mode \"Allez Korben, montre-nous tes RSS, allez Korben montre-nous tes flux !\". C'...",
+      "published": "2026-07-08T12:05:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/veille-tech-direct-flux-rss/veille-tech-direct-flux-rss-1.png"
+    },
+    {
+      "id": "89901ea9a01ecf152f5e4eca626c4ec9",
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
+      "published": "2026-07-08T12:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e9de9f7f657e5008e685f7ba8498455d",
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with...",
+      "published": "2026-07-08T11:51:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg"
+    },
+    {
+      "id": "aaac81cad82698694e5f9103c4a2db57",
+      "title": "Le retour de Movie Maker montre la lourdeur de Clipchamp",
+      "link": "https://korben.info/windows-movie-maker-clipchamp-ram-2026.html",
+      "summary": "Vous vous souvenez de Windows Movie Maker ? Mais siiii, ce petit logiciel de montage livré avec les Windows depuis l'époque de Windows ME ? C'est celui sur lequel vous avez bricolé vos premiers diaporamas de vacances ...",
+      "published": "2026-07-08T11:32:45+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-movie-maker-clipchamp-ram-2026/windows-movie-maker-clipchamp-ram-2026-1.jpg"
+    },
+    {
+      "id": "b1ad96e2292e6aceafeea3498449df7f",
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
+      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for ...",
+      "published": "2026-07-08T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaJMgdxAojXQ55Emgp0cdpY7ibLUdpF2qw_6WRHLpgdFhT82J_HFoOeqj69x1MNb7EqqMLp23NxnAsbzCeH0rg5cOrrM6bdDFNWlvvXbNZ9-QGzCYyX0q9AqYAGKwXVOb35u2lE91pm27dzyikSEF7zzfmNG-asRkTjhR30sdWgmf7TsZj8tqieCYUnTY/s1600/main-veriff.jpg"
+    },
+    {
+      "id": "c8c8ea7b441e4eb092b1c83badd58eb8",
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the coun...",
+      "published": "2026-07-08T11:24:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "09ed7ed309715d906a1e55ac1bc443cb",
+      "title": "Test du MOVA ViAX 500 : cette tondeuse a converti un jardinier qui ne voulait pas de robot dans son jardin",
+      "link": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin.html",
+      "summary": "– Contient des liens affiliés Amazon – J’ai reçu en test ce robot tondeuse d’une gamme grand public accessible pour le tester en conditions réelles. J’ai moi-même un petit jardin, mais pour le tester, j’ai préféré app...",
+      "published": "2026-07-08T11:21:31+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin-1.jpeg"
+    },
+    {
+      "id": "98eaf5168b142e38b95daecf79d72fe5",
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a ne...",
+      "published": "2026-07-08T11:21:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3sdn3FMdKySUzvuf2007OIkov1V6r7gOe6npkdpODZqGK0avIBUu4fc4XVYsccnBD3ij71TroVDezuYTjSmXj6le7luxRFK-S1q3itvZHcIwPaY2NzDYjEUH-hnBbOBa_GZSq7-Es2DG4v-6vlbqeZWvYohveEleH8n8eWD6GxafIJIvanFGzsLarQY/s1600/copilot-prompts.jpg"
+    },
+    {
+      "id": "007ed2ce2eab771c355bf0c57c228990",
+      "title": "Votre prochaine barrette de RAM sera-t-elle un champignon ?",
+      "link": "https://korben.info/ram-champignon-shiitake-memristor.html",
+      "summary": "Un champignon shiitake qui fait office de mémoire informatique genre RAM, c'est la trouvaille d'une équipe de l'Ohio State University. Et l'idée a l'air bien plus sérieuse qu'elle n'en a l'air... John LaRocco et Qudsi...",
+      "published": "2026-07-08T10:18:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ram-champignon-shiitake-memristor/ram-champignon-shiitake-memristor-1.jpg"
+    },
+    {
+      "id": "6ac7d0ab5da41ebb0702375528d98e90",
+      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
+      "published": "2026-07-08T09:58:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "62b52c5561f3ae113b375eade82ea1ee",
+      "title": "GitLost - Un seul mot suffit pour faire cracher ses dépôts privés à l'IA de GitHub",
+      "link": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives.html",
+      "summary": "Et c'est reparti pour un tour ! Qu'est-ce que vous pensez d'un dépôt privé sur Github qui serait capable d'exfiltrer tout seul son propre code dans une section commentaire visiblement publiquement par tout le monde. C...",
+      "published": "2026-07-08T09:04:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives/gitlost-github-agent-ia-fuite-depots-prives-1.jpg"
+    },
+    {
+      "id": "a8c491b86a3708f2fb6f1495274a5555",
+      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+      "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cis...",
+      "published": "2026-07-08T09:04:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXpYmSnXODMABymw2qCiVS3p13OIwfJ45yIZq-o8wXfgtWXxOPjPbsGjdgEExUsWcvkKhtyPBhGsc6mSIzg8fzwrVJE_GIIm0k3qbzMd7BSjUcAjRFznnsXjv-dnG-Zq671G-_PYcHe88J4yTpy0FBc_pReVfNVrwGvGceEvAbLqA_roMRNI2DjbwohEqK/s1600/routers.jpg"
+    },
+    {
+      "id": "511f8e6df5988a8b58e07f3d06e668f4",
+      "title": "On ne vivrait pas dans une simulation, et ça m'embête",
+      "link": "https://korben.info/univers-simulation-etude-ubc.html",
+      "summary": "Vous pouvez ranger la pilule rouge tout de suite les amis car une équipe de physiciens menée par Mir Faizal vient d'affirmer, calculs à l'appui, que notre univers ne peut pas être une simulation informatique. Et il n'...",
+      "published": "2026-07-08T08:39:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/univers-simulation-etude-ubc/univers-simulation-etude-ubc-1.jpg"
+    },
+    {
+      "id": "e77166d2524ba91bf0a07f9e372c60aa",
+      "title": "Une recompilation PC d'Animal Crossing",
+      "link": "https://korben.info/animal-crossing-gamecube-port-pc-natif.html",
+      "summary": "Un dev anonyme sous le pseudo flyngmt vient de sortir ACGC-PC-Port , un portage PC natif d'Animal Crossing sur GameCube. Pas un émulateur hein, le vrai code du jeu qui tourne directement sur votre machine. Si vous ave...",
+      "published": "2026-07-08T08:18:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/animal-crossing-gamecube-port-pc-natif/animal-crossing-gamecube-port-pc-natif-1.jpg"
+    },
     {
       "id": "3f0009bac41d7be8acd6dde2a2d6225e",
       "title": "Ubiquiti warns of new max severity UniFi OS vulnerability",
@@ -163,121 +333,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg"
     },
     {
-      "id": "5f19908e7dbcd92128640bf4f79d3ef8",
-      "title": "Anthropic a repéré la petite zone où Claude pense en douce",
-      "link": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache.html",
-      "summary": "Oulala, Anthropic vient de publier une jolie page de recherche qui fait beaucoup causer. En effet, son équipe d'interprétabilité a repéré, à l'intérieur de ses modèles Claude, une toute petite zone où le modèle rassem...",
-      "published": "2026-07-07T14:04:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache/anthropic-global-workspace-claude-raisonnement-cache-1.png"
-    },
-    {
       "id": "82cfbfa90bdbbdf1f75702c46d92efec",
       "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
       "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
       "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. ...",
       "published": "2026-07-07T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b800edf9ce14b148a6b4ffc99eaca153",
-      "title": "Wealthfolio - Suivez vos investissements sans les filer au cloud",
-      "link": "https://korben.info/wealthfolio-suivi-portefeuille-bourse-crypto.html",
-      "summary": "Si vous êtes une grosse feignasse et que votre seul plan pour gratter un peu de thunes, c'est pas juste de bosser, mais de vous faire adopter par un vieux en espérant qu'il y passe très vite, cet article ne va pas vou...",
-      "published": "2026-07-07T13:41:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/wealthfolio-suivi-portefeuille-bourse-crypto/wealthfolio-suivi-portefeuille-bourse-crypto-1.jpg"
-    },
-    {
-      "id": "651ceb016bdf795465d3483eb1d62cbe",
-      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
-      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
-      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ...",
-      "published": "2026-07-07T13:27:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg"
-    },
-    {
-      "id": "58753c636b54af6c56e62104e8dd2f5e",
-      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
-      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant c...",
-      "published": "2026-07-07T13:27:09+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg"
-    },
-    {
-      "id": "2d50c62a0b398c4c2959f21b0ff388cc",
-      "title": "TrojPix - Et votre câble vidéo devient une radio qui balance vos secrets",
-      "link": "https://korben.info/trojpix-exfiltration-air-gap-cable-video.html",
-      "summary": "En matière de sécurité, quand on parle de air gap, en général, on ne peut pas faire mieux. Si vous ne connaissez pas le concept, l'idée c'est d'empêcher un ordinateur d'avoir accès à tout type de réseau, que ce soit d...",
-      "published": "2026-07-07T12:50:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/trojpix-exfiltration-air-gap-cable-video/trojpix-exfiltration-air-gap-cable-video-1.jpg"
-    },
-    {
-      "id": "e7763346e1fe7e1560494ab711ed06f2",
-      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-      "summary": "Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automated investigation ...",
-      "published": "2026-07-07T12:12:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "cff4aaaeca054e9d546464b7ca31a7bf",
-      "title": "Ce fichier fantôme de Windows 11 gonfle tout seul et avale tout votre disque",
-      "link": "https://korben.info/windows-11-capabilityaccessmanager-espace-disque.html",
-      "summary": "Bon, j'avoue que j'ai un petit peu lâché l'affaire pour mon summer body. Avec cette canicule, je suis à deux doigts de me faire une raclette. Par contre, s'il y a un truc dont je ne supporte pas qu'il grossisse, c'est...",
-      "published": "2026-07-07T12:09:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/windows-11-capabilityaccessmanager-espace-disque/windows-11-capabilityaccessmanager-espace-disque-1.jpg"
-    },
-    {
-      "id": "7b56bcf92b29ecf3dc39d63e93dfe349",
-      "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
-      "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
-      "published": "2026-07-07T12:06:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "096ebadf83eb6041d287c5ca5436e6ea",
-      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline. For five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, ...",
-      "published": "2026-07-07T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg"
-    },
-    {
-      "id": "583113cd23e36c89c22bb087b97a719e",
-      "title": "Januscape - La faille KVM qui dormait depuis 16 ans dans le cloud",
-      "link": "https://korben.info/faille-kvm-januscape-evasion-vm-cloud.html",
-      "summary": "Depuis 16 ans, il y a une énorme faille qui fait dodo dans le coeur de tout ce qui gère la virtualisation sous Linux et personne ne l'avait remarqué, jusqu'à ce que Hyunwoo Kim, un chercheur en sécurité connu sous le ...",
-      "published": "2026-07-07T09:55:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/faille-kvm-januscape-evasion-vm-cloud/faille-kvm-januscape-evasion-vm-cloud-1.jpg"
-    },
-    {
-      "id": "ab0755e8f65cade956e8518f1e0b116b",
-      "title": "Microsoft to enable Windows settings backup by default for orgs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-      "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
-      "published": "2026-07-07T09:41:19+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -291,26 +351,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "bab577a78b62f4afce6ba164016d1905",
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. T...",
-      "published": "2026-07-07T09:10:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg"
-    },
-    {
-      "id": "9bb1b547431541eb54f0498c84c008ad",
-      "title": "Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple",
-      "link": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage.html",
-      "summary": "Posez votre doigt sur un capteur et hop, votre session s'ouvre. Sur un Mac, ce petit confort passe par exemple par le Magic Keyboard avec Touch ID (lien affilié) parce qu'Apple réserve la biométrie à son propre matéri...",
-      "published": "2026-07-07T08:51:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage/tinytouch-esp32-empreinte-deverrouillage-1.webp"
     },
     {
       "id": "f0490e930bf67037a3c549a918ca7fca",
@@ -361,46 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "5ff5d4d3531ddf06cd7430dd1b6fa255",
-      "title": "Nomlings - Le Tamagotchi affamé qui dévore vos tokens Claude Code",
-      "link": "https://korben.info/nomlings-tamagotchi-claude-code.html",
-      "summary": "Nomlings, c'est un Tamagotchi qui vit à côté de votre terminal, et dont la seule nourriture, ce sont les tokens que crament vos sessions Claude Code. Vous bossez, il mange. Vous glandez, il patiente. Et pendant que vo...",
-      "published": "2026-07-06T13:30:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/nomlings-tamagotchi-claude-code/nomlings-tamagotchi-claude-code-1.png"
-    },
-    {
-      "id": "5e2c63a270001d16f351434bd8ad91e8",
-      "title": "Kordle - Le jeu tech de l'été",
-      "link": "https://korben.info/kordle-le-jeu-tech-de-lete.html",
-      "summary": "Histoire de m'amuser un peu ce weekend, et de vous proposer un truc fun pour vous occuper 30 secondes cet été, je vous ai mis en ligne un petit jeu qui reprend le concept de Wordle (où il faut deviner des mots) mais e...",
-      "published": "2026-07-06T12:00:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/kordle-le-jeu-tech-de-lete/kordle-le-jeu-tech-de-lete-1.png"
-    },
-    {
-      "id": "2d39045915785731a8c2548037644d13",
-      "title": "Comment j'ai fait mon catalogue de vide-maison sans toucher à Figma",
-      "link": "https://korben.info/figma-mcp-claude-code-retour-experience.html",
-      "summary": "Je déménage bientôt, et comme je quitte ma jolie campagne pour aller dans un endroit plus petit et sans nature (ouin), je dois me débarrasser de pas mal de matériel... Ponceuse, débroussailleuse, taille-haie, tronçonn...",
-      "published": "2026-07-06T09:30:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/figma-mcp-claude-code-retour-experience/figma-mcp-claude-code-retour-experience-1.jpg"
-    },
-    {
-      "id": "c2f724e50012ff729ac23b122a1a3730",
-      "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
-      "link": "https://korben.info/baremetal-ram-dumper-cold-boot-attack.html",
-      "summary": "Vous branchez une clé USB sur un PC, vous démarrez dessus, et le temps de vous servir un petit café, hop, tout le contenu de la mémoire vive est recopié sur la clé. Le rêve pour les gens qui font du forensic, car dans...",
-      "published": "2026-07-06T07:00:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/baremetal-ram-dumper-cold-boot-attack/baremetal-ram-dumper-cold-boot-attack-1.jpg"
     },
     {
       "id": "ac9fb4b9408507b7758a3eafd576a658",
