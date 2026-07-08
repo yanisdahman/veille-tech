@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-07-08T02:25:33.317961+00:00",
+  "last_updated": "2026-07-08T08:22:37.120295+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3f0009bac41d7be8acd6dde2a2d6225e",
+      "title": "Ubiquiti warns of new max severity UniFi OS vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+      "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
+      "published": "2026-07-08T08:15:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c70d5977572c0df697b4bfad61ed5e26",
+      "title": "Sécurité Active Directory : auditer les délégations LAPS et détecter les failles ACL",
+      "link": "https://www.it-connect.fr/audit-laps-delegation-active-directory/",
+      "summary": "Une délégation LAPS mal maîtrisée peut exposer les mots de passe admin locaux. Apprenez à auditer les ACL, détecter les accès à risque et corriger la faille. Le post Sécurité Active Directory : auditer les délégations...",
+      "published": "2026-07-08T07:55:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "10528db754521bf1ac9fbcf262446c1d",
+      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by ...",
+      "published": "2026-07-08T07:16:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d7a82938375d480be621388715b6a974",
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code...",
+      "published": "2026-07-08T06:16:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif"
+    },
+    {
+      "id": "52d67c03b7ded484967ba4c40ad9016f",
+      "title": "Proton 11.0 est disponible : Valve muscle encore la compatibilité des jeux sous Linux",
+      "link": "https://www.it-connect.fr/proton-11-0-compatibilite-jeux-linux/",
+      "summary": "Valve a publié Proton 11.0, basé sur Wine 11. Au programme : des classiques, des jeux EA réparés, un meilleur support VR et de nombreux correctifs. Le post Proton 11.0 est disponible : Valve muscle encore la compatibi...",
+      "published": "2026-07-08T05:43:37+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "738216e6b713efc28027de731d1781da",
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities a...",
+      "published": "2026-07-08T05:33:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg"
+    },
+    {
+      "id": "7ecd55ffe1a88f852e218c825cd41a30",
+      "title": "Windows 11 : ce fichier caché peut consommer tout votre disque",
+      "link": "https://www.it-connect.fr/windows-11-ce-fichier-cache-peut-consommer-tout-votre-disque/",
+      "summary": "Un fichier système méconnu de Windows 11, CapabilityAccessManager.db-wal, peut gonfler jusqu'à 500 Go et saturer votre disque. Vérification et correctif. Le post Windows 11 : ce fichier caché peut consommer tout votre...",
+      "published": "2026-07-08T05:22:27+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "700722aeed241b623da481ce0f5abe08",
       "title": "Accenture confirms breach after hacker offers stolen data for sale",
@@ -243,16 +313,6 @@
       "image": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage/tinytouch-esp32-empreinte-deverrouillage-1.webp"
     },
     {
-      "id": "a751616b18064ef5a9f0c3d5508ff8fb",
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
-      "published": "2026-07-07T08:12:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f0490e930bf67037a3c549a918ca7fca",
       "title": "Windows 11 : avec Cloud rebuild, Microsoft réinstalle votre PC depuis le cloud, même s’il ne démarre plus",
       "link": "https://www.it-connect.fr/windows-11-cloud-rebuild-reinstallation-cloud/",
@@ -260,16 +320,6 @@
       "published": "2026-07-07T07:45:08+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "64cf0b821bea0ff8b6a691092ae40985",
-      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-      "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
-      "published": "2026-07-07T07:37:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -283,16 +333,6 @@
       "image": ""
     },
     {
-      "id": "4ddf0e4bf87721a30497ac7bcc0dc3e2",
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management int...",
-      "published": "2026-07-07T06:40:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
-    },
-    {
       "id": "7efe8d588960f06fedcfdc1517aeb34c",
       "title": "Un faux « admin système » sur Microsoft Teams déploie le malware EtherRAT",
       "link": "https://www.it-connect.fr/faux-support-microsoft-teams-etherrat/",
@@ -301,16 +341,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "eb63274753a8fe9fcad12e5c626abe71",
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers ...",
-      "published": "2026-07-07T05:16:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg"
     },
     {
       "id": "c1d5d586e3eaf76d2fc753ad7b35b330",
@@ -333,16 +363,6 @@
       "image": ""
     },
     {
-      "id": "9602aa074db342057c855601c10e009a",
-      "title": "Specops Device Trust : sécuriser vos accès au-delà de la MFA grâce à la validation de l’appareil",
-      "link": "https://www.it-connect.fr/specops-device-trust-validation-appareil/",
-      "summary": "La MFA ne suffit plus face au vol de session. Découvrez comment Specops Device Trust sécurise vos accès en liant chaque connexion à un appareil de confiance. Le post Specops Device Trust : sécuriser vos accès au-delà ...",
-      "published": "2026-07-06T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "5ff5d4d3531ddf06cd7430dd1b6fa255",
       "title": "Nomlings - Le Tamagotchi affamé qui dévore vos tokens Claude Code",
       "link": "https://korben.info/nomlings-tamagotchi-claude-code.html",
@@ -351,16 +371,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/nomlings-tamagotchi-claude-code/nomlings-tamagotchi-claude-code-1.png"
-    },
-    {
-      "id": "73b69658b6e28d3aa14374a4075a40cd",
-      "title": "Dawarich : l’alternative open source et auto-hébergée à Google Timeline",
-      "link": "https://www.it-connect.fr/dawarich-alternative-auto-hebergee-google-timeline/",
-      "summary": "Google Maps Timeline a disparu du web et votre historique de localisation s'efface ? Dawarich, alternative open source et auto-hébergée, prend le relais. Le post Dawarich : l’alternative open source et auto-hébergée à...",
-      "published": "2026-07-06T12:46:32+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "5e2c63a270001d16f351434bd8ad91e8",
@@ -381,16 +391,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/figma-mcp-claude-code-retour-experience/figma-mcp-claude-code-retour-experience-1.jpg"
-    },
-    {
-      "id": "f6c29e4e70ccd68eee38d5dd216fc1f1",
-      "title": "FatFs : 7 failles non patchées menacent des millions de systèmes embarqués",
-      "link": "https://www.it-connect.fr/fatfs-sept-failles-sans-correctif-appareils-iot/",
-      "summary": "Sept failles non corrigées frappent FatFs, une brique logicielle présente dans des millions de systèmes embarqués. Mais, c'est difficile à patcher. Le post FatFs : 7 failles non patchées menacent des millions de systè...",
-      "published": "2026-07-06T07:56:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "c2f724e50012ff729ac23b122a1a3730",
