@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-07-08T13:56:14.915279+00:00",
+  "last_updated": "2026-07-08T19:20:17.107846+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "707f213989a8a7dec6243efe16d5c811",
+      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
+      "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
+      "published": "2026-07-08T18:56:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "79af8da1f1ca532448d7a9cd8e9f461d",
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malic...",
+      "published": "2026-07-08T17:02:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEtVOCcf8-6_z0F4FVoPlTMQRFJ4CfHCbl-GvhT9EbRrfZgTJsNbBkzAq72212RbMT1Knk5GJsYDY8p5W7YO8x29vQ782QW6CRorl_oKVyAgOmS46Y9HyTPcdZOmMjOPtWjpAHH3C91EPVk4dnHqaAEX8QoaSvGzCbjMy0YhF7lJaIR6-T9Dq5jzZycIc/s1600/alarm.jpg"
+    },
+    {
+      "id": "740c860a4417a3633b5d73ab15606741",
+      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
+      "published": "2026-07-08T16:47:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9411f3d611a2af6dc033912ff32fec66",
+      "title": "GDID, cet identifiant Windows qui a permis au FBI de traquer un membre de Scattered Spider",
+      "link": "https://www.it-connect.fr/gdid-windows-fbi-scattered-spider/",
+      "summary": "Un identifiant Windows, le GDID, a aidé le FBI à relier un membre présumé de Scattered Spider à une cyberattaque, d'après une plainte fédérale américaine. Le post GDID, cet identifiant Windows qui a permis au FBI de t...",
+      "published": "2026-07-08T16:08:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "936470fb7fbe1a7ba6c3fd85f278a2a7",
+      "title": "GDID Windows - Coupez le mouchard qui vous traque même sous VPN",
+      "link": "https://korben.info/desactiver-gdid-windows.html",
+      "summary": "Comme je vous le disais tout à l'heure, en avril 2026, le FBI a coincé un membre présumé de Scattered Spider. Le mec planquait son trafic derrière un VPN, avec des IP dans trois pays différents. Et devinez quoi ? Ce n...",
+      "published": "2026-07-08T15:59:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.jpg"
+    },
+    {
+      "id": "36f2d9913fed36743154139fecfdf8a9",
+      "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
+      "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html",
+      "summary": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre, on se dit \"Ah br...",
+      "published": "2026-07-08T15:23:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante/doctolib-recherche-ia-opposition-donnees-sante-1.jpg"
+    },
+    {
+      "id": "f7fa76ade14885c6d4a42a2a96b44f0a",
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call Hall...",
+      "published": "2026-07-08T15:07:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLRfTvakP4spTkbT8iiV9ndUR4EwlHOmGkZrO4JdBl3QsmWS5zA_sx081fvr3R11VEnZcjHOFcirZAQ5eaqB3n8sFJQ7m64edzVHNONHsD9j9Obds8E_Z9VC08y42TCyJV_3zpWam1LTHhiZBLX5WCLNp-4tdR-AwYzlyoifh1Seu-ND4OKbnZOEhMks/s1600/ai-botnet.jpg"
+    },
+    {
+      "id": "ebcaa49ec6a83396d8179094a62f0127",
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command e...",
+      "published": "2026-07-08T14:38:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2TRa1CP7yIs67Wa1bxiFVW5yq1S7vtAaQHf_htjuDbpAETKv8tfw7rchtVvME0FsA8YJ_uQzRp_ZAV-nPhLyRUQw_NNdgN0zhjyVR_L3wzt1ZX08PknwSF2FBLeieIUIx7t4hLMF1sDnsRuFCzllq8auoKriKlGMdllY8IYG04bID6cgGzty0e9mVhoM/s1600/uu.jpg"
+    },
+    {
+      "id": "7c30070d1dccc7b1d999c3998827e8ac",
+      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
+      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
+      "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verifi...",
+      "published": "2026-07-08T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "83adbac74815b1c99235fd987f3a494d",
+      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+      "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to li...",
+      "published": "2026-07-08T13:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl6gaxMQBH0Bjb1ZhuaOiM5gKEk-zuSf821eRfV33ogx6YWwENunjyOPF8VXHtgtHgIevENLfBV2O04QI4TtjtDe2PGGevWptQEEagmp6q-G4FqOankGokz70XzVtz7dmNbEZ5G7-pV0yINgd2-ima7ap8xeOxuhZBKw2WPoUo81wKmGrwsPxbzYkW5Wk/s1600/anyrun-main.jpg"
+    },
     {
       "id": "c25d9b4195e12e4eae526bee0cc3f71b",
       "title": "Windows cache un identifiant secret que Microsoft file au FBI",
@@ -11,6 +111,16 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/windows-gdid-identifiant-mouchard-vpn/windows-gdid-identifiant-mouchard-vpn-1.png"
+    },
+    {
+      "id": "d06255c5141f8648198e78f28b86d5b4",
+      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under ...",
+      "published": "2026-07-08T12:52:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg"
     },
     {
       "id": "98741c0dd43869c05d363e402fad562f",
@@ -153,26 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXpYmSnXODMABymw2qCiVS3p13OIwfJ45yIZq-o8wXfgtWXxOPjPbsGjdgEExUsWcvkKhtyPBhGsc6mSIzg8fzwrVJE_GIIm0k3qbzMd7BSjUcAjRFznnsXjv-dnG-Zq671G-_PYcHe88J4yTpy0FBc_pReVfNVrwGvGceEvAbLqA_roMRNI2DjbwohEqK/s1600/routers.jpg"
     },
     {
-      "id": "511f8e6df5988a8b58e07f3d06e668f4",
-      "title": "On ne vivrait pas dans une simulation, et ça m'embête",
-      "link": "https://korben.info/univers-simulation-etude-ubc.html",
-      "summary": "Vous pouvez ranger la pilule rouge tout de suite les amis car une équipe de physiciens menée par Mir Faizal vient d'affirmer, calculs à l'appui, que notre univers ne peut pas être une simulation informatique. Et il n'...",
-      "published": "2026-07-08T08:39:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/univers-simulation-etude-ubc/univers-simulation-etude-ubc-1.jpg"
-    },
-    {
-      "id": "e77166d2524ba91bf0a07f9e372c60aa",
-      "title": "Une recompilation PC d'Animal Crossing",
-      "link": "https://korben.info/animal-crossing-gamecube-port-pc-natif.html",
-      "summary": "Un dev anonyme sous le pseudo flyngmt vient de sortir ACGC-PC-Port , un portage PC natif d'Animal Crossing sur GameCube. Pas un émulateur hein, le vrai code du jeu qui tourne directement sur votre machine. Si vous ave...",
-      "published": "2026-07-08T08:18:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/animal-crossing-gamecube-port-pc-natif/animal-crossing-gamecube-port-pc-natif-1.jpg"
-    },
-    {
       "id": "3f0009bac41d7be8acd6dde2a2d6225e",
       "title": "Ubiquiti warns of new max severity UniFi OS vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
@@ -223,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "738216e6b713efc28027de731d1781da",
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities a...",
-      "published": "2026-07-08T05:33:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg"
-    },
-    {
       "id": "7ecd55ffe1a88f852e218c825cd41a30",
       "title": "Windows 11 : ce fichier caché peut consommer tout votre disque",
       "link": "https://www.it-connect.fr/windows-11-ce-fichier-cache-peut-consommer-tout-votre-disque/",
@@ -263,56 +343,6 @@
       "image": ""
     },
     {
-      "id": "09b8d0df23c81d7b4fe608665f684f00",
-      "title": "Hidden backdoor in Tenda router firmware grants admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
-      "published": "2026-07-07T17:27:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "375218aecbb4658a9adebc62b035b01e",
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture t...",
-      "published": "2026-07-07T17:10:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdqPEGRKkKA7pjGNpR8hijHzJLPvyPD1g1C8bTt91eLUOFdu6Jw99i8LFybvHG9SP3syQ8shdXpC6EhinlQoB9aTgBMtejiCWAzVhhTi0o3nCTKZeKNnwDY0J_Lbf9LGN-KIQIoJ7-GW2op-JUcBg64uz5Actwh7TsFEstwNx9fXnLj4SODskUpnX9TPE/s1600/android-trojan-telegram.jpg"
-    },
-    {
-      "id": "916346ef42a3f95d19e40dcdde2e555e",
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could...",
-      "published": "2026-07-07T16:37:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg"
-    },
-    {
-      "id": "e0177106d1957d728f2c3dcdcf1cf739",
-      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-      "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
-      "published": "2026-07-07T15:21:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c246501a51cbb336a7bed5b0f8095817",
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBE...",
-      "published": "2026-07-07T15:14:14+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__v7vicSomxW52wnr8HsJgQKf0vg3kdjUicmIUCMCDexaBZ68pLZzXKVSJxNEeBuBuEzueOldcd5GhtGQI-8eMqd9j0QWMqGScmbZpqBS9RFkXxXSfOZYhBSGqD8BBDfVUEn4RN86sKhgkl9xkJtYMl-7a2zsIU6LCC5j_U2BkupJGr3JqP9_GZCHfHtl/s1600/ms-device-code.jpg"
-    },
-    {
       "id": "a9fbfb7c4fd1942390ab135a03602925",
       "title": "Januscape : 16 ans dans l’ombre pour cette faille KVM qui menace le cloud",
       "link": "https://www.it-connect.fr/januscape-faille-kvm-evasion-vm-hote/",
@@ -320,26 +350,6 @@
       "published": "2026-07-07T14:23:39+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "abe9f09c818d3cd947f077d3ff13951c",
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on...",
-      "published": "2026-07-07T14:04:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg"
-    },
-    {
-      "id": "82cfbfa90bdbbdf1f75702c46d92efec",
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. ...",
-      "published": "2026-07-07T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -393,13 +403,23 @@
       "image": ""
     },
     {
-      "id": "ac7384326ff0a7617dfb1ae577c44e06",
-      "title": "reCAPTCHA : Google veut utiliser votre webcam pour vérifier que vous êtes humain",
-      "link": "https://www.it-connect.fr/recaptcha-google-geste-main-camera/",
-      "summary": "Google expérimente une vérification reCAPTCHA par geste de la main devant la caméra pour distinguer humains et bots. Un dispositif déjà contourné. Le post reCAPTCHA : Google veut utiliser votre webcam pour vérifier qu...",
-      "published": "2026-07-06T22:15:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "5f4be4a28b3458238ea6796d23e2773f",
+      "title": "Multiples vulnérabilités dans Apache Tomcat (30 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0817/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de ...",
+      "published": "2026-06-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "632223152e086d75d083242d60deb412",
+      "title": "Multiples vulnérabilités dans les produits Apple (30 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0818/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des don...",
+      "published": "2026-06-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -463,11 +483,11 @@
       "image": ""
     },
     {
-      "id": "856c2ca42383b7c8df5ec975d3a1a476",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0809/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données ...",
-      "published": "2026-06-26T00:00:00+00:00",
+      "id": "516bdb92ddeb7dea247fd496e464d703",
+      "title": "Multiples vulnérabilités dans Stormshield Management Center (29 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Management Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une a...",
+      "published": "2026-06-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -477,26 +497,6 @@
       "title": "Multiples vulnérabilités dans les produits IBM (26 juin 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0810/",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-06-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ef75bb7ce9a1fd33840cea1f703dbad0",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0807/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des...",
-      "published": "2026-06-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "98cf04e135d6a8c25a5e8f194632e4eb",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0808/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
       "published": "2026-06-26T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
