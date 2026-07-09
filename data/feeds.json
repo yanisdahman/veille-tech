@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-08T19:20:17.107846+00:00",
+  "last_updated": "2026-07-09T02:39:39.259386+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1840cd0252a328d32afc7900ca9c07b6",
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
+      "published": "2026-07-08T21:26:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "75c53c3342212189eac368a16c42e718",
+      "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
+      "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html",
+      "summary": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu. C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mémo...",
+      "published": "2026-07-08T20:17:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/apple-fin-hfs-plus-chiffre/apple-fin-hfs-plus-chiffre-1.jpg"
+    },
+    {
+      "id": "64316dec9f19952a869e2393a6f6226b",
+      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
+      "published": "2026-07-08T19:54:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "707f213989a8a7dec6243efe16d5c811",
       "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
@@ -243,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "62b52c5561f3ae113b375eade82ea1ee",
-      "title": "GitLost - Un seul mot suffit pour faire cracher ses dépôts privés à l'IA de GitHub",
-      "link": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives.html",
-      "summary": "Et c'est reparti pour un tour ! Qu'est-ce que vous pensez d'un dépôt privé sur Github qui serait capable d'exfiltrer tout seul son propre code dans une section commentaire visiblement publiquement par tout le monde. C...",
-      "published": "2026-07-08T09:04:42+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives/gitlost-github-agent-ia-fuite-depots-prives-1.jpg"
-    },
-    {
       "id": "a8c491b86a3708f2fb6f1495274a5555",
       "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
       "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
@@ -320,26 +340,6 @@
       "published": "2026-07-08T05:22:27+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "700722aeed241b623da481ce0f5abe08",
-      "title": "Accenture confirms breach after hacker offers stolen data for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-      "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
-      "published": "2026-07-07T22:06:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bde71ba4e1c2b20a87436e5fa0b948ed",
-      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
-      "published": "2026-07-07T18:52:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
