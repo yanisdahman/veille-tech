@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-07-09T02:39:39.259386+00:00",
+  "last_updated": "2026-07-09T09:38:44.496222+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e0125538ce4e07595be5ed0adc7ca4f5",
+      "title": "Hoodik - Le cloud perso qui n'a jamais vu vos fichiers en clair",
+      "link": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust.html",
+      "summary": "Votre Nextcloud sait tout de vous. L'admin du serveur (vous, ou pire, quelqu'un d'autre) peut ouvrir n'importe quel fichier stocké dessus, parce que le chiffrement de bout en bout reste une option planquée dans un plu...",
+      "published": "2026-07-09T08:04:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust/hoodik-cloud-e2ee-auto-heberge-rust-1.png"
+    },
+    {
+      "id": "f4c9ab50c05cc9bbc95a0871afe3ff57",
+      "title": "RoguePlanet : Microsoft corrige la zero-day qui donnait les privilèges SYSTEM",
+      "link": "https://www.it-connect.fr/microsoft-corrige-faille-zero-day-rogueplanet-defender/",
+      "summary": "Microsoft a corrigé RoguePlanet (CVE-2026-50656), la zero-day de Defender qui donnait les privilèges SYSTEM sur Windows 10 et 11. Voici comment se protéger. Le post RoguePlanet : Microsoft corrige la zero-day qui donn...",
+      "published": "2026-07-09T07:55:08+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8117d3b6dedd78db65ecc06d1b087d93",
+      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+      "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
+      "published": "2026-07-09T07:47:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0b179a7b74a5b775a8abdeca0d8753c3",
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+      "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
+      "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default. \"You can also @-mention Instagram acc...",
+      "published": "2026-07-09T07:21:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsjiT58V2lRqaqYwo2AHkilx81c58T9dBHa_W5KiHgom4-UgZqV18Ax-zQb8_fN7p_OQpqi0b4nTzt4SpDnHW-RozKjIcgs-B8KN8HI_QnCMzIjDMmcg2grJEyP7r1ZNd_SRB5R1MDw-vo-jQ4v198ZDhMsWaBpFnXmShkouRZvXIXpu-32FQ_30h4HQrq/s1600/metaai.jpg"
+    },
+    {
+      "id": "63760ae4506264ebcdfead7886071ef6",
+      "title": "Le navigateur DuckDuckGo bloque désormais les publicités YouTube, par défaut",
+      "link": "https://www.it-connect.fr/duckduckgo-navigateur-bloque-publicites-youtube/",
+      "summary": "DuckDuckGo bloque désormais les publicités vidéo YouTube dans son navigateur, par défaut sur iPhone, Windows et macOS, via les listes d'uBlock Origin. Le post Le navigateur DuckDuckGo bloque désormais les publicités Y...",
+      "published": "2026-07-09T07:08:01+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e698fc9fa129b45669de5c3ef9791567",
+      "title": "Firefox dans Docker - Le navigateur jetable pour surfer sans flipper",
+      "link": "https://korben.info/firefox-docker-conteneur-isole-surf-securise.html",
+      "summary": "On reçoit tous des mails un peu bizarres avec des liens qu'on n'ose pas ouvrir, et pourtant on est curieux, on est tenté parfois... C'est difficile de résister mais heureusement l'équipe de Linuxserver.io a pondu un t...",
+      "published": "2026-07-09T06:42:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/firefox-docker-conteneur-isole-surf-securise/firefox-docker-conteneur-isole-surf-securise-1.png"
+    },
+    {
+      "id": "b8aebe22ad20b1b39847e69e25052e58",
+      "title": "HTTP QUERY : la première méthode ajoutée à HTTP depuis 2010",
+      "link": "https://www.it-connect.fr/methode-http-query-rfc-10008/",
+      "summary": "Le RFC 10008 officialise QUERY, une méthode HTTP qui combine le corps de requête de POST et le côté safe de GET. Voici l'essentiel à savoir sur HTTP QUERY. Le post HTTP QUERY : la première méthode ajoutée à HTTP depui...",
+      "published": "2026-07-09T06:24:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6ecff524e6aa205b0256b43172d17030",
+      "title": "Tecno, itel et Infinix cachent un mouchard système impossible à virer",
+      "link": "https://korben.info/transsion-smartphones-telemetrie-afrique.html",
+      "summary": "Si vous lisez ça depuis Abidjan, Dakar, Douala ou Kinshasa, y'a une chance sur deux que votre téléphone soit un Tecno, un Infinix ou un itel. Trois marques, mais un seul patron : Transsion, qui trône sur près de la mo...",
+      "published": "2026-07-09T06:10:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/transsion-smartphones-telemetrie-afrique/transsion-smartphones-telemetrie-afrique-1.jpg"
+    },
+    {
+      "id": "7b5aa8a73869a95c70361726e9242adb",
+      "title": "Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vie à 16.99€ et Windows 11 Pro à 12.25€",
+      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
+      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vi...",
+      "published": "2026-07-09T06:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2ea2b664c46e66e049fc5a8270494044",
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
+      "published": "2026-07-09T05:42:49+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1b7bc73a82bbfd7c196d59ab602e2873",
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institu...",
+      "published": "2026-07-09T05:15:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif"
+    },
+    {
+      "id": "33c7ecd07ca63e70175e827fc6d3c19e",
+      "title": "Outlook va proposer des réponses automatiques basées sur des règles",
+      "link": "https://www.it-connect.fr/outlook-reponses-automatiques-basees-sur-regles/",
+      "summary": "Outlook va permettre de créer des réponses automatiques basées sur des règles, avec modèles et conditions. pour ne plus répondre pareil à tout le monde. Le post Outlook va proposer des réponses automatiques basées sur...",
+      "published": "2026-07-09T05:05:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8975c3eb7d5a140148e2de9fd346fa1f",
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "summary": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking fil...",
+      "published": "2026-07-09T04:27:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg"
+    },
+    {
+      "id": "786701aeeebe33eaddca9cf664cdf7f7",
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 ...",
+      "published": "2026-07-09T04:01:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png"
+    },
     {
       "id": "1840cd0252a328d32afc7900ca9c07b6",
       "title": "Mount Royal University confirms breach as hackers claim attack",
@@ -203,26 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg"
     },
     {
-      "id": "aaac81cad82698694e5f9103c4a2db57",
-      "title": "Le retour de Movie Maker montre la lourdeur de Clipchamp",
-      "link": "https://korben.info/windows-movie-maker-clipchamp-ram-2026.html",
-      "summary": "Vous vous souvenez de Windows Movie Maker ? Mais siiii, ce petit logiciel de montage livré avec les Windows depuis l'époque de Windows ME ? C'est celui sur lequel vous avez bricolé vos premiers diaporamas de vacances ...",
-      "published": "2026-07-08T11:32:45+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/windows-movie-maker-clipchamp-ram-2026/windows-movie-maker-clipchamp-ram-2026-1.jpg"
-    },
-    {
-      "id": "b1ad96e2292e6aceafeea3498449df7f",
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for ...",
-      "published": "2026-07-08T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaJMgdxAojXQ55Emgp0cdpY7ibLUdpF2qw_6WRHLpgdFhT82J_HFoOeqj69x1MNb7EqqMLp23NxnAsbzCeH0rg5cOrrM6bdDFNWlvvXbNZ9-QGzCYyX0q9AqYAGKwXVOb35u2lE91pm27dzyikSEF7zzfmNG-asRkTjhR30sdWgmf7TsZj8tqieCYUnTY/s1600/main-veriff.jpg"
-    },
-    {
       "id": "c8c8ea7b441e4eb092b1c83badd58eb8",
       "title": "Telco giant KDDI says data breach affects over 12 million people",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
@@ -233,61 +353,11 @@
       "image": ""
     },
     {
-      "id": "09ed7ed309715d906a1e55ac1bc443cb",
-      "title": "Test du MOVA ViAX 500 : cette tondeuse a converti un jardinier qui ne voulait pas de robot dans son jardin",
-      "link": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin.html",
-      "summary": "– Contient des liens affiliés Amazon – J’ai reçu en test ce robot tondeuse d’une gamme grand public accessible pour le tester en conditions réelles. J’ai moi-même un petit jardin, mais pour le tester, j’ai préféré app...",
-      "published": "2026-07-08T11:21:31+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin-1.jpeg"
-    },
-    {
-      "id": "98eaf5168b142e38b95daecf79d72fe5",
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a ne...",
-      "published": "2026-07-08T11:21:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3sdn3FMdKySUzvuf2007OIkov1V6r7gOe6npkdpODZqGK0avIBUu4fc4XVYsccnBD3ij71TroVDezuYTjSmXj6le7luxRFK-S1q3itvZHcIwPaY2NzDYjEUH-hnBbOBa_GZSq7-Es2DG4v-6vlbqeZWvYohveEleH8n8eWD6GxafIJIvanFGzsLarQY/s1600/copilot-prompts.jpg"
-    },
-    {
-      "id": "007ed2ce2eab771c355bf0c57c228990",
-      "title": "Votre prochaine barrette de RAM sera-t-elle un champignon ?",
-      "link": "https://korben.info/ram-champignon-shiitake-memristor.html",
-      "summary": "Un champignon shiitake qui fait office de mémoire informatique genre RAM, c'est la trouvaille d'une équipe de l'Ohio State University. Et l'idée a l'air bien plus sérieuse qu'elle n'en a l'air... John LaRocco et Qudsi...",
-      "published": "2026-07-08T10:18:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ram-champignon-shiitake-memristor/ram-champignon-shiitake-memristor-1.jpg"
-    },
-    {
       "id": "6ac7d0ab5da41ebb0702375528d98e90",
       "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
       "published": "2026-07-08T09:58:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a8c491b86a3708f2fb6f1495274a5555",
-      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-      "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cis...",
-      "published": "2026-07-08T09:04:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXpYmSnXODMABymw2qCiVS3p13OIwfJ45yIZq-o8wXfgtWXxOPjPbsGjdgEExUsWcvkKhtyPBhGsc6mSIzg8fzwrVJE_GIIm0k3qbzMd7BSjUcAjRFznnsXjv-dnG-Zq671G-_PYcHe88J4yTpy0FBc_pReVfNVrwGvGceEvAbLqA_roMRNI2DjbwohEqK/s1600/routers.jpg"
-    },
-    {
-      "id": "3f0009bac41d7be8acd6dde2a2d6225e",
-      "title": "Ubiquiti warns of new max severity UniFi OS vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-      "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
-      "published": "2026-07-08T08:15:20+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -301,26 +371,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "10528db754521bf1ac9fbcf262446c1d",
-      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by ...",
-      "published": "2026-07-08T07:16:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d7a82938375d480be621388715b6a974",
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-      "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code...",
-      "published": "2026-07-08T06:16:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif"
     },
     {
       "id": "52d67c03b7ded484967ba4c40ad9016f",
@@ -348,56 +398,6 @@
       "link": "https://www.it-connect.fr/januscape-faille-kvm-evasion-vm-hote/",
       "summary": "Januscape (CVE-2026-53359), une faille use-after-free restée 16 ans dans KVM, permet à une VM Intel ou AMD de planter son hôte, voire de s'en évader. Le post Januscape : 16 ans dans l’ombre pour cette faille KVM qui m...",
       "published": "2026-07-07T14:23:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e135ef3629a38e3c27801ef20da13c14",
-      "title": "Forensic Windows – Partie 4 : exploiter le SuperFetch",
-      "link": "https://www.it-connect.fr/forensic-windows-partie-4-exploiter-le-superfetch/",
-      "summary": "SuperFetch (SysMain) recèle de précieuses traces d'exécution. Où trouver ses fichiers Ag*.db et comment les analyser avec SysMainView sous Windows 10 et 11. Le post Forensic Windows – Partie 4 : exploiter le SuperFetc...",
-      "published": "2026-07-07T09:30:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f0490e930bf67037a3c549a918ca7fca",
-      "title": "Windows 11 : avec Cloud rebuild, Microsoft réinstalle votre PC depuis le cloud, même s’il ne démarre plus",
-      "link": "https://www.it-connect.fr/windows-11-cloud-rebuild-reinstallation-cloud/",
-      "summary": "Microsoft teste Cloud rebuild sur Windows 11 : réinstallation complète de l'OS et des pilotes via Windows Update, sans clé USB, même si le PC ne démarre plus. Le post Windows 11 : avec Cloud rebuild, Microsoft réinsta...",
-      "published": "2026-07-07T07:45:08+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "648c521b6be34e029e54f1398ed1d8db",
-      "title": "Windows 11 26H2 : la sauvegarde des paramètres activée par défaut sur les PC",
-      "link": "https://www.it-connect.fr/windows-11-26h2-windows-backup-organizations-active-par-defaut/",
-      "summary": "Avec Windows 11 26H2, Microsoft activera par défaut la sauvegarde des paramètres sur les PC d'entreprise. Les appareils situés dans l'UE ne sont pas concernés. Le post Windows 11 26H2 : la sauvegarde des paramètres ac...",
-      "published": "2026-07-07T07:12:15+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7efe8d588960f06fedcfdc1517aeb34c",
-      "title": "Un faux « admin système » sur Microsoft Teams déploie le malware EtherRAT",
-      "link": "https://www.it-connect.fr/faux-support-microsoft-teams-etherrat/",
-      "summary": "Selon Unit 42, de faux appels du support IT sur Microsoft Teams piègent les salariés pour installer le malware EtherRAT sur leur poste Windows. Le post Un faux « admin système » sur Microsoft Teams déploie le malware ...",
-      "published": "2026-07-07T06:02:20+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c1d5d586e3eaf76d2fc753ad7b35b330",
-      "title": "France Vue : une appli gratuite pour explorer la France en 3D avec les données de l’IGN",
-      "link": "https://www.it-connect.fr/france-vue-explorer-france-3d-ign/",
-      "summary": "France Vue est une application gratuite qui exploite les données ouvertes de l'IGN (relief, photos aériennes, LiDAR) pour explorer la France en 3D. Le post France Vue : une appli gratuite pour explorer la France en 3D...",
-      "published": "2026-07-06T22:30:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
