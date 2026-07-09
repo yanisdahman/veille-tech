@@ -1,11 +1,131 @@
 {
-  "last_updated": "2026-07-09T09:38:44.496222+00:00",
+  "last_updated": "2026-07-09T14:51:13.378133+00:00",
   "count": 50,
   "articles": [
     {
-      "id": "e0125538ce4e07595be5ed0adc7ca4f5",
+      "id": "db1a64438f70a3abd8de29cd93fd6279",
+      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
+      "published": "2026-07-09T14:39:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3949af007c64dfb0ad2ac13a09b5ad0a",
+      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
+      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
+      "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce relianc...",
+      "published": "2026-07-09T14:02:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b2f8a377c3412e1bb1f619b963e0d5f0",
+      "title": "OWA Light - Le webmail de secours Exchange passe l'arme à gauche",
+      "link": "https://korben.info/owa-light-fin-exchange-server.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "OWA Light vit ses derniers mois. Microsoft l'a annoncé le 8 juillet, la déclinaison allégée du webmail d'Exchange Server sera coupée dans une prochaine mise à jour, attendue pour août 2026. Presque 20 ans de service, ...",
+      "published": "2026-07-09T13:05:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/owa-light-fin-exchange-server/owa-light-fin-exchange-server-1.png"
+    },
+    {
+      "id": "9378322e660e2e6b235fca3494977a20",
+      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+      "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before yo...",
+      "published": "2026-07-09T12:26:58+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg"
+    },
+    {
+      "id": "f16c8d39fa5004a64c9b0f8239a49a80",
+      "title": "GhostLock : cette faille Linux vieille de 15 ans offre un accès root sur la majorité des distributions",
+      "link": "https://www.it-connect.fr/ghostlock-faille-linux-acces-root/",
+      "summary": "Découverte à l'aide d'une IA, GhostLock (CVE-2026-43499) est une faille du noyau Linux présente depuis 2011. Elle permet à un utilisateur local de devenir root. Le post GhostLock : cette faille Linux vieille de 15 ans...",
+      "published": "2026-07-09T11:40:40+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bda2c0d9664e3787f529c7222823b54e",
+      "title": "DuckDuckGo zappe les pubs YouTube",
+      "link": "https://korben.info/duckduckgo-navigateur-bloque-pubs-youtube.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Alors ça, Google va adorer ! En effet, depuis hier (le 8 juillet), le navigateur DuckDuckGo bloque les pubs YouTube tout seul comme un grand. Le pre-roll interminable avant votre tuto Docker , la double coupure en ple...",
+      "published": "2026-07-09T11:27:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/duckduckgo-navigateur-bloque-pubs-youtube/duckduckgo-navigateur-bloque-pubs-youtube-1.png"
+    },
+    {
+      "id": "88f0b2df29bafaf4b9d774a87297ab07",
+      "title": "Tuta veut déménager vos 22 ans de Gmail sans rien perdre",
+      "link": "https://korben.info/tuta-mail-import-emails.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Quitter Gmail, c'est vrai, tout le monde y pense. Pour ma part, c'est fait depuis très longtemps, mais c'est vrai qu'abandonner des années et des années de mails, de factures, de photos, etc., tout ce qu'on a reçu, il...",
+      "published": "2026-07-09T11:05:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tuta-mail-import-emails/tuta-mail-import-emails-1.webp"
+    },
+    {
+      "id": "483aefb3e180c9c67fb6824f116f4580",
+      "title": "Microsoft to retire the OWA Light client in Exchange Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+      "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
+      "published": "2026-07-09T11:00:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3f5a336320ab3cce855bdb2a279d0d5c",
+      "title": "Summer of Clearinghouses",
+      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+      "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built q...",
+      "published": "2026-07-09T11:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHNzR9Jii9NFEb6X2orsYvbxp5mJF4-z71vuQ1EHw94Tkym9ifxqrNmOtYQd9nmpe8rR7ZBZMdGEZb_S-ZKoKpXAFO3Aged7ApVnn_Pip_iI0p389k6ebIxpgwsw4OsyCKhE8KiqzdxmKDr_0ee_XaMKKPngnAcDJ5uQ_Pq8HOmX0ZUpz45pWxQID5Ec/s1600/Chainguard-main.jpg"
+    },
+    {
+      "id": "f191d9a422314fe3cc8eb97f212d7595",
+      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report p...",
+      "published": "2026-07-09T10:43:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge_nKJNwSt3ZRkzfZ2qH61_1WFg5hyphenhyphenMSrC3-JM4AOXRKO-IVsJXFNiM926QnG25eTply3DRF57t61wi5Ucy4yxald1RpH1TRbItw83RqQ-K6UM670vpR76-kBl2xcntaDE7lxxNwurseG5iRM4sMhYK8Npb9COGNM_XjbwBLthnJjBfwqV7m96VKOnWb3Q/s1600/endpoint-ransomware.jpg"
+    },
+    {
+      "id": "c1bfb1f49fe109c9a866ac922018909e",
+      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+      "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
+      "published": "2026-07-09T09:47:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4f33efffd78cd45f5c87511c3b2d127f",
+      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
+      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a p...",
+      "published": "2026-07-09T08:48:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuqwSaoB3zc0bIhf1aBmcHsVVAsGnRDBc681vhmlgHYy0xx5VSxyS2jqjmk-mq27QrSKPN3yorL3A7DffJYp3iMO7CY_8owm-Cn8r7IFuvqeGHTPSyiFM0KVTMTE8W0Qon84tCbzsLVNqoS5nLq1aX8_RNKg0sxa2ke4Su_p5qy9dAlFdakwYcjueBGNhD/s1600/windows.jpg"
+    },
+    {
+      "id": "7a4fe07eecb4525fffa9472f525a2e85",
       "title": "Hoodik - Le cloud perso qui n'a jamais vu vos fichiers en clair",
-      "link": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust.html",
+      "link": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "Votre Nextcloud sait tout de vous. L'admin du serveur (vous, ou pire, quelqu'un d'autre) peut ouvrir n'importe quel fichier stocké dessus, parce que le chiffrement de bout en bout reste une option planquée dans un plu...",
       "published": "2026-07-09T08:04:14+00:00",
       "source": "Korben",
@@ -53,9 +173,9 @@
       "image": ""
     },
     {
-      "id": "e698fc9fa129b45669de5c3ef9791567",
+      "id": "8797e1aba2d485107ec9baddbb678932",
       "title": "Firefox dans Docker - Le navigateur jetable pour surfer sans flipper",
-      "link": "https://korben.info/firefox-docker-conteneur-isole-surf-securise.html",
+      "link": "https://korben.info/firefox-docker-conteneur-isole-surf-securise.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "On reçoit tous des mails un peu bizarres avec des liens qu'on n'ose pas ouvrir, et pourtant on est curieux, on est tenté parfois... C'est difficile de résister mais heureusement l'équipe de Linuxserver.io a pondu un t...",
       "published": "2026-07-09T06:42:14+00:00",
       "source": "Korben",
@@ -73,9 +193,9 @@
       "image": ""
     },
     {
-      "id": "6ecff524e6aa205b0256b43172d17030",
+      "id": "c22693dd700d7a993f33c9e1cfe6a8ca",
       "title": "Tecno, itel et Infinix cachent un mouchard système impossible à virer",
-      "link": "https://korben.info/transsion-smartphones-telemetrie-afrique.html",
+      "link": "https://korben.info/transsion-smartphones-telemetrie-afrique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "Si vous lisez ça depuis Abidjan, Dakar, Douala ou Kinshasa, y'a une chance sur deux que votre téléphone soit un Tecno, un Infinix ou un itel. Trois marques, mais un seul patron : Transsion, qui trône sur près de la mo...",
       "published": "2026-07-09T06:10:24+00:00",
       "source": "Korben",
@@ -153,10 +273,10 @@
       "image": ""
     },
     {
-      "id": "75c53c3342212189eac368a16c42e718",
+      "id": "8732ce2fceefa11fcbc7125103aa7c0b",
       "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
-      "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html",
-      "summary": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu. C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mémo...",
+      "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu . C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mém...",
       "published": "2026-07-08T20:17:46+00:00",
       "source": "Korben",
       "category": "outils",
@@ -213,9 +333,9 @@
       "image": ""
     },
     {
-      "id": "936470fb7fbe1a7ba6c3fd85f278a2a7",
+      "id": "d672e0754e6c9443b4bc2a31acdaf5f1",
       "title": "GDID Windows - Coupez le mouchard qui vous traque même sous VPN",
-      "link": "https://korben.info/desactiver-gdid-windows.html",
+      "link": "https://korben.info/desactiver-gdid-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "Comme je vous le disais tout à l'heure, en avril 2026, le FBI a coincé un membre présumé de Scattered Spider. Le mec planquait son trafic derrière un VPN, avec des IP dans trois pays différents. Et devinez quoi ? Ce n...",
       "published": "2026-07-08T15:59:33+00:00",
       "source": "Korben",
@@ -223,9 +343,9 @@
       "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.jpg"
     },
     {
-      "id": "36f2d9913fed36743154139fecfdf8a9",
+      "id": "e28f1c2befef81da0b13b204613f9faf",
       "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
-      "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html",
+      "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre, on se dit \"Ah br...",
       "published": "2026-07-08T15:23:01+00:00",
       "source": "Korben",
@@ -243,124 +363,14 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLRfTvakP4spTkbT8iiV9ndUR4EwlHOmGkZrO4JdBl3QsmWS5zA_sx081fvr3R11VEnZcjHOFcirZAQ5eaqB3n8sFJQ7m64edzVHNONHsD9j9Obds8E_Z9VC08y42TCyJV_3zpWam1LTHhiZBLX5WCLNp-4tdR-AwYzlyoifh1Seu-ND4OKbnZOEhMks/s1600/ai-botnet.jpg"
     },
     {
-      "id": "ebcaa49ec6a83396d8179094a62f0127",
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command e...",
-      "published": "2026-07-08T14:38:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2TRa1CP7yIs67Wa1bxiFVW5yq1S7vtAaQHf_htjuDbpAETKv8tfw7rchtVvME0FsA8YJ_uQzRp_ZAV-nPhLyRUQw_NNdgN0zhjyVR_L3wzt1ZX08PknwSF2FBLeieIUIx7t4hLMF1sDnsRuFCzllq8auoKriKlGMdllY8IYG04bID6cgGzty0e9mVhoM/s1600/uu.jpg"
-    },
-    {
-      "id": "7c30070d1dccc7b1d999c3998827e8ac",
-      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-      "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verifi...",
-      "published": "2026-07-08T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "83adbac74815b1c99235fd987f3a494d",
-      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-      "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to li...",
-      "published": "2026-07-08T13:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl6gaxMQBH0Bjb1ZhuaOiM5gKEk-zuSf821eRfV33ogx6YWwENunjyOPF8VXHtgtHgIevENLfBV2O04QI4TtjtDe2PGGevWptQEEagmp6q-G4FqOankGokz70XzVtz7dmNbEZ5G7-pV0yINgd2-ima7ap8xeOxuhZBKw2WPoUo81wKmGrwsPxbzYkW5Wk/s1600/anyrun-main.jpg"
-    },
-    {
-      "id": "c25d9b4195e12e4eae526bee0cc3f71b",
+      "id": "ee64870486ab9d60b1b4e2865495c175",
       "title": "Windows cache un identifiant secret que Microsoft file au FBI",
-      "link": "https://korben.info/windows-gdid-identifiant-mouchard-vpn.html",
+      "link": "https://korben.info/windows-gdid-identifiant-mouchard-vpn.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "Putain, c'est abusé, vous allez voir ! Peter Stokes, 19 ans, accusé d'appartenir au groupe Scattered Spider, enchaînait les VPN et changeait de pays pour brouiller les pistes mais le FBI l'a quand même coincé. Et vous...",
       "published": "2026-07-08T12:55:15+00:00",
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/windows-gdid-identifiant-mouchard-vpn/windows-gdid-identifiant-mouchard-vpn-1.png"
-    },
-    {
-      "id": "d06255c5141f8648198e78f28b86d5b4",
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under ...",
-      "published": "2026-07-08T12:52:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg"
-    },
-    {
-      "id": "98741c0dd43869c05d363e402fad562f",
-      "title": "Proton 11 ressuscite Dino Crisis et Resident Evil sur Linux",
-      "link": "https://korben.info/proton-11-jeux-windows-linux.html",
-      "summary": "Je sais pas si vous avez vu mais Valve vient de sortir Proton 11, la nouvelle version stable de sa couche de compatibilité qui fait tourner les jeux Windows sur Linux via Steam Play. Et cette fois, c'est basé sur Wine...",
-      "published": "2026-07-08T12:42:43+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/proton-11-jeux-windows-linux/proton-11-jeux-windows-linux-1.jpg"
-    },
-    {
-      "id": "2e40829a4d7157dace400fe50b05939a",
-      "title": "Cette Atari Jaguar de 1993 boote sous Linux avec 2 Mo de RAM",
-      "link": "https://korben.info/linux-atari-jaguar-68000.html",
-      "summary": "Une Atari Jaguar, la console de 1993 qu'Atari vendait comme la première machine 64 bits et que le marché a snobée, vient de booter sous Linux pour la première fois ! Derrière ce hack, un développeur connu sous le pseu...",
-      "published": "2026-07-08T12:12:21+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linux-atari-jaguar-68000/linux-atari-jaguar-68000-1.jpg"
-    },
-    {
-      "id": "b9bf33e0fc82f6e5fee31eae0f475b94",
-      "title": "Ça c'est ma veille tech",
-      "link": "https://korben.info/veille-tech-direct-flux-rss.html",
-      "summary": "Ça fait un moment que ça me trotte dans la tête et vous êtes plusieurs à me réclamer régulièrement ma veille, comme dans la chanson, en mode \"Allez Korben, montre-nous tes RSS, allez Korben montre-nous tes flux !\". C'...",
-      "published": "2026-07-08T12:05:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/veille-tech-direct-flux-rss/veille-tech-direct-flux-rss-1.png"
-    },
-    {
-      "id": "89901ea9a01ecf152f5e4eca626c4ec9",
-      "title": "DuckDuckGo browser now blocks YouTube video ads",
-      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
-      "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
-      "published": "2026-07-08T12:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e9de9f7f657e5008e685f7ba8498455d",
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with...",
-      "published": "2026-07-08T11:51:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg"
-    },
-    {
-      "id": "c8c8ea7b441e4eb092b1c83badd58eb8",
-      "title": "Telco giant KDDI says data breach affects over 12 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-      "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the coun...",
-      "published": "2026-07-08T11:24:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6ac7d0ab5da41ebb0702375528d98e90",
-      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-      "published": "2026-07-08T09:58:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "c70d5977572c0df697b4bfad61ed5e26",
@@ -393,13 +403,73 @@
       "image": ""
     },
     {
-      "id": "a9fbfb7c4fd1942390ab135a03602925",
-      "title": "Januscape : 16 ans dans l’ombre pour cette faille KVM qui menace le cloud",
-      "link": "https://www.it-connect.fr/januscape-faille-kvm-evasion-vm-hote/",
-      "summary": "Januscape (CVE-2026-53359), une faille use-after-free restée 16 ans dans KVM, permet à une VM Intel ou AMD de planter son hôte, voire de s'en évader. Le post Januscape : 16 ans dans l’ombre pour cette faille KVM qui m...",
-      "published": "2026-07-07T14:23:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "aa087b3e88662f4a5eee96cb356c3230",
+      "title": "Multiples vulnérabilités dans Mozilla Thunderbird (02 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0827/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.",
+      "published": "2026-07-02T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "036a3c7db62d97ae4484cac853ecdc76",
+      "title": "Vulnérabilité dans CPython (02 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0828/",
+      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-07-02T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1ade7505b655bdcd4ce667c0520d1ced",
+      "title": "Multiples vulnérabilités dans ClamAV (02 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0824/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-07-02T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ae30d0a32005a1b087cc408db8603f79",
+      "title": "Multiples vulnérabilités dans les produits Cisco (02 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0825/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "published": "2026-07-02T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "31f0b40714051f904bd2aece532fe2d1",
+      "title": "Vulnérabilité dans Mozilla Firefox (01 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0820/",
+      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
+      "published": "2026-07-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "307dd1275586b63e177b3f7a572e7139",
+      "title": "Multiples vulnérabilités dans les produits Citrix (01 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0822/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et ...",
+      "published": "2026-07-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "973b162d8a38171d0093d33dc1fa7b74",
+      "title": "Multiples vulnérabilités dans Adobe ColdFusion (01 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0821/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
+      "published": "2026-07-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -423,81 +493,11 @@
       "image": ""
     },
     {
-      "id": "ac9fb4b9408507b7758a3eafd576a658",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-028 (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-028/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-06-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "569cf0b442bc6923503f63b8aff71fc7",
-      "title": "Vulnérabilité dans HAProxy (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0814/",
-      "summary": "Une vulnérabilité a été découverte dans HAProxy. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-06-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c859f437789bc0e4cba5c9e1ac13384d",
-      "title": "Multiples vulnérabilités dans Mattermost Server (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0813/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "87858977ae4a049805bd1495093553d0",
-      "title": "Multiples vulnérabilités dans KeyCloak (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0815/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans KeyCloak. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à ...",
-      "published": "2026-06-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9309766bde53b09cd4a3c96c6cb980e5",
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5382b12c7d8800137ce423d1a8b44f93",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "516bdb92ddeb7dea247fd496e464d703",
-      "title": "Multiples vulnérabilités dans Stormshield Management Center (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0816/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Management Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une a...",
-      "published": "2026-06-29T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8c4a58ae85630312fb914aa6da34be0f",
-      "title": "Multiples vulnérabilités dans les produits IBM (26 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0810/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-06-26T00:00:00+00:00",
+      "id": "3f6f64185a70dab4117f89af535cf0fa",
+      "title": "Multiples vulnérabilités dans Synology MailPlus Server (30 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0819/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Synology MailPlus Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des donnée...",
+      "published": "2026-06-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
