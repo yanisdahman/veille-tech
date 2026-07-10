@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-07-10T02:42:27.187206+00:00",
+  "last_updated": "2026-07-10T09:29:12.600246+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "34f194c8d915f366f3bb157b4b4eb95c",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the mone...",
+      "published": "2026-07-10T09:00:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkED95MupJS7PoLW-VquW2mYDI869jXcCfUDUH240NRo4Yo_T63CRuicNBeGadfXW4MvDfie5vJqJ-bXkfD0VQPUl6_iUSR6C0csoL_JDjEeQmQGBoO9DDfdwzNpS8G4dendKvweGkYQypGPVx-_z0cQd_kmdVIA4YFRxNJiIwKpwU1wIUC5H8gnGDgg/s1600/crypto-wallet.jpg"
+    },
+    {
+      "id": "97b9129ee2961b9f18439e2674fbd087",
+      "title": "Chat Control - 314 contre, 112 absents, et le texte passe",
+      "link": "https://korben.info/chat-control-europe-scan-messages.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "314 députés européens ont voté jeudi pour enterrer Chat Control et 276 ont voté pour le garder. Et c'est quand même passé OKLM. Et oui, pas la peine de vous frotter les yeux, je vais vous expliquer tout ça. En seconde...",
+      "published": "2026-07-10T08:59:58+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/chat-control-europe-scan-messages/chat-control-europe-scan-messages-1.jpg"
+    },
+    {
+      "id": "347c0935b58a84628ad78ed776476779",
+      "title": "StatCounter n'identifie plus 1 visite sur 5 (et ça fausse tout)",
+      "link": "https://korben.info/windows-part-marche-statcounter.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Windows serait passé sous la barre des 60 % de parts de marché. C'est ce qu'on peut lire un peu partout dans la presse tech cette semaine. C'est StatCounter qui le dit avec précisément 56,61 % de Windows comptabilisé ...",
+      "published": "2026-07-10T08:27:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-part-marche-statcounter/windows-part-marche-statcounter-1.png"
+    },
+    {
+      "id": "5cadedb35487564894e16faff7061e40",
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "summary": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "published": "2026-07-10T08:17:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1edae8951592cd16d7228eb6a4886e42",
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multi...",
+      "published": "2026-07-10T08:10:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMfAeNe_4YwD_9txUToRE4uGigzg48NOJjGKREMneC5B57ROnoCbTMO-4rUiFu76ZsmJwizj28wLcHWmkuRQaQYxUFtWfrfWh3OyqFz61J7sk62rGkVO8jyP_-enVjRDhjYxWOyenL_ToZ3uVusHEuedtF63JPmcwCw_K2UieFO53HqI-yr5RBYWToxEb/s1600/Ransomware-Negotiator.jpg"
+    },
+    {
+      "id": "5277f5c4674dba1bcd039db142a90cbd",
+      "title": "Chatto passe en open source : un seul binaire pour remplacer Teams, Slack et Discord ?",
+      "link": "https://www.it-connect.fr/chatto-messagerie-equipe-open-source-auto-hebergee/",
+      "summary": "Hendrik Mans a publié le code source de Chatto, une messagerie d'équipe auto-hébergée qui tient en un seul binaire pour remplacer Discord, Teams ou Slack. Le post Chatto passe en open source : un seul binaire pour rem...",
+      "published": "2026-07-10T07:41:35+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a6fe617ec0490971d98a5a4f05c19a8e",
+      "title": "Microsoft prévient : l’IA va faire gonfler vos Patch Tuesday",
+      "link": "https://www.it-connect.fr/microsoft-ia-plus-de-mises-a-jour-securite-windows/",
+      "summary": "Microsoft prévient que le volume de correctifs par Patch Tuesday va augmenter : son système MDASH découvre désormais les failles de Windows à l'aide de l'IA. Le post Microsoft prévient : l’IA va faire gonfler vos Patc...",
+      "published": "2026-07-10T06:56:36+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "45c088be029ec82f64b3292bc1bcb1eb",
+      "title": "DEBULL : ce kit de phishing détourne le device code de Microsoft 365 pour contourner le MFA",
+      "link": "https://www.it-connect.fr/debull-device-code-phishing-microsoft-365/",
+      "summary": "ZeroBEC a repéré DEBULL, un kit de phishing qui abuse du device code Microsoft pour pirater des comptes Microsoft 365 sans voler de mot de passe. Le post DEBULL : ce kit de phishing détourne le device code de Microsof...",
+      "published": "2026-07-10T06:05:50+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b1d6012254d402f9e5c2e9d538b771b0",
+      "title": "Microsoft 365 : pendant que la victime est au téléphone, l’attaquant crée sa propre passkey Entra",
+      "link": "https://www.it-connect.fr/vishing-passkey-entra-microsoft-365/",
+      "summary": "Depuis le printemps 2026, des pirates appellent des salariés sous prétexte d'enrôler une passkey Entra. Pendant ce temps, l'attaquant enregistre la sienne. Le post Microsoft 365 : pendant que la victime est au télépho...",
+      "published": "2026-07-10T05:19:12+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "4a0b09580e2224dcfe61e087ab19cf9b",
       "title": "OpenMandriva Linux says contributor tried to sabotage the project",
@@ -233,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "0b179a7b74a5b775a8abdeca0d8753c3",
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-      "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-      "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default. \"You can also @-mention Instagram acc...",
-      "published": "2026-07-09T07:21:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsjiT58V2lRqaqYwo2AHkilx81c58T9dBHa_W5KiHgom4-UgZqV18Ax-zQb8_fN7p_OQpqi0b4nTzt4SpDnHW-RozKjIcgs-B8KN8HI_QnCMzIjDMmcg2grJEyP7r1ZNd_SRB5R1MDw-vo-jQ4v198ZDhMsWaBpFnXmShkouRZvXIXpu-32FQ_30h4HQrq/s1600/metaai.jpg"
-    },
-    {
       "id": "63760ae4506264ebcdfead7886071ef6",
       "title": "Le navigateur DuckDuckGo bloque désormais les publicités YouTube, par défaut",
       "link": "https://www.it-connect.fr/duckduckgo-navigateur-bloque-publicites-youtube/",
@@ -293,26 +373,6 @@
       "image": ""
     },
     {
-      "id": "2ea2b664c46e66e049fc5a8270494044",
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
-      "published": "2026-07-09T05:42:49+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1b7bc73a82bbfd7c196d59ab602e2873",
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institu...",
-      "published": "2026-07-09T05:15:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif"
-    },
-    {
       "id": "33c7ecd07ca63e70175e827fc6d3c19e",
       "title": "Outlook va proposer des réponses automatiques basées sur des règles",
       "link": "https://www.it-connect.fr/outlook-reponses-automatiques-basees-sur-regles/",
@@ -333,16 +393,6 @@
       "image": "https://korben.info/apple-fin-hfs-plus-chiffre/apple-fin-hfs-plus-chiffre-1.jpg"
     },
     {
-      "id": "9411f3d611a2af6dc033912ff32fec66",
-      "title": "GDID, cet identifiant Windows qui a permis au FBI de traquer un membre de Scattered Spider",
-      "link": "https://www.it-connect.fr/gdid-windows-fbi-scattered-spider/",
-      "summary": "Un identifiant Windows, le GDID, a aidé le FBI à relier un membre présumé de Scattered Spider à une cyberattaque, d'après une plainte fédérale américaine. Le post GDID, cet identifiant Windows qui a permis au FBI de t...",
-      "published": "2026-07-08T16:08:30+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "d672e0754e6c9443b4bc2a31acdaf5f1",
       "title": "GDID Windows - Coupez le mouchard qui vous traque même sous VPN",
       "link": "https://korben.info/desactiver-gdid-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -351,56 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.jpg"
-    },
-    {
-      "id": "e28f1c2befef81da0b13b204613f9faf",
-      "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
-      "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre, on se dit \"Ah br...",
-      "published": "2026-07-08T15:23:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante/doctolib-recherche-ia-opposition-donnees-sante-1.jpg"
-    },
-    {
-      "id": "ee64870486ab9d60b1b4e2865495c175",
-      "title": "Windows cache un identifiant secret que Microsoft file au FBI",
-      "link": "https://korben.info/windows-gdid-identifiant-mouchard-vpn.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Putain, c'est abusé, vous allez voir ! Peter Stokes, 19 ans, accusé d'appartenir au groupe Scattered Spider, enchaînait les VPN et changeait de pays pour brouiller les pistes mais le FBI l'a quand même coincé. Et vous...",
-      "published": "2026-07-08T12:55:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/windows-gdid-identifiant-mouchard-vpn/windows-gdid-identifiant-mouchard-vpn-1.png"
-    },
-    {
-      "id": "c70d5977572c0df697b4bfad61ed5e26",
-      "title": "Sécurité Active Directory : auditer les délégations LAPS et détecter les failles ACL",
-      "link": "https://www.it-connect.fr/audit-laps-delegation-active-directory/",
-      "summary": "Une délégation LAPS mal maîtrisée peut exposer les mots de passe admin locaux. Apprenez à auditer les ACL, détecter les accès à risque et corriger la faille. Le post Sécurité Active Directory : auditer les délégations...",
-      "published": "2026-07-08T07:55:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "52d67c03b7ded484967ba4c40ad9016f",
-      "title": "Proton 11.0 est disponible : Valve muscle encore la compatibilité des jeux sous Linux",
-      "link": "https://www.it-connect.fr/proton-11-0-compatibilite-jeux-linux/",
-      "summary": "Valve a publié Proton 11.0, basé sur Wine 11. Au programme : des classiques, des jeux EA réparés, un meilleur support VR et de nombreux correctifs. Le post Proton 11.0 est disponible : Valve muscle encore la compatibi...",
-      "published": "2026-07-08T05:43:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7ecd55ffe1a88f852e218c825cd41a30",
-      "title": "Windows 11 : ce fichier caché peut consommer tout votre disque",
-      "link": "https://www.it-connect.fr/windows-11-ce-fichier-cache-peut-consommer-tout-votre-disque/",
-      "summary": "Un fichier système méconnu de Windows 11, CapabilityAccessManager.db-wal, peut gonfler jusqu'à 500 Go et saturer votre disque. Vérification et correctif. Le post Windows 11 : ce fichier caché peut consommer tout votre...",
-      "published": "2026-07-08T05:22:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "aa087b3e88662f4a5eee96cb356c3230",
