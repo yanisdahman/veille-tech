@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-09T19:40:27.181401+00:00",
+  "last_updated": "2026-07-10T02:42:27.187206+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4a0b09580e2224dcfe61e087ab19cf9b",
+      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
+      "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
+      "summary": "The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]",
+      "published": "2026-07-09T22:14:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "48bac951769d6d339419b55d08162541",
+      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+      "summary": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phras...",
+      "published": "2026-07-09T20:10:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "88b5e6f6f39114853ca9702a643be994",
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -303,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "1840cd0252a328d32afc7900ca9c07b6",
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
-      "published": "2026-07-08T21:26:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8732ce2fceefa11fcbc7125103aa7c0b",
       "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
       "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -321,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/apple-fin-hfs-plus-chiffre/apple-fin-hfs-plus-chiffre-1.jpg"
-    },
-    {
-      "id": "64316dec9f19952a869e2393a6f6226b",
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
-      "published": "2026-07-08T19:54:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "9411f3d611a2af6dc033912ff32fec66",
