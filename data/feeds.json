@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-07-10T14:16:24.220728+00:00",
+  "last_updated": "2026-07-10T19:22:31.833270+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "5cea7d52142d9b18eea56c1521321c14",
+      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+      "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
+      "published": "2026-07-10T17:46:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c6e89b0b88390d517b78a3fcfffeae5c",
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
+      "published": "2026-07-10T16:37:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0c29dc609adc9548bf5b6b692e79f66",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The...",
+      "published": "2026-07-10T16:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg"
+    },
+    {
+      "id": "d5c7f865b5372e9e00e56c876a46ceec",
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed ph...",
+      "published": "2026-07-10T16:29:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg"
+    },
+    {
+      "id": "a76b0b938c2d82c439434a723259149d",
+      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-p...",
+      "published": "2026-07-10T16:26:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "73b032e1cce5fcae5ca32b66e928bc90",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers...",
+      "published": "2026-07-10T15:57:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif"
+    },
+    {
+      "id": "5d542060efdc977bbcf87145a7a4ef03",
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+      "published": "2026-07-10T15:48:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7331ef2d24112da1ad57f56baace3897",
+      "title": "Money launderer accused of stealing seized crypto while in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+      "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
+      "published": "2026-07-10T15:30:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7a63204b42c4e54ba236b7b58c1dbd12",
+      "title": "Votre cerveau en mode pilote automatique - Bruxelles accuse Meta",
+      "link": "https://korben.info/meta-scroll-infini-design-addictif-dsa.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Il est 1h12 du mat', vous êtes allongé dans le canap, le téléphone à 20 cm du museau, et votre pouce swipe encore et encore dans un automatisme le plus complet... Un reel de chat, une recette de lasagnes, un type qui ...",
+      "published": "2026-07-10T15:16:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/meta-scroll-infini-design-addictif-dsa/meta-scroll-infini-design-addictif-dsa-1.jpg"
+    },
+    {
+      "id": "76fb685bc269fbdf1304e596316451c3",
+      "title": "EVE Online - 30 dépôts MIT sur GitHub, dont un qui ne compile pas",
+      "link": "https://korben.info/eve-online-moteur-carbon-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "8 825 joueurs qui se canardent au même endroit, sur un seul serveur, pendant 14 heures. C'était en 2020 dans le système FWST-8 d'EVE Online, et le moteur qui a encaissé ça s'appelle Carbon. Et si je vous cause de ça c...",
+      "published": "2026-07-10T15:04:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/eve-online-moteur-carbon-open-source/eve-online-moteur-carbon-open-source-1.jpg"
+    },
+    {
+      "id": "fd51623ec3ebe759f41b2a3b68fd4eb0",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old pa...",
+      "published": "2026-07-10T14:51:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BbJcQ3TUJxFvOCpAChyC5saD3RGgDCtLtVG-Wupee7poBksO2TzSWFtzQmjjoXuZ-9hnCNR3HuWdSsBv7YZl477fdOcjoOBh72RY4vJ9R0hxUWktV2R7wgTsRa-_Zz5Bj_ZGfQOVT8v292QJ55C9hMumk-IgXd-PVZ6LFu2ZDyCGwjNtJhCYb4W-mPDO/s1600/ll.jpg"
+    },
+    {
+      "id": "6e7a1aadb613b4bf9e18aec73916d7a5",
+      "title": "Fiber Memory - Stocker la mémoire d'une IA dans 1 000 km de fibre optique",
+      "link": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Accrochez-vous parce que celle-là, elle est bien barrée ! Des chercheurs de l'université d'Uppsala veulent stocker la mémoire d'une IA... dans de la lumière. Leur projet Fiber Memory fait tourner les données d'un LLM ...",
+      "published": "2026-07-10T14:28:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre/fiber-memory-accelerateurs-boucle-fibre-1.png"
+    },
+    {
+      "id": "ad965b7b750ee3bb6bc478dd173872eb",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arb...",
+      "published": "2026-07-10T14:19:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg"
+    },
     {
       "id": "c1b4d4c12c5a419317d5986296853e7a",
       "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
@@ -83,26 +213,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJR5fh4xv_X2JER6SMxM62unaK2pucigiJwiE69bCR9n3fgVMqlH2zWpTsmiy4d936R46czjNmkAjDpU7yZgPMl6KFp7phz3kQ9sO1XaE3JHMW0VCUtwN3_zOqOcUfKdbJTJjWjahA44NPMXMif0JqnO_kzJDfuHT0HJvtOlndAvheFqNrpviHXVQ_DIb/s1600/android-vpn-security.jpg"
     },
     {
-      "id": "989a2177f3e8b8c9e664a9746bc68f50",
-      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-      "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-      "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion a...",
-      "published": "2026-07-10T10:30:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg"
-    },
-    {
-      "id": "34f194c8d915f366f3bb157b4b4eb95c",
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the mone...",
-      "published": "2026-07-10T09:00:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkED95MupJS7PoLW-VquW2mYDI869jXcCfUDUH240NRo4Yo_T63CRuicNBeGadfXW4MvDfie5vJqJ-bXkfD0VQPUl6_iUSR6C0csoL_JDjEeQmQGBoO9DDfdwzNpS8G4dendKvweGkYQypGPVx-_z0cQd_kmdVIA4YFRxNJiIwKpwU1wIUC5H8gnGDgg/s1600/crypto-wallet.jpg"
-    },
-    {
       "id": "97b9129ee2961b9f18439e2674fbd087",
       "title": "Chat Control - 314 contre, 112 absents, et le texte passe",
       "link": "https://korben.info/chat-control-europe-scan-messages.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -131,16 +241,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "1edae8951592cd16d7228eb6a4886e42",
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multi...",
-      "published": "2026-07-10T08:10:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMfAeNe_4YwD_9txUToRE4uGigzg48NOJjGKREMneC5B57ROnoCbTMO-4rUiFu76ZsmJwizj28wLcHWmkuRQaQYxUFtWfrfWh3OyqFz61J7sk62rGkVO8jyP_-enVjRDhjYxWOyenL_ToZ3uVusHEuedtF63JPmcwCw_K2UieFO53HqI-yr5RBYWToxEb/s1600/Ransomware-Negotiator.jpg"
     },
     {
       "id": "5277f5c4674dba1bcd039db142a90cbd",
@@ -203,66 +303,6 @@
       "image": ""
     },
     {
-      "id": "88b5e6f6f39114853ca9702a643be994",
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API. \"Operators rely on automa...",
-      "published": "2026-07-09T18:38:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDslymdYqhkFwIm3ZeaXVZweYVT_R1d6LCQhIm799y9-5hQ3C45cumIStxGYheFbwosbd_JtrB6FgOthR2KJgfe8PYs0k47eGV7263ATac5UR0t7OOaqOUGOf5DHAR4b0IaKTozk0UEiHJz5-nze3b1ureycPGqdPVlqrImWreOWwMpGxC8kgBvONCLGbH/s1600/github-ghost.jpg"
-    },
-    {
-      "id": "fe431c4ad3c5b15ddac8699bbcc8d962",
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can ...",
-      "published": "2026-07-09T18:08:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJRuXh4y7zy8C81w_JgJgWFg_sgF0IYcsvqWEsYeHIHu7nWdOl1aIMQdnmmRQF-KJK_XdTGxzSIAr57yFkzMIZ_VK5Kzx12xR4oW8QOZcnsf9zmySIT3YRvpPvo2q-P92sZc2LqB4M-NSlktwLGU85I0JQbCVCjvJ130GLEF6eGknO8VzkK66kHjlgkBg/s1600/data-wiper-malware.jpg"
-    },
-    {
-      "id": "04d3c302f5306d0c9a2fa2141ead33a1",
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments....",
-      "published": "2026-07-09T17:08:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4f60ab3e4fedfe35cc64f2bc8012f356",
-      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-      "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
-      "published": "2026-07-09T17:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "db1a64438f70a3abd8de29cd93fd6279",
-      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
-      "published": "2026-07-09T14:39:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3949af007c64dfb0ad2ac13a09b5ad0a",
-      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
-      "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce relianc...",
-      "published": "2026-07-09T14:02:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "b2f8a377c3412e1bb1f619b963e0d5f0",
       "title": "OWA Light - Le webmail de secours Exchange passe l'arme à gauche",
       "link": "https://korben.info/owa-light-fin-exchange-server.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -301,16 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/tuta-mail-import-emails/tuta-mail-import-emails-1.webp"
-    },
-    {
-      "id": "483aefb3e180c9c67fb6824f116f4580",
-      "title": "Microsoft to retire the OWA Light client in Exchange Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-      "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
-      "published": "2026-07-09T11:00:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "7a4fe07eecb4525fffa9472f525a2e85",
@@ -363,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "c22693dd700d7a993f33c9e1cfe6a8ca",
-      "title": "Tecno, itel et Infinix cachent un mouchard système impossible à virer",
-      "link": "https://korben.info/transsion-smartphones-telemetrie-afrique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous lisez ça depuis Abidjan, Dakar, Douala ou Kinshasa, y'a une chance sur deux que votre téléphone soit un Tecno, un Infinix ou un itel. Trois marques, mais un seul patron : Transsion, qui trône sur près de la mo...",
-      "published": "2026-07-09T06:10:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/transsion-smartphones-telemetrie-afrique/transsion-smartphones-telemetrie-afrique-1.jpg"
-    },
-    {
       "id": "7b5aa8a73869a95c70361726e9242adb",
       "title": "Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vie à 16.99€ et Windows 11 Pro à 12.25€",
       "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
@@ -381,26 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "8732ce2fceefa11fcbc7125103aa7c0b",
-      "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
-      "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu . C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mém...",
-      "published": "2026-07-08T20:17:46+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/apple-fin-hfs-plus-chiffre/apple-fin-hfs-plus-chiffre-1.jpg"
-    },
-    {
-      "id": "d672e0754e6c9443b4bc2a31acdaf5f1",
-      "title": "GDID Windows - Coupez le mouchard qui vous traque même sous VPN",
-      "link": "https://korben.info/desactiver-gdid-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Comme je vous le disais tout à l'heure, en avril 2026, le FBI a coincé un membre présumé de Scattered Spider. Le mec planquait son trafic derrière un VPN, avec des IP dans trois pays différents. Et devinez quoi ? Ce n...",
-      "published": "2026-07-08T15:59:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.jpg"
     },
     {
       "id": "0a897605ef52f01cc2b2041ea295f51b",
