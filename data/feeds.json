@@ -1,10 +1,100 @@
 {
-  "last_updated": "2026-07-10T09:29:12.600246+00:00",
+  "last_updated": "2026-07-10T14:16:24.220728+00:00",
   "count": 50,
   "articles": [
     {
+      "id": "c1b4d4c12c5a419317d5986296853e7a",
+      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+      "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+      "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity g...",
+      "published": "2026-07-10T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ca4fdb1b1f20912add0403673539ebfc",
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may a...",
+      "published": "2026-07-10T13:15:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKTCUzhkUq2Y7DPv0yS2FatrHQTcHfupRly6f5kSWyQU-So3FOjpC8pt_VKR4qo1SoUGR65ycOEQonbW5heKWj1g_A8qDy69YtWGZDO4m2t46Sip-jdPAlNs2fpRj-w1yd8WpyJpNFUpj1iTBO0X6fy3n9DJ4aEdsWaQz_tN-VV-PxDrufKZR9wkznmXJQ/s1600/MODBEACON.jpg"
+    },
+    {
+      "id": "827c974d851138fead7eb329791d2de3",
+      "title": "Windows Defender : le patch RoguePlanet aurait des effets de bord",
+      "link": "https://www.it-connect.fr/windows-defender-patch-rogueplanet-effets-de-bord/",
+      "summary": "Le chercheur derrière RoguePlanet affirme que le correctif pour Windows Defender permet un déni de service saturant le disque local. Le post Windows Defender : le patch RoguePlanet aurait des effets de bord a été publ...",
+      "published": "2026-07-10T11:52:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "15dc388bafc27a2f4d19a2f5cecbe155",
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Fé...",
+      "published": "2026-07-10T11:47:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHphr7bXE4J4-EmYSWy0cjHarUBibR2JrXpFbwDKMZnsWbiUsC9UE7g3x2r8WFDLB7BBZlH2kDJ3I9QqF8IIGLPiZda93wKUaDqJC8Nv11yrd7VPm9RmBOky0yRXGRhhcDqbwNCZvHiGTkKRb06XAwFiGl0juzUeFBn3LUDwFfxZVNlInVmXTNI4cMLI/s1600/XQUIC-demo.gif"
+    },
+    {
+      "id": "fcb267389fc851ccc0ba298a1dc12302",
+      "title": "Zimbra urges customers to patch critical web client XSS flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "summary": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
+      "published": "2026-07-10T11:47:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2d0c7da3140c6c50339343aab073e2fa",
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of orga...",
+      "published": "2026-07-10T11:39:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1600/million.jpg"
+    },
+    {
+      "id": "fe8bca379c4c70b14b251cccea81293e",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 milli...",
+      "published": "2026-07-10T11:30:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgruetcUTsay2-ledgCIdCPKK_bPRiTzuXzYeUiLR3xuazZgHTmxO4Gz6PyyuwdFUVoHHOCbq5PksEMW18dSsdzCJddBMr8vQ3TQO3PIqXExF_17RGVfKRD8cPltNjh6eV1fgXM-pYYlwZnWaZcf7oo50CahUBY5AWt8-IS1K7KxhlL9GFLDcAk1ruwMSI/s1600/hacker-server.jpg"
+    },
+    {
+      "id": "001e21f0714f05ef575938f9a8ab5966",
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secu...",
+      "published": "2026-07-10T10:56:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJR5fh4xv_X2JER6SMxM62unaK2pucigiJwiE69bCR9n3fgVMqlH2zWpTsmiy4d936R46czjNmkAjDpU7yZgPMl6KFp7phz3kQ9sO1XaE3JHMW0VCUtwN3_zOqOcUfKdbJTJjWjahA44NPMXMif0JqnO_kzJDfuHT0HJvtOlndAvheFqNrpviHXVQ_DIb/s1600/android-vpn-security.jpg"
+    },
+    {
+      "id": "989a2177f3e8b8c9e664a9746bc68f50",
+      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+      "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+      "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion a...",
+      "published": "2026-07-10T10:30:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg"
+    },
+    {
       "id": "34f194c8d915f366f3bb157b4b4eb95c",
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
       "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the mone...",
       "published": "2026-07-10T09:00:05+00:00",
@@ -153,26 +243,6 @@
       "image": ""
     },
     {
-      "id": "37174c1aaa37686ff90e165d1ee45cdc",
-      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-      "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Micr...",
-      "published": "2026-07-09T16:49:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbP2w2lzNWbB041oSXvx2Nb1uOJaf81XNUBioDv_3K73S-JnzIU4OnUHfwG3Q3RLbf_p2wJBpHC0m2M4cQhCMfcSRRx1MY9n2vCVSNI4ddai3uJ3eE2Kb-d_ryU_HSEx_R2Rjoxz2D3TBcZCgLRWf-rOBf9k73Vi1Q04aWNG9Ux-A5AOf-v1HjSGD3YZcg/s1600/npm-security.jpg"
-    },
-    {
-      "id": "afaaf37c707d3d4dcda2bb1aaddf7afb",
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud....",
-      "published": "2026-07-09T15:09:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXvG0n7eiC50jtfO-3MYOPx-Z0iWiucBfHqzY2QNH-5fUyfWcGu3NME0yERr2qWKcAeg6rIYMtP_VEeRInpeghztHmnjDa4QyuXSbaktcOdHHK9sx8lurd2RmejcmBjSZIznBl0zKQ-mk4dcCsVdL29g4XPEwUdrlQgj5-GgxvVnolSJJfCJW7g4vosLe/s1600/ThreatsDay-main.jpg"
-    },
-    {
       "id": "db1a64438f70a3abd8de29cd93fd6279",
       "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
@@ -201,16 +271,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/owa-light-fin-exchange-server/owa-light-fin-exchange-server-1.png"
-    },
-    {
-      "id": "9378322e660e2e6b235fca3494977a20",
-      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-      "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before yo...",
-      "published": "2026-07-09T12:26:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg"
     },
     {
       "id": "f16c8d39fa5004a64c9b0f8239a49a80",
@@ -253,46 +313,6 @@
       "image": ""
     },
     {
-      "id": "3f5a336320ab3cce855bdb2a279d0d5c",
-      "title": "Summer of Clearinghouses",
-      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-      "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built q...",
-      "published": "2026-07-09T11:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHNzR9Jii9NFEb6X2orsYvbxp5mJF4-z71vuQ1EHw94Tkym9ifxqrNmOtYQd9nmpe8rR7ZBZMdGEZb_S-ZKoKpXAFO3Aged7ApVnn_Pip_iI0p389k6ebIxpgwsw4OsyCKhE8KiqzdxmKDr_0ee_XaMKKPngnAcDJ5uQ_Pq8HOmX0ZUpz45pWxQID5Ec/s1600/Chainguard-main.jpg"
-    },
-    {
-      "id": "f191d9a422314fe3cc8eb97f212d7595",
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report p...",
-      "published": "2026-07-09T10:43:09+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge_nKJNwSt3ZRkzfZ2qH61_1WFg5hyphenhyphenMSrC3-JM4AOXRKO-IVsJXFNiM926QnG25eTply3DRF57t61wi5Ucy4yxald1RpH1TRbItw83RqQ-K6UM670vpR76-kBl2xcntaDE7lxxNwurseG5iRM4sMhYK8Npb9COGNM_XjbwBLthnJjBfwqV7m96VKOnWb3Q/s1600/endpoint-ransomware.jpg"
-    },
-    {
-      "id": "c1bfb1f49fe109c9a866ac922018909e",
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
-      "published": "2026-07-09T09:47:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4f33efffd78cd45f5c87511c3b2d127f",
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a p...",
-      "published": "2026-07-09T08:48:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuqwSaoB3zc0bIhf1aBmcHsVVAsGnRDBc681vhmlgHYy0xx5VSxyS2jqjmk-mq27QrSKPN3yorL3A7DffJYp3iMO7CY_8owm-Cn8r7IFuvqeGHTPSyiFM0KVTMTE8W0Qon84tCbzsLVNqoS5nLq1aX8_RNKg0sxa2ke4Su_p5qy9dAlFdakwYcjueBGNhD/s1600/windows.jpg"
-    },
-    {
       "id": "7a4fe07eecb4525fffa9472f525a2e85",
       "title": "Hoodik - Le cloud perso qui n'a jamais vu vos fichiers en clair",
       "link": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -310,16 +330,6 @@
       "published": "2026-07-09T07:55:08+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8117d3b6dedd78db65ecc06d1b087d93",
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
-      "published": "2026-07-09T07:47:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -373,16 +383,6 @@
       "image": ""
     },
     {
-      "id": "33c7ecd07ca63e70175e827fc6d3c19e",
-      "title": "Outlook va proposer des réponses automatiques basées sur des règles",
-      "link": "https://www.it-connect.fr/outlook-reponses-automatiques-basees-sur-regles/",
-      "summary": "Outlook va permettre de créer des réponses automatiques basées sur des règles, avec modèles et conditions. pour ne plus répondre pareil à tout le monde. Le post Outlook va proposer des réponses automatiques basées sur...",
-      "published": "2026-07-09T05:05:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "8732ce2fceefa11fcbc7125103aa7c0b",
       "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
       "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -403,11 +403,81 @@
       "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.jpg"
     },
     {
-      "id": "aa087b3e88662f4a5eee96cb356c3230",
-      "title": "Multiples vulnérabilités dans Mozilla Thunderbird (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0827/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.",
-      "published": "2026-07-02T00:00:00+00:00",
+      "id": "0a897605ef52f01cc2b2041ea295f51b",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-029 (06 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-029/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-07-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "114c5cb24dfba95ee3ea90b77033174f",
+      "title": "Vulnérabilité dans PostgreSQL JDBC (06 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0837/",
+      "summary": "Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-07-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e586b66c524373d13fbd932460fde2d5",
+      "title": "Multiples vulnérabilités dans Roundcube (06 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0835/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une in...",
+      "published": "2026-07-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "257003600e039064a70789cce4e86425",
+      "title": "Vulnérabilité dans FreeBSD (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0830/",
+      "summary": "Une vulnérabilité a été découverte dans FreeBSD. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "published": "2026-07-03T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0371b5b07f82e72d706b7dcf826332c",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0832/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
+      "published": "2026-07-03T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9c965932bc6a13caa719e04585287d00",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0833/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et...",
+      "published": "2026-07-03T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f12a768f54ee1c3e457b8a1554ae77d6",
+      "title": "Multiples vulnérabilités dans les produits IBM (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0834/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-07-03T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5c7c6bc16e738be739a14e69c760998c",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (03 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0831/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de ...",
+      "published": "2026-07-03T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -423,81 +493,11 @@
       "image": ""
     },
     {
-      "id": "1ade7505b655bdcd4ce667c0520d1ced",
-      "title": "Multiples vulnérabilités dans ClamAV (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0824/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "id": "d6bac020757631427ef49b45bb627425",
+      "title": "Multiples vulnérabilités dans Google Chrome (02 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0829/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur",
       "published": "2026-07-02T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ae30d0a32005a1b087cc408db8603f79",
-      "title": "Multiples vulnérabilités dans les produits Cisco (02 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0825/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
-      "published": "2026-07-02T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "31f0b40714051f904bd2aece532fe2d1",
-      "title": "Vulnérabilité dans Mozilla Firefox (01 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0820/",
-      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-      "published": "2026-07-01T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "307dd1275586b63e177b3f7a572e7139",
-      "title": "Multiples vulnérabilités dans les produits Citrix (01 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0822/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et ...",
-      "published": "2026-07-01T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "973b162d8a38171d0093d33dc1fa7b74",
-      "title": "Multiples vulnérabilités dans Adobe ColdFusion (01 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0821/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
-      "published": "2026-07-01T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5f4be4a28b3458238ea6796d23e2773f",
-      "title": "Multiples vulnérabilités dans Apache Tomcat (30 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0817/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de ...",
-      "published": "2026-06-30T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "632223152e086d75d083242d60deb412",
-      "title": "Multiples vulnérabilités dans les produits Apple (30 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0818/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des don...",
-      "published": "2026-06-30T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3f6f64185a70dab4117f89af535cf0fa",
-      "title": "Multiples vulnérabilités dans Synology MailPlus Server (30 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0819/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Synology MailPlus Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des donnée...",
-      "published": "2026-06-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
