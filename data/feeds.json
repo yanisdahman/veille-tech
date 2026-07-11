@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-11T13:11:30.321078+00:00",
+  "last_updated": "2026-07-11T18:57:25.766074+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "981101e2dad87218baa4a308e053ed1b",
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "summary": "Version 8.14.0 of the jscrambler npm package shipped with a malicious preinstall hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux. Published on J...",
+      "published": "2026-07-11T17:59:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
+    },
+    {
+      "id": "e09de65b48669002b0fd8abcf6c253e7",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between Feb...",
+      "published": "2026-07-11T17:49:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
+    },
+    {
+      "id": "f1167ec170de0ef01cc3e6b01dd334e4",
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "published": "2026-07-11T14:18:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "f980bb22197d8fb7fd33927292a44195",
       "title": "Tangem - La faille laser qui condamne votre carte crypto à vie",
@@ -253,26 +283,6 @@
       "image": ""
     },
     {
-      "id": "2d0c7da3140c6c50339343aab073e2fa",
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of orga...",
-      "published": "2026-07-10T11:39:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1600/million.jpg"
-    },
-    {
-      "id": "fe8bca379c4c70b14b251cccea81293e",
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 milli...",
-      "published": "2026-07-10T11:30:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgruetcUTsay2-ledgCIdCPKK_bPRiTzuXzYeUiLR3xuazZgHTmxO4Gz6PyyuwdFUVoHHOCbq5PksEMW18dSsdzCJddBMr8vQ3TQO3PIqXExF_17RGVfKRD8cPltNjh6eV1fgXM-pYYlwZnWaZcf7oo50CahUBY5AWt8-IS1K7KxhlL9GFLDcAk1ruwMSI/s1600/hacker-server.jpg"
-    },
-    {
       "id": "97b9129ee2961b9f18439e2674fbd087",
       "title": "Chat Control - 314 contre, 112 absents, et le texte passe",
       "link": "https://korben.info/chat-control-europe-scan-messages.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -291,16 +301,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/windows-part-marche-statcounter/windows-part-marche-statcounter-1.png"
-    },
-    {
-      "id": "5cadedb35487564894e16faff7061e40",
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "summary": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "published": "2026-07-10T08:17:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "5277f5c4674dba1bcd039db142a90cbd",
