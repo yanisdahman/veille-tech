@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-11T18:57:25.766074+00:00",
+  "last_updated": "2026-07-12T02:27:42.473522+00:00",
   "count": 50,
   "articles": [
     {
       "id": "981101e2dad87218baa4a308e053ed1b",
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
       "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "summary": "Version 8.14.0 of the jscrambler npm package shipped with a malicious preinstall hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux. Published on J...",
+      "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and exec...",
       "published": "2026-07-11T17:59:26+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
