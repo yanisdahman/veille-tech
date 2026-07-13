@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-12T19:00:44.259157+00:00",
-  "count": 40,
+  "last_updated": "2026-07-13T02:29:18.427918+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "ac6d852f0dc5462002293f25e83d13a3",
+      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+      "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
+      "published": "2026-07-13T00:44:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "46c825ba403bc58564cf00c6bfaa2e42",
+      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
+      "published": "2026-07-12T19:39:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0370dea0ceccc894ceeb159dd09c80e5",
+      "title": "KamTape - Le site qui ressuscite le YouTube de 2005",
+      "link": "https://korben.info/kamtape-clone-youtube-2005.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Moi je me suis lancé en 2004 et un an plus tard il y a YouTube qui débarquait. C'était bien avant de se faire racheter par Google. Et j'avoue que j'en attendais pas grand-chose. Parce qu'à l'époque, on était vraiment ...",
+      "published": "2026-07-12T18:31:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/kamtape-clone-youtube-2005/kamtape-clone-youtube-2005-1.jpg"
+    },
     {
       "id": "78691cfdccff8048f9f12196a54c70ea",
       "title": "RedHook Android malware now uses Wireless ADB for shell access",
@@ -11,6 +41,36 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "9183d673aaa9725249bfc087180de6f9",
+      "title": "Un compteur de visiteurs sur votre site, sans payer un centime",
+      "link": "https://korben.info/compteur-visiteurs-cloudflare-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous avez peut-être remarqué un petit point rouge tout en bas de mon site, avec un nombre à côté. Il s'agit du nombre de personnes passées sur le site durant la dernière heure. Je voulais remettre ce truc depuis un ba...",
+      "published": "2026-07-12T05:45:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/compteur-visiteurs-cloudflare-gratuit/compteur-visiteurs-cloudflare-gratuit-1.png"
+    },
+    {
+      "id": "2e42a484756e0a27c01e7978b5c94f42",
+      "title": "Votre 2FA est une passoire, le sniffeur de WiFi public vous remercie",
+      "link": "https://korben.info/votre-2fa-est-une-passoire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "-- Article en partenariat avec Surfshark -- Les attaques Adversary-in-the-Middle (AiTM) représentent l'évolution sophistiquée des classiques attaques Man-in-the-Middle. Contrairement à l'écoute passive, l'attaquant s'...",
+      "published": "2026-07-12T04:42:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/votre-2fa-est-une-passoire/votre-2fa-est-une-passoire-1.png"
+    },
+    {
+      "id": "cb3023665f43c29db33cadbc86cc77a7",
+      "title": "Moebius - Effacer un objet d'une photo depuis votre navigateur",
+      "link": "https://korben.info/inpainting-image-navigateur-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Simon Willison, le créateur de Datasette et co-créateur de Django, vient de porter un modèle d'inpainting d'image directement dans le navigateur. Sa démo vous permet de choisir une photo, de peindre sur la zone à fair...",
+      "published": "2026-07-12T03:55:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/inpainting-image-navigateur-local/inpainting-image-navigateur-local-1.png"
     },
     {
       "id": "981101e2dad87218baa4a308e053ed1b",
@@ -43,6 +103,26 @@
       "image": ""
     },
     {
+      "id": "f980bb22197d8fb7fd33927292a44195",
+      "title": "Tangem - La faille laser qui condamne votre carte crypto à vie",
+      "link": "https://korben.info/laser-reset-wallet-tangem.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous voyez le principe du wallet crypto au format carte bancaire ? Ça se compose d'une puce, d'un code, et de vos précieuses clés privées cryptos planquées dedans. Et bah figurez-vous que Baptistin Boilot, un chercheu...",
+      "published": "2026-07-11T11:55:32+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/laser-reset-wallet-tangem/laser-reset-wallet-tangem-1.webp"
+    },
+    {
+      "id": "6106d897fa1513550e42162abd0a4ff9",
+      "title": "Un Kindle rooté à cause d'une faute de frappe d'Amazon",
+      "link": "https://korben.info/kindle-faille-critique-piratage-distance.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous le savez, j'adore mon Kindle ! Je manque effectivement de temps pour lire tout ce que je voudrais mais bon, on verra ça quand la retraite sera là ^^. En attendant, ce que j'ignorais, c'est que sur les Kindle réce...",
+      "published": "2026-07-11T11:11:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/kindle-faille-critique-piratage-distance/kindle-faille-critique-piratage-distance-1.jpeg"
+    },
+    {
       "id": "562b94f32c88143d31ddcae4488c1811",
       "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
@@ -53,6 +133,16 @@
       "image": ""
     },
     {
+      "id": "1340c3f8117356eaaf3b2db0c86657b1",
+      "title": "OpenLogi - Votre souris Logitech sans le bloatware d'Options+",
+      "link": "https://korben.info/openlogi-alternative-logitech-options.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Logitech Options+, vous connaissez ce délire, je pense... Pour régler 3 boutons de souris, on vous pousse à créer un compte, à partager vos data, et à laisser une usine à gaz tourner H24 en tâche de fond. Le dev April...",
+      "published": "2026-07-11T06:59:32+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/openlogi-alternative-logitech-options/openlogi-alternative-logitech-options-1.png"
+    },
+    {
       "id": "0c5064115228c79ef7663b178af3a2a0",
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
       "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
@@ -61,6 +151,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
+    },
+    {
+      "id": "d501d564f34a681bf046d2bace203352",
+      "title": "Il détourne un chien robot Unitree pour aider son père",
+      "link": "https://korben.info/unitree-chien-robot-fauteuil-roulant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Prenez un chien robot d'Unitree, du genre qui patrouille dans les usines, ajoutez-y un siège baquet, un harnais et pas mal de code et vous obtiendrez un nouveau genre de jambes bioniques du futur ! Jake Laser a réalis...",
+      "published": "2026-07-11T04:59:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/unitree-chien-robot-fauteuil-roulant/unitree-chien-robot-fauteuil-roulant-1.jpg"
     },
     {
       "id": "361e434f37877cb63a01b05f837b4e65",
@@ -143,14 +243,24 @@
       "image": ""
     },
     {
-      "id": "7331ef2d24112da1ad57f56baace3897",
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
-      "published": "2026-07-10T15:30:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
+      "id": "7a63204b42c4e54ba236b7b58c1dbd12",
+      "title": "Votre cerveau en mode pilote automatique - Bruxelles accuse Meta",
+      "link": "https://korben.info/meta-scroll-infini-design-addictif-dsa.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Il est 1h12 du mat', vous êtes allongé dans le canap, le téléphone à 20 cm du museau, et votre pouce swipe encore et encore dans un automatisme le plus complet... Un reel de chat, une recette de lasagnes, un type qui ...",
+      "published": "2026-07-10T15:16:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/meta-scroll-infini-design-addictif-dsa/meta-scroll-infini-design-addictif-dsa-1.jpg"
+    },
+    {
+      "id": "76fb685bc269fbdf1304e596316451c3",
+      "title": "EVE Online - 30 dépôts MIT sur GitHub, dont un qui ne compile pas",
+      "link": "https://korben.info/eve-online-moteur-carbon-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "8 825 joueurs qui se canardent au même endroit, sur un seul serveur, pendant 14 heures. C'était en 2020 dans le système FWST-8 d'EVE Online, et le moteur qui a encaissé ça s'appelle Carbon. Et si je vous cause de ça c...",
+      "published": "2026-07-10T15:04:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/eve-online-moteur-carbon-open-source/eve-online-moteur-carbon-open-source-1.jpg"
     },
     {
       "id": "fd51623ec3ebe759f41b2a3b68fd4eb0",
@@ -171,16 +281,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg"
-    },
-    {
-      "id": "c1b4d4c12c5a419317d5986296853e7a",
-      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-      "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-      "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity g...",
-      "published": "2026-07-10T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "ca4fdb1b1f20912add0403673539ebfc",
