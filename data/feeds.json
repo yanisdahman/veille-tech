@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-13T14:26:55.779537+00:00",
-  "count": 50,
+  "last_updated": "2026-07-13T19:19:21.915689+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "5f6131ba5d0594f12c8fc138a9a0c9e3",
+      "title": "New CrashStealer malware poses as Apple crash reporting tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
+      "published": "2026-07-13T19:04:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0007f03164dd2cd04aa9fbd806bef8b5",
+      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on Appl...",
+      "published": "2026-07-13T17:36:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbZ5yNN1gA3Yzt-6i1sekVk3AFnHGEpas31-UowjFTXB9Rj4DhkS8H4cqjr655w9HCDKZIzcRAqn1NvLSmPLs_-oDDYpCteWgGlkUIpuyMkPIeXnfgxKCYRG54K8oV0j4vVaWj928DfJBsYJzR98e5BuZDp5OmoeFtDubZ90Qnz0a7G9VmukCII5kVE3rQ/s1600/macos-malware-1.jpg"
+    },
+    {
+      "id": "645c89cc8757dd7e974c9587c52517e0",
+      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+      "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its offic...",
+      "published": "2026-07-13T17:17:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvBtzUXyAbjgtvPJVS9zZ29ULkaIs0fMMa53ZKSip2pJbZ7_HMTGn3SV27X28JLwaq9atS1B_jvH_7qgfsjW0wyVDV_jGyqFSyO-z_vHuoigCy14xfb7DKuuWGIMUVeLiOhnap1yICNPEC2OUkA0d_e8RXtPs7oTo3BAz9I2DTxRwg67vgObResLQ7c4/s1600/browser-edge.jpg"
+    },
+    {
+      "id": "6370825cf47fcb760c8d54b0c796c3f6",
+      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution throug...",
+      "published": "2026-07-13T15:20:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "180340f9a70c775d303e8f0482cd694b",
+      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and the...",
+      "published": "2026-07-13T15:05:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCIplQpj7CGra4jEeX4qO6DfR9_OazwL_c55clD60cy9pWK42qAsCmqrwe0YBUmPq0cg_6Gt52VlqoOGuigf4qwI8lazIdogbl8pjBDfprTbktGn96fxMbtCh06kyGFF9qCXg9PgMhSXu8V02QBxTmBArc-84ZI3jXwmoDQdj-SCp-_JY7z5XqrQR2IlP/s1600/monday-recap.jpg"
+    },
     {
       "id": "89deae939f0e877607ec0636fcc3e95a",
       "title": "Lidl discloses online shop breach after service provider hack",
@@ -31,6 +81,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "c3fdfea9442d7fcbc25f2a12a7402f02",
+      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+      "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide ...",
+      "published": "2026-07-13T13:49:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_pk3JKY3zis-iTRVKpcttwfy-GP-gEzPE_NQQpqDEaMvVs65uqa3v_dG7pD_DmZWLHcwBQzjFtTYqob5wWSgO2F-0-KkwZaahqTUpGP1xbvyifaf2UnMDzI8j9pnP9EWyARmN2SHHl0eBo4UszZx3VZvicjU_MMFOEA8sjcLvzBFzAkNeFg3GIR2yncA/s1600/memghost.jpg"
     },
     {
       "id": "7e6d86856bc71f50c6468d9f7fb9e729",
@@ -111,26 +171,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "f878f4a090cfd709d5de27449b8a21c6",
-      "title": "Le blocage DNS casse tout sauf le piratage (dixit Google)",
-      "link": "https://korben.info/google-blocage-dns-vpn-ip.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Google est allé raconter à la Commission européenne ce que les gens qui s'y connaissent un peu en réseau répètent depuis 15 ans : Bloquer les résolveurs DNS, les VPN et les adresses IP pour lutter contre le piratage, ...",
-      "published": "2026-07-13T09:26:29+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/google-blocage-dns-vpn-ip/google-blocage-dns-vpn-ip-1.png"
-    },
-    {
-      "id": "5749c2012b501793d1ab1930331df198",
-      "title": "Swival – Le papa de libsodium se met aux agents de codage locaux",
-      "link": "https://korben.info/swival-agent-ia-codage-modeles-locaux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Frank Denis , c'est le monsieur qui fait tourner un bon morceau d'Internet sans que personne le sache : libsodium, dnscrypt-proxy, Pure-FTPd, c'est lui. Et dernièrement, il s'est attaqué aux agents de codage IA avec S...",
-      "published": "2026-07-13T09:03:53+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/swival-agent-ia-codage-modeles-locaux/swival-agent-ia-codage-modeles-locaux-1.jpg"
     },
     {
       "id": "3c6c4d772aed39ec40c8e66c55aa4c1a",
@@ -223,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "0370dea0ceccc894ceeb159dd09c80e5",
-      "title": "KamTape - Le site qui ressuscite le YouTube de 2005",
-      "link": "https://korben.info/kamtape-clone-youtube-2005.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Moi je me suis lancé en 2004 et un an plus tard il y a YouTube qui débarquait. C'était bien avant de se faire racheter par Google. Et j'avoue que j'en attendais pas grand-chose. Parce qu'à l'époque, on était vraiment ...",
-      "published": "2026-07-12T18:31:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/kamtape-clone-youtube-2005/kamtape-clone-youtube-2005-1.jpg"
-    },
-    {
       "id": "78691cfdccff8048f9f12196a54c70ea",
       "title": "RedHook Android malware now uses Wireless ADB for shell access",
       "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
@@ -241,136 +271,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "9183d673aaa9725249bfc087180de6f9",
-      "title": "Un compteur de visiteurs sur votre site, sans payer un centime",
-      "link": "https://korben.info/compteur-visiteurs-cloudflare-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous avez peut-être remarqué un petit point rouge tout en bas de mon site, avec un nombre à côté. Il s'agit du nombre de personnes passées sur le site durant la dernière heure. Je voulais remettre ce truc depuis un ba...",
-      "published": "2026-07-12T05:45:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/compteur-visiteurs-cloudflare-gratuit/compteur-visiteurs-cloudflare-gratuit-1.png"
-    },
-    {
-      "id": "2e42a484756e0a27c01e7978b5c94f42",
-      "title": "Votre 2FA est une passoire, le sniffeur de WiFi public vous remercie",
-      "link": "https://korben.info/votre-2fa-est-une-passoire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "-- Article en partenariat avec Surfshark -- Les attaques Adversary-in-the-Middle (AiTM) représentent l'évolution sophistiquée des classiques attaques Man-in-the-Middle. Contrairement à l'écoute passive, l'attaquant s'...",
-      "published": "2026-07-12T04:42:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/votre-2fa-est-une-passoire/votre-2fa-est-une-passoire-1.png"
-    },
-    {
-      "id": "cb3023665f43c29db33cadbc86cc77a7",
-      "title": "Moebius - Effacer un objet d'une photo depuis votre navigateur",
-      "link": "https://korben.info/inpainting-image-navigateur-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Simon Willison, le créateur de Datasette et co-créateur de Django, vient de porter un modèle d'inpainting d'image directement dans le navigateur. Sa démo vous permet de choisir une photo, de peindre sur la zone à fair...",
-      "published": "2026-07-12T03:55:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/inpainting-image-navigateur-local/inpainting-image-navigateur-local-1.png"
-    },
-    {
-      "id": "981101e2dad87218baa4a308e053ed1b",
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and exec...",
-      "published": "2026-07-11T17:59:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
-    },
-    {
-      "id": "e09de65b48669002b0fd8abcf6c253e7",
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between Feb...",
-      "published": "2026-07-11T17:49:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
-    },
-    {
-      "id": "f1167ec170de0ef01cc3e6b01dd334e4",
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
-      "published": "2026-07-11T14:18:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f980bb22197d8fb7fd33927292a44195",
-      "title": "Tangem - La faille laser qui condamne votre carte crypto à vie",
-      "link": "https://korben.info/laser-reset-wallet-tangem.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous voyez le principe du wallet crypto au format carte bancaire ? Ça se compose d'une puce, d'un code, et de vos précieuses clés privées cryptos planquées dedans. Et bah figurez-vous que Baptistin Boilot, un chercheu...",
-      "published": "2026-07-11T11:55:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/laser-reset-wallet-tangem/laser-reset-wallet-tangem-1.webp"
-    },
-    {
-      "id": "6106d897fa1513550e42162abd0a4ff9",
-      "title": "Un Kindle rooté à cause d'une faute de frappe d'Amazon",
-      "link": "https://korben.info/kindle-faille-critique-piratage-distance.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous le savez, j'adore mon Kindle ! Je manque effectivement de temps pour lire tout ce que je voudrais mais bon, on verra ça quand la retraite sera là ^^. En attendant, ce que j'ignorais, c'est que sur les Kindle réce...",
-      "published": "2026-07-11T11:11:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/kindle-faille-critique-piratage-distance/kindle-faille-critique-piratage-distance-1.jpeg"
-    },
-    {
-      "id": "562b94f32c88143d31ddcae4488c1811",
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all,...",
-      "published": "2026-07-11T09:03:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1340c3f8117356eaaf3b2db0c86657b1",
-      "title": "OpenLogi - Votre souris Logitech sans le bloatware d'Options+",
-      "link": "https://korben.info/openlogi-alternative-logitech-options.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Logitech Options+, vous connaissez ce délire, je pense... Pour régler 3 boutons de souris, on vous pousse à créer un compte, à partager vos data, et à laisser une usine à gaz tourner H24 en tâche de fond. Le dev April...",
-      "published": "2026-07-11T06:59:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/openlogi-alternative-logitech-options/openlogi-alternative-logitech-options-1.png"
-    },
-    {
-      "id": "0c5064115228c79ef7663b178af3a2a0",
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case o...",
-      "published": "2026-07-11T06:45:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
-    },
-    {
-      "id": "d501d564f34a681bf046d2bace203352",
-      "title": "Il détourne un chien robot Unitree pour aider son père",
-      "link": "https://korben.info/unitree-chien-robot-fauteuil-roulant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Prenez un chien robot d'Unitree, du genre qui patrouille dans les usines, ajoutez-y un siège baquet, un harnais et pas mal de code et vous obtiendrez un nouveau genre de jambes bioniques du futur ! Jake Laser a réalis...",
-      "published": "2026-07-11T04:59:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/unitree-chien-robot-fauteuil-roulant/unitree-chien-robot-fauteuil-roulant-1.jpg"
-    },
-    {
-      "id": "c0c29dc609adc9548bf5b6b692e79f66",
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The...",
-      "published": "2026-07-10T16:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg"
     },
     {
       "id": "827c974d851138fead7eb329791d2de3",
