@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-07-13T02:29:18.427918+00:00",
+  "last_updated": "2026-07-13T09:19:39.392404+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "5749c2012b501793d1ab1930331df198",
+      "title": "Swival - Le papa de libsodium se met aux agents de codage locaux",
+      "link": "https://korben.info/swival-agent-ia-codage-modeles-locaux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Frank Denis , c'est le monsieur qui fait tourner un bon morceau d'Internet sans que personne le sache : libsodium, dnscrypt-proxy, Pure-FTPd, c'est lui. Et dernièrement, il s'est attaqué aux agents de codage IA avec S...",
+      "published": "2026-07-13T09:03:53+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/swival-agent-ia-codage-modeles-locaux/swival-agent-ia-codage-modeles-locaux-1.jpg"
+    },
+    {
+      "id": "3c6c4d772aed39ec40c8e66c55aa4c1a",
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitti...",
+      "published": "2026-07-13T07:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh0XoiKxyvhXW_SN-Ynau8iPG3vd2ltt4cDr4L_cGUhc5oBmsogZt5A_l2qbTdPG8Ciu73I0mHhRBDRJ2uWasrA_vqnkdvpbQcdh0ipe-d_cz2HTFJWOCBNxplCO0RuppogFhl1OONqWWXOLQWhH_Bt89c160ZzHtkrnDJN6PsnYWNV1W510diYait_g/s1600/phishing-server-ms.jpg"
+    },
+    {
+      "id": "9ce9cc0738573ad12777906aad39c12f",
+      "title": "Windows 11 : ce composant lié à Mobile Connecté engloutit la RAM de votre PC",
+      "link": "https://www.it-connect.fr/windows-11-mobile-connecte-fuite-memoire-ram/",
+      "summary": "Des utilisateurs de Windows 11 rapportent que Cross Device Service, lié à Mobile Connecté, sature la RAM (parfois plus de 30 Go). Microsoft n'a rien confirmé. Le post Windows 11 : ce composant lié à Mobile Connecté en...",
+      "published": "2026-07-13T07:15:27+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fdc0e99cd9f65440693252649c68eb1b",
+      "title": "Debian 13.6 est disponible : découvrez les changements principaux",
+      "link": "https://www.it-connect.fr/debian-13-6-les-nouveautes/",
+      "summary": "Debian 13.6 apporte une série de correctifs de sécurité et met à jour fwupd pour accompagner l'expiration du certificat UEFI Secure Boot. Ce qu'il faut savoir. Le post Debian 13.6 est disponible : découvrez les change...",
+      "published": "2026-07-13T06:51:42+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3089c9429ec1ef5ae2e2683d882ef5f1",
+      "title": "Microsoft 365 : rappeler un e-mail envoyé à une autre entreprise, bientôt possible",
+      "link": "https://www.it-connect.fr/exchange-online-rappel-message-inter-tenant/",
+      "summary": "Microsoft va déployer le rappel d'e-mails inter-tenant sur Exchange Online dès août 2026, via une liste d'autorisation gérée par l'organisation. Le post Microsoft 365 : rappeler un e-mail envoyé à une autre entreprise...",
+      "published": "2026-07-13T06:04:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "628b6ce3dfb0a8d49bb09346debd789b",
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog,...",
+      "published": "2026-07-13T05:36:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
+    },
+    {
+      "id": "26a8a75e2b3f3e86149c2f71634793c3",
+      "title": "Muse Image : comment empêcher Meta de piocher dans vos photos Instagram ?",
+      "link": "https://www.it-connect.fr/meta-muse-image-instagram-photos-publiques-ia/",
+      "summary": "Meta a lancé Muse Image, un générateur IA capable de puiser dans les photos des comptes Instagram. Voici comment désactiver cette réutilisation par défaut. Le post Muse Image : comment empêcher Meta de piocher dans vo...",
+      "published": "2026-07-13T05:15:37+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "ac6d852f0dc5462002293f25e83d13a3",
       "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
@@ -253,16 +323,6 @@
       "image": "https://korben.info/meta-scroll-infini-design-addictif-dsa/meta-scroll-infini-design-addictif-dsa-1.jpg"
     },
     {
-      "id": "76fb685bc269fbdf1304e596316451c3",
-      "title": "EVE Online - 30 dépôts MIT sur GitHub, dont un qui ne compile pas",
-      "link": "https://korben.info/eve-online-moteur-carbon-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "8 825 joueurs qui se canardent au même endroit, sur un seul serveur, pendant 14 heures. C'était en 2020 dans le système FWST-8 d'EVE Online, et le moteur qui a encaissé ça s'appelle Carbon. Et si je vous cause de ça c...",
-      "published": "2026-07-10T15:04:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/eve-online-moteur-carbon-open-source/eve-online-moteur-carbon-open-source-1.jpg"
-    },
-    {
       "id": "fd51623ec3ebe759f41b2a3b68fd4eb0",
       "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
       "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
@@ -283,16 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg"
     },
     {
-      "id": "ca4fdb1b1f20912add0403673539ebfc",
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may a...",
-      "published": "2026-07-10T13:15:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKTCUzhkUq2Y7DPv0yS2FatrHQTcHfupRly6f5kSWyQU-So3FOjpC8pt_VKR4qo1SoUGR65ycOEQonbW5heKWj1g_A8qDy69YtWGZDO4m2t46Sip-jdPAlNs2fpRj-w1yd8WpyJpNFUpj1iTBO0X6fy3n9DJ4aEdsWaQz_tN-VV-PxDrufKZR9wkznmXJQ/s1600/MODBEACON.jpg"
-    },
-    {
       "id": "827c974d851138fead7eb329791d2de3",
       "title": "Windows Defender : le patch RoguePlanet aurait des effets de bord",
       "link": "https://www.it-connect.fr/windows-defender-patch-rogueplanet-effets-de-bord/",
@@ -301,16 +351,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "15dc388bafc27a2f4d19a2f5cecbe155",
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Fé...",
-      "published": "2026-07-10T11:47:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHphr7bXE4J4-EmYSWy0cjHarUBibR2JrXpFbwDKMZnsWbiUsC9UE7g3x2r8WFDLB7BBZlH2kDJ3I9QqF8IIGLPiZda93wKUaDqJC8Nv11yrd7VPm9RmBOky0yRXGRhhcDqbwNCZvHiGTkKRb06XAwFiGl0juzUeFBn3LUDwFfxZVNlInVmXTNI4cMLI/s1600/XQUIC-demo.gif"
     },
     {
       "id": "5277f5c4674dba1bcd039db142a90cbd",
@@ -358,46 +398,6 @@
       "link": "https://www.it-connect.fr/ghostlock-faille-linux-acces-root/",
       "summary": "Découverte à l'aide d'une IA, GhostLock (CVE-2026-43499) est une faille du noyau Linux présente depuis 2011. Elle permet à un utilisateur local de devenir root. Le post GhostLock : cette faille Linux vieille de 15 ans...",
       "published": "2026-07-09T11:40:40+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f4c9ab50c05cc9bbc95a0871afe3ff57",
-      "title": "RoguePlanet : Microsoft corrige la zero-day qui donnait les privilèges SYSTEM",
-      "link": "https://www.it-connect.fr/microsoft-corrige-faille-zero-day-rogueplanet-defender/",
-      "summary": "Microsoft a corrigé RoguePlanet (CVE-2026-50656), la zero-day de Defender qui donnait les privilèges SYSTEM sur Windows 10 et 11. Voici comment se protéger. Le post RoguePlanet : Microsoft corrige la zero-day qui donn...",
-      "published": "2026-07-09T07:55:08+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "63760ae4506264ebcdfead7886071ef6",
-      "title": "Le navigateur DuckDuckGo bloque désormais les publicités YouTube, par défaut",
-      "link": "https://www.it-connect.fr/duckduckgo-navigateur-bloque-publicites-youtube/",
-      "summary": "DuckDuckGo bloque désormais les publicités vidéo YouTube dans son navigateur, par défaut sur iPhone, Windows et macOS, via les listes d'uBlock Origin. Le post Le navigateur DuckDuckGo bloque désormais les publicités Y...",
-      "published": "2026-07-09T07:08:01+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b8aebe22ad20b1b39847e69e25052e58",
-      "title": "HTTP QUERY : la première méthode ajoutée à HTTP depuis 2010",
-      "link": "https://www.it-connect.fr/methode-http-query-rfc-10008/",
-      "summary": "Le RFC 10008 officialise QUERY, une méthode HTTP qui combine le corps de requête de POST et le côté safe de GET. Voici l'essentiel à savoir sur HTTP QUERY. Le post HTTP QUERY : la première méthode ajoutée à HTTP depui...",
-      "published": "2026-07-09T06:24:16+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7b5aa8a73869a95c70361726e9242adb",
-      "title": "Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vie à 16.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
-      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à vi...",
-      "published": "2026-07-09T06:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
