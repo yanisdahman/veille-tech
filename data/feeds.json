@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-14T02:08:51.494492+00:00",
+  "last_updated": "2026-07-14T07:57:43.239466+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "da02d194f102a7d762793dfafbebaec1",
+      "title": "Pixels de suivi dans les e-mails : ce que change la CNIL et comment bloquer le pistage",
+      "link": "https://www.it-connect.fr/pixels-de-suivi-emails-cnil-consentement/",
+      "summary": "Depuis le 14 juillet 2026, la CNIL exige le consentement pour les pixels de suivi dans les e-mails. On vous explique la règle et comment couper le pistage. Le post Pixels de suivi dans les e-mails : ce que change la C...",
+      "published": "2026-07-14T07:18:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d136a7eecb56eae33ff7cb49d5633c78",
+      "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
+      "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+      "summary": "Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been ...",
+      "published": "2026-07-14T06:19:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu2gmOSckwOqmlhqAYdrlHfRuTsOJIi7dr9cFZosLQAJeoJxcUVQ9PvibcfnCsBdPWvfJRRrxoS8nx9yTt9NtDNCwVCFavEt7tQT0viD7AwGvUjhu-_k0B2J4KBSAJ-5GUGFZHCTSyOuW4I082lHoUkbsbH33tsIeo3gm71_CkjMd_bcAN7i4xPvMnefA/s1600/salesforce-attack-path.jpg"
+    },
+    {
+      "id": "0dee72abf695679f72b20399f6c3bd9a",
+      "title": "Telegram : les liens t.me hors service dans le monde entier",
+      "link": "https://www.it-connect.fr/telegram-liens-t-me-hors-service-serverhold/",
+      "summary": "Le domaine court de Telegram a été suspendu au niveau du registre .me. La messagerie fonctionne, mais aucun lien ne s'ouvre, sans explication officielle. Le post Telegram : les liens t.me hors service dans le monde en...",
+      "published": "2026-07-14T05:45:45+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "34c3c3cbada32c6424539ea2f009b06c",
+      "title": "Grok Build : l’outil de SpaceXAI expédiait vos dépôts de code chez Google",
+      "link": "https://www.it-connect.fr/grok-build-cli-xai-upload-depots-google-cloud/",
+      "summary": "Un chercheur a capturé le trafic de Grok Build 0.2.93 : dépôt complet, historique Git et fichiers .env expédiés vers un bucket Google Cloud. Méfiance. Le post Grok Build : l’outil de SpaceXAI expédiait vos dépôts de c...",
+      "published": "2026-07-14T05:26:05+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "79ab0794b772ed05705f0c9cada5195f",
       "title": "NIS 2 encore repoussé : la France traînée devant la justice européenne",
@@ -28,6 +68,16 @@
       "link": "https://www.it-connect.fr/test-geekom-a9-max-2026-edition/",
       "summary": "Test du Geekom A9 Max 2026 Edition : Ryzen AI 9 HX 470, NPU 55 TOPS, Radeon 890M. Ce qui change face à la génération 2025 et ce qu'il vaut pour l'IA locale. Le post Test Geekom A9 Max 2026 Edition : un mini PC haut de...",
       "published": "2026-07-13T23:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "92bef4a71a58b878fbe2069c4ec5afc8",
+      "title": "Monter son PC soi-même, bonne ou mauvaise idée ?",
+      "link": "https://www.it-connect.fr/monter-son-pc-soi-meme-bonne-ou-mauvaise-idee/",
+      "summary": "Gamer et budget: faut-il assembler soi-même ou opter pour un PC prêt-à-lancer? Analyse des coûts, concessions et fiabilité. Le post Monter son PC soi-même, bonne ou mauvaise idée ? a été publié sur IT-Connect.",
+      "published": "2026-07-13T22:30:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -288,56 +338,6 @@
       "link": "https://www.it-connect.fr/windows-11-mobile-connecte-fuite-memoire-ram/",
       "summary": "Des utilisateurs de Windows 11 rapportent que Cross Device Service, lié à Mobile Connecté, sature la RAM (parfois plus de 30 Go). Microsoft n'a rien confirmé. Le post Windows 11 : ce composant lié à Mobile Connecté en...",
       "published": "2026-07-13T07:15:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fdc0e99cd9f65440693252649c68eb1b",
-      "title": "Debian 13.6 est disponible : découvrez les changements principaux",
-      "link": "https://www.it-connect.fr/debian-13-6-les-nouveautes/",
-      "summary": "Debian 13.6 apporte une série de correctifs de sécurité et met à jour fwupd pour accompagner l'expiration du certificat UEFI Secure Boot. Ce qu'il faut savoir. Le post Debian 13.6 est disponible : découvrez les change...",
-      "published": "2026-07-13T06:51:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5e31d23388081590802d05274d8c08ab",
-      "title": "Gestionnaire de mots de passe en entreprise : pourquoi et comment franchir le pas",
-      "link": "https://www.it-connect.fr/gestionnaire-de-mots-de-passe-en-entreprise-pourquoi-et-comment-franchir-le-pas/",
-      "summary": "Excel, post-it, e-mails : structurez enfin vos accès. Risques, critères de choix et bonnes pratiques du gestionnaire de mots de passe en entreprise. Le post Gestionnaire de mots de passe en entreprise : pourquoi et co...",
-      "published": "2026-07-13T06:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3089c9429ec1ef5ae2e2683d882ef5f1",
-      "title": "Microsoft 365 : rappeler un e-mail envoyé à une autre entreprise, bientôt possible",
-      "link": "https://www.it-connect.fr/exchange-online-rappel-message-inter-tenant/",
-      "summary": "Microsoft va déployer le rappel d'e-mails inter-tenant sur Exchange Online dès août 2026, via une liste d'autorisation gérée par l'organisation. Le post Microsoft 365 : rappeler un e-mail envoyé à une autre entreprise...",
-      "published": "2026-07-13T06:04:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "628b6ce3dfb0a8d49bb09346debd789b",
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog,...",
-      "published": "2026-07-13T05:36:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
-    },
-    {
-      "id": "26a8a75e2b3f3e86149c2f71634793c3",
-      "title": "Muse Image : comment empêcher Meta de piocher dans vos photos Instagram ?",
-      "link": "https://www.it-connect.fr/meta-muse-image-instagram-photos-publiques-ia/",
-      "summary": "Meta a lancé Muse Image, un générateur IA capable de puiser dans les photos des comptes Instagram. Voici comment désactiver cette réutilisation par défaut. Le post Muse Image : comment empêcher Meta de piocher dans vo...",
-      "published": "2026-07-13T05:15:37+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
