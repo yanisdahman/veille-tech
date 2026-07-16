@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-16T13:43:06.129493+00:00",
-  "count": 48,
+  "last_updated": "2026-07-16T19:04:26.573300+00:00",
+  "count": 40,
   "articles": [
+    {
+      "id": "156e65407e40f49751a7853aae1a0793",
+      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
+      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+      "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inope...",
+      "published": "2026-07-16T17:09:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPDzKH0EAg764dc_I7qiwOAUUcWqBwDJcoojyb1-SwTOL5Gv24t1oGcIxnW8NkJjgXEadKJTIkcoN7nrFzrPk87AhHJj9Z5hPGk-vHGEkIppuyKJ-Sx_2M5aLF9z1VbD7G3uzf_kn_Wy1BYJ_R3RWwqM376W1hkWmfOdXYhlzCSqzSBRcJSbzGvFMkMg/s1600/Scattered-Spider.jpg"
+    },
+    {
+      "id": "b5b9bdb11d576b31d243e95dcdd69c18",
+      "title": "Traefik Manager : administrer son reverse proxy Traefik depuis une interface web",
+      "link": "https://www.it-connect.fr/traefik-manager-interface-web-reverse-proxy/",
+      "summary": "Tutoriel Traefik Manager : installez cette interface web open source avec Docker Compose pour gérer votre reverse proxy Traefik (routes, certificats, config). Le post Traefik Manager : administrer son reverse proxy Tr...",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0fbef72a44ac57d9811f178380624f4a",
+      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the dama...",
+      "published": "2026-07-16T15:41:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
+    },
+    {
+      "id": "7b4f5222eb1e911d6a4e5ecbb9d4ed1b",
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams ...",
+      "published": "2026-07-16T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "58534bd0deb70a084c01d83f07e69015",
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "published": "2026-07-16T13:47:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "60b76f83ec02be6cdc43a08d4c0cbd63",
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub cla...",
+      "published": "2026-07-16T13:33:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
+    },
     {
       "id": "8fce38a4fb36ed69bf8327462ce34faf",
       "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
@@ -143,26 +203,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5tbAe6HgEiYpwgRNJ04jo1HJ_PV3INByd4ggz2t4h_dCa4u2zkCBimnzDZt7V-p208q7-BfaHSmR5_aXg6VvnnThfnc9_UX8oP0hnRa6rP1JVgKka-D76BpYUzhEuc3O0nbEGgoVeCQsTY2RBsVTrYnViTmGPqgPJ9e4lNeKWtxZNxKqvUajphbl-ENY/s1600/shark-hack.jpg"
     },
     {
-      "id": "c46f514dfe71cea077f57989cf208da2",
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a stron...",
-      "published": "2026-07-16T08:42:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSi9EGhWziKlNlaSAnaOE4OjgZ5pyqoajOxDz4zEQl77NDSF_Pf8ME6wfKfrmrTWhLy9jDR1wvmVb7gd5JLhyszunIomhOnyyHKuTfvBCjb8vGypAPXbQzTVG-n5wWUdsTToUXQ5z_uh3XPDX3KKzgZ8vDB9PZ40FOd6xGi2iALOu-wSqSoHpkpYf5eKjk/s1600/openai-gpt-red.jpg"
-    },
-    {
-      "id": "32bf3eae420af8a3843beceea2b6022a",
-      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom...",
-      "published": "2026-07-16T07:22:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPR-qLKvfH8KZydz4_DnqiB9bJDjgFi6KdfrbbCHNkywiDcR_1SILe12UqjuyM_1yQXEDBok-ZeYRX0hEjIZpx-Dz2hnIW2xXnwAqrmA3voWWfG_vnGMavgE4-E_DFzICLfizByiwAis02VEJqSoxQrEECCMibS0X27D5k0o08IPp1JR0tVCnXwpj2u3e2/s1600/zoom.jpg"
-    },
-    {
       "id": "214298dcac485edf50682c2913747f5f",
       "title": "Firefox va passer à une nouvelle version majeure toutes les 2 semaines dès septembre",
       "link": "https://www.it-connect.fr/firefox-version-majeure-toutes-les-2-semaines/",
@@ -213,26 +253,6 @@
       "image": ""
     },
     {
-      "id": "d6da6971e5d0c99eb54642eab5bd2b23",
-      "title": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
-      "link": "https://korben.info/transcription-audio-texte-dictee-vocale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous cherchez un logiciel de dictée vocale sérieux sur Mac, vous avez sûrement remarqué que le marché ressemble à un désert. Nuance a débranché Dragon pour Mac en octobre 2018, la dictée intégrée de macOS dépanne p...",
-      "published": "2026-07-15T19:16:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-1.png"
-    },
-    {
-      "id": "009af2d6a033d783d2dbc5bb3a112b37",
-      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large languag...",
-      "published": "2026-07-15T18:43:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKa1OIdUu8LgLPgZkc9qbOTzhARf1dEJa_fzyVt7vvSzidHy3Lrb-2R4hs2ryt9b4Aq3zOnJRtWVuQ8KHKUZ5x9Iv6Q0vGTVMPxNMLTdGaNsquyrL18QXk8TcMP2nEwFHE1snKt2aG6rEmyVMwRp7Fk4G_x_sXjk_4AmYWsH2JCvOe2Adut2PZbLVc4YI/s1600/tuxbot.jpg"
-    },
-    {
       "id": "ad02ca180aab7d9bb9f34a2a526f91d7",
       "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
       "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
@@ -241,56 +261,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "e3ab931fa32dc090cf207c0fae2351c6",
-      "title": "La Neo Geo fait enfin tourner DOOM",
-      "link": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "DOOM tourne aujourd'hui sur presque tout, d'un frigo connecté à une calculatrice, et chaque année quelqu'un ajoute une machine encore plus improbable à la liste. Il restait pourtant une exception qui résistait, la Neo...",
-      "published": "2026-07-15T15:43:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom/la-neo-geo-fait-enfin-tourner-doom-1.jpg"
-    },
-    {
-      "id": "7bad6f1779eb6be9ddfedd548bf4e10c",
-      "title": "AsyncAPI npm packages infected with credential-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
-      "published": "2026-07-15T15:37:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "36f8cdc7138a7fafe16ea7128b752466",
-      "title": "Microsoft bat son record avec 570 failles corrigées en un mois, et c'est son IA qui les déterre",
-      "link": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Il y a des chiffres qui en disent long sur l'état d'un logiciel, et celui-ci en fait clairement partie. Microsoft vient de corriger 570 failles de sécurité d'un seul coup lors de son dernier Patch Tuesday, ce rendez-v...",
-      "published": "2026-07-15T14:22:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre-1.webp"
-    },
-    {
-      "id": "c60c0e9a27c17578cc9bf48d0ce50b30",
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a p...",
-      "published": "2026-07-15T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5df6b4d2e82292b17c14f5b21b4ff7b9",
-      "title": "La vérif d'âge de l'Europe ridiculisée par une extension Chrome",
-      "link": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Bon, vous le savez, l'Europe tient absolument à savoir votre âge, avant de vous laisser scroller librement sur le net. Alors pour cela, ils ont mis au point une application qui permet de prouver votre âge et qui nous ...",
-      "published": "2026-07-15T10:39:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee/verification-age-ue-reseaux-sociaux-contournee-1.png"
     },
     {
       "id": "fa0e96c369364bbc0f570acd77c800b0",
@@ -331,56 +301,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "b1c0fa0e3456190ca951b00121163388",
-      "title": "La clim tue la planète ? Vous avez 30 ans de retard",
-      "link": "https://korben.info/climatisation-idees-recues.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "« Climatiser son appartement, c'est réchauffer celui du voisin. » Vous l'avez forcément déjà entendue, cette bonne blague là... C'est comme ça que commence la dernière vidéo de Numerama, où durant 23 minutes, Julien C...",
-      "published": "2026-07-15T05:33:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/climatisation-idees-recues/climatisation-idees-recues-1.jpg"
-    },
-    {
-      "id": "81bc2b075e384e60231d023bfee37269",
-      "title": "Frame : une interface graphique open source et moderne pour FFmpeg",
-      "link": "https://www.it-connect.fr/frame-interface-graphique-ffmpeg/",
-      "summary": "Frame est un outil open source qui offre une interface graphique à FFmpeg pour convertir vidéos et audios sans ligne de commande, sur Windows, Linux et macOS. Le post Frame : une interface graphique open source et mod...",
-      "published": "2026-07-14T12:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "51c58f1f4fec53affe246afea2aa9bb2",
-      "title": "Apple rachète SigLens, l'outil open source de surveillance d'applications",
-      "link": "https://korben.info/apple-rachete-siglens-loutil-open-source-de-surveillance-dapplications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Apple vient donc de mettre la main sur SigLens, un logiciel open source de surveillance d'applications, en rachetant les actifs de la petite société américaine qui le développe, SigScalr. L'annonce est tombée ce 13 ju...",
-      "published": "2026-07-13T14:55:35+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/apple-rachete-siglens-loutil-open-source-de-surveillance-dapplications/apple-rachete-siglens-loutil-open-source-de-surveillance-dapplications-1.jpg"
-    },
-    {
-      "id": "d66a0f4cda266864931378ac5981a77b",
-      "title": "L'émulation de la PS5 fait ses premiers pas, alors que la console est encore en rayon",
-      "link": "https://korben.info/lemulation-de-la-ps5-fait-ses-premiers-pas-alors-que-la-console-est-encore-en-rayon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Faire tourner des jeux PS5 sur un simple PC, c'est encore de la science-fiction, mais quelques développeurs viennent de franchir un petit cap. Deux émulateurs, ces logiciels qui imitent une console pour lancer ses jeu...",
-      "published": "2026-07-13T14:34:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lemulation-de-la-ps5-fait-ses-premiers-pas-alors-que-la-console-est-encore-en-rayon/lemulation-de-la-ps5-fait-ses-premiers-pas-alors-que-la-console-est-encore-en-rayon-1.jpg"
-    },
-    {
-      "id": "8cf953cd28a3005da08847d3c3c973e6",
-      "title": "Inky Bird Frame - Les piafs du jardin en planches naturalistes",
-      "link": "https://korben.info/inky-bird-frame-raspberry-pi-eink-oiseaux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous vous souvenez de BirdNet-Pi ? Ce montage dont je vous avais parlé, qui collait un micro sur un Raspberry Pi pour reconnaître les piafs du jardin à l'oreille ? Et bien Henry Sowell, un maker qui signe sous le pseu...",
-      "published": "2026-07-13T14:16:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/inky-bird-frame-raspberry-pi-eink-oiseaux/inky-bird-frame-raspberry-pi-eink-oiseaux-1.jpg"
     },
     {
       "id": "98a605f990a56ebc2d86241dd9478feb",
