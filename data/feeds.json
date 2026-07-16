@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-15T19:05:50.235636+00:00",
+  "last_updated": "2026-07-16T02:20:37.864764+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "78a322351ff56aab09520c89e04d238b",
+      "title": "Dutch police bust investment fraud ring stealing over €100 million",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
+      "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
+      "published": "2026-07-15T21:55:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "68201cbccaade9ff803b47408f66fb03",
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
+      "published": "2026-07-15T20:16:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5d1eaf88e17f9a69ba381b406aaa5fbd",
+      "title": "LegacyHive : la zero-day Windows publiée juste après le Patch Tuesday de juillet",
+      "link": "https://www.it-connect.fr/legacyhive-zero-day-windows-user-profile-service/",
+      "summary": "Nightmare Eclipse a publié LegacyHive, une zero-day dans le service de profils utilisateur de Windows. Elle fonctionne sur les machines Windows et WS à jour. Le post LegacyHive : la zero-day Windows publiée juste aprè...",
+      "published": "2026-07-15T19:59:45+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d6da6971e5d0c99eb54642eab5bd2b23",
+      "title": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
+      "link": "https://korben.info/transcription-audio-texte-dictee-vocale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous cherchez un logiciel de dictée vocale sérieux sur Mac, vous avez sûrement remarqué que le marché ressemble à un désert. Nuance a débranché Dragon pour Mac en octobre 2018, la dictée intégrée de macOS dépanne p...",
+      "published": "2026-07-15T19:16:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-1.png"
+    },
     {
       "id": "009af2d6a033d783d2dbc5bb3a112b37",
       "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
@@ -263,26 +303,6 @@
       "image": ""
     },
     {
-      "id": "0f207928a268ca3c06fee92ffc81b0c8",
-      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
-      "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
-      "published": "2026-07-14T19:15:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a13db83283f478f69e84772a8005089a",
-      "title": "Microsoft releases Windows 10 KB5099539 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
-      "published": "2026-07-14T18:49:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "81bc2b075e384e60231d023bfee37269",
       "title": "Frame : une interface graphique open source et moderne pour FFmpeg",
       "link": "https://www.it-connect.fr/frame-interface-graphique-ffmpeg/",
@@ -328,16 +348,6 @@
       "link": "https://www.it-connect.fr/grok-build-cli-xai-upload-depots-google-cloud/",
       "summary": "Un chercheur a capturé le trafic de Grok Build 0.2.93 : dépôt complet, historique Git et fichiers .env expédiés vers un bucket Google Cloud. Méfiance. Le post Grok Build : l’outil de SpaceXAI expédiait vos dépôts de c...",
       "published": "2026-07-14T05:26:05+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "79ab0794b772ed05705f0c9cada5195f",
-      "title": "NIS 2 encore repoussé : la France traînée devant la justice européenne",
-      "link": "https://www.it-connect.fr/nis2-transposition-france-saisine-cjue/",
-      "summary": "Le projet de loi Résilience ne sera pas examiné cet été. En parallèle, la Commission européenne a saisi la CJUE contre la France pour son retard sur NIS 2. Le post NIS 2 encore repoussé : la France traînée devant la j...",
-      "published": "2026-07-14T00:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -391,16 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/swival-agent-ia-codage-modeles-locaux/swival-agent-ia-codage-modeles-locaux-1.jpg"
-    },
-    {
-      "id": "0370dea0ceccc894ceeb159dd09c80e5",
-      "title": "KamTape - Le site qui ressuscite le YouTube de 2005",
-      "link": "https://korben.info/kamtape-clone-youtube-2005.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Moi je me suis lancé en 2004 et un an plus tard il y a YouTube qui débarquait. C'était bien avant de se faire racheter par Google. Et j'avoue que j'en attendais pas grand-chose. Parce qu'à l'époque, on était vraiment ...",
-      "published": "2026-07-12T18:31:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/kamtape-clone-youtube-2005/kamtape-clone-youtube-2005-1.jpg"
     },
     {
       "id": "5c67b695ea1ab2c9b6ea60aa105a1c19",
