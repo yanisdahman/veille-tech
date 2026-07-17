@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-07-17T13:20:55.593013+00:00",
+  "last_updated": "2026-07-17T19:02:24.182117+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "68dcc1f4937ae7348c2a2a4cba6e6333",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "published": "2026-07-17T17:56:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9a79c915fce1e7fe6ca1fc88f7b69f11",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n,...",
+      "published": "2026-07-17T17:12:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
+    },
+    {
+      "id": "7d46daae0fdb6b01ba1c1b50af747557",
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor...",
+      "published": "2026-07-17T16:39:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
+    },
+    {
+      "id": "054b8079165ef0b877b39b92ab3303e9",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+      "published": "2026-07-17T14:55:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0c9ad9dad45b4a5a69afc6051b6c233",
+      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+      "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profil...",
+      "published": "2026-07-17T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "af4aa73dcf0dd636733c12ddb19b3887",
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and codi...",
+      "published": "2026-07-17T13:48:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
+    },
+    {
+      "id": "617ccda8cc57d9014af3fbe7fad561cb",
+      "title": "Pix 2D to 3D - Des sprites aux modèles 3D, sans IA ni GPU",
+      "link": "https://korben.info/voxelizer-pixel-art-3d-obj.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous faites du pixel art, voilà un petit outil qui devrait vous plaire. Pix 2D to 3D prend votre sprite et vous le transforme en modèle 3D voxelisé au format .obj, importable direct dans Blender, Unity ou Godot. Pa...",
+      "published": "2026-07-17T13:18:13+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/voxelizer-pixel-art-3d-obj/voxelizer-pixel-art-3d-obj-1.png"
+    },
     {
       "id": "d04598bc543339164b84ebc427b01a3e",
       "title": "Forensic Windows – Partie 5 : analyser le BAM et le DAM",
@@ -253,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "bec2b92bb8cab6150c528fffab00811b",
-      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-      "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
-      "published": "2026-07-16T19:09:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "156e65407e40f49751a7853aae1a0793",
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
       "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
@@ -283,16 +343,6 @@
       "image": ""
     },
     {
-      "id": "0fbef72a44ac57d9811f178380624f4a",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the dama...",
-      "published": "2026-07-16T15:41:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
-    },
-    {
       "id": "ef1d0e72ea3f1df20c33019009b4214b",
       "title": "Uptobox : à cause de quelques tweets, ce technicien doit 306 000 euros à Disney",
       "link": "https://korben.info/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -301,56 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney-1.jpg"
-    },
-    {
-      "id": "0a48ed64dee2a364656bef1e44545015",
-      "title": "La France est numéro un mondial de l'IPv6, et en grande partie grâce à Free",
-      "link": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La France vient de décrocher un titre plutôt inattendu, celui de championne du monde de l'IPv6, en détrônant l'Inde qui menait la danse depuis un bon moment. L'IPv6, c'est la \"nouvelle\" version du système d'adresses q...",
-      "published": "2026-07-16T15:07:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free-1.jpg"
-    },
-    {
-      "id": "7b4f5222eb1e911d6a4e5ecbb9d4ed1b",
-      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-      "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams ...",
-      "published": "2026-07-16T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "58534bd0deb70a084c01d83f07e69015",
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
-      "published": "2026-07-16T13:47:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "60b76f83ec02be6cdc43a08d4c0cbd63",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub cla...",
-      "published": "2026-07-16T13:33:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
-    },
-    {
-      "id": "8fce38a4fb36ed69bf8327462ce34faf",
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight...",
-      "published": "2026-07-16T12:50:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5Rn7Ccy_az1UqogtcMmy8m09NuHcnSuylWjVMecOfxDKbvUAt4FnqKIJp4uZUcOPUmnYGIywea1nJG-yiSqcQbPC-ULonG5US-gEbUnkEHbGN3cVnQdkqbxKGt0EY4We_j8V9RrH4NVgtbPFEfc5mdMxV9sTOWSx_p3ShB0LWleupJbo74xMVlGHistw/s1600/click-malware.jpg"
     },
     {
       "id": "cab726b153658703a34ffea0628a74b0",
@@ -403,11 +403,61 @@
       "image": ""
     },
     {
-      "id": "98a605f990a56ebc2d86241dd9478feb",
-      "title": "Ciblage et compromission d’entités françaises au moyen du mode opératoire d’attaque Turla (13 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-004/",
-      "summary": "English version : 🇬🇧 Les membres du Centre de Coordination des Crises Cyber (C4) ont observé le ciblage et la compromission d’entités françaises au moyen du mode opératoire d’attaque (MOA) Turla, opéré par le 16ème Ce...",
-      "published": "2026-07-13T00:00:00+00:00",
+      "id": "0bd9fee82bfa4041e744caad59ee9a30",
+      "title": "Multiples vulnérabilités dans Progress LoadMaster (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0883/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Progress LoadMaster. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1d43365b18659fa187353046a0bb4ef6",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0872/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c2e8b71239532340e3d8d04fa2d094dc",
+      "title": "Vulnérabilité dans Schneider Electric EcoStruxure (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0881/",
+      "summary": "Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "98b122e9ded989e32df1e1bf9cad3987",
+      "title": "Multiples vulnérabilités dans Apache Tomcat (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0876/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fc17ba1c93b63a765d20037c4edb520a",
+      "title": "Multiples vulnérabilités dans Microsoft Azure (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0871/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à dista...",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "945cf9f7b3eb363868a5047ed1aafe90",
+      "title": "Multiples vulnérabilités dans Microsoft Windows (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0869/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
+      "published": "2026-07-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -423,61 +473,11 @@
       "image": ""
     },
     {
-      "id": "5c67b695ea1ab2c9b6ea60aa105a1c19",
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (10 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0866/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-07-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d45b4029d6eae74f2a0778c767771e8c",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (10 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0861/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e...",
-      "published": "2026-07-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "aca138c78aed4452d52d77e0aba912d6",
-      "title": "Multiples vulnérabilités dans les produits IBM (10 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0865/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une...",
-      "published": "2026-07-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6b7dcb7976d44745e366511e82fcf487",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (10 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0863/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
-      "published": "2026-07-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f0c38e7c9bb25ec6f631dc1db10f899d",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (10 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0864/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des...",
-      "published": "2026-07-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "aba3e5868ad7f697f691de35cf4d6cc0",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (10 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0862/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
-      "published": "2026-07-10T00:00:00+00:00",
+      "id": "6322730751dfd2d85ee82420b221465b",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-030 (13 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-030/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-07-13T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
