@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-07-17T08:04:12.675292+00:00",
-  "count": 48,
+  "last_updated": "2026-07-17T13:20:55.593013+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "d04598bc543339164b84ebc427b01a3e",
+      "title": "Forensic Windows – Partie 5 : analyser le BAM et le DAM",
+      "link": "https://www.it-connect.fr/forensic-windows-analyser-le-bam-et-dam/",
+      "summary": "Analyse forensic: exploiter Registry Explorer pour extraire BAM/DAM et exporter les données d’exécution des applications par utilisateur. Le post Forensic Windows – Partie 5 : analyser le BAM et le DAM a été publié su...",
+      "published": "2026-07-17T12:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7c2eeae96fd7920e16f25a3733c31d91",
+      "title": "Firefox en WebAssembly - Gecko s'embarque dans vos pages web",
+      "link": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous avez une TV connectée qui vous crache de la pub, un navigateur intégré dedans qui n'accepte aucune extension, et surtout aucun moyen d'installer quoi que ce soit dessus ? Bonne nouvelle les amis, l'équipe de Pute...",
+      "published": "2026-07-17T11:56:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque/firefox-webassembly-gecko-navigateur-embarque-1.png"
+    },
+    {
+      "id": "473e4db92f035d737c700c23959dbd61",
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the di...",
+      "published": "2026-07-17T11:44:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg"
+    },
+    {
+      "id": "40e30be42e38617534080974cfabc726",
+      "title": "Open OSCAR Server - Faites revivre AIM sur vos vieilles bécanes",
+      "link": "https://korben.info/serveur-aim-perso-open-oscar.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous vous souvenez d'AIM ? Mais siiii, le petit bonhomme jaune qui courait, la porte qui claque quand un pote se connecte, les away messages passifs-agressifs à base de paroles de chanson... Et bien la bidouilleuse Ve...",
+      "published": "2026-07-17T11:32:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/serveur-aim-perso-open-oscar/serveur-aim-perso-open-oscar-1.avif"
+    },
+    {
+      "id": "aabb7f31d2d32bc62a94fcf7142248e4",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways ...",
+      "published": "2026-07-17T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
+    },
+    {
+      "id": "ad79372aad376aa9f41b972a7b34e9ea",
+      "title": "Mario Kart Wii bientôt jouable sans Dolphin ni Wii",
+      "link": "https://korben.info/mario-kart-wii-recompilation-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Alors ça, c'est un sacré morceau qui va ravir tous les fans de rétro gaming ! Patchzy, le dev de Wheel Wizard (le launcher de Retro Rewind), vient d'annoncer Mario Kart Wii compiled, ce qu'il présente comme le premier...",
+      "published": "2026-07-17T11:25:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mario-kart-wii-recompilation-pc/mario-kart-wii-recompilation-pc-1.jpg"
+    },
+    {
+      "id": "8501477a4a4290246ff79ef69214dd50",
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "published": "2026-07-17T11:05:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b1b5b98957754b94ffbdcabb8386c5f2",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV...",
+      "published": "2026-07-17T10:53:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg"
+    },
+    {
+      "id": "a3a5402910b242bdedf5ec922b736d6e",
+      "title": "Torvalds aux opposants à l'IA dans Linux : forkez le noyau, ou passez votre chemin",
+      "link": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "On ne présente plus Linus Torvalds, le père du noyau Linux, aussi connu pour son génie technique que pour un franc-parler. Cette fois, c'est le débat sur l'usage de l'IA dans le développement du noyau qui l'a fait sor...",
+      "published": "2026-07-17T10:12:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin-1.jpg"
+    },
+    {
+      "id": "4e6ae6e683661542ff5950be6b298c14",
+      "title": "La Belgique bloque wawacity.pizza, mais les pirates se sont déjà mis au poker",
+      "link": "https://korben.info/belgique-blocage-domaines-piratage-poker.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La Belgique vient de bloquer wawacity.pizza. Et wawacity.rodeo. Ah et aussi wawacity.taxi, wawacity.futbol, wawacity.motorcycles, wawacity.irish, sans oublier zone-telechargement.meme et zone-telechargement.monster ( ...",
+      "published": "2026-07-17T10:02:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/belgique-blocage-domaines-piratage-poker/belgique-blocage-domaines-piratage-poker-1.jpg"
+    },
+    {
+      "id": "449067fc2c727ceb181f134ecc5d07c6",
+      "title": "GPT-5.6 Sol efface la prod - Un an après Replit, rebelote",
+      "link": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous vous souvenez de Jason Lemkin ? C'est le malheureux qui, en juillet de l'année dernière, s'est fait vider sa base de prod par l'IA de Replit. Je pense que cette histoire a traumatisé pas mal de développeurs. Eh b...",
+      "published": "2026-07-17T09:49:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai/gpt-5-6-sol-suppression-fichiers-openai-1.png"
+    },
+    {
+      "id": "26fa925ff2d4422db20fa9fd644bbd14",
+      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+      "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
+      "published": "2026-07-17T09:10:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "654d0124a4701d78cd1758346ba5d4c1",
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePo...",
+      "published": "2026-07-17T08:56:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
+    },
+    {
+      "id": "20883f32f364215fbba38617f28a45db",
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term acc...",
+      "published": "2026-07-17T08:46:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
+    },
+    {
+      "id": "bfb17903b38fb43b8d482c1a2641af92",
+      "title": "US charges two over laundering $43 million from investment fraud",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
+      "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
+      "published": "2026-07-17T08:13:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "b5bb9ae1e6c6bf6fec49d43d6b5b7e58",
       "title": "Contourner un géoblocage via VPN n'a rien d'illégal, dit la CJUE",
@@ -143,6 +293,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
     },
     {
+      "id": "ef1d0e72ea3f1df20c33019009b4214b",
+      "title": "Uptobox : à cause de quelques tweets, ce technicien doit 306 000 euros à Disney",
+      "link": "https://korben.info/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Disney considérait une addition à 16 millions d'euros contre un simple technicien d'Uptobox, la cour d'appel de Paris vient de la ramener à 306 000, et ce qui reste ne tient même pas à son travail sur les serveurs, ma...",
+      "published": "2026-07-16T15:28:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney-1.jpg"
+    },
+    {
       "id": "0a48ed64dee2a364656bef1e44545015",
       "title": "La France est numéro un mondial de l'IPv6, et en grande partie grâce à Free",
       "link": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -193,26 +353,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5Rn7Ccy_az1UqogtcMmy8m09NuHcnSuylWjVMecOfxDKbvUAt4FnqKIJp4uZUcOPUmnYGIywea1nJG-yiSqcQbPC-ULonG5US-gEbUnkEHbGN3cVnQdkqbxKGt0EY4We_j8V9RrH4NVgtbPFEfc5mdMxV9sTOWSx_p3ShB0LWleupJbo74xMVlGHistw/s1600/click-malware.jpg"
     },
     {
-      "id": "e7ee3888202f96f20bbfee19b6c7fecb",
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behin...",
-      "published": "2026-07-16T12:33:42+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg"
-    },
-    {
-      "id": "38f78f20c9be509e79984448059229d3",
-      "title": "Scattered Spider members behind TfL hack get five years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-      "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
-      "published": "2026-07-16T12:31:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "cab726b153658703a34ffea0628a74b0",
       "title": "Age of Empires II : une faille permettait de prendre le contrôle d’un PC via une partie multijoueur",
       "link": "https://www.it-connect.fr/age-of-empires-ii-faille-rce-cve-2026-50663/",
@@ -223,26 +363,6 @@
       "image": ""
     },
     {
-      "id": "86e4969a65d4ce090afb367e5ad78124",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
-      "published": "2026-07-16T11:59:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1ad9dce2c394c6646d3d1f3067a30106",
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threa...",
-      "published": "2026-07-16T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_Ix6AmdT0f-NuPj2BLNRcSaOhWHf5pPdDuwR0eykvHCnOmoHUhq5Z2axM2GJX9gX5A3FlesfKuynGTsj012HNIJZURuZ8S7uCfa7_cSXIZDWC1donHjiQbkNr3jNLSq8B2PGpUG24fddwOaG2POjEQuvlrVEnp3yPa1F3tV2fpYDVQHEsaIHbnShUuQ/s1600/hacked.jpg"
-    },
-    {
       "id": "5ff00ca32786002c533fca3cb9e0169a",
       "title": "Secure Boot : 11 shims signés par Microsoft permettaient de contourner la protection",
       "link": "https://www.it-connect.fr/secure-boot-11-shims-signes-microsoft-eset/",
@@ -251,46 +371,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ad640b9112d923e9bc5d6a5c8af39435",
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment ...",
-      "published": "2026-07-16T11:32:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiapJDNa0fN3WsyrkYjRiRo3L8tqmE_RJm9AmQV5KO9p5To-PBWdVz7EW294xtn-VZtJ2xS_scIq3LyqyxYkPG3R5TdJoPF_axjEaLpaXSqGHK_uO274wM315GEqHtnDAMIfFN2vZlcEYJ3Ca11Ml_E-l32H63EYNfx7l9ldtjNlH8hL_19w4RL6vDpOWMz/s1600/adi.jpg"
-    },
-    {
-      "id": "ce65e180c04d16ebcbeb9c07569a805a",
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (...",
-      "published": "2026-07-16T11:17:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoN2-EflBc7bABKWw8GsIF_E9I7A9Ond88d-yFCAc6t850C9RGNxpGFAP3G9NichaP7JHa_BA-4bsMDNze5837hGCFGuAbyEHPVsxmQgMNS9A8e1jFL19Z1MVv9KOq0TX5ShDG46Xrv3MxH-vR3sQtEcDkH5OMxQQo11NXMKWRicC8T1OwTqw3ENoXEdIK/s1600/WINDOWS-malware.jpg"
-    },
-    {
-      "id": "71585e80b5c2dbb0fdcbd4ed4f18d326",
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "published": "2026-07-16T10:56:03+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bf8fdda8d0afb2a2174e280326109ce9",
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generat...",
-      "published": "2026-07-16T10:10:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFHlEVhBtz6htSsevgYmwuQZHGlEXKK9eqiOqgiXJ587449tNZfWR9y74kC9MfZ6CDSPx6IBloYogs0PBSeynORkAZsD6825INUqoJaIMwtAbBVkve-A8xBNmz6fNpxsuwjsF_jfXHqBumqTT9VY7Jn5gEP3C0fVLOtuVFZ2krUvHSagGvupLXQSH-YI/s1600/cvss.jpg"
     },
     {
       "id": "214298dcac485edf50682c2913747f5f",
@@ -321,66 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "d6da6971e5d0c99eb54642eab5bd2b23",
-      "title": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
-      "link": "https://korben.info/transcription-audio-texte-dictee-vocale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous cherchez un logiciel de dictée vocale sérieux sur Mac, vous avez sûrement remarqué que le marché ressemble à un désert. Nuance a débranché Dragon pour Mac en octobre 2018, la dictée intégrée de macOS dépanne p...",
-      "published": "2026-07-15T19:16:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-1.png"
-    },
-    {
-      "id": "e3ab931fa32dc090cf207c0fae2351c6",
-      "title": "La Neo Geo fait enfin tourner DOOM",
-      "link": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "DOOM tourne aujourd'hui sur presque tout, d'un frigo connecté à une calculatrice, et chaque année quelqu'un ajoute une machine encore plus improbable à la liste. Il restait pourtant une exception qui résistait, la Neo...",
-      "published": "2026-07-15T15:43:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom/la-neo-geo-fait-enfin-tourner-doom-1.jpg"
-    },
-    {
-      "id": "36f8cdc7138a7fafe16ea7128b752466",
-      "title": "Microsoft bat son record avec 570 failles corrigées en un mois, et c'est son IA qui les déterre",
-      "link": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Il y a des chiffres qui en disent long sur l'état d'un logiciel, et celui-ci en fait clairement partie. Microsoft vient de corriger 570 failles de sécurité d'un seul coup lors de son dernier Patch Tuesday, ce rendez-v...",
-      "published": "2026-07-15T14:22:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre-1.webp"
-    },
-    {
-      "id": "5df6b4d2e82292b17c14f5b21b4ff7b9",
-      "title": "La vérif d'âge de l'Europe ridiculisée par une extension Chrome",
-      "link": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Bon, vous le savez, l'Europe tient absolument à savoir votre âge, avant de vous laisser scroller librement sur le net. Alors pour cela, ils ont mis au point une application qui permet de prouver votre âge et qui nous ...",
-      "published": "2026-07-15T10:39:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee/verification-age-ue-reseaux-sociaux-contournee-1.png"
-    },
-    {
-      "id": "fa0e96c369364bbc0f570acd77c800b0",
-      "title": "Windows 11 KB5101650 : la mise à jour de juillet 2026 est là et elle est bloquée sur certains PC Dell",
-      "link": "https://www.it-connect.fr/windows-11-kb5101650-mise-a-jour-de-juillet-2026/",
-      "summary": "KB5101650 et KB5099414 : les mises à jour Windows 11 de juillet 2026 sont là. Découvrez les nouveautés et attention au blocage sur certains PC Dell. Le post Windows 11 KB5101650 : la mise à jour de juillet 2026 est là...",
-      "published": "2026-07-15T07:24:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b1c0fa0e3456190ca951b00121163388",
-      "title": "La clim tue la planète ? Vous avez 30 ans de retard",
-      "link": "https://korben.info/climatisation-idees-recues.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "« Climatiser son appartement, c'est réchauffer celui du voisin. » Vous l'avez forcément déjà entendue, cette bonne blague là... C'est comme ça que commence la dernière vidéo de Numerama, où durant 23 minutes, Julien C...",
-      "published": "2026-07-15T05:33:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/climatisation-idees-recues/climatisation-idees-recues-1.jpg"
     },
     {
       "id": "98a605f990a56ebc2d86241dd9478feb",
