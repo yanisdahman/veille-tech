@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-16T19:04:26.573300+00:00",
-  "count": 40,
+  "last_updated": "2026-07-17T02:23:24.859587+00:00",
+  "count": 46,
   "articles": [
+    {
+      "id": "043ce4d04c228d8e0ae24725cecb2e53",
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
+      "published": "2026-07-16T21:52:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7499f8a193dabf8f62cfd342333354b1",
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
+      "published": "2026-07-16T21:09:41+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e47bfb83332c1efaed028dcbe80b8919",
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected ser...",
+      "published": "2026-07-16T19:26:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bec2b92bb8cab6150c528fffab00811b",
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
+      "published": "2026-07-16T19:09:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "156e65407e40f49751a7853aae1a0793",
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
@@ -31,6 +71,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
+    },
+    {
+      "id": "0a48ed64dee2a364656bef1e44545015",
+      "title": "La France est numéro un mondial de l'IPv6, et en grande partie grâce à Free",
+      "link": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La France vient de décrocher un titre plutôt inattendu, celui de championne du monde de l'IPv6, en détrônant l'Inde qui menait la danse depuis un bon moment. L'IPv6, c'est la \"nouvelle\" version du système d'adresses q...",
+      "published": "2026-07-16T15:07:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free-1.jpg"
     },
     {
       "id": "7b4f5222eb1e911d6a4e5ecbb9d4ed1b",
@@ -183,16 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFHlEVhBtz6htSsevgYmwuQZHGlEXKK9eqiOqgiXJ587449tNZfWR9y74kC9MfZ6CDSPx6IBloYogs0PBSeynORkAZsD6825INUqoJaIMwtAbBVkve-A8xBNmz6fNpxsuwjsF_jfXHqBumqTT9VY7Jn5gEP3C0fVLOtuVFZ2krUvHSagGvupLXQSH-YI/s1600/cvss.jpg"
     },
     {
-      "id": "5901567a711ede8d7a1c095af8a83dda",
-      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-      "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-      "published": "2026-07-16T10:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c1d78c37f9686dd20c7a42aa9ad9045c",
       "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
       "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
@@ -223,26 +263,6 @@
       "image": ""
     },
     {
-      "id": "78a322351ff56aab09520c89e04d238b",
-      "title": "Dutch police bust investment fraud ring stealing over €100 million",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
-      "published": "2026-07-15T21:55:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "68201cbccaade9ff803b47408f66fb03",
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "published": "2026-07-15T20:16:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5d1eaf88e17f9a69ba381b406aaa5fbd",
       "title": "LegacyHive : la zero-day Windows publiée juste après le Patch Tuesday de juillet",
       "link": "https://www.it-connect.fr/legacyhive-zero-day-windows-user-profile-service/",
@@ -253,14 +273,44 @@
       "image": ""
     },
     {
-      "id": "ad02ca180aab7d9bb9f34a2a526f91d7",
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "published": "2026-07-15T18:33:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
+      "id": "d6da6971e5d0c99eb54642eab5bd2b23",
+      "title": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
+      "link": "https://korben.info/transcription-audio-texte-dictee-vocale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous cherchez un logiciel de dictée vocale sérieux sur Mac, vous avez sûrement remarqué que le marché ressemble à un désert. Nuance a débranché Dragon pour Mac en octobre 2018, la dictée intégrée de macOS dépanne p...",
+      "published": "2026-07-15T19:16:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-1.png"
+    },
+    {
+      "id": "e3ab931fa32dc090cf207c0fae2351c6",
+      "title": "La Neo Geo fait enfin tourner DOOM",
+      "link": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "DOOM tourne aujourd'hui sur presque tout, d'un frigo connecté à une calculatrice, et chaque année quelqu'un ajoute une machine encore plus improbable à la liste. Il restait pourtant une exception qui résistait, la Neo...",
+      "published": "2026-07-15T15:43:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom/la-neo-geo-fait-enfin-tourner-doom-1.jpg"
+    },
+    {
+      "id": "36f8cdc7138a7fafe16ea7128b752466",
+      "title": "Microsoft bat son record avec 570 failles corrigées en un mois, et c'est son IA qui les déterre",
+      "link": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Il y a des chiffres qui en disent long sur l'état d'un logiciel, et celui-ci en fait clairement partie. Microsoft vient de corriger 570 failles de sécurité d'un seul coup lors de son dernier Patch Tuesday, ce rendez-v...",
+      "published": "2026-07-15T14:22:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre-1.webp"
+    },
+    {
+      "id": "5df6b4d2e82292b17c14f5b21b4ff7b9",
+      "title": "La vérif d'âge de l'Europe ridiculisée par une extension Chrome",
+      "link": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Bon, vous le savez, l'Europe tient absolument à savoir votre âge, avant de vous laisser scroller librement sur le net. Alors pour cela, ils ont mis au point une application qui permet de prouver votre âge et qui nous ...",
+      "published": "2026-07-15T10:39:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee/verification-age-ue-reseaux-sociaux-contournee-1.png"
     },
     {
       "id": "fa0e96c369364bbc0f570acd77c800b0",
@@ -301,6 +351,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "b1c0fa0e3456190ca951b00121163388",
+      "title": "La clim tue la planète ? Vous avez 30 ans de retard",
+      "link": "https://korben.info/climatisation-idees-recues.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "« Climatiser son appartement, c'est réchauffer celui du voisin. » Vous l'avez forcément déjà entendue, cette bonne blague là... C'est comme ça que commence la dernière vidéo de Numerama, où durant 23 minutes, Julien C...",
+      "published": "2026-07-15T05:33:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/climatisation-idees-recues/climatisation-idees-recues-1.jpg"
     },
     {
       "id": "98a605f990a56ebc2d86241dd9478feb",
