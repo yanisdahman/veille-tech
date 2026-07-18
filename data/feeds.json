@@ -1,12 +1,22 @@
 {
-  "last_updated": "2026-07-18T02:07:53.983105+00:00",
+  "last_updated": "2026-07-18T07:43:54.074207+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1c67c4ae74a3e7ce48fd4e06f3cfe6ec",
+      "title": "wp2shell : une faille critique expose des millions de sites WordPress",
+      "link": "https://www.it-connect.fr/wordpress-wp2shell-rce-critique-coeur-cms/",
+      "summary": "wp2shell, c'est le nom d'une faille critique (RCE pré-authentifiée) dans le cœur de WordPress. Face à l'urgence, les mises à jour sont forcées. Le post wp2shell : une faille critique expose des millions de sites WordP...",
+      "published": "2026-07-18T05:58:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "73dd59721858992bb0661ba5e3645695",
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7....",
+      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all o...",
       "published": "2026-07-17T21:20:10+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/proton-vpn-rapport-transparence-458-demandes-refusees/",
       "summary": "Le rapport de transparence de Proton VPN vient d'être actualisé : 47 ordonnances suisses reçues au premier semestre 2026, toutes refusées faute de logs. Le post Proton VPN : 458 réquisitions judiciaires depuis 2017, e...",
       "published": "2026-07-16T05:23:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5d1eaf88e17f9a69ba381b406aaa5fbd",
-      "title": "LegacyHive : la zero-day Windows publiée juste après le Patch Tuesday de juillet",
-      "link": "https://www.it-connect.fr/legacyhive-zero-day-windows-user-profile-service/",
-      "summary": "Nightmare Eclipse a publié LegacyHive, une zero-day dans le service de profils utilisateur de Windows. Elle fonctionne sur les machines Windows et WS à jour. Le post LegacyHive : la zero-day Windows publiée juste aprè...",
-      "published": "2026-07-15T19:59:45+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
