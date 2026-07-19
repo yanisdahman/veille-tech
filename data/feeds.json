@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-19T13:10:40.797188+00:00",
+  "last_updated": "2026-07-19T19:01:23.037399+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "636d6927a0079955cae7d465e42714dc",
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "published": "2026-07-19T14:23:46+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f5079dc061d035a0de717b13af309d7f",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Eme...",
+      "published": "2026-07-19T13:30:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
+    },
+    {
+      "id": "af9b87ce7f63d607746af6ebe06057d9",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since Jun...",
+      "published": "2026-07-19T13:18:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
+    },
+    {
+      "id": "bf9d21887a0203761cf7c7c024be7301",
+      "title": "La loi de l'attraction prouvée scientifiquement ?",
+      "link": "https://korben.info/champs-electromagnetiques-conscience.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous avez déjà accroché avec quelqu'un en trois secondes ? Détesté une tête au premier regard, sans savoir pourquoi ? Eh bien, d'après le site Popular Mechanics ce serait grâce aux champs électromagnétiques. Derrière ...",
+      "published": "2026-07-19T13:13:57+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/champs-electromagnetiques-conscience/champs-electromagnetiques-conscience-1.png"
+    },
     {
       "id": "e0c1e565113eb2f399ad42fc5db0fbaf",
       "title": "727 mots de passe par seconde, la Game Boy Advance s'y met fort ^^",
@@ -46,7 +86,7 @@
       "id": "db7d61430a44b00e151845c8813d3b1f",
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
       "published": "2026-07-18T19:32:02+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
@@ -273,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "b1b5b98957754b94ffbdcabb8386c5f2",
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV...",
-      "published": "2026-07-17T10:53:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg"
-    },
-    {
       "id": "a3a5402910b242bdedf5ec922b736d6e",
       "title": "Torvalds aux opposants à l'IA dans Linux : forkez le noyau, ou passez votre chemin",
       "link": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -291,36 +321,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin-1.jpg"
-    },
-    {
-      "id": "4e6ae6e683661542ff5950be6b298c14",
-      "title": "La Belgique bloque wawacity.pizza, mais les pirates se sont déjà mis au poker",
-      "link": "https://korben.info/belgique-blocage-domaines-piratage-poker.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La Belgique vient de bloquer wawacity.pizza. Et wawacity.rodeo. Ah et aussi wawacity.taxi, wawacity.futbol, wawacity.motorcycles, wawacity.irish, sans oublier zone-telechargement.meme et zone-telechargement.monster ( ...",
-      "published": "2026-07-17T10:02:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/belgique-blocage-domaines-piratage-poker/belgique-blocage-domaines-piratage-poker-1.jpg"
-    },
-    {
-      "id": "26fa925ff2d4422db20fa9fd644bbd14",
-      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-      "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
-      "published": "2026-07-17T09:10:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "654d0124a4701d78cd1758346ba5d4c1",
-      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePo...",
-      "published": "2026-07-17T08:56:39+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
     },
     {
       "id": "f2557230361ec66817e1442cefdd4505",
