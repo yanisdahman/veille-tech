@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-19T19:01:23.037399+00:00",
+  "last_updated": "2026-07-20T03:19:45.582794+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8dbed79d20244da459fc84cde774defd",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in ngi...",
+      "published": "2026-07-19T20:42:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg"
+    },
     {
       "id": "636d6927a0079955cae7d465e42714dc",
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
@@ -63,6 +73,16 @@
       "image": "https://korben.info/castor-caster-flux-video-web-tv/castor-caster-flux-video-web-tv-1.png"
     },
     {
+      "id": "41a2fce2e62b5f07d6167cad3214133b",
+      "title": "Une demi-seconde a fait tomber la backdoor XZ - Voici son livre",
+      "link": "https://korben.info/half-second-livre-backdoor-xz.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une demi-seconde. C'est le retard qu'ont pris les connexions SSH d'Andres Freund, ingénieur chez Microsoft, lors d'un benchmark de routine en mars 2024. Cette demi-seconde, Adrian Mastronardi, CTO de Habi et linuxien ...",
+      "published": "2026-07-19T07:27:17+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/half-second-livre-backdoor-xz/half-second-livre-backdoor-xz-1.png"
+    },
+    {
       "id": "66b1c6811791d109f55000d93cabfaaa",
       "title": "Un moddeur fait tourner trois GTA les uns dans les autres",
       "link": "https://korben.info/gta-3-vice-city-san-andreas-mod.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -121,6 +141,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "3f412446679362e8ac5ce5db2014d266",
+      "title": "Fable 5 est tellement demandé qu'Anthropic n'arrive plus à suivre",
+      "link": "https://korben.info/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Anthropic a fini par annoncer ce que tout le monde attendait : à partir du 20 juillet, son modèle d'intelligence artificielle Fable 5 restera inclus dans les abonnements Max et Team Premium, mais avec un plafond fixé ...",
+      "published": "2026-07-18T06:25:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre-1.png"
     },
     {
       "id": "1c67c4ae74a3e7ce48fd4e06f3cfe6ec",
@@ -283,26 +313,6 @@
       "image": "https://korben.info/serveur-aim-perso-open-oscar/serveur-aim-perso-open-oscar-1.avif"
     },
     {
-      "id": "aabb7f31d2d32bc62a94fcf7142248e4",
-      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways ...",
-      "published": "2026-07-17T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
-    },
-    {
-      "id": "ad79372aad376aa9f41b972a7b34e9ea",
-      "title": "Mario Kart Wii bientôt jouable sans Dolphin ni Wii",
-      "link": "https://korben.info/mario-kart-wii-recompilation-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Alors ça, c'est un sacré morceau qui va ravir tous les fans de rétro gaming ! Patchzy, le dev de Wheel Wizard (le launcher de Retro Rewind), vient d'annoncer Mario Kart Wii compiled, ce qu'il présente comme le premier...",
-      "published": "2026-07-17T11:25:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/mario-kart-wii-recompilation-pc/mario-kart-wii-recompilation-pc-1.jpg"
-    },
-    {
       "id": "8501477a4a4290246ff79ef69214dd50",
       "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
@@ -311,16 +321,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "a3a5402910b242bdedf5ec922b736d6e",
-      "title": "Torvalds aux opposants à l'IA dans Linux : forkez le noyau, ou passez votre chemin",
-      "link": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "On ne présente plus Linus Torvalds, le père du noyau Linux, aussi connu pour son génie technique que pour un franc-parler. Cette fois, c'est le débat sur l'usage de l'IA dans le développement du noyau qui l'a fait sor...",
-      "published": "2026-07-17T10:12:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin-1.jpg"
     },
     {
       "id": "f2557230361ec66817e1442cefdd4505",
