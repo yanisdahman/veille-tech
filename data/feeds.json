@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-07-20T08:52:08.928986+00:00",
+  "last_updated": "2026-07-20T13:58:50.148689+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "cafbf53d012796bfe264594e9860fa5b",
+      "title": "Neural Drive - Le jeu de kart qui tourne sans moteur de jeu, dans votre navigateur",
+      "link": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Aujourd'hui je vais vous parler d'un jeu de karting façon Mario Kart qui fonctionne sans moteur 3D et sans même une seule ligne de code. En réalité, il s'agit d'un modèle de 130 millions de paramètres qui est capable ...",
+      "published": "2026-07-20T13:41:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur/neural-drive-world-model-supertuxkart-navigateur-1.png"
+    },
+    {
+      "id": "2c3662414bac564609a9e5d2096ead01",
+      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks,...",
+      "published": "2026-07-20T13:32:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg"
+    },
+    {
+      "id": "35b218600de9ced109e1c1f7b21916f3",
+      "title": "Reviewer des patches git par mail sans quitter Thunderbird",
+      "link": "https://korben.info/thunderbird-review-patches-git-email.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Marc Coquand avait très envie d'embarquer son équipe dans un nouveau genre de workflow Git à base d'emails et c'est pour ça qu'il a créé thunderbird-patch-review . Il s'agit d'une extension pour Thunderbird qui, lorsq...",
+      "published": "2026-07-20T13:02:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/thunderbird-review-patches-git-email/thunderbird-review-patches-git-email-1.png"
+    },
+    {
+      "id": "5f09b53aeae22ece94d74cd10fca82cd",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv...",
+      "published": "2026-07-20T12:13:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg"
+    },
+    {
+      "id": "8ac1f21bb3d0a27d7b4aafdf656bb46e",
+      "title": "Hugging Face warns an autonomous AI agent hacked its network",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
+      "published": "2026-07-20T11:56:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "048b17e323db89a311285a0abac5192e",
+      "title": "Moonshine - Et votre serveur Linux sans écran devient une console",
+      "link": "https://korben.info/moonshine-serveur-streaming-jeux-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "NVIDIA a débranché GameStream, son système maison pour envoyer les jeux de votre PC vers une Shield ou un laptop. Sauf que le protocole, lui, n'est pas mort : Moonlight , le client open source qui le réimplémente, tou...",
+      "published": "2026-07-20T11:51:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/moonshine-serveur-streaming-jeux-rust/moonshine-serveur-streaming-jeux-rust-1.jpg"
+    },
+    {
+      "id": "1d72fb6f84492f848b5357c9ca5ed643",
+      "title": "NGINX – CVE-2026-42533 : cette faille peut faire planter votre serveur Web",
+      "link": "https://www.it-connect.fr/nginx-cve-2026-42533-faille-critique-map-regex/",
+      "summary": "F5 a corrigé la CVE-2026-42533, une faille critique de NGINX qui peut faire planter les workers et, parfois, permettre une exécution de code à distance. Le post NGINX – CVE-2026-42533 : cette faille peut faire planter...",
+      "published": "2026-07-20T11:36:14+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c131eea973898cd83f17d35460cd596c",
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery...",
+      "published": "2026-07-20T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPz_r-By1h0xZL5FiBqJIALstL79CJXVbUweKybWr0EG7qKcLPYSo750ATDQjzd9tE6piMt4-TkFY4mT87Q58Jg_0jHMCveyydooFMjk5hKUk0jQA_Uxp6WamlMsFIjXcws2ighKsjC907P45OIhcimimpm-ECyQ_bq5erQ2MTvH7HGwzGgXrxQSIBBx0/s1600/xmcyber.jpg"
+    },
+    {
+      "id": "fa712320660aaf2f53490c7ca260962e",
+      "title": "Microsoft confirms Windows Server Update Services sync delays",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+      "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
+      "published": "2026-07-20T10:47:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f01dfc2df79a38f5c799d80adf03ee83",
+      "title": "BMASS - Bootez direct votre PC sur une IA locale",
+      "link": "https://korben.info/bmass-boot-usb-modele-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil BMASS , qui s'installe sur une clé U...",
+      "published": "2026-07-20T10:20:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/bmass-boot-usb-modele-ia-local/bmass-boot-usb-modele-ia-local-1.png"
+    },
+    {
+      "id": "71992f465399a15e6347508dc8b4de58",
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
+      "published": "2026-07-20T10:06:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "99dbe3f9638e70cb69e05af7a87fe846",
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+      "published": "2026-07-20T09:29:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7462cc7cfe2da1053c7dd1a2c73e54e8",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day ...",
+      "published": "2026-07-20T09:10:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
+    },
+    {
+      "id": "a42f32f0e8fc1a4d878f62fe32076ddf",
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from ...",
+      "published": "2026-07-20T09:07:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
+    },
     {
       "id": "13debcf3aaaba623f3cdc831b8fe8599",
       "title": "Faille dans 7-Zip : pourquoi vous devriez installer la version 26.02 sans attendre",
@@ -163,46 +303,6 @@
       "image": "https://korben.info/champs-electromagnetiques-conscience/champs-electromagnetiques-conscience-1.png"
     },
     {
-      "id": "e0c1e565113eb2f399ad42fc5db0fbaf",
-      "title": "727 mots de passe par seconde, la Game Boy Advance s'y met fort ^^",
-      "link": "https://korben.info/gba-hashcat-craqueur-mots-de-passe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "727 mots de passe testés par seconde, c'est le score incroyable d'une Game Boy Advance reprogrammée en casseur de mots de passe par solst-ice, un développeur qui avait visiblement une console de 2001 qui traînait et p...",
-      "published": "2026-07-19T10:23:05+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gba-hashcat-craqueur-mots-de-passe/gba-hashcat-craqueur-mots-de-passe-1.png"
-    },
-    {
-      "id": "d57237eaffa5366b372560421bf3f65f",
-      "title": "Castor - Votre flux vidéo web sur la télé, en top qualité",
-      "link": "https://korben.info/castor-caster-flux-video-web-tv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous avez déjà pesté contre votre télé qui refuse de lire une vidéo pourtant toute bête trouvée sur le web ? Hé bien Kilian Houpeurt aussi et c'est pourquoi il a décidé, plutôt que de râler dans le vide comme un mec l...",
-      "published": "2026-07-19T07:57:07+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/castor-caster-flux-video-web-tv/castor-caster-flux-video-web-tv-1.png"
-    },
-    {
-      "id": "41a2fce2e62b5f07d6167cad3214133b",
-      "title": "Une demi-seconde a fait tomber la backdoor XZ - Voici son livre",
-      "link": "https://korben.info/half-second-livre-backdoor-xz.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Une demi-seconde. C'est le retard qu'ont pris les connexions SSH d'Andres Freund, ingénieur chez Microsoft, lors d'un benchmark de routine en mars 2024. Cette demi-seconde, Adrian Mastronardi, CTO de Habi et linuxien ...",
-      "published": "2026-07-19T07:27:17+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/half-second-livre-backdoor-xz/half-second-livre-backdoor-xz-1.png"
-    },
-    {
-      "id": "66b1c6811791d109f55000d93cabfaaa",
-      "title": "Un moddeur fait tourner trois GTA les uns dans les autres",
-      "link": "https://korben.info/gta-3-vice-city-san-andreas-mod.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Y'a un moddeur de génie, Dryxio, qui vient de réussir un truc que Rockstar n'a jamais osé faire : Faire tourner GTA III et Vice City en entier, à l'intérieur de GTA San Andreas. Ouèp, les deux jeux complets, avec leur...",
-      "published": "2026-07-19T06:53:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gta-3-vice-city-san-andreas-mod/gta-3-vice-city-san-andreas-mod-1.png"
-    },
-    {
       "id": "db7d61430a44b00e151845c8813d3b1f",
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
@@ -253,91 +353,11 @@
       "image": ""
     },
     {
-      "id": "73dd59721858992bb0661ba5e3645695",
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all o...",
-      "published": "2026-07-17T21:20:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg"
-    },
-    {
       "id": "189850f386a02db04d127fde7978c9f9",
       "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
       "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a s...",
       "published": "2026-07-17T20:45:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c4f4e300b2d200716994f38ac7ba3c02",
-      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped t...",
-      "published": "2026-07-17T20:20:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg"
-    },
-    {
-      "id": "499e4165bde84dd309be3f86e6abf268",
-      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed Vi...",
-      "published": "2026-07-17T18:54:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg"
-    },
-    {
-      "id": "68dcc1f4937ae7348c2a2a4cba6e6333",
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
-      "published": "2026-07-17T17:56:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9a79c915fce1e7fe6ca1fc88f7b69f11",
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n,...",
-      "published": "2026-07-17T17:12:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
-    },
-    {
-      "id": "7d46daae0fdb6b01ba1c1b50af747557",
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor...",
-      "published": "2026-07-17T16:39:16+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
-    },
-    {
-      "id": "054b8079165ef0b877b39b92ab3303e9",
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-      "published": "2026-07-17T14:55:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c0c9ad9dad45b4a5a69afc6051b6c233",
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profil...",
-      "published": "2026-07-17T14:00:10+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -350,16 +370,6 @@
       "published": "2026-07-17T12:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8501477a4a4290246ff79ef69214dd50",
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "published": "2026-07-17T11:05:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
       "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à 16...",
       "published": "2026-07-17T05:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b5b9bdb11d576b31d243e95dcdd69c18",
-      "title": "Traefik Manager : administrer son reverse proxy Traefik depuis une interface web",
-      "link": "https://www.it-connect.fr/traefik-manager-interface-web-reverse-proxy/",
-      "summary": "Tutoriel Traefik Manager : installez cette interface web open source avec Docker Compose pour gérer votre reverse proxy Traefik (routes, certificats, config). Le post Traefik Manager : administrer son reverse proxy Tr...",
-      "published": "2026-07-16T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
