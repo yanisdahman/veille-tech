@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-07-20T13:58:50.148689+00:00",
+  "last_updated": "2026-07-20T19:39:45.477535+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f9bfffbbbd350ccdc1c5b4a016189e77",
+      "title": "Hugging Face piraté par une IA autonome et les IA américaines refusent de l’aider",
+      "link": "https://www.it-connect.fr/hugging-face-cyberattaque-ia-autonome-modele-open-weight/",
+      "summary": "Hugging Face a subi une intrusion menée par une IA autonome. Bloquées par les modèles frontier, ses équipes ont riposté avec une IA open-weight auto-hébergée. Le post Hugging Face piraté par une IA autonome et les IA ...",
+      "published": "2026-07-20T19:33:28+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e2570f41020b000c88c516a85986515c",
+      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+      "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
+      "published": "2026-07-20T17:43:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "abfd4b1d2f4ebc8eb91d6e7b84b206d4",
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two ca...",
+      "published": "2026-07-20T17:29:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg"
+    },
+    {
+      "id": "3cebe3005cb0f72ff0b8a3dd5a3b7084",
+      "title": "Point-in-time Restore : restaurer Windows 11 en quelques minutes",
+      "link": "https://www.it-connect.fr/point-in-time-restore-windows-11/",
+      "summary": "Point-in-time Restore restaure Windows 11 en quelques minutes après un incident. Découvrez comment l'activer, le configurer et lancer une restauration. Le post Point-in-time Restore : restaurer Windows 11 en quelques ...",
+      "published": "2026-07-20T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1d52f400d0bd5b5c2305164a0397c3f7",
+      "title": "Empreintes et ADN - Le vrai prix de votre ESTA",
+      "link": "https://korben.info/ue-usa-donnees-biometriques-visa-ebsp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vos empreintes digitales, votre photo et jusqu'à votre ADN, voilà ce que les États-Unis aimeraient consulter directement dans les fichiers de police européens. Le deal s'appelle Enhanced Border Security Partnership (E...",
+      "published": "2026-07-20T15:16:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ue-usa-donnees-biometriques-visa-ebsp/ue-usa-donnees-biometriques-visa-ebsp-1.png"
+    },
+    {
+      "id": "1fa2abd6a9491253df64e21ba42105b7",
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to th...",
+      "published": "2026-07-20T14:33:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg"
+    },
+    {
+      "id": "575b1d5792318e2e509257c00aafca2f",
+      "title": "An AI SOC Evaluation Guide for Security Leaders",
+      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+      "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including ho...",
+      "published": "2026-07-20T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "cafbf53d012796bfe264594e9860fa5b",
       "title": "Neural Drive - Le jeu de kart qui tourne sans moteur de jeu, dans votre navigateur",
@@ -273,36 +343,6 @@
       "image": ""
     },
     {
-      "id": "f5079dc061d035a0de717b13af309d7f",
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Eme...",
-      "published": "2026-07-19T13:30:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
-    },
-    {
-      "id": "af9b87ce7f63d607746af6ebe06057d9",
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since Jun...",
-      "published": "2026-07-19T13:18:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
-    },
-    {
-      "id": "bf9d21887a0203761cf7c7c024be7301",
-      "title": "La loi de l'attraction prouvée scientifiquement ?",
-      "link": "https://korben.info/champs-electromagnetiques-conscience.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous avez déjà accroché avec quelqu'un en trois secondes ? Détesté une tête au premier regard, sans savoir pourquoi ? Eh bien, d'après le site Popular Mechanics ce serait grâce aux champs électromagnétiques. Derrière ...",
-      "published": "2026-07-19T13:13:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/champs-electromagnetiques-conscience/champs-electromagnetiques-conscience-1.png"
-    },
-    {
       "id": "db7d61430a44b00e151845c8813d3b1f",
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
@@ -333,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "6bf75af1567be8563a3ade87bb1a2224",
-      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
-      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-      "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmi...",
-      "published": "2026-07-18T13:15:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "1c67c4ae74a3e7ce48fd4e06f3cfe6ec",
       "title": "wp2shell : une faille critique expose des millions de sites WordPress",
       "link": "https://www.it-connect.fr/wordpress-wp2shell-rce-critique-coeur-cms/",
@@ -350,16 +380,6 @@
       "published": "2026-07-18T05:58:58+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "189850f386a02db04d127fde7978c9f9",
-      "title": "Abbott probes two cyber incidents amid extortion claims",
-      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-      "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a s...",
-      "published": "2026-07-17T20:45:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/over-the-edge-2-microsoft-choix-navigateur-windows/",
       "summary": "Le rapport Over the Edge 2.0 publié par Mozilla révèle que Windows, Copilot et l'outil de sauvegarde continuent de chercher à imposer Microsoft Edge. Le post Microsoft saborde toujours le choix du navigateur sur Windo...",
       "published": "2026-07-17T06:53:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e958898b8af38e5ecf1e230e4afd0efc",
-      "title": "Aspirateurs robots Shark : un seul certificat suffit pour espionner ceux des voisins",
-      "link": "https://www.it-connect.fr/aspirateurs-shark-faille-aws-espionnage/",
-      "summary": "Un chercheur affirme pouvoir espionner à distance des aspirateurs Shark d'autres foyers à cause d'une politique AWS mal configurée. Toujours aucun correctif. Le post Aspirateurs robots Shark : un seul certificat suffi...",
-      "published": "2026-07-17T06:14:11+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7b5aa8a73869a95c70361726e9242adb",
-      "title": "Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à 16.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
-      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Soldes d’été 2026 GoDeal24 : Office 2024 Pro Plus à 16...",
-      "published": "2026-07-17T05:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
