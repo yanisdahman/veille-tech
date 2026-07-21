@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-21T02:23:57.563837+00:00",
+  "last_updated": "2026-07-21T08:22:31.427400+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f0bd7d214f1459975250da6d65ced298",
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "published": "2026-07-21T08:06:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "edc5066a82fe0285b14e94376da1c6c1",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFOR...",
+      "published": "2026-07-21T07:34:32+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg"
+    },
+    {
+      "id": "be2904b084e086ac56fb335fafdeb4f9",
+      "title": "Le Siri caché de votre Mac se réveille en une commande",
+      "link": "https://korben.info/macos-27-interface-siri-cachee-feature-flag.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous avez installé la beta de macOS 27 Golden Gate, apparemment, vous avez déjà sur votre Mac une interface Siri complète qu'Apple a pris soin de désactiver avant de vous la livrer. Un membre du subreddit r/MacOSBe...",
+      "published": "2026-07-21T07:08:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/macos-27-interface-siri-cachee-feature-flag/macos-27-interface-siri-cachee-feature-flag-1.jpg"
+    },
+    {
+      "id": "79db494c2e11879b42739b15f8cd122e",
+      "title": "HollowByte : une faille DoS dans OpenSSL corrigée en silence, sans CVE",
+      "link": "https://www.it-connect.fr/openssl-hollowbyte-faille-dos-11-octets/",
+      "summary": "La faille HollowByte sature la mémoire d'un serveur OpenSSL avec un paquet de 11 octets. Corrigée en silence depuis la version 4.0.1, et sans aucun CVE. Le post HollowByte : une faille DoS dans OpenSSL corrigée en sil...",
+      "published": "2026-07-21T07:01:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "393cd5dceb97bc3b37869248b2747cfd",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the...",
+      "published": "2026-07-21T06:29:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg"
+    },
+    {
+      "id": "ce4e0d3aa43412cc2b2b71eece152c9f",
+      "title": "Hugging Bay : le « Pirate Bay » des modèles IA ?",
+      "link": "https://www.it-connect.fr/hugging-bay-pirate-bay-modeles-ia/",
+      "summary": "Hugging Bay diffuse des modèles IA open source via torrents et miroirs, tout en reprenant le design du célèbre site The Pirate Bay. Qu'en est-il réellement ? Le post Hugging Bay : le « Pirate Bay » des modèles IA ? a ...",
+      "published": "2026-07-21T05:06:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "e32d093984e642fff12d395c5a84def7",
       "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
@@ -243,16 +303,6 @@
       "image": "https://korben.info/bmass-boot-usb-modele-ia-local/bmass-boot-usb-modele-ia-local-1.png"
     },
     {
-      "id": "71992f465399a15e6347508dc8b4de58",
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-      "published": "2026-07-20T10:06:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "7462cc7cfe2da1053c7dd1a2c73e54e8",
       "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
       "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
@@ -348,56 +398,6 @@
       "link": "https://www.it-connect.fr/windows-11-kb5121767-correctif-urgence-pc-dell-intel-ipf/",
       "summary": "Microsoft a publié les KB5121767 et KB5121768, deux correctifs pour les PC Dell dont un pilote Intel IPF bloquait la mise à jour Windows de juillet 2026. Le post Windows 11 – KB5121767 : Microsoft corrige en urgence l...",
       "published": "2026-07-20T05:45:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7587c446cd8ecaf56452ca3708cec3af",
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to ...",
-      "published": "2026-07-20T05:27:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
-    },
-    {
-      "id": "4188556e3e25347e4e0d4c05683523d1",
-      "title": "Compressez vos vidéos d'un clic droit sur Mac",
-      "link": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Pour une raison que je ne m'explique pas, parfois quand j'upload des vidéos sur mon WordPress, celles-ci ne fonctionnent pas correctement une fois l'article publié. Je pense que c'est parce qu'elles sont mal encodées ...",
-      "published": "2026-07-20T05:21:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit/ffmpeg-compresser-video-mac-clic-droit-1.png"
-    },
-    {
-      "id": "c1c9dbb4e1346bc58d5702de0b496e7f",
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional...",
-      "published": "2026-07-20T05:15:39+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
-    },
-    {
-      "id": "1c67c4ae74a3e7ce48fd4e06f3cfe6ec",
-      "title": "wp2shell : une faille critique expose des millions de sites WordPress",
-      "link": "https://www.it-connect.fr/wordpress-wp2shell-rce-critique-coeur-cms/",
-      "summary": "wp2shell, c'est le nom d'une faille critique (RCE pré-authentifiée) dans le cœur de WordPress. Face à l'urgence, les mises à jour sont forcées. Le post wp2shell : une faille critique expose des millions de sites WordP...",
-      "published": "2026-07-18T05:58:58+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d04598bc543339164b84ebc427b01a3e",
-      "title": "Forensic Windows – Partie 5 : analyser le BAM et le DAM",
-      "link": "https://www.it-connect.fr/forensic-windows-analyser-le-bam-et-dam/",
-      "summary": "Analyse forensic: exploiter Registry Explorer pour extraire BAM/DAM et exporter les données d’exécution des applications par utilisateur. Le post Forensic Windows – Partie 5 : analyser le BAM et le DAM a été publié su...",
-      "published": "2026-07-17T12:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
