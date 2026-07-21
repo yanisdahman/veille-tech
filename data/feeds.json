@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-07-21T13:41:27.437780+00:00",
+  "last_updated": "2026-07-21T19:16:03.181420+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9c64838fd2a847f3d7a9a5126b5aa41a",
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
+      "published": "2026-07-21T18:50:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "47bd529c8390c5b9e69270adf2202b36",
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+      "published": "2026-07-21T16:41:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "68ffda06798bd388ee37237fe457d8c6",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in r...",
+      "published": "2026-07-21T16:06:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg"
+    },
+    {
+      "id": "653bc06b488d247b45fb5bb8e0a2430f",
+      "title": "J'ai créé mon propre outil de stats sans tracking",
+      "link": "https://korben.info/analytics-maison-sans-tracking-cloudflare.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un site sans cookie de mesure d'audience et sans bandeau de consentement, c'est reposant je trouve... Sauf qu'à cause de ça, bah je ne savais plus trop combien de gens venaient me lire tous les jours. Relou hein ? C'é...",
+      "published": "2026-07-21T15:34:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/analytics-maison-sans-tracking-cloudflare/analytics-maison-sans-tracking-cloudflare-1.png"
+    },
+    {
+      "id": "f231f39215797223e1ca7de0b92d690a",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quic...",
+      "published": "2026-07-21T15:09:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg"
+    },
+    {
+      "id": "c115990e50713d2ac8ac93f5d1fce4c7",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8...",
+      "published": "2026-07-21T14:57:51+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiY-8bLYm125By8D7AuLG0iHjE5hB2_ysYdB1WkSc0wxB_virPrL19JZ0Ow8Nzsu0DkoTWboikIsKEyDs9393o1yaFJ0LZMFy64Hzk4XGzOqnpjJMgptlxVsHnmDm6twDSVhCkT1HFTFVmDW2zvlmz3qvQP9vftatDZFCw_GvauRT_2yEF-REvZlXyb_I/s1600/sharepoint.jpg"
+    },
+    {
+      "id": "50f1cfd32acc94845b99f20780d113d0",
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said i...",
+      "published": "2026-07-21T14:04:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1HNhUk3hMm0HOAQBAVExGT5-PQfrxeAtKrKRpG_eaXz5qEtVKiuH4-nOVMVdbtZ5XVzfk-hM-eFwpS0IAZNpGkp2DmE4wiNauEA3GT-t1UtLNGjtyVuDRPezJSyj4jEw8zeNgoPnyloZe_6K_vM1-nfYYoehFdoWRgVzVnmJUF3wwfamG0BgDdN1BvMJ/s1600/ransomware-attack.jpg"
+    },
+    {
+      "id": "f1ce5739e0574a3f5c13d13ebc13b4ac",
+      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+      "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granti...",
+      "published": "2026-07-21T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b142bee69511fe2d0af067e546cbea1a",
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilit...",
+      "published": "2026-07-21T13:18:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_Q67gFWBtG5q7zVuyna7iJj3lSm-UQRoMsami8jaf-WYMCXqQlVprQ_ifyXx-PqJg2chDHN3KrFppnZSvejTvSco4kN-P_S4U3vKQHNtvZ48g5wftlSILrMulX1WUMOeeybU4apJ5Iv8BM6ipceEVGSJucR7yRJZguIrfTUaCbbHqefGt6o2BkHrJqV0/s1600/zimbra.jpg"
+    },
     {
       "id": "a7e8c3cdf2451dc8f3868ca42a7c9184",
       "title": "Faux candidats, deepfakes et télétravail : faut-il repenser l’onboarding IT ?",
@@ -153,16 +243,6 @@
       "image": ""
     },
     {
-      "id": "393cd5dceb97bc3b37869248b2747cfd",
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the...",
-      "published": "2026-07-21T06:29:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg"
-    },
-    {
       "id": "ce4e0d3aa43412cc2b2b71eece152c9f",
       "title": "Hugging Bay : le « Pirate Bay » des modèles IA ?",
       "link": "https://www.it-connect.fr/hugging-bay-pirate-bay-modeles-ia/",
@@ -213,26 +293,6 @@
       "image": ""
     },
     {
-      "id": "4f54d10c08184ced4fb7299bc25c5804",
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findi...",
-      "published": "2026-07-20T21:14:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b523d87227050b78d7cecac2d95bf509",
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-      "published": "2026-07-20T21:08:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f9bfffbbbd350ccdc1c5b4a016189e77",
       "title": "Hugging Face piraté par une IA autonome et les IA américaines refusent de l’aider",
       "link": "https://www.it-connect.fr/hugging-face-cyberattaque-ia-autonome-modele-open-weight/",
@@ -241,36 +301,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "1695b0439d466f36f288c6bdb01ee6ad",
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware...",
-      "published": "2026-07-20T18:23:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg"
-    },
-    {
-      "id": "e2570f41020b000c88c516a85986515c",
-      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-      "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
-      "published": "2026-07-20T17:43:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "abfd4b1d2f4ebc8eb91d6e7b84b206d4",
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two ca...",
-      "published": "2026-07-20T17:29:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg"
     },
     {
       "id": "3cebe3005cb0f72ff0b8a3dd5a3b7084",
@@ -293,16 +323,6 @@
       "image": "https://korben.info/ue-usa-donnees-biometriques-visa-ebsp/ue-usa-donnees-biometriques-visa-ebsp-1.png"
     },
     {
-      "id": "1fa2abd6a9491253df64e21ba42105b7",
-      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to th...",
-      "published": "2026-07-20T14:33:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg"
-    },
-    {
       "id": "cafbf53d012796bfe264594e9860fa5b",
       "title": "Neural Drive - Le jeu de kart qui tourne sans moteur de jeu, dans votre navigateur",
       "link": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur/neural-drive-world-model-supertuxkart-navigateur-1.png"
-    },
-    {
-      "id": "2c3662414bac564609a9e5d2096ead01",
-      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks,...",
-      "published": "2026-07-20T13:32:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg"
     },
     {
       "id": "35b218600de9ced109e1c1f7b21916f3",
@@ -381,16 +391,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "1087f2927465646d7f3825fd32f004c6",
-      "title": "RetroMac - Le retour des Flying Toasters et du dock en verre",
-      "link": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Maik Klotz, un développeur allemand, a sorti une app menu bar qui repeint votre Mac aux couleurs de Snow Leopard, System 6, Windows 98 ou encore BeOS. Elle s'appelle RetroMac et elle ne touche pas une ligne de votre s...",
-      "published": "2026-07-20T07:16:13+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard/retromac-theme-retro-macos-crt-snow-leopard-1.png"
     },
     {
       "id": "75d11e0ba9914b256dc6f451aa75bfc8",
