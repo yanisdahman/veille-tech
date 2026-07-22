@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-22T13:44:07.052836+00:00",
+  "last_updated": "2026-07-22T19:11:05.067300+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "460acdeac82f40a49874c06b7b4b0fbe",
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a targe...",
+      "published": "2026-07-22T18:07:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg"
+    },
+    {
+      "id": "fd298fe7b34f4729df75e6d5cb563789",
+      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+      "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
+      "published": "2026-07-22T16:59:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7f44ea69164cb7877150543018f0fd2e",
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access hel...",
+      "published": "2026-07-22T15:30:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "de90897e87d34e6a847c7ff5f5c872ed",
+      "title": "Cette mini liseuse sous Android fait tout tourner",
+      "link": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "– Contient des liens affiliés Amazon – Vous le savez, j'adore les liseuses de la marque Boox, et ils m'ont proposé de tester ce nouveau modèle. La Boox Go 6 Gen II tient sans problème dans une seule main, même petite,...",
+      "published": "2026-07-22T15:22:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout-1.jpg"
+    },
+    {
+      "id": "2bd10ba579a37de66b7cc4d5a87dffc0",
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a u...",
+      "published": "2026-07-22T15:01:21+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg"
+    },
+    {
+      "id": "b9cb83b2ddce9f97c6f39619b7c7a41c",
+      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+      "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, ne...",
+      "published": "2026-07-22T14:15:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "e448cb9f24a7b02a4f86a03f2fbb536b",
       "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
@@ -23,6 +83,26 @@
       "image": ""
     },
     {
+      "id": "df3473e4697fe640ce75f0f12c20226e",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case ...",
+      "published": "2026-07-22T12:36:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg"
+    },
+    {
+      "id": "ddd965b9e45af008d6ab63169bb3db40",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools t...",
+      "published": "2026-07-22T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg"
+    },
+    {
       "id": "e82269f8512110174649c2ab6347f2ce",
       "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
@@ -31,6 +111,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "cd0a24dd0e6fbe8a1c51c0dddc64b3cd",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's produc...",
+      "published": "2026-07-22T11:30:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
     },
     {
       "id": "3f55d259d565e9abb5d42bc7111f1fd9",
@@ -213,16 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
     },
     {
-      "id": "cd0a24dd0e6fbe8a1c51c0dddc64b3cd",
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's produc...",
-      "published": "2026-07-22T04:18:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
-    },
-    {
       "id": "d116d25fa958d577463c135d89540882",
       "title": "Faites une bonne affaire en 2026, achetez un iPhone reconditionné",
       "link": "https://www.it-connect.fr/faites-une-bonne-affaire-en-2026-achetez-un-iphone-reconditionne/",
@@ -243,36 +323,6 @@
       "image": ""
     },
     {
-      "id": "f1f3cc5aca5d3e2b1df0ba4384d97fb1",
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
-      "published": "2026-07-21T22:34:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "eee3ef03f529bfe2aa227f89bedfc78c",
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
-      "published": "2026-07-21T20:06:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9c64838fd2a847f3d7a9a5126b5aa41a",
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
-      "published": "2026-07-21T18:50:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "e3c46c3e2bdc9f8c082b7fb39e2b9967",
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
@@ -283,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIg3Sasyz94bt9uOMqOnkEhZ4APzMbVwOObUmNzIGuYtxHO0wYNBu1LXTGi0Q5mTT6SI_CgqPwCWgejCc7BnclxwtLvDKiUlJR80nzE6dniSdomYMVcQU8Z1BQECtTvevKArxtEsJjB8Zeh2ouEgblz0vOiTDKcXUzpMzW70C56-Xbj-LT1gLp0Mbw99p/s1600/apple-email.jpg"
     },
     {
-      "id": "68ffda06798bd388ee37237fe457d8c6",
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in r...",
-      "published": "2026-07-21T16:06:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg"
-    },
-    {
       "id": "653bc06b488d247b45fb5bb8e0a2430f",
       "title": "J'ai créé mon propre outil de stats sans tracking",
       "link": "https://korben.info/analytics-maison-sans-tracking-cloudflare.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -301,36 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/analytics-maison-sans-tracking-cloudflare/analytics-maison-sans-tracking-cloudflare-1.png"
-    },
-    {
-      "id": "f231f39215797223e1ca7de0b92d690a",
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quic...",
-      "published": "2026-07-21T15:09:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg"
-    },
-    {
-      "id": "c115990e50713d2ac8ac93f5d1fce4c7",
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8...",
-      "published": "2026-07-21T14:57:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiY-8bLYm125By8D7AuLG0iHjE5hB2_ysYdB1WkSc0wxB_virPrL19JZ0Ow8Nzsu0DkoTWboikIsKEyDs9393o1yaFJ0LZMFy64Hzk4XGzOqnpjJMgptlxVsHnmDm6twDSVhCkT1HFTFVmDW2zvlmz3qvQP9vftatDZFCw_GvauRT_2yEF-REvZlXyb_I/s1600/sharepoint.jpg"
-    },
-    {
-      "id": "50f1cfd32acc94845b99f20780d113d0",
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said i...",
-      "published": "2026-07-21T14:04:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1HNhUk3hMm0HOAQBAVExGT5-PQfrxeAtKrKRpG_eaXz5qEtVKiuH4-nOVMVdbtZ5XVzfk-hM-eFwpS0IAZNpGkp2DmE4wiNauEA3GT-t1UtLNGjtyVuDRPezJSyj4jEw8zeNgoPnyloZe_6K_vM1-nfYYoehFdoWRgVzVnmJUF3wwfamG0BgDdN1BvMJ/s1600/ransomware-attack.jpg"
     },
     {
       "id": "a7e8c3cdf2451dc8f3868ca42a7c9184",
@@ -361,16 +371,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/ce-drone-tourne-si-vite-sur-lui-meme-quil-devient-presque-invisible/ce-drone-tourne-si-vite-sur-lui-meme-quil-devient-presque-invisible-1.jpg"
-    },
-    {
-      "id": "bdb0946fd9ca3a159497632d61542e4b",
-      "title": "Brancher un écran LG suffit à vous coller une pub McAfee",
-      "link": "https://korben.info/lg-moniteurs-adware-installation-silencieuse-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "32 redémarrages d'affilée, 31 pubs pour McAfee, c'est le résultat du test mené par la chaîne Youtube Gamers Nexus sur un écran LG UltraGear 34GX900A-B branché à un PC tournant sous Windows. Puis au 32e démarrage, l'éc...",
-      "published": "2026-07-21T09:17:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lg-moniteurs-adware-installation-silencieuse-windows/lg-moniteurs-adware-installation-silencieuse-windows-1.png"
     },
     {
       "id": "79db494c2e11879b42739b15f8cd122e",
@@ -413,16 +413,6 @@
       "image": ""
     },
     {
-      "id": "1d43365b18659fa187353046a0bb4ef6",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0872/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
-      "published": "2026-07-15T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c2e8b71239532340e3d8d04fa2d094dc",
       "title": "Vulnérabilité dans Schneider Electric EcoStruxure (15 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0881/",
@@ -443,40 +433,60 @@
       "image": ""
     },
     {
-      "id": "fc17ba1c93b63a765d20037c4edb520a",
-      "title": "Multiples vulnérabilités dans Microsoft Azure (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0871/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à dista...",
+      "id": "f8ef055864702b79b0328b732c023965",
+      "title": "Multiples vulnérabilités dans les produits Siemens (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0880/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un ...",
       "published": "2026-07-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "ed5a75f2812d6122e0e57beb78455b87",
-      "title": "Multiples vulnérabilités dans Google Chrome (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0874/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "id": "4a262d62bed1c542b70bc0bcf4269f64",
+      "title": "Multiples vulnérabilités dans les produits Citrix (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0885/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un...",
       "published": "2026-07-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "84493564fb1e683eb74bace5da36886a",
-      "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access 1000 (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0875/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Secure Mobile Access 1000. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une falsification de requêtes côté ...",
+      "id": "f6aff11b14710866d52ff22b150c15c1",
+      "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0884/",
+      "summary": "Une vulnérabilité a été découverte dans Xen XAPI. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "published": "2026-07-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "0e8a911566c42bab422a7569fb54f58e",
-      "title": "Multiples vulnérabilités dans Microsoft Azure Linux (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0873/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "id": "dcf998f6ead2a35447ddc6e66e689ffa",
+      "title": "Vulnérabilité dans Veeam Backup & Replication (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0878/",
+      "summary": "Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "57756268f662e3bac0f8337be7d2ff49",
+      "title": "Multiples vulnérabilités dans les produits SAP (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0877/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des ...",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cf8d0a3b37440482c89cb62bacae4d95",
+      "title": "Vulnérabilité dans Tenable Nessus Agent (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0886/",
+      "summary": "Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
       "published": "2026-07-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -488,16 +498,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0835/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une in...",
       "published": "2026-07-06T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c859f437789bc0e4cba5c9e1ac13384d",
-      "title": "Multiples vulnérabilités dans Mattermost Server (29 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0813/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
