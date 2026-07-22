@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-07-22T02:22:30.125979+00:00",
+  "last_updated": "2026-07-22T08:22:56.506338+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "63838854013e33f17aa400273987974e",
+      "title": "late.sh - Le BBS ressuscité en SSH, avec NetHack dedans",
+      "link": "https://korben.info/late-sh-bbs-terminal-ssh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vous tapez dans votre terminal ssh late.sh et c'est tout. Votre clé SSH fait alors office de carte de membre et vous voilà dans un salon peuplé de gens qui tapent sur leur clavier depuis un peu partout sur la planète....",
+      "published": "2026-07-22T07:21:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/late-sh-bbs-terminal-ssh/late-sh-bbs-terminal-ssh-1.png"
+    },
+    {
+      "id": "6befefea023c342e41a191884a60cf22",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "published": "2026-07-22T06:40:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3971bd64bad8c05ab19a4f372c6955be",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the...",
+      "published": "2026-07-22T06:38:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
+    },
+    {
+      "id": "b2a18f8330abd44e7ae45ffcf65681fb",
+      "title": "OneDrive et SharePoint : les captures d’écran des PDF sensibles bientôt bloquées",
+      "link": "https://www.it-connect.fr/onedrive-sharepoint-bloque-captures-ecran-pdf-sensibles-edge/",
+      "summary": "Microsoft va bloquer les captures d'écran des PDF étiquetés « Ne pas autoriser la capture d'écran » dans OneDrive et SharePoint, uniquement via Microsoft Edge. Le post OneDrive et SharePoint : les captures d’écran des...",
+      "published": "2026-07-22T06:33:47+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f3cc006421f64937b5ecd83f147c00bd",
+      "title": "Suno : un piratage révèle le pillage de YouTube et Deezer pour entraîner son IA",
+      "link": "https://www.it-connect.fr/suno-piratage-revele-scraping-massif-ia/",
+      "summary": "Un piratage de Suno a exposé le code de son scrapping massif : plus de deux millions d'extraits YouTube Music, des heures de Deezer, Genius, Pond5 et plus. Le post Suno : un piratage révèle le pillage de YouTube et De...",
+      "published": "2026-07-22T06:33:11+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "80b1efc0de1d715e403a20d93a035d98",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Dig...",
+      "published": "2026-07-22T06:00:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
+    },
+    {
+      "id": "c6a721c842ea251400c0035579cf4a30",
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "published": "2026-07-22T05:19:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b752634c7511168a95af41a4ac018b4a",
+      "title": "WSUS : Microsoft publie un correctif manuel contre les lenteurs et timeouts de synchronisation",
+      "link": "https://www.it-connect.fr/wsus-correctif-manuel-lenteurs-synchronisation/",
+      "summary": "Des détectoïdes de test publiés par erreur ralentissent la synchronisation WSUS. Microsoft déploie un correctif et détaille un nettoyage manuel des serveurs. Le post WSUS : Microsoft publie un correctif manuel contre ...",
+      "published": "2026-07-22T05:17:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "edf474513194c01603fccbbdaa89b79c",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The fl...",
+      "published": "2026-07-22T04:57:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
+    },
+    {
+      "id": "cd0a24dd0e6fbe8a1c51c0dddc64b3cd",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's produc...",
+      "published": "2026-07-22T04:18:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
+    },
+    {
+      "id": "d116d25fa958d577463c135d89540882",
+      "title": "Faites une bonne affaire en 2026, achetez un iPhone reconditionné",
+      "link": "https://www.it-connect.fr/faites-une-bonne-affaire-en-2026-achetez-un-iphone-reconditionne/",
+      "summary": "Face à Apple, le reconditionné s’impose en France: prix attractifs, 32 points de contrôle et politique garantie efficace. Voici pourquoi c'est un bon choix. Le post Faites une bonne affaire en 2026, achetez un iPhone ...",
+      "published": "2026-07-22T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "a78855c6cf75c63d2b48c9dc8bc536ec",
       "title": "Police dismantle Kratos phishing platform, arrest developer",
@@ -143,16 +253,6 @@
       "image": ""
     },
     {
-      "id": "6cc0521e57e78b27b320ebd61bf54c97",
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running com...",
-      "published": "2026-07-21T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg"
-    },
-    {
       "id": "d71f799ac660c35601ac7c25f682f765",
       "title": "Bornes de recharge - Un SSH root au bout du câble CCS2",
       "link": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -161,26 +261,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau/borne-recharge-ccs2-faille-prise-reseau-1.png"
-    },
-    {
-      "id": "f25618bbc912f3ff8f3b40c0cf98aadc",
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit...",
-      "published": "2026-07-21T11:42:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg"
-    },
-    {
-      "id": "14cec2a6ce984bdb5340aa6925487eb2",
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, des...",
-      "published": "2026-07-21T11:24:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg"
     },
     {
       "id": "1740622293d0e738b9160d079fb0d03a",
@@ -221,36 +301,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/lg-moniteurs-adware-installation-silencieuse-windows/lg-moniteurs-adware-installation-silencieuse-windows-1.png"
-    },
-    {
-      "id": "87eb2744529887e283008ba4b58d3e2f",
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
-      "published": "2026-07-21T09:05:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d2878ab1715c14135faaab7477a25539",
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two securi...",
-      "published": "2026-07-21T08:59:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg"
-    },
-    {
-      "id": "f0bd7d214f1459975250da6d65ced298",
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "published": "2026-07-21T08:06:26+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "be2904b084e086ac56fb335fafdeb4f9",
@@ -351,56 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/moonshine-serveur-streaming-jeux-rust/moonshine-serveur-streaming-jeux-rust-1.jpg"
-    },
-    {
-      "id": "1d72fb6f84492f848b5357c9ca5ed643",
-      "title": "NGINX – CVE-2026-42533 : cette faille peut faire planter votre serveur Web",
-      "link": "https://www.it-connect.fr/nginx-cve-2026-42533-faille-critique-map-regex/",
-      "summary": "F5 a corrigé la CVE-2026-42533, une faille critique de NGINX qui peut faire planter les workers et, parfois, permettre une exécution de code à distance. Le post NGINX – CVE-2026-42533 : cette faille peut faire planter...",
-      "published": "2026-07-20T11:36:14+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f01dfc2df79a38f5c799d80adf03ee83",
-      "title": "BMASS - Bootez direct votre PC sur une IA locale",
-      "link": "https://korben.info/bmass-boot-usb-modele-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil BMASS , qui s'installe sur une clé U...",
-      "published": "2026-07-20T10:20:42+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/bmass-boot-usb-modele-ia-local/bmass-boot-usb-modele-ia-local-1.png"
-    },
-    {
-      "id": "13debcf3aaaba623f3cdc831b8fe8599",
-      "title": "Faille dans 7-Zip : pourquoi vous devriez installer la version 26.02 sans attendre",
-      "link": "https://www.it-connect.fr/7-zip-26-02-faille-rce-cve-2026-14266/",
-      "summary": "La version 26.02 de 7-Zip corrige CVE-2026-14266, un débordement de tampon dans le décodage XZ. Faute de mise à jour automatique, l'installation reste manuelle. Le post Faille dans 7-Zip : pourquoi vous devriez instal...",
-      "published": "2026-07-20T07:46:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cbff47d2e5d9e1f5a981e37eb8d8ec6f",
-      "title": "X open source : Elon Musk promet d’ouvrir tout le code du réseau social",
-      "link": "https://www.it-connect.fr/x-open-source-code-musk/",
-      "summary": "Elon Musk annonce que le code de X va passer en open source, mais sans spécifier de calendrier, et juste après le scandale Grok Build, prudence ! Le post X open source : Elon Musk promet d’ouvrir tout le code du résea...",
-      "published": "2026-07-20T07:29:52+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "75d11e0ba9914b256dc6f451aa75bfc8",
-      "title": "Cette arnaque FaceTime vide les comptes bancaires en direct",
-      "link": "https://www.it-connect.fr/arnaque-facetime-appel-video-comptes-bancaires/",
-      "summary": "Des escrocs se font passer pour votre banque ou le support Apple lors d'un appel FaceTime, puis captent en direct vos identifiants et vos codes bancaires. Le post Cette arnaque FaceTime vide les comptes bancaires en d...",
-      "published": "2026-07-20T06:59:59+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "0bd9fee82bfa4041e744caad59ee9a30",
