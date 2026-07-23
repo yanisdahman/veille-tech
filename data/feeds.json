@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-07-23T08:24:21.328290+00:00",
+  "last_updated": "2026-07-23T13:49:19.425648+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9ab6f33445659683d26372a3f56eac38",
+      "title": "EU fines Google $1 billion for search, app store antitrust violations",
+      "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+      "summary": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
+      "published": "2026-07-23T12:33:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5fa8c7cad3ac348239af624735985694",
+      "title": "Pentest sauvage à base d'IA, que dit la loi ?",
+      "link": "https://korben.info/pentest-ia-non-autorise-loi-netiquette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Benjamin Code , le développeur préféré de votre développeur préféré, a reçu ce week-end un e-mail d'achat bidon avec le mot pentester dedans. En grattant un petit peu, il a découvert que quelqu'un s'amusait à trifouil...",
+      "published": "2026-07-23T12:25:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pentest-ia-non-autorise-loi-netiquette/pentest-ia-non-autorise-loi-netiquette-1.jpg"
+    },
+    {
+      "id": "669b8a920b05dca46144f2abaf7746f5",
+      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+      "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+      "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the at...",
+      "published": "2026-07-23T11:45:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3CPk7mPjct6TcYwb9c1LBGjEBTkHjIkX-_CqYIrmdg3nJu-Vyjmc2qCT_cZbFEoUNaiIEQafCVxDDD0RZfflUs8LqGu9Ecx0N7Tu3nEzHXUW2nKLefXYKsRHfVtv-TZXw_WDILy6sKkE5kk3ts5cBTaSfq1mReYwo6Fb1ghPkg4Z4bLiNuAP4ehxqFG0/s1600/keeper.jpg"
+    },
+    {
+      "id": "289294768c87af7791cf69de45cee338",
+      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
+      "published": "2026-07-23T11:40:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f1ce95bd532e6fd8532c7ba0290e77ff",
+      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+      "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances....",
+      "published": "2026-07-23T11:28:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnUDzSA-4xfOL6dsXt2pFY9jJro2vbjOgvkTbiFMhSXz9Z-0WdDTORe9IPFfMr0DVr0PapP8lFuq8R12ZXRyDdMO-2v9ot7c2oy2WobbNwqn3jbKQC5XmNdgKWZB8ENBVQSADLuujJMKvd3DtNcpAFhDa5zihJDtYrQYRLMSCftHHmNg2bUiRC_gCQkFK/s1600/github-action.jpg"
+    },
+    {
+      "id": "f442c7be1e9bbcbed2e7c9b6e0e04a28",
+      "title": "Test d’un câble USB-C magnétique moderne, tout simple et bien pratique",
+      "link": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "– Contient des liens affiliés Amazon – Les câbles magnétiques, ce n'est pas nouveau, ça fait bien une dizaine d'années qu'on en trouve. L'idée a toujours été la même, vous laissez un petit embout aimanté planté en per...",
+      "published": "2026-07-23T10:05:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique-1.jpg"
+    },
+    {
+      "id": "ed342c9acc796dc8d16dc2e07da14dd4",
+      "title": "Une salle de contrôle satellite maison, 100% européenne",
+      "link": "https://korben.info/salle-controle-satellite-open-data.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une salle de contrôle satellite, celle qu'on imagine avec des grands écrans et des ingénieurs en blouse, Clément Igonet en a monté une version perso qui tient sur un seul serveur. Son projet Overwatch affiche 23 satel...",
+      "published": "2026-07-23T10:02:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/salle-controle-satellite-open-data/salle-controle-satellite-open-data-1.png"
+    },
+    {
+      "id": "65f908018726dcd0f009d49764dcb9c5",
+      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+      "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
+      "summary": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video. The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to l...",
+      "published": "2026-07-23T10:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33P1I6A4GNsGTrz72n-ZgaqJE-ksI5ub_5wWCmRVQhG7fikbuDtdu7inYjTOFVi9v1SukZnH_fWo2LiI-v6zkm2WwWrbaKGsKBK4Z6yHJvXkBX-m5HxX0VzG9Tv_Nz-17rbcUoql67ciu4oMYS2pNs946kSd95SaWvSM096CEeMaBLbSpXpA2KnZprzb-/s1600/google-account-recovery.jpg"
+    },
+    {
+      "id": "b96a40c1e2ae950ce8da86d17aed84fb",
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
+      "published": "2026-07-23T10:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a2e89a5bd6acfc43d900112c8d2b040f",
+      "title": "Mage-Flow - Le modèle de diffusion de Microsoft qui tourne sur Mac",
+      "link": "https://korben.info/mage-flow-modele-image-local-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Microsoft vient de publier Mage-Flow, un modèle de génération d'images de 4 milliards de paramètres, et dont l'objectif est d'atteindre la qualité des gros modèles sans en avoir la taille. Là où FLUX.2 embarque 32 mil...",
+      "published": "2026-07-23T09:44:10+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mage-flow-modele-image-local-mac/mage-flow-modele-image-local-mac-1.png"
+    },
+    {
+      "id": "d5e48b41d7e5be6a62939926461d2102",
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
+      "published": "2026-07-23T09:20:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "58e97a378d4489894f93c3852bbb2d03",
+      "title": "Microsoft 365 : la fin de l’authentification MFA par SMS et appel au profit des passkeys",
+      "link": "https://www.it-connect.fr/entra-id-fin-authentification-sms-appel-passkeys/",
+      "summary": "Microsoft va faire des passkeys la méthode par défaut dans Entra ID et retire l'authentification par SMS et appel vocal. Calendrier, impact et alternatives. Le post Microsoft 365 : la fin de l’authentification MFA par...",
+      "published": "2026-07-23T09:05:22+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "802a5c13a07234df6cc67849fcec026d",
+      "title": "Coupe du monde 2026 : comment Cloudflare a vu le Mondial redessiner le trafic Internet",
+      "link": "https://www.it-connect.fr/cloudflare-coupe-du-monde-2026-trafic-internet/",
+      "summary": "Cloudflare a analysé le trafic HTTP mondial pendant la Coupe du monde 2026. Décalage horaire, streaming, paris en ligne : voici ce que révèlent ses données. Le post Coupe du monde 2026 : comment Cloudflare a vu le Mon...",
+      "published": "2026-07-23T08:50:14+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "22d3f40d5cbc9de400725b89f7fd5a5d",
+      "title": "Open Source – Jellyfin : trois départs majeurs, entre burn-out et tensions autour de l’IA",
+      "link": "https://www.it-connect.fr/jellyfin-departs-tete-projet-gouvernance/",
+      "summary": "En moins d'une semaine, Joshua Boniface, Anthony Lavado et Andrew Rabert ont quitté Jellyfin. Burn-out, code IA, gouvernance : ce que l'on sait. Le post Open Source – Jellyfin : trois départs majeurs, entre burn-out e...",
+      "published": "2026-07-23T08:48:51+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4a0be33145d3cf7cb85916bb62170416",
+      "title": "Accès root : une faille dans snap-confine expose les machines Ubuntu",
+      "link": "https://www.it-connect.fr/cve-2026-8933-ubuntu-snap-confine-acces-root/",
+      "summary": "La CVE-2026-8933 est une faille dans snap-confine qui donne à un utilisateur local un accès root sur Ubuntu. Voici comment se protéger. Le post Accès root : une faille dans snap-confine expose les machines Ubuntu a ét...",
+      "published": "2026-07-23T08:46:40+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "ac789352ae80c1681ff49ac62dd99045",
       "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
@@ -11,6 +161,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "8651e16bfc090e278ec3278169b13c8b",
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said defaul...",
+      "published": "2026-07-23T08:04:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg"
     },
     {
       "id": "e073a1cf4ea9c73df73f976c87cd258f",
@@ -93,24 +253,14 @@
       "image": ""
     },
     {
-      "id": "4a512eb110a4a469df9de4fb719f35da",
-      "title": "Unitree - Le firmware que personne ne signe",
-      "link": "https://korben.info/unitree-firmware-cle-chiffrement-casse.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le 26 février dernier, lors d'une réunion d'Austin Hackers Anonymous au Texas, le chercheur Andreas Makris a fait la démo d'un outil qui permet de générer de faux firmwares Unitree, que le robot avale sans broncher co...",
-      "published": "2026-07-23T05:10:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/unitree-firmware-cle-chiffrement-casse/unitree-firmware-cle-chiffrement-casse-1.png"
-    },
-    {
-      "id": "b37f937372f7b89023a1b79b8851c0ba",
-      "title": "Surfshark et son VPN furtif - Votre FAI ne doit même pas savoir que vous utilisez un VPN",
-      "link": "https://korben.info/surfshark-et-son-vpn-furtif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "-- Article en partenariat avec Surfshark -- Vous êtes au café, vous allumez votre VPN pour checker vos mails en toute tranquillité, et là, patatra : la connexion tombe. Votre FAI vient de détecter que vous utilisez un...",
-      "published": "2026-07-23T04:47:37+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/surfshark-et-son-vpn-furtif/surfshark-et-son-vpn-furtif-1.webp"
+      "id": "2f478632484b3728f5acf02403949b07",
+      "title": "Forfait mobile sans engagement : la liberté de changer quand vous voulez",
+      "link": "https://www.it-connect.fr/forfait-mobile-sans-engagement-la-liberte-de-changer-quand-vous-voulez/",
+      "summary": "Choisir un forfait mobile sans engagement, c'est refuser de se lier les mains pour des mois ou des années. Ce type d'abonnement vous offre une flexibilité réelle : vous restez libre de partir à tout moment, sans pénal...",
+      "published": "2026-07-23T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
     },
     {
       "id": "2e55b9346eb2ebc6934e749ffc611a8e",
@@ -173,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "de90897e87d34e6a847c7ff5f5c872ed",
-      "title": "Cette mini liseuse sous Android fait tout tourner",
-      "link": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "– Contient des liens affiliés Amazon – Vous le savez, j'adore les liseuses de la marque Boox, et ils m'ont proposé de tester ce nouveau modèle. La Boox Go 6 Gen II tient sans problème dans une seule main, même petite,...",
-      "published": "2026-07-22T15:22:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout-1.jpg"
-    },
-    {
       "id": "2bd10ba579a37de66b7cc4d5a87dffc0",
       "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
       "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
@@ -198,16 +338,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
       "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, ne...",
       "published": "2026-07-22T14:15:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e448cb9f24a7b02a4f86a03f2fbb536b",
-      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-      "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
-      "published": "2026-07-22T13:22:20+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -243,66 +373,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg"
     },
     {
-      "id": "e82269f8512110174649c2ab6347f2ce",
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agent...",
-      "published": "2026-07-22T11:43:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "cd0a24dd0e6fbe8a1c51c0dddc64b3cd",
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's produc...",
-      "published": "2026-07-22T11:30:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
-    },
-    {
-      "id": "3f55d259d565e9abb5d42bc7111f1fd9",
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusi...",
-      "published": "2026-07-22T11:25:35+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_BCT5VYzHAi2ZYmYF84NAe3JitSR-U0uk4JZeuJf-hgHgwMXRj1_44z0DfwmtHqFZMxeEYGHR4AlvuIe-_4oAGvQlVnCm9peV1-H0nZ__XbPIcKlz_7RxoPuR7C2IMBZ7B27ABzkk9Zv08DOaKAefwt72n8H0WBP8Z8TBajQwEzBt10hFwE3-70o0A5V/s1600/corelight.jpg"
-    },
-    {
-      "id": "4f1ffabeacf5e0d01af8ef24d72eb8ec",
-      "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
-      "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-      "summary": "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump's Lifetime Plan skips that model entirely, offering 2TB of cloud storage for a singl...",
-      "published": "2026-07-22T11:09:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "96d1c45cd626d1caac7f531e89b37a8e",
-      "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
-      "summary": "Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October. [...]",
-      "published": "2026-07-22T10:44:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "07c2e1bf64ccb8aae2f17f6de31688fa",
-      "title": "7-Zip : un simple fichier piégé peut faire tourner du code sur votre PC",
-      "link": "https://korben.info/7-zip-un-simple-fichier-piege-peut-faire-tourner-du-code-sur-votre-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "7-Zip, le logiciel de compression gratuit installé sur des centaines de millions de PC pour ouvrir un zip ou un 7z, traîne une faille par laquelle une archive piégée peut lancer du code sur votre machine à la seconde ...",
-      "published": "2026-07-22T10:40:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/7-zip-un-simple-fichier-piege-peut-faire-tourner-du-code-sur-votre-pc/7-zip-un-simple-fichier-piege-peut-faire-tourner-du-code-sur-votre-pc-1.jpg"
-    },
-    {
       "id": "593bae863670af6a3d7d934ef7e45d8c",
       "title": "Nextcloud : le site officiel piraté, la faille WordPress wp2shell dans le viseur",
       "link": "https://www.it-connect.fr/nextcloud-site-officiel-piratee-defacement-wp2shell/",
@@ -311,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "3971bd64bad8c05ab19a4f372c6955be",
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the...",
-      "published": "2026-07-22T06:38:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
     },
     {
       "id": "b2a18f8330abd44e7ae45ffcf65681fb",
@@ -343,141 +403,71 @@
       "image": ""
     },
     {
-      "id": "80b1efc0de1d715e403a20d93a035d98",
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Dig...",
-      "published": "2026-07-22T06:00:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
-    },
-    {
-      "id": "b752634c7511168a95af41a4ac018b4a",
-      "title": "WSUS : Microsoft publie un correctif manuel contre les lenteurs et timeouts de synchronisation",
-      "link": "https://www.it-connect.fr/wsus-correctif-manuel-lenteurs-synchronisation/",
-      "summary": "Des détectoïdes de test publiés par erreur ralentissent la synchronisation WSUS. Microsoft déploie un correctif et détaille un nettoyage manuel des serveurs. Le post WSUS : Microsoft publie un correctif manuel contre ...",
-      "published": "2026-07-22T05:17:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d116d25fa958d577463c135d89540882",
-      "title": "Faites une bonne affaire en 2026, achetez un iPhone reconditionné",
-      "link": "https://www.it-connect.fr/faites-une-bonne-affaire-en-2026-achetez-un-iphone-reconditionne/",
-      "summary": "Face à Apple, le reconditionné s’impose en France: prix attractifs, 32 points de contrôle et politique garantie efficace. Voici pourquoi c'est un bon choix. Le post Faites une bonne affaire en 2026, achetez un iPhone ...",
-      "published": "2026-07-22T04:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a7e8c3cdf2451dc8f3868ca42a7c9184",
-      "title": "Faux candidats, deepfakes et télétravail : faut-il repenser l’onboarding IT ?",
-      "link": "https://www.it-connect.fr/repenser-onboarding-it-specops-secure-onboarding/",
-      "summary": "Faux candidats, deepfakes, télétravail : pourquoi l'onboarding IT devient un point faible dans un SI, et comment Specops Secure Onboarding le sécurise vraiment. Le post Faux candidats, deepfakes et télétravail : faut-...",
-      "published": "2026-07-21T13:12:19+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "79db494c2e11879b42739b15f8cd122e",
-      "title": "HollowByte : une faille DoS dans OpenSSL corrigée en silence, sans CVE",
-      "link": "https://www.it-connect.fr/openssl-hollowbyte-faille-dos-11-octets/",
-      "summary": "La faille HollowByte sature la mémoire d'un serveur OpenSSL avec un paquet de 11 octets. Corrigée en silence depuis la version 4.0.1, et sans aucun CVE. Le post HollowByte : une faille DoS dans OpenSSL corrigée en sil...",
-      "published": "2026-07-21T07:01:02+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ce4e0d3aa43412cc2b2b71eece152c9f",
-      "title": "Hugging Bay : le « Pirate Bay » des modèles IA ?",
-      "link": "https://www.it-connect.fr/hugging-bay-pirate-bay-modeles-ia/",
-      "summary": "Hugging Bay diffuse des modèles IA open source via torrents et miroirs, tout en reprenant le design du célèbre site The Pirate Bay. Qu'en est-il réellement ? Le post Hugging Bay : le « Pirate Bay » des modèles IA ? a ...",
-      "published": "2026-07-21T05:06:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0bd9fee82bfa4041e744caad59ee9a30",
-      "title": "Multiples vulnérabilités dans Progress LoadMaster (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0883/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress LoadMaster. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "published": "2026-07-15T00:00:00+00:00",
+      "id": "0f1c14ce9bbf6368694453c73a3f0647",
+      "title": "Vulnérabilité dans Ruby on Rails (16 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0891/",
+      "summary": "Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "published": "2026-07-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "c2e8b71239532340e3d8d04fa2d094dc",
-      "title": "Vulnérabilité dans Schneider Electric EcoStruxure (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0881/",
-      "summary": "Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-07-15T00:00:00+00:00",
+      "id": "47e7e435cfe3212a3dd24fafa287f7b0",
+      "title": "Multiples vulnérabilités dans Cisco RoomOS (16 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0890/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Cisco RoomOS. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécu...",
+      "published": "2026-07-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "98b122e9ded989e32df1e1bf9cad3987",
-      "title": "Multiples vulnérabilités dans Apache Tomcat (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0876/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-07-15T00:00:00+00:00",
+      "id": "43ee71ef23107d53e50bf7022f6c0211",
+      "title": "Multiples vulnérabilités dans les produits F5 (16 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0894/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une at...",
+      "published": "2026-07-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "f8ef055864702b79b0328b732c023965",
-      "title": "Multiples vulnérabilités dans les produits Siemens (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0880/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un ...",
-      "published": "2026-07-15T00:00:00+00:00",
+      "id": "e4c04883b61708caa22e7bb1e7ba10f1",
+      "title": "Vulnérabilité dans Traefik (16 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0893/",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-07-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "4a262d62bed1c542b70bc0bcf4269f64",
-      "title": "Multiples vulnérabilités dans les produits Citrix (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0885/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un...",
-      "published": "2026-07-15T00:00:00+00:00",
+      "id": "1b3da34df2fc3c327a8c21d8ae279380",
+      "title": "Multiples vulnérabilités dans Drupal (16 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0889/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "published": "2026-07-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "f6aff11b14710866d52ff22b150c15c1",
-      "title": "Vulnérabilité dans Xen XAPI (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0884/",
-      "summary": "Une vulnérabilité a été découverte dans Xen XAPI. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-07-15T00:00:00+00:00",
+      "id": "12a81b1c4e8148a20a5a02bf074ebc45",
+      "title": "Vulnérabilité dans les produits ESET (16 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0892/",
+      "summary": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer un déni de service.",
+      "published": "2026-07-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "dcf998f6ead2a35447ddc6e66e689ffa",
-      "title": "Vulnérabilité dans Veeam Backup & Replication (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0878/",
-      "summary": "Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "published": "2026-07-15T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "57756268f662e3bac0f8337be7d2ff49",
-      "title": "Multiples vulnérabilités dans les produits SAP (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0877/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des ...",
-      "published": "2026-07-15T00:00:00+00:00",
+      "id": "4f2fdbd3ff19ebd8f052c03efd1e236e",
+      "title": "Multiples vulnérabilités dans les produits Splunk (16 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0888/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des do...",
+      "published": "2026-07-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -487,6 +477,16 @@
       "title": "Vulnérabilité dans Tenable Nessus Agent (15 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0886/",
       "summary": "Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "published": "2026-07-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fd95f0a223e63c05e21ebd44bc881f34",
+      "title": "Multiples vulnérabilités dans Mozilla Firefox (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0887/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-07-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
