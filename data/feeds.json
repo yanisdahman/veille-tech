@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-22T19:11:05.067300+00:00",
+  "last_updated": "2026-07-23T02:27:40.405444+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2e55b9346eb2ebc6934e749ffc611a8e",
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+      "published": "2026-07-22T21:43:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "03653875657037deea706a7c445b64a2",
+      "title": "South Korea discloses data breach impacting diplomats worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign ...",
+      "published": "2026-07-22T20:06:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6832f8fa2ac66b0025e0b422bbbe7b9d",
+      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP ti...",
+      "published": "2026-07-22T18:37:42+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg"
+    },
     {
       "id": "460acdeac82f40a49874c06b7b4b0fbe",
       "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
@@ -273,16 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
     },
     {
-      "id": "c6a721c842ea251400c0035579cf4a30",
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
-      "published": "2026-07-22T05:19:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "b752634c7511168a95af41a4ac018b4a",
       "title": "WSUS : Microsoft publie un correctif manuel contre les lenteurs et timeouts de synchronisation",
       "link": "https://www.it-connect.fr/wsus-correctif-manuel-lenteurs-synchronisation/",
@@ -311,26 +331,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "a78855c6cf75c63d2b48c9dc8bc536ec",
-      "title": "Police dismantle Kratos phishing platform, arrest developer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
-      "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
-      "published": "2026-07-21T23:07:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e3c46c3e2bdc9f8c082b7fb39e2b9967",
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday tha...",
-      "published": "2026-07-21T18:46:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIg3Sasyz94bt9uOMqOnkEhZ4APzMbVwOObUmNzIGuYtxHO0wYNBu1LXTGi0Q5mTT6SI_CgqPwCWgejCc7BnclxwtLvDKiUlJR80nzE6dniSdomYMVcQU8Z1BQECtTvevKArxtEsJjB8Zeh2ouEgblz0vOiTDKcXUzpMzW70C56-Xbj-LT1gLp0Mbw99p/s1600/apple-email.jpg"
     },
     {
       "id": "653bc06b488d247b45fb5bb8e0a2430f",
