@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-07-23T13:49:19.425648+00:00",
+  "last_updated": "2026-07-23T19:10:09.486317+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f7b510082714108e05398d8db1e37ffa",
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire emai...",
+      "published": "2026-07-23T18:36:08+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlA3Ln3fk8yzrfLwR9egB99u67BL7NlRui9XkKviyXhFmZ3sYVTF5laSjHTwyphN51YvL39R0irNNPn2hDpVcn6EFi_NmuuSH3XTS9I71aPdZvgZRTOxXczmyqbSkcpqSy2TgOzSSJ0RzAyeQA4YXED73kIChZFtiuZ1fIVzCFvDJK4bEJ5M6Sj-qPeI/s1600/zimbra-email.jpg"
+    },
+    {
+      "id": "4cd3a6e415fa38fa7e3634e89e9cbf55",
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the expl...",
+      "published": "2026-07-23T16:49:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "73bcad1ae29e91defaacd9d37e34e83b",
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+      "published": "2026-07-23T16:32:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5efff6a3508bbb9a8098a811f717cec8",
+      "title": "Windows 11 - La restauration qui embarque aussi vos fichiers",
+      "link": "https://korben.info/windows-11-point-in-time-restore.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Depuis le 23 juin, Microsoft déploie sur Windows 11 une nouvelle fonction de récupération baptisée point-in-time restore, et il y a de bonnes chances qu'elle tourne déjà sur votre PC sans que vous l'ayez demandé. En e...",
+      "published": "2026-07-23T15:46:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-11-point-in-time-restore/windows-11-point-in-time-restore-1.png"
+    },
+    {
+      "id": "ae2fed776629ab13ec4d8a1398c3c8da",
+      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
+      "published": "2026-07-23T15:34:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "daae2b1aba189163f7a5f9b171cb9850",
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in ...",
+      "published": "2026-07-23T15:02:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmJNuemIhGxFuSqY6pq1opCEJECkmIjXm5VnOqOAEjfpoLxQ89Q-qXBqKQmM8YnwyVP2_feUo4c-VLZ3cC6s_J0VCXdwhLKFezoK1-i4lWQs68yXaZS8XtHGAsDj5zsdOToB7yD1QHzuMYIVQFvb14U6Zhd1cqDOm78tRY1O3v_1LFr7CC-4ItBLpLgZ3/s1600/th.jpg"
+    },
+    {
+      "id": "b6caa8c3f228014726c78e0aa37bd79c",
+      "title": "Forensic Windows – Partie 6 : analyser les caches d’images",
+      "link": "https://www.it-connect.fr/forensic-windows-les-caches-images/",
+      "summary": "Apprenez à analyser les caches d'images Windows (IconCache et Thumbnail Cache) avec Thumbcache Viewer pour retrouver des traces d'activité en investigation. Le post Forensic Windows – Partie 6 : analyser les caches d’...",
+      "published": "2026-07-23T15:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d9bd9d072e1ce263a3227b8201725b2f",
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how ...",
+      "published": "2026-07-23T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "60c33d1401b0f7db565ea086a1f79520",
+      "title": "Quelle est mon ip ? Le retour !",
+      "link": "https://korben.info/mon-ip-korben-nouvelle-version.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Ma page « Quelle est mon adresse IP » traînait sur korben.info depuis presque 15 ans, à peu près dans son jus d'origine. Hé bien, bonne nouvelle, je viens de la refaire entièrement, et elle est là : korben.info/ip . V...",
+      "published": "2026-07-23T13:56:57+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mon-ip-korben-nouvelle-version/mon-ip-korben-nouvelle-version-1.png"
+    },
+    {
+      "id": "9645be94843afa67a898c49f623f23e4",
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to r...",
+      "published": "2026-07-23T13:27:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5Vr8pje9uM-Ce6rzE-_hhU3HvR2NkKtYfaSrIXz3m0BbrC1ZNC9p4GW4GRQaAvFKPjE5kopXmdmcKcMb7_1dbOWvMO6_oe87HCj4TUXV1dWK99cz_OBcNHd81Ziat93g4wJcBdc3K1vq0IkwFL9DO9GlSrf_KxGi2hpg7VVsU9iTt7B2XByXL7nil86i/s1600/claude.gif"
+    },
+    {
+      "id": "beface96714cd13826176f568364d49b",
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encrypt...",
+      "published": "2026-07-23T13:11:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpS2QJv9o35m4hpF1MjxwE07jbvy9d4kK2fiSsQKFYaYtlUFReQ0j1YQ7fdaOPUN9s3J5oBpHG9vPIbTu_HwdjSDoz8UdhlJOp6ys6uBJlQxTL5BQlxtcOU2aRS1aaPeVwqvfCqGFzXEmQm0is0azXtyPQ8cNN61LbHtCllseMZQoYlwyrL4FV6BrkgqE/s1600/chrome-headless.jpg"
+    },
     {
       "id": "9ab6f33445659683d26372a3f56eac38",
       "title": "EU fines Google $1 billion for search, app store antitrust violations",
@@ -21,6 +131,16 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/pentest-ia-non-autorise-loi-netiquette/pentest-ia-non-autorise-loi-netiquette-1.jpg"
+    },
+    {
+      "id": "d401bd69ff7591ba2756f65ad2276756",
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a ...",
+      "published": "2026-07-23T12:20:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-rvCSGHVd2nngnpcdcc8Eh-QFaxQrcyegoSIPhUeTpr5qrGHcHYIstDAj08yLDeYcNZkZ26Ta53fdYefY8NjW8MprrOL4lQ4VnDCMpBrsrSQccyUipoC3VvFtMNUxUpUzOYra58WqjRwn952-fvzZLpXtgeY8Ao660YY49FaqcTTjBrDN_DsFFnsftJ8/s1600/malware-attack.jpg"
     },
     {
       "id": "669b8a920b05dca46144f2abaf7746f5",
@@ -213,16 +333,6 @@
       "image": "https://korben.info/bhive-recherche-fichiers-questions-mac/bhive-recherche-fichiers-questions-mac-1.png"
     },
     {
-      "id": "687c9372ae19dd43e8c387bf73462e67",
-      "title": "Phantomdrive - La clé USB déverrouillée par un fichier texte",
-      "link": "https://korben.info/cle-usb-securisee-cachee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Ryan Walker, le gars derrière Rootkit Labs, vient de sortir un truc que je trouve super malin. C'est une clé USB, baptisée Phantomdrive, qui se déverrouille en écrivant dans un simple fichier texte stocké dessus. Vous...",
-      "published": "2026-07-23T07:06:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cle-usb-securisee-cachee/cle-usb-securisee-cachee-1.webp"
-    },
-    {
       "id": "0920d9b931755791235d49929081b79a",
       "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
       "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
@@ -231,16 +341,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
-    },
-    {
-      "id": "2bc633fbe83240859a77d5e19297f1fd",
-      "title": "Universe Atlas - L'univers à l'échelle réelle dans votre navigateur",
-      "link": "https://korben.info/universe-atlas-etoiles-reelles-webgpu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous prévoyez de vous rendre en Islande le 12 août prochain pour admirer l'éclipse totale, vous pouvez déjà vous projeter dans l'expérience grâce à Universe Atlas, un nouvel atlas mis en ligne par Chris Zaharia, qu...",
-      "published": "2026-07-23T06:11:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/universe-atlas-etoiles-reelles-webgpu/universe-atlas-etoiles-reelles-webgpu-1.jpg"
     },
     {
       "id": "767a64f2ba5aa9fc9ca26b3dcda54ca4",
@@ -273,76 +373,6 @@
       "image": ""
     },
     {
-      "id": "03653875657037deea706a7c445b64a2",
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign ...",
-      "published": "2026-07-22T20:06:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6832f8fa2ac66b0025e0b422bbbe7b9d",
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP ti...",
-      "published": "2026-07-22T18:37:42+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg"
-    },
-    {
-      "id": "460acdeac82f40a49874c06b7b4b0fbe",
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a targe...",
-      "published": "2026-07-22T18:07:16+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg"
-    },
-    {
-      "id": "fd298fe7b34f4729df75e6d5cb563789",
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
-      "published": "2026-07-22T16:59:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7f44ea69164cb7877150543018f0fd2e",
-      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
-      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
-      "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access hel...",
-      "published": "2026-07-22T15:30:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2bd10ba579a37de66b7cc4d5a87dffc0",
-      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a u...",
-      "published": "2026-07-22T15:01:21+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg"
-    },
-    {
-      "id": "b9cb83b2ddce9f97c6f39619b7c7a41c",
-      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-      "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, ne...",
-      "published": "2026-07-22T14:15:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "857d171daed2c78261e39cbaddf8b747",
       "title": "OpenAI l’admet : ses IA se sont évadées d’un test cyber pour pirater Hugging Face",
       "link": "https://www.it-connect.fr/openai-modeles-ia-piratage-hugging-face-exploitgym/",
@@ -351,26 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "df3473e4697fe640ce75f0f12c20226e",
-      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case ...",
-      "published": "2026-07-22T12:36:36+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg"
-    },
-    {
-      "id": "ddd965b9e45af008d6ab63169bb3db40",
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools t...",
-      "published": "2026-07-22T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg"
     },
     {
       "id": "593bae863670af6a3d7d934ef7e45d8c",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/onedrive-sharepoint-bloque-captures-ecran-pdf-sensibles-edge/",
       "summary": "Microsoft va bloquer les captures d'écran des PDF étiquetés « Ne pas autoriser la capture d'écran » dans OneDrive et SharePoint, uniquement via Microsoft Edge. Le post OneDrive et SharePoint : les captures d’écran des...",
       "published": "2026-07-22T06:33:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f3cc006421f64937b5ecd83f147c00bd",
-      "title": "Suno : un piratage révèle le pillage de YouTube et Deezer pour entraîner son IA",
-      "link": "https://www.it-connect.fr/suno-piratage-revele-scraping-massif-ia/",
-      "summary": "Un piratage de Suno a exposé le code de son scrapping massif : plus de deux millions d'extraits YouTube Music, des heures de Deezer, Genius, Pond5 et plus. Le post Suno : un piratage révèle le pillage de YouTube et De...",
-      "published": "2026-07-22T06:33:11+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
