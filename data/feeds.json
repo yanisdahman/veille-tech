@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-07-23T02:27:40.405444+00:00",
+  "last_updated": "2026-07-23T08:24:21.328290+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ac789352ae80c1681ff49ac62dd99045",
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "summary": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
+      "published": "2026-07-23T08:13:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e073a1cf4ea9c73df73f976c87cd258f",
+      "title": "La Xbox originale débarque sur PC, mais Xemu le fait déjà",
+      "link": "https://korben.info/xbox-original-retrocompatibilite-pc-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Microsoft vient de rendre officiel un truc que les émulateurs font gratuitement depuis des années à savoir vous permettre de jouer aux jeux de la Xbox originale, celle de 2001, directement sur votre PC. Le programme s...",
+      "published": "2026-07-23T07:56:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/xbox-original-retrocompatibilite-pc-windows/xbox-original-retrocompatibilite-pc-windows-1.png"
+    },
+    {
+      "id": "20a53a796c14ba5fbc8920c8f99749bc",
+      "title": "PyPI verrouille vos vieilles releases contre les tokens volés",
+      "link": "https://korben.info/pypi-bloque-fichiers-anciennes-releases.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Bonne nouvelle pour tous ceux qui balancent du code sur PyPI. L'index officiel des paquets Python refuse désormais tout nouveau fichier ajouté à une release qui a plus de 14 jours. Le correctif vient de Seth Larson, d...",
+      "published": "2026-07-23T07:28:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pypi-bloque-fichiers-anciennes-releases/pypi-bloque-fichiers-anciennes-releases-1.webp"
+    },
+    {
+      "id": "c40eaab3cc271e8a8271221490b3ce5c",
+      "title": "Ubuntu 26.04 planque ses mises à jour (et c'est fait exprès)",
+      "link": "https://korben.info/ubuntu-26-04-notifications-maj-desactivees.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Ubuntu 26.04 LTS est disponible depuis avril, et si vous l'avez installée, vous avez peut-être remarqué un truc : **Plus aucune notification de mise à jour !**L'icône qui vous prévenait dans la barre du haut a disparu...",
+      "published": "2026-07-23T07:23:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ubuntu-26-04-notifications-maj-desactivees/ubuntu-26-04-notifications-maj-desactivees-1.png"
+    },
+    {
+      "id": "e648d2236cbc66d1c15dfb8837cf7ec7",
+      "title": "Interroger ses fichiers Mac en local, sans cloud, avec bHive",
+      "link": "https://korben.info/bhive-recherche-fichiers-questions-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "bHive, c'est une app Mac qui lit l'intérieur de vos fichiers au lieu de se contenter de leur nom, et qui sait maintenant répondre à des questions dessus. Vous lui demandez « qu'est-ce que dit mon bail sur la résiliati...",
+      "published": "2026-07-23T07:15:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/bhive-recherche-fichiers-questions-mac/bhive-recherche-fichiers-questions-mac-1.png"
+    },
+    {
+      "id": "687c9372ae19dd43e8c387bf73462e67",
+      "title": "Phantomdrive - La clé USB déverrouillée par un fichier texte",
+      "link": "https://korben.info/cle-usb-securisee-cachee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Ryan Walker, le gars derrière Rootkit Labs, vient de sortir un truc que je trouve super malin. C'est une clé USB, baptisée Phantomdrive, qui se déverrouille en écrivant dans un simple fichier texte stocké dessus. Vous...",
+      "published": "2026-07-23T07:06:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cle-usb-securisee-cachee/cle-usb-securisee-cachee-1.webp"
+    },
+    {
+      "id": "0920d9b931755791235d49929081b79a",
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitatio...",
+      "published": "2026-07-23T06:34:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
+    },
+    {
+      "id": "2bc633fbe83240859a77d5e19297f1fd",
+      "title": "Universe Atlas - L'univers à l'échelle réelle dans votre navigateur",
+      "link": "https://korben.info/universe-atlas-etoiles-reelles-webgpu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous prévoyez de vous rendre en Islande le 12 août prochain pour admirer l'éclipse totale, vous pouvez déjà vous projeter dans l'expérience grâce à Universe Atlas, un nouvel atlas mis en ligne par Chris Zaharia, qu...",
+      "published": "2026-07-23T06:11:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/universe-atlas-etoiles-reelles-webgpu/universe-atlas-etoiles-reelles-webgpu-1.jpg"
+    },
+    {
+      "id": "767a64f2ba5aa9fc9ca26b3dcda54ca4",
+      "title": "Firefox 153 : les conteneurs deviennent une fonctionnalité native pour cloisonner votre navigation",
+      "link": "https://www.it-connect.fr/firefox-153-conteneurs-natifs/",
+      "summary": "Avec Firefox 153, Mozilla intègre nativement les conteneurs pour isoler cookies et pistage entre vos comptes (et vos onglets), sans installer d'extension. Le post Firefox 153 : les conteneurs deviennent une fonctionna...",
+      "published": "2026-07-23T05:31:52+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4a512eb110a4a469df9de4fb719f35da",
+      "title": "Unitree - Le firmware que personne ne signe",
+      "link": "https://korben.info/unitree-firmware-cle-chiffrement-casse.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le 26 février dernier, lors d'une réunion d'Austin Hackers Anonymous au Texas, le chercheur Andreas Makris a fait la démo d'un outil qui permet de générer de faux firmwares Unitree, que le robot avale sans broncher co...",
+      "published": "2026-07-23T05:10:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/unitree-firmware-cle-chiffrement-casse/unitree-firmware-cle-chiffrement-casse-1.png"
+    },
+    {
+      "id": "b37f937372f7b89023a1b79b8851c0ba",
+      "title": "Surfshark et son VPN furtif - Votre FAI ne doit même pas savoir que vous utilisez un VPN",
+      "link": "https://korben.info/surfshark-et-son-vpn-furtif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "-- Article en partenariat avec Surfshark -- Vous êtes au café, vous allumez votre VPN pour checker vos mails en toute tranquillité, et là, patatra : la connexion tombe. Votre FAI vient de détecter que vous utilisez un...",
+      "published": "2026-07-23T04:47:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/surfshark-et-son-vpn-furtif/surfshark-et-son-vpn-furtif-1.webp"
+    },
     {
       "id": "2e55b9346eb2ebc6934e749ffc611a8e",
       "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
@@ -203,66 +313,6 @@
       "image": ""
     },
     {
-      "id": "d438cd0dd466aaddf21e7723f15618ae",
-      "title": "Portable et cancer du cerveau - L'OMS a fini de chercher",
-      "link": "https://korben.info/telephone-portable-cancer-cerveau-revues-oms.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Depuis 30 ans, vous vous demandez peut-être si coller un téléphone contre votre oreille peut finir par vous refiler une tumeur au cerveau ? Hé bien l'OMS a voulu en avoir le cœur net et a commandé 13 grandes enquêtes ...",
-      "published": "2026-07-22T09:56:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/telephone-portable-cancer-cerveau-revues-oms/telephone-portable-cancer-cerveau-revues-oms-1.png"
-    },
-    {
-      "id": "ba5e8237e75fb08363dadd4ad411b740",
-      "title": "Une puce à quelques euros fait tourner la NES à 60 images par seconde",
-      "link": "https://korben.info/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Faire tourner une console Nintendo de 1983 sur une puce qui coûte moins cher qu'un sandwich, c'est le genre de défi qui plaît aux bricoleurs, et un développeur vient de le réussir plutôt bien. Le projet s'appelle Anem...",
-      "published": "2026-07-22T09:55:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde-1.jpg"
-    },
-    {
-      "id": "6f83b8fdb150f235bb6eddff9af7bff3",
-      "title": "Unitree - Le robot au modèle IA invisible",
-      "link": "https://korben.info/unitree-unifolm-ominia-robot-soins-domicile.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un coussin qui traîne par terre, des boîtes de médicaments à compter dans un tiroir, du linge à balancer dans le panier, des assiettes à caler dans le lave-vaisselle et un lit médicalisé à remonter de quelques crans. ...",
-      "published": "2026-07-22T08:18:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/unitree-unifolm-ominia-robot-soins-domicile/unitree-unifolm-ominia-robot-soins-domicile-1.jpg"
-    },
-    {
-      "id": "ee2f2e3d6dec0a8178691ae4d964fa1c",
-      "title": "Les IA d'OpenAI ont piraté Hugging Face pour tricher à un test",
-      "link": "https://korben.info/openai-modeles-piratent-hugging-face-triche-benchmark.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le pirate qui a mis à genoux la prod de Hugging Face voulait juste tricher à son examen, voilà ce qu'OpenAI a reconnu hier. Les agents qui se sont promenés durant tout un week-end dans les clusters de la plateforme, c...",
-      "published": "2026-07-22T07:55:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/openai-modeles-piratent-hugging-face-triche-benchmark/openai-modeles-piratent-hugging-face-triche-benchmark-1.png"
-    },
-    {
-      "id": "63838854013e33f17aa400273987974e",
-      "title": "late.sh - Le BBS ressuscité en SSH, avec NetHack dedans",
-      "link": "https://korben.info/late-sh-bbs-terminal-ssh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous tapez dans votre terminal ssh late.sh et c'est tout. Votre clé SSH fait alors office de carte de membre et vous voilà dans un salon peuplé de gens qui tapent sur leur clavier depuis un peu partout sur la planète....",
-      "published": "2026-07-22T07:21:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/late-sh-bbs-terminal-ssh/late-sh-bbs-terminal-ssh-1.png"
-    },
-    {
-      "id": "6befefea023c342e41a191884a60cf22",
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
-      "published": "2026-07-22T06:40:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "3971bd64bad8c05ab19a4f372c6955be",
       "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
       "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
@@ -313,16 +363,6 @@
       "image": ""
     },
     {
-      "id": "edf474513194c01603fccbbdaa89b79c",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The fl...",
-      "published": "2026-07-22T04:57:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
-    },
-    {
       "id": "d116d25fa958d577463c135d89540882",
       "title": "Faites une bonne affaire en 2026, achetez un iPhone reconditionné",
       "link": "https://www.it-connect.fr/faites-une-bonne-affaire-en-2026-achetez-un-iphone-reconditionne/",
@@ -333,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "653bc06b488d247b45fb5bb8e0a2430f",
-      "title": "J'ai créé mon propre outil de stats sans tracking",
-      "link": "https://korben.info/analytics-maison-sans-tracking-cloudflare.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un site sans cookie de mesure d'audience et sans bandeau de consentement, c'est reposant je trouve... Sauf qu'à cause de ça, bah je ne savais plus trop combien de gens venaient me lire tous les jours. Relou hein ? C'é...",
-      "published": "2026-07-21T15:34:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/analytics-maison-sans-tracking-cloudflare/analytics-maison-sans-tracking-cloudflare-1.png"
-    },
-    {
       "id": "a7e8c3cdf2451dc8f3868ca42a7c9184",
       "title": "Faux candidats, deepfakes et télétravail : faut-il repenser l’onboarding IT ?",
       "link": "https://www.it-connect.fr/repenser-onboarding-it-specops-secure-onboarding/",
@@ -351,26 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "d71f799ac660c35601ac7c25f682f765",
-      "title": "Bornes de recharge - Un SSH root au bout du câble CCS2",
-      "link": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le gros câble que vous branchez sur votre voiture électrique, celui qu'il faut soulever à deux mains et qui pèse le poids d'un âne mort, dispose de 2 choses : Du courant, et un réseau. Lionel Richard Saposnik, cherche...",
-      "published": "2026-07-21T11:47:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau/borne-recharge-ccs2-faille-prise-reseau-1.png"
-    },
-    {
-      "id": "1740622293d0e738b9160d079fb0d03a",
-      "title": "Ce drone tourne si vite sur lui-même qu'il devient presque invisible",
-      "link": "https://korben.info/ce-drone-tourne-si-vite-sur-lui-meme-quil-devient-presque-invisible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Des ingénieurs de l'université Northwestern, près de Chicago, ont construit un petit drone qui disparaît presque à l'œil nu. Pas grâce à un camouflage, mais parce qu'il tourne sur lui-même à toute vitesse. Le principe...",
-      "published": "2026-07-21T11:20:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ce-drone-tourne-si-vite-sur-lui-meme-quil-devient-presque-invisible/ce-drone-tourne-si-vite-sur-lui-meme-quil-devient-presque-invisible-1.jpg"
     },
     {
       "id": "79db494c2e11879b42739b15f8cd122e",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/hugging-bay-pirate-bay-modeles-ia/",
       "summary": "Hugging Bay diffuse des modèles IA open source via torrents et miroirs, tout en reprenant le design du célèbre site The Pirate Bay. Qu'en est-il réellement ? Le post Hugging Bay : le « Pirate Bay » des modèles IA ? a ...",
       "published": "2026-07-21T05:06:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fe9cfc0362e964e5102a3b6777144ab9",
-      "title": "1Password laisse Claude se connecter à vos comptes, sans jamais lui confier vos mots de passe",
-      "link": "https://www.it-connect.fr/1password-for-claude-connexion-sans-mot-de-passe/",
-      "summary": "Avec 1Password for Claude, l'IA se connecte à vos comptes dans le navigateur, sans jamais voir vos mots de passe ni vos codes (MFA). Le post 1Password laisse Claude se connecter à vos comptes, sans jamais lui confier ...",
-      "published": "2026-07-20T22:30:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
