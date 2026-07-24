@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-24T02:24:56.931019+00:00",
+  "last_updated": "2026-07-24T08:21:51.178750+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "292f92c1a8f156e1d60be39e221c2446",
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "published": "2026-07-24T07:36:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cbb0a902676baa8b6c570e8a177aaf96",
+      "title": "SharedRoot : l’agent IA de Claude Cowork peut s’évader de sa VM et lire vos fichiers",
+      "link": "https://www.it-connect.fr/sharedroot-claude-cowork-evasion-sandbox-mac/",
+      "summary": "Des chercheurs ont fait sortir l'agent IA de Claude Cowork de sa machine virtuelle pour lire et écrire sur le Mac hôte. Anthropic n'a pas publié de correctif. Le post SharedRoot : l’agent IA de Claude Cowork peut s’év...",
+      "published": "2026-07-24T07:28:07+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1b52b2e84349832d7bd589aa1a5c24b9",
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity h...",
+      "published": "2026-07-24T06:50:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg"
+    },
+    {
+      "id": "a99b90d48e45ef830d1cfc7798a45eae",
+      "title": "uhubctl - Couper le courant d'un port USB en une commande",
+      "link": "https://korben.info/uhubctl-couper-alimentation-ports-usb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Votre clé 4G ou Wifi que vous avez connectée en USB sur un vieux serveur situé au fond du garage, plante une fois ou deux fois par semaine et à chaque fois faut aller débrancher la clé et la rebrancher pour la réveill...",
+      "published": "2026-07-24T05:57:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/uhubctl-couper-alimentation-ports-usb/uhubctl-couper-alimentation-ports-usb-1.png"
+    },
+    {
+      "id": "3127d83892b1ff3bce4381c5f7fe3b3f",
+      "title": "Thunderbird 153 : nouvelle version ESR, support Exchange natif et 61 failles corrigées",
+      "link": "https://www.it-connect.fr/thunderbird-153-nouveautes/",
+      "summary": "Thunderbird 153 Meadow inaugure la nouvelle branche ESR : gestionnaire de comptes remanié, Exchange via EWS, DNS over HTTPS et 61 failles corrigées. Le post Thunderbird 153 : nouvelle version ESR, support Exchange nat...",
+      "published": "2026-07-24T05:49:01+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4a5cd3b7310f06bfeac02791a3e15b37",
+      "title": "Un écran LG branché, et Windows installe une pub McAfee : Microsoft a tranché",
+      "link": "https://www.it-connect.fr/lg-mcafee-windows-update-microsoft-popup/",
+      "summary": "Brancher un moniteur LG suffisait à installer une application qui affichait des pubs McAfee. Microsoft est intervenu, LG désactive le pop-up. Explications. Le post Un écran LG branché, et Windows installe une pub McAf...",
+      "published": "2026-07-24T05:17:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "6eae94182934d37d58142a20095efeec",
       "title": "New Dolphin X malware uses AI to rank high-value targets",
@@ -233,16 +293,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33P1I6A4GNsGTrz72n-ZgaqJE-ksI5ub_5wWCmRVQhG7fikbuDtdu7inYjTOFVi9v1SukZnH_fWo2LiI-v6zkm2WwWrbaKGsKBK4Z6yHJvXkBX-m5HxX0VzG9Tv_Nz-17rbcUoql67ciu4oMYS2pNs946kSd95SaWvSM096CEeMaBLbSpXpA2KnZprzb-/s1600/google-account-recovery.jpg"
     },
     {
-      "id": "b96a40c1e2ae950ce8da86d17aed84fb",
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
-      "published": "2026-07-23T10:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a2e89a5bd6acfc43d900112c8d2b040f",
       "title": "Mage-Flow - Le modèle de diffusion de Microsoft qui tourne sur Mac",
       "link": "https://korben.info/mage-flow-modele-image-local-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -296,7 +346,7 @@
       "id": "8651e16bfc090e278ec3278169b13c8b",
       "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
       "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said defaul...",
+      "summary": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default in...",
       "published": "2026-07-23T08:04:35+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -333,26 +383,6 @@
       "image": "https://korben.info/ubuntu-26-04-notifications-maj-desactivees/ubuntu-26-04-notifications-maj-desactivees-1.png"
     },
     {
-      "id": "e648d2236cbc66d1c15dfb8837cf7ec7",
-      "title": "Interroger ses fichiers Mac en local, sans cloud, avec bHive",
-      "link": "https://korben.info/bhive-recherche-fichiers-questions-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "bHive, c'est une app Mac qui lit l'intérieur de vos fichiers au lieu de se contenter de leur nom, et qui sait maintenant répondre à des questions dessus. Vous lui demandez « qu'est-ce que dit mon bail sur la résiliati...",
-      "published": "2026-07-23T07:15:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/bhive-recherche-fichiers-questions-mac/bhive-recherche-fichiers-questions-mac-1.png"
-    },
-    {
-      "id": "0920d9b931755791235d49929081b79a",
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitatio...",
-      "published": "2026-07-23T06:34:36+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
-    },
-    {
       "id": "767a64f2ba5aa9fc9ca26b3dcda54ca4",
       "title": "Firefox 153 : les conteneurs deviennent une fonctionnalité native pour cloisonner votre navigation",
       "link": "https://www.it-connect.fr/firefox-153-conteneurs-natifs/",
@@ -368,36 +398,6 @@
       "link": "https://www.it-connect.fr/forfait-mobile-sans-engagement-la-liberte-de-changer-quand-vous-voulez/",
       "summary": "Choisir un forfait mobile sans engagement, c'est refuser de se lier les mains pour des mois ou des années. Ce type d'abonnement vous offre une flexibilité réelle : vous restez libre de partir à tout moment, sans pénal...",
       "published": "2026-07-23T04:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "857d171daed2c78261e39cbaddf8b747",
-      "title": "OpenAI l’admet : ses IA se sont évadées d’un test cyber pour pirater Hugging Face",
-      "link": "https://www.it-connect.fr/openai-modeles-ia-piratage-hugging-face-exploitgym/",
-      "summary": "OpenAI avoue que GPT-5.6 Sol et un modèle prérelease se sont évadés d'un test cyber pour pirater Hugging Face et tenter de voler les solutions d'ExploitGym. Le post OpenAI l’admet : ses IA se sont évadées d’un test cy...",
-      "published": "2026-07-22T13:16:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "593bae863670af6a3d7d934ef7e45d8c",
-      "title": "Nextcloud : le site officiel piraté, la faille WordPress wp2shell dans le viseur",
-      "link": "https://www.it-connect.fr/nextcloud-site-officiel-piratee-defacement-wp2shell/",
-      "summary": "Le site nextcloud.com est resté hors ligne après une attaque, reconnue comme un défacement par l'éditeur. La piste de la faille WordPress wp2shell est étudiée. Le post Nextcloud : le site officiel piraté, la faille Wo...",
-      "published": "2026-07-22T10:13:41+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b2a18f8330abd44e7ae45ffcf65681fb",
-      "title": "OneDrive et SharePoint : les captures d’écran des PDF sensibles bientôt bloquées",
-      "link": "https://www.it-connect.fr/onedrive-sharepoint-bloque-captures-ecran-pdf-sensibles-edge/",
-      "summary": "Microsoft va bloquer les captures d'écran des PDF étiquetés « Ne pas autoriser la capture d'écran » dans OneDrive et SharePoint, uniquement via Microsoft Edge. Le post OneDrive et SharePoint : les captures d’écran des...",
-      "published": "2026-07-22T06:33:47+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
