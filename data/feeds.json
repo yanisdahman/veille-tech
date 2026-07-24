@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-07-24T13:36:48.000290+00:00",
+  "last_updated": "2026-07-24T19:19:57.571945+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "5cbc8c730184ad6a35cb9b71e10e01f7",
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+      "published": "2026-07-24T19:09:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3ae76ec9f4a8fd3fc70e28a323ebb577",
+      "title": "Piloter un fauteuil par la pensée, sans Musk ni chirurgie",
+      "link": "https://korben.info/implant-cerebral-fauteuil-roulant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Neuralink a mis en ligne cette semaine une vidéo où des participants paralysés font rouler un fauteuil électrique par la pensée. Vous allez voir, c'est assez bluffant. L'implant décode l'intention de bouger et déplace...",
+      "published": "2026-07-24T18:18:32+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/implant-cerebral-fauteuil-roulant/implant-cerebral-fauteuil-roulant-1.png"
+    },
+    {
+      "id": "31be0c581789e0dee4ff9838735d5431",
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+      "published": "2026-07-24T17:50:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "86ddc5b59f98589661bd188f1dec386b",
+      "title": "Zimbra pas à jour ? Un APT russe lit peut-être déjà vos mails",
+      "link": "https://korben.info/zimbra-laundry-bear-alerte-faille.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Hier, le 23 juillet 2026, la CISA, la NSA et le FBI ont sorti une alerte conjointe avec une douzaine d'agences alliées, et pour une fois leur message est assez court : Si vous auto-hébergez un serveur de messagerie Zi...",
+      "published": "2026-07-24T16:04:53+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/zimbra-laundry-bear-alerte-faille/zimbra-laundry-bear-alerte-faille-1.png"
+    },
+    {
+      "id": "920db35a3759db00ca72a468c88cfc3c",
+      "title": "Device Database - Savoir si un objet connecté a besoin du cloud",
+      "link": "https://korben.info/home-assistant-device-database.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Avant d'acheter une ampoule connectée ou une serrure intelligente, vous aimeriez sans doute bien savoir si le truc vous oblige à créer un compte cloud et à prier pour que le serveur du fabricant reste allumé dans cinq...",
+      "published": "2026-07-24T15:51:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/home-assistant-device-database/home-assistant-device-database-1.png"
+    },
+    {
+      "id": "87f4c196444d69cd85cc94f2b7158f7a",
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. ...",
+      "published": "2026-07-24T15:41:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1fe781dbd498a20800dc3e2647107d55",
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platf...",
+      "published": "2026-07-24T15:12:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg"
+    },
+    {
+      "id": "36945930feab205c20732a19e3f44a23",
+      "title": "Midscroll - Le clic-molette de Windows débarque sous Linux",
+      "link": "https://korben.info/midscroll-autoscroll-molette-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous ne connaissez pas Linux, il faut savoir que sur ce système d'exploitation, le clic milieu colle la sélection. Moi, c'est un truc que j'aime bien, mais c'est surtout un héritage de X11 qui se marche complètemen...",
+      "published": "2026-07-24T14:20:39+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/midscroll-autoscroll-molette-linux/midscroll-autoscroll-molette-linux-1.png"
+    },
+    {
+      "id": "a4ca864988d722c52b028086fcf8c808",
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed ...",
+      "published": "2026-07-24T14:15:21+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg"
+    },
+    {
+      "id": "8af3fe53f8e02de2787804885081fe19",
+      "title": "Chick-fil-A data breach affects more than 13,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
+      "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
+      "published": "2026-07-24T14:04:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f1a5ab1bb3d7542252a838438340c694",
+      "title": "Odysseus - L'IA auto-hébergée de PewDiePie enfin rapide sur Mac",
+      "link": "https://korben.info/odysseus-ia-locale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Odysseus, c'est le workspace IA que PewDiePie a balancé sur GitHub fin mai. Chat, agents, recherche web, email, calendrier, notes et documents, tout est réuni dans un superbe cockpit auto-hébergé dans lequel les modèl...",
+      "published": "2026-07-24T14:01:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/odysseus-ia-locale-mac/odysseus-ia-locale-mac-1.png"
+    },
+    {
+      "id": "d1ed794d7a1ee1c7859a74720fef2921",
+      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
+      "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verif...",
+      "published": "2026-07-24T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "9c2d9b1d126a7999e7b38a8ee6cf7d6d",
       "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
@@ -183,46 +303,6 @@
       "image": ""
     },
     {
-      "id": "c2f7f1bd4683cbbabb31f2ebd1ad2ea7",
-      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
-      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
-      "published": "2026-07-23T19:48:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f7b510082714108e05398d8db1e37ffa",
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire emai...",
-      "published": "2026-07-23T18:36:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkCZuPeRyg1ChSuRUngYAxHTfN5dCHgGrSaCg3hA40XvmX2vRmKxgGJ7Pzli72_i9XK9XgCQhhRNK5dE3XJ_EklUH_Nzoqx4YLy7NeKSHB4RCd4KkdhrCB1vdEEcGsgnzumTMwi3_J4BxsGc3t0pjb2mhjkHfBcF5PDUqTe9F0wZPaC94Y6AwMXICZ9E/s1600/zimbra-exploit.jpg"
-    },
-    {
-      "id": "4cd3a6e415fa38fa7e3634e89e9cbf55",
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the expl...",
-      "published": "2026-07-23T16:49:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "73bcad1ae29e91defaacd9d37e34e83b",
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "published": "2026-07-23T16:32:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5efff6a3508bbb9a8098a811f717cec8",
       "title": "Windows 11 - La restauration qui embarque aussi vos fichiers",
       "link": "https://korben.info/windows-11-point-in-time-restore.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -233,26 +313,6 @@
       "image": "https://korben.info/windows-11-point-in-time-restore/windows-11-point-in-time-restore-1.png"
     },
     {
-      "id": "ae2fed776629ab13ec4d8a1398c3c8da",
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
-      "published": "2026-07-23T15:34:43+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "daae2b1aba189163f7a5f9b171cb9850",
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in ...",
-      "published": "2026-07-23T15:02:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmJNuemIhGxFuSqY6pq1opCEJECkmIjXm5VnOqOAEjfpoLxQ89Q-qXBqKQmM8YnwyVP2_feUo4c-VLZ3cC6s_J0VCXdwhLKFezoK1-i4lWQs68yXaZS8XtHGAsDj5zsdOToB7yD1QHzuMYIVQFvb14U6Zhd1cqDOm78tRY1O3v_1LFr7CC-4ItBLpLgZ3/s1600/th.jpg"
-    },
-    {
       "id": "b6caa8c3f228014726c78e0aa37bd79c",
       "title": "Forensic Windows – Partie 6 : analyser les caches d’images",
       "link": "https://www.it-connect.fr/forensic-windows-les-caches-images/",
@@ -260,16 +320,6 @@
       "published": "2026-07-23T15:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d9bd9d072e1ce263a3227b8201725b2f",
-      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-      "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how ...",
-      "published": "2026-07-23T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -301,26 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique-1.jpg"
-    },
-    {
-      "id": "ed342c9acc796dc8d16dc2e07da14dd4",
-      "title": "Une salle de contrôle satellite maison, 100% européenne",
-      "link": "https://korben.info/salle-controle-satellite-open-data.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Une salle de contrôle satellite, celle qu'on imagine avec des grands écrans et des ingénieurs en blouse, Clément Igonet en a monté une version perso qui tient sur un seul serveur. Son projet Overwatch affiche 23 satel...",
-      "published": "2026-07-23T10:02:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/salle-controle-satellite-open-data/salle-controle-satellite-open-data-1.png"
-    },
-    {
-      "id": "a2e89a5bd6acfc43d900112c8d2b040f",
-      "title": "Mage-Flow - Le modèle de diffusion de Microsoft qui tourne sur Mac",
-      "link": "https://korben.info/mage-flow-modele-image-local-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Microsoft vient de publier Mage-Flow, un modèle de génération d'images de 4 milliards de paramètres, et dont l'objectif est d'atteindre la qualité des gros modèles sans en avoir la taille. Là où FLUX.2 embarque 32 mil...",
-      "published": "2026-07-23T09:44:10+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/mage-flow-modele-image-local-mac/mage-flow-modele-image-local-mac-1.png"
     },
     {
       "id": "58e97a378d4489894f93c3852bbb2d03",
@@ -361,36 +391,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "e073a1cf4ea9c73df73f976c87cd258f",
-      "title": "La Xbox originale débarque sur PC, mais Xemu le fait déjà",
-      "link": "https://korben.info/xbox-original-retrocompatibilite-pc-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Microsoft vient de rendre officiel un truc que les émulateurs font gratuitement depuis des années à savoir vous permettre de jouer aux jeux de la Xbox originale, celle de 2001, directement sur votre PC. Le programme s...",
-      "published": "2026-07-23T07:56:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/xbox-original-retrocompatibilite-pc-windows/xbox-original-retrocompatibilite-pc-windows-1.png"
-    },
-    {
-      "id": "20a53a796c14ba5fbc8920c8f99749bc",
-      "title": "PyPI verrouille vos vieilles releases contre les tokens volés",
-      "link": "https://korben.info/pypi-bloque-fichiers-anciennes-releases.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Bonne nouvelle pour tous ceux qui balancent du code sur PyPI. L'index officiel des paquets Python refuse désormais tout nouveau fichier ajouté à une release qui a plus de 14 jours. Le correctif vient de Seth Larson, d...",
-      "published": "2026-07-23T07:28:49+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pypi-bloque-fichiers-anciennes-releases/pypi-bloque-fichiers-anciennes-releases-1.webp"
-    },
-    {
-      "id": "c40eaab3cc271e8a8271221490b3ce5c",
-      "title": "Ubuntu 26.04 planque ses mises à jour (et c'est fait exprès)",
-      "link": "https://korben.info/ubuntu-26-04-notifications-maj-desactivees.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Ubuntu 26.04 LTS est disponible depuis avril, et si vous l'avez installée, vous avez peut-être remarqué un truc : **Plus aucune notification de mise à jour !**L'icône qui vous prévenait dans la barre du haut a disparu...",
-      "published": "2026-07-23T07:23:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ubuntu-26-04-notifications-maj-desactivees/ubuntu-26-04-notifications-maj-desactivees-1.png"
     },
     {
       "id": "767a64f2ba5aa9fc9ca26b3dcda54ca4",
