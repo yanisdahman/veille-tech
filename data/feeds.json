@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-25T02:23:21.094917+00:00",
+  "last_updated": "2026-07-25T08:01:34.644060+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "023259901d257fb7b0a64a7a6d64c5dc",
+      "title": "DockPanel - Le panel web qui gère tout votre serveur",
+      "link": "https://korben.info/dockpanel-panel-serveur-docker-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Gérer un serveur à la main, c'est nginx à configurer, les certificats à renouveler, les sauvegardes à planifier et les conteneurs à surveiller... C'est beaucoup de travail. Mais vous allez avoir de l'aide grâce à Dock...",
+      "published": "2026-07-25T06:26:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dockpanel-panel-serveur-docker-rust/dockpanel-panel-serveur-docker-rust-1.jpg"
+    },
+    {
+      "id": "47dd2789bafb16fa6147391613460309",
+      "title": "Une Radeon de 2007 fait tourner la PS3 (mal, mais elle tourne)",
+      "link": "https://korben.info/rpcs3-emulateur-ps3-radeon-2007.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La carte graphique minimum dont on a besoin pour émuler une PS3 est sortie... après la PS3. C'est AniLeo et kd-11, de l'équipe RPCS3 , qui viennent de descendre le minimum officiel de l'émulateur à la Radeon HD 2900 X...",
+      "published": "2026-07-25T05:57:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rpcs3-emulateur-ps3-radeon-2007/rpcs3-emulateur-ps3-radeon-2007-1.png"
+    },
+    {
+      "id": "9c48a4fbc2c57f0bf8b0a7f41b2fb7d6",
+      "title": "Test Thermal Master P3 : une caméra thermique de poche pour smartphone",
+      "link": "https://www.it-connect.fr/test-thermal-master-p3/",
+      "summary": "Le Thermal Master P3 est-il la meilleure caméra thermique pour smartphone ? Notre test : capteur, mise au point manuelle, cas d'usage et avis. Le post Test Thermal Master P3 : une caméra thermique de poche pour smartp...",
+      "published": "2026-07-25T05:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "739fb5b26ba1daf54daad1ed15c54476",
+      "title": "L'Inde coupe internet, puis exige le retrait du code de bitchat",
+      "link": "https://korben.info/inde-ordonne-github-supprimer-bitchat.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le 23 juillet à 23h16 précisément, GitHub reçoit une notice du ministère de l'Intérieur indien avec un compte à rebours de seulement 3 heures. Ce qu'exige cette notice c'est de faire disparaître 3 dépôts de code, et p...",
+      "published": "2026-07-25T04:11:13+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/inde-ordonne-github-supprimer-bitchat/inde-ordonne-github-supprimer-bitchat-1.png"
+    },
     {
       "id": "f13db101812a011de767ad5aed0df241",
       "title": "OnTrac notifies customers of data breach after network hack",
@@ -333,36 +373,6 @@
       "image": ""
     },
     {
-      "id": "60c33d1401b0f7db565ea086a1f79520",
-      "title": "Quelle est mon ip ? Le retour !",
-      "link": "https://korben.info/mon-ip-korben-nouvelle-version.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Ma page « Quelle est mon adresse IP » traînait sur korben.info depuis presque 15 ans, à peu près dans son jus d'origine. Hé bien, bonne nouvelle, je viens de la refaire entièrement, et elle est là : korben.info/ip . V...",
-      "published": "2026-07-23T13:56:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/mon-ip-korben-nouvelle-version/mon-ip-korben-nouvelle-version-1.png"
-    },
-    {
-      "id": "5fa8c7cad3ac348239af624735985694",
-      "title": "Pentest sauvage à base d'IA, que dit la loi ?",
-      "link": "https://korben.info/pentest-ia-non-autorise-loi-netiquette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Benjamin Code , le développeur préféré de votre développeur préféré, a reçu ce week-end un e-mail d'achat bidon avec le mot pentester dedans. En grattant un petit peu, il a découvert que quelqu'un s'amusait à trifouil...",
-      "published": "2026-07-23T12:25:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pentest-ia-non-autorise-loi-netiquette/pentest-ia-non-autorise-loi-netiquette-1.jpg"
-    },
-    {
-      "id": "f442c7be1e9bbcbed2e7c9b6e0e04a28",
-      "title": "Test d’un câble USB-C magnétique moderne, tout simple et bien pratique",
-      "link": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "– Contient des liens affiliés Amazon – Les câbles magnétiques, ce n'est pas nouveau, ça fait bien une dizaine d'années qu'on en trouve. L'idée a toujours été la même, vous laissez un petit embout aimanté planté en per...",
-      "published": "2026-07-23T10:05:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique-1.jpg"
-    },
-    {
       "id": "58e97a378d4489894f93c3852bbb2d03",
       "title": "Microsoft 365 : la fin de l’authentification MFA par SMS et appel au profit des passkeys",
       "link": "https://www.it-connect.fr/entra-id-fin-authentification-sms-appel-passkeys/",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/jellyfin-departs-tete-projet-gouvernance/",
       "summary": "En moins d'une semaine, Joshua Boniface, Anthony Lavado et Andrew Rabert ont quitté Jellyfin. Burn-out, code IA, gouvernance : ce que l'on sait. Le post Open Source – Jellyfin : trois départs majeurs, entre burn-out e...",
       "published": "2026-07-23T08:48:51+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "4a0be33145d3cf7cb85916bb62170416",
-      "title": "Accès root : une faille dans snap-confine expose les machines Ubuntu",
-      "link": "https://www.it-connect.fr/cve-2026-8933-ubuntu-snap-confine-acces-root/",
-      "summary": "La CVE-2026-8933 est une faille dans snap-confine qui donne à un utilisateur local un accès root sur Ubuntu. Voici comment se protéger. Le post Accès root : une faille dans snap-confine expose les machines Ubuntu a ét...",
-      "published": "2026-07-23T08:46:40+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
