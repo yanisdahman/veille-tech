@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-25T13:17:33.098569+00:00",
+  "last_updated": "2026-07-25T19:02:05.835354+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "dd5867bc820c397311e01df625c0bcdd",
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+      "published": "2026-07-25T15:21:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e144863424fd96b1362ec96841d6881a",
+      "title": "Claude Opus 5 : Anthropic vous refile du Fable 5 pour moins cher",
+      "link": "https://korben.info/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Anthropic, la société qui édite l'assistant Claude et qui reste l'un des principaux rivaux d'OpenAI et de Google, a annoncé hier Claude Opus 5, un nouveau modèle qui vient se caler juste sous son vaisseau-amiral Fable...",
+      "published": "2026-07-25T14:33:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher-1.jpg"
+    },
+    {
+      "id": "92ff7404d9b186e77b2313a6045cb03d",
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "published": "2026-07-25T14:16:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b483a44b49aa03f2bf082677bf9d5c81",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without a...",
+      "published": "2026-07-25T12:52:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif"
+    },
     {
       "id": "a69f20c06bba13e8bdda53076bf2dcd5",
       "title": "ConfigoMatic : le configurateur de PC sur mesure 100% compatible",
@@ -293,26 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
     },
     {
-      "id": "a8f6194405298799edf519dcd111455a",
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
-      "published": "2026-07-24T11:17:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "618674235f57abddd0c552723adad53f",
-      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-      "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-      "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the countr...",
-      "published": "2026-07-24T10:15:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg"
-    },
-    {
       "id": "24801ab15f7cf6d9d393e7e4a8c20b89",
       "title": "Bento : une alternative open source à PowerPoint qui tient dans un seul fichier HTML",
       "link": "https://www.it-connect.fr/bento-alternative-powerpoint-fichier-html-unique/",
@@ -320,16 +340,6 @@
       "published": "2026-07-24T08:35:45+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "292f92c1a8f156e1d60be39e221c2446",
-      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
-      "published": "2026-07-24T07:36:39+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -341,16 +351,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "a99b90d48e45ef830d1cfc7798a45eae",
-      "title": "uhubctl - Couper le courant d'un port USB en une commande",
-      "link": "https://korben.info/uhubctl-couper-alimentation-ports-usb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Votre clé 4G ou Wifi que vous avez connectée en USB sur un vieux serveur situé au fond du garage, plante une fois ou deux fois par semaine et à chaque fois faut aller débrancher la clé et la rebrancher pour la réveill...",
-      "published": "2026-07-24T05:57:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/uhubctl-couper-alimentation-ports-usb/uhubctl-couper-alimentation-ports-usb-1.png"
     },
     {
       "id": "3127d83892b1ff3bce4381c5f7fe3b3f",
