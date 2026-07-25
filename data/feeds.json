@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-24T19:19:57.571945+00:00",
+  "last_updated": "2026-07-25T02:23:21.094917+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f13db101812a011de767ad5aed0df241",
+      "title": "OnTrac notifies customers of data breach after network hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+      "published": "2026-07-24T19:55:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b140bc488ea56aaeb7ce10c7c15f700e",
+      "title": "Certighost (CVE-2026-54121) : un compte AD standard suffit pour usurper un contrôleur de domaine",
+      "link": "https://www.it-connect.fr/certighost-cve-2026-54121-ad-cs-controleur-de-domaine/",
+      "summary": "Certighost (CVE-2026-54121) : cette faille dans AD CS permet à un utilisateur standard de compromettre un domaine Active Directory. Protégez-vous. Le post Certighost (CVE-2026-54121) : un compte AD standard suffit pou...",
+      "published": "2026-07-24T19:30:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "5cbc8c730184ad6a35cb9b71e10e01f7",
       "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
@@ -293,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "c2d795916de9a627fddfc41b17e96404",
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-      "published": "2026-07-23T20:14:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5efff6a3508bbb9a8098a811f717cec8",
       "title": "Windows 11 - La restauration qui embarque aussi vos fichiers",
       "link": "https://korben.info/windows-11-point-in-time-restore.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/cve-2026-8933-ubuntu-snap-confine-acces-root/",
       "summary": "La CVE-2026-8933 est une faille dans snap-confine qui donne à un utilisateur local un accès root sur Ubuntu. Voici comment se protéger. Le post Accès root : une faille dans snap-confine expose les machines Ubuntu a ét...",
       "published": "2026-07-23T08:46:40+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "767a64f2ba5aa9fc9ca26b3dcda54ca4",
-      "title": "Firefox 153 : les conteneurs deviennent une fonctionnalité native pour cloisonner votre navigation",
-      "link": "https://www.it-connect.fr/firefox-153-conteneurs-natifs/",
-      "summary": "Avec Firefox 153, Mozilla intègre nativement les conteneurs pour isoler cookies et pistage entre vos comptes (et vos onglets), sans installer d'extension. Le post Firefox 153 : les conteneurs deviennent une fonctionna...",
-      "published": "2026-07-23T05:31:52+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
