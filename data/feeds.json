@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-25T19:02:05.835354+00:00",
+  "last_updated": "2026-07-26T02:29:30.509039+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "097012add23256db40687aac339e549c",
+      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
+      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
+      "published": "2026-07-25T22:37:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "39ebb60b2b8f5ec0bd5c1c7c89961339",
+      "title": "Click to Pray - Le Vatican a mis 6 mois à lire ses mails",
+      "link": "https://korben.info/faille-securite-app-click-to-pray-vatican.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Dans la série « la religion c'est que des problèmes », voici un épisode que je n'avais pas vu venir. Click to Pray, l'application de prière officielle du Pape, a servi gratos les noms, les adresses mail et les dates d...",
+      "published": "2026-07-25T19:57:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/faille-securite-app-click-to-pray-vatican/faille-securite-app-click-to-pray-vatican-1.png"
+    },
+    {
+      "id": "fbb6b814511680020ec3c74dd9d2b659",
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fix...",
+      "published": "2026-07-25T18:48:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
+    },
     {
       "id": "dd5867bc820c397311e01df625c0bcdd",
       "title": "Malicious sites use JavaScript to build malware in browser memory",
@@ -273,31 +303,11 @@
       "image": ""
     },
     {
-      "id": "f1a5ab1bb3d7542252a838438340c694",
-      "title": "Odysseus - L'IA auto-hébergée de PewDiePie enfin rapide sur Mac",
-      "link": "https://korben.info/odysseus-ia-locale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Odysseus, c'est le workspace IA que PewDiePie a balancé sur GitHub fin mai. Chat, agents, recherche web, email, calendrier, notes et documents, tout est réuni dans un superbe cockpit auto-hébergé dans lequel les modèl...",
-      "published": "2026-07-24T14:01:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/odysseus-ia-locale-mac/odysseus-ia-locale-mac-1.png"
-    },
-    {
       "id": "d1ed794d7a1ee1c7859a74720fef2921",
       "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
       "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
       "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verif...",
       "published": "2026-07-24T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9c2d9b1d126a7999e7b38a8ee6cf7d6d",
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-      "published": "2026-07-24T12:56:53+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -321,16 +331,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg"
-    },
-    {
-      "id": "c7233bbae8afb1ce167a57dd94934744",
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ...",
-      "published": "2026-07-24T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
     },
     {
       "id": "24801ab15f7cf6d9d393e7e4a8c20b89",
