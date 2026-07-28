@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-07-28T08:28:03.311354+00:00",
+  "last_updated": "2026-07-28T13:58:06.156768+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "46ddeb587467047d40e0003c75a5a52e",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. ...",
+      "published": "2026-07-28T13:33:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg"
+    },
+    {
+      "id": "93554a76515dda2410ca1b3dc360cf40",
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rat...",
+      "published": "2026-07-28T12:56:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmz4Rv-IWcHYP4Y_-WINLECGsPviBOTJXEPhvz2mO671_s8c1Rao7iErkNghWYtomczRf82scnXyzrBTAIc4urvwSlv3j4AK1XaEw75WVsIfXLfNDQd1JGUoVRWW50H48KA3VxzAbL1KTuf3sKCgzmSE3toXbqcIA-N5vwN4A_wcmRdwDLBSJbBpmmME/s1600/OpenWrt.jpg"
+    },
+    {
+      "id": "635a67540386fd9fa593108b3fd5e71b",
+      "title": "Microsoft Tier Model : le retour en grâce du on-premises ?",
+      "link": "https://www.it-connect.fr/microsoft-tier-model-le-retour-en-grace-du-on-premises/",
+      "summary": "Microsoft Active Directory Tier Model vs HardenAD : aperçu, points forts, pièges de déploiement et faiblesses. Ce qu'il faut savoir avant de l'utiliser. Le post Microsoft Tier Model : le retour en grâce du on-premises...",
+      "published": "2026-07-28T12:33:05+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "244a01946037a914dc9bb0a9b6ee82a8",
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "published": "2026-07-28T12:10:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1d6e5f60c824af1d4b58f5c6cfb7bbbb",
+      "title": "Moonshot met en ligne Kimi K3, le plus gros modèle d'IA jamais proposé en téléchargement libre",
+      "link": "https://korben.info/moonshot-met-en-ligne-kimi-k3-le-plus-gros-modele-dia-jamais-propose-en-telechargement-libre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La startup chinoise Moonshot AI, que vous connaissez peut-être pour son assistant Kimi et qui compte Alibaba parmi ses soutiens, a publié hier sur Hugging Face les poids complets de Kimi K3, un modèle de 2 800 milliar...",
+      "published": "2026-07-28T11:55:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/moonshot-met-en-ligne-kimi-k3-le-plus-gros-modele-dia-jamais-propose-en-telechargement-libre/moonshot-met-en-ligne-kimi-k3-le-plus-gros-modele-dia-jamais-propose-en-telechargement-libre-1.jpg"
+    },
+    {
+      "id": "69380807427ed9f94a9f0a7eff6a5228",
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across th...",
+      "published": "2026-07-28T11:55:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Whbx97t7xBrrpM26fYSbwg29hdKR8zskNLIwlrWC0Jd3Rrf4INhiCTI3WMw8NzmJ1iETQlt-CKdUxBzL2hef4pgQBOoI1rrrtRbU96hJRUXtTGy5dT40mP2B1AshyphenhyphenM4mc1K1-IISWwY6PSPyGXNBHplHM8kuxX9e5Di6RmMybyO2Q7Guu__CK8jOOkja/s1600/proxy.jpg"
+    },
+    {
+      "id": "0ceeb678f095981989765685578bb081",
+      "title": "Crashphalt - Le jeu Steam qu'on installe pour jouer à Undertale",
+      "link": "https://korben.info/crashphalt-undertale-together-remote-play-steam.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Crashphalt cumule 555 avis Steam qui parlent tous d'Undertale. Ce jeu gratuit de 2018 sert de coquille pour jouer au mod deux joueurs en ligne.",
+      "published": "2026-07-28T09:25:59+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/crashphalt-undertale-together-remote-play-steam/crashphalt-undertale-together-remote-play-steam-1.jpg"
+    },
+    {
+      "id": "013eca2840bc315ffc66bf9ec2d098f6",
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "published": "2026-07-28T09:10:03+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "fed1f8364f761a5a74cddef60f41658d",
       "title": "Ils piratent le Wi-Fi des hôtels pour siphonner les comptes Microsoft 365",
@@ -13,20 +93,40 @@
       "image": ""
     },
     {
+      "id": "d47e0088c7dec3787a50552ef7734a13",
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, a...",
+      "published": "2026-07-28T08:11:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX3xcF2Bm9BY5obe-T5JItuKynq8bPijOxp14p5damNEjPGtAbYyuLSqp6vKN_KkhPx1qYeTXHxpgnZllCrtLvDaDuJNyHpY1qV0i8KWCe79_bnFtBtTRPCTU28LcN7OFM26h_WZdxeM3KPWBK4dlp0jY8JKrs1UILNR0qRgtxhKJqCcrht69sc3gcwsU/s1600/tc.jpg"
+    },
+    {
       "id": "022e384b116cdb7931522ee0f7a2b419",
       "title": "Votre vieux Morrowind se relance dans le navigateur",
       "link": "https://korben.info/morrowind-navigateur-webassembly-openmw.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous êtes fan de The Elder Scrolls III: Morrowind, j'ai une bonne nouvelle pour vous : vous allez pouvoir y jouer directement dans un onglet de navigateur ! En effet, c'est ce que nous propose openmw-web , signé Vi...",
+      "summary": "Le moteur libre OpenMW recompilé en WebAssembly fait tourner Morrowind dans un onglet Chrome. Pointez votre dossier Data Files, rien n'est uploadé.",
       "published": "2026-07-28T08:11:19+00:00",
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/morrowind-navigateur-webassembly-openmw/morrowind-navigateur-webassembly-openmw-1.jpg"
     },
     {
+      "id": "22d4699b70ca93b9968c6f0380dd1920",
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in t...",
+      "published": "2026-07-28T08:04:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg"
+    },
+    {
       "id": "17872deee3ce701ef9f72a73481e7757",
       "title": "GLM 5.2 censure moins s'il se croit américain",
       "link": "https://korben.info/glm-kimi-modeles-chinois-identite-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Saviez-vous que ce bon vieux GLM 5.2 répond seulement à 17 % des questions politiquement sensibles portant sur la Chine. Eh bien maintenant, dites-lui qu'il est Claude, et il montera à 85 % !! C'est le résultat que vi...",
+      "summary": "Dire à GLM 5.2 qu'il est Claude fait passer ses réponses non censurées de 17 % à 85 %. Une étude MATS montre que la vraie variable, c'est la juridiction.",
       "published": "2026-07-28T07:29:55+00:00",
       "source": "Korben",
       "category": "outils",
@@ -54,7 +154,7 @@
     },
     {
       "id": "9872c65afaee9abb6db09edb44eced9a",
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95....",
       "published": "2026-07-28T06:07:22+00:00",
@@ -66,7 +166,7 @@
       "id": "56f0ddd50ee989a3fd9651f0c6364a7d",
       "title": "Sa boîte à goûter fait tourner un LLM en local",
       "link": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous avez eu une boîte à goûter M.A.S.K. dans les années 80 pour transporter vos BN, alors celle de RadioactiveArtist va vous plaire. Dans sa boite à goûter, pas de Princes ni de Balisto... lui, il embarque un Rasp...",
+      "summary": "RadioactiveArtist a planqué un Raspberry Pi 5, un écran tactile et un LLM local dans une boîte à goûter M.A.S.K. des années 80, sans y faire un seul trou.",
       "published": "2026-07-28T05:56:36+00:00",
       "source": "Korben",
       "category": "outils",
@@ -146,7 +246,7 @@
       "id": "ade6b5874d08610d334265ea78c0bf58",
       "title": "Sa famille vidait la batterie, alors il a électrifié sa Steam Deck",
       "link": "https://korben.info/steam-deck-taser-pics-anti-famille.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Alors celle-là, c'est la meilleure ! Conroyy Jenkinss en avait tellement marre que sa famille lui vide la batterie de sa Steam Deck sans jamais la recharger qu'il a fini par coller des pics et un taser dessus. Oui, un...",
+      "summary": "Un Redditor a imprimé une coque à pics et monté un taser sur sa Steam Deck pour que sa famille arrête de lui vider la batterie.",
       "published": "2026-07-27T17:20:02+00:00",
       "source": "Korben",
       "category": "outils",
@@ -166,7 +266,7 @@
       "id": "877fe91a7954795654d90687d261af5e",
       "title": "Firefox ressort le mode compact du placard, 5 ans après",
       "link": "https://korben.info/firefox-nouveau-design-nightly.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "En 2021, Mozilla a estimé que le mode compact de Firefox intéressait trop peu de monde pour mériter sa place dans l'interface. Le bug qui actait sa suppression a énervé pas mal de monde, mais la justification à l'époq...",
+      "summary": "Mozilla remet le mode compact de Firefox dans les réglages officiels, 5 ans après l'avoir étiqueté non supporté. Il sait même s'activer tout seul.",
       "published": "2026-07-27T17:00:32+00:00",
       "source": "Korben",
       "category": "outils",
@@ -176,7 +276,7 @@
       "id": "4c0d20860d6b9f7c0316424275cbe0fd",
       "title": "Pascal Editor - Le plan 3D se dessine pendant que Claude bosse",
       "link": "https://korben.info/pascal-editor-3d-architecture-web-2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "J'ai jamais fait construire de maison mais je crois savoir que dessiner le plan de sa maison en 3D, ça passe encore par un logiciel assez lourd à installer + une licence, sans oublier l'interface façon Micro Applicati...",
+      "summary": "Pascal Editor est un editeur 3D de batiments open source qui tourne dans le navigateur, gratuit et sans inscription. Son serveur MCP laisse Claude ou Cursor dessiner le plan pendant que vous regardez.",
       "published": "2026-07-27T16:58:32+00:00",
       "source": "Korben",
       "category": "outils",
@@ -186,7 +286,7 @@
       "id": "6328427dbf7394ba65732ebaf6cee90e",
       "title": "GitWand - Il trie vos conflits Git et vous montre pourquoi",
       "link": "https://korben.info/gitwand-client-git-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "perso, je n'ai jamais été très à l'aise avec Git. Je l'utilise tous les jours, mais c'est vraiment pas ma came. Dès que ça devient trop compliqué, genre conflit de merge qui repeint des dizaines de fichiers en rouge, ...",
+      "summary": "GitWand classe chaque conflit de merge selon des règles fixes, tranche les cas sans ambiguïté et vous montre le motif retenu. Open source, licence MIT.",
       "published": "2026-07-27T16:52:02+00:00",
       "source": "Korben",
       "category": "outils",
@@ -196,7 +296,7 @@
       "id": "8fa8d7fb0c5df7d2fa1bc3834e7f6c00",
       "title": "Open Archiver - L'archiveur qui perdait des emails (mais c'est corrigé, ouf !)",
       "link": "https://korben.info/open-archiver-archivage-emails-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un import qui affiche « terminé » et qui a mangé une partie de vos mails au passage, c'est le genre de bug qu'on ne voit jamais venir... Hé bien Open Archiver vient d'en corriger quatre d'un coup. Open Archiver c'est ...",
+      "summary": "Open Archiver v0.5.2 sort une vraie recherche avancée, et corrige des imports qui perdaient des mails en annonçant un succès.",
       "published": "2026-07-27T16:24:57+00:00",
       "source": "Korben",
       "category": "outils",
@@ -243,16 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg"
     },
     {
-      "id": "da61fed6d4d56eda2a9133010a339f28",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding...",
-      "published": "2026-07-27T14:10:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZShQJv7u2hWKu_7xOJWw1-8rjxg7jwXoaFDJqqKPTzPa2-u608uDu_uxZ4fn2DmullQ7Kkx6YUIbjK0cKuZNxaQuirr5icArrmvx70FFuvnWkrxulAHi-_chuqNvTCWtBGyS7qkCnGh28qubTDmQC_YCmj8Q77Y_bp7McFTJlAv9oT5KqPRUGxlVoXli8/s1600/recap-thn.jpg"
-    },
-    {
       "id": "180b0339dfa841d1c16d1ce662ffd18b",
       "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
       "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
@@ -261,66 +351,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "b09b1ba4302f439a06875976969a6d13",
-      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-      "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw w...",
-      "published": "2026-07-27T13:05:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg"
-    },
-    {
-      "id": "af2e4dcc4ad928422dacf8954a8c0eed",
-      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-      "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed throu...",
-      "published": "2026-07-27T12:37:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg"
-    },
-    {
-      "id": "3ca70190b1d0a39e806aa87417d494dc",
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service ...",
-      "published": "2026-07-27T10:51:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg"
-    },
-    {
-      "id": "aaef88a716ceeca4c94f2bddf4bb15bb",
-      "title": "Rapid-MLX - Installer un serveur IA local sur votre Mac",
-      "link": "https://korben.info/rapid-mlx-installation-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous avez un Mac Apple Silicon et que vous en avez assez de payer des tokens à chaque requête, Rapid-MLX vaut le détour. C'est un moteur d'inférence local maintenu par Raullen Chai, qui tape directement dans les ke...",
-      "published": "2026-07-27T09:33:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rapid-mlx-installation-macos/rapid-mlx-installation-macos-1.jpg"
-    },
-    {
-      "id": "be647ac04fa50a42defd8d9cb37f70af",
-      "title": "Subwave - La radio maison qui réveille vos MP3 oubliés",
-      "link": "https://korben.info/subwave-dj-ia-local-ollama-navidrome.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous avez un Navidrome qui tourne dans un coin et un serveur Ollama qui passe ses journées à ne rien faire, vous ne vous êtes jamais dit que les deux pourraient bosser ensemble ? C'est en tout cas ce qu'a flairé Pa...",
-      "published": "2026-07-27T08:54:11+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/subwave-dj-ia-local-ollama-navidrome/subwave-dj-ia-local-ollama-navidrome-1.jpg"
-    },
-    {
-      "id": "32e39fd240d42c723db788350f28be68",
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previo...",
-      "published": "2026-07-27T08:48:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg"
     },
     {
       "id": "2aeb2ab97f2522c390c5728f17fb1a2b",
@@ -353,26 +383,6 @@
       "image": ""
     },
     {
-      "id": "c8d5104cc7f3adcb581ed85b2758fda5",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "published": "2026-07-26T14:13:39+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "097012add23256db40687aac339e549c",
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "published": "2026-07-25T22:37:47+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a69f20c06bba13e8bdda53076bf2dcd5",
       "title": "ConfigoMatic : le configurateur de PC sur mesure 100% compatible",
       "link": "https://www.it-connect.fr/configomatic-configurateur-pc-sur-mesure/",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/test-thermal-master-p3/",
       "summary": "Le Thermal Master P3 est-il la meilleure caméra thermique pour smartphone ? Notre test : capteur, mise au point manuelle, cas d'usage et avis. Le post Test Thermal Master P3 : une caméra thermique de poche pour smartp...",
       "published": "2026-07-25T05:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b140bc488ea56aaeb7ce10c7c15f700e",
-      "title": "Certighost (CVE-2026-54121) : un compte AD standard suffit pour usurper un contrôleur de domaine",
-      "link": "https://www.it-connect.fr/certighost-cve-2026-54121-ad-cs-controleur-de-domaine/",
-      "summary": "Certighost (CVE-2026-54121) : cette faille dans AD CS permet à un utilisateur standard de compromettre un domaine Active Directory. Protégez-vous. Le post Certighost (CVE-2026-54121) : un compte AD standard suffit pou...",
-      "published": "2026-07-24T19:30:30+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
