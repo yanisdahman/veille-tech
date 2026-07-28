@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-07-28T02:11:29.235205+00:00",
+  "last_updated": "2026-07-28T08:28:03.311354+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "fed1f8364f761a5a74cddef60f41658d",
+      "title": "Ils piratent le Wi-Fi des hôtels pour siphonner les comptes Microsoft 365",
+      "link": "https://www.it-connect.fr/wifi-hotel-dns-poisoning-microsoft-365/",
+      "summary": "Des passerelles Wi-Fi d'hôtels sont détournées pour empoisonner le DNS et rediriger les voyageurs vers de faux portails Microsoft 365. Attention à ces attaques. Le post Ils piratent le Wi-Fi des hôtels pour siphonner ...",
+      "published": "2026-07-28T08:17:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "022e384b116cdb7931522ee0f7a2b419",
+      "title": "Votre vieux Morrowind se relance dans le navigateur",
+      "link": "https://korben.info/morrowind-navigateur-webassembly-openmw.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous êtes fan de The Elder Scrolls III: Morrowind, j'ai une bonne nouvelle pour vous : vous allez pouvoir y jouer directement dans un onglet de navigateur ! En effet, c'est ce que nous propose openmw-web , signé Vi...",
+      "published": "2026-07-28T08:11:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/morrowind-navigateur-webassembly-openmw/morrowind-navigateur-webassembly-openmw-1.jpg"
+    },
+    {
+      "id": "17872deee3ce701ef9f72a73481e7757",
+      "title": "GLM 5.2 censure moins s'il se croit américain",
+      "link": "https://korben.info/glm-kimi-modeles-chinois-identite-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Saviez-vous que ce bon vieux GLM 5.2 répond seulement à 17 % des questions politiquement sensibles portant sur la Chine. Eh bien maintenant, dites-lui qu'il est Claude, et il montera à 85 % !! C'est le résultat que vi...",
+      "published": "2026-07-28T07:29:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/glm-kimi-modeles-chinois-identite-claude/glm-kimi-modeles-chinois-identite-claude-1.png"
+    },
+    {
+      "id": "653e9bf538274423faaa882d420060a2",
+      "title": "Click to Pray : l’appli de prière du Pape a exposé les données de plus de 700 000 personnes",
+      "link": "https://www.it-connect.fr/click-to-pray-vatican-faille-idor-donnees-exposees/",
+      "summary": "Une faille IDOR dans l'API de Click to Pray exposait les e-mails et dates de naissance de 719 517 comptes. Signalée en janvier, corrigée seulement en juillet. Le post Click to Pray : l’appli de prière du Pape a exposé...",
+      "published": "2026-07-28T07:21:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8277a909aa979bbef819d79de4450cea",
+      "title": "IA – Codeberg veut bannir les projets vibe codés : 358 voix contre 144",
+      "link": "https://www.it-connect.fr/codeberg-interdit-projets-vibe-coding-ia/",
+      "summary": "La forge Git Codeberg a voté l'interdiction des projets majoritairement générés par IA. Crawlers, SSD à 3 700 euros, confiance : les raisons du basculement. Le post IA – Codeberg veut bannir les projets vibe codés : 3...",
+      "published": "2026-07-28T06:53:23+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9872c65afaee9abb6db09edb44eced9a",
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95....",
+      "published": "2026-07-28T06:07:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg"
+    },
+    {
+      "id": "56f0ddd50ee989a3fd9651f0c6364a7d",
+      "title": "Sa boîte à goûter fait tourner un LLM en local",
+      "link": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Si vous avez eu une boîte à goûter M.A.S.K. dans les années 80 pour transporter vos BN, alors celle de RadioactiveArtist va vous plaire. Dans sa boite à goûter, pas de Princes ni de Balisto... lui, il embarque un Rasp...",
+      "published": "2026-07-28T05:56:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi/cyberdeck-lunchbox-mask-raspberry-pi-1.jpg"
+    },
+    {
+      "id": "79c2bb716e86b5a04d1f47a64e38b8c6",
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), i...",
+      "published": "2026-07-28T04:43:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg"
+    },
     {
       "id": "5e606b4313aff0521301f0382d2a0686",
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
@@ -243,26 +323,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg"
     },
     {
-      "id": "137f267e781d6aa1f8caaddd705f85d6",
-      "title": "Chrome tourne enfin sur Raspberry Pi (si vous savez où cliquer)",
-      "link": "https://korben.info/chrome-arm64-linux-builds.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous avez un Raspberry Pi et que Chromium commence à vous fatiguer, le VRAI Chrome, celui des chads que vous êtes, est enfin dispo en ARM64 !! Enfin, dispo... Si vous savez où chercher, parce que la page de télécha...",
-      "published": "2026-07-27T08:43:46+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/chrome-arm64-linux-builds/chrome-arm64-linux-builds-1.jpg"
-    },
-    {
-      "id": "303c73ce5712ba48aafd6a79c1505da9",
-      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependab...",
-      "published": "2026-07-27T08:01:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg"
-    },
-    {
       "id": "2aeb2ab97f2522c390c5728f17fb1a2b",
       "title": "Dolphin X : ce nouvel infostealer utilise l’IA pour trier ses victimes",
       "link": "https://www.it-connect.fr/dolphin-x-infostealer-windows-ia-profiler/",
@@ -293,16 +353,6 @@
       "image": ""
     },
     {
-      "id": "ad7b01946695edbce4f9fa7fe7c6df44",
-      "title": "Doully sur Waze - Le GPS le plus éclaté de la route",
-      "link": "https://korben.info/waze-voix-doully.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Vous connaissez Doully ? Mais siii, l'humoriste avec la voix la plus cassée du stand-up français ? Perso je l'aime bien, elle est aussi trash que drôle et aujourd'hui, elle a mis en ligne son propre guidage vocal pour...",
-      "published": "2026-07-26T18:21:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/waze-voix-doully/waze-voix-doully-1.jpg"
-    },
-    {
       "id": "c8d5104cc7f3adcb581ed85b2758fda5",
       "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
@@ -313,16 +363,6 @@
       "image": ""
     },
     {
-      "id": "00113367c0e3a4db52fb8e0422e2be23",
-      "title": "Numéro DUNS gratuit - Comment l'obtenir sans payer",
-      "link": "https://korben.info/numero-duns-gratuit-methode-apple.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Je viens de perdre de précieuses minutes sur un truc qui aurait dû me prendre trente secondes : Récupérer le numéro DUNS de mon entreprise. Si vous ne savez pas ce que c'est, bienvenue au club ! En gros, c'est un iden...",
-      "published": "2026-07-26T13:14:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/numero-duns-gratuit-methode-apple/numero-duns-gratuit-methode-apple-1.png"
-    },
-    {
       "id": "097012add23256db40687aac339e549c",
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
@@ -331,16 +371,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "fbb6b814511680020ec3c74dd9d2b659",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fix...",
-      "published": "2026-07-25T18:48:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
     },
     {
       "id": "a69f20c06bba13e8bdda53076bf2dcd5",
@@ -368,36 +398,6 @@
       "link": "https://www.it-connect.fr/certighost-cve-2026-54121-ad-cs-controleur-de-domaine/",
       "summary": "Certighost (CVE-2026-54121) : cette faille dans AD CS permet à un utilisateur standard de compromettre un domaine Active Directory. Protégez-vous. Le post Certighost (CVE-2026-54121) : un compte AD standard suffit pou...",
       "published": "2026-07-24T19:30:30+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "24801ab15f7cf6d9d393e7e4a8c20b89",
-      "title": "Bento : une alternative open source à PowerPoint qui tient dans un seul fichier HTML",
-      "link": "https://www.it-connect.fr/bento-alternative-powerpoint-fichier-html-unique/",
-      "summary": "Bento est une alternative open source à PowerPoint : un fichier HTML de 570 Ko qui embarque l'éditeur, le mode présentateur, les données et la collaboration. Le post Bento : une alternative open source à PowerPoint qu...",
-      "published": "2026-07-24T08:35:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cbb0a902676baa8b6c570e8a177aaf96",
-      "title": "SharedRoot : l’agent IA de Claude Cowork peut s’évader de sa VM et lire vos fichiers",
-      "link": "https://www.it-connect.fr/sharedroot-claude-cowork-evasion-sandbox-mac/",
-      "summary": "Des chercheurs ont fait sortir l'agent IA de Claude Cowork de sa machine virtuelle pour lire et écrire sur le Mac hôte. Anthropic n'a pas publié de correctif. Le post SharedRoot : l’agent IA de Claude Cowork peut s’év...",
-      "published": "2026-07-24T07:28:07+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3127d83892b1ff3bce4381c5f7fe3b3f",
-      "title": "Thunderbird 153 : nouvelle version ESR, support Exchange natif et 61 failles corrigées",
-      "link": "https://www.it-connect.fr/thunderbird-153-nouveautes/",
-      "summary": "Thunderbird 153 Meadow inaugure la nouvelle branche ESR : gestionnaire de comptes remanié, Exchange via EWS, DNS over HTTPS et 61 failles corrigées. Le post Thunderbird 153 : nouvelle version ESR, support Exchange nat...",
-      "published": "2026-07-24T05:49:01+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
