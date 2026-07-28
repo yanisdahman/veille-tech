@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-07-28T13:58:06.156768+00:00",
+  "last_updated": "2026-07-28T19:18:10.799227+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3f46f936f3a354b9a82479a562db1336",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused s...",
+      "published": "2026-07-28T18:59:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg"
+    },
+    {
+      "id": "81aef116a54561ae10a797be391b93b4",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disru...",
+      "published": "2026-07-28T18:41:04+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2cc507a801ad625690fa63faceb7fd95",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "published": "2026-07-28T18:08:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7b4b8f9680514bc17433aadcd0de72db",
+      "title": "Microsoft dégaine MAI-Cyber-1-Flash et Project Perception pour la cybersécurité",
+      "link": "https://www.it-connect.fr/microsoft-mai-cyber-1-flash-project-perception/",
+      "summary": "Microsoft dévoile MAI-Cyber-1-Flash, son premier modèle IA dédié à la cybersécurité, et Project Perception, ses agents rouges, bleus et verts. Le post Microsoft dégaine MAI-Cyber-1-Flash et Project Perception pour la ...",
+      "published": "2026-07-28T17:08:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "147e702d460215b1857422362be25c91",
+      "title": "Cette faille dans le système d’antivol expose 2,2 millions de voitures, mais l’Europe est épargnée",
+      "link": "https://www.it-connect.fr/faille-bluetooth-karr-2-2-millions-voitures/",
+      "summary": "Des chercheurs révèlent qu'une clé Bluetooth unique, partagée par tous les boîtiers antivol KARR et SWDS, ouvre l'accès à 2,2 millions de véhicules. Le post Cette faille dans le système d’antivol expose 2,2 millions d...",
+      "published": "2026-07-28T16:41:35+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "20b26f20a30aa90b66d99282d13c076e",
+      "title": "Il déverrouille une Xbox 360 avec un Teensy et un peu de bruteforce",
+      "link": "https://korben.info/xbox-360-controle-parental-brute-force.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une Xbox 360 à 15 dollars bloquée par un contrôle parental oublié. Question secrète, code usine et exploit logiciel échouent. Restent 10 000 codes et un Teensy.",
+      "published": "2026-07-28T16:11:48+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/xbox-360-controle-parental-brute-force/xbox-360-controle-parental-brute-force-1.jpg"
+    },
+    {
+      "id": "75a0b17d4e66c848f3aa1677513ca291",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get anothe...",
+      "published": "2026-07-28T15:01:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg"
+    },
+    {
+      "id": "9223ce7c72a1a46b070e53d5a06a353e",
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the publ...",
+      "published": "2026-07-28T14:41:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg"
+    },
+    {
+      "id": "3502858f824ff1951e1458ddbccada9b",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure ...",
+      "published": "2026-07-28T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "46ddeb587467047d40e0003c75a5a52e",
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
@@ -223,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "fe79f803ecf9911e67ff5845125b1098",
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member grou...",
-      "published": "2026-07-27T18:10:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-O7sLARD9c2QGCheTeoamew1jlKiNe2KRKqw4_8f6VTxZo0MHNIQdizHhyphenhyphen-Bchq9tTzlYBJrJcJDhhhzNB17wPMHDT00pAikN61fAgOh7AdibxKPt5fQ_1KwMvkUXx1J7IzZBbtONSSIAOjRV74KSkmlsKYB7hFWy17AaQu02BqwngqCzlubslSbKvg/s1600/nvidia.jpg"
-    },
-    {
       "id": "730675e14172db1cc7c11efdf86daffd",
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
@@ -251,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/steam-deck-taser-pics-anti-famille/steam-deck-taser-pics-anti-famille-1.jpg"
-    },
-    {
-      "id": "0a17a90d7152f95a04a7999fb0f917bc",
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastruct...",
-      "published": "2026-07-27T17:16:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg"
     },
     {
       "id": "877fe91a7954795654d90687d261af5e",
@@ -293,16 +363,6 @@
       "image": "https://korben.info/gitwand-client-git-open-source/gitwand-client-git-open-source-1.jpg"
     },
     {
-      "id": "8fa8d7fb0c5df7d2fa1bc3834e7f6c00",
-      "title": "Open Archiver - L'archiveur qui perdait des emails (mais c'est corrigé, ouf !)",
-      "link": "https://korben.info/open-archiver-archivage-emails-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Open Archiver v0.5.2 sort une vraie recherche avancée, et corrige des imports qui perdaient des mails en annonçant un succès.",
-      "published": "2026-07-27T16:24:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/open-archiver-archivage-emails-self-hosted/open-archiver-archivage-emails-self-hosted-1.jpg"
-    },
-    {
       "id": "4ac74f56d40980e9b057138916c5f511",
       "title": "Portmaster : le pare-feu applicatif open source pour Windows et Linux",
       "link": "https://www.it-connect.fr/portmaster-pare-feu-applicatif-open-source/",
@@ -310,46 +370,6 @@
       "published": "2026-07-27T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a9e9792c2d424cfbc6d0ec475e29e252",
-      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
-      "published": "2026-07-27T15:39:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2972402d057c91dc339306dbb6b13f78",
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
-      "published": "2026-07-27T15:12:27+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bc539faa2a2b0e2ef4cca15f0e15bd78",
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administra...",
-      "published": "2026-07-27T14:40:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg"
-    },
-    {
-      "id": "180b0339dfa841d1c16d1ce662ffd18b",
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permis...",
-      "published": "2026-07-27T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -383,50 +403,10 @@
       "image": ""
     },
     {
-      "id": "a69f20c06bba13e8bdda53076bf2dcd5",
-      "title": "ConfigoMatic : le configurateur de PC sur mesure 100% compatible",
-      "link": "https://www.it-connect.fr/configomatic-configurateur-pc-sur-mesure/",
-      "summary": "Découvrez le ConfigoMatic, le configurateur PC de TopAchat pour concevoir un PC gamer sur mesure 100% compatible, à monter soi-même ou pas : à vous de choisir. Le post ConfigoMatic : le configurateur de PC sur mesure ...",
-      "published": "2026-07-25T11:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9c48a4fbc2c57f0bf8b0a7f41b2fb7d6",
-      "title": "Test Thermal Master P3 : une caméra thermique de poche pour smartphone",
-      "link": "https://www.it-connect.fr/test-thermal-master-p3/",
-      "summary": "Le Thermal Master P3 est-il la meilleure caméra thermique pour smartphone ? Notre test : capteur, mise au point manuelle, cas d'usage et avis. Le post Test Thermal Master P3 : une caméra thermique de poche pour smartp...",
-      "published": "2026-07-25T05:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "751df0e6a5b70b9e9041d51e2cb9627d",
       "title": "Multiples vulnérabilités dans GLPI (22 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0909/",
       "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la p...",
-      "published": "2026-07-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a0b83b0c543ca2bc18b39863e645b540",
-      "title": "Multiples vulnérabilités dans Google Chrome (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0907/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-07-22T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0561a11e29edb94652f0fb60a58f1c5f",
-      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0908/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des d...",
       "published": "2026-07-22T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -443,31 +423,21 @@
       "image": ""
     },
     {
+      "id": "7d565f834f35e62d4d9e5b9e81612399",
+      "title": "Multiples vulnérabilités dans Microsoft Sharepoint (22 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
+      "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-586...",
+      "published": "2026-07-22T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "374d50c0c7b0a49b7fd23092e0105fbb",
       "title": "Multiples vulnérabilités dans Tenable Security Center (21 juillet 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0905/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et un ...",
       "published": "2026-07-21T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ca83f7e24b2d6ea7ee684a1ca9c0f546",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-031 (20 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-031/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-07-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bcbb54c9b7589aa0f8db3d1822e2b45c",
-      "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0904/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et un contournement de la politique de...",
-      "published": "2026-07-20T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -483,21 +453,51 @@
       "image": ""
     },
     {
-      "id": "1bc75bdc5f200fbfd6f01ba716c275c3",
-      "title": "Multiples vulnérabilités dans Microsoft Windows (17 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0895/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une at...",
-      "published": "2026-07-17T00:00:00+00:00",
+      "id": "5aec3c13493cb9bfc1c1c70cadae96dd",
+      "title": "Multiples vulnérabilités dans Traefik (09 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0851/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-07-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "e586b66c524373d13fbd932460fde2d5",
-      "title": "Multiples vulnérabilités dans Roundcube (06 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0835/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une in...",
-      "published": "2026-07-06T00:00:00+00:00",
+      "id": "eef49a37fc2e08d9dbc797f71e6017c8",
+      "title": "Vulnérabilité dans Traefik (11 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0738/",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-06-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1de94092dad6c8a3361fc8f7a6c2f349",
+      "title": "Vulnérabilité dans F5 BIG-IP Access Policy Manager (31 mars 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-004/",
+      "summary": "Le 15 octobre 2025, F5 a publié un avis de sécurité concernant entre autres la vulnérabilité CVE-2025-53521. Celle-ci affecte BIG-IP APM et permet à un attaquant non authentifié d'exécuter du code à distance. Le 29 ma...",
+      "published": "2026-03-31T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9974d51ef3268f4287aa3645ee0145f3",
+      "title": "Multiples vulnérabilités dans Roundcube (19 mars 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur ...",
+      "published": "2026-03-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "eb9f3183645bc513c3a22416acd9df54",
+      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (30 janvier 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-001/",
+      "summary": "[Mise à jour du 09 février 2026] Le 6 février 2026, Ivanti a mis à disposition des scripts RPM de détection d'indicateurs de compromission, à utiliser en fonction de la version d'EPMM installée. L'éditeur a également ...",
+      "published": "2026-01-30T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
