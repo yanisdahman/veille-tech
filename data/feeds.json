@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-28T19:18:10.799227+00:00",
+  "last_updated": "2026-07-29T02:21:59.463188+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ca3c203a7203bcfcd08229a3b4533943",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "published": "2026-07-28T21:17:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d66c826e4ac427b21af710f0aefa5edd",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face...",
+      "published": "2026-07-28T20:37:06+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "3f46f936f3a354b9a82479a562db1336",
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
@@ -136,7 +156,7 @@
       "id": "1d6e5f60c824af1d4b58f5c6cfb7bbbb",
       "title": "Moonshot met en ligne Kimi K3, le plus gros modèle d'IA jamais proposé en téléchargement libre",
       "link": "https://korben.info/moonshot-met-en-ligne-kimi-k3-le-plus-gros-modele-dia-jamais-propose-en-telechargement-libre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La startup chinoise Moonshot AI, que vous connaissez peut-être pour son assistant Kimi et qui compte Alibaba parmi ses soutiens, a publié hier sur Hugging Face les poids complets de Kimi K3, un modèle de 2 800 milliar...",
+      "summary": "Kimi K3 de Moonshot AI est téléchargeable sur Hugging Face : 2 800 milliards de paramètres, 1,4 To, contexte d'un million de tokens, API à 3 $/million.",
       "published": "2026-07-28T11:55:40+00:00",
       "source": "Korben",
       "category": "outils",
@@ -298,26 +318,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
       "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
       "published": "2026-07-27T21:08:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2d0169c1a76d13237455b81f1eee37a3",
-      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-      "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-      "published": "2026-07-27T21:00:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "730675e14172db1cc7c11efdf86daffd",
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
-      "published": "2026-07-27T17:29:07+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
