@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-29T02:21:59.463188+00:00",
+  "last_updated": "2026-07-29T08:34:34.591718+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "caebd6fe013561ce5af86baaef227298",
+      "title": "Hammer - Votre roman en fichiers texte, pas dans le cloud",
+      "link": "https://korben.info/hammer-editor-ecriture-roman-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Hammer est un editeur de roman open source qui garde chaque scene en fichier texte sur votre disque, avec un serveur de sync a heberger en Docker.",
+      "published": "2026-07-29T08:08:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/hammer-editor-ecriture-roman-open-source/hammer-editor-ecriture-roman-open-source-1.png"
+    },
+    {
+      "id": "b74cb912885b08ce50091b5d3d596eb3",
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certific...",
+      "published": "2026-07-29T07:07:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg"
+    },
+    {
+      "id": "cb4326df7db29494c41fd2065f4e7534",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party account...",
+      "published": "2026-07-29T06:45:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg"
+    },
+    {
+      "id": "34709b1e6aa9efd667c71eb1f0285300",
+      "title": "Windows 11 : l’application OneDrive Photos s’installe sans rien demander",
+      "link": "https://www.it-connect.fr/windows-11-onedrive-photos-application-installee-automatiquement/",
+      "summary": "Une application OneDrive Photos apparaît sur Windows 11, sans demander l'avis des utilisateurs : attention à sa fonction de regroupement par personne. Le post Windows 11 : l’application OneDrive Photos s’installe sans...",
+      "published": "2026-07-29T06:42:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c5f0f070171ba68faef22f2f82e505e4",
+      "title": "Kimi K3 : le plus gros modèle IA ouvert est désormais téléchargeable gratuitement",
+      "link": "https://www.it-connect.fr/kimi-k3-poids-ouverts-moonshot-licence/",
+      "summary": "Moonshot AI a publié les poids de Kimi K3, son modèle IA avec 2 800 milliards de paramètres. Un record pour un modèle ouvert, mais le matériel pose des limites. Le post Kimi K3 : le plus gros modèle IA ouvert est déso...",
+      "published": "2026-07-29T06:05:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b38bfd1273c956f6437abcf52a38f76d",
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as foll...",
+      "published": "2026-07-29T04:20:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg"
+    },
     {
       "id": "ca3c203a7203bcfcd08229a3b4533943",
       "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
@@ -223,16 +283,6 @@
       "image": "https://korben.info/morrowind-navigateur-webassembly-openmw/morrowind-navigateur-webassembly-openmw-1.jpg"
     },
     {
-      "id": "22d4699b70ca93b9968c6f0380dd1920",
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in t...",
-      "published": "2026-07-28T08:04:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg"
-    },
-    {
       "id": "17872deee3ce701ef9f72a73481e7757",
       "title": "GLM 5.2 censure moins s'il se croit américain",
       "link": "https://korben.info/glm-kimi-modeles-chinois-identite-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -263,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "9872c65afaee9abb6db09edb44eced9a",
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95....",
-      "published": "2026-07-28T06:07:22+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg"
-    },
-    {
       "id": "56f0ddd50ee989a3fd9651f0c6364a7d",
       "title": "Sa boîte à goûter fait tourner un LLM en local",
       "link": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -281,16 +321,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi/cyberdeck-lunchbox-mask-raspberry-pi-1.jpg"
-    },
-    {
-      "id": "79c2bb716e86b5a04d1f47a64e38b8c6",
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), i...",
-      "published": "2026-07-28T04:43:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg"
     },
     {
       "id": "5e606b4313aff0521301f0382d2a0686",
@@ -353,16 +383,6 @@
       "image": "https://korben.info/pascal-editor-3d-architecture-web-2/pascal-editor-3d-architecture-web-2-1.jpg"
     },
     {
-      "id": "6328427dbf7394ba65732ebaf6cee90e",
-      "title": "GitWand - Il trie vos conflits Git et vous montre pourquoi",
-      "link": "https://korben.info/gitwand-client-git-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "GitWand classe chaque conflit de merge selon des règles fixes, tranche les cas sans ambiguïté et vous montre le motif retenu. Open source, licence MIT.",
-      "published": "2026-07-27T16:52:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gitwand-client-git-open-source/gitwand-client-git-open-source-1.jpg"
-    },
-    {
       "id": "4ac74f56d40980e9b057138916c5f511",
       "title": "Portmaster : le pare-feu applicatif open source pour Windows et Linux",
       "link": "https://www.it-connect.fr/portmaster-pare-feu-applicatif-open-source/",
@@ -378,26 +398,6 @@
       "link": "https://www.it-connect.fr/dolphin-x-infostealer-windows-ia-profiler/",
       "summary": "Dolphin X est un malware voleur de données compatible Windows qui vise plus de 300 applications et embarque un AI Profiler pour trier les victimes. Le post Dolphin X : ce nouvel infostealer utilise l’IA pour trier ses...",
       "published": "2026-07-27T06:58:14+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f073e9fd383837d6608c2ed8b4c9d078",
-      "title": "RefluXFS : cette faille dans XFS donne un accès root sur RHEL, CentOS et AlmaLinux",
-      "link": "https://www.it-connect.fr/refluxfs-cve-2026-64600-faille-xfs-acces-root-linux/",
-      "summary": "RefluXFS (CVE-2026-64600) est une faille du système de fichiers XFS qui permet à un utilisateur local de devenir root sur RHEL. Ce qu'il faut savoir. Le post RefluXFS : cette faille dans XFS donne un accès root sur RH...",
-      "published": "2026-07-27T05:39:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "183c79bff0e298df191fe0f9160208d7",
-      "title": "Nouvelle vente flash GoDeal24 : profitez d’Office 2024 Pro Plus et de Windows 11 Pro",
-      "link": "https://www.it-connect.fr/bon-plan-licences-godeal24-windows-office-logiciels/",
-      "summary": "GoDeal24 a lancé une vente flash spéciale Mid-Year 2026 : des promos sur les tarifs des licences Windows 11, Office 2021, Office 2024 et Windows Server 2025. Le post Nouvelle vente flash GoDeal24 : profitez d’Office 2...",
-      "published": "2026-07-27T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
