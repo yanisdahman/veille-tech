@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-07-30T02:04:18.447712+00:00",
+  "last_updated": "2026-07-30T08:20:06.181871+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8880044f96da5e0df266931c516b6337",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U....",
+      "published": "2026-07-30T07:40:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg"
+    },
+    {
+      "id": "605400d3a5d8a620b71114ffc1e2cf79",
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment author...",
+      "published": "2026-07-30T07:28:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg"
+    },
+    {
+      "id": "8f9a8afba78ecdc285c56646b5acc1d8",
+      "title": "Copilot pour Word : ce ver IA se propage tout seul de document en document",
+      "link": "https://www.it-connect.fr/copilot-word-ver-ia-auto-propage-documents/",
+      "summary": "Un chercheur a démontré un ver caché en texte blanc dans un document Word. Copilot le recopie dans les fichiers qu'il rédige, et la faille reste exploitable. Le post Copilot pour Word : ce ver IA se propage tout seul ...",
+      "published": "2026-07-30T07:24:55+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e22f0879b9210af8048d00a8aa256f1e",
+      "title": "Claude Opus 5 efface une base de prod, et ce n’est pas sa faute",
+      "link": "https://www.it-connect.fr/claude-opus-5-efface-une-base-de-prod-et-ce-nest-pas-sa-faute/",
+      "summary": "Un développeur teste Opus 5 sur un projet perso. Dix minutes plus tard, 22 tables de sa base Supabase sont vides. A qui la faute ? Le post Claude Opus 5 efface une base de prod, et ce n’est pas sa faute a été publié s...",
+      "published": "2026-07-30T06:53:50+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "35d813d97a3dbe3b850b381551173ed8",
+      "title": "VMware : 3 failles critiques dans vCenter et ESX, dont une évasion de machine virtuelle",
+      "link": "https://www.it-connect.fr/vmware-3-failles-critiques-vcenter-esx-juillet-2026/",
+      "summary": "Le 29 juillet 2026, Broadcom a dévoilé cinq vulnérabilités dans les solutions VMware ESX, dont la CVE-2026-47876 qui est de type VM escape. Le post VMware : 3 failles critiques dans vCenter et ESX, dont une évasion de...",
+      "published": "2026-07-30T06:13:47+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ea8181fd26a39f07edaeb17b8ab4b03a",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain ...",
+      "published": "2026-07-30T06:05:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg"
+    },
+    {
+      "id": "df0276c9147b636d4b96b7ccf1e4b0ca",
+      "title": "Vos vacances d'été sont là, mais Surfshark ne prend pas de congés (et il a des nouveautés)",
+      "link": "https://korben.info/surfshark-vpn-ne-prend-pas-de-conges.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "-- Article en partenariat avec Surfshark -- Août est arrivé. Vous avez posé vos congés, votre valise est prête, et vous vous apprêtez à partir en mode déconnexion totale (oui parce que tout le monde sait que les vrais...",
+      "published": "2026-07-30T05:41:58+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/surfshark-vpn-ne-prend-pas-de-conges/surfshark-vpn-ne-prend-pas-de-conges-1.webp"
+    },
+    {
+      "id": "7b7a14f0d30aa5f8a992239f66952bf9",
+      "title": "ModRetro M64 - Vos cartouches de jeux N64 en 4K",
+      "link": "https://korben.info/modretro-m64-console-fpga-n64.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La ModRetro M64 relit vos cartouches Nintendo 64, PAL comprises, en 4K pour 229,99 dollars. Mais la fidélité que promet son FPGA n'a jamais été mesurée.",
+      "published": "2026-07-30T05:13:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/modretro-m64-console-fpga-n64/modretro-m64-console-fpga-n64-1.webp"
+    },
+    {
+      "id": "a3ee87ef4142f71e70de51783c68c5c0",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabiliti...",
+      "published": "2026-07-30T05:08:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
+    },
+    {
+      "id": "3b97ffe2484672a178e28269ceb62187",
+      "title": "Windows Forensic – Partie 8 : explorer les Shellbags",
+      "link": "https://www.it-connect.fr/windows-forensic-partie-8-explorer-les-shellbags/",
+      "summary": "Analysez les ShellBags sous Windows pour retrouver les dossiers parcourus, même supprimés ou sur support amovible, avec SBECmd et ShellBags Explorer. Le post Windows Forensic – Partie 8 : explorer les Shellbags a été ...",
+      "published": "2026-07-30T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "d7b1817edbb382f0308d2691d16b6ced",
       "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
@@ -40,7 +140,7 @@
       "published": "2026-07-29T18:10:00+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
     },
     {
       "id": "95627e1284c051a060047032a59b8853",
@@ -173,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "78be22c1505655322c6be57f41f46106",
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code executi...",
-      "published": "2026-07-29T11:57:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
-    },
-    {
       "id": "e394e43f1017c9987d9892ebc8931056",
       "title": "Piratage de Hugging Face : l’agent IA d’OpenAI a aussi détourné 4 comptes externes",
       "link": "https://www.it-connect.fr/openai-agent-ia-quatre-comptes-services-hugging-face/",
@@ -193,16 +283,6 @@
       "image": ""
     },
     {
-      "id": "1835b00006b0e8e6d651f14faef951cf",
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a...",
-      "published": "2026-07-29T11:13:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
-    },
-    {
       "id": "1e1e7c64ded339842f6ae42e49204b46",
       "title": "These near-mint ASUS Chromebook refurbs are only $145",
       "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
@@ -211,26 +291,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "6da6e896d2035ad658df271fb2a95db1",
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information i...",
-      "published": "2026-07-29T11:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
-    },
-    {
-      "id": "e5079a566cf0f46d3b726ce1f2c6cc69",
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) tha...",
-      "published": "2026-07-29T08:58:27+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg"
     },
     {
       "id": "763c625b40fca293f09a9014863b91ee",
@@ -293,16 +353,6 @@
       "image": ""
     },
     {
-      "id": "147e702d460215b1857422362be25c91",
-      "title": "Cette faille dans le système d’antivol expose 2,2 millions de voitures, mais l’Europe est épargnée",
-      "link": "https://www.it-connect.fr/faille-bluetooth-karr-2-2-millions-voitures/",
-      "summary": "Des chercheurs révèlent qu'une clé Bluetooth unique, partagée par tous les boîtiers antivol KARR et SWDS, ouvre l'accès à 2,2 millions de véhicules. Le post Cette faille dans le système d’antivol expose 2,2 millions d...",
-      "published": "2026-07-28T16:41:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "20b26f20a30aa90b66d99282d13c076e",
       "title": "Il déverrouille une Xbox 360 avec un Teensy et un peu de bruteforce",
       "link": "https://korben.info/xbox-360-controle-parental-brute-force.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,16 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/xbox-360-controle-parental-brute-force/xbox-360-controle-parental-brute-force-1.jpg"
-    },
-    {
-      "id": "635a67540386fd9fa593108b3fd5e71b",
-      "title": "Microsoft Tier Model : le retour en grâce du on-premises ?",
-      "link": "https://www.it-connect.fr/microsoft-tier-model-le-retour-en-grace-du-on-premises/",
-      "summary": "Microsoft Active Directory Tier Model vs HardenAD : aperçu, points forts, pièges de déploiement et faiblesses. Ce qu'il faut savoir avant de l'utiliser. Le post Microsoft Tier Model : le retour en grâce du on-premises...",
-      "published": "2026-07-28T12:33:05+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "1d6e5f60c824af1d4b58f5c6cfb7bbbb",
@@ -343,16 +383,6 @@
       "image": "https://korben.info/crashphalt-undertale-together-remote-play-steam/crashphalt-undertale-together-remote-play-steam-1.jpg"
     },
     {
-      "id": "fed1f8364f761a5a74cddef60f41658d",
-      "title": "Ils piratent le Wi-Fi des hôtels pour siphonner les comptes Microsoft 365",
-      "link": "https://www.it-connect.fr/wifi-hotel-dns-poisoning-microsoft-365/",
-      "summary": "Des passerelles Wi-Fi d'hôtels sont détournées pour empoisonner le DNS et rediriger les voyageurs vers de faux portails Microsoft 365. Attention à ces attaques. Le post Ils piratent le Wi-Fi des hôtels pour siphonner ...",
-      "published": "2026-07-28T08:17:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "022e384b116cdb7931522ee0f7a2b419",
       "title": "Votre vieux Morrowind se relance dans le navigateur",
       "link": "https://korben.info/morrowind-navigateur-webassembly-openmw.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -371,36 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/glm-kimi-modeles-chinois-identite-claude/glm-kimi-modeles-chinois-identite-claude-1.png"
-    },
-    {
-      "id": "653e9bf538274423faaa882d420060a2",
-      "title": "Click to Pray : l’appli de prière du Pape a exposé les données de plus de 700 000 personnes",
-      "link": "https://www.it-connect.fr/click-to-pray-vatican-faille-idor-donnees-exposees/",
-      "summary": "Une faille IDOR dans l'API de Click to Pray exposait les e-mails et dates de naissance de 719 517 comptes. Signalée en janvier, corrigée seulement en juillet. Le post Click to Pray : l’appli de prière du Pape a exposé...",
-      "published": "2026-07-28T07:21:38+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "56f0ddd50ee989a3fd9651f0c6364a7d",
-      "title": "Sa boîte à goûter fait tourner un LLM en local",
-      "link": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "RadioactiveArtist a planqué un Raspberry Pi 5, un écran tactile et un LLM local dans une boîte à goûter M.A.S.K. des années 80, sans y faire un seul trou.",
-      "published": "2026-07-28T05:56:36+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi/cyberdeck-lunchbox-mask-raspberry-pi-1.jpg"
-    },
-    {
-      "id": "ade6b5874d08610d334265ea78c0bf58",
-      "title": "Sa famille vidait la batterie, alors il a électrifié sa Steam Deck",
-      "link": "https://korben.info/steam-deck-taser-pics-anti-famille.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un Redditor a imprimé une coque à pics et monté un taser sur sa Steam Deck pour que sa famille arrête de lui vider la batterie.",
-      "published": "2026-07-27T17:20:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/steam-deck-taser-pics-anti-famille/steam-deck-taser-pics-anti-famille-1.jpg"
     },
     {
       "id": "d685a89707f8e6dce82d918055fea2ed",
