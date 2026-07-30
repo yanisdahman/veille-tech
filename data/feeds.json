@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-29T19:09:57.273226+00:00",
+  "last_updated": "2026-07-30T02:04:18.447712+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d7b1817edbb382f0308d2691d16b6ced",
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. ...",
+      "published": "2026-07-29T23:44:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f18fa2fa84f7c458d60e08b01fca8a47",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely o...",
+      "published": "2026-07-29T21:39:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e4632b68afd3c2c6ac2648f05502bb51",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulne...",
+      "published": "2026-07-29T21:35:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "586d5afd990b19754b9e5183c3ba2102",
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
@@ -56,7 +86,7 @@
       "id": "cc7ae57c971e851e62f3276cc26efd3f",
       "title": "Claude casse un algo post-quantique en 60 heures",
       "link": "https://korben.info/claude-casse-un-algo-post-quantique-en-60-heures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Anthropic, le concurrent direct d'OpenAI sur les modèles d'IA, a publié hier un billet de recherche qui a fait pas mal de bruit : son modèle Claude Mythos Preview a trouvé en 60 heures une faiblesse dans HAWK, un sché...",
+      "summary": "Claude Mythos Preview d'Anthropic a trouvé en 60 heures une faiblesse dans HAWK-256, paramètre de défi non déployé, plus une attaque sur AES-128 à 7 tours.",
       "published": "2026-07-29T15:17:06+00:00",
       "source": "Korben",
       "category": "outils",
@@ -248,36 +278,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
       "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
       "published": "2026-07-28T21:17:39+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d66c826e4ac427b21af710f0aefa5edd",
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face...",
-      "published": "2026-07-28T20:37:06+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "81aef116a54561ae10a797be391b93b4",
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disru...",
-      "published": "2026-07-28T18:41:04+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2cc507a801ad625690fa63faceb7fd95",
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-      "published": "2026-07-28T18:08:50+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
