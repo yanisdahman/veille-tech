@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-07-30T19:20:32.324826+00:00",
+  "last_updated": "2026-07-31T02:30:43.595775+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "41f4cb784e73bfea4abfd6520d2d5e48",
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of ...",
+      "published": "2026-07-31T00:57:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c732a136b822c5fae34674d5e2608d8b",
+      "title": "South Korea fines telco giant KT $39 million for customer data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+      "published": "2026-07-30T22:28:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1ca96886227f8f8f58c441fa2a9d3b59",
+      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+      "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+      "published": "2026-07-30T22:01:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1909bb9ee6d3b767f8f8babd1e6331b1",
+      "title": "Microsoft visé par ExfilSquad : 8 millions d’enregistrements revendiqués, mais très peu de preuves",
+      "link": "https://www.it-connect.fr/exfilsquad-revendication-microsoft-8-millions-donnees/",
+      "summary": "Le groupe ExfilSquad, apparu le 26 juillet 2026, affirme détenir 130 Go de données Microsoft. 15 victimes revendiquées en un jour, mais aucune preuve solide. Le post Microsoft visé par ExfilSquad : 8 millions d’enregi...",
+      "published": "2026-07-30T21:08:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c1e1b9cdf6e6b16218944e1efeb37917",
+      "title": "Adform piraté : un script publicitaire a volé des cryptomonnaies pendant au moins une semaine",
+      "link": "https://www.it-connect.fr/adform-compromis-script-publicitaire-voleur-cryptomonnaies/",
+      "summary": "Le script publicitaire d'Adform a été compromis pour distribuer un clipper destiné à détourner des transactions crypto. Voici ce que l'on sait sur cet incident. Le post Adform piraté : un script publicitaire a volé de...",
+      "published": "2026-07-30T21:06:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "110b52109b25d9ed46c6b4ad4d877841",
+      "title": "Windows 11 KB5101684 : découvrez les nouveautés de cette mise à jour !",
+      "link": "https://www.it-connect.fr/windows-11-kb5101684-windows-hello-ess-desinstaller-modele-ia/",
+      "summary": "La KB5101684 pour Windows 11 24H2 et 25H2 étend Windows Hello ESS aux lecteurs d'empreintes externes et permet de désinstaller un composant IA. Le post Windows 11 KB5101684 : découvrez les nouveautés de cette mise à j...",
+      "published": "2026-07-30T21:04:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bec92311a206e73baf4f855b01beaf72",
+      "title": "WhatsApp : les appels audio et vidéo chiffrés arrivent dans votre navigateur Web",
+      "link": "https://www.it-connect.fr/whatsapp-web-appels-audio-video-chiffres-navigateur/",
+      "summary": "Les appels audio et vidéo sont désormais intégrés à WhatsApp Web, chiffrés de bout en bout, sans installer d'application. Une nouveauté attendue. Le post WhatsApp : les appels audio et vidéo chiffrés arrivent dans vot...",
+      "published": "2026-07-30T21:02:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "e14561ffe5dab0823d1b5798d1443bc6",
       "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
@@ -176,7 +246,7 @@
       "id": "abf6fbd9a62a4ce7a7c492203a505247",
       "title": "Il fait tourner DOOM avec des expressions régulières, et il faut trois minutes par image",
       "link": "https://korben.info/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un développeur du nom d' Artem Lytkin a réussi à faire tourner DOOM sur une machine dont la seule et unique opération est un chercher-remplacer, le même que celui de votre traitement de texte, appliqué en boucle sur u...",
+      "summary": "doom-regex : Artem Lytkin fait tourner DOOM avec 544 règles de chercher-remplacer, 14 millions de substitutions et 3 minutes par image.",
       "published": "2026-07-30T09:43:00+00:00",
       "source": "Korben",
       "category": "outils",
@@ -186,7 +256,7 @@
       "id": "f4a382874307389cce14db670b6ef681",
       "title": "Les lunettes-caméra de Meta ne passeront pas les portes de la DEF CON",
       "link": "https://korben.info/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Même les hackers ne veulent plus voir les lunettes connectées de Meta. Les organisateurs de la DEF CON, la plus grande convention de hackers au monde qui se tient chaque été à Las Vegas depuis 1993, ont annoncé sur le...",
+      "summary": "La DEF CON interdit les lunettes-caméra Meta Ray-Ban et Oakley dès le 6 août à Las Vegas, sans exception pour les verres correcteurs.",
       "published": "2026-07-30T08:42:19+00:00",
       "source": "Korben",
       "category": "outils",
@@ -256,7 +326,7 @@
       "id": "df0276c9147b636d4b96b7ccf1e4b0ca",
       "title": "Vos vacances d'été sont là, mais Surfshark ne prend pas de congés (et il a des nouveautés)",
       "link": "https://korben.info/surfshark-vpn-ne-prend-pas-de-conges.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "-- Article en partenariat avec Surfshark -- Août est arrivé. Vous avez posé vos congés, votre valise est prête, et vous vous apprêtez à partir en mode déconnexion totale (oui parce que tout le monde sait que les vrais...",
+      "summary": "Surfshark étend FastTrack à plus de 2 000 de ses 4 500 serveurs (jusqu'à 70% de vitesse en plus, macOS) et met à jour son protocole Dausos post-quantique.",
       "published": "2026-07-30T05:41:58+00:00",
       "source": "Korben",
       "category": "outils",
@@ -283,33 +353,13 @@
       "image": ""
     },
     {
-      "id": "d7b1817edbb382f0308d2691d16b6ced",
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. ...",
-      "published": "2026-07-29T23:44:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f18fa2fa84f7c458d60e08b01fca8a47",
-      "title": "Anthropic confirms Claude is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely o...",
-      "published": "2026-07-29T21:39:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e4632b68afd3c2c6ac2648f05502bb51",
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulne...",
-      "published": "2026-07-29T21:35:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
+      "id": "3188b68c81b63bf57764ab0cbf683140",
+      "title": "RAM, NVMe, DDoS : les piliers d’un VPS Windows fiable et performant",
+      "link": "https://www.it-connect.fr/ram-nvme-ddos-les-piliers-dun-vps-windows-fiable-et-performant/",
+      "summary": "Découvrez comment choisir un VPS Windows fiable en évaluant RAM, NVMe, vCPU, réseau et localisation, pour une stabilité et sécurité optimales. Le post RAM, NVMe, DDoS : les piliers d’un VPS Windows fiable et performan...",
+      "published": "2026-07-30T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
       "image": ""
     },
     {
@@ -333,26 +383,6 @@
       "image": ""
     },
     {
-      "id": "dbb66cb14a955a9e1be410f8d8ca04c1",
-      "title": "Forensic Windows – Partie 7 : analyser les fichiers LNK (raccourcis)",
-      "link": "https://www.it-connect.fr/forensic-windows-liens-des-fichiers/",
-      "summary": "Apprenez à analyser les fichiers LNK (raccourcis Windows) en forensic avec LECmd, pour retracer l'activité d'un utilisateur et les fichiers exécutés. Le post Forensic Windows – Partie 7 : analyser les fichiers LNK (ra...",
-      "published": "2026-07-29T12:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e394e43f1017c9987d9892ebc8931056",
-      "title": "Piratage de Hugging Face : l’agent IA d’OpenAI a aussi détourné 4 comptes externes",
-      "link": "https://www.it-connect.fr/openai-agent-ia-quatre-comptes-services-hugging-face/",
-      "summary": "OpenAI révèle que ses modèles IA ont utilisé des identifiants exposés sur quatre services tiers pendant l'intrusion chez Hugging Face. Modal Labs est concerné. Le post Piratage de Hugging Face : l’agent IA d’OpenAI a ...",
-      "published": "2026-07-29T11:31:28+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "763c625b40fca293f09a9014863b91ee",
       "title": "OTI - Le lien à usage unique que les bots ne crament plus",
       "link": "https://korben.info/oti-partage-secret-usage-unique-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -371,36 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/hammer-editor-ecriture-roman-open-source/hammer-editor-ecriture-roman-open-source-1.png"
-    },
-    {
-      "id": "34709b1e6aa9efd667c71eb1f0285300",
-      "title": "Windows 11 : l’application OneDrive Photos s’installe sans rien demander",
-      "link": "https://www.it-connect.fr/windows-11-onedrive-photos-application-installee-automatiquement/",
-      "summary": "Une application OneDrive Photos apparaît sur Windows 11, sans demander l'avis des utilisateurs : attention à sa fonction de regroupement par personne. Le post Windows 11 : l’application OneDrive Photos s’installe sans...",
-      "published": "2026-07-29T06:42:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c5f0f070171ba68faef22f2f82e505e4",
-      "title": "Kimi K3 : le plus gros modèle IA ouvert est désormais téléchargeable gratuitement",
-      "link": "https://www.it-connect.fr/kimi-k3-poids-ouverts-moonshot-licence/",
-      "summary": "Moonshot AI a publié les poids de Kimi K3, son modèle IA avec 2 800 milliards de paramètres. Un record pour un modèle ouvert, mais le matériel pose des limites. Le post Kimi K3 : le plus gros modèle IA ouvert est déso...",
-      "published": "2026-07-29T06:05:32+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7b4b8f9680514bc17433aadcd0de72db",
-      "title": "Microsoft dégaine MAI-Cyber-1-Flash et Project Perception pour la cybersécurité",
-      "link": "https://www.it-connect.fr/microsoft-mai-cyber-1-flash-project-perception/",
-      "summary": "Microsoft dévoile MAI-Cyber-1-Flash, son premier modèle IA dédié à la cybersécurité, et Project Perception, ses agents rouges, bleus et verts. Le post Microsoft dégaine MAI-Cyber-1-Flash et Project Perception pour la ...",
-      "published": "2026-07-28T17:08:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "c30173e4b50c19578672e72c616f8927",
