@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-31T02:30:43.595775+00:00",
+  "last_updated": "2026-07-31T08:44:19.076780+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ccb52455e848556019ff1ac86c1a7aee",
+      "title": "Déjà - Il devine ce que vous allez taper dans le terminal",
+      "link": "https://korben.info/deja-terminal-predictif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "deja remplace zsh-autosuggestions et prédit votre prochaine commande à partir du répertoire, de l'historique et des enchaînements. Aucune IA, tout en local.",
+      "published": "2026-07-31T08:04:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/deja-terminal-predictif/deja-terminal-predictif-1.png"
+    },
+    {
+      "id": "12dfcd129d5df6c00b2295ff27f7be93",
+      "title": "Multiverse Engine - Le moteur 3D d'un fan de jeux rétro en VR",
+      "link": "https://korben.info/rayrod-jeux-retro-vr-openxr.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Il porte Super Mario 64, Mario Kart 64, Sonic Robo Blast 2 et Ring Racers en VR stéréoscopique, et construit son propre moteur 3D en parallèle.",
+      "published": "2026-07-31T07:58:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rayrod-jeux-retro-vr-openxr/rayrod-jeux-retro-vr-openxr-1.jpg"
+    },
+    {
+      "id": "10d9bcc5ddb480a5135d1bd22c042a14",
+      "title": "Anthropic l’avoue : Claude a piraté 3 entreprises pendant ses tests cyber",
+      "link": "https://www.it-connect.fr/anthropic-claude-incidents-tests-cybersecurite-pypi/",
+      "summary": "Anthropic affirme que, dans le cadre de tests cyber, Claude a compromis de vraies entreprises et publié un paquet malveillant sur PyPI. Le post Anthropic l’avoue : Claude a piraté 3 entreprises pendant ses tests cyber...",
+      "published": "2026-07-31T07:02:59+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "41f4cb784e73bfea4abfd6520d2d5e48",
       "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
@@ -371,36 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/claude-casse-un-algo-post-quantique-en-60-heures/claude-casse-un-algo-post-quantique-en-60-heures-1.jpg"
-    },
-    {
-      "id": "b91beaa2d9b24887ba3958b449b894f1",
-      "title": "Apple : plus de 200 failles patchées dans tous ses systèmes, dont 11 trouvées avec l’IA",
-      "link": "https://www.it-connect.fr/apple-plus-de-200-failles-patchees-tous-ses-systemes/",
-      "summary": "Patchs Apple : contournements de Gatekeeper, accès root sur macOS, faille dans le noyau. Aucun zero-day, mais onze failles découvertes avec l'IA. Le post Apple : plus de 200 failles patchées dans tous ses systèmes, do...",
-      "published": "2026-07-29T13:03:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "763c625b40fca293f09a9014863b91ee",
-      "title": "OTI - Le lien à usage unique que les bots ne crament plus",
-      "link": "https://korben.info/oti-partage-secret-usage-unique-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "OTI génère des liens de partage de secret consultables une seule fois, chiffrés dans le navigateur. Sa nouveauté : le message attend un clic humain et vous dit quand il a été lu.",
-      "published": "2026-07-29T08:42:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/oti-partage-secret-usage-unique-self-hosted/oti-partage-secret-usage-unique-self-hosted-1.png"
-    },
-    {
-      "id": "caebd6fe013561ce5af86baaef227298",
-      "title": "Hammer - Votre roman en fichiers texte, pas dans le cloud",
-      "link": "https://korben.info/hammer-editor-ecriture-roman-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Hammer est un editeur de roman open source qui garde chaque scene en fichier texte sur votre disque, avec un serveur de sync a heberger en Docker.",
-      "published": "2026-07-29T08:08:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/hammer-editor-ecriture-roman-open-source/hammer-editor-ecriture-roman-open-source-1.png"
     },
     {
       "id": "c30173e4b50c19578672e72c616f8927",
