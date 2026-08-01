@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-01T13:12:15.302624+00:00",
-  "count": 50,
+  "last_updated": "2026-08-01T19:03:42.588353+00:00",
+  "count": 49,
   "articles": [
+    {
+      "id": "de99e5aaca12c4b48098d041f2576cac",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin...",
+      "published": "2026-08-01T17:17:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg"
+    },
+    {
+      "id": "01924bacfbdee7f899027c03801ba49c",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+      "published": "2026-08-01T14:20:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "aed5516703c645643042c604753d9fa4",
       "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
@@ -173,16 +193,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg"
     },
     {
-      "id": "f4f4a701f804763fd683cc373c3b3b87",
-      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-      "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found inte...",
-      "published": "2026-07-31T11:21:27+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s1600/deepseek-telegram.jpg"
-    },
-    {
       "id": "ccb52455e848556019ff1ac86c1a7aee",
       "title": "Déjà - Il devine ce que vous allez taper dans le terminal",
       "link": "https://korben.info/deja-terminal-predictif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -228,16 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
       "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
       "published": "2026-07-30T22:28:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1ca96886227f8f8f58c441fa2a9d3b59",
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
-      "published": "2026-07-30T22:01:31+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -391,16 +391,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "cc7ae57c971e851e62f3276cc26efd3f",
-      "title": "Claude casse un algo post-quantique en 60 heures",
-      "link": "https://korben.info/claude-casse-un-algo-post-quantique-en-60-heures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Claude Mythos Preview d'Anthropic a trouvé en 60 heures une faiblesse dans HAWK-256, paramètre de défi non déployé, plus une attaque sur AES-128 à 7 tours.",
-      "published": "2026-07-29T15:17:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/claude-casse-un-algo-post-quantique-en-60-heures/claude-casse-un-algo-post-quantique-en-60-heures-1.jpg"
     },
     {
       "id": "c763cd47db0fc30664547412b3c43142",
