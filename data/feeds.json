@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-08-03T02:31:03.491423+00:00",
-  "count": 42,
+  "last_updated": "2026-08-03T09:36:56.305378+00:00",
+  "count": 41,
   "articles": [
+    {
+      "id": "41c9cc8609e18a64d5345adf9dffa7f6",
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulle...",
+      "published": "2026-08-03T08:05:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
+    },
+    {
+      "id": "2b07cafa4cea0c1c86e33c7e358afbaa",
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 aff...",
+      "published": "2026-08-03T06:41:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
+    },
+    {
+      "id": "f42fc02e6ebfb102963d49ba6ee8105b",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artific...",
+      "published": "2026-08-03T06:40:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg"
+    },
+    {
+      "id": "9af79bd2467009d91360ee58743a1ab7",
+      "title": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
+      "link": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le 30 juillet, un attaquant a vidé 1 196 adresses Bitcoin en 41 minutes. Un peu plus de 1 082 bitcoins, environ 70 millions de dollars. Aucune des victimes n'avait cliqué sur quoi que ce soit. Elles avaient acheté un ...",
+      "published": "2026-08-03T06:01:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans-1.png"
+    },
     {
       "id": "6d941f092d8edd29b8fa14353edaae6d",
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
@@ -181,56 +221,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
-    },
-    {
-      "id": "a60eb91c7499a895532ef1f8ada6fcc8",
-      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions w...",
-      "published": "2026-07-31T12:51:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg"
-    },
-    {
-      "id": "2cdd71c4541c1fa4b01e360a49f087ad",
-      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-      "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
-      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijack...",
-      "published": "2026-07-31T11:55:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx5Qzkfu4WC4nW5n_nmFDP3CoZsw91wzaKcfKRZBx7DXHggnqqxqun757BOQey3jOUCGe4928DBU6fy4dPX04Cmp94xqWdNkZgkp1DuenVewYZFxSs9YSQdArKp1Ma3hAGkDAIA7zH8_7hXubNrJbP27r6XxIlCrzrYYoi3vAVFaLVdu1tnN6blLhE61xE/s1600/ifinder.jpg"
-    },
-    {
-      "id": "ca00c87e5ee1e3411cc45249c136ae4e",
-      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-      "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-c...",
-      "published": "2026-07-31T11:24:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg"
-    },
-    {
-      "id": "ccb52455e848556019ff1ac86c1a7aee",
-      "title": "Déjà - Il devine ce que vous allez taper dans le terminal",
-      "link": "https://korben.info/deja-terminal-predictif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "deja remplace zsh-autosuggestions et prédit votre prochaine commande à partir du répertoire, de l'historique et des enchaînements. Aucune IA, tout en local.",
-      "published": "2026-07-31T08:04:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/deja-terminal-predictif/deja-terminal-predictif-1.png"
-    },
-    {
-      "id": "12dfcd129d5df6c00b2295ff27f7be93",
-      "title": "Multiverse Engine - Le moteur 3D d'un fan de jeux rétro en VR",
-      "link": "https://korben.info/rayrod-jeux-retro-vr-openxr.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Il porte Super Mario 64, Mario Kart 64, Sonic Robo Blast 2 et Ring Racers en VR stéréoscopique, et construit son propre moteur 3D en parallèle.",
-      "published": "2026-07-31T07:58:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rayrod-jeux-retro-vr-openxr/rayrod-jeux-retro-vr-openxr-1.jpg"
     },
     {
       "id": "10d9bcc5ddb480a5135d1bd22c042a14",
