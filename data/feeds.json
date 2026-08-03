@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-02T19:04:24.064007+00:00",
+  "last_updated": "2026-08-03T02:31:03.491423+00:00",
   "count": 42,
   "articles": [
+    {
+      "id": "6d941f092d8edd29b8fa14353edaae6d",
+      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+      "published": "2026-08-02T22:31:41+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "dea0b1cc98b5a8d780f2c40e13d2cc57",
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+      "published": "2026-08-02T21:14:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "f245eb5c2fac84bf4783879a82b43be8",
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
@@ -163,16 +183,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
     },
     {
-      "id": "a59ec0f72a24d4c2c678d71859dd944c",
-      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-      "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-      "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attack...",
-      "published": "2026-07-31T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a60eb91c7499a895532ef1f8ada6fcc8",
       "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
       "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
@@ -230,16 +240,6 @@
       "published": "2026-07-31T07:02:59+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "41f4cb784e73bfea4abfd6520d2d5e48",
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of ...",
-      "published": "2026-07-31T00:57:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
