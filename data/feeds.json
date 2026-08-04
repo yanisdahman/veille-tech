@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-04T02:10:13.662414+00:00",
+  "last_updated": "2026-08-04T08:31:00.845444+00:00",
   "count": 41,
   "articles": [
+    {
+      "id": "decafb6e73735f431d8c95378c2634fd",
+      "title": "WAPT Server (CVE-2026-33591) : une faille permet de contourner l’authentification",
+      "link": "https://www.it-connect.fr/wapt-server-cve-2026-33591/",
+      "summary": "Un attaquant non authentifié peut détourner un compte sur WAPT Server via un simple paquet forgé. Ce qu'il faut savoir sur la faille CVE-2026-33591. Le post WAPT Server (CVE-2026-33591) : une faille permet de contourn...",
+      "published": "2026-08-04T07:25:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3ca8d6cfcccdb7f16f97ac4836da0b9c",
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of activ...",
+      "published": "2026-08-04T07:00:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png"
+    },
+    {
+      "id": "9f949dd50dd00779b9cdda47f016df95",
+      "title": "Gufw : gérer le pare-feu UFW sous Linux avec une interface graphique",
+      "link": "https://www.it-connect.fr/gufw-interface-graphique-ufw-linux/",
+      "summary": "Découvrez Gufw, l'interface graphique UFW sous Linux : installation, création des règles de pare-feu et bonnes pratiques, sans passer par la ligne de commande. Le post Gufw : gérer le pare-feu UFW sous Linux avec une ...",
+      "published": "2026-08-04T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "64bbf2d47be962c21ebdd58dd2169452",
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
@@ -173,16 +203,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
     },
     {
-      "id": "f42fc02e6ebfb102963d49ba6ee8105b",
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artific...",
-      "published": "2026-08-03T06:40:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg"
-    },
-    {
       "id": "9af79bd2467009d91360ee58743a1ab7",
       "title": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
       "link": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -288,26 +308,6 @@
       "link": "https://www.it-connect.fr/copilot-word-ver-ia-auto-propage-documents/",
       "summary": "Un chercheur a démontré un ver caché en texte blanc dans un document Word. Copilot le recopie dans les fichiers qu'il rédige, et la faille reste exploitable. Le post Copilot pour Word : ce ver IA se propage tout seul ...",
       "published": "2026-07-30T07:24:55+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e22f0879b9210af8048d00a8aa256f1e",
-      "title": "Claude Opus 5 efface une base de prod, et ce n’est pas sa faute",
-      "link": "https://www.it-connect.fr/claude-opus-5-efface-une-base-de-prod-et-ce-nest-pas-sa-faute/",
-      "summary": "Un développeur teste Opus 5 sur un projet perso. Dix minutes plus tard, 22 tables de sa base Supabase sont vides. A qui la faute ? Le post Claude Opus 5 efface une base de prod, et ce n’est pas sa faute a été publié s...",
-      "published": "2026-07-30T06:53:50+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "35d813d97a3dbe3b850b381551173ed8",
-      "title": "VMware : 3 failles critiques dans vCenter et ESX, dont une évasion de machine virtuelle",
-      "link": "https://www.it-connect.fr/vmware-3-failles-critiques-vcenter-esx-juillet-2026/",
-      "summary": "Le 29 juillet 2026, Broadcom a dévoilé cinq vulnérabilités dans les solutions VMware ESX, dont la CVE-2026-47876 qui est de type VM escape. Le post VMware : 3 failles critiques dans vCenter et ESX, dont une évasion de...",
-      "published": "2026-07-30T06:13:47+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
