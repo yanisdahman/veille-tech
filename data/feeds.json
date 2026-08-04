@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-08-04T14:02:43.441391+00:00",
+  "last_updated": "2026-08-04T19:26:47.610797+00:00",
   "count": 42,
   "articles": [
+    {
+      "id": "0015a35012bf513c981ad21f41827969",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+      "published": "2026-08-04T19:03:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "20ab94ddb628babe9f6561162025b53f",
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+      "published": "2026-08-04T18:50:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7a6b17f3eb3220baa02e9db0132ee1dc",
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth...",
+      "published": "2026-08-04T17:27:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg"
+    },
+    {
+      "id": "31951776f01dc78fd21e51c7352213da",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "published": "2026-08-04T15:24:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4872b3a7a1f0ea988d343fc25fc7eef4",
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time gua...",
+      "published": "2026-08-04T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a5a826bef77c0b0ce3da9dc8a347e340",
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned...",
+      "published": "2026-08-04T13:30:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg"
+    },
+    {
+      "id": "e4c14cefa9bb51fd246ade27f4cb18e3",
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance...",
+      "published": "2026-08-04T13:11:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg"
+    },
     {
       "id": "a1f947cdae111cbd4336ab8edfc8e81f",
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
@@ -153,16 +223,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg"
     },
     {
-      "id": "41eb1309865f42ecd6cf34e900f531bc",
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over t...",
-      "published": "2026-08-03T16:15:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg"
-    },
-    {
       "id": "fb1a206534125f06b185bbdc978fd0d2",
       "title": "Qu’est-ce qu’un WAF ? Principes et mise en pratique",
       "link": "https://www.it-connect.fr/waf-web-application-firewall-debutant/",
@@ -183,36 +243,6 @@
       "image": ""
     },
     {
-      "id": "71726c4b0fd595d8bb234c1cc455abc4",
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales ...",
-      "published": "2026-08-03T14:45:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ffeb9a344bc7549da9cc5a434d42cf37",
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more...",
-      "published": "2026-08-03T14:03:11+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg"
-    },
-    {
-      "id": "0a0489e0e2eef5ad65ef917641b3f763",
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize...",
-      "published": "2026-08-03T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
-    },
-    {
       "id": "9af79bd2467009d91360ee58743a1ab7",
       "title": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
       "link": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -221,36 +251,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans-1.png"
-    },
-    {
-      "id": "6d941f092d8edd29b8fa14353edaae6d",
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
-      "published": "2026-08-02T22:31:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "dea0b1cc98b5a8d780f2c40e13d2cc57",
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-      "published": "2026-08-02T21:14:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f245eb5c2fac84bf4783879a82b43be8",
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
-      "published": "2026-08-02T14:17:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "f093c293add98a872b51935bb71e32d7",
