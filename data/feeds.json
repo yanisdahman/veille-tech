@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-04T08:31:00.845444+00:00",
-  "count": 41,
+  "last_updated": "2026-08-04T14:02:43.441391+00:00",
+  "count": 42,
   "articles": [
+    {
+      "id": "a1f947cdae111cbd4336ab8edfc8e81f",
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophis...",
+      "published": "2026-08-04T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg"
+    },
+    {
+      "id": "ea9b8ef363982d1fb1b875446307db72",
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixin...",
+      "published": "2026-08-04T11:16:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif"
+    },
+    {
+      "id": "a3bd38f25d4865230fa9ecb781849eda",
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identi...",
+      "published": "2026-08-04T10:36:27+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg"
+    },
+    {
+      "id": "652944a3f6b8b6668492a468853c3191",
+      "title": "54 des 55 failles de sécurité déposées par ce compte GitHub n'existaient pas",
+      "link": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "JFrog, une société spécialisée dans la sécurité de la chaîne logicielle, a passé au crible les 55 vulnérabilités déposées par un seul compte GitHub. Cinquante-quatre étaient entièrement fabriquées, une seule décrivait...",
+      "published": "2026-08-04T10:17:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas-1.png"
+    },
+    {
+      "id": "8e1266dc39028932dadfa1573d4457af",
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undoc...",
+      "published": "2026-08-04T09:03:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg"
+    },
     {
       "id": "decafb6e73735f431d8c95378c2634fd",
       "title": "WAPT Server (CVE-2026-33591) : une faille permet de contourner l’authentification",
@@ -163,46 +213,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
     },
     {
-      "id": "f94b8ce333bce31122560f8a1ce391b9",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys...",
-      "published": "2026-08-03T10:49:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg"
-    },
-    {
-      "id": "77ad0586937191ca53aa2e75c1e1815a",
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email add...",
-      "published": "2026-08-03T09:13:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg"
-    },
-    {
-      "id": "41c9cc8609e18a64d5345adf9dffa7f6",
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulle...",
-      "published": "2026-08-03T08:05:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
-    },
-    {
-      "id": "2b07cafa4cea0c1c86e33c7e358afbaa",
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 aff...",
-      "published": "2026-08-03T06:41:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
-    },
-    {
       "id": "9af79bd2467009d91360ee58743a1ab7",
       "title": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
       "link": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -313,41 +323,41 @@
       "image": ""
     },
     {
-      "id": "8074f2f7291bfac840cfbc664e10ea32",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (24 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0930/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à ...",
-      "published": "2026-07-24T00:00:00+00:00",
+      "id": "62b5aac6d032fd82bc4392f4e83b9a09",
+      "title": "Multiples vulnérabilités dans Samba (28 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0939/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contourneme...",
+      "published": "2026-07-28T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "8f452ca1aaf8e3474208da81b4dd5a04",
-      "title": "Multiples vulnérabilités dans les produits ESET (24 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-      "published": "2026-07-24T00:00:00+00:00",
+      "id": "39ebb59475eb1aed869fb54f3235b76e",
+      "title": "Vulnérabilité dans Traefik (27 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0936/",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-07-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "015509d95fb1b30562b89eac80240108",
-      "title": "Multiples vulnérabilités dans les produits IBM (24 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-07-24T00:00:00+00:00",
+      "id": "df6640a8f4817688d9b6be02e2af27d2",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (27 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0937/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un probl...",
+      "published": "2026-07-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "cfa7c5567644d6b0b17b94814019b61d",
-      "title": "Vulnérabilité dans les produits Moxa (24 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0931/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "published": "2026-07-24T00:00:00+00:00",
+      "id": "b3115aacd2ed4ba9b441c1428e8e38e5",
+      "title": "Multiples vulnérabilités dans GLPI (27 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0935/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et une injection SQL (SQLi).",
+      "published": "2026-07-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
