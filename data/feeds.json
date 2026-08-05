@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-05T02:09:21.707501+00:00",
-  "count": 42,
+  "last_updated": "2026-08-05T08:29:55.224385+00:00",
+  "count": 43,
   "articles": [
+    {
+      "id": "ce705f1b7809cb055200aafe3c65afb3",
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users....",
+      "published": "2026-08-05T05:47:19+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg"
+    },
+    {
+      "id": "7c63977c466ba50c999ef9c04c6b2e4a",
+      "title": "Un développeur fait tourner les cinématiques de Command & Conquer sur un Atari ST de 1985",
+      "link": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Jonas Eschenburg se tape un petit délire cet été, en portant Command & Conquer sur Atari ST, et il vient de s'occuper des cinématiques du jeu, le tout sur une machine équipée d'un Motorola 68000 cadencé à 8 MHz. Le mê...",
+      "published": "2026-08-05T05:41:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985-1.webp"
+    },
+    {
+      "id": "a969195c7e1934b7adaa2720a92a4735",
+      "title": "Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023 sur vos VMs",
+      "link": "https://www.it-connect.fr/secure-boot-proxmox-certificats-uefi-2023/",
+      "summary": "Vos VM Proxmox affichent un avertissement Secure Boot ? Inscrivez les certificats UEFI Microsoft 2023 côté Proxmox VE et côté Windows, pas à pas. Le post Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023...",
+      "published": "2026-08-05T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "4d039509ce261efe4c8958f065641a21",
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
@@ -223,16 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg"
     },
     {
-      "id": "0e432ce8d1dd7465b61116b6910257e7",
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three at...",
-      "published": "2026-08-03T16:24:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg"
-    },
-    {
       "id": "fb1a206534125f06b185bbdc978fd0d2",
       "title": "Qu’est-ce qu’un WAF ? Principes et mise en pratique",
       "link": "https://www.it-connect.fr/waf-web-application-firewall-debutant/",
@@ -308,16 +328,6 @@
       "link": "https://www.it-connect.fr/whatsapp-web-appels-audio-video-chiffres-navigateur/",
       "summary": "Les appels audio et vidéo sont désormais intégrés à WhatsApp Web, chiffrés de bout en bout, sans installer d'application. Une nouveauté attendue. Le post WhatsApp : les appels audio et vidéo chiffrés arrivent dans vot...",
       "published": "2026-07-30T21:02:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8f9a8afba78ecdc285c56646b5acc1d8",
-      "title": "Copilot pour Word : ce ver IA se propage tout seul de document en document",
-      "link": "https://www.it-connect.fr/copilot-word-ver-ia-auto-propage-documents/",
-      "summary": "Un chercheur a démontré un ver caché en texte blanc dans un document Word. Copilot le recopie dans les fichiers qu'il rédige, et la faille reste exploitable. Le post Copilot pour Word : ce ver IA se propage tout seul ...",
-      "published": "2026-07-30T07:24:55+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
