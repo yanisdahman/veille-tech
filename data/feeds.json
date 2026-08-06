@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-05T19:24:33.870152+00:00",
+  "last_updated": "2026-08-06T02:13:13.585926+00:00",
   "count": 45,
   "articles": [
+    {
+      "id": "f85ba1c029033d372b26398b8ec473bb",
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "published": "2026-08-05T23:00:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b6a6dc60962683a1208f7aa82cfb9b61",
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victim...",
+      "published": "2026-08-05T21:53:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fd790f3a07c1fcbdc27e501a969dcbc3",
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "published": "2026-08-05T19:55:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "793f85176417410bb494e2a36bba2b6f",
       "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
@@ -146,7 +176,7 @@
       "id": "dd77244512b33b28390ff325da341bef",
       "title": "OpenAI pousse trois nouveaux outils dans les écoles, en pleine épidémie de triche à l'IA",
       "link": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "OpenAI a présenté trois nouveaux modules destinés à l'enseignement, un pour les professeurs du primaire et du secondaire, un pour ceux du supérieur, et un dernier pour les étudiants eux-mêmes. Le premier passe par Cha...",
+      "summary": "OpenAI lance trois modules éducatifs via ChatGPT for Teachers, gratuit pour les enseignants américains vérifiés",
       "published": "2026-08-05T09:31:53+00:00",
       "source": "Korben",
       "category": "outils",
@@ -156,7 +186,7 @@
       "id": "dc910aa2dca1c8253426f337e186c963",
       "title": "Pendant un test de sécurité, le modèle d'OpenAI a piraté un vrai site sans le savoir",
       "link": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "OpenAI a publié le détail de deux incidents survenus pendant des évaluations de sécurité confiées à des laboratoires extérieurs. Le plus notable des deux lui a été signalé le 29 juillet par Irregular, une société qui ...",
+      "summary": "Le 29 juillet, un modèle d'OpenAI a compromis un vrai site pendant un capture the flag mal configuré. Un modèle Claude a connu le même incident.",
       "published": "2026-08-05T08:58:35+00:00",
       "source": "Korben",
       "category": "outils",
@@ -166,7 +196,7 @@
       "id": "7c63977c466ba50c999ef9c04c6b2e4a",
       "title": "Un développeur fait tourner les cinématiques de Command & Conquer sur un Atari ST de 1985",
       "link": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Jonas Eschenburg se tape un petit délire cet été, en portant Command & Conquer sur Atari ST, et il vient de s'occuper des cinématiques du jeu, le tout sur une machine équipée d'un Motorola 68000 cadencé à 8 MHz. Le mê...",
+      "summary": "Jonas Eschenburg a créé le codec STV pour afficher les cinématiques de Command & Conquer sur un Atari ST à 8 MHz. Code sous licence GPL sur GitHub.",
       "published": "2026-08-05T05:41:51+00:00",
       "source": "Korben",
       "category": "outils",
@@ -213,40 +243,10 @@
       "image": ""
     },
     {
-      "id": "0015a35012bf513c981ad21f41827969",
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-      "published": "2026-08-04T19:03:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "20ab94ddb628babe9f6561162025b53f",
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
-      "published": "2026-08-04T18:50:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "31951776f01dc78fd21e51c7352213da",
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-      "published": "2026-08-04T15:24:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "652944a3f6b8b6668492a468853c3191",
       "title": "54 des 55 failles de sécurité déposées par ce compte GitHub n'existaient pas",
       "link": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "JFrog, une société spécialisée dans la sécurité de la chaîne logicielle, a passé au crible les 55 vulnérabilités déposées par un seul compte GitHub. Cinquante-quatre étaient entièrement fabriquées, une seule décrivait...",
+      "summary": "JFrog a analysé 55 CVE déposées par un même compte GitHub : 54 étaient inventées, dont six contre SQLite notées jusqu'à 9,8/10.",
       "published": "2026-08-04T10:17:36+00:00",
       "source": "Korben",
       "category": "outils",
@@ -286,7 +286,7 @@
       "id": "9af79bd2467009d91360ee58743a1ab7",
       "title": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
       "link": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le 30 juillet, un attaquant a vidé 1 196 adresses Bitcoin en 41 minutes. Un peu plus de 1 082 bitcoins, environ 70 millions de dollars. Aucune des victimes n'avait cliqué sur quoi que ce soit. Elles avaient acheté un ...",
+      "summary": "Faille dans le firmware Coldcard 4.0.0 de Coinkite : 1 082 bitcoins volés le 30 juillet sur 1 196 adresses. Firmware correctif publié, seeds à regénérer.",
       "published": "2026-08-03T06:01:20+00:00",
       "source": "Korben",
       "category": "outils",
