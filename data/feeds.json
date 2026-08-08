@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-08T12:39:42.228322+00:00",
+  "last_updated": "2026-08-08T18:32:05.494478+00:00",
   "count": 42,
   "articles": [
+    {
+      "id": "e64368097dfbaea66ecc71a5913cfb30",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+      "published": "2026-08-08T14:16:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "f8b3b09c8a327a5305e8a3fa83356cf2",
       "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
@@ -208,16 +218,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
       "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
       "published": "2026-08-06T18:14:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d4be3a7580619c155d1ea0f9633e304e",
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-      "published": "2026-08-06T18:03:45+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
