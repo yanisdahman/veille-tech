@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-08-11T12:55:37.349883+00:00",
+  "last_updated": "2026-08-11T18:57:16.745467+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "bcb423298b0136259c0ce7d7e30b2a62",
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masqueradi...",
+      "published": "2026-08-11T18:36:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg"
+    },
+    {
+      "id": "c2bd137ad8dcd591180f1585fc167b35",
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "published": "2026-08-11T18:34:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "224d9d49b8b844bf5d76d290bcd9fa90",
+      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "published": "2026-08-11T18:26:03+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "28959bba3f7e66323de17b4b6737cffa",
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "2026-08-11T18:08:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7390fcd98996b9d00db77884889dd952",
+      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "2026-08-11T17:38:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "024d35b5de53b26a165995af25b8ac2d",
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The fla...",
+      "published": "2026-08-11T16:47:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg"
+    },
+    {
+      "id": "6c31ce0f8684fefdc4826d541eb617b1",
+      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosys...",
+      "published": "2026-08-11T16:35:27+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg"
+    },
+    {
+      "id": "1b22f14335a2c7809fd9c5ab7238cab8",
+      "title": "Des puzzles à en perdre la bulle",
+      "link": "https://korben.info/test-puzzle-bobble-everybubble-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Licence mythique des années 90, Bubble Bobble a eu le droit à différents spin-offs, dont le tout aussi mythique Puzzle Bobble, aussi appelé Bust-a-Move !...",
+      "published": "2026-08-11T16:06:38+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-puzzle-bobble-everybubble-avis/test-puzzle-bobble-everybubble-avis-1.webp"
+    },
+    {
+      "id": "a0d530cda2cce94cdac95be425c1f9de",
+      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
+      "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
+      "published": "2026-08-11T15:59:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e4c4d297bbd335897476aa417c5dee6e",
+      "title": "La meilleure distribution Linux n'existe pas - Voici la vôtre",
+      "link": "https://korben.info/meilleure-distribution-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La meilleure distribution Linux n'existe pas dans l'absolu. Un sélecteur maison pose vingt questions sur votre machine et votre usage, puis compare 35 distributions.",
+      "published": "2026-08-11T15:38:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/meilleure-distribution-linux/meilleure-distribution-linux-1.jpg"
+    },
+    {
+      "id": "06834b6890fc6a6d9177f8ffbcb1ac80",
+      "title": "Qui possède vos médias préférés ?",
+      "link": "https://korben.info/qui-possede-proprietaire-medias-extension.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une extension Chrome et Firefox affiche le propriétaire de chaque média référencé à côté de vos résultats Google, avec la chaîne de détention complète.",
+      "published": "2026-08-11T14:30:45+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/qui-possede-proprietaire-medias-extension/qui-possede-proprietaire-medias-extension-1.jpg"
+    },
+    {
+      "id": "9a56de71448c4e4a151c99c7a6aa7893",
+      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+      "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
+      "published": "2026-08-11T13:20:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ae07ff872cbbb68884ed278d7a9226f2",
+      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+      "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enfor...",
+      "published": "2026-08-11T13:15:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ec8973ee80222f58c2fe3bb8c4c8dcda",
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to i...",
+      "published": "2026-08-11T13:11:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg"
+    },
+    {
+      "id": "255d4cd62cce89272593e2790bac23bd",
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+      "published": "2026-08-11T13:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "cca41e3067dceaa28f5be9fc56a7666e",
       "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
@@ -73,16 +223,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hJoWr0m-Mx1rwaqZpbsdsQa5iSVY8J_jAnt0zKgBUlynOrS-NgEcINm3asfWZR-Ypx9y1iw28BOVud8sfaOQbiq4lmrvSnaZHUBlrkmkH9KXSPy4AXQkklS-AxG83dzpV8sSMj_uUDyVvZTgKs68EpYd18qHJTWF8s2NRaQIF80mh0e7mok6y0SqFi4/s1600/mcp-agent.jpg"
     },
     {
-      "id": "d406e0986ec57febb20390552591bb73",
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-      "published": "2026-08-11T09:47:06+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a7cb8dcdc331104774683a98d8f05a36",
       "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
       "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
@@ -103,26 +243,6 @@
       "image": "https://korben.info/ia-clone-projet-open-source/ia-clone-projet-open-source-1.jpg"
     },
     {
-      "id": "19c1b710b2c764e7bf10bb9e911514e1",
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipmen...",
-      "published": "2026-08-11T06:55:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_4KcVdL2QogjCtjg4yqVFuDNgQ9a8SYCzjsxUKME896DBso0Zwpvb8gH9T5gMPOqM2LU-A-7IyKOqKpKiXgLWAdiABf4RrVvAq9nNpDDC2TNppKWt9RKVXmNr2-Z9Y1kIBNVi8fETA6Aj6K2s_gU0Hmc8CKDi1q1wbqD9G9uUP5cPpuwk5h88mfD9I0/s1600/power-plant.jpg"
-    },
-    {
-      "id": "eb0592dc7de3a3842b47de2284ca1f34",
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downlo...",
-      "published": "2026-08-11T05:48:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg"
-    },
-    {
       "id": "34a5f50b5f8db8665667029724c66ca6",
       "title": "Transférer des fichiers entre un hôte et une VM Vagrant",
       "link": "https://www.it-connect.fr/vagrant-transferer-fichiers-hote-vm/",
@@ -133,66 +253,6 @@
       "image": ""
     },
     {
-      "id": "ba8d51a438891811e42c4985fa2c1e1f",
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-      "published": "2026-08-10T23:07:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7c360d162966af5fc381963c8a718e85",
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accoun...",
-      "published": "2026-08-10T21:12:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8c04857e030c81b1c4450190644bef26",
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "published": "2026-08-10T19:24:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6bd2c3678b0e5bfba1bf214e4f345ec3",
-      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-      "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
-      "published": "2026-08-10T17:42:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "444f9bfaf045d839fc2eaa652a170f0e",
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output ...",
-      "published": "2026-08-10T17:29:17+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg"
-    },
-    {
-      "id": "b3b1eb9d3918f6aa58dc1499b445cd82",
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift fr...",
-      "published": "2026-08-10T16:38:37+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg"
-    },
-    {
       "id": "d6125194acea7e1a479b84bd87fffc93",
       "title": "Quels comptes avez-vous vraiment sur le Web ? Trois outils OSINT pour le découvrir",
       "link": "https://www.it-connect.fr/osint-retrouver-ses-comptes-en-ligne/",
@@ -200,36 +260,6 @@
       "published": "2026-08-10T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cca11cd098a0c608af0fe3491bba0fb3",
-      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-      "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
-      "published": "2026-08-10T14:34:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "46cfb344ed566082a193963baba73a92",
-      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-      "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explai...",
-      "published": "2026-08-10T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "79a047b2a41e60be26c20d3105953226",
-      "title": "Member of The Com sent to prison for blackmail, sextortion",
-      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-      "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwid...",
-      "published": "2026-08-10T12:56:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -313,36 +343,6 @@
       "image": ""
     },
     {
-      "id": "dd77244512b33b28390ff325da341bef",
-      "title": "OpenAI pousse trois nouveaux outils dans les écoles, en pleine épidémie de triche à l'IA",
-      "link": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "OpenAI lance trois modules éducatifs via ChatGPT for Teachers, gratuit pour les enseignants américains vérifiés",
-      "published": "2026-08-05T09:31:53+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia-1.jpg"
-    },
-    {
-      "id": "dc910aa2dca1c8253426f337e186c963",
-      "title": "Pendant un test de sécurité, le modèle d'OpenAI a piraté un vrai site sans le savoir",
-      "link": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le 29 juillet, un modèle d'OpenAI a compromis un vrai site pendant un capture the flag mal configuré. Un modèle Claude a connu le même incident.",
-      "published": "2026-08-05T08:58:35+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir-1.jpg"
-    },
-    {
-      "id": "7c63977c466ba50c999ef9c04c6b2e4a",
-      "title": "Un développeur fait tourner les cinématiques de Command & Conquer sur un Atari ST de 1985",
-      "link": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Jonas Eschenburg a créé le codec STV pour afficher les cinématiques de Command & Conquer sur un Atari ST à 8 MHz. Code sous licence GPL sur GitHub.",
-      "published": "2026-08-05T05:41:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985-1.webp"
-    },
-    {
       "id": "a969195c7e1934b7adaa2720a92a4735",
       "title": "Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023 sur vos VMs",
       "link": "https://www.it-connect.fr/secure-boot-proxmox-certificats-uefi-2023/",
@@ -350,6 +350,26 @@
       "published": "2026-08-05T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "28f8ab9a659a34a9ef451df8e327ed04",
+      "title": "Vulnérabilité dans Mozilla Firefox pour Android (05 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0971/",
+      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox pour Android. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "published": "2026-08-05T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ded3fe0d0fb311b46900fb6a8743da54",
+      "title": "Multiples vulnérabilités dans HPE Aruba Networking EdgeConnect SD-WAN Orchestrator (05 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0969/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking EdgeConnect SD-WAN Orchestrator. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'i...",
+      "published": "2026-08-05T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -393,6 +413,46 @@
       "image": ""
     },
     {
+      "id": "f54dbbe9ca0ba14d947ed4ed86582bd7",
+      "title": "Multiples vulnérabilités dans LibreNMS (04 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0966/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injecti...",
+      "published": "2026-08-04T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e6de8285f70325458e5130e7ab64d584",
+      "title": "Multiples vulnérabilités dans les produits Tenable (04 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0962/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des don...",
+      "published": "2026-08-04T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8a8a6d0e7cbbe853bdfc85b2130cb37a",
+      "title": "Multiples vulnérabilités dans Traefik (04 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0964/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-08-04T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "50f6d2557a949816abf8ef18ec900702",
+      "title": "Multiples vulnérabilités dans Google Android (04 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0963/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-08-04T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "fb1a206534125f06b185bbdc978fd0d2",
       "title": "Qu’est-ce qu’un WAF ? Principes et mise en pratique",
       "link": "https://www.it-connect.fr/waf-web-application-firewall-debutant/",
@@ -400,46 +460,6 @@
       "published": "2026-08-03T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fa2be1dabc881e9852b46c0b68129bc8",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-033 (03 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-033/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-08-03T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e8197408863fbd652ecbccdc2b905a08",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (03 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0960/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des do...",
-      "published": "2026-08-03T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6c5c2d5044da4a1fe5e45b0ec4f7bcf5",
-      "title": "Multiples vulnérabilités dans Papercut (03 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0959/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "published": "2026-08-03T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "667de127de372918afaf01841b54f19e",
-      "title": "Vulnérabilité dans Microsoft Office (03 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0961/",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-08-03T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -460,26 +480,6 @@
       "published": "2026-07-31T07:02:59+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "679059d35cde6051855de40ad65201c9",
-      "title": "Multiples vulnérabilités dans les produits IBM (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0958/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-07-31T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fd968c83550143ad8881b3c4ac553547",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (31 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0957/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
-      "published": "2026-07-31T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
       "image": ""
     },
     {
