@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-10T18:52:18.070167+00:00",
+  "last_updated": "2026-08-11T01:22:58.429206+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ba8d51a438891811e42c4985fa2c1e1f",
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "published": "2026-08-10T23:07:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7c360d162966af5fc381963c8a718e85",
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accoun...",
+      "published": "2026-08-10T21:12:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8c04857e030c81b1c4450190644bef26",
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      "published": "2026-08-10T19:24:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "6bd2c3678b0e5bfba1bf214e4f345ec3",
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
@@ -96,7 +126,7 @@
       "id": "9d1e11a01a98e2a081d2b47040cd7ad8",
       "title": "Amazon installe une centrale à gaz de 7,65 gigawatts pour ses data centers",
       "link": "https://korben.info/amazon-installe-une-centrale-a-gaz-de-765-gigawatts-pour-ses-data-centers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le média Distilled a recoupé trois permis de construire déposés auprès des autorités texanes avec des images satellite montrant un défrichement démarré le 24 juillet. Amazon a confirmé derrière : le projet GW Ranch, d...",
+      "summary": "Le projet GW Ranch au Texas aligne 35 turbines à gaz, 1,8 GW de batteries et 750 MW de solaire, hors réseau ERCOT, avec un permis à 33 Mt de CO2 par an.",
       "published": "2026-08-10T12:43:54+00:00",
       "source": "Korben",
       "category": "outils",
@@ -203,16 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg"
     },
     {
-      "id": "e64368097dfbaea66ecc71a5913cfb30",
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "published": "2026-08-08T14:16:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f8b3b09c8a327a5305e8a3fa83356cf2",
       "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
       "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
@@ -231,26 +251,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s1600/css-bomb.jpg"
-    },
-    {
-      "id": "6278098620d93929faf346c244f6d6a2",
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-      "published": "2026-08-07T20:14:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8a6bf048fb5daa1c565de70f4464cdea",
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
-      "published": "2026-08-07T19:30:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "3761d2c1e1ed658152d9abdd82a653bd",
