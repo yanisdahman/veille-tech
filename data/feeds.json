@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-08-12T07:18:45.028631+00:00",
+  "last_updated": "2026-08-12T13:00:46.931846+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c6474ac5c05e977a75191901a6f13ae1",
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+      "published": "2026-08-12T12:25:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "59a029641a7359237fe85728972507b2",
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "published": "2026-08-12T11:21:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3f71dd316594037edf2559e9d26ea8ea",
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privil...",
+      "published": "2026-08-12T11:13:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
+    },
+    {
+      "id": "eeffb8d3cc7ff07c1b19fbc21c8ed66d",
+      "title": "Freenet-git - Le dépôt Git sans serveur",
+      "link": "https://korben.info/freenet-git-decentralise-routage-ml.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "freenet-git héberge des dépôts Git sur le réseau pair-à-pair Freenet, sans GitHub ni serveur à tenir, et voici comment publier le vôtre.",
+      "published": "2026-08-12T10:41:05+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/freenet-git-decentralise-routage-ml/freenet-git-decentralise-routage-ml-1.jpg"
+    },
+    {
+      "id": "20b8d8dc4a94f41c2a75c20f3cde9f7b",
+      "title": "OneDrive Photos - Ce que vous pouvez vraiment virer aujourd'hui",
+      "link": "https://korben.info/supprimer-onedrive-photos-windows-11.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Windows 11 a installé OneDrive Photos sans le demander et aucun bouton ne le désinstalle. Voici ce qui part vraiment, en PowerShell, et ce qui ne partira qu'avec OneDrive.",
+      "published": "2026-08-12T10:35:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/supprimer-onedrive-photos-windows-11/supprimer-onedrive-photos-windows-11-1.jpg"
+    },
+    {
+      "id": "c8e39ceaa58bd18575dfc2366a1960fa",
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "published": "2026-08-12T10:15:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "144498f58c759833001306e9ded55b0f",
+      "title": "Une carte SIM piégée et la borne de recharge exécute du code malveillant",
+      "link": "https://korben.info/carte-sim-malveillante-modem-iot-commandes-at.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une carte SIM hostile peut faire exécuter ses commandes au modem qui l'héberge. Sur 26 appareils testés, 9 acceptent, presque tous côté IoT.",
+      "published": "2026-08-12T09:50:57+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/carte-sim-malveillante-modem-iot-commandes-at/carte-sim-malveillante-modem-iot-commandes-at-1.jpg"
+    },
+    {
+      "id": "3def5a4d874f2439591461ab1a84ff63",
+      "title": "La Royal Navy et ses caméras de la Dynastie Ping",
+      "link": "https://korben.info/royal-navy-k3-scout-cameras-chinoises.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Les caméras des drones navals K3 Scout de la Royal Navy envoyaient des heartbeats vers une adresse en Chine. Le composant venait d'un sous-traitant.",
+      "published": "2026-08-12T09:37:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/royal-navy-k3-scout-cameras-chinoises/royal-navy-k3-scout-cameras-chinoises-1.jpg"
+    },
+    {
+      "id": "bd670d13fa76a11f9f46a7bcecc2f976",
+      "title": "Xodus - Vos jeux Xbox PC tourneront bientôt sur Linux / macOS",
+      "link": "https://korben.info/xodus-xbox-game-pass-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Xodus a fait sauter l'authentification Xbox, les licences et le chiffrement des paquets de jeu sur Linux. Reste le plus dur, faire tourner les services Xbox dans Wine.",
+      "published": "2026-08-12T09:06:25+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/xodus-xbox-game-pass-linux/xodus-xbox-game-pass-linux-1.png"
+    },
+    {
+      "id": "8af844781e7d7c46fde862afa017365f",
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9....",
+      "published": "2026-08-12T09:01:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
+    },
+    {
+      "id": "50ec25ae283ccd1915e0acbcf5692039",
+      "title": "Cloudflare Computer - Un ordinateur dans le cloud pour votre agent IA",
+      "link": "https://korben.info/cloudflare-computer-agent-ia-workspace.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Cloudflare Computer donne un système de fichiers persistant et un shell à votre agent IA. Le stockage tient dans le plan gratuit, l'exécution est payante.",
+      "published": "2026-08-12T08:54:39+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cloudflare-computer-agent-ia-workspace/cloudflare-computer-agent-ia-workspace-1.webp"
+    },
+    {
+      "id": "fed88948f6b3030d7db34a6c3229198d",
+      "title": "Chrome sécurise votre session dans une puce, Firefox dit non",
+      "link": "https://korben.info/chrome-dbsc-vol-cookie-session.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Chrome enferme la clé de votre session dans le TPM ou la Secure Enclave, et un cookie volé ne suffit plus. Rien à activer, mais Mozilla a dit non pour Firefox.",
+      "published": "2026-08-12T08:44:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/chrome-dbsc-vol-cookie-session/chrome-dbsc-vol-cookie-session-1.jpg"
+    },
+    {
+      "id": "0ae077590e9fc647b4736093e6cc2ceb",
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from syst...",
+      "published": "2026-08-12T08:04:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg"
+    },
+    {
+      "id": "298ce142810c92d5be4fb76afcb91456",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-5...",
+      "published": "2026-08-12T07:31:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg"
+    },
+    {
+      "id": "a0fb11cf9006bdf38e77280a282e32ec",
+      "title": "Diagram-design - Des schémas à vos couleurs",
+      "link": "https://korben.info/diagram-design-diagrammes-claude-code.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un skill pour Claude Code, Codex et Pi qui sort 27 types de schémas en HTML autonome, redessine vos fichiers draw.io et Mermaid, et reprend les couleurs de votre site.",
+      "published": "2026-08-12T07:07:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/diagram-design-diagrammes-claude-code/diagram-design-diagrammes-claude-code-1.png"
+    },
+    {
+      "id": "61c23acc3f30f870ab186a1cccd75473",
+      "title": "En train avec un vampire",
+      "link": "https://korben.info/avis-spooky-express-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Il y a quelques années je vous ai parlé d'un gros coup de cœur dans le style puzzle / énigme : A Monster's Expedition , créé par l'équipe de chez Draknek...",
+      "published": "2026-08-12T07:05:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/avis-spooky-express-test/avis-spooky-express-test-1.webp"
+    },
+    {
+      "id": "22c1bca42e6040587b51ebddf83d4f24",
+      "title": "Wayland-Wheeltani - L'autoscroll qui survit au débranchement",
+      "link": "https://korben.info/wayland-wheeltani-autoscroll-clic-molette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Wayland-Wheeltani ramène l'autoscroll au clic molette sous Wayland, avec un appairage de souris qui survit aux changements de port et au débranchement.",
+      "published": "2026-08-12T06:57:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/wayland-wheeltani-autoscroll-clic-molette/wayland-wheeltani-autoscroll-clic-molette-1.jpg"
+    },
+    {
+      "id": "0dd7defdb7b1059b047f09c8c3c4390d",
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnera...",
+      "published": "2026-08-12T06:41:38+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
+    },
+    {
+      "id": "a1e4b6c657b0b828d9e2cdc9d44c981e",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, ...",
+      "published": "2026-08-12T06:15:58+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1600/cisco-powerhouse.jpg"
+    },
     {
       "id": "fbc59e5ce8b354e58f97cc6530a729b3",
       "title": "Web-Check : l’outil OSINT tout-en-un pour analyser un site web",
@@ -123,136 +313,6 @@
       "image": ""
     },
     {
-      "id": "7390fcd98996b9d00db77884889dd952",
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "2026-08-11T17:38:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "024d35b5de53b26a165995af25b8ac2d",
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The fla...",
-      "published": "2026-08-11T16:47:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg"
-    },
-    {
-      "id": "6c31ce0f8684fefdc4826d541eb617b1",
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosys...",
-      "published": "2026-08-11T16:35:27+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg"
-    },
-    {
-      "id": "1b22f14335a2c7809fd9c5ab7238cab8",
-      "title": "Des puzzles à en perdre la bulle",
-      "link": "https://korben.info/test-puzzle-bobble-everybubble-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Puzzle Bobble Everybubble! sur Steam et Nintendo Switch : plus de 100 niveaux, mode histoire jouable à 4, 1v1 en ligne, 2v2 et collab Space Invaders.",
-      "published": "2026-08-11T16:06:38+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-puzzle-bobble-everybubble-avis/test-puzzle-bobble-everybubble-avis-1.webp"
-    },
-    {
-      "id": "a0d530cda2cce94cdac95be425c1f9de",
-      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-      "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
-      "published": "2026-08-11T15:59:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e4c4d297bbd335897476aa417c5dee6e",
-      "title": "La meilleure distribution Linux n'existe pas - Voici la vôtre",
-      "link": "https://korben.info/meilleure-distribution-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La meilleure distribution Linux n'existe pas dans l'absolu. Un sélecteur maison pose vingt questions sur votre machine et votre usage, puis compare 35 distributions.",
-      "published": "2026-08-11T15:38:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/meilleure-distribution-linux/meilleure-distribution-linux-1.jpg"
-    },
-    {
-      "id": "06834b6890fc6a6d9177f8ffbcb1ac80",
-      "title": "Qui possède vos médias préférés ?",
-      "link": "https://korben.info/qui-possede-proprietaire-medias-extension.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Une extension Chrome et Firefox affiche le propriétaire de chaque média référencé à côté de vos résultats Google, avec la chaîne de détention complète.",
-      "published": "2026-08-11T14:30:45+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/qui-possede-proprietaire-medias-extension/qui-possede-proprietaire-medias-extension-1.jpg"
-    },
-    {
-      "id": "9a56de71448c4e4a151c99c7a6aa7893",
-      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
-      "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
-      "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
-      "published": "2026-08-11T13:20:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ec8973ee80222f58c2fe3bb8c4c8dcda",
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to i...",
-      "published": "2026-08-11T13:11:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg"
-    },
-    {
-      "id": "a7fd306123297a6cdf16122691f6240d",
-      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-      "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-      "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enou...",
-      "published": "2026-08-11T12:05:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg"
-    },
-    {
-      "id": "68315ee4edc07b7955cd863685d31322",
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is...",
-      "published": "2026-08-11T12:04:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1-B4O1t_ddtTQg7WCfQLhdWxNygkI3C3DHfugd_0ogZbFCixAf-J9IffSq3KuSSPDofAEj5wNrVHlzRx3qbj7cPQhbBfnvOXOAJxjTSJ_7rdtZe3ne_R4Yz7Gv_7VrNH8CyB8psfzpejy9EbohuyYW3G1pg4FChDRVv8WPxp8B449rGIXnS4WSoD5JI/s1600/firefox.jpg"
-    },
-    {
-      "id": "2631d1ffeaefcc96200f01593bec965a",
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-      "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboardi...",
-      "published": "2026-08-11T11:35:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIGgelUshBcG56Nc5uWqBbhQwtUxWtNgSIRTCiJXZoJtkuTWeXEV0KiWRje-UhGGnrvf6wNOmmBGQ7yAxKNigAuJE00RicY4ris0k02Dd_1ch7_RcSM2aJtGvgf4miSazvFMNEqTmVDY3nlDT1zPwg5vkafqzMwbkFRZ1kO4xU2mzZgfxAEUTM0zObjGE/s1600/nk.jpg"
-    },
-    {
-      "id": "ce36b185c57766689d2753614a370ff3",
-      "title": "Coder avec l'IA sans pomper le projet d'un autre ?",
-      "link": "https://korben.info/ia-clone-projet-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Terry Godier a retiré son app codée avec Claude, trop proche d'un projet open source. Ce qu'il faut exiger de son agent IA et vérifier avant de publier.",
-      "published": "2026-08-11T07:29:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ia-clone-projet-open-source/ia-clone-projet-open-source-1.jpg"
-    },
-    {
       "id": "34a5f50b5f8db8665667029724c66ca6",
       "title": "Transférer des fichiers entre un hôte et une VM Vagrant",
       "link": "https://www.it-connect.fr/vagrant-transferer-fichiers-hote-vm/",
@@ -273,56 +333,6 @@
       "image": ""
     },
     {
-      "id": "9d1e11a01a98e2a081d2b47040cd7ad8",
-      "title": "Amazon installe une centrale à gaz de 7,65 gigawatts pour ses data centers",
-      "link": "https://korben.info/amazon-installe-une-centrale-a-gaz-de-765-gigawatts-pour-ses-data-centers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le projet GW Ranch au Texas aligne 35 turbines à gaz, 1,8 GW de batteries et 750 MW de solaire, hors réseau ERCOT, avec un permis à 33 Mt de CO2 par an.",
-      "published": "2026-08-10T12:43:54+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/amazon-installe-une-centrale-a-gaz-de-765-gigawatts-pour-ses-data-centers/amazon-installe-une-centrale-a-gaz-de-765-gigawatts-pour-ses-data-centers-1.jpg"
-    },
-    {
-      "id": "189f7b5498cef0109c85bff2e8cc4439",
-      "title": "Votre média center maison banni des nouveaux Fire TV Stick",
-      "link": "https://korben.info/fire-tv-stick-jellyfin-kodi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le Fire TV Stick 4K Select tourne sous Vega OS, sans Kodi ni client Jellyfin. Et Amazon annonce que tous les futurs sticks suivront le même chemin.",
-      "published": "2026-08-10T09:35:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/fire-tv-stick-jellyfin-kodi/fire-tv-stick-jellyfin-kodi-1.webp"
-    },
-    {
-      "id": "c473dda87e3afd1ea0bcffc233c94223",
-      "title": "Linux 7.2 - L'IA relit le code du noyau et Torvalds trouve la note salée",
-      "link": "https://korben.info/linux-7-2-torvalds-code-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Linus Torvalds publie Linux 7.2-rc7 avec plus de 400 correctifs et attribue ce volume inhabituel à la relecture du noyau par des outils IA.",
-      "published": "2026-08-10T09:06:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linux-7-2-torvalds-code-ia/linux-7-2-torvalds-code-ia-1.jpg"
-    },
-    {
-      "id": "7950d6be89626cdb87d929a22f2921ae",
-      "title": "GeForce NOW planque un vrai Windows derrière vos jeux",
-      "link": "https://korben.info/geforce-now-acces-bureau-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un moddeur a sorti l'interface de GeForce NOW pour tomber sur le bureau Windows du serveur Nvidia. Ce qui marche, ce qui coince, et ce que dit le règlement.",
-      "published": "2026-08-10T08:50:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/geforce-now-acces-bureau-windows/geforce-now-acces-bureau-windows-1.png"
-    },
-    {
-      "id": "3761d2c1e1ed658152d9abdd82a653bd",
-      "title": "CHERRY sort deux lecteurs de carte à puce qui marchent sous Linux sans pilote propriétaire",
-      "link": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "CHERRY lance le Smart Board 1150 à 49,99 euros et le Smart Terminal ST-1150 à 34,99 euros, compatibles CCID et pcsc-lite sous Linux et macOS.",
-      "published": "2026-08-07T07:50:30+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire-1.jpg"
-    },
-    {
       "id": "8456bfd4a4d8a19c8aeac49f2243cb68",
       "title": "Nmap : Scanner un réseau isolé via un tunnel SSH",
       "link": "https://www.it-connect.fr/nmap-scan-reseau-isole-tunnel-ssh-proxychains/",
@@ -333,14 +343,54 @@
       "image": ""
     },
     {
-      "id": "9d513acb426d6517c4c43a69d6d43c1a",
-      "title": "Un modèle de Meta a piraté une entreprise pendant un test, et c'est le troisième cas en une semaine",
-      "link": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Meta confirme que son modèle Muse Spark 1.1 a compromis les systèmes d'une société tierce lors d'un test mené par Irregular, après OpenAI et Anthropic.",
-      "published": "2026-08-06T08:19:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine-1.webp"
+      "id": "74ddbefacc376ee3afd246826a4d57b9",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (07 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0981/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et un déni de service.",
+      "published": "2026-08-07T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ecc464e7efacfde7bdaf7640fbacb3a7",
+      "title": "Multiples vulnérabilités dans Progress Telerik (07 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0977/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une a...",
+      "published": "2026-08-07T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2c72ec57db08cf081f4b6fe77530b503",
+      "title": "Multiples vulnérabilités dans les produits IBM (07 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0986/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-08-07T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a18936babda494e558db55e482c805be",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (07 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0982/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de ...",
+      "published": "2026-08-07T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "19af3d2d2c7f704ee5744a4be5fdc682",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (07 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0984/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'édit...",
+      "published": "2026-08-07T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
       "id": "dcc815c0efd79c5a6ba39fa1218fbe2b",
@@ -353,6 +403,36 @@
       "image": ""
     },
     {
+      "id": "1e2e71d68fe239c6cfc319512d8a4fa4",
+      "title": "Multiples vulnérabilités dans KeyCloak (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0976/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans KeyCloak. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentia...",
+      "published": "2026-08-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f0153e6e778a1da5761cc716e3ab574d",
+      "title": "Multiples vulnérabilités dans les produits Wallix (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0974/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Wallix. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
+      "published": "2026-08-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5d6cddd4908e41bc9fe91d2eecc3ce20",
+      "title": "Multiples vulnérabilités dans les produits Cisco (06 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0975/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une...",
+      "published": "2026-08-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "a969195c7e1934b7adaa2720a92a4735",
       "title": "Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023 sur vos VMs",
       "link": "https://www.it-connect.fr/secure-boot-proxmox-certificats-uefi-2023/",
@@ -360,26 +440,6 @@
       "published": "2026-08-05T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "28f8ab9a659a34a9ef451df8e327ed04",
-      "title": "Vulnérabilité dans Mozilla Firefox pour Android (05 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0971/",
-      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox pour Android. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "published": "2026-08-05T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ded3fe0d0fb311b46900fb6a8743da54",
-      "title": "Multiples vulnérabilités dans HPE Aruba Networking EdgeConnect SD-WAN Orchestrator (05 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0969/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking EdgeConnect SD-WAN Orchestrator. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'i...",
-      "published": "2026-08-05T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -400,66 +460,6 @@
       "published": "2026-08-04T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8f3becad1fe5de4a6d136153d459d27a",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (04 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0967/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-08-04T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fd28190ad5a740b19c233652892b6104",
-      "title": "Vulnérabilité dans les produits Check Point (04 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0965/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "published": "2026-08-04T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f54dbbe9ca0ba14d947ed4ed86582bd7",
-      "title": "Multiples vulnérabilités dans LibreNMS (04 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0966/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injecti...",
-      "published": "2026-08-04T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e6de8285f70325458e5130e7ab64d584",
-      "title": "Multiples vulnérabilités dans les produits Tenable (04 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0962/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des don...",
-      "published": "2026-08-04T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8a8a6d0e7cbbe853bdfc85b2130cb37a",
-      "title": "Multiples vulnérabilités dans Traefik (04 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0964/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-08-04T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "50f6d2557a949816abf8ef18ec900702",
-      "title": "Multiples vulnérabilités dans Google Android (04 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0963/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-08-04T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
       "image": ""
     },
     {
