@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-13T01:42:16.732353+00:00",
+  "last_updated": "2026-08-13T07:21:05.243550+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "96382235684b780d18d99bcac486d2ce",
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which...",
+      "published": "2026-08-13T06:09:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
+    },
+    {
+      "id": "8f27f696fe227029acedd432064d7159",
+      "title": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin",
+      "link": "https://korben.info/votre-identite-vaut-de-lor.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "-- Article en partenariat avec Surfshark -- Vous croyez que votre identité vous appartient ? Pffff, noob. Qu'elle est en sécurité parce que vous avez un mot de passe compliqué et que vous ne cliquez pas sur les liens ...",
+      "published": "2026-08-13T06:03:25+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/votre-identite-vaut-de-lor/votre-identite-vaut-de-lor-1.webp"
+    },
+    {
+      "id": "c2c6dd49e4205858f5d6ec9fa3275ce2",
+      "title": "Arcane : une solution open source très complète pour gérer ses conteneurs Docker",
+      "link": "https://www.it-connect.fr/tuto-arcane-docker-gestion-conteneurs/",
+      "summary": "Découvrez Arcane, une solution open source et gratuite pour gérer vos conteneurs Docker : de l'installation à la prise en main des fonctionnalités. Le post Arcane : une solution open source très complète pour gérer se...",
+      "published": "2026-08-13T04:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "2563ad23fd712a902e80b98e4be4ac9f",
       "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
@@ -273,16 +303,6 @@
       "image": "https://korben.info/avis-spooky-express-test/avis-spooky-express-test-1.webp"
     },
     {
-      "id": "22c1bca42e6040587b51ebddf83d4f24",
-      "title": "Wayland-Wheeltani - L'autoscroll qui survit au débranchement",
-      "link": "https://korben.info/wayland-wheeltani-autoscroll-clic-molette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Wayland-Wheeltani ramène l'autoscroll au clic molette sous Wayland, avec un appairage de souris qui survit aux changements de port et au débranchement.",
-      "published": "2026-08-12T06:57:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/wayland-wheeltani-autoscroll-clic-molette/wayland-wheeltani-autoscroll-clic-molette-1.jpg"
-    },
-    {
       "id": "0dd7defdb7b1059b047f09c8c3c4390d",
       "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
       "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
@@ -291,16 +311,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
-    },
-    {
-      "id": "a1e4b6c657b0b828d9e2cdc9d44c981e",
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, ...",
-      "published": "2026-08-12T06:15:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1600/cisco-powerhouse.jpg"
     },
     {
       "id": "fbc59e5ce8b354e58f97cc6530a729b3",
@@ -468,16 +478,6 @@
       "link": "https://www.it-connect.fr/waf-web-application-firewall-debutant/",
       "summary": "C'est quoi un WAF (Web Application Firewall) ? Découvrez son rôle face aux cyberattaques, les solutions open source et déployez le vôtre avec ModSecurity. Le post Qu’est-ce qu’un WAF ? Principes et mise en pratique a ...",
       "published": "2026-08-03T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f093c293add98a872b51935bb71e32d7",
-      "title": "Test du DXRacer Martian, le fauteuil gaming électrique haut de gamme",
-      "link": "https://www.it-connect.fr/test-dxracer-martian/",
-      "summary": "Test du DXRacer Martian, le fauteuil gaming haut de gamme : dossier motorisé, support lombaire, assise chauffante et ventilée, et confort au quotidien. Le post Test du DXRacer Martian, le fauteuil gaming électrique ha...",
-      "published": "2026-08-01T05:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
