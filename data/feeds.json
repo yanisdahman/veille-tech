@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-08-13T07:21:05.243550+00:00",
+  "last_updated": "2026-08-13T13:01:37.625775+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "89e7fbeee8f01290b9051bee40d640e6",
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+      "published": "2026-08-13T11:50:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fb42016ad949224503ce0ec2fc9e2f6c",
+      "title": "Grok Bot débarque en bêta",
+      "link": "https://korben.info/grok-bot-debarque-en-beta.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "SpaceXAI, la maison d'Elon Musk née de la fusion entre SpaceX et xAI, a mis en ligne mardi la bêta de Grok Bot. L'outil installe des agents IA sur une machine distante qui leur appartient, et ces agents continuent d'a...",
+      "published": "2026-08-13T09:01:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/grok-bot-debarque-en-beta/grok-bot-debarque-en-beta-1.jpg"
+    },
+    {
+      "id": "f4d8f1a8305e60ec7953ac01d7ef7444",
+      "title": "Claude va glisser un filigrane invisible dans tous ses textes",
+      "link": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Anthropic a annoncé que ses modèles Claude allaient intégrer un filigrane invisible directement dans les textes qu'ils produisent. Vous ne le verrez pas, il ne change ni le sens ni la qualité de la réponse, mais il es...",
+      "published": "2026-08-13T08:10:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes-1.jpg"
+    },
+    {
+      "id": "b00b99d0f117e768b3628aa8a3dfc86d",
+      "title": "Montez votre premier cyberdeck à l'aide de ce PDF gratuit",
+      "link": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le numéro 168 du magazine officiel Raspberry Pi consacre son dossier aux cyberdecks et met ses 132 pages en PDF gratuit, tutoriel de montage compris.",
+      "published": "2026-08-13T08:06:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit-1.jpg"
+    },
+    {
+      "id": "86575f79658c7b8ef724d08ddcbed519",
+      "title": "33 secondes pour lancer un MP3 ? C'est pas VLC, c'est Windows Defender",
+      "link": "https://korben.info/vlc-lent-windows-defender-cache-plugins.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "33 secondes pour lancer un MP3 sous Windows 11 ? Microsoft Defender a mis le cache de plugins de VLC en quarantaine, et le raccourci qui répare est déjà là.",
+      "published": "2026-08-13T07:58:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vlc-lent-windows-defender-cache-plugins/vlc-lent-windows-defender-cache-plugins-1.jpg"
+    },
+    {
+      "id": "94ee13a2bbb145302489332c0ef48068",
+      "title": "ShieldBreak - C'est Windows Defender qui tient la porte grande ouverte",
+      "link": "https://korben.info/shieldbreak-zero-day-defender-microsoft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un exploit publié sans prévenir détourne Microsoft Defender pour obtenir les droits SYSTEM sur un Windows à jour. Aucun correctif à installer pour l'instant.",
+      "published": "2026-08-13T07:47:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/shieldbreak-zero-day-defender-microsoft/shieldbreak-zero-day-defender-microsoft-1.jpg"
+    },
+    {
+      "id": "a02295b40a203aa9a121c03c793f9eae",
+      "title": "Vos streams Twitch nourrissent l'IA d'Amazon - La case à décocher",
+      "link": "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Twitch laisse Amazon entraîner ses modèles d'IA générative sur le contenu de votre chaîne, et la case est cochée par défaut. Voici où la couper.",
+      "published": "2026-08-13T07:38:05+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/twitch-desactiver-entrainement-ia-amazon/twitch-desactiver-entrainement-ia-amazon-1.png"
+    },
     {
       "id": "96382235684b780d18d99bcac486d2ce",
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
@@ -163,16 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
     },
     {
-      "id": "59a029641a7359237fe85728972507b2",
-      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
-      "published": "2026-08-12T11:21:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "3f71dd316594037edf2559e9d26ea8ea",
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
       "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
@@ -213,26 +273,6 @@
       "image": "https://korben.info/carte-sim-malveillante-modem-iot-commandes-at/carte-sim-malveillante-modem-iot-commandes-at-1.jpg"
     },
     {
-      "id": "3def5a4d874f2439591461ab1a84ff63",
-      "title": "La Royal Navy et ses caméras de la Dynastie Ping",
-      "link": "https://korben.info/royal-navy-k3-scout-cameras-chinoises.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Les caméras des drones navals K3 Scout de la Royal Navy envoyaient des heartbeats vers une adresse en Chine. Le composant venait d'un sous-traitant.",
-      "published": "2026-08-12T09:37:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/royal-navy-k3-scout-cameras-chinoises/royal-navy-k3-scout-cameras-chinoises-1.jpg"
-    },
-    {
-      "id": "bd670d13fa76a11f9f46a7bcecc2f976",
-      "title": "Xodus - Vos jeux Xbox PC tourneront bientôt sur Linux / macOS",
-      "link": "https://korben.info/xodus-xbox-game-pass-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Xodus a fait sauter l'authentification Xbox, les licences et le chiffrement des paquets de jeu sur Linux. Reste le plus dur, faire tourner les services Xbox dans Wine.",
-      "published": "2026-08-12T09:06:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/xodus-xbox-game-pass-linux/xodus-xbox-game-pass-linux-1.png"
-    },
-    {
       "id": "8af844781e7d7c46fde862afa017365f",
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
       "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
@@ -241,26 +281,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
-    },
-    {
-      "id": "50ec25ae283ccd1915e0acbcf5692039",
-      "title": "Cloudflare Computer - Un ordinateur dans le cloud pour votre agent IA",
-      "link": "https://korben.info/cloudflare-computer-agent-ia-workspace.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Cloudflare Computer donne un système de fichiers persistant et un shell à votre agent IA. Le stockage tient dans le plan gratuit, l'exécution est payante.",
-      "published": "2026-08-12T08:54:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cloudflare-computer-agent-ia-workspace/cloudflare-computer-agent-ia-workspace-1.webp"
-    },
-    {
-      "id": "fed88948f6b3030d7db34a6c3229198d",
-      "title": "Chrome sécurise votre session dans une puce, Firefox dit non",
-      "link": "https://korben.info/chrome-dbsc-vol-cookie-session.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Chrome enferme la clé de votre session dans le TPM ou la Secure Enclave, et un cookie volé ne suffit plus. Rien à activer, mais Mozilla a dit non pour Firefox.",
-      "published": "2026-08-12T08:44:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/chrome-dbsc-vol-cookie-session/chrome-dbsc-vol-cookie-session-1.jpg"
     },
     {
       "id": "0ae077590e9fc647b4736093e6cc2ceb",
@@ -281,26 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg"
-    },
-    {
-      "id": "a0fb11cf9006bdf38e77280a282e32ec",
-      "title": "Diagram-design - Des schémas à vos couleurs",
-      "link": "https://korben.info/diagram-design-diagrammes-claude-code.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un skill pour Claude Code, Codex et Pi qui sort 27 types de schémas en HTML autonome, redessine vos fichiers draw.io et Mermaid, et reprend les couleurs de votre site.",
-      "published": "2026-08-12T07:07:55+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/diagram-design-diagrammes-claude-code/diagram-design-diagrammes-claude-code-1.png"
-    },
-    {
-      "id": "61c23acc3f30f870ab186a1cccd75473",
-      "title": "En train avec un vampire",
-      "link": "https://korben.info/avis-spooky-express-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Spooky Express, le puzzle game de Draknek & Friends (A Monster's Expedition) : tracer des rails sans croisement, sur Steam, Itch.io, iOS et Android.",
-      "published": "2026-08-12T07:05:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/avis-spooky-express-test/avis-spooky-express-test-1.webp"
     },
     {
       "id": "0dd7defdb7b1059b047f09c8c3c4390d",
