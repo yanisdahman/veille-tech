@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-08-14T12:58:10.985538+00:00",
+  "last_updated": "2026-08-14T18:48:27.633330+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d35b2e86b79bbb333496c672d3533fd8",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank custome...",
+      "published": "2026-08-14T18:04:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7eafe80086db5bfb2574e6e2e4b8f4ca",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+      "published": "2026-08-14T14:59:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0cddbce6b9751cc458cc12a55ebf09f",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover ...",
+      "published": "2026-08-14T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a6dea2af6b63019303a254853ed895f6",
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+      "published": "2026-08-14T13:45:18+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "8b920d1b3f612c593bcfba81e8e7404e",
       "title": "Shell investigates 'potential incident' after Clop data theft claims",
@@ -78,46 +118,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
       "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
       "published": "2026-08-13T20:47:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "11980db6f5128c0cfb7bf8183dbff647",
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-      "published": "2026-08-13T18:15:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bf20d96df5ac1c200376bd787b13b48e",
-      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-      "summary": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]",
-      "published": "2026-08-13T17:46:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2055660bf57663333ec29d3a280efe62",
-      "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
-      "summary": "Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasion services. None ...",
-      "published": "2026-08-13T17:33:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b5597d1391b072acaa7c5d4e40460a0e",
-      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
-      "published": "2026-08-13T16:40:23+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -323,6 +323,46 @@
       "image": ""
     },
     {
+      "id": "593eccad4487101121c7e515e265ff92",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (12 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1004/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
+      "published": "2026-08-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0821e0101aa0616b340b6cc8d37d845b",
+      "title": "Multiples vulnérabilités dans Microsoft Windows (12 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
+      "published": "2026-08-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8c82670d261b59876c00baf42af2c0ff",
+      "title": "Multiples vulnérabilités dans les produits Siemens (12 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1009/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de...",
+      "published": "2026-08-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "82ad1b18c9699790a9fb56e1c964cec4",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (12 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0999/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-08-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "34a5f50b5f8db8665667029724c66ca6",
       "title": "Transférer des fichiers entre un hôte et une VM Vagrant",
       "link": "https://www.it-connect.fr/vagrant-transferer-fichiers-hote-vm/",
@@ -330,6 +370,26 @@
       "published": "2026-08-11T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "17e766acfddbf11823a0797ddf28d43d",
+      "title": "Multiples vulnérabilités dans OpenSSH (11 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0997/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-08-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8d16217fedcc0156eee5e72fc09778e4",
+      "title": "Multiples vulnérabilités dans les produits SAP (11 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0998/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
+      "published": "2026-08-11T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -343,36 +403,6 @@
       "image": ""
     },
     {
-      "id": "a5333a203c0f19c08a0eb1fd96259686",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-034 (10 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-034/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-08-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "47c254413efa350f5bf09348c2033129",
-      "title": "Vulnérabilité dans Synology Assistant (10 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0988/",
-      "summary": "Une vulnérabilité a été découverte dans Synology Assistant. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service.",
-      "published": "2026-08-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "83bb23df4e3b3e006338a286ba43e3c2",
-      "title": "Multiples vulnérabilités dans ClamAV (10 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0992/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et un problème de sécurité ...",
-      "published": "2026-08-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8456bfd4a4d8a19c8aeac49f2243cb68",
       "title": "Nmap : Scanner un réseau isolé via un tunnel SSH",
       "link": "https://www.it-connect.fr/nmap-scan-reseau-isole-tunnel-ssh-proxychains/",
@@ -380,56 +410,6 @@
       "published": "2026-08-07T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "2c72ec57db08cf081f4b6fe77530b503",
-      "title": "Multiples vulnérabilités dans les produits IBM (07 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0986/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-08-07T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "19af3d2d2c7f704ee5744a4be5fdc682",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (07 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0984/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'édit...",
-      "published": "2026-08-07T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c2056eb902af2440e6efbbb748013e99",
-      "title": "Multiples vulnérabilités dans WordPress (07 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0979/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à...",
-      "published": "2026-08-07T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2711c599aebd6dd94f173c8a9097ca14",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (07 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0983/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
-      "published": "2026-08-07T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e177e2e3ae991f1ca0d5eaf38d884e67",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (07 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0985/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e...",
-      "published": "2026-08-07T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -483,21 +463,41 @@
       "image": ""
     },
     {
-      "id": "5e892e9cf512f0496d6e8dd2ad575f84",
-      "title": "Vulnérabilité dans LibreNMS (11 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0732/",
-      "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-06-11T00:00:00+00:00",
+      "id": "8fef112d1627699cc04566f2117150ca",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (15 juin 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0752/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-06-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "0e8a8ec7e9ba4bfa0fb3292b09e1651f",
-      "title": "Vulnérabilité dans LibreNMS (12 mai 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0562/",
-      "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-      "published": "2026-05-12T00:00:00+00:00",
+      "id": "79c9e75f4586772614083048bd40fd46",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (29 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0660/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et...",
+      "published": "2026-05-29T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fa03046c5d36f4681119349e8a590e6a",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (22 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0632/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'édi...",
+      "published": "2026-05-22T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8f5aad953281f5d445cc50ac421f2b31",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (19 mai 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0610/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e...",
+      "published": "2026-05-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
