@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-14T07:18:36.217136+00:00",
+  "last_updated": "2026-08-14T12:58:10.985538+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8b920d1b3f612c593bcfba81e8e7404e",
+      "title": "Shell investigates 'potential incident' after Clop data theft claims",
+      "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+      "published": "2026-08-14T11:55:45+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3589e38364e1aa728f0856b3df2e2d74",
+      "title": "RingCentral data breach exposed info of 1.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+      "published": "2026-08-14T10:52:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "819af16ad5cf0e26dcef1287b85b8b49",
+      "title": "Boeing 737 - 60 secondes pour hacker l'avion",
+      "link": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un implant posé en 60 secondes dans un connecteur de maintenance du Boeing 737 prend la main sur le dialogue entre calculateur de vol et écran du pilote.",
+      "published": "2026-08-14T09:07:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429/implant-boeing-737-port-maintenance-arinc-429-1.jpg"
+    },
+    {
+      "id": "dddc1df526ab29f479f08d658c81cfb8",
+      "title": "Data analyst sent to prison for stealing data, extorting employer",
+      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+      "summary": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
+      "published": "2026-08-14T08:27:18+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "aaff515192281c814327ce9736dff015",
+      "title": "Les impôts se sont fait voler les données de 680 000 contribuables",
+      "link": "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un pirate qui se fait appeler ZeroBytes a revendiqué mercredi, sur un forum fréquenté par les cybercriminels, le vol de près de 680 000 lignes de données extraites d'un outil interne de la Direction générale des Finan...",
+      "published": "2026-08-14T07:18:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables-1.jpg"
+    },
     {
       "id": "27953a6767ad0e8477fb5c49038c158c",
       "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
@@ -68,36 +118,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
       "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
       "published": "2026-08-13T16:40:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6efc59fa11b6127e7304e032cd07c1d0",
-      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-      "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
-      "published": "2026-08-13T15:13:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8c12b6091b1c2c26db477929619fdd19",
-      "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
-      "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-      "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of sel...",
-      "published": "2026-08-13T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5cd00afa09f7d17c6d0feb4d8692393c",
-      "title": "White House taps security firms for offensive hack-back operations",
-      "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-      "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cy...",
-      "published": "2026-08-13T13:30:53+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -251,26 +271,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/freenet-git-decentralise-routage-ml/freenet-git-decentralise-routage-ml-1.jpg"
-    },
-    {
-      "id": "20b8d8dc4a94f41c2a75c20f3cde9f7b",
-      "title": "OneDrive Photos - Ce que vous pouvez vraiment virer aujourd'hui",
-      "link": "https://korben.info/supprimer-onedrive-photos-windows-11.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Windows 11 a installé OneDrive Photos sans le demander et aucun bouton ne le désinstalle. Voici ce qui part vraiment, en PowerShell, et ce qui ne partira qu'avec OneDrive.",
-      "published": "2026-08-12T10:35:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/supprimer-onedrive-photos-windows-11/supprimer-onedrive-photos-windows-11-1.jpg"
-    },
-    {
-      "id": "144498f58c759833001306e9ded55b0f",
-      "title": "Une carte SIM piégée et la borne de recharge exécute du code malveillant",
-      "link": "https://korben.info/carte-sim-malveillante-modem-iot-commandes-at.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Une carte SIM hostile peut faire exécuter ses commandes au modem qui l'héberge. Sur 26 appareils testés, 9 acceptent, presque tous côté IoT.",
-      "published": "2026-08-12T09:50:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/carte-sim-malveillante-modem-iot-commandes-at/carte-sim-malveillante-modem-iot-commandes-at-1.jpg"
     },
     {
       "id": "8af844781e7d7c46fde862afa017365f",
