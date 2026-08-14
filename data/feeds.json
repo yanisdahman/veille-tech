@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-13T18:58:14.724142+00:00",
+  "last_updated": "2026-08-14T01:40:27.080398+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "27953a6767ad0e8477fb5c49038c158c",
+      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+      "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
+      "published": "2026-08-14T01:19:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3245e687afff18317976d8a036bb8e3d",
+      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
+      "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
+      "published": "2026-08-13T21:12:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b47a05616e3644460f8907c4a561cf7b",
+      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+      "published": "2026-08-13T20:47:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "11980db6f5128c0cfb7bf8183dbff647",
       "title": "Hackers breach govt webmail while running parallel crypto fraud",
@@ -73,20 +103,10 @@
       "image": ""
     },
     {
-      "id": "89e7fbeee8f01290b9051bee40d640e6",
-      "title": "WhatsApp rolls out new feature that flags potential scam messages",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-      "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
-      "published": "2026-08-13T11:50:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "fb42016ad949224503ce0ec2fc9e2f6c",
       "title": "Grok Bot débarque en bêta",
       "link": "https://korben.info/grok-bot-debarque-en-beta.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "SpaceXAI, la maison d'Elon Musk née de la fusion entre SpaceX et xAI, a mis en ligne mardi la bêta de Grok Bot. L'outil installe des agents IA sur une machine distante qui leur appartient, et ces agents continuent d'a...",
+      "summary": "La bêta de Grok Bot lance des agents IA sur une machine distante, sur Mac, iOS, Windows et Linux, via l'abonnement SuperGrok Heavy à 300 $/mois.",
       "published": "2026-08-13T09:01:55+00:00",
       "source": "Korben",
       "category": "outils",
@@ -96,7 +116,7 @@
       "id": "f4d8f1a8305e60ec7953ac01d7ef7444",
       "title": "Claude va glisser un filigrane invisible dans tous ses textes",
       "link": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Anthropic a annoncé que ses modèles Claude allaient intégrer un filigrane invisible directement dans les textes qu'ils produisent. Vous ne le verrez pas, il ne change ni le sens ni la qualité de la réponse, mais il es...",
+      "summary": "Anthropic ajoute un filigrane invisible aux textes de Claude, dans l'API, Claude Code et le web, en lien avec l'AI Act européen du 2 août.",
       "published": "2026-08-13T08:10:46+00:00",
       "source": "Korben",
       "category": "outils",
@@ -156,7 +176,7 @@
       "id": "8f27f696fe227029acedd432064d7159",
       "title": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin",
       "link": "https://korben.info/votre-identite-vaut-de-lor.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "-- Article en partenariat avec Surfshark -- Vous croyez que votre identité vous appartient ? Pffff, noob. Qu'elle est en sécurité parce que vous avez un mot de passe compliqué et que vous ne cliquez pas sur les liens ...",
+      "summary": "Surfshark et le vol d'identité par IA : deepfakes, clonage vocal, 12,5 milliards de dollars extorqués en 2024, Alternative ID, Incogni et CleanWeb.",
       "published": "2026-08-13T06:03:25+00:00",
       "source": "Korben",
       "category": "outils",
@@ -170,26 +190,6 @@
       "published": "2026-08-13T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "2563ad23fd712a902e80b98e4be4ac9f",
-      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-      "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-      "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
-      "published": "2026-08-12T23:07:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4ff06f72c147f4ccfb076ef5c108b35f",
-      "title": "Android malware combo takes out loans and relays victims' credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-      "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
-      "published": "2026-08-12T22:22:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
