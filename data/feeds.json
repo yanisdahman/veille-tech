@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-15T12:30:21.174959+00:00",
+  "last_updated": "2026-08-15T18:23:18.568637+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0db4e98e6d13b42a66c8db5847ce86a7",
+      "title": "Holeberry - Le Pi-hole dans la barre de menus du Mac",
+      "link": "https://korben.info/holeberry-pi-hole-barre-menus-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une app macOS native qui pilote vos instances Pi-hole depuis la barre de menus, et qui débloque en un clic le domaine de l'onglet ouvert.",
+      "published": "2026-08-15T17:13:27+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/holeberry-pi-hole-barre-menus-macos/holeberry-pi-hole-barre-menus-macos-1.png"
+    },
+    {
+      "id": "6a43aad3f4659526fe88af16ef86fa9f",
+      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
+      "published": "2026-08-15T14:14:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "7c1ca40e071c5dc5b4a4b38bc9147026",
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
@@ -108,16 +128,6 @@
       "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
       "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
       "published": "2026-08-14T01:19:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3245e687afff18317976d8a036bb8e3d",
-      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-      "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
-      "published": "2026-08-13T21:12:47+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -261,16 +271,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
-    },
-    {
-      "id": "eeffb8d3cc7ff07c1b19fbc21c8ed66d",
-      "title": "Freenet-git - Le dépôt Git sans serveur",
-      "link": "https://korben.info/freenet-git-decentralise-routage-ml.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "freenet-git héberge des dépôts Git sur le réseau pair-à-pair Freenet, sans GitHub ni serveur à tenir, et voici comment publier le vôtre.",
-      "published": "2026-08-12T10:41:05+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/freenet-git-decentralise-routage-ml/freenet-git-decentralise-routage-ml-1.jpg"
     },
     {
       "id": "8af844781e7d7c46fde862afa017365f",
