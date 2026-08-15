@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-14T18:48:27.633330+00:00",
+  "last_updated": "2026-08-15T01:01:47.580310+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7c1ca40e071c5dc5b4a4b38bc9147026",
+      "title": "How Anthropic plans to watermark Claude's AI-generated text",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+      "published": "2026-08-14T23:24:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "d35b2e86b79bbb333496c672d3533fd8",
       "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
@@ -86,7 +96,7 @@
       "id": "aaff515192281c814327ce9736dff015",
       "title": "Les impôts se sont fait voler les données de 680 000 contribuables",
       "link": "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un pirate qui se fait appeler ZeroBytes a revendiqué mercredi, sur un forum fréquenté par les cybercriminels, le vol de près de 680 000 lignes de données extraites d'un outil interne de la Direction générale des Finan...",
+      "summary": "680 000 lignes de données volées à la DGFiP fin juin : noms, adresses, données cadastrales de 390 000 particuliers et 285 000 professionnels.",
       "published": "2026-08-14T07:18:40+00:00",
       "source": "Korben",
       "category": "outils",
@@ -108,16 +118,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
       "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
       "published": "2026-08-13T21:12:47+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b47a05616e3644460f8907c4a561cf7b",
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "published": "2026-08-13T20:47:02+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
