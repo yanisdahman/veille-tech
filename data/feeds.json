@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-08-17T12:36:22.410835+00:00",
+  "last_updated": "2026-08-17T18:33:54.903244+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "25d979f19977594fba901fa210876b2a",
+      "title": "Un script pour virer les produits sponsorisés d'Amazon",
+      "link": "https://korben.info/amazon-sponsored-products-remover.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Sur Amazon, le tri par prix croissant laisse passer des cartes sponsorisées à 74,99 € juste après une série qui plafonnait à 53,99 €. Ce userscript en licence MIT dégage les blocs sponsorisés, les encarts promo et Ruf...",
+      "published": "2026-08-17T15:40:54+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/amazon-sponsored-products-remover/amazon-sponsored-products-remover-1.png"
+    },
+    {
+      "id": "10bcb76d0a696d30ae2c3f4a936841e9",
+      "title": "Lundi 17 août 2026 : Microsoft confirme que GitHub est en panne à l’échelle mondiale !",
+      "link": "https://www.it-connect.fr/panne-mondiale-github-lundi-17-aout-2026/",
+      "summary": "GitHub subit une panne mondiale ce 17 août 2026 : 20 % d'erreurs sur le web et l'API, Actions, Copilot et les pull requests dégradés. Voici ce que l'on sait. Le post Lundi 17 août 2026 : Microsoft confirme que GitHub ...",
+      "published": "2026-08-17T15:23:49+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "950fdca089320e3dbc888eef73b38b73",
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+      "published": "2026-08-17T14:47:08+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a15a77db0ed227ce0df692fc120ee0cf",
+      "title": "Exchange Server SE : Microsoft explique pourquoi la CU1 n’arrive toujours pas",
+      "link": "https://www.it-connect.fr/exchange-server-se-microsoft-explique-pourquoi-la-cu1-narrive-toujours-pas/",
+      "summary": "Microsoft explique le retard de la CU1 d'Exchange Server SE : les failles remontées par ses outils d'IA saturent ses équipes. Aucune date n'est annoncée. Le post Exchange Server SE : Microsoft explique pourquoi la CU1...",
+      "published": "2026-08-17T14:33:26+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1b45afdcfcb7b70fc5e0a27d65493e77",
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infras...",
+      "published": "2026-08-17T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "48657f05cfbd2326bb5bd559fb0147b6",
+      "title": "Proton VPN migre vers Rust : un nouveau cœur WireGuard pour ses applications",
+      "link": "https://www.it-connect.fr/proton-vpn-nouveau-coeur-wireguard-rust-protun/",
+      "summary": "Proton a dévoilé un nouveau socle logiciel écrit en Rust pour remplacer wireguard-go dans ses applications VPN, ainsi que muon pour lutter contre la censure. Le post Proton VPN migre vers Rust : un nouveau cœur WireGu...",
+      "published": "2026-08-17T13:40:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "58020cb03e1a0dd953b1c9a8053c2f02",
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading f...",
+      "published": "2026-08-17T13:23:51+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
+    },
+    {
+      "id": "a99bb148728c588282ed47b0f8e9c58a",
+      "title": "Microsoft Entra Cloud Sync : la synchronisation des appareils est disponible en préversion",
+      "link": "https://www.it-connect.fr/microsoft-entra-cloud-sync-la-synchronisation-des-appareils/",
+      "summary": "Microsoft a ajouté une fonctionnalité à Entra Cloud Sync : la synchronisation des objets ordinateur de l'Active Directory vers Entra ID, appelée Device Sync. Le post Microsoft Entra Cloud Sync : la synchronisation des...",
+      "published": "2026-08-17T13:10:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "01c2c23bb7f77e9a168ddd6a0f3983fc",
       "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
@@ -203,16 +283,6 @@
       "image": "https://korben.info/holeberry-pi-hole-barre-menus-macos/holeberry-pi-hole-barre-menus-macos-1.png"
     },
     {
-      "id": "6a43aad3f4659526fe88af16ef86fa9f",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-      "published": "2026-08-15T14:14:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "32a42121338529834cf4a4144baedc33",
       "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
       "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
@@ -226,21 +296,11 @@
       "id": "4e920024fc98cec84d918f94f98cab98",
       "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
       "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in q...",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability i...",
       "published": "2026-08-15T07:24:04+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s1600/apple-screenshare.jpg"
-    },
-    {
-      "id": "7c1ca40e071c5dc5b4a4b38bc9147026",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
-      "published": "2026-08-14T23:24:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "0e34430662d96fcc0ea80265d884ffe1",
@@ -273,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHhYwJerhs2kJO7Sh0FJfEt7_JpkOEbB1ccWjSpSyfvWWDf7waLVr1TMU9Cj-_jdAQ7bDAX0gV2Bt4Sqv1Zx4K8PJgObOX3nt1bVT5YClAvKbvyBovpcIFwpQ66fhzEqi69CJj9er_L5Z4YGDzGAPkUaWiOm6gway77Fkn5sf_-vJucFzQAZRmNiCqlzU/s1600/windows-rootkit.jpg"
     },
     {
-      "id": "f1a9515a417e7ffa04137447e7dd96ee",
-      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-      "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
-      "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access...",
-      "published": "2026-08-14T11:07:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxmoJtQxCw_JRBCIc5vQ8KP7fDvEliYGDzRe4RRTwH_vydH3_bliXj-rfs_e5j3YD6EPrvVKtSlI_IUIA5EoxajlFgyLPhLtjiYZjwotvmIHvLuvf_bIhfUuGJ-Sgxx0Wjhl7UigBQko3hYNb44Z4PT6fRSXFEVdPZIzMjLe7uge8CWthwqzErdqpheA/s1600/chrome.jpg"
-    },
-    {
       "id": "819af16ad5cf0e26dcef1287b85b8b49",
       "title": "Boeing 737 - 60 secondes pour hacker l'avion",
       "link": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,16 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/grok-bot-debarque-en-beta/grok-bot-debarque-en-beta-1.jpg"
-    },
-    {
-      "id": "f4d8f1a8305e60ec7953ac01d7ef7444",
-      "title": "Claude va glisser un filigrane invisible dans tous ses textes",
-      "link": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Anthropic ajoute un filigrane invisible aux textes de Claude, dans l'API, Claude Code et le web, en lien avec l'AI Act européen du 2 août.",
-      "published": "2026-08-13T08:10:46+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes-1.jpg"
     },
     {
       "id": "c2c6dd49e4205858f5d6ec9fa3275ce2",
@@ -353,16 +393,6 @@
       "image": ""
     },
     {
-      "id": "0821e0101aa0616b340b6cc8d37d845b",
-      "title": "Multiples vulnérabilités dans Microsoft Windows (12 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
-      "published": "2026-08-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8c82670d261b59876c00baf42af2c0ff",
       "title": "Multiples vulnérabilités dans les produits Siemens (12 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1009/",
@@ -373,10 +403,30 @@
       "image": ""
     },
     {
-      "id": "82ad1b18c9699790a9fb56e1c964cec4",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (12 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0999/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "id": "a4b7f7c58714571946215ef1f1883499",
+      "title": "Multiples vulnérabilités dans les produits SonicWall (12 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1006/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
+      "published": "2026-08-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f27a0847c53694639886b0b9b5041b2b",
+      "title": "Multiples vulnérabilités dans les produits Ivanti (12 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1007/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et ...",
+      "published": "2026-08-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3b845b6a4bdf0eb12e175fd2a1920052",
+      "title": "Multiples vulnérabilités dans Google Chrome (12 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1008/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-08-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -393,26 +443,6 @@
       "image": ""
     },
     {
-      "id": "17e766acfddbf11823a0797ddf28d43d",
-      "title": "Multiples vulnérabilités dans OpenSSH (11 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0997/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-08-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8d16217fedcc0156eee5e72fc09778e4",
-      "title": "Multiples vulnérabilités dans les produits SAP (11 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0998/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
-      "published": "2026-08-11T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d6125194acea7e1a479b84bd87fffc93",
       "title": "Quels comptes avez-vous vraiment sur le Web ? Trois outils OSINT pour le découvrir",
       "link": "https://www.it-connect.fr/osint-retrouver-ses-comptes-en-ligne/",
@@ -423,43 +453,13 @@
       "image": ""
     },
     {
-      "id": "8456bfd4a4d8a19c8aeac49f2243cb68",
-      "title": "Nmap : Scanner un réseau isolé via un tunnel SSH",
-      "link": "https://www.it-connect.fr/nmap-scan-reseau-isole-tunnel-ssh-proxychains/",
-      "summary": "Apprenez à scanner un réseau isolé avec Nmap en passant par un tunnel SSH et Proxychains, via une machine de rebond. Méthode pas à pas et bonnes pratiques. Le post Nmap : Scanner un réseau isolé via un tunnel SSH a ét...",
-      "published": "2026-08-07T04:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "dcc815c0efd79c5a6ba39fa1218fbe2b",
-      "title": "mkcert : créer des certificats HTTPS valides en local sur Debian",
-      "link": "https://www.it-connect.fr/mkcert-certificats-https-local-debian/",
-      "summary": "Guide pratique mkcert sur Debian : créez votre autorité de certification locale et générez des certificats HTTPS reconnus par vos navigateurs. Le post mkcert : créer des certificats HTTPS valides en local sur Debian a...",
-      "published": "2026-08-06T04:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a969195c7e1934b7adaa2720a92a4735",
-      "title": "Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023 sur vos VMs",
-      "link": "https://www.it-connect.fr/secure-boot-proxmox-certificats-uefi-2023/",
-      "summary": "Vos VM Proxmox affichent un avertissement Secure Boot ? Inscrivez les certificats UEFI Microsoft 2023 côté Proxmox VE et côté Windows, pas à pas. Le post Proxmox VE : enrôler les certificats Secure Boot Microsoft 2023...",
-      "published": "2026-08-05T04:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "decafb6e73735f431d8c95378c2634fd",
-      "title": "WAPT Server (CVE-2026-33591) : une faille permet de contourner l’authentification",
-      "link": "https://www.it-connect.fr/wapt-server-cve-2026-33591/",
-      "summary": "Un attaquant non authentifié peut détourner un compte sur WAPT Server via un simple paquet forgé. Ce qu'il faut savoir sur la faille CVE-2026-33591. Le post WAPT Server (CVE-2026-33591) : une faille permet de contourn...",
-      "published": "2026-08-04T07:25:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "a5333a203c0f19c08a0eb1fd96259686",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-034 (10 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-034/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-08-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
