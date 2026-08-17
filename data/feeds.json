@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-08-17T06:47:00.271929+00:00",
+  "last_updated": "2026-08-17T12:36:22.410835+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "01c2c23bb7f77e9a168ddd6a0f3983fc",
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+      "published": "2026-08-17T12:33:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ea39c2388614b338dac4de6361988664",
+      "title": "Synology dévoile la gamme neo+ : quatre NAS moins chers, mais sans mémoire ECC",
+      "link": "https://www.it-connect.fr/synology-diskstation-neo-plus-nas-memoire-non-ecc/",
+      "summary": "Synology dévoile les DS1825neo+, DS1525neo+, DS925neo+ et DS725neo+ : même plateforme que les DS Plus, mais 4 Go de DDR4 non-ECC. Disponibilité en octobre. Le post Synology dévoile la gamme neo+ : quatre NAS moins che...",
+      "published": "2026-08-17T12:28:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2ef611c64fb56e746d12c9ee5b003a6b",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt ...",
+      "published": "2026-08-17T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png"
+    },
+    {
+      "id": "26d7db41bc0a44fb48ff9c7736545d58",
+      "title": "Philips and GE investigating Clop ransomware data theft claims",
+      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+      "published": "2026-08-17T11:25:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f5eb413f8ddfed5e4ad7c7e640663a6c",
+      "title": "Récap’ de l’actu cyber : ce que vous avez manqué entre le 1er et le 16 août 2026",
+      "link": "https://www.it-connect.fr/recap-actualite-cyber-aout-2026/",
+      "summary": "Bercy confirme le vol de données de 678 000 usagers, WordPress corrige une faille RCE, vCenter est massivement exploité : l'actu cyber du 1er au 16 août 2026. Le post Récap’ de l’actu cyber : ce que vous avez manqué e...",
+      "published": "2026-08-17T11:16:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "37b8e3e5930b7464c2832ce7fc08078c",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the...",
+      "published": "2026-08-17T10:52:34+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
+    },
+    {
+      "id": "f5fcd445f2726fedfb629db67187bea8",
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+      "published": "2026-08-17T10:09:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "57cd1c8ec8e370a53f14a621b9154629",
+      "title": "Je me suis remis à la domotique grâce à un vieux mini PC et Claude Code",
+      "link": "https://korben.info/retour-domotique-home-assistant-mini-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "J'ai ressorti un vieux mini PC et ma caisse de matos Zigbee pour repartir de zéro sur Home Assistant. Le récit, les murs et mes scénarios.",
+      "published": "2026-08-17T10:02:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/retour-domotique-home-assistant-mini-pc/retour-domotique-home-assistant-mini-pc-1.png"
+    },
+    {
+      "id": "e392e7fbb8c7134c39e5508d8e678315",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devic...",
+      "published": "2026-08-17T09:29:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
+    },
+    {
+      "id": "33cb4ed42903ee6ab904efa223c596a7",
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+      "published": "2026-08-17T09:05:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4c6be78126f519c724712f83cfce0536",
+      "title": "PureMac - Faites un grand ménage sur votre Mac, gratuitement",
+      "link": "https://korben.info/puremac-nettoyeur-macos-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "PureMac désinstalle vos applications macOS avec les fichiers qu'elles ont semés dans la Bibliothèque, retrouve les orphelins et purge les caches de développement. C'est du MIT, sans télémétrie, mais sa liste d'orpheli...",
+      "published": "2026-08-17T08:31:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/puremac-nettoyeur-macos-open-source/puremac-nettoyeur-macos-open-source-1.jpg"
+    },
+    {
+      "id": "b4c04aeb76a608f21cd402335a1ea13d",
+      "title": "Un satellite gros comme une valise cabine va écouter le début de l'univers depuis la face cachée de la Lune",
+      "link": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "L'université de Cambridge prépare un petit satellite baptisé CosmoCube, pas plus gros qu'une valise cabine, qui partira se cacher derrière la Lune pour tenter d'entendre ce que l'univers racontait avant même l'allumag...",
+      "published": "2026-08-17T08:12:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune-1.jpg"
+    },
+    {
+      "id": "a2210377593c43be0d385db183826945",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation ...",
+      "published": "2026-08-17T07:36:19+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg"
+    },
+    {
+      "id": "779248ecdaf5a27ad6ca729dad8ec77c",
+      "title": "En Italie, une affiche Apple avec un enfant fait polémique",
+      "link": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "À Milan, une affiche Apple montre un tout petit enfant qui tient un iPhone couvert d'une substance gluante, sous le slogan \"Tutto ok, è iPhone\", tout va bien, c'est un iPhone. L'autorité italienne de protection de l'e...",
+      "published": "2026-08-17T06:46:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique-1.webp"
+    },
     {
       "id": "5525474969909491b2d2e167411ed1ee",
       "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
@@ -73,6 +213,26 @@
       "image": ""
     },
     {
+      "id": "32a42121338529834cf4a4144baedc33",
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to a...",
+      "published": "2026-08-15T08:38:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_2sx5UM3v1F5xNjCrlFAeBp6t7ioSfSER_6yl7jFtH3NvB_wwrwdT2Njk21qvm5m_dh2UZ3u-3UnZOWSz9sawqkuPmg0FLwuOEeLYhMlqP8lWjeXhg7ETTrRx19wiPebTSCcGeqC-Gz3zpiYPZz69kKTlL2mWSO1xW_-RotwAT4poWJ8VhQ6yklDDebs/s1600/sap-flaw.jpg"
+    },
+    {
+      "id": "4e920024fc98cec84d918f94f98cab98",
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in q...",
+      "published": "2026-08-15T07:24:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s1600/apple-screenshare.jpg"
+    },
+    {
       "id": "7c1ca40e071c5dc5b4a4b38bc9147026",
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
@@ -83,44 +243,44 @@
       "image": ""
     },
     {
-      "id": "d35b2e86b79bbb333496c672d3533fd8",
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank custome...",
-      "published": "2026-08-14T18:04:26+00:00",
-      "source": "Bleeping Computer",
+      "id": "0e34430662d96fcc0ea80265d884ffe1",
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domai...",
+      "published": "2026-08-14T18:48:46+00:00",
+      "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": ""
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmsCR51S8-S9Y9cCidbhsmyNlysPzNGZkLuFNY8GHiq3mwnVKOcB1hUq_Q7Oz2j6nH61si-eaqq4xouwv2_JsEzEU6eYS2-bL3-dXBwweGAK-3QnhfKZi8MANcdtpg9VTsqaCrB3Jog3FVUQFV9wtkiQkB6sSVyMclXHwxBXPFjHput_haLnTmH03kq6E/s1600/domains.jpg"
     },
     {
-      "id": "7eafe80086db5bfb2574e6e2e4b8f4ca",
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-      "published": "2026-08-14T14:59:55+00:00",
-      "source": "Bleeping Computer",
+      "id": "0e87989293aa496f21de41c0e8e1d3a5",
+      "title": "IAM Compliance Requirements and Best Practices",
+      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+      "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains...",
+      "published": "2026-08-14T17:19:49+00:00",
+      "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": ""
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtCfpJQBf2uorUk8jQiK_Cpzh2QLElku5-T5DS6dLc9iV3XA5w1fsd7F9aiCv1gMYri3jEogBTuyYaiSzgdBhvDxWSN_1X1Q-AZkr3u5QBBvzzvZ_F7mpQdqxy-mXsXC_YuPpikK6nHTLhRy8cwpccEKb3ScMiQ8bGLYw5-NMf8kOcEVCYefsCUgu8LEU/s1600/ORCHID.jpg"
     },
     {
-      "id": "c0cddbce6b9751cc458cc12a55ebf09f",
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover ...",
-      "published": "2026-08-14T14:00:10+00:00",
-      "source": "Bleeping Computer",
+      "id": "750d90aa2306538b7d7afdc8eeecd0d5",
+      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+      "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+      "summary": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes...",
+      "published": "2026-08-14T13:08:56+00:00",
+      "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": ""
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHhYwJerhs2kJO7Sh0FJfEt7_JpkOEbB1ccWjSpSyfvWWDf7waLVr1TMU9Cj-_jdAQ7bDAX0gV2Bt4Sqv1Zx4K8PJgObOX3nt1bVT5YClAvKbvyBovpcIFwpQ66fhzEqi69CJj9er_L5Z4YGDzGAPkUaWiOm6gway77Fkn5sf_-vJucFzQAZRmNiCqlzU/s1600/windows-rootkit.jpg"
     },
     {
-      "id": "a6dea2af6b63019303a254853ed895f6",
-      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-      "published": "2026-08-14T13:45:18+00:00",
-      "source": "Bleeping Computer",
+      "id": "f1a9515a417e7ffa04137447e7dd96ee",
+      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+      "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+      "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access...",
+      "published": "2026-08-14T11:07:45+00:00",
+      "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": ""
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxmoJtQxCw_JRBCIc5vQ8KP7fDvEliYGDzRe4RRTwH_vydH3_bliXj-rfs_e5j3YD6EPrvVKtSlI_IUIA5EoxajlFgyLPhLtjiYZjwotvmIHvLuvf_bIhfUuGJ-Sgxx0Wjhl7UigBQko3hYNb44Z4PT6fRSXFEVdPZIzMjLe7uge8CWthwqzErdqpheA/s1600/chrome.jpg"
     },
     {
       "id": "819af16ad5cf0e26dcef1287b85b8b49",
@@ -163,56 +323,6 @@
       "image": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes-1.jpg"
     },
     {
-      "id": "b00b99d0f117e768b3628aa8a3dfc86d",
-      "title": "Montez votre premier cyberdeck à l'aide de ce PDF gratuit",
-      "link": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le numéro 168 du magazine officiel Raspberry Pi consacre son dossier aux cyberdecks et met ses 132 pages en PDF gratuit, tutoriel de montage compris.",
-      "published": "2026-08-13T08:06:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit-1.jpg"
-    },
-    {
-      "id": "86575f79658c7b8ef724d08ddcbed519",
-      "title": "33 secondes pour lancer un MP3 ? C'est pas VLC, c'est Windows Defender",
-      "link": "https://korben.info/vlc-lent-windows-defender-cache-plugins.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "33 secondes pour lancer un MP3 sous Windows 11 ? Microsoft Defender a mis le cache de plugins de VLC en quarantaine, et le raccourci qui répare est déjà là.",
-      "published": "2026-08-13T07:58:29+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/vlc-lent-windows-defender-cache-plugins/vlc-lent-windows-defender-cache-plugins-1.jpg"
-    },
-    {
-      "id": "94ee13a2bbb145302489332c0ef48068",
-      "title": "ShieldBreak - C'est Windows Defender qui tient la porte grande ouverte",
-      "link": "https://korben.info/shieldbreak-zero-day-defender-microsoft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un exploit publié sans prévenir détourne Microsoft Defender pour obtenir les droits SYSTEM sur un Windows à jour. Aucun correctif à installer pour l'instant.",
-      "published": "2026-08-13T07:47:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/shieldbreak-zero-day-defender-microsoft/shieldbreak-zero-day-defender-microsoft-1.jpg"
-    },
-    {
-      "id": "a02295b40a203aa9a121c03c793f9eae",
-      "title": "Vos streams Twitch nourrissent l'IA d'Amazon - La case à décocher",
-      "link": "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Twitch laisse Amazon entraîner ses modèles d'IA générative sur le contenu de votre chaîne, et la case est cochée par défaut. Voici où la couper.",
-      "published": "2026-08-13T07:38:05+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/twitch-desactiver-entrainement-ia-amazon/twitch-desactiver-entrainement-ia-amazon-1.png"
-    },
-    {
-      "id": "96382235684b780d18d99bcac486d2ce",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which...",
-      "published": "2026-08-13T06:09:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
-    },
-    {
       "id": "c2c6dd49e4205858f5d6ec9fa3275ce2",
       "title": "Arcane : une solution open source très complète pour gérer ses conteneurs Docker",
       "link": "https://www.it-connect.fr/tuto-arcane-docker-gestion-conteneurs/",
@@ -221,96 +331,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "9dabce38ffe7b21305dd81a69b94a613",
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defe...",
-      "published": "2026-08-12T17:39:27+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg"
-    },
-    {
-      "id": "62e9d1780ad53a18005970324b91eb46",
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy inf...",
-      "published": "2026-08-12T14:09:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg"
-    },
-    {
-      "id": "f8fb0f3733dffee89b865de13228cb88",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords....",
-      "published": "2026-08-12T11:47:38+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg"
-    },
-    {
-      "id": "944aeece3a9275a03dd2960fb56c286a",
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real att...",
-      "published": "2026-08-12T11:41:34+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
-    },
-    {
-      "id": "3f71dd316594037edf2559e9d26ea8ea",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privil...",
-      "published": "2026-08-12T11:13:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
-    },
-    {
-      "id": "8af844781e7d7c46fde862afa017365f",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9....",
-      "published": "2026-08-12T09:01:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
-    },
-    {
-      "id": "0ae077590e9fc647b4736093e6cc2ceb",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from syst...",
-      "published": "2026-08-12T08:04:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg"
-    },
-    {
-      "id": "298ce142810c92d5be4fb76afcb91456",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-5...",
-      "published": "2026-08-12T07:31:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg"
-    },
-    {
-      "id": "0dd7defdb7b1059b047f09c8c3c4390d",
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnera...",
-      "published": "2026-08-12T06:41:38+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
     },
     {
       "id": "fbc59e5ce8b354e58f97cc6530a729b3",
@@ -438,26 +458,6 @@
       "link": "https://www.it-connect.fr/wapt-server-cve-2026-33591/",
       "summary": "Un attaquant non authentifié peut détourner un compte sur WAPT Server via un simple paquet forgé. Ce qu'il faut savoir sur la faille CVE-2026-33591. Le post WAPT Server (CVE-2026-33591) : une faille permet de contourn...",
       "published": "2026-08-04T07:25:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9f949dd50dd00779b9cdda47f016df95",
-      "title": "Gufw : gérer le pare-feu UFW sous Linux avec une interface graphique",
-      "link": "https://www.it-connect.fr/gufw-interface-graphique-ufw-linux/",
-      "summary": "Découvrez Gufw, l'interface graphique UFW sous Linux : installation, création des règles de pare-feu et bonnes pratiques, sans passer par la ligne de commande. Le post Gufw : gérer le pare-feu UFW sous Linux avec une ...",
-      "published": "2026-08-04T04:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fb1a206534125f06b185bbdc978fd0d2",
-      "title": "Qu’est-ce qu’un WAF ? Principes et mise en pratique",
-      "link": "https://www.it-connect.fr/waf-web-application-firewall-debutant/",
-      "summary": "C'est quoi un WAF (Web Application Firewall) ? Découvrez son rôle face aux cyberattaques, les solutions open source et déployez le vôtre avec ModSecurity. Le post Qu’est-ce qu’un WAF ? Principes et mise en pratique a ...",
-      "published": "2026-08-03T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
