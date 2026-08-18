@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-18T12:38:06.371955+00:00",
+  "last_updated": "2026-08-18T18:32:31.630886+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c42c5953fb0983174b795f0e0e19a605",
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal ...",
+      "published": "2026-08-18T17:29:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ef93f1b2a6fd16c9a238004ab303ff77",
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why be...",
+      "published": "2026-08-18T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0a4a5f7c432f98c6ca1edb96b6e9c6cb",
+      "title": "ResetNightmare : cette faille Kerberos permet de prendre le contrôle du domaine Active Directory",
+      "link": "https://www.it-connect.fr/resetnightmare-cve-2026-27912-kerberos-active-directory/",
+      "summary": "Baptisée ResetNightmare (CVE-2026-27912), une faille Kerberos permet de réinitialiser le mot de passe de n'importe quel compte Active Directory. Le post ResetNightmare : cette faille Kerberos permet de prendre le cont...",
+      "published": "2026-08-18T13:31:23+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "528edd70d20bebf9971ea0fd773c8b1f",
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files tha...",
+      "published": "2026-08-18T12:38:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg"
+    },
+    {
+      "id": "e20b64d86a8a94778158edadd32ee81d",
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-an...",
+      "published": "2026-08-18T12:38:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg"
+    },
     {
       "id": "8ab208b7c0433b59bf1f2db94ea9fa95",
       "title": "Nvidia CMP 170HX - La VRAM était bien là, bridée par le firmware",
@@ -11,16 +61,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia/cmp-170hx-vram-debloquee-mod-ia-1.png"
-    },
-    {
-      "id": "984ab6647e0769be17c6d981c0d427a3",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking t...",
-      "published": "2026-08-18T11:40:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg"
     },
     {
       "id": "f6a6b1e51b29ebcdff6f7788507773fa",
@@ -41,6 +81,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif"
+    },
+    {
+      "id": "984ab6647e0769be17c6d981c0d427a3",
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking t...",
+      "published": "2026-08-18T11:20:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg"
     },
     {
       "id": "9a31aa9ed2e0c0d7e2798c459b32c280",
@@ -323,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "58020cb03e1a0dd953b1c9a8053c2f02",
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading f...",
-      "published": "2026-08-17T13:23:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
-    },
-    {
       "id": "a99bb148728c588282ed47b0f8e9c58a",
       "title": "Microsoft Entra Cloud Sync : la synchronisation des appareils est disponible en préversion",
       "link": "https://www.it-connect.fr/microsoft-entra-cloud-sync-la-synchronisation-des-appareils/",
@@ -340,16 +380,6 @@
       "published": "2026-08-17T13:10:17+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "01c2c23bb7f77e9a168ddd6a0f3983fc",
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
-      "published": "2026-08-17T12:33:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -363,41 +393,11 @@
       "image": ""
     },
     {
-      "id": "2ef611c64fb56e746d12c9ee5b003a6b",
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt ...",
-      "published": "2026-08-17T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png"
-    },
-    {
-      "id": "26d7db41bc0a44fb48ff9c7736545d58",
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-      "published": "2026-08-17T11:25:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f5eb413f8ddfed5e4ad7c7e640663a6c",
       "title": "Récap’ de l’actu cyber : ce que vous avez manqué entre le 1er et le 16 août 2026",
       "link": "https://www.it-connect.fr/recap-actualite-cyber-aout-2026/",
       "summary": "Bercy confirme le vol de données de 678 000 usagers, WordPress corrige une faille RCE, vCenter est massivement exploité : l'actu cyber du 1er au 16 août 2026. Le post Récap’ de l’actu cyber : ce que vous avez manqué e...",
       "published": "2026-08-17T11:16:32+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c2c6dd49e4205858f5d6ec9fa3275ce2",
-      "title": "Arcane : une solution open source très complète pour gérer ses conteneurs Docker",
-      "link": "https://www.it-connect.fr/tuto-arcane-docker-gestion-conteneurs/",
-      "summary": "Découvrez Arcane, une solution open source et gratuite pour gérer vos conteneurs Docker : de l'installation à la prise en main des fonctionnalités. Le post Arcane : une solution open source très complète pour gérer se...",
-      "published": "2026-08-13T04:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
