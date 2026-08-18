@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-18T01:01:05.329246+00:00",
+  "last_updated": "2026-08-18T06:37:00.096230+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "21b939faa69c9799ca58b4dbeca62a8a",
+      "title": "Patch Tuesday Août 2026 : 421 failles corrigées et une zero-day exploitée par Lazarus",
+      "link": "https://www.it-connect.fr/patch-tuesday-aout-2026-421-failles-corrigees-3-zero-day/",
+      "summary": "Microsoft a corrigé 421 vulnérabilités en août 2026, dont 3 zero-day. L'une d'elles était déjà exploitée par Lazarus pour déployer son rootkit FudModule. Le post Patch Tuesday Août 2026 : 421 failles corrigées et une ...",
+      "published": "2026-08-18T06:34:45+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "5ab210699f0a113ea240c941e1ced1b2",
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
@@ -438,16 +448,6 @@
       "link": "https://www.it-connect.fr/vagrant-transferer-fichiers-hote-vm/",
       "summary": "Découvrez deux méthodes pour transférer des fichiers entre l'hôte et une VM Vagrant : le plugin vagrant-scp et les dossiers partagés (synced_folder). Le post Transférer des fichiers entre un hôte et une VM Vagrant a é...",
       "published": "2026-08-11T04:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d6125194acea7e1a479b84bd87fffc93",
-      "title": "Quels comptes avez-vous vraiment sur le Web ? Trois outils OSINT pour le découvrir",
-      "link": "https://www.it-connect.fr/osint-retrouver-ses-comptes-en-ligne/",
-      "summary": "Pseudo, e-mail, numéro de téléphone : découvrez comment Maigret, user-scanner et Ignorant permettent de retrouver vos comptes en ligne en quelques minutes. Le post Quels comptes avez-vous vraiment sur le Web ? Trois o...",
-      "published": "2026-08-10T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
