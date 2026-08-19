@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-18T18:32:31.630886+00:00",
+  "last_updated": "2026-08-19T01:01:51.987540+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a05d44667dadf2a30282e65160f21535",
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sen...",
+      "published": "2026-08-18T20:14:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "42dd9ac23653cd112734bfd558dc4b34",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available...",
+      "published": "2026-08-18T17:47:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
+    },
+    {
+      "id": "6ee6f583447d1e08c28f26ceeaa0ec8e",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automa...",
+      "published": "2026-08-18T17:44:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg"
+    },
     {
       "id": "c42c5953fb0983174b795f0e0e19a605",
       "title": "Clop created custom web shell for Windchill data theft attacks",
@@ -11,6 +41,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "0c51924f9cdb577bfe19f4122d676e96",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging f...",
+      "published": "2026-08-18T16:58:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
     },
     {
       "id": "ef93f1b2a6fd16c9a238004ab303ff77",
@@ -106,7 +146,7 @@
       "id": "5e345a5a15263f5ee42ff9a9d9a0084d",
       "title": "Un atelier japonais double la VRAM des RTX 2080 Ti pour pas cher",
       "link": "https://korben.info/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Dans la préfecture de Saitama, au Japon, une petite boutique s'est fait une spécialité qui tombe à pic en pleine flambée des prix de la mémoire, celle de faire passer une vieille GeForce RTX 2080 Ti de 11 à 22 Go de V...",
+      "summary": "Un atelier de Saitama remplace les 11 puces GDDR6 des RTX 2080 Ti par des modules Samsung 2 Go pour 282 dollars : 22 Go de VRAM, utile en IA locale.",
       "published": "2026-08-18T11:05:19+00:00",
       "source": "Korben",
       "category": "outils",
@@ -283,36 +323,6 @@
       "image": ""
     },
     {
-      "id": "5336a06d275c1513ddcb8334c46b3672",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a craf...",
-      "published": "2026-08-17T18:44:17+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg"
-    },
-    {
-      "id": "f219dfa2f32fb09c89f5564f60f6325e",
-      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vu...",
-      "published": "2026-08-17T18:22:09+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg"
-    },
-    {
-      "id": "81e5226860786dcbb2076c04c1b0a038",
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cyberse...",
-      "published": "2026-08-17T17:41:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
-    },
-    {
       "id": "25d979f19977594fba901fa210876b2a",
       "title": "Un script pour virer les produits sponsorisés d'Amazon",
       "link": "https://korben.info/amazon-sponsored-products-remover.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -350,16 +360,6 @@
       "published": "2026-08-17T14:33:26+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1b45afdcfcb7b70fc5e0a27d65493e77",
-      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infras...",
-      "published": "2026-08-17T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
