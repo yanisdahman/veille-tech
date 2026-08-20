@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-08-20T06:39:05.140508+00:00",
+  "last_updated": "2026-08-20T12:40:13.340220+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f047c0e7ad797f0db264af3a46f5250e",
+      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+      "published": "2026-08-20T12:14:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ef3e35112b19119874fd1816d88d95b2",
+      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
+      "published": "2026-08-20T11:06:14+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bc56204c0d09bee74f4cfa2b29a7a849",
+      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitr...",
+      "published": "2026-08-20T11:05:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aHi13XpphD98KUUKTJJB0T5eJW8TLe8qecYWanC8lqujxWOn4dtJUXThwqpfnrd9daSkiLMxXb7r6EFFbYY2fy3qSZteMtPB5Sl5t4K01MKoHywiyohPzUQX17h3oj126zywGtTEP8twGQnbs0wjaecaY8nLhAWXLw0anuJuL2iSJmKBVnzlZhy842E/s1600/nasa.jpg"
+    },
+    {
+      "id": "1fba0d3973cd6a7a63cafdbb51745ba4",
+      "title": "Geekom : un pilote réseau malveillant était téléchargeable depuis son site de support",
+      "link": "https://www.it-connect.fr/geekom-pilote-lan-malware-asruex-mini-pc/",
+      "summary": "L'installation du pilote réseau de 6 mini PC Geekom est détecté comme malveillant par 4 plateformes d'analyse, mais tous les PC ne sont pas infectés. Le post Geekom : un pilote réseau malveillant était téléchargeable ...",
+      "published": "2026-08-20T11:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2e393af7ca4a46e01fcd29d7c2306f78",
+      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint global...",
+      "published": "2026-08-20T10:38:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg"
+    },
+    {
+      "id": "6bc25b023389e4150c835686afadef33",
+      "title": "New Manic Android malware can exfiltrate data through nearby devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+      "published": "2026-08-20T10:02:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "92d766d0fc8a0114eb1166b3b1099409",
+      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+      "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
+      "published": "2026-08-20T09:46:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e88496a661bdef59173d23d8531ae5e8",
+      "title": "Votre PC utilise-t-il vraiment son NPU ? Windows 11 peut vous le dire",
+      "link": "https://www.it-connect.fr/windows-11-gestionnaire-taches-surveillance-npu-charges-ia/",
+      "summary": "Microsoft explique comment lire les colonnes NPU et GPU du Gestionnaire des tâches pour savoir si vos applications exploitent le matériel IA de la machine. Le post Votre PC utilise-t-il vraiment son NPU ? Windows 11 p...",
+      "published": "2026-08-20T09:34:52+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f1c1f634bd1237cd22beda9edcc4c7b3",
+      "title": "Offres de la rentrée GoDeal24 : Office 2024 Pro Plus à 19.99€ et Windows 11 Pro à 12.25€",
+      "link": "https://www.it-connect.fr/bon-plan-des-promos-sur-les-licences-office-2021-windows-10-et-windows-11/",
+      "summary": "Notre partenaire GoDeal24 propose une nouvelle vente flash avec des prix très intéressants sur les licences Windows 11, Office 2024 et même Windows 10 LTSC. Le post Offres de la rentrée GoDeal24 : Office 2024 Pro Plus...",
+      "published": "2026-08-20T09:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "821760d01623360ad2a4d357893c0519",
+      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the...",
+      "published": "2026-08-20T08:42:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA5ySurVDL2oPvG7l78G22fbZEDplybrP5KX79GCEuhHybqkIgDGWDY_iHNfSLhKMt4sxn51CF33lRNwyjQy-l4Zajbkl9qUFxsjHEIoVsFhWBcGoHavMzOnmbWAI-8VHreBmZhuoCPs_N5KAKLFccr-bFLhzvJq12bvhvp5upRSkZulRN4tUDUTkfTRqo/s1600/firefox.png"
+    },
+    {
+      "id": "c64deb15868ca6faf0a35bdc27a66130",
+      "title": "CoSnitch : Copilot a lui-même livré la faille qui permet de voler vos données",
+      "link": "https://www.it-connect.fr/cosnitch-cve-2026-24301-copilot-personal-faille-un-clic/",
+      "summary": "CoSnitch (CVE-2026-24301) : un clic suffisait pour que Copilot exfiltre vos e-mails. Et c'est l'IA elle-même qui a livré la faille aux chercheurs. Le post CoSnitch : Copilot a lui-même livré la faille qui permet de vo...",
+      "published": "2026-08-20T07:28:47+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "141a6d50f6fa35b43339599ab83f094c",
+      "title": "Geekom retire enfin un pilote que Windows Defender signalait comme vérolé depuis 2024",
+      "link": "https://korben.info/geekom-mini-pc-malware-verifier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Geekom a retiré de ses vieilles pages de support un installeur de pilote réseau que quatre plateformes d'analyse signalent. Le propriétaire d'un AE8 l'avait déjà repéré le 29 décembre 2024, et un membre du forum Compu...",
+      "published": "2026-08-20T07:02:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/geekom-mini-pc-malware-verifier/geekom-mini-pc-malware-verifier-1.jpg"
+    },
+    {
+      "id": "56d67593c5837098f43ebf57dcb3556f",
+      "title": "Firefox 154 est disponible : WebSockets sous contrôle, GeForce NOW et 58 failles corrigées",
+      "link": "https://www.it-connect.fr/firefox-154-websockets-reseau-local-securite-geforce-now/",
+      "summary": "Firefox 154 étend les protections du réseau local aux WebSockets, corrige 58 failles et ajoute le support de GeForce NOW pour jouer dans votre navigateur. Le post Firefox 154 est disponible : WebSockets sous contrôle,...",
+      "published": "2026-08-20T07:00:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "993c61ad1beb14860027a3e293ddf773",
+      "title": "Microsoft says August Windows updates may cause gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
+      "published": "2026-08-20T06:51:03+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "441389475fffada37da2a64930e78d20",
+      "title": "oMLX – Faites tourner vos agents IA en local sur votre Mac",
+      "link": "https://korben.info/omlx-serveur-llm-local-apple-silicon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "oMLX écrit le cache KV de vos modèles sur le SSD au lieu de le garder en mémoire, donc reprendre une session ne repasse plus par un recalcul complet du contexte. En échange, le cache est actif d'office et vise 10 % de...",
+      "published": "2026-08-20T06:31:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/omlx-serveur-llm-local-apple-silicon/omlx-serveur-llm-local-apple-silicon-1.png"
+    },
     {
       "id": "19fbceb93bad81f0266c6039aedf5ac4",
       "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
@@ -93,26 +243,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg"
     },
     {
-      "id": "0cce8c11a06a615e0a70c1f73151ef93",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "published": "2026-08-19T17:50:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6d4c3408d3342f9f601db1f8dd1fcc23",
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
-      "published": "2026-08-19T15:56:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d1e156281a179837fb63b7b1e96d186f",
       "title": "Votre analyse Defender s’arrêtait à 80 % sur Windows ? Microsoft a corrigé ce bug !",
       "link": "https://www.it-connect.fr/defender-plantage-analyse-rapide-mise-a-jour-signatures/",
@@ -130,16 +260,6 @@
       "published": "2026-08-19T14:01:15+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "14d3cb85f2bdc0cda0f1d690006e0570",
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in ...",
-      "published": "2026-08-19T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -181,36 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
-    },
-    {
-      "id": "a9c1e1f43f896c68d796aa902612222f",
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
-      "published": "2026-08-19T11:14:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fa5d67880a62512a1cf7c182011b7e51",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The s...",
-      "published": "2026-08-19T11:01:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg"
-    },
-    {
-      "id": "9cbb824c89b4e85389aa6a6aa5e4fb03",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions co...",
-      "published": "2026-08-19T10:12:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "fc716f6607b8afce231adfb055a6845b",
@@ -263,16 +353,6 @@
       "image": "https://korben.info/quake-shareware-cd-rom-tous-les-jeux-id-chiffres/quake-shareware-cd-rom-tous-les-jeux-id-chiffres-1.png"
     },
     {
-      "id": "d886f1e71adaf94e97692b29a96aff33",
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, traci...",
-      "published": "2026-08-19T06:01:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg"
-    },
-    {
       "id": "aac13d85b50889fed82f684cef4a6f39",
       "title": "GeForce NOW dans Firefox - 2 000 jeux PC dispo sans rien installer",
       "link": "https://korben.info/firefox-geforce-now-partenariat.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -281,16 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/firefox-geforce-now-partenariat/firefox-geforce-now-partenariat-1.gif"
-    },
-    {
-      "id": "50b179a48e86a72abddf735b642379fb",
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) so...",
-      "published": "2026-08-19T05:39:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg"
     },
     {
       "id": "0a4a5f7c432f98c6ca1edb96b6e9c6cb",
@@ -313,16 +383,6 @@
       "image": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia/cmp-170hx-vram-debloquee-mod-ia-1.png"
     },
     {
-      "id": "f6a6b1e51b29ebcdff6f7788507773fa",
-      "title": "IA : il cache une injection de prompt dans un document judiciaire, le juge le sanctionne",
-      "link": "https://www.it-connect.fr/injection-prompt-document-judiciaire-connecticut-sanction/",
-      "summary": "Un plaignant a caché du texte blanc dans ses écritures pour manipuler toute IA lisant le document. Le juge lui a retiré l'accès au dépôt en ligne. Le post IA : il cache une injection de prompt dans un document judicia...",
-      "published": "2026-08-18T11:30:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "5e345a5a15263f5ee42ff9a9d9a0084d",
       "title": "Un atelier japonais double la VRAM des RTX 2080 Ti pour pas cher",
       "link": "https://korben.info/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -341,66 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/invisible-car-flock-camera-machine-learning/invisible-car-flock-camera-machine-learning-1.png"
-    },
-    {
-      "id": "605d1d2802c3fba7bdc60d2ff55e86b7",
-      "title": "Le site à envoyer à tous ceux qui vous copient collent depuis ChatGPT",
-      "link": "https://korben.info/dont-paste-the-ai.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Une page à envoyer, traduite en français, à qui vous répond par un mur de chatbot qu'il n'a pas lu. Elle donne quatre conseils, dont un seul se paie vraiment : annoncer ce qu'on cite d'un modèle. Treize expériences me...",
-      "published": "2026-08-18T09:15:47+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/dont-paste-the-ai/dont-paste-the-ai-1.png"
-    },
-    {
-      "id": "32c68564b97c0f3df2c47ecdce367508",
-      "title": "Gadgetbridge - L'appli qui gère votre montre connectée sans Internet",
-      "link": "https://korben.info/gadgetbridge-montre-connectee-sans-cloud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Gadgetbridge remplace l'application du fabricant de votre montre, bracelet ou casque Bluetooth par une appli Android libre à qui le manifeste retire la permission INTERNET. 529 modèles de 74 fabricants sont documentés...",
-      "published": "2026-08-18T08:44:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gadgetbridge-montre-connectee-sans-cloud/gadgetbridge-montre-connectee-sans-cloud-1.png"
-    },
-    {
-      "id": "b44f239239b23976be533ed5a3fcc7db",
-      "title": "ShieldBreak : cette faille zero-day menace Windows, Microsoft prépare un patch",
-      "link": "https://www.it-connect.fr/shieldbreak-zero-day-defender-cve-2026-69414/",
-      "summary": "Nightmare Eclipse a publié ShieldBreak, une faille zero-day qui contourne le patch RoguePlanet de Microsoft Defender. Microsoft dit travailler sur un correctif. Le post ShieldBreak : cette faille zero-day menace Windo...",
-      "published": "2026-08-18T08:14:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "21b939faa69c9799ca58b4dbeca62a8a",
-      "title": "Patch Tuesday Août 2026 : 421 failles corrigées et une zero-day exploitée par Lazarus",
-      "link": "https://www.it-connect.fr/patch-tuesday-aout-2026-421-failles-corrigees-3-zero-day/",
-      "summary": "Microsoft a corrigé 421 vulnérabilités en août 2026, dont 3 zero-day. L'une d'elles était déjà exploitée par Lazarus pour déployer son rootkit FudModule. Le post Patch Tuesday Août 2026 : 421 failles corrigées et une ...",
-      "published": "2026-08-18T06:34:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "10bcb76d0a696d30ae2c3f4a936841e9",
-      "title": "Lundi 17 août 2026 : Microsoft confirme que GitHub est en panne à l’échelle mondiale !",
-      "link": "https://www.it-connect.fr/panne-mondiale-github-lundi-17-aout-2026/",
-      "summary": "GitHub subit une panne mondiale ce 17 août 2026 : 20 % d'erreurs sur le web et l'API, Actions, Copilot et les pull requests dégradés. Voici ce que l'on sait. Le post Lundi 17 août 2026 : Microsoft confirme que GitHub ...",
-      "published": "2026-08-17T15:23:49+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a15a77db0ed227ce0df692fc120ee0cf",
-      "title": "Exchange Server SE : Microsoft explique pourquoi la CU1 n’arrive toujours pas",
-      "link": "https://www.it-connect.fr/exchange-server-se-microsoft-explique-pourquoi-la-cu1-narrive-toujours-pas/",
-      "summary": "Microsoft explique le retard de la CU1 d'Exchange Server SE : les failles remontées par ses outils d'IA saturent ses équipes. Aucune date n'est annoncée. Le post Exchange Server SE : Microsoft explique pourquoi la CU1...",
-      "published": "2026-08-17T14:33:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "5ba09e33423aafec6afcc0f473b8a71f",
