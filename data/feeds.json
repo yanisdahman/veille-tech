@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-08-21T12:39:02.966463+00:00",
+  "last_updated": "2026-08-21T18:31:22.604772+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "18656901e610751062f1677e4314afe7",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+      "published": "2026-08-21T18:01:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2376f2200c42a8480effb95b774358a3",
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "published": "2026-08-21T15:55:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7600d1b20cbf1f24fc7b46e27662ba23",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems rang...",
+      "published": "2026-08-21T15:52:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
+    },
+    {
+      "id": "bfe8f3582486d3c104d32bb1424e8e1a",
+      "title": "Citrix NetScaler (CVE-2026-19490) : cette faille critique permet de contourner l’authentification",
+      "link": "https://www.it-connect.fr/citrix-netscaler-cve-2026-19490-contournement-authentification/",
+      "summary": "Citrix a corrigé deux vulnérabilités dans NetScaler ADC et Gateway. La CVE-2026-19490 ouvre la porte à un contournement de l'authentification à distance. Le post Citrix NetScaler (CVE-2026-19490) : cette faille critiq...",
+      "published": "2026-08-21T15:47:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a613782e7c9d9096f7faa722d8cdd52a",
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said...",
+      "published": "2026-08-21T15:41:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
+    },
+    {
+      "id": "ba8a17f583f2bc9fdefff38bef21b611",
+      "title": "Keycloak : cette faille critique permet de pirater un compte via la fonction de mot de passe oublié",
+      "link": "https://www.it-connect.fr/keycloak-cve-2026-18963-faille-critique-mot-de-passe-oublie/",
+      "summary": "La faille CVE-2026-18963 permet de réinitialiser le mot de passe de n'importe quel compte Keycloak sans authentification. Un patch est disponible. Le post Keycloak : cette faille critique permet de pirater un compte v...",
+      "published": "2026-08-21T15:10:40+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c3b8c8f7e504df3be87c9e4a2b635fab",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "published": "2026-08-21T14:54:49+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9167c8e029a2200661690df444ad3add",
+      "title": "Endstate : sauvegarder et restaurer ses applications Windows (et leurs configs) sur un nouveau PC",
+      "link": "https://www.it-connect.fr/endstate-sauvegarder-restaurer-applications-windows/",
+      "summary": "Découvrez Endstate, un outil open source qui sauvegarde les applications et les réglages d'un PC Windows dans un fichier, puis les restaure sur un nouveau PC. Le post Endstate : sauvegarder et restaurer ses applicatio...",
+      "published": "2026-08-21T14:17:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "836a37debb887687ab6a3faac18a68f4",
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correl...",
+      "published": "2026-08-21T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f54488ac16fa6618ce6e85008f8653b9",
+      "title": "Entra ID : une faille critique a été exploitée, mais vous n’avez rien à patcher",
+      "link": "https://www.it-connect.fr/entra-id-cve-2026-69836-faille-cvss-10-exploitee/",
+      "summary": "Microsoft a corrigé la CVE-2026-69836, une faille critique dans Entra ID déjà exploitée dans la nature. La bonne nouvelle : vous n'avez rien à faire. Le post Entra ID : une faille critique a été exploitée, mais vous n...",
+      "published": "2026-08-21T13:55:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3261f33817177cbf9361df70d1010afa",
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+      "published": "2026-08-21T13:39:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "e0291f3e167512cd5cae927d10012883",
       "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
@@ -116,7 +226,7 @@
       "id": "88faf52e16f08f449fb844179ab258d7",
       "title": "Agence Display : réussir vos campagnes publicitaires en 2026",
       "link": "https://www.it-connect.fr/agence-display-reussir-vos-campagnes-publicitaires-en-2026/",
-      "summary": "Bannières animées, visuels contextuels, publicités vidéo... La publicité display est aujourd'hui omniprésente sur le web et demeure l'un des leviers les plus puissants pour développer sa notoriété, générer du trafic e...",
+      "summary": "Découvrez comment une agence display transforme votre budget en visibilité, trafic et conversions grâce à un ciblage précis et des formats performants. Le post Agence Display : réussir vos campagnes publicitaires en 2...",
       "published": "2026-08-21T09:05:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
@@ -134,9 +244,9 @@
     },
     {
       "id": "316702e0d5efb794a983b72696aa7c18",
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
       "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CV...",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table a...",
       "published": "2026-08-21T06:06:11+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -191,116 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
-    },
-    {
-      "id": "0c05cdf9e182550f42f2343e7da471b8",
-      "title": "Le NFI a déverrouillé un Google Pixel dans une affaire criminelle néerlandaise",
-      "link": "https://www.it-connect.fr/le-nfi-a-deverrouille-un-google-pixel-dans-une-affaire-criminelle-neerlandaise/",
-      "summary": "Le parquet néerlandais annonce que l'institut forensique a ouvert le smartphone Google Pixel d'un suspect, de quoi relancer certains débats. Le post Le NFI a déverrouillé un Google Pixel dans une affaire criminelle né...",
-      "published": "2026-08-20T16:30:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ed6dcd4ce5d1ba5d011e96719b0274ff",
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "published": "2026-08-20T14:39:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8d195d50d2e1ad93a8823bcb29188eb5",
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-contr...",
-      "published": "2026-08-20T14:36:27+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
-    },
-    {
-      "id": "3dda4e8efc1c2d32503aabb09f774ff7",
-      "title": "Microsoft 365 : environ 171 000 associations auraient perdu leurs données OneDrive",
-      "link": "https://www.it-connect.fr/microsoft-365-associations-perte-donnees-onedrive-arret-offre-gratuite/",
-      "summary": "Après l'arrêt d'une offre Microsoft 365 gratuite pour les associations, des milliers d'espaces OneDrive ont été effacés des tenants Microsoft. À qui la faute ? Le post Microsoft 365 : environ 171 000 associations aura...",
-      "published": "2026-08-20T14:11:54+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "99e15a5570a217f1fbe94c021d3cafe6",
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain att...",
-      "published": "2026-08-20T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2c4b8ec76f592055f97bbf4aa7745cf9",
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of ...",
-      "published": "2026-08-20T13:48:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg"
-    },
-    {
-      "id": "da4ae9016f8abf29d8e0ee3cc865b5c7",
-      "title": "France : SFR confirme une nouvelle fuite de données visant ses abonnés fibre",
-      "link": "https://www.it-connect.fr/sfr-fuite-donnees-abonnes-fibre-nova/",
-      "summary": "SFR confirme un incident détecté le 2 juillet sur un outil de gestion des raccordements fibre. Un pirate revendique 2,1 millions de lignes de données. Le post France : SFR confirme une nouvelle fuite de données visant...",
-      "published": "2026-08-20T13:26:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f047c0e7ad797f0db264af3a46f5250e",
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-      "published": "2026-08-20T12:14:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ef3e35112b19119874fd1816d88d95b2",
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-      "published": "2026-08-20T11:06:14+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1fba0d3973cd6a7a63cafdbb51745ba4",
-      "title": "Geekom : un pilote réseau malveillant était téléchargeable depuis son site de support",
-      "link": "https://www.it-connect.fr/geekom-pilote-lan-malware-asruex-mini-pc/",
-      "summary": "L'installation du pilote réseau de 6 mini PC Geekom est détecté comme malveillant par 4 plateformes d'analyse, mais tous les PC ne sont pas infectés. Le post Geekom : un pilote réseau malveillant était téléchargeable ...",
-      "published": "2026-08-20T11:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6bc25b023389e4150c835686afadef33",
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "published": "2026-08-20T10:02:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "141a6d50f6fa35b43339599ab83f094c",
@@ -373,6 +373,46 @@
       "image": "https://korben.info/firefox-geforce-now-partenariat/firefox-geforce-now-partenariat-1.gif"
     },
     {
+      "id": "c59838de24f1f1bc56e6be25bc4f3a87",
+      "title": "Multiples vulnérabilités dans les produits Axis (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1042/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
+      "published": "2026-08-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "96e477ba6cb34769348700f51a6a9fb2",
+      "title": "Multiples vulnérabilités dans Oracle MySQL (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1049/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une attei...",
+      "published": "2026-08-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f3e604601f48c9a56ca413d2a6b09b89",
+      "title": "Vulnérabilité dans les produits Moxa (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1055/",
+      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "published": "2026-08-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "50d814240b1ae60a09511a00ec6fd57e",
+      "title": "Multiples vulnérabilités dans Python (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1044/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de s...",
+      "published": "2026-08-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "8ab208b7c0433b59bf1f2db94ea9fa95",
       "title": "Nvidia CMP 170HX - La VRAM était bien là, bridée par le firmware",
       "link": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -403,91 +443,51 @@
       "image": "https://korben.info/invisible-car-flock-camera-machine-learning/invisible-car-flock-camera-machine-learning-1.png"
     },
     {
-      "id": "5ba09e33423aafec6afcc0f473b8a71f",
-      "title": "Vulnérabilité dans OpenSSL (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1026/",
-      "summary": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-08-14T00:00:00+00:00",
+      "id": "f4ec45e321117656c7ef9783142a9802",
+      "title": "Multiples vulnérabilités dans GitLab (18 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1037/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une injection de requêtes illégitimes par rebond (C...",
+      "published": "2026-08-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "4d61f3c395c69f16ddf1c710eef4706a",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1028/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
-      "published": "2026-08-14T00:00:00+00:00",
+      "id": "616a98fffffd532b04e6ce0b622c429e",
+      "title": "Multiples vulnérabilités dans Mattermost Desktop App (18 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1040/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'édi...",
+      "published": "2026-08-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "1dfe5b4c814f82b2bf0a6afc6cdf49ea",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1027/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un problème de...",
-      "published": "2026-08-14T00:00:00+00:00",
+      "id": "c35f0918644ec121f2200dcf35453586",
+      "title": "Multiples vulnérabilités dans Typo3 (18 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1036/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-08-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "20cd1a5df29fd592faf704e56f9a6523",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1029/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à ...",
-      "published": "2026-08-14T00:00:00+00:00",
+      "id": "acc441941d2f68e6fb981d794aa27ac4",
+      "title": "Multiples vulnérabilités dans Zabbix (18 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1039/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte ...",
+      "published": "2026-08-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "c3373e77dcdf371a8f2bddb9dab7be25",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1031/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "472fdbd5b401796f82c83a0087b86f97",
-      "title": "Multiples vulnérabilités dans PostgreSQL (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1024/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteint...",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "41b6278d10abae45662c25d1c3724c36",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1030/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de serv...",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "88819fcd87cde504bcef293d630f25c6",
-      "title": "Multiples vulnérabilités dans les produits IBM (14 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1032/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a5333a203c0f19c08a0eb1fd96259686",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-034 (10 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-034/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-08-10T00:00:00+00:00",
+      "id": "30d73536d5dbd25db16501bc7cd9760a",
+      "title": "Multiples vulnérabilités dans les produits Apple (18 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1038/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de servi...",
+      "published": "2026-08-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
