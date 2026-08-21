@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-08-21T06:39:21.345810+00:00",
+  "last_updated": "2026-08-21T12:39:02.966463+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "e0291f3e167512cd5cae927d10012883",
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. ...",
+      "published": "2026-08-21T12:25:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "24b55c124e0706627488ac419859c908",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncov...",
+      "published": "2026-08-21T11:21:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
+    },
+    {
+      "id": "4d91958a953d52bd64060e6ec193dce4",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "published": "2026-08-21T11:04:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1fa0b0ea5cef1a8d4b829ec1c71ed3fa",
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "published": "2026-08-21T11:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "294813de6ce7692e1154ab4fe7e6c5e7",
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Cli...",
+      "published": "2026-08-21T10:10:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f87f839adbe5f3bf19c3f38bb5c4a264",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Cro...",
+      "published": "2026-08-21T10:03:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
+    },
+    {
+      "id": "9c6bc4a3cd884f5f48e8865499c82435",
+      "title": "Graft, l’outil open source qui cartographie votre code pour les agents IA",
+      "link": "https://www.it-connect.fr/graft-contexte-open-source-agents-ia-codage/",
+      "summary": "Graft, outil open source signé Nanonets, transforme votre dépôt en graphe Markdown lisible par Claude Code, Cursor ou Codex. De quoi brûler moins de tokens. Le post Graft, l’outil open source qui cartographie votre co...",
+      "published": "2026-08-21T09:25:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fc5c734d1ca4419908a1b9ee8f2c29c1",
+      "title": "GitLab : la faille critique CVE-2026-19478 est déjà exploitée, deux jours après le correctif",
+      "link": "https://www.it-connect.fr/gitlab-cve-2026-19478-faille-critique-exploitee/",
+      "summary": "Deux jours après le correctif publié par GitLab, la faille critique CVE-2026-19478 fait l'objet de tentatives d'exploitation par les pirates. Le post GitLab : la faille critique CVE-2026-19478 est déjà exploitée, deux...",
+      "published": "2026-08-21T09:20:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e86d29fe822a0e6ad5eb299694a77466",
+      "title": "Windows 11 : la mise à jour KB5121003 fait planter des jeux, Microsoft cherche une solution",
+      "link": "https://www.it-connect.fr/windows-11-kb5121003-plantages-jeux-microsoft-enquete/",
+      "summary": "Microsoft enquête sur les plantages de jeux provoqués par la mise à jour KB5121003 de Windows 11. Le studio Embark pointe le pilote tiers inpoutx64.sys. Le post Windows 11 : la mise à jour KB5121003 fait planter des j...",
+      "published": "2026-08-21T09:15:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "729c0c50ce15e1e27cb066a5ec104b0c",
+      "title": "Proton Mail trie enfin vos e-mails automatiquement, et sans lire leur contenu",
+      "link": "https://www.it-connect.fr/proton-mail-categories-boite-de-reception/",
+      "summary": "Proton déploie les catégories dans Proton Mail : six onglets pour trier vos e-mails entrants, avec un classement basé sur les métadonnées et non sur le contenu. Le post Proton Mail trie enfin vos e-mails automatiqueme...",
+      "published": "2026-08-21T09:12:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0879df0c97aa8df22a84163c4573e2df",
+      "title": "Elementor Pro : une faille critique permet de prendre le contrôle d’un site WordPress",
+      "link": "https://www.it-connect.fr/elementor-pro-cve-2026-32475-rce-non-authentifiee/",
+      "summary": "CVE-2026-32475 : un visiteur anonyme peut déposer et exécuter un fichier PHP via un formulaire Elementor Pro. Voici comment protéger votre site WordPress. Le post Elementor Pro : une faille critique permet de prendre ...",
+      "published": "2026-08-21T09:08:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "88faf52e16f08f449fb844179ab258d7",
+      "title": "Agence Display : réussir vos campagnes publicitaires en 2026",
+      "link": "https://www.it-connect.fr/agence-display-reussir-vos-campagnes-publicitaires-en-2026/",
+      "summary": "Bannières animées, visuels contextuels, publicités vidéo... La publicité display est aujourd'hui omniprésente sur le web et demeure l'un des leviers les plus puissants pour développer sa notoriété, générer du trafic e...",
+      "published": "2026-08-21T09:05:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "10f1baf1b3748c8a151c18dcd4994885",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code ...",
+      "published": "2026-08-21T07:04:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
+    },
     {
       "id": "316702e0d5efb794a983b72696aa7c18",
       "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
@@ -123,16 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg"
     },
     {
-      "id": "f8e783bf323dd85cfdd2fcf89d722fb9",
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing ...",
-      "published": "2026-08-20T13:35:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCXrYMA_j7aJrrdIZKt2gQwTWYXhhHZTfBvrNcgpLLBTa5hzcmDNguBKwBhiD8p7kO5K2OeQYVbIPg2HHDBwu9LNzR6oAFE-znmFWIgjY_XzA0qdy-rA8XzV_uGvsxLWRNXCyyOlUKdDV0LGrXPN15wxYsTuZslyecGQ1cqE2OKdX5cocpp74uXenwdj0/s1600/citrix.jpg"
-    },
-    {
       "id": "da4ae9016f8abf29d8e0ee3cc865b5c7",
       "title": "France : SFR confirme une nouvelle fuite de données visant ses abonnés fibre",
       "link": "https://www.it-connect.fr/sfr-fuite-donnees-abonnes-fibre-nova/",
@@ -143,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "3d34659317a884e03a7231aa658cb015",
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is...",
-      "published": "2026-08-20T13:24:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg"
-    },
-    {
       "id": "f047c0e7ad797f0db264af3a46f5250e",
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
@@ -161,16 +271,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "aeae59ef703e89f17afbeb8a57a07df9",
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) ...",
-      "published": "2026-08-20T12:01:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1600/visa.jpg"
     },
     {
       "id": "ef3e35112b19119874fd1816d88d95b2",
@@ -203,46 +303,6 @@
       "image": ""
     },
     {
-      "id": "92d766d0fc8a0114eb1166b3b1099409",
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-      "published": "2026-08-20T09:46:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e88496a661bdef59173d23d8531ae5e8",
-      "title": "Votre PC utilise-t-il vraiment son NPU ? Windows 11 peut vous le dire",
-      "link": "https://www.it-connect.fr/windows-11-gestionnaire-taches-surveillance-npu-charges-ia/",
-      "summary": "Microsoft explique comment lire les colonnes NPU et GPU du Gestionnaire des tâches pour savoir si vos applications exploitent le matériel IA de la machine. Le post Votre PC utilise-t-il vraiment son NPU ? Windows 11 p...",
-      "published": "2026-08-20T09:34:52+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f1c1f634bd1237cd22beda9edcc4c7b3",
-      "title": "Offres de la rentrée GoDeal24 : Office 2024 Pro Plus à 19.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-des-promos-sur-les-licences-office-2021-windows-10-et-windows-11/",
-      "summary": "Notre partenaire GoDeal24 propose une nouvelle vente flash avec des prix très intéressants sur les licences Windows 11, Office 2024 et même Windows 10 LTSC. Le post Offres de la rentrée GoDeal24 : Office 2024 Pro Plus...",
-      "published": "2026-08-20T09:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c64deb15868ca6faf0a35bdc27a66130",
-      "title": "CoSnitch : Copilot a lui-même livré la faille qui permet de voler vos données",
-      "link": "https://www.it-connect.fr/cosnitch-cve-2026-24301-copilot-personal-faille-un-clic/",
-      "summary": "CoSnitch (CVE-2026-24301) : un clic suffisait pour que Copilot exfiltre vos e-mails. Et c'est l'IA elle-même qui a livré la faille aux chercheurs. Le post CoSnitch : Copilot a lui-même livré la faille qui permet de vo...",
-      "published": "2026-08-20T07:28:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "141a6d50f6fa35b43339599ab83f094c",
       "title": "Geekom retire enfin un pilote que Windows Defender signalait comme vérolé depuis 2024",
       "link": "https://korben.info/geekom-mini-pc-malware-verifier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -251,26 +311,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/geekom-mini-pc-malware-verifier/geekom-mini-pc-malware-verifier-1.jpg"
-    },
-    {
-      "id": "56d67593c5837098f43ebf57dcb3556f",
-      "title": "Firefox 154 est disponible : WebSockets sous contrôle, GeForce NOW et 58 failles corrigées",
-      "link": "https://www.it-connect.fr/firefox-154-websockets-reseau-local-securite-geforce-now/",
-      "summary": "Firefox 154 étend les protections du réseau local aux WebSockets, corrige 58 failles et ajoute le support de GeForce NOW pour jouer dans votre navigateur. Le post Firefox 154 est disponible : WebSockets sous contrôle,...",
-      "published": "2026-08-20T07:00:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "993c61ad1beb14860027a3e293ddf773",
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "published": "2026-08-20T06:51:03+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "441389475fffada37da2a64930e78d20",
@@ -291,46 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/surfshark-protection-anti-scam-sms/surfshark-protection-anti-scam-sms-1.webp"
-    },
-    {
-      "id": "4e848b13af5f7fa169552f0f8f8d8d17",
-      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-      "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
-      "published": "2026-08-20T00:20:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b2ab180c5bf7ee832cf33ad61e5d60aa",
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delet...",
-      "published": "2026-08-19T20:59:58+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d1e156281a179837fb63b7b1e96d186f",
-      "title": "Votre analyse Defender s’arrêtait à 80 % sur Windows ? Microsoft a corrigé ce bug !",
-      "link": "https://www.it-connect.fr/defender-plantage-analyse-rapide-mise-a-jour-signatures/",
-      "summary": "Depuis le 18 août 2026, Microsoft Defender plantait en fin d'analyse sur Windows 10 et 11. Microsoft a confirmé le bug et l'a corrigé via une mise à jour. Le post Votre analyse Defender s’arrêtait à 80 % sur Windows ?...",
-      "published": "2026-08-19T14:39:11+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3359d27f8f2bbad96e12f78ee57bc802",
-      "title": "Thunderbird 154 active Microsoft Graph pour les comptes Microsoft 365",
-      "link": "https://www.it-connect.fr/thunderbird-154-microsoft-graph-microsoft-365/",
-      "summary": "Thunderbird 154 active la prise en charge de Microsoft Graph pour les comptes Microsoft 365, à six semaines du blocage d'EWS. Le point sur les nouveautés. Le post Thunderbird 154 active Microsoft Graph pour les compte...",
-      "published": "2026-08-19T14:01:15+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "0e69f501406c822e881d6eba0c71396f",
