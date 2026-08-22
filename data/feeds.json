@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T06:33:16.530935+00:00",
+  "last_updated": "2026-08-22T12:31:38.743616+00:00",
   "count": 50,
   "articles": [
     {
@@ -104,9 +104,9 @@
     },
     {
       "id": "f54488ac16fa6618ce6e85008f8653b9",
-      "title": "Entra ID : une faille critique a été exploitée, mais vous n’avez rien à patcher",
+      "title": "Entra ID : une faille critique a été patchée, mais vous n’avez rien à faire",
       "link": "https://www.it-connect.fr/entra-id-cve-2026-69836-faille-cvss-10-exploitee/",
-      "summary": "Microsoft a corrigé la CVE-2026-69836, une faille critique dans Entra ID déjà exploitée dans la nature. La bonne nouvelle : vous n'avez rien à faire. Le post Entra ID : une faille critique a été exploitée, mais vous n...",
+      "summary": "Microsoft a corrigé la CVE-2026-69836, une faille critique dans Entra ID déjà exploitée dans la nature. La bonne nouvelle : vous n'avez rien à faire. Le post Entra ID : une faille critique a été patchée, mais vous n’a...",
       "published": "2026-08-21T13:55:06+00:00",
       "source": "IT-Connect",
       "category": "reseau",
@@ -144,7 +144,7 @@
     },
     {
       "id": "4d91958a953d52bd64060e6ec193dce4",
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
       "published": "2026-08-21T11:04:10+00:00",
