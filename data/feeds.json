@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-24T12:41:26.058937+00:00",
+  "last_updated": "2026-08-24T18:34:44.510214+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9739e2a813fffd25ebdd66e0c177d04c",
+      "title": "TikTok reaches $400M settlement with US over COPPA violations",
+      "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+      "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
+      "published": "2026-08-24T17:56:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0cb1df84f3b2480b5e558ec469787337",
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+      "published": "2026-08-24T15:17:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4bf2ab2949283591227cdb2f8fdd770a",
+      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI make...",
+      "published": "2026-08-24T14:32:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg"
+    },
+    {
+      "id": "c0af64fae2cfd4b067c3f9781adcdc1b",
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+      "published": "2026-08-24T14:00:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "66c544b6514d0727bcc07db2c04c20c8",
+      "title": "South Korean startup platform breach exposes key management failures",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kep...",
+      "published": "2026-08-24T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "909558322f9ad23484ac38f0632d5cd8",
       "title": "Microsoft: August updates break printing, PDF export in WPF apps",
@@ -11,6 +61,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "0308a4d48132bf0f727f2d3787cd3034",
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from G...",
+      "published": "2026-08-24T12:35:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg"
     },
     {
       "id": "fd9983cd779047fb20e21d2634a69dd5",
@@ -173,26 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
     },
     {
-      "id": "18656901e610751062f1677e4314afe7",
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
-      "published": "2026-08-21T18:01:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2376f2200c42a8480effb95b774358a3",
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
-      "published": "2026-08-21T15:55:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "7600d1b20cbf1f24fc7b46e27662ba23",
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
@@ -213,16 +253,6 @@
       "image": ""
     },
     {
-      "id": "a613782e7c9d9096f7faa722d8cdd52a",
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said...",
-      "published": "2026-08-21T15:41:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
-    },
-    {
       "id": "ba8a17f583f2bc9fdefff38bef21b611",
       "title": "Keycloak : cette faille critique permet de pirater un compte via la fonction de mot de passe oublié",
       "link": "https://www.it-connect.fr/keycloak-cve-2026-18963-faille-critique-mot-de-passe-oublie/",
@@ -230,16 +260,6 @@
       "published": "2026-08-21T15:10:40+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c3b8c8f7e504df3be87c9e4a2b635fab",
-      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
-      "published": "2026-08-21T14:54:49+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -253,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "836a37debb887687ab6a3faac18a68f4",
-      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correl...",
-      "published": "2026-08-21T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f54488ac16fa6618ce6e85008f8653b9",
       "title": "Entra ID : une faille critique a été patchée, mais vous n’avez rien à faire",
       "link": "https://www.it-connect.fr/entra-id-cve-2026-69836-faille-cvss-10-exploitee/",
@@ -271,16 +281,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "24b55c124e0706627488ac419859c908",
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncov...",
-      "published": "2026-08-21T11:21:39+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
     },
     {
       "id": "9c6bc4a3cd884f5f48e8865499c82435",
