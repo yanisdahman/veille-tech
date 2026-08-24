@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-08-24T06:50:47.005362+00:00",
+  "last_updated": "2026-08-24T12:41:26.058937+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "909558322f9ad23484ac38f0632d5cd8",
+      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+      "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
+      "published": "2026-08-24T12:40:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fd9983cd779047fb20e21d2634a69dd5",
+      "title": "J'ai tapé mon nom sur Google et j'ai trouvé mon adresse perso.",
+      "link": "https://korben.info/mon-nom-sur-google.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "-- Article en partenariat avec Incogni -- Vous avez déjà tapé votre nom sur Google ? Non, pas pour stalker votre ex. Votre PROPRE nom. Faites-le. Je vous attends. ... Vous avez trouvé quelque chose ? Peut-être votre a...",
+      "published": "2026-08-24T12:07:10+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mon-nom-sur-google/mon-nom-sur-google-1.png"
+    },
+    {
+      "id": "e30e4314ea54d55071a66e0cbb168299",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ...",
+      "published": "2026-08-24T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
+    },
+    {
+      "id": "06038fb7d3a21760aead57adcae3f3c6",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any ...",
+      "published": "2026-08-24T11:56:34+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg"
+    },
+    {
+      "id": "ddd8f51ea792e0e7d234fac26dc3e940",
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVE...",
+      "published": "2026-08-24T11:51:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU29lFKKhJ4-37mroz3wn9p8YejZSqMG70AcTu4Z_FLB6hhof-kGO8-6KOfJcE5TXPvrziWpqDpLu_Mi64u8ilPMtdicwexovYdtmVQhhFOTlAeEamKEccbGQf4Y15ufNQRggwtyzLJy32qocItBHu4FX7FLYDYbnjBXuYMtflnNB4ttrzIdynMPcquxs/s1600/silver.jpg"
+    },
+    {
+      "id": "4f2714e5f03f671d35971b7e0af3bc86",
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful...",
+      "published": "2026-08-24T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg"
+    },
+    {
+      "id": "9b73ca67620d91c4b54b4e804fd44736",
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+      "published": "2026-08-24T10:45:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2985120aa03891f55586252011c6cef3",
+      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+      "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+      "published": "2026-08-24T09:42:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "35db47ce9e2b171875fcd8c2b9dfa4f0",
+      "title": "Un piratage bien gênant au Liechtenstein",
+      "link": "https://korben.info/un-piratage-bien-genant-au-liechtenstein.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Toutes les fuites de données ne se valent pas, et celle-ci a de quoi faire transpirer pas mal de monde. Des pirates ont siphonné le registre des ayants droit économiques du Liechtenstein dans la nuit du 29 au 30 juill...",
+      "published": "2026-08-24T08:59:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-piratage-bien-genant-au-liechtenstein/un-piratage-bien-genant-au-liechtenstein-1.jpg"
+    },
+    {
+      "id": "94cc4991b8bab4162377d31bf300f552",
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sect...",
+      "published": "2026-08-24T08:08:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg"
+    },
     {
       "id": "845983a0f4efa0bd479dc5e1611b1d22",
       "title": "Amazon découpe des livres rares pour entraîner son IA : un AirTag a suivi le colis jusqu’à Las Vegas",
@@ -173,26 +273,6 @@
       "image": ""
     },
     {
-      "id": "3261f33817177cbf9361df70d1010afa",
-      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-      "published": "2026-08-21T13:39:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e0291f3e167512cd5cae927d10012883",
-      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. ...",
-      "published": "2026-08-21T12:25:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "24b55c124e0706627488ac419859c908",
       "title": "Wazuh and AI For Enhanced SOC Workflows",
       "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
@@ -201,26 +281,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
-    },
-    {
-      "id": "4d91958a953d52bd64060e6ec193dce4",
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
-      "published": "2026-08-21T11:04:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f87f839adbe5f3bf19c3f38bb5c4a264",
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Cro...",
-      "published": "2026-08-21T10:03:11+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
     },
     {
       "id": "9c6bc4a3cd884f5f48e8865499c82435",
@@ -261,46 +321,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "10f1baf1b3748c8a151c18dcd4994885",
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code ...",
-      "published": "2026-08-21T07:04:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
-    },
-    {
-      "id": "316702e0d5efb794a983b72696aa7c18",
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table a...",
-      "published": "2026-08-21T06:06:11+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg"
-    },
-    {
-      "id": "84c78cd0aebd56ddd8337a5e98720c3d",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloa...",
-      "published": "2026-08-20T20:22:35+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg"
-    },
-    {
-      "id": "30a3009e2285efbec921efe3e7ffc91b",
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and thi...",
-      "published": "2026-08-20T19:59:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg"
     },
     {
       "id": "141a6d50f6fa35b43339599ab83f094c",
@@ -373,16 +393,6 @@
       "image": "https://korben.info/firefox-geforce-now-partenariat/firefox-geforce-now-partenariat-1.gif"
     },
     {
-      "id": "c59838de24f1f1bc56e6be25bc4f3a87",
-      "title": "Multiples vulnérabilités dans les produits Axis (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1042/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "96e477ba6cb34769348700f51a6a9fb2",
       "title": "Multiples vulnérabilités dans Oracle MySQL (19 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1049/",
@@ -413,6 +423,26 @@
       "image": ""
     },
     {
+      "id": "110e3eb96d9c8c0f3e8db18f2edc36e9",
+      "title": "Multiples vulnérabilités dans Oracle Virtualization (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1052/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l...",
+      "published": "2026-08-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "17c4ab9a540487fedb9d2d4340f4f2f3",
+      "title": "Multiples vulnérabilités dans Oracle Database Server (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1047/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et...",
+      "published": "2026-08-19T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "8ab208b7c0433b59bf1f2db94ea9fa95",
       "title": "Nvidia CMP 170HX - La VRAM était bien là, bridée par le firmware",
       "link": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -423,81 +453,51 @@
       "image": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia/cmp-170hx-vram-debloquee-mod-ia-1.png"
     },
     {
-      "id": "5e345a5a15263f5ee42ff9a9d9a0084d",
-      "title": "Un atelier japonais double la VRAM des RTX 2080 Ti pour pas cher",
-      "link": "https://korben.info/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un atelier de Saitama remplace les 11 puces GDDR6 des RTX 2080 Ti par des modules Samsung 2 Go pour 282 dollars : 22 Go de VRAM, utile en IA locale.",
-      "published": "2026-08-18T11:05:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher-1.jpg"
-    },
-    {
-      "id": "e347039d3f9b11fbd754559050883a44",
-      "title": "Rendre une voiture invisible pour les caméras",
-      "link": "https://korben.info/invisible-car-flock-camera-machine-learning.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un motif généré par ordinateur a fait passer une Toyota Yaris devant une caméra Flock sans qu'aucune alerte ne parte. La plaque était pourtant lisible : c'est la détection du véhicule qui a échoué, pas la lecture. Et ...",
-      "published": "2026-08-18T10:43:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/invisible-car-flock-camera-machine-learning/invisible-car-flock-camera-machine-learning-1.png"
-    },
-    {
-      "id": "f4ec45e321117656c7ef9783142a9802",
-      "title": "Multiples vulnérabilités dans GitLab (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1037/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une injection de requêtes illégitimes par rebond (C...",
-      "published": "2026-08-18T00:00:00+00:00",
+      "id": "bc4395596cb93c0b3379c3881ba5998b",
+      "title": "Vulnérabilité dans SPIP (17 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1033/",
+      "summary": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-08-17T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "616a98fffffd532b04e6ce0b622c429e",
-      "title": "Multiples vulnérabilités dans Mattermost Desktop App (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1040/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'édi...",
-      "published": "2026-08-18T00:00:00+00:00",
+      "id": "ca360243b81e86796fc74bf1f35d9036",
+      "title": "Multiples vulnérabilités dans SPIP (11 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0995/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et une falsification de r...",
+      "published": "2026-08-11T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "c35f0918644ec121f2200dcf35453586",
-      "title": "Multiples vulnérabilités dans Typo3 (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1036/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-08-18T00:00:00+00:00",
+      "id": "67138848da9df3e2d08084aa0f977bcd",
+      "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/",
+      "summary": "Le 17 juillet 2026, WordPress a publié un correctif pour deux vulnérabilités : CVE-2026-60137 : une injection SQL (SQLi) ; CVE-2026-63030 : celle-ci permet un contournement de la politique de sécurité. Un attaquant pe...",
+      "published": "2026-07-20T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "acc441941d2f68e6fb981d794aa27ac4",
-      "title": "Multiples vulnérabilités dans Zabbix (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1039/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte ...",
-      "published": "2026-08-18T00:00:00+00:00",
+      "id": "5411904f141dc30c17a363d6aad19cbd",
+      "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access (15 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-006/",
+      "summary": "Le 14 juillet 2026, Sonicwall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-15409 permet une falsification de requêtes cô...",
+      "published": "2026-07-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "30d73536d5dbd25db16501bc7cd9760a",
-      "title": "Multiples vulnérabilités dans les produits Apple (18 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1038/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de servi...",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bbd32d63c20e2b48ce1335c50e986116",
-      "title": "Multiples vulnérabilités dans Mattermost Desktop App (18 juin 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0777/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-06-18T00:00:00+00:00",
+      "id": "e12f490aac7d29a9e11931bcfa0e0511",
+      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
+      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-010/",
+      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particuliè...",
+      "published": "2025-09-11T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
