@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-24T18:34:44.510214+00:00",
+  "last_updated": "2026-08-25T01:03:18.631355+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9ca1f036253195b3403ed8cff95db470",
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local netwo...",
+      "published": "2026-08-24T21:14:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c5bc5febc9817e9dd06e96218d641305",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators...",
+      "published": "2026-08-24T19:26:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "9739e2a813fffd25ebdd66e0c177d04c",
       "title": "TikTok reaches $400M settlement with US over COPPA violations",
@@ -11,6 +31,26 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "e30e4314ea54d55071a66e0cbb168299",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ...",
+      "published": "2026-08-24T17:41:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
+    },
+    {
+      "id": "ce716be7b0924572304082ee595d9323",
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked mo...",
+      "published": "2026-08-24T17:41:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM9ML6Oc83309fnrqC5YOyteVjfKTYCzrm3KoKbrmts4w0P7kQoBMu9btpIWFoYZePuTnU0TL7Olt7jVqdJylmuxwKcI0_NaKNuHxe0pQwi6W2mz7D-qS4WvW1da7E-QG2eEfNf-MbqmB3GR0psJTTT8RO-NtFnx9yVe8dlItdO2G0Dh4wXFNLs_WIqAHP/s1600/mine.jpg"
     },
     {
       "id": "0cb1df84f3b2480b5e558ec469787337",
@@ -76,21 +116,11 @@
       "id": "fd9983cd779047fb20e21d2634a69dd5",
       "title": "J'ai tapé mon nom sur Google et j'ai trouvé mon adresse perso.",
       "link": "https://korben.info/mon-nom-sur-google.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "-- Article en partenariat avec Incogni -- Vous avez déjà tapé votre nom sur Google ? Non, pas pour stalker votre ex. Votre PROPRE nom. Faites-le. Je vous attends. ... Vous avez trouvé quelque chose ? Peut-être votre a...",
+      "summary": "Incogni, service de suppression de données personnelles chez les data brokers : 420+ courtiers couverts, tarifs de 7,2 à 24 €/mois, audit Deloitte.",
       "published": "2026-08-24T12:07:10+00:00",
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/mon-nom-sur-google/mon-nom-sur-google-1.png"
-    },
-    {
-      "id": "e30e4314ea54d55071a66e0cbb168299",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ...",
-      "published": "2026-08-24T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
     },
     {
       "id": "06038fb7d3a21760aead57adcae3f3c6",
@@ -146,7 +176,7 @@
       "id": "35db47ce9e2b171875fcd8c2b9dfa4f0",
       "title": "Un piratage bien gênant au Liechtenstein",
       "link": "https://korben.info/un-piratage-bien-genant-au-liechtenstein.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Toutes les fuites de données ne se valent pas, et celle-ci a de quoi faire transpirer pas mal de monde. Des pirates ont siphonné le registre des ayants droit économiques du Liechtenstein dans la nuit du 29 au 30 juill...",
+      "summary": "Le registre des ayants droit économiques du Liechtenstein piraté dans la nuit du 29 au 30 juillet : 31 000 sociétés et fondations touchées",
       "published": "2026-08-24T08:59:23+00:00",
       "source": "Korben",
       "category": "outils",
@@ -203,26 +233,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg"
     },
     {
-      "id": "0c6227e2cbbf8a1b502728b2af3b5428",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
-      "published": "2026-08-22T14:14:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "abe687094e635c5c909aeca9fd81699b",
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, stri...",
-      "published": "2026-08-22T13:00:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8b46bfbdc12a262d953d49c42e710632",
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
       "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
@@ -231,16 +241,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
-    },
-    {
-      "id": "7600d1b20cbf1f24fc7b46e27662ba23",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems rang...",
-      "published": "2026-08-21T15:52:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
     },
     {
       "id": "bfe8f3582486d3c104d32bb1424e8e1a",
