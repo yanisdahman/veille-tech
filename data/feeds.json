@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-08-26T06:41:28.446347+00:00",
+  "last_updated": "2026-08-26T12:43:48.620502+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "982286b373e190b7029c73d9d9d785dd",
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
+      "published": "2026-08-26T12:06:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ce87816843deb152695cdb9a05f99083",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pat...",
+      "published": "2026-08-26T11:36:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
+    },
+    {
+      "id": "20afd62bf4b49330335ed8e6a7d8af5c",
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "2026-08-26T11:07:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "23145fcebd044a230e9e93c70c97d651",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only b...",
+      "published": "2026-08-26T10:27:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg"
+    },
+    {
+      "id": "9587b69282cf69b763160131f9163ca3",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate soc...",
+      "published": "2026-08-26T09:38:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg"
+    },
+    {
+      "id": "0ad7a44ee3b358ab3bbbe46b61b34bdc",
+      "title": "PowerToys 0.101 : un nouvel outil pour basculer facilement entre vos applications",
+      "link": "https://www.it-connect.fr/powertoys-0-101-window-hopper-alt-tab-application/",
+      "summary": "La nouvelle version PowerToys 0.101 intègre l'outil Window Hopper : il permet de basculer facilement entre les fenêtres d'une même appli avec un raccourci. Le post PowerToys 0.101 : un nouvel outil pour basculer facil...",
+      "published": "2026-08-26T07:59:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "819dbfd2263d8ed0c171cc6890f73df4",
+      "title": "Paint et Photos inscrivent un identifiant unique de Microsoft dans vos images générées par IA",
+      "link": "https://www.it-connect.fr/paint-photos-filigrane-invisible-guid-images-ia/",
+      "summary": "Un chercheur a analysé Paint et Photos : un GUID fourni par les serveurs de Microsoft est encodé dans les pixels des images IA générées en local. Le post Paint et Photos inscrivent un identifiant unique de Microsoft d...",
+      "published": "2026-08-26T07:56:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e331125c985840426499546148aa6397",
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six cont...",
+      "published": "2026-08-26T07:54:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
+    },
+    {
+      "id": "7ef691bc14ccf18a6b7a5b103d4869c2",
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs c...",
+      "published": "2026-08-26T07:12:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg"
+    },
+    {
+      "id": "a261b355fd309e2dfb922b36ea0d0848",
+      "title": "Unraid 8 : l’OS pour NAS quitte Slackware pour une base Fedora, avec Docker Compose natif",
+      "link": "https://www.it-connect.fr/unraid-8-base-fedora-docker-compose-sauvegarde-integree/",
+      "summary": "Unraid 8 va abandonner Slackware pour une base Fedora signée Universal Blue, avec Docker Compose natif et un outil de sauvegarde intégré. Le post Unraid 8 : l’OS pour NAS quitte Slackware pour une base Fedora, avec Do...",
+      "published": "2026-08-26T06:50:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5dbe7edc91f8fa4eebfb339a2b974d3a",
+      "title": "Intune : Remote Help permet enfin la prise en main à distance de Windows sans surveillance",
+      "link": "https://www.it-connect.fr/intune-remote-help-controle-distance-sans-utilisateur-windows/",
+      "summary": "Microsoft déploie une nouveauté pour Remote Help : le helpdesk peut se connecter à un PC Windows sans utilisateur présent. Voici les prérequis et limites. Le post Intune : Remote Help permet enfin la prise en main à d...",
+      "published": "2026-08-26T06:44:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "b427f6e515120ce7a6eb19b30d53749b",
       "title": "Forfait mobile : pourquoi l’offre d’entrée de gamme est rarement la plus intéressante",
@@ -11,6 +121,26 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "e2a0dfca1d8028e8b63a6c91b761afd4",
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is C...",
+      "published": "2026-08-26T06:27:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
+    },
+    {
+      "id": "f04eb69e6dfad20f8e6ecc357aba714d",
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as A...",
+      "published": "2026-08-26T05:47:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7ibePn1YRPkAC27RIrMl_O-41pR7ieF0Mkpr8WUTkzCddWjpttUiIrXWI3CYGukgNR8eoppnOFUYjzSbEm66XiK4ttGge7-KicMnSf49N5L-wKXyf4NIzWi1Yi5JbKQXPYpmtWfZfMADrNswG9-ZfOOE9LjWwUFl7twHmvEskgU9iXPR5AGEQ4hUETo/s1600/iphone-passcode.jpg"
     },
     {
       "id": "950e486f4a0f8508c5942ac4b628f51f",
@@ -133,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "13a502b6688b5f7ba229240b4644969e",
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to V...",
-      "published": "2026-08-25T12:43:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC_dsMXsEscdzMT8fjZ3uZ86XgjBqYcYWA7ZodJJUvbK6vnmafx_dANiNsjoAeqYwDxzqeTerWaWEIMIZSmp7CqfynzhkfKEnuGIoizK5vihRhSJIeOVn4cK3CdIFjnURkvQvI1VX-Gm11mqNmxOQPVK5loEBRZ2ELFzLc1Y8C_z_ajrA5beUowEfwg0/s1600/marimo.jpg"
-    },
-    {
       "id": "b85eab16ed6f232b17ab516806369ee4",
       "title": "Test du UGREEN DXP4800 GT : le NAS 4 baies qui gère tout mon Plex, piloté par une IA",
       "link": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -153,36 +273,6 @@
       "image": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia-1.jpg"
     },
     {
-      "id": "104dc352ee20e9bff540253b5a7d89ff",
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-      "published": "2026-08-25T12:04:02+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "00549f392af48cfa14f6501dbcbd5e18",
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-fa...",
-      "published": "2026-08-25T11:56:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg"
-    },
-    {
-      "id": "63782d5f265cd8e33044f1b3e009ea2e",
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is sim...",
-      "published": "2026-08-25T11:52:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg"
-    },
-    {
       "id": "dec2dfeabf91aec31f293ec2109b5323",
       "title": "Microsoft Entra ID : l’opérateur memberOf des groupes dynamiques sera retiré le 3 novembre 2026",
       "link": "https://www.it-connect.fr/entra-id-retrait-operateur-memberof-groupes-dynamiques/",
@@ -191,46 +281,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "3d45b404d989f827ac4fe60a54eb89e1",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. ...",
-      "published": "2026-08-25T11:33:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7P2s27TjJNZnYUm7sRvosSHWRKaS2x-ITabU2QoWKkFiXRH1ggmPOby95djEZo62zvTn3LviG9HuetNXjY9km-dk9XqX_yNzD0Vh6yUfisio5rUP7c0DPDhW_1J877JL4RVY0QjM2vDXXH62rGegDhL0sSPedL99_Rw8P_z-LM67zUFXCiSI1mXGhoM/s1600/ftp-server.jpg"
-    },
-    {
-      "id": "1d1a09b83f59c34636dc87a7183c66d7",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that tim...",
-      "published": "2026-08-25T11:14:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3Y0aFTDbQ21xc915TfR8Ij8yXtuti3S7fG8opbdhlekh0FmwKsgWcuHXs8kCr01WBmZCInn_OldVjnXtLed_aDiCd41L1kkup8-CXGOkc4YLfZq7dmlkSNiaT4EHNMqcoA10SOr018r6ZElA3HMOOLWi9Ye-99WlJzKtX4vdDgPZSWwfpgT9Eo8mres/s1600/sans.jpg"
-    },
-    {
-      "id": "c793e78241f474d5b62020989c6cc1fd",
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
-      "published": "2026-08-25T10:53:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0e5e409d9a0aedde77599f50b3336253",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user,...",
-      "published": "2026-08-25T08:34:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg"
     },
     {
       "id": "2e70c90f7df61fc2d04fb6e79c22421a",
@@ -273,31 +323,11 @@
       "image": ""
     },
     {
-      "id": "ec461c9b5cc9f4397d5f2c2069a197f0",
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) ca...",
-      "published": "2026-08-25T06:12:35+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_xYf_N0l1MVU0TVJFootEd6UCngqtfmbbEKRc06D7-0-ehjKU2SrBoA3qKaSkUWrOzgAu6hkbtimW8U7M4zgfH_6jXzgy6w7aQEGQKni-doNdQFCmAm9_vI_Zq4I6tx7lO2q533pbWWOLKBuUUYLGdY9O7SfBcwcGrqvsMLaFMPL09xXK86vRu38JfEp/s1600/oracle.jpg"
-    },
-    {
       "id": "7cc8aef41e81c22331bbe94d1d0724ff",
       "title": "Windows : la signature de code passe au post-quantique, vos applis sont-elles prêtes ?",
       "link": "https://www.it-connect.fr/windows-signature-code-post-quantique-2027/",
       "summary": "Microsoft renforce la signature de code de Windows : nouvelle autorité en octobre 2026, RSA-3072 et SHA-384 fin 2026, puis post-quantique par défaut en 2027. Le post Windows : la signature de code passe au post-quanti...",
       "published": "2026-08-25T05:51:14+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a7b5d8b508e4a44c3f6ab7afa234bca2",
-      "title": "Metal Gear Online 3 : rejoindre un salon Steam suffisait à faire exécuter du code sur votre PC",
-      "link": "https://www.it-connect.fr/metal-gear-online-3-faille-rce-cve-2026-19874/",
-      "summary": "Le CERT/CC a révélé la CVE-2026-19874, une faille de Metal Gear Online 3 qui permettait à l'hôte d'un lobby Steam d'exécuter du code sur le PC des joueurs. Le post Metal Gear Online 3 : rejoindre un salon Steam suffis...",
-      "published": "2026-08-25T05:20:13+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -321,36 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/un-piratage-bien-genant-au-liechtenstein/un-piratage-bien-genant-au-liechtenstein-1.jpg"
-    },
-    {
-      "id": "845983a0f4efa0bd479dc5e1611b1d22",
-      "title": "Amazon découpe des livres rares pour entraîner son IA : un AirTag a suivi le colis jusqu’à Las Vegas",
-      "link": "https://www.it-connect.fr/amazon-detruit-livres-rares-entrainement-ia/",
-      "summary": "Un AirTag glissé dans un livre a mené des journalistes jusqu'à un entrepôt Amazon de Las Vegas, où les reliures sont découpées et les pages scannées pour l'IA. Le post Amazon découpe des livres rares pour entraîner so...",
-      "published": "2026-08-24T06:49:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9af78a1a537c225ca442a3ba5404792c",
-      "title": "Nouvel Outlook : Microsoft déploie un thème qui imite l’Outlook classique",
-      "link": "https://www.it-connect.fr/nouvel-outlook-theme-outlook-classique/",
-      "summary": "Microsoft va déployer un thème « Outlook classique » dans le nouvel Outlook et Outlook sur le web, afin de convaincre les utilisateurs de basculer. Le post Nouvel Outlook : Microsoft déploie un thème qui imite l’Outlo...",
-      "published": "2026-08-24T06:11:52+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bfe8f3582486d3c104d32bb1424e8e1a",
-      "title": "Citrix NetScaler (CVE-2026-19490) : cette faille critique permet de contourner l’authentification",
-      "link": "https://www.it-connect.fr/citrix-netscaler-cve-2026-19490-contournement-authentification/",
-      "summary": "Citrix a corrigé deux vulnérabilités dans NetScaler ADC et Gateway. La CVE-2026-19490 ouvre la porte à un contournement de l'authentification à distance. Le post Citrix NetScaler (CVE-2026-19490) : cette faille critiq...",
-      "published": "2026-08-21T15:47:18+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "141a6d50f6fa35b43339599ab83f094c",
@@ -383,6 +383,26 @@
       "image": "https://korben.info/surfshark-protection-anti-scam-sms/surfshark-protection-anti-scam-sms-1.webp"
     },
     {
+      "id": "96aca55c45f42d4797dc085d217d2777",
+      "title": "Multiples vulnérabilités dans les produits Citrix (20 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1059/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécu...",
+      "published": "2026-08-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "723659ee83ace883748f764e934ddfb4",
+      "title": "Multiples vulnérabilités dans les produits Cisco (20 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1058/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une a...",
+      "published": "2026-08-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "0e69f501406c822e881d6eba0c71396f",
       "title": "Quand personne ne vérifie la date d'expiration de votre CB",
       "link": "https://korben.info/cartes-bancaires-expirees-reactivees-paiements.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -403,16 +423,6 @@
       "image": "https://korben.info/claude-code-driver-imprimante-hp-macos/claude-code-driver-imprimante-hp-macos-1.png"
     },
     {
-      "id": "96e477ba6cb34769348700f51a6a9fb2",
-      "title": "Multiples vulnérabilités dans Oracle MySQL (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1049/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une attei...",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "f3e604601f48c9a56ca413d2a6b09b89",
       "title": "Vulnérabilité dans les produits Moxa (19 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1055/",
@@ -423,30 +433,20 @@
       "image": ""
     },
     {
-      "id": "110e3eb96d9c8c0f3e8db18f2edc36e9",
-      "title": "Multiples vulnérabilités dans Oracle Virtualization (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1052/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l...",
+      "id": "c2729e52f297803179c98345c96f7588",
+      "title": "Multiples vulnérabilités dans Oracle Weblogic (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1053/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intég...",
       "published": "2026-08-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "17c4ab9a540487fedb9d2d4340f4f2f3",
-      "title": "Multiples vulnérabilités dans Oracle Database Server (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1047/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et...",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a33eac71d982468d1711848250448b2c",
-      "title": "Multiples vulnérabilités dans Oracle Java SE (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1048/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une att...",
+      "id": "cd372dee9428e20cb962cad8daf434d7",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (19 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1054/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la...",
       "published": "2026-08-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
