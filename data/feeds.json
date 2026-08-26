@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-08-25T18:34:26.237346+00:00",
+  "last_updated": "2026-08-26T01:05:35.483703+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "950e486f4a0f8508c5942ac4b628f51f",
+      "title": "LACMA data breach last year exposed social security and medical data",
+      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+      "published": "2026-08-25T21:58:14+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "72afe4c011cc737894b4bba50452bd60",
+      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+      "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+      "published": "2026-08-25T21:39:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a2444218cfc830becddc4ab591ee0eef",
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      "published": "2026-08-25T20:25:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "00cd1f3228ac41edd6e43fb5caa5e540",
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We a...",
+      "published": "2026-08-25T18:17:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg"
+    },
     {
       "id": "dc5ef0c94a505e2fb151f362e768ba87",
       "title": "Massive DDoS attack disrupts Norway’s government digital services",
@@ -96,7 +136,7 @@
       "id": "b85eab16ed6f232b17ab516806369ee4",
       "title": "Test du UGREEN DXP4800 GT : le NAS 4 baies qui gère tout mon Plex, piloté par une IA",
       "link": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "– Contient des liens affiliés Amazon – Au départ, mon stockage était franchement bordélique. Ma bibliothèque Plex vivotait sur un vieux Synology, avec plusieurs SSD externes branchés au Mac mini, posés là au petit bon...",
+      "summary": "UGREEN DXP4800 GT : NAS 4 baies Ryzen R2514, 8 Go DDR4, 10 Gbit à 9,30 Gbit/s, UGOS Pro sur Debian, migration de 36 To pilotée par Claude Code",
       "published": "2026-08-25T12:07:32+00:00",
       "source": "Korben",
       "category": "outils",
@@ -186,7 +226,7 @@
       "id": "2e70c90f7df61fc2d04fb6e79c22421a",
       "title": "OpenAI remet la limite de 5 heures sur Codex",
       "link": "https://korben.info/openai-remet-la-limite-de-5-heures-sur-codex.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Si vous codez avec Codex, l'agent d'OpenAI qui écrit du code à votre place, préparez-vous à devoir à nouveau regarder votre montre, puisque cette fameuse limite fait son retour pour les abonnés ChatGPT Plus à partir d...",
+      "summary": "OpenAI rétablit la limite de 5 heures sur Codex pour les abonnés ChatGPT Plus dès le 25 août, en plus du quota hebdomadaire. Les Pro sont épargnés.",
       "published": "2026-08-25T08:00:22+00:00",
       "source": "Korben",
       "category": "outils",
@@ -196,7 +236,7 @@
       "id": "4f67c353e4b427403cdf140611110cc8",
       "title": "UGREEN dégaine deux chargeurs Nexode Pro avec écran de contrôle et câble rétractable, jusqu'à 300 W",
       "link": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "– Contient des liens affiliés Amazon – UGREEN continue de muscler sa gamme de chargeurs GaN avec deux nouveaux Nexode Pro, un modèle nomade de 160 W et une grosse station de bureau de 300 W, qui misent autant sur la p...",
+      "summary": "UGREEN lance le Nexode Pro 160 W à câble rétractable (129,99 euros) et la station 300 W sept ports (169,99 euros), avec écran, Wi-Fi et appli.",
       "published": "2026-08-25T07:50:34+00:00",
       "source": "Korben",
       "category": "outils",
@@ -251,46 +291,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "9ca1f036253195b3403ed8cff95db470",
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local netwo...",
-      "published": "2026-08-24T21:14:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c5bc5febc9817e9dd06e96218d641305",
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators...",
-      "published": "2026-08-24T19:26:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9739e2a813fffd25ebdd66e0c177d04c",
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-      "published": "2026-08-24T17:56:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e30e4314ea54d55071a66e0cbb168299",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ...",
-      "published": "2026-08-24T17:41:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
     },
     {
       "id": "fd9983cd779047fb20e21d2634a69dd5",
