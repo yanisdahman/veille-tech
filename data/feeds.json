@@ -1,7 +1,257 @@
 {
-  "last_updated": "2026-08-27T07:07:58.362625+00:00",
+  "last_updated": "2026-08-27T21:41:51.357213+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a9df356562b5c61bf66eec1fb659a893",
+      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+      "published": "2026-08-27T21:38:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2dd3da97cee79f7f6b624b7ef2f179e6",
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late ...",
+      "published": "2026-08-27T18:36:19+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg"
+    },
+    {
+      "id": "2c2d11b8beafc974c57967f16502b565",
+      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+      "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+      "published": "2026-08-27T16:31:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b602816ff45a2cc239d1cee83c76e3c1",
+      "title": "Manchester Airports Group says hackers stole travelers' data",
+      "link": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
+      "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
+      "published": "2026-08-27T16:12:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5ba516e13837865d5081d24af1b28951",
+      "title": "22 failles corrigées dans l’écosystème UniFi, dont 3 avec un score CVSS de 10 sur 10",
+      "link": "https://www.it-connect.fr/ubiquiti-bulletin-aout-2026-failles-unifi/",
+      "summary": "22 failles corrigées dans l’écosystème UniFi (Protect, Network, OS, Talk) avec 3 failles critiques associées à un score CVSS de 10 sur 10. Le post 22 failles corrigées dans l’écosystème UniFi, dont 3 avec un score CVS...",
+      "published": "2026-08-27T15:24:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c37cbc5ba6747138b34ad3f924c6c15c",
+      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+      "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially cr...",
+      "published": "2026-08-27T15:13:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYbQmCgjQOeGU5sXrRRnYNbfxDed_Evv1vYrDL4L4NOguQ5wIxE6glQW7yQvhR1Dzs4Gbddc2ktadXWc2VkaGHE4pvMmjaXHMRuepjwrzefXNHb6B3Shk51VRBQw0etS5WWsS9JuNN4q_Y8lDSFtzKNEgi2X-NvAllwzw5_03HwGdC7iNJc6METEjcUNc/s1600/nodejs.gif"
+    },
+    {
+      "id": "362b6d32b9fa913607b8ab06746c7110",
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command t...",
+      "published": "2026-08-27T15:12:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1600/threats.jpg"
+    },
+    {
+      "id": "c0edaeaa25646e0d000d2c7fc0b1f822",
+      "title": "Panne mondiale chez Proton : le datacenter de Francfort a eu un coup de chaud",
+      "link": "https://www.it-connect.fr/panne-mondiale-proton-refroidissement-francfort/",
+      "summary": "Tous les services Proton sont tombés dans la nuit du 27 août 2026 après une panne totale du système de refroidissement à Francfort. Voici ce que l'on sait. Le post Panne mondiale chez Proton : le datacenter de Francfo...",
+      "published": "2026-08-27T14:00:51+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "66c5afca5e2c97465328c65f511991cf",
+      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
+      "link": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
+      "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, an...",
+      "published": "2026-08-27T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "443f54d51d2ad05f08bc22c4f4e0b723",
+      "title": "Android 17 adds ECH support to make web browsing harder to track",
+      "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
+      "summary": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
+      "published": "2026-08-27T14:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6175e8e5a2cf5ff6acc5233059836dc6",
+      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+      "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration vi...",
+      "published": "2026-08-27T13:39:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdyQnHdjoEXFnc-5nB-6oglAbvpOYwuWqfjYkgeKH6HaqUjosKOHhmEQ_7StMkMBv53gz27Ilg-15yRaQ-hxoYi0ASuRMOCuPTHa8gP6a6PzYSewTWsDkKAx8dsMByZXDYDlRE1wRYoCvE7NuYqXdCpZ8_Y4E4tAUy0SBFl0S_XxLvpnjFRbqat0EwggW/s1600/kiro-amazon.jpg"
+    },
+    {
+      "id": "744748ed9ee758155bd99e8f5547a063",
+      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+      "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
+      "published": "2026-08-27T13:31:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "71027010d4070dfb76dca43dc091e799",
+      "title": "Lexar case 2 To dans une microSD très rapide",
+      "link": "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Test de la microSD Lexar Silver Plus 2 To : 255 Mo/s en lecture, 180 Mo/s en écriture, pour drones, caméras 4K/8K, Steam Deck et Android.",
+      "published": "2026-08-27T13:12:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide/lexar-case-2-to-dans-une-microsd-tres-rapide-1.jpg"
+    },
+    {
+      "id": "80a63edbcd25283006ecaf6d485cc25c",
+      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+      "summary": "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
+      "published": "2026-08-27T12:16:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a7c50e60bfcbcc9c2983e7f1c31d3f6e",
+      "title": "Webinar: How Google Workspace breaches happen and what to do next",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+      "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first h...",
+      "published": "2026-08-27T12:16:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9ced0e2ae5b8406f2c0f37ac3c128a88",
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate e...",
+      "published": "2026-08-27T11:56:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg"
+    },
+    {
+      "id": "8caf9a9637b16010f6eb0ca7c6669e70",
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-sou...",
+      "published": "2026-08-27T11:56:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Ze_JyLo4PQxJMbwu8Mn_aCoLWiD2dgbGmzOPcYcdrN8wunKZu2SZll2fiHcAOFoA0h9N5TYPOY_IvrPpGqTpnXdyd5bXHRtyHqb3t3junXDMotOAD43Y0jzA9wkCSjoOIo1knFjtTVRAeOSjpHqLzfMGceCcHYGb6cE1HD-Y5mtY9hyphenhyphenHT9PeUk3TV68/s1600/TeamPCP-arrest.gif"
+    },
+    {
+      "id": "01a8866e8cc8dab77e585fe4b2dd6480",
+      "title": "Nvidia s'offrirait Hugging Face pour 12,9 milliards",
+      "link": "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Nvidia serait proche de racheter Hugging Face pour 12,9 milliards de dollars, la plateforme valorisée 4,5 milliards en 2023.",
+      "published": "2026-08-27T11:52:11+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards/nvidia-soffrirait-hugging-face-pour-129-milliards-1.png"
+    },
+    {
+      "id": "27b7fd7ef5b3abdeb936f97f55c5b606",
+      "title": "What the Data Says About AI in Security Operations in 2026",
+      "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+      "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use...",
+      "published": "2026-08-27T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbYBAkf_-8-lUShFafJ32AYAo_yzwmPmpMcUgd5i9SUaCA8V0t-66WEu2B5U8KLbJ1ie3T-IudVRd73Arprc2iNUqTweYzHN_POtzXr-nJICrNkK_R5dDKr3k5sklozyuO11Y9Av55Git8fvydO3HAAcwgT6sk2gvXzmH5qz-qTMuzQfAmu7EedWV9dE/s1600/pro.jpg"
+    },
+    {
+      "id": "52421ecab143fd654a133bc641528d6a",
+      "title": "Carhartt data breach exposes information of 12.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+      "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been ...",
+      "published": "2026-08-27T11:10:04+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b33f45695309feb797ded0aa66f32dbc",
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an e...",
+      "published": "2026-08-27T11:00:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg"
+    },
+    {
+      "id": "e28f89739b6708e04c4c5b1abd51bd3f",
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organizati...",
+      "published": "2026-08-27T09:33:38+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg"
+    },
+    {
+      "id": "97c3373824c1a4b12440c4dcd5b653ce",
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
+      "published": "2026-08-27T09:16:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "670e6c5bc81f769dd4ba68b479edb795",
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables...",
+      "published": "2026-08-27T08:13:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2AxQ4SD6_1WKkpvBVi_M7oKLMeBAiKU4Ek4HbnJXHLX5xSbUg7ky1ITdUJY91n-zZGyK55-qQRd24PWRymLmik7cRl4CYPoaeZL5JuLedlsOTJGHChwF1eQWGhUE6AhOZUSW7CoajwQcKCu8E_zrYn8I6203Nrvr9NvheYL-5ISm0fs1xdWNiKGWqIs0/s1600/nvidia-bits.jpg"
+    },
+    {
+      "id": "e97fb302b72812163349afc9eaefc2c8",
+      "title": "Windows 11 : Microsoft teste des permissions caméra, micro et localisation par application",
+      "link": "https://www.it-connect.fr/windows-11-permissions-camera-micro-localisation-par-application/",
+      "summary": "Microsoft teste dans Windows 11 une gestion des autorisations caméra, microphone et localisation application par application y compris pour les logiciels Win32. Le post Windows 11 : Microsoft teste des permissions cam...",
+      "published": "2026-08-27T07:16:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "3cbe19621dba4cf8844b95d48a32d9e9",
       "title": "Votre page de connexion Microsoft 365 pourrait changer d’allure le 26 octobre 2026",
@@ -14,193 +264,13 @@
     },
     {
       "id": "cecd2ebc76cc89eee49c0ab51b6ef9f8",
-      "title": "Zimbra : plus de 270 serveurs de messagerie compromis grâce à la faille CVE-2026-73570",
+      "title": "Zimbra : plus de 270 serveurs de messagerie compromis à cause de la faille CVE-2026-73570",
       "link": "https://www.it-connect.fr/zimbra-cve-2026-73570-serveurs-compromis/",
-      "summary": "Plus de 270 serveurs de messagerie Zimbra ont été compromis via la faille de sécurité CVE-2026-73570. Voici comment se protéger de cette menace. Le post Zimbra : plus de 270 serveurs de messagerie compromis grâce à la...",
+      "summary": "Plus de 270 serveurs de messagerie Zimbra ont été compromis via la faille de sécurité CVE-2026-73570. Voici comment se protéger de cette menace. Le post Zimbra : plus de 270 serveurs de messagerie compromis à cause de...",
       "published": "2026-08-27T06:10:15+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "aae294f6726dd5bdf83747c4dd5b34b6",
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
-      "published": "2026-08-26T21:33:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "88fc804198f963557ff3b5c60cfd87b6",
-      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-      "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
-      "published": "2026-08-26T18:48:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "19e4229d253dacd7fc225e3144c2f5ee",
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive netw...",
-      "published": "2026-08-26T16:42:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRjXW8RS8eKAVsCBovWfkRO7QMTfrgvWcTQtLccJCxq6wXC4OhegU26JXGqEKA0zS951ogEjKmNugfT1jDKlC8Kff6m-LZm-AFQe8Y57c1H_d44_bJPayRw-HpXwbb_MmN3pds3BdBUziNNBlAA_nHqX-BTb6nQLQWrKgJYnpqikUzENaV68VpD9LHsQlX/s1600/chinese.jpg"
-    },
-    {
-      "id": "c9297671da07585396273da0555aea32",
-      "title": "Meta agrees to $18 billion settlement over teen social media harms",
-      "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-      "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage co...",
-      "published": "2026-08-26T16:41:05+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "86294e8fa5cf94bfc7da786f3cbe7ff6",
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolution...",
-      "published": "2026-08-26T15:35:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png"
-    },
-    {
-      "id": "2ac93da932472ddee448e7a24256ae6c",
-      "title": "Boston Scientific says cyberattack disrupted operations globally",
-      "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
-      "published": "2026-08-26T15:19:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "13cca072ae4d8791f91852eb0941c7a3",
-      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-      "published": "2026-08-26T14:47:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c2d0be2219b658c1296eb45713e80c0f",
-      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
-      "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
-      "published": "2026-08-26T14:17:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "33fecea766af795514daafb256f9cc6d",
-      "title": "Snowflake ends service-account passwords. Now comes the hard part",
-      "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
-      "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each ac...",
-      "published": "2026-08-26T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "eb0ecb1193ebf05877bac421e97573c7",
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated ses...",
-      "published": "2026-08-26T13:44:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg"
-    },
-    {
-      "id": "cca1941be9088c23ce8e014c2b267442",
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-      "published": "2026-08-26T13:17:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bcbbfa63f5af90881860ee3d35ee2cc1",
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it descr...",
-      "published": "2026-08-26T13:07:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg"
-    },
-    {
-      "id": "982286b373e190b7029c73d9d9d785dd",
-      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-      "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
-      "published": "2026-08-26T12:06:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bd9a97e78f88cba2e212f294ab61e730",
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execut...",
-      "published": "2026-08-26T11:55:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg"
-    },
-    {
-      "id": "ce87816843deb152695cdb9a05f99083",
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pat...",
-      "published": "2026-08-26T11:36:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
-    },
-    {
-      "id": "20afd62bf4b49330335ed8e6a7d8af5c",
-      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "2026-08-26T11:07:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "23145fcebd044a230e9e93c70c97d651",
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only b...",
-      "published": "2026-08-26T10:27:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg"
-    },
-    {
-      "id": "9587b69282cf69b763160131f9163ca3",
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate soc...",
-      "published": "2026-08-26T09:38:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg"
     },
     {
       "id": "0ad7a44ee3b358ab3bbbe46b61b34bdc",
@@ -221,26 +291,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "e331125c985840426499546148aa6397",
-      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six cont...",
-      "published": "2026-08-26T07:54:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
-    },
-    {
-      "id": "7ef691bc14ccf18a6b7a5b103d4869c2",
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs c...",
-      "published": "2026-08-26T07:12:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg"
     },
     {
       "id": "a261b355fd309e2dfb922b36ea0d0848",
@@ -273,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "e18c57b9e7674d57e8490d4af79b41fa",
-      "title": "GoAccess : analyser les logs de votre serveur web en temps réel",
-      "link": "https://www.it-connect.fr/goaccess-analyser-les-logs-de-votre-serveur-web-en-temps-reel/",
-      "summary": "Installez GoAccess pour analyser les logs de vos serveurs web Nginx, Apache ou Traefik : tableau de bord terminal, rapport HTML temps réel et compatible Docker. Le post GoAccess : analyser les logs de votre serveur we...",
-      "published": "2026-08-25T15:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "b85eab16ed6f232b17ab516806369ee4",
       "title": "Test du UGREEN DXP4800 GT : le NAS 4 baies qui gère tout mon Plex, piloté par une IA",
       "link": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -291,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia-1.jpg"
-    },
-    {
-      "id": "dec2dfeabf91aec31f293ec2109b5323",
-      "title": "Microsoft Entra ID : l’opérateur memberOf des groupes dynamiques sera retiré le 3 novembre 2026",
-      "link": "https://www.it-connect.fr/entra-id-retrait-operateur-memberof-groupes-dynamiques/",
-      "summary": "Microsoft va retirer l'opérateur memberOf d'Entra ID le 3 novembre 2026. Groupes dynamiques, unités administratives et accès figés : ce qu'il faut auditer. Le post Microsoft Entra ID : l’opérateur memberOf des groupes...",
-      "published": "2026-08-25T11:47:02+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "2e70c90f7df61fc2d04fb6e79c22421a",
@@ -321,16 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w-1.jpg"
-    },
-    {
-      "id": "fc9fe60eba2658af3556ab83b8fa05a1",
-      "title": "NIS 2 : pourquoi la connexion à Windows reste l’angle mort de vos accès",
-      "link": "https://www.it-connect.fr/nis-2-pourquoi-la-connexion-a-windows-reste-langle-mort-de-vos-acces/",
-      "summary": "NIS 2 oblige-t-il le MFA pour la connexion Windows ? Découvrez les exigences et une approche non invasive via Specops Secure Access pour ajouter du MFA à l'AD. Le post NIS 2 : pourquoi la connexion à Windows reste l’a...",
-      "published": "2026-08-25T06:44:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "fd9983cd779047fb20e21d2634a69dd5",
@@ -403,50 +423,30 @@
       "image": ""
     },
     {
-      "id": "0e69f501406c822e881d6eba0c71396f",
-      "title": "Quand personne ne vérifie la date d'expiration de votre CB",
-      "link": "https://korben.info/cartes-bancaires-expirees-reactivees-paiements.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Trois chercheurs de l'université du Massachusetts ont fait payer des cartes bancaires périmées avec deux téléphones Android posés entre la carte et le terminal. Rien n'a été cassé : sur le kernel Visa, la date d'expir...",
-      "published": "2026-08-19T07:02:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cartes-bancaires-expirees-reactivees-paiements/cartes-bancaires-expirees-reactivees-paiements-1.png"
+      "id": "4580c788764f53640c0e09a9798390d8",
+      "title": "Multiples vulnérabilités dans Ceph (20 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1057/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Ceph. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de...",
+      "published": "2026-08-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
-      "id": "c9afcfe8ef2fb447b91b85b81164468a",
-      "title": "Son imprimante HP imprime enfin sur Mac - Merci Claude Code",
-      "link": "https://korben.info/claude-code-driver-imprimante-hp-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un tweet montrant Claude Code en train de fabriquer un pilote macOS pour une imprimante HP a fait trois millions de vues. Le dépôt publié par son auteur raconte autre chose : deux voies natives fermées par macOS, un c...",
-      "published": "2026-08-19T06:50:59+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/claude-code-driver-imprimante-hp-macos/claude-code-driver-imprimante-hp-macos-1.png"
+      "id": "c16a128b2302eb3f65c50ce885689eb5",
+      "title": "Multiples vulnérabilités dans Microsoft Windows (20 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1060/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "published": "2026-08-20T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
       "id": "f3e604601f48c9a56ca413d2a6b09b89",
       "title": "Vulnérabilité dans les produits Moxa (19 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1055/",
       "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c2729e52f297803179c98345c96f7588",
-      "title": "Multiples vulnérabilités dans Oracle Weblogic (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1053/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intég...",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "cd372dee9428e20cb962cad8daf434d7",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (19 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1054/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la...",
       "published": "2026-08-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
