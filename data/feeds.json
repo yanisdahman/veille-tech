@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-26T19:43:04.399634+00:00",
+  "last_updated": "2026-08-27T07:07:58.362625+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3cbe19621dba4cf8844b95d48a32d9e9",
+      "title": "Votre page de connexion Microsoft 365 pourrait changer d’allure le 26 octobre 2026",
+      "link": "https://www.it-connect.fr/entra-id-retrait-proprietes-css-octobre-2026/",
+      "summary": "Microsoft va retirer 28 propriétés CSS supplémentaires de la personnalisation des pages de connexion Entra ID le 26 octobre 2026, soit 49 au total. Le post Votre page de connexion Microsoft 365 pourrait changer d’allu...",
+      "published": "2026-08-27T06:59:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "cecd2ebc76cc89eee49c0ab51b6ef9f8",
+      "title": "Zimbra : plus de 270 serveurs de messagerie compromis grâce à la faille CVE-2026-73570",
+      "link": "https://www.it-connect.fr/zimbra-cve-2026-73570-serveurs-compromis/",
+      "summary": "Plus de 270 serveurs de messagerie Zimbra ont été compromis via la faille de sécurité CVE-2026-73570. Voici comment se protéger de cette menace. Le post Zimbra : plus de 270 serveurs de messagerie compromis grâce à la...",
+      "published": "2026-08-27T06:10:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "aae294f6726dd5bdf83747c4dd5b34b6",
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
+      "published": "2026-08-26T21:33:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "88fc804198f963557ff3b5c60cfd87b6",
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
@@ -243,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "950e486f4a0f8508c5942ac4b628f51f",
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
-      "published": "2026-08-25T21:58:14+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "e18c57b9e7674d57e8490d4af79b41fa",
       "title": "GoAccess : analyser les logs de votre serveur web en temps réel",
       "link": "https://www.it-connect.fr/goaccess-analyser-les-logs-de-votre-serveur-web-en-temps-reel/",
@@ -308,26 +328,6 @@
       "link": "https://www.it-connect.fr/nis-2-pourquoi-la-connexion-a-windows-reste-langle-mort-de-vos-acces/",
       "summary": "NIS 2 oblige-t-il le MFA pour la connexion Windows ? Découvrez les exigences et une approche non invasive via Specops Secure Access pour ajouter du MFA à l'AD. Le post NIS 2 : pourquoi la connexion à Windows reste l’a...",
       "published": "2026-08-25T06:44:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "047e2a4200e7b5b67f3006d484deb825",
-      "title": "Impression et export PDF cassés sur Windows : les mises à jour .NET d’août 2026 en cause",
-      "link": "https://www.it-connect.fr/mises-a-jour-net-aout-2026-impression-pdf-wpf-cassee/",
-      "summary": "Microsoft confirme que les mises à jour .NET Framework d'août 2026 cassent l'impression et l'export PDF des applications WPF. Une solution temporaire existe. Le post Impression et export PDF cassés sur Windows : les m...",
-      "published": "2026-08-25T06:36:33+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7cc8aef41e81c22331bbe94d1d0724ff",
-      "title": "Windows : la signature de code passe au post-quantique, vos applis sont-elles prêtes ?",
-      "link": "https://www.it-connect.fr/windows-signature-code-post-quantique-2027/",
-      "summary": "Microsoft renforce la signature de code de Windows : nouvelle autorité en octobre 2026, RSA-3072 et SHA-384 fin 2026, puis post-quantique par défaut en 2027. Le post Windows : la signature de code passe au post-quanti...",
-      "published": "2026-08-25T05:51:14+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
