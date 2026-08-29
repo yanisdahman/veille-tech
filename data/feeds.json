@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-29T12:14:07.827303+00:00",
+  "last_updated": "2026-08-29T20:21:35.334434+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7e7b8b046854fcc4f1a541dde994379c",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, ...",
+      "published": "2026-08-29T16:25:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg"
+    },
+    {
+      "id": "1bf6f178910435946f551c441466039c",
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+      "published": "2026-08-29T14:19:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "685c4aa45a62ffa550b24ff8d051d3bc",
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
@@ -183,16 +203,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiido-BqtV-H4U0qEAovU_m3NGb3PHF5O3IEh53W_rllGDplhA8aluEKIUULFq3L7iNQue-NLxQDR3wSF7PaaAhGg14rWdqHoB6jBZC1YfslM0wyj5xhESZKTbIxgjO_lnZqVOrKx_E2hK-wXtE85EPJW-pV8D3eMv9CWgMF8eXzsJgq3xevdBY9hCs0/s1600/servicenow.jpg"
     },
     {
-      "id": "981543808670c5c5c895e6534e684155",
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run com...",
-      "published": "2026-08-28T10:58:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i2viN2zKBeSxzTqoxZkPNq_6lPMDBLb18zbLPwufsY4mFm494ydDDAWi6gGwy6PsmRGublHFmdmcEiGKViLuUgaJwWux_YUW7HQHuGbbf04HGNpoZa6QLmvf1IHE04TeTT89Yc1_jo0z6mptCbX-fIhVEVQzg5GnfU2Uya4HHASHbttTBGMxl7KMkbM/s1600/router-malware.jpg"
-    },
-    {
       "id": "e451d345a381831e0ed24dc23ac44555",
       "title": "ServiceNow warns of three max severity security vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
@@ -250,16 +260,6 @@
       "published": "2026-08-28T05:39:45+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a9df356562b5c61bf66eec1fb659a893",
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
-      "published": "2026-08-27T21:38:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
