@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-08-31T03:26:34.305735+00:00",
+  "last_updated": "2026-08-31T12:36:43.291572+00:00",
   "count": 49,
   "articles": [
+    {
+      "id": "2908bffefea2ccb964445c2657b2a15d",
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such ...",
+      "published": "2026-08-31T12:14:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg"
+    },
+    {
+      "id": "a65d71ad0689447136d5f201e3f038d5",
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from Clo...",
+      "published": "2026-08-31T11:47:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg"
+    },
+    {
+      "id": "08421d47a8099bf4df185f7c29173147",
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view ye...",
+      "published": "2026-08-31T11:31:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithkMoEFgk1IZj_h_hGp94DwzD4UyQGh2f-epiRD6fn_XcMyB44HkXe-7XaHzviE8sImzIctDBjibyY0Gdrt_OPFFeja3KnOd9KsPFP3PeTxUzlshseSyukl0-cmQWZctAeVQHTUpvW99C8FZrhCcwPDZWoYShfC9jTGqmj1Va2K-Mo2kK6GbSksGIbM4/s1600/dan.jpg"
+    },
+    {
+      "id": "3c21cc6cb9387b6f23b38a81356c2615",
+      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+      "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
+      "published": "2026-08-31T10:23:46+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6583e23ff6f6903b8d703c81769212de",
+      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
+      "link": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
+      "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
+      "published": "2026-08-31T09:22:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "eae36ff4565bf473423895b93a076db2",
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) serv...",
+      "published": "2026-08-31T09:04:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg"
+    },
+    {
+      "id": "a7781bb078da8bbb09fe0a8e54b352ae",
+      "title": "Applications VPN : 85 % de celles téléchargées aux États-Unis embarquent des traqueurs",
+      "link": "https://www.it-connect.fr/proton-rapport-applications-vpn-mobiles-traqueurs-geolocalisation/",
+      "summary": "Proton a analysé plus de 7 000 applications VPN mobiles : 85 % de celles téléchargées aux États-Unis contiennent des traqueurs et 64 accèdent à votre position. Le post Applications VPN : 85 % de celles téléchargées au...",
+      "published": "2026-08-31T08:37:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9b54a6c68e77c68c5e1fd437eef6cd01",
+      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+      "summary": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
+      "published": "2026-08-31T08:29:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bd5e7c9c6da9e5ec30b422f13e38d17f",
+      "title": "Gitea sort enfin son extension officielle pour VS Code",
+      "link": "https://www.it-connect.fr/gitea-for-vs-code-1-0-0-extension-officielle/",
+      "summary": "Gitea a publié la première version stable de son extension pour VS Code : suivi des Actions et revue des pull requests sans quitter l'éditeur de code. Le post Gitea sort enfin son extension officielle pour VS Code a é...",
+      "published": "2026-08-31T08:21:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "86c112ca0c309f7c69136705012f0eb0",
+      "title": "Debian autorise officiellement l’IA générative, mais le contributeur reste responsable",
+      "link": "https://www.it-connect.fr/debian-vote-ia-generative-resolution-generale/",
+      "summary": "Les développeurs Debian ont voté : l'IA générative n'est ni interdite ni recommandée, mais celui qui soumet une contribution en assume toute la responsabilité. Le post Debian autorise officiellement l’IA générative, m...",
+      "published": "2026-08-31T08:15:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9e86b27384f45e39a63c414debe5630a",
+      "title": "PaperCut NG/MF : deux failles exploitées et un premier correctif contourné",
+      "link": "https://www.it-connect.fr/papercut-ng-mf-cve-2026-81578-82078-deuxieme-correctif-urgence/",
+      "summary": "PaperCut NG et MF sont visés par 2 failles déjà exploitées : CVE-2026-81578 et CVE-2026-82078. Le premier correctif a été contourné, un second est disponible. Le post PaperCut NG/MF : deux failles exploitées et un pre...",
+      "published": "2026-08-31T08:05:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3ab513ab1611ea767d88ef1529656f13",
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that the...",
+      "published": "2026-08-31T07:56:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg"
+    },
+    {
+      "id": "e7a76b1500514721967c6ce4b02530d3",
+      "title": "Infogérance en 2026 : les 7 exigences qui séparent un contrat sérieux d’une plaquette commerciale",
+      "link": "https://www.it-connect.fr/infogerance-en-2026-les-7-exigences-qui-separent-un-contrat-serieux-dune-plaquette-commerciale/",
+      "summary": "Choisissez judicieusement votre infogérant : exiger des chiffres, une supervision continue et une sortie négociée dès le départ. Voici 7 exigences essentielles. Le post Infogérance en 2026 : les 7 exigences qui sépare...",
+      "published": "2026-08-31T07:56:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "be491d0f7c7ab9de691f45c5675f9923",
+      "title": "Brave 1.94 : des alias d’e-mail pour masquer votre adresse e-mail",
+      "link": "https://www.it-connect.fr/brave-1-94-alias-email-adresse-masquee/",
+      "summary": "Brave 1.94 intègre les alias d'e-mails : des adresses jetables créées depuis un formulaire, redirigées vers votre boîte réelle. Cinq alias gratuits. Le post Brave 1.94 : des alias d’e-mail pour masquer votre adresse e...",
+      "published": "2026-08-31T05:20:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "7b2220f3a495a3d6dd36ecadf0ba0855",
       "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
@@ -143,16 +283,6 @@
       "image": ""
     },
     {
-      "id": "8763921ed8556fe69c3199fee46a01df",
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-      "published": "2026-08-28T18:18:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "bb72af58918df7026d5899e730f6ba84",
       "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
       "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
@@ -161,56 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg"
-    },
-    {
-      "id": "a250c948afd868108c593aa27e34d04e",
-      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
-      "link": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
-      "summary": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
-      "published": "2026-08-28T16:36:47+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "df619b2f9987f82a34ea505d464d0c3e",
-      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is suppo...",
-      "published": "2026-08-28T16:20:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg"
-    },
-    {
-      "id": "46de9a99dc311385c4252845e854c301",
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-spea...",
-      "published": "2026-08-28T15:56:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
-    },
-    {
-      "id": "c60799860cb1c366f8a22432c8d5e483",
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining ca...",
-      "published": "2026-08-28T15:27:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg"
-    },
-    {
-      "id": "7eb5051e7a0d3a57fb28e7d50f762b3d",
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelli...",
-      "published": "2026-08-28T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "b8261093f3d3fd12f0bdcc5f4fca4146",
@@ -233,81 +313,11 @@
       "image": ""
     },
     {
-      "id": "5a4de1a56f75d25ad6342b7b6776032c",
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's L...",
-      "published": "2026-08-28T12:07:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqNVrCXSaUDXfrGPJkoRoXBPQW4qwhdYqm2SMVaunZNwBrQ4FbURK-gtVawzaje20fK_m9q2dKepfj-dxmkvfKL4se3ZQ1YAI3iogqCft1UjVadJa_uBoQxFuoBpWfx2Dh3S4-jQLa7c4E9OOyQfVAT5BVKVShPykiPWEuYcchIPHFC4e5GduyW4iBio/s1600/Humanoid.jpg"
-    },
-    {
-      "id": "d8feb3e608ee51e6472f28ba157c5eb5",
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automate...",
-      "published": "2026-08-28T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtiQiqrq5S2ip1c5QHUZaJADW3_fskqNx6rhLXi2mGqOH5NGwuTwmFXPtqLpFKXDLVMtG-rZTTVlRh8ZVJON5DFBxdE7RwCN8_Fh0Y_mypooHEo4yZeYB-FoGinET6wHzTwgYWDMeZxVT9b-uCQSJ7bLEZdzRUglWWuOY5ItZyGC94Xo85iFck6FMmUmY/s1600/orchid-main.jpg"
-    },
-    {
       "id": "45912e13da946bece7adfdcc00f8df20",
       "title": "GPUThor : l’attaque Rowhammer qui casse l’ECC des GPU NVIDIA",
       "link": "https://www.it-connect.fr/gputhor-attaque-rowhammer-ecc-gpu-nvidia/",
       "summary": "Des chercheurs canadiens ont dévoilé GPUThor, une attaque Rowhammer qui déborde l'ECC de quatre GPU NVIDIA Ampere et ouvre la voie à un accès root sur l'hôte. Le post GPUThor : l’attaque Rowhammer qui casse l’ECC des ...",
       "published": "2026-08-28T07:20:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "dd7420a20c789b02c836416913256103",
-      "title": "Offres de la rentrée GoDeal24 : Office 2024 Pro Plus à 19.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-les-licences-office-2021-et-windows-11-en-promotion/",
-      "summary": "Pour la rentrée, notre partenaire GoDeal24 propose une nouvelle salve de promotions sur les licences de produits Microsoft (Windows, Office, etc.) et d'autres logiciels. Le post Offres de la rentrée GoDeal24 : Office ...",
-      "published": "2026-08-28T07:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e736f1d10de2c9f68c708c3c3873ded6",
-      "title": "Next.js : deux failles critiques permettent une exécution de code à distance sans authentification",
-      "link": "https://www.it-connect.fr/nextjs-failles-critiques-avif-windows-rce/",
-      "summary": "Vercel a corrigé deux failles critiques dans Next.js : une RCE via une image AVIF piégée et une traversée de répertoire sur les serveurs Windows. Le post Next.js : deux failles critiques permettent une exécution de co...",
-      "published": "2026-08-28T06:22:50+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "afa0e0facc7bacb3766e7e7a91d8226e",
-      "title": "Windows 11 : Microsoft a décidé de bloquer le pilote qui fait planter les jeux",
-      "link": "https://www.it-connect.fr/windows-11-microsoft-bloque-pilote-inpoutx64-plantages-jeux/",
-      "summary": "Ce ne sont pas les mises à jour Windows d'août 2026 qui font planter les jeux, mais un pilote : inpoutx64.sys. Microsoft le bloque sur les PC concernés. Le post Windows 11 : Microsoft a décidé de bloquer le pilote qui...",
-      "published": "2026-08-28T05:39:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5ba516e13837865d5081d24af1b28951",
-      "title": "22 failles corrigées dans l’écosystème UniFi, dont 3 avec un score CVSS de 10 sur 10",
-      "link": "https://www.it-connect.fr/ubiquiti-bulletin-aout-2026-failles-unifi/",
-      "summary": "22 failles corrigées dans l’écosystème UniFi (Protect, Network, OS, Talk) avec 3 failles critiques associées à un score CVSS de 10 sur 10. Le post 22 failles corrigées dans l’écosystème UniFi, dont 3 avec un score CVS...",
-      "published": "2026-08-27T15:24:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c0edaeaa25646e0d000d2c7fc0b1f822",
-      "title": "Panne mondiale chez Proton : le datacenter de Francfort a eu un coup de chaud",
-      "link": "https://www.it-connect.fr/panne-mondiale-proton-refroidissement-francfort/",
-      "summary": "Tous les services Proton sont tombés dans la nuit du 27 août 2026 après une panne totale du système de refroidissement à Francfort. Voici ce que l'on sait. Le post Panne mondiale chez Proton : le datacenter de Francfo...",
-      "published": "2026-08-27T14:00:51+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -331,16 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards/nvidia-soffrirait-hugging-face-pour-129-milliards-1.png"
-    },
-    {
-      "id": "e97fb302b72812163349afc9eaefc2c8",
-      "title": "Windows 11 : Microsoft teste des permissions caméra, micro et localisation par application",
-      "link": "https://www.it-connect.fr/windows-11-permissions-camera-micro-localisation-par-application/",
-      "summary": "Microsoft teste dans Windows 11 une gestion des autorisations caméra, microphone et localisation application par application y compris pour les logiciels Win32. Le post Windows 11 : Microsoft teste des permissions cam...",
-      "published": "2026-08-27T07:16:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "b85eab16ed6f232b17ab516806369ee4",
@@ -403,16 +403,6 @@
       "image": ""
     },
     {
-      "id": "a3bf2c36798847997a6fae0363c80bce",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1064/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et...",
-      "published": "2026-08-21T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "971f9c29091418958a0d43d2d852559f",
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian (21 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1068/",
@@ -433,10 +423,20 @@
       "image": ""
     },
     {
-      "id": "7aab28678aef8d06f07376b5b6394b23",
-      "title": "Vulnérabilité dans Python (21 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1062/",
-      "summary": "Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "id": "50d35cc8d8771260aac1b7bc117934c3",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (21 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1071/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-08-21T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2ea2568d614a006d06bed38a09d8eefd",
+      "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/",
+      "summary": "**[Mise à jour du 24 août 2026]** Microsoft a modifié son bulletin de sécurité pour préciser que la vulnérabilité CVE-2026-69836 n'est pas activement exploitée. **[Publication initiale]** Une vulnérabilité a été décou...",
       "published": "2026-08-21T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
