@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-09-01T03:26:11.461810+00:00",
-  "count": 49,
+  "last_updated": "2026-09-01T11:02:27.420262+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "46da41922df25c2f9afe146848fb768f",
+      "title": "Maintenant - Le monitoring qui trouve vos conteneurs tout seul",
+      "link": "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "maintenant découvre seul les conteneurs qui tournent sur votre machine et les surveille depuis un seul conteneur Go : uptime, certificats TLS, heartbeats cron et page de statut. L'édition gratuite s'arrête à une seule...",
+      "published": "2026-09-01T10:24:45+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs/maintenant-monitoring-auto-heberge-conteneurs-1.png"
+    },
+    {
+      "id": "e1d9d11203559aa5fe5de1793f9a4f80",
+      "title": "Le Thunderbolt arrive sur les Mac sous Linux, mais pas pour tous les modèles",
+      "link": "https://www.it-connect.fr/linux-mac-usb4-thunderbolt-puces-apple-m1-m2-m3/",
+      "summary": "Une série de 19 patchs apporte l'USB4 et le Thunderbolt aux Mac M1, M2 et M3 sous Linux. Mais les écrans externes et les boîtiers PCIe devront encore patienter. Le post Le Thunderbolt arrive sur les Mac sous Linux, ma...",
+      "published": "2026-09-01T10:11:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6b24b4fb5ab22164ccc236d2f3f2a7b9",
+      "title": "WhatCable - Trouvez le câble qui bride la charge sur votre Mac",
+      "link": "https://korben.info/whatcable-testeur-cables-usb-c-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Votre Mac interroge déjà la puce des câbles USB-C que vous branchez, mais macOS n'affiche la réponse nulle part. WhatCable la sort en clair et désigne le maillon qui plafonne la charge ou le débit, sans oublier de dir...",
+      "published": "2026-09-01T09:24:04+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/whatcable-testeur-cables-usb-c-mac/whatcable-testeur-cables-usb-c-mac-1.png"
+    },
+    {
+      "id": "53c7d3dc8796382807b95e8c6bc6b1a0",
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+      "published": "2026-09-01T09:15:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5ada3c126ce02146c5eedbb0302023c1",
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic task...",
+      "published": "2026-09-01T09:05:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg"
+    },
+    {
+      "id": "80c480530829ebe0823d1a8635848f93",
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artifici...",
+      "published": "2026-09-01T08:26:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg"
+    },
+    {
+      "id": "7ada8644dfdd5c2ff769d573578b4c97",
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+      "published": "2026-09-01T07:48:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "943a905606d4798cc86944f9ff2481a8",
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A la...",
+      "published": "2026-09-01T07:22:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg"
+    },
+    {
+      "id": "7e23b99ddf8c8b45eada7e9da8c9f69d",
+      "title": "Windows 11 : Microsoft vous laisse enfin refuser la sauvegarde OneDrive",
+      "link": "https://www.it-connect.fr/windows-11-onedrive-bouton-refuser-sauvegarde/",
+      "summary": "Windows 11 affiche désormais un bouton « Opt out of backup » pour décliner la sauvegarde OneDrive. Ce que ce refus change vraiment, et ce qu'il ne fait pas. Le post Windows 11 : Microsoft vous laisse enfin refuser la ...",
+      "published": "2026-09-01T05:16:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "4300cd2e0298172fde2ebc543bb35215",
       "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
@@ -34,7 +124,7 @@
     },
     {
       "id": "6a364d73839d1415e8b3512f8db36186",
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
       "published": "2026-08-31T16:56:57+00:00",
@@ -133,16 +223,6 @@
       "image": ""
     },
     {
-      "id": "6583e23ff6f6903b8d703c81769212de",
-      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
-      "link": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
-      "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
-      "published": "2026-08-31T09:22:47+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "eae36ff4565bf473423895b93a076db2",
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
       "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
@@ -160,16 +240,6 @@
       "published": "2026-08-31T08:37:06+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9b54a6c68e77c68c5e1fd437eef6cd01",
-      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-      "summary": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
-      "published": "2026-08-31T08:29:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -253,16 +323,6 @@
       "image": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk-1.png"
     },
     {
-      "id": "45d64c4fa56d3bdf7db1e5ee1c4d28c9",
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct ...",
-      "published": "2026-08-30T07:36:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg"
-    },
-    {
       "id": "933d8f608f1878027561e9eeeeac9f94",
       "title": "Test Geekom A7 2026 Edition : un mini-PC compact avec AMD Ryzen 5 et 16 Go de DDR5",
       "link": "https://www.it-connect.fr/test-geekom-a7-2026-edition/",
@@ -273,51 +333,11 @@
       "image": ""
     },
     {
-      "id": "7e7b8b046854fcc4f1a541dde994379c",
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, ...",
-      "published": "2026-08-29T16:25:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg"
-    },
-    {
-      "id": "e391db7dfcabb35373be53fca1cf8e8b",
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. T...",
-      "published": "2026-08-28T21:30:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
-    },
-    {
       "id": "b8261093f3d3fd12f0bdcc5f4fca4146",
       "title": "Windows Autopilot : Microsoft inscrit l’appartenance de vos PC directement dans l’UEFI",
       "link": "https://www.it-connect.fr/windows-autopilot-device-association-uefi-intune/",
       "summary": "Nouveauté Windows Autopilot : Device association lie un PC Windows 11 à votre tenant via un marqueur UEFI attesté par le TPM, avant l'inscription dans Intune. Le post Windows Autopilot : Microsoft inscrit l’appartenan...",
       "published": "2026-08-28T13:40:51+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6aca7ae66c69e76ba41f2236675ed92a",
-      "title": "Windows 11 KB5120998 : la barre des tâches redevient déplaçable, mais attention aux bugs",
-      "link": "https://www.it-connect.fr/windows-11-kb5120998-nouveautes-bugs-curseur-fond-ecran/",
-      "summary": "La mise à jour KB5120998 rend enfin la barre des tâches Windows 11 déplaçable, mais des utilisateurs signalent de premiers bugs. L'essentiel à savoir. Le post Windows 11 KB5120998 : la barre des tâches redevient dépla...",
-      "published": "2026-08-28T13:04:43+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "45912e13da946bece7adfdcc00f8df20",
-      "title": "GPUThor : l’attaque Rowhammer qui casse l’ECC des GPU NVIDIA",
-      "link": "https://www.it-connect.fr/gputhor-attaque-rowhammer-ecc-gpu-nvidia/",
-      "summary": "Des chercheurs canadiens ont dévoilé GPUThor, une attaque Rowhammer qui déborde l'ECC de quatre GPU NVIDIA Ampere et ouvre la voie à un accès root sur l'hôte. Le post GPUThor : l’attaque Rowhammer qui casse l’ECC des ...",
-      "published": "2026-08-28T07:20:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -381,16 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/mon-nom-sur-google/mon-nom-sur-google-1.png"
-    },
-    {
-      "id": "35db47ce9e2b171875fcd8c2b9dfa4f0",
-      "title": "Un piratage bien gênant au Liechtenstein",
-      "link": "https://korben.info/un-piratage-bien-genant-au-liechtenstein.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le registre des ayants droit économiques du Liechtenstein piraté dans la nuit du 29 au 30 juillet : 31 000 sociétés et fondations touchées",
-      "published": "2026-08-24T08:59:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/un-piratage-bien-genant-au-liechtenstein/un-piratage-bien-genant-au-liechtenstein-1.jpg"
     },
     {
       "id": "99e7935164601171d701c497d268578e",
