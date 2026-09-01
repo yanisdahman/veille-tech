@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-01T16:00:50.419172+00:00",
+  "last_updated": "2026-09-01T20:30:01.978737+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4ab3bd5fa51e61bfafbf586831113cbb",
+      "title": "Aesto Health says data breach affects over 9.5 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+      "published": "2026-09-01T19:28:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7adae1b0da1e8b70a0e36d6b28958846",
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+      "published": "2026-09-01T17:54:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8aaa516af8b20402054408537bb32331",
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score:...",
+      "published": "2026-09-01T17:53:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg"
+    },
+    {
+      "id": "5fff1f46326a5295fbfe2b2f1b106fdc",
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GT...",
+      "published": "2026-09-01T17:19:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg"
+    },
     {
       "id": "770876226a92683165cac8ba711034b9",
       "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
@@ -213,26 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg79i0RXS7ZzzPurGwbsquOv8l9-GsYQmsw9y1qCzEeDMKYNXjn84VZVfVZU9aiGqnyDyQ6ZdgKosZxn60KtJ6TgTREMyC_ZnhyCxv3kSLtAXBHA2suVHDYFdWYllL4aN0-exJxnCfjXJL5dlo08aVU1YtzJchTD7nORvsBe0oXivCBhctDCcEn85Cmjiab/s1600/1000104722.jpg"
     },
     {
-      "id": "6a364d73839d1415e8b3512f8db36186",
-      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-      "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
-      "published": "2026-08-31T16:56:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bc7b67bfa4607e1c1ff8276151be9118",
-      "title": "OpenAI confirms ChatGPT outage as users report errors",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-      "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
-      "published": "2026-08-31T16:50:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "b47d47ea9428d2954453a134677c62d9",
       "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
       "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
@@ -241,26 +261,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQHUlnyxCIYFLSRsvotvppFdq5zZ2BQQXJ4PI03uluqvzH3d4FhLogVr2pn0zbUGUQlQQXrk53CDaRZ3q4jC3wLxxG9NPQMtAsx0qkU4yatwjEogU-3RF4s2jpxb394Sd2JMEYhBKbv9TJd41QqI3WRZEcd5UWHXvszq1cKblrRBthblIYeefUx3wPbBM/s1600/recap.jpg"
-    },
-    {
-      "id": "2908bffefea2ccb964445c2657b2a15d",
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such ...",
-      "published": "2026-08-31T12:14:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg"
-    },
-    {
-      "id": "a65d71ad0689447136d5f201e3f038d5",
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from Clo...",
-      "published": "2026-08-31T11:47:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg"
     },
     {
       "id": "a7781bb078da8bbb09fe0a8e54b352ae",
