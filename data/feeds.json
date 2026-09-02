@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-01T20:30:01.978737+00:00",
+  "last_updated": "2026-09-02T02:43:53.552816+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c0646a1abf24db821f9a65e77ce74024",
+      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+      "published": "2026-09-01T20:53:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "4ab3bd5fa51e61bfafbf586831113cbb",
       "title": "Aesto Health says data breach affects over 9.5 million patients",
@@ -228,16 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
       "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
       "published": "2026-08-31T20:47:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fe4436fca376a9a1dbd5a7a14ed74436",
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-      "published": "2026-08-31T18:51:04+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
