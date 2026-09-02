@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-09-02T02:43:53.552816+00:00",
+  "last_updated": "2026-09-02T10:34:01.423738+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0f4aaba44f57138f81ffff65a99b33db",
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+      "published": "2026-09-02T10:29:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b7ca293b46b3f41d81acc5b36b76db5e",
+      "title": "Firefox 155 : la fonction Smart Window boostée à l’IA débarque en France",
+      "link": "https://www.it-connect.fr/firefox-155-smart-window-france-nouveautes/",
+      "summary": "Firefox 155 est disponible : Happy Eyeballs v3, QUIC v2 et Smart Window arrivent en France. À quoi ça sert et quels sont les impacts pour les pros ? Le post Firefox 155 : la fonction Smart Window boostée à l’IA débarq...",
+      "published": "2026-09-02T10:06:36+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "891e3b103b8a41c287090fe83490ec67",
+      "title": "Dropbox : 5 000 comptes piratés sans mot de passe à cause d’une faille dans la connexion via Lenovo ID",
+      "link": "https://www.it-connect.fr/dropbox-comptes-pirates-faille-lenovo-id/",
+      "summary": "Environ 5 000 comptes Dropbox ont été piratés sans mot de passe entre le 4 et le 21 août 2026 via une faille dans la connexion SSO Lenovo ID. Le post Dropbox : 5 000 comptes piratés sans mot de passe à cause d’une fai...",
+      "published": "2026-09-02T09:33:19+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "80acde03c88ac7d082447697a3a4c2b2",
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The proj...",
+      "published": "2026-09-02T09:18:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif"
+    },
+    {
+      "id": "b83661b5a2e83dcf25797e82e6f7d176",
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 8...",
+      "published": "2026-09-02T09:10:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg"
+    },
+    {
+      "id": "a8fc142dcf02f647cbdf15fa16ac8407",
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+      "published": "2026-09-02T09:06:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "28afcd4eddb64cc421258cc708b34177",
+      "title": "Nitter et XCancel sont morts, et l'explication est dans leur code",
+      "link": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "X Corp. a fait tomber Nitter et XCancel avec une lettre d'avocat et un délai d'une nuit. La défense qu'on lit partout, celle du simple scraping de pages publiques, ne tient plus depuis le retour du projet en 2025 : le...",
+      "published": "2026-09-02T08:51:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets/x-bloque-nitter-xcancel-lecture-tweets-1.png"
+    },
+    {
+      "id": "2ef917b633ac26466d4579d953e9ede1",
+      "title": "Déployer Windows Hello for Business avec Intune : le guide complet",
+      "link": "https://www.it-connect.fr/windows-hello-for-business-intune/",
+      "summary": "Déployez Windows Hello for Business avec Intune : prérequis, profil de configuration, réinitialisation du PIN et pièges à éviter. Guide pas à pas. Le post Déployer Windows Hello for Business avec Intune : le guide com...",
+      "published": "2026-09-02T08:49:22+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e9428389ac02cb58a5252dd9dc5df004",
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
+      "published": "2026-09-02T08:00:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f185be999d69c4c0bcd3253794ff6815",
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacke...",
+      "published": "2026-09-02T07:47:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg"
+    },
+    {
+      "id": "329b445b0f2a5b0dcbf951ffe00a2d91",
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (C...",
+      "published": "2026-09-02T07:08:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9lLZ-CHEFECU3vn2ObupuzweLn7l23dnUcs2Qd1H5hsxut3nQKqe6W3lbh_cSyVF4PDgdfuSauhpeMKmW6wZGYW3kpVdhTfWhfpISTtfRzw25VOSvJNR8dnh_WWKwyZ0VnWe8nndwwfnWN-gPSdqmLBhJW2vkqjCkfMo8Eo-sucoSIr6JMT-7HxHnsCw/s1600/admin.jpg"
+    },
+    {
+      "id": "ac217d3623ab83256178936a218c43b5",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on Augu...",
+      "published": "2026-09-02T06:56:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg"
+    },
+    {
+      "id": "64dc8505f17860cf2e156ad2e9145fb6",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+      "published": "2026-09-02T06:39:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ccb43712b349216e6f8011619f3db9e8",
+      "title": "DSA : l’Europe place ChatGPT, Reddit et Roblox sous surveillance renforcée",
+      "link": "https://www.it-connect.fr/dsa-chatgpt-reddit-roblox-designation-vlop-vlose/",
+      "summary": "La Commission européenne désigne ChatGPT comme grand moteur de recherche, Reddit et Roblox comme grandes plateformes. Quatre mois pour être conforme au DSA. Le post DSA : l’Europe place ChatGPT, Reddit et Roblox sous ...",
+      "published": "2026-09-02T06:10:43+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "efc37756bc5e74153defe0e53e7e313e",
+      "title": "Exchange Server : près de 22 000 serveurs exposés sont vulnérables à la CVE-2026-62911",
+      "link": "https://www.it-connect.fr/microsoft-exchange-cve-2026-62911/",
+      "summary": "Exchange exposé sur Internet: tout savoir sur la CVE-2026-62911, les risques, les chiffres Shadowserver et les correctifs à appliquer rapidement. Le post Exchange Server : près de 22 000 serveurs exposés sont vulnérab...",
+      "published": "2026-09-02T05:49:55+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "c0646a1abf24db821f9a65e77ce74024",
       "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
@@ -103,16 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2I0vj1ygDfFQ8UzazaxECq0aAP3UJ_VRMzeCN0MgTkWk4yLEUbKKU9dE0pIyXZIfJ0MgxjYEqAqWLAXAtuATDCdFZPI9WGkgwz04Mdd7LChIfMrWk-vhGfaHDGtySDkbIXgzBcNfh5qcobm-bz8QWuyVCcH7z9CM_RNZusA2rPEHV5g2WJ2tU6Llrdnu/s1600/iran-hacking.jpg"
     },
     {
-      "id": "ca8199f6bb993316e379d868347e695f",
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-      "published": "2026-09-01T12:38:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d54d7f0d8d69f40bdd272d5c33f8fcce",
       "title": "ffmpeg - Doubler le framerate d'une vidéo avec votre GeForce",
       "link": "https://korben.info/nvidia-fruc-ffmpeg-vulkan.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -173,56 +313,6 @@
       "image": "https://korben.info/whatcable-testeur-cables-usb-c-mac/whatcable-testeur-cables-usb-c-mac-1.png"
     },
     {
-      "id": "53c7d3dc8796382807b95e8c6bc6b1a0",
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
-      "published": "2026-09-01T09:15:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5ada3c126ce02146c5eedbb0302023c1",
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic task...",
-      "published": "2026-09-01T09:05:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg"
-    },
-    {
-      "id": "80c480530829ebe0823d1a8635848f93",
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artifici...",
-      "published": "2026-09-01T08:26:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg"
-    },
-    {
-      "id": "7ada8644dfdd5c2ff769d573578b4c97",
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
-      "published": "2026-09-01T07:48:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "943a905606d4798cc86944f9ff2481a8",
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A la...",
-      "published": "2026-09-01T07:22:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg"
-    },
-    {
       "id": "7e23b99ddf8c8b45eada7e9da8c9f69d",
       "title": "Windows 11 : Microsoft vous laisse enfin refuser la sauvegarde OneDrive",
       "link": "https://www.it-connect.fr/windows-11-onedrive-bouton-refuser-sauvegarde/",
@@ -231,36 +321,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "4300cd2e0298172fde2ebc543bb35215",
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
-      "published": "2026-08-31T20:47:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "74da898bc3463520a439a95c458ba44f",
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations ide...",
-      "published": "2026-08-31T17:24:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg79i0RXS7ZzzPurGwbsquOv8l9-GsYQmsw9y1qCzEeDMKYNXjn84VZVfVZU9aiGqnyDyQ6ZdgKosZxn60KtJ6TgTREMyC_ZnhyCxv3kSLtAXBHA2suVHDYFdWYllL4aN0-exJxnCfjXJL5dlo08aVU1YtzJchTD7nORvsBe0oXivCBhctDCcEn85Cmjiab/s1600/1000104722.jpg"
-    },
-    {
-      "id": "b47d47ea9428d2954453a134677c62d9",
-      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed n...",
-      "published": "2026-08-31T13:50:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQHUlnyxCIYFLSRsvotvppFdq5zZ2BQQXJ4PI03uluqvzH3d4FhLogVr2pn0zbUGUQlQQXrk53CDaRZ3q4jC3wLxxG9NPQMtAsx0qkU4yatwjEogU-3RF4s2jpxb394Sd2JMEYhBKbv9TJd41QqI3WRZEcd5UWHXvszq1cKblrRBthblIYeefUx3wPbBM/s1600/recap.jpg"
     },
     {
       "id": "a7781bb078da8bbb09fe0a8e54b352ae",
@@ -278,46 +338,6 @@
       "link": "https://www.it-connect.fr/gitea-for-vs-code-1-0-0-extension-officielle/",
       "summary": "Gitea a publié la première version stable de son extension pour VS Code : suivi des Actions et revue des pull requests sans quitter l'éditeur de code. Le post Gitea sort enfin son extension officielle pour VS Code a é...",
       "published": "2026-08-31T08:21:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "86c112ca0c309f7c69136705012f0eb0",
-      "title": "Debian autorise officiellement l’IA générative, mais le contributeur reste responsable",
-      "link": "https://www.it-connect.fr/debian-vote-ia-generative-resolution-generale/",
-      "summary": "Les développeurs Debian ont voté : l'IA générative n'est ni interdite ni recommandée, mais celui qui soumet une contribution en assume toute la responsabilité. Le post Debian autorise officiellement l’IA générative, m...",
-      "published": "2026-08-31T08:15:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9e86b27384f45e39a63c414debe5630a",
-      "title": "PaperCut NG/MF : deux failles exploitées et un premier correctif contourné",
-      "link": "https://www.it-connect.fr/papercut-ng-mf-cve-2026-81578-82078-deuxieme-correctif-urgence/",
-      "summary": "PaperCut NG et MF sont visés par 2 failles déjà exploitées : CVE-2026-81578 et CVE-2026-82078. Le premier correctif a été contourné, un second est disponible. Le post PaperCut NG/MF : deux failles exploitées et un pre...",
-      "published": "2026-08-31T08:05:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e7a76b1500514721967c6ce4b02530d3",
-      "title": "Infogérance en 2026 : les 7 exigences qui séparent un contrat sérieux d’une plaquette commerciale",
-      "link": "https://www.it-connect.fr/infogerance-en-2026-les-7-exigences-qui-separent-un-contrat-serieux-dune-plaquette-commerciale/",
-      "summary": "Choisissez judicieusement votre infogérant : exiger des chiffres, une supervision continue et une sortie négociée dès le départ. Voici 7 exigences essentielles. Le post Infogérance en 2026 : les 7 exigences qui sépare...",
-      "published": "2026-08-31T07:56:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "be491d0f7c7ab9de691f45c5675f9923",
-      "title": "Brave 1.94 : des alias d’e-mail pour masquer votre adresse e-mail",
-      "link": "https://www.it-connect.fr/brave-1-94-alias-email-adresse-masquee/",
-      "summary": "Brave 1.94 intègre les alias d'e-mails : des adresses jetables créées depuis un formulaire, redirigées vers votre boîte réelle. Cinq alias gratuits. Le post Brave 1.94 : des alias d’e-mail pour masquer votre adresse e...",
-      "published": "2026-08-31T05:20:34+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -341,16 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk-1.png"
-    },
-    {
-      "id": "933d8f608f1878027561e9eeeeac9f94",
-      "title": "Test Geekom A7 2026 Edition : un mini-PC compact avec AMD Ryzen 5 et 16 Go de DDR5",
-      "link": "https://www.it-connect.fr/test-geekom-a7-2026-edition/",
-      "summary": "Découvrez le Geekom A7 2026 Edition : Ryzen 5, 16 Go DDR5, 500 Go NVMe, USB4, Wi‑Fi 6E, Windows 11 Pro. Découvrez ce mini PC et ses performances. Le post Test Geekom A7 2026 Edition : un mini-PC compact avec AMD Ryzen...",
-      "published": "2026-08-30T06:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "71027010d4070dfb76dca43dc091e799",
@@ -391,16 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/openai-remet-la-limite-de-5-heures-sur-codex/openai-remet-la-limite-de-5-heures-sur-codex-1.webp"
-    },
-    {
-      "id": "4f67c353e4b427403cdf140611110cc8",
-      "title": "UGREEN dégaine deux chargeurs Nexode Pro avec écran de contrôle et câble rétractable, jusqu'à 300 W",
-      "link": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "UGREEN lance le Nexode Pro 160 W à câble rétractable (129,99 euros) et la station 300 W sept ports (169,99 euros), avec écran, Wi-Fi et appli.",
-      "published": "2026-08-25T07:50:34+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w-1.jpg"
     },
     {
       "id": "99e7935164601171d701c497d268578e",
