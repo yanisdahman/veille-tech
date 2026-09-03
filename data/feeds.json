@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-09-03T02:49:05.595485+00:00",
+  "last_updated": "2026-09-03T10:37:48.931651+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4b9cecd736f5782e69eb263baa8676c8",
+      "title": "HortusFox - Le carnet de bord partagé de vos plantes",
+      "link": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un gestionnaire de plantes à héberger chez vous : il note ce que vous avez fait à chaque plante et partage le carnet avec toute la famille.",
+      "published": "2026-09-03T09:59:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted/hortusfox-gestionnaire-plantes-self-hosted-1.png"
+    },
+    {
+      "id": "196313eff62f5f835221c5c2438fcc67",
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "published": "2026-09-03T08:55:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e2a536fb93a8e3b8ac6767b20fd8f974",
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our anal...",
+      "published": "2026-09-03T08:43:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg"
+    },
+    {
+      "id": "a45cdb4546c8a610b7ac85ee9afbe100",
+      "title": "Windows 11 : quel outil de récupération pour quel scénario de panne ? Voici l’avis de Microsoft",
+      "link": "https://www.it-connect.fr/windows-11-guide-recuperation-microsoft-2026/",
+      "summary": "Quick Machine Recovery, Point-in-time restore, Cloud rebuild, etc. Quel outil utiliser en fonction de telle ou telle panne Windows ? Voici l'avis de Microsoft. Le post Windows 11 : quel outil de récupération pour quel...",
+      "published": "2026-09-03T07:11:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6dec0e9e2609f9290af2645431077ff0",
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"F...",
+      "published": "2026-09-03T06:26:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg"
+    },
+    {
+      "id": "d3d1f23c012f29b602c60923d97dfeb3",
+      "title": "Microsoft 365 : le Hero Link va remplacer vos liens de partage SharePoint et OneDrive",
+      "link": "https://www.it-connect.fr/sharepoint-online-hero-link-nouvelle-experience-de-partage/",
+      "summary": "Microsoft va déployer les Hero Link sur SharePoint et OneDrive : un seul lien de partage par fichier, modifiable après envoi. Ce que vous devez savoir. Le post Microsoft 365 : le Hero Link va remplacer vos liens de pa...",
+      "published": "2026-09-03T05:20:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "dcc0d30fe41ec5079184573d6a38ecd5",
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabili...",
+      "published": "2026-09-03T05:19:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg"
+    },
+    {
+      "id": "6c4f7cc04855fd74a9bc3a1678081aab",
+      "title": "153 millions de permis de conduire en vente sur le dark web : IDScan dans le viseur",
+      "link": "https://www.it-connect.fr/fuite-idscan-nexus-153-millions-permis-de-conduire-dark-web/",
+      "summary": "Un service du dark web vend les scans de plus de 153 millions de permis de conduire américains et canadiens : le FBI enquête sur le prestataire IDScan. Le post 153 millions de permis de conduire en vente sur le dark w...",
+      "published": "2026-09-03T04:56:48+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "458a871c0ef4b6ebd0e79099b355273a",
+      "title": "Pentest et IA : le dilemme de la souveraineté face à l’industrialisation des attaques",
+      "link": "https://www.it-connect.fr/pentest-et-ia-le-dilemme-de-la-souverainete-face-a-lindustrialisation-des-attaques/",
+      "summary": "Construire son agent d'audit : avantages, risques et cadres (MITRE ATLAS, OWASP) pour garder maîtrise et traçabilité. Quand l'IA rencontre le pentest. Le post Pentest et IA : le dilemme de la souveraineté face à l’ind...",
+      "published": "2026-09-03T04:53:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "23d01218b7eca0907ea3bc7c801415e5",
       "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
@@ -173,16 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg"
     },
     {
-      "id": "a639a092df1b7483261a0832c5b05464",
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered i...",
-      "published": "2026-09-02T10:53:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg"
-    },
-    {
       "id": "0f4aaba44f57138f81ffff65a99b33db",
       "title": "Microsoft Defender flags legitimate Google search links as malicious",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
@@ -211,26 +291,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "80acde03c88ac7d082447697a3a4c2b2",
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The proj...",
-      "published": "2026-09-02T09:18:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif"
-    },
-    {
-      "id": "b83661b5a2e83dcf25797e82e6f7d176",
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 8...",
-      "published": "2026-09-02T09:10:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg"
     },
     {
       "id": "a8fc142dcf02f647cbdf15fa16ac8407",
@@ -293,26 +353,6 @@
       "image": ""
     },
     {
-      "id": "efc37756bc5e74153defe0e53e7e313e",
-      "title": "Exchange Server : près de 22 000 serveurs exposés sont vulnérables à la CVE-2026-62911",
-      "link": "https://www.it-connect.fr/microsoft-exchange-cve-2026-62911/",
-      "summary": "Exchange exposé sur Internet: tout savoir sur la CVE-2026-62911, les risques, les chiffres Shadowserver et les correctifs à appliquer rapidement. Le post Exchange Server : près de 22 000 serveurs exposés sont vulnérab...",
-      "published": "2026-09-02T05:49:55+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c0646a1abf24db821f9a65e77ce74024",
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-      "published": "2026-09-01T20:53:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d54d7f0d8d69f40bdd272d5c33f8fcce",
       "title": "ffmpeg - Doubler le framerate d'une vidéo avec votre GeForce",
       "link": "https://korben.info/nvidia-fruc-ffmpeg-vulkan.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -321,16 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/nvidia-fruc-ffmpeg-vulkan/nvidia-fruc-ffmpeg-vulkan-1.png"
-    },
-    {
-      "id": "28a2733234b04841d67e5ece6efb2571",
-      "title": "Google Pixel 11 : pas de MTE, pas de GrapheneOS",
-      "link": "https://www.it-connect.fr/grapheneos-pixel-11-mte-absent-abandon-gamme/",
-      "summary": "En l'absence de la protection MTE sur le Pixel 11, GrapheneOS ne peut pas finir son portage, et surtout l'achat d'un Google Pixel 11 est déconseillé. Le post Google Pixel 11 : pas de MTE, pas de GrapheneOS a été publi...",
-      "published": "2026-09-01T11:33:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "46da41922df25c2f9afe146848fb768f",
@@ -343,16 +373,6 @@
       "image": "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs/maintenant-monitoring-auto-heberge-conteneurs-1.png"
     },
     {
-      "id": "e1d9d11203559aa5fe5de1793f9a4f80",
-      "title": "Le Thunderbolt arrive sur les Mac sous Linux, mais pas pour tous les modèles",
-      "link": "https://www.it-connect.fr/linux-mac-usb4-thunderbolt-puces-apple-m1-m2-m3/",
-      "summary": "Une série de 19 patchs apporte l'USB4 et le Thunderbolt aux Mac M1, M2 et M3 sous Linux. Mais les écrans externes et les boîtiers PCIe devront encore patienter. Le post Le Thunderbolt arrive sur les Mac sous Linux, ma...",
-      "published": "2026-09-01T10:11:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "6b24b4fb5ab22164ccc236d2f3f2a7b9",
       "title": "WhatCable - Trouvez le câble qui bride la charge sur votre Mac",
       "link": "https://korben.info/whatcable-testeur-cables-usb-c-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -361,16 +381,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/whatcable-testeur-cables-usb-c-mac/whatcable-testeur-cables-usb-c-mac-1.png"
-    },
-    {
-      "id": "7e23b99ddf8c8b45eada7e9da8c9f69d",
-      "title": "Windows 11 : Microsoft vous laisse enfin refuser la sauvegarde OneDrive",
-      "link": "https://www.it-connect.fr/windows-11-onedrive-bouton-refuser-sauvegarde/",
-      "summary": "Windows 11 affiche désormais un bouton « Opt out of backup » pour décliner la sauvegarde OneDrive. Ce que ce refus change vraiment, et ce qu'il ne fait pas. Le post Windows 11 : Microsoft vous laisse enfin refuser la ...",
-      "published": "2026-09-01T05:16:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "a848ca6c55a56391d28c782474a69027",
@@ -391,16 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk-1.png"
-    },
-    {
-      "id": "71027010d4070dfb76dca43dc091e799",
-      "title": "Lexar case 2 To dans une microSD très rapide",
-      "link": "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Test de la microSD Lexar Silver Plus 2 To : 255 Mo/s en lecture, 180 Mo/s en écriture, pour drones, caméras 4K/8K, Steam Deck et Android.",
-      "published": "2026-08-27T13:12:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide/lexar-case-2-to-dans-une-microsd-tres-rapide-1.jpg"
     },
     {
       "id": "1f85db7e3cafc23a652f7ff65202d2af",
