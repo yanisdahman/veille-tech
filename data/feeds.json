@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-04T15:42:43.999415+00:00",
+  "last_updated": "2026-09-04T20:13:44.413447+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3686b9476b91457a29c37016f0a8814f",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "published": "2026-09-04T16:56:45+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f76fc542838f3477eb480931805bb3a6",
+      "title": "Google Chrome : la 6ème faille zero-day de 2026 est là, patchez sans attendre",
+      "link": "https://www.it-connect.fr/google-chrome-cve-2026-85046-faille-zero-day/",
+      "summary": "Google a corrigé 12 failles dans Chrome 152, dont la CVE-2026-85046, une faille zero-day dans le moteur JavaScript V8 déjà exploitée. La sixième de 2026. Le post Google Chrome : la 6ème faille zero-day de 2026 est là,...",
+      "published": "2026-09-04T16:22:12+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1cfde22ab47c4b6945e8ce82311a9f46",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them...",
+      "published": "2026-09-04T15:57:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
+    },
     {
       "id": "5c6dfcf28979d44da16649d4e03f237b",
       "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
@@ -11,6 +41,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "c064ac970fbaca7a674ed5b27c4ab670",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE...",
+      "published": "2026-09-04T15:20:19+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
     },
     {
       "id": "f5aa5396b10252ff9942e52af9be0f82",
@@ -293,36 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg"
     },
     {
-      "id": "ff8ee9e73df29862d3929f0fcec8773c",
-      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-      "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
-      "published": "2026-09-03T15:22:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1d9c669e130edbe233c991b17ba9bf9e",
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S...",
-      "published": "2026-09-03T14:39:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg"
-    },
-    {
-      "id": "e94e854835d9970266dae3cf2b91ab29",
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% ...",
-      "published": "2026-09-03T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg"
-    },
-    {
       "id": "bd66b364a997d0218da953374b0b2ca1",
       "title": "Line Rider - À fond sur la piste de luge !",
       "link": "https://korben.info/line-rider-jeu-dessin-physique-luge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -368,16 +378,6 @@
       "link": "https://www.it-connect.fr/sharepoint-online-hero-link-nouvelle-experience-de-partage/",
       "summary": "Microsoft va déployer les Hero Link sur SharePoint et OneDrive : un seul lien de partage par fichier, modifiable après envoi. Ce que vous devez savoir. Le post Microsoft 365 : le Hero Link va remplacer vos liens de pa...",
       "published": "2026-09-03T05:20:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6c4f7cc04855fd74a9bc3a1678081aab",
-      "title": "153 millions de permis de conduire en vente sur le dark web : IDScan dans le viseur",
-      "link": "https://www.it-connect.fr/fuite-idscan-nexus-153-millions-permis-de-conduire-dark-web/",
-      "summary": "Un service du dark web vend les scans de plus de 153 millions de permis de conduire américains et canadiens : le FBI enquête sur le prestataire IDScan. Le post 153 millions de permis de conduire en vente sur le dark w...",
-      "published": "2026-09-03T04:56:48+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
