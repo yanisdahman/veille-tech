@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-09-04T10:31:50.794343+00:00",
+  "last_updated": "2026-09-04T15:42:43.999415+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "5c6dfcf28979d44da16649d4e03f237b",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "published": "2026-09-04T15:25:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f5aa5396b10252ff9942e52af9be0f82",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selec...",
+      "published": "2026-09-04T14:51:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg"
+    },
+    {
+      "id": "2325137e88a69dfb6d0f9af123369951",
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+      "published": "2026-09-04T14:30:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "853587f8485bb577487f2ee666404cee",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced crede...",
+      "published": "2026-09-04T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d25afdf45be025fbfe8bfb92be6b50d3",
+      "title": "DNSforge - Le DNS qui coupe la pub et le tracking",
+      "link": "https://korben.info/dnsforge-dns-allemand-sans-publicite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "dnsforge.de coupe la pub, les traqueurs et les malwares au niveau DNS, avec quatre profils au choix et des serveurs uniquement en Allemagne. Mais ce qui décide de l'adopter n'est pas sa promesse sans journalisation : ...",
+      "published": "2026-09-04T13:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dnsforge-dns-allemand-sans-publicite/dnsforge-dns-allemand-sans-publicite-1.png"
+    },
+    {
+      "id": "becf7b2e6b9ce1c6886136c823749e5f",
+      "title": "Synology : APM 2.0 s’ouvre à de nouvelles plateformes dont Proxmox et Nutanix",
+      "link": "https://www.it-connect.fr/synology-activeprotect-manager-2-0-multicloud-proxmox-nutanix/",
+      "summary": "Synology dévoile ActiveProtect Manager 2.0 : sauvegarde d'Amazon EC2, Azure VM, Proxmox VE, Nutanix AHV et Google Workspace, et restauration cloud à cloud. Le post Synology : APM 2.0 s’ouvre à de nouvelles plateformes...",
+      "published": "2026-09-04T13:22:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "cb9f18439a4efdcf9cd6ceb16cddd309",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+      "published": "2026-09-04T13:22:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2be5255edaae7f6fbe2c49d4277c6385",
+      "title": "OpenAI a publié une version bridée de GPT-6 Astra, ce modèle redoutable en cyber",
+      "link": "https://www.it-connect.fr/gpt-6-astra-exploitbench-openai-bride-exploits/",
+      "summary": "OpenAI dévoile GPT-6 Astra : 100 % sur ExploitBench, deux zero-day découvertes en test, mais la version publique est volontairement bridée et c'est tant mieux. Le post OpenAI a publié une version bridée de GPT-6 Astra...",
+      "published": "2026-09-04T12:43:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "697e9a616704eb3a9465668dd576394d",
+      "title": "Speakr - Interrogez toutes vos réunions enregistrées",
+      "link": "https://korben.info/speakr-transcription-audio-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Speakr transcrit vos enregistrements, sépare les voix et laisse interroger toute la bibliothèque en langage naturel, sur votre serveur. Mais deux tuyaux en sortent, celui de la transcription et celui du texte : la FAQ...",
+      "published": "2026-09-04T12:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/speakr-transcription-audio-self-hosted/speakr-transcription-audio-self-hosted-1.png"
+    },
+    {
+      "id": "b25be51613dfb121f6ef417f130e3fad",
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+      "published": "2026-09-04T12:22:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b240f07f5b8d929a187258d3d645b504",
+      "title": "UGREEN HomeAgent : quand le NAS devient un hub avec de l’IA locale pour la domotique",
+      "link": "https://www.it-connect.fr/ugreen-homeagent-hub-ia-locale-domotique/",
+      "summary": "UGREEN a dévoilé HomeAgent à l'IFA 2026 : trois hubs d'IA locale sous UGOS Pro, dont un modèle NVIDIA Jetson Thor, pour la domotique. Précommandes ouvertes. Le post UGREEN HomeAgent : quand le NAS devient un hub avec ...",
+      "published": "2026-09-04T12:21:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0e8e879cd2ed44b7d75428d11d970796",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "published": "2026-09-04T11:48:17+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "9ff05cd718a56a7851f4be66de69e2cb",
       "title": "Usurpation d’identité : les vérifications à faire après les fuites de données de l’État",
@@ -183,36 +303,6 @@
       "image": ""
     },
     {
-      "id": "559e784577290e7875f4b501e12f9b47",
-      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-      "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
-      "published": "2026-09-03T15:13:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0dbd01701cc4de13ddce8f80dbe12742",
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-      "published": "2026-09-03T15:02:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a538eddecd085da6d236b01847b8083a",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "published": "2026-09-03T14:52:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "1d9c669e130edbe233c991b17ba9bf9e",
       "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
       "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
@@ -221,26 +311,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg"
-    },
-    {
-      "id": "9499b328da1334a50a93b5a7c63aec7d",
-      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access ...",
-      "published": "2026-09-03T13:50:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ef7b1bd6863e93dd678b3eff3a612394",
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-      "published": "2026-09-03T12:16:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "e94e854835d9970266dae3cf2b91ab29",
@@ -253,16 +323,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg"
     },
     {
-      "id": "3a334e2b34865093b50b8797ead58e6c",
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-      "published": "2026-09-03T11:02:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "bd66b364a997d0218da953374b0b2ca1",
       "title": "Line Rider - À fond sur la piste de luge !",
       "link": "https://korben.info/line-rider-jeu-dessin-physique-luge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -271,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/line-rider-jeu-dessin-physique-luge/line-rider-jeu-dessin-physique-luge-1.png"
-    },
-    {
-      "id": "6a359d52e94016fefb456204fd0568cb",
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the at...",
-      "published": "2026-09-03T10:43:01+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg"
     },
     {
       "id": "efdef34d50eb541584f281fe5bb07f12",
@@ -333,16 +383,6 @@
       "image": ""
     },
     {
-      "id": "458a871c0ef4b6ebd0e79099b355273a",
-      "title": "Pentest et IA : le dilemme de la souveraineté face à l’industrialisation des attaques",
-      "link": "https://www.it-connect.fr/pentest-et-ia-le-dilemme-de-la-souverainete-face-a-lindustrialisation-des-attaques/",
-      "summary": "Construire son agent d'audit : avantages, risques et cadres (MITRE ATLAS, OWASP) pour garder maîtrise et traçabilité. Quand l'IA rencontre le pentest. Le post Pentest et IA : le dilemme de la souveraineté face à l’ind...",
-      "published": "2026-09-03T04:53:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "09734be6efef3917351e428cd5299080",
       "title": "153 millions de permis de conduire scannés en vente sur le darkweb",
       "link": "https://korben.info/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -363,61 +403,71 @@
       "image": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite/13-to-de-donnees-de-steam-ont-fuite-1.webp"
     },
     {
-      "id": "972d76576f7d0e02b3d2452aeee5608b",
-      "title": "WhatsApp : un appel vidéo suffit pour consulter les photos d’un smartphone Android verrouillé",
-      "link": "https://www.it-connect.fr/whatsapp-appel-video-photos-android-verrouille/",
-      "summary": "Sur Android 17, un appel vidéo WhatsApp permet d'ouvrir la galerie photo d'un téléphone verrouillé, sans PIN ni biométrie, y compris sur un appareil à jour. Le post WhatsApp : un appel vidéo suffit pour consulter les ...",
-      "published": "2026-09-02T11:58:41+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a051595ccdad98b84353b1d213ca7812",
-      "title": "UniClipboard - Un presse-papiers chiffré qui communique avec tous vos OS",
-      "link": "https://korben.info/uniclipboard-presse-papiers-chiffre-multiplateforme.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "UniClipboard synchronise votre presse-papiers entre Mac, Windows et Linux sans compte ni serveur, avec un chiffrement de bout en bout sérieux. Sa propre documentation précise que le lien vers le téléphone, lui, reste ...",
-      "published": "2026-09-02T11:52:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/uniclipboard-presse-papiers-chiffre-multiplateforme/uniclipboard-presse-papiers-chiffre-multiplateforme-1.png"
-    },
-    {
-      "id": "7a25928644680246aa710eb64c6f7b8a",
-      "title": "Windows 11 : Microsoft va activer l’intégrité de la mémoire sur vos PC dès octobre 2026",
-      "link": "https://www.it-connect.fr/windows-11-integrite-memoire-activee-par-defaut/",
-      "summary": "Dès octobre 2026, Microsoft activera l'intégrité de la mémoire (HVCI) sur les PC Windows 11 éligibles. Ce que ça change pour votre machine Windows. Le post Windows 11 : Microsoft va activer l’intégrité de la mémoire s...",
-      "published": "2026-09-02T11:34:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "28afcd4eddb64cc421258cc708b34177",
-      "title": "Nitter et XCancel sont morts, et l'explication est dans leur code",
-      "link": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "X Corp. a fait tomber Nitter et XCancel avec une lettre d'avocat et un délai d'une nuit. La défense qu'on lit partout, celle du simple scraping de pages publiques, ne tient plus depuis le retour du projet en 2025 : le...",
-      "published": "2026-09-02T08:51:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets/x-bloque-nitter-xcancel-lecture-tweets-1.png"
-    },
-    {
-      "id": "1f85db7e3cafc23a652f7ff65202d2af",
-      "title": "Multiples vulnérabilités dans les produits Veeam (26 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1080/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "published": "2026-08-26T00:00:00+00:00",
+      "id": "b07f598dc7cbaf69041350e5d6e269f6",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1090/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de serv...",
+      "published": "2026-08-28T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "943f07ef2d43f85d7db1f2722130a5e2",
-      "title": "Multiples vulnérabilités dans OpenSSL (26 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1079/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-      "published": "2026-08-26T00:00:00+00:00",
+      "id": "541c87b995da19c9b6f137a0cf235bf2",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1091/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des...",
+      "published": "2026-08-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "37add99c03751137731e4c879e6d847b",
+      "title": "Multiples vulnérabilités dans Tenable Enclave Security (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1089/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-08-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c9078acdb2225205d38b6b417925d186",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1092/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
+      "published": "2026-08-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "41e96c33ae3ec7a06c1831befef2bee6",
+      "title": "Multiples vulnérabilités dans les produits IBM (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1094/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-08-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "64686796d540984a58b293a417e63c5d",
+      "title": "Multiples vulnérabilités dans Traefik (27 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1088/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "published": "2026-08-27T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ef1e3d13b7888a6dbccc8241f35f9ff0",
+      "title": "Vulnérabilité dans CPython (27 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1087/",
+      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "published": "2026-08-27T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -427,16 +477,6 @@
       "title": "Multiples vulnérabilités dans GitLab (26 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1086/",
       "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à ...",
-      "published": "2026-08-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9dfcb9d18b0e1a5eba5cd276cad435ae",
-      "title": "Vulnérabilité dans Apereo CAS (26 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1082/",
-      "summary": "Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-08-26T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -453,51 +493,11 @@
       "image": ""
     },
     {
-      "id": "7a1eb4a7417108a1845372a283ea3892",
-      "title": "Multiples vulnérabilités dans Keycloak (25 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1078/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Keycloak. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Le CERT-F...",
-      "published": "2026-08-25T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "90d68695678fc59e946596695575c428",
-      "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-08-25T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "67138848da9df3e2d08084aa0f977bcd",
-      "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/",
-      "summary": "Le 17 juillet 2026, WordPress a publié un correctif pour deux vulnérabilités : CVE-2026-60137 : une injection SQL (SQLi) ; CVE-2026-63030 : celle-ci permet un contournement de la politique de sécurité. Un attaquant pe...",
-      "published": "2026-07-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5411904f141dc30c17a363d6aad19cbd",
-      "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access (15 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-006/",
-      "summary": "Le 14 juillet 2026, Sonicwall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-15409 permet une falsification de requêtes cô...",
-      "published": "2026-07-15T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e12f490aac7d29a9e11931bcfa0e0511",
-      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
-      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-010/",
-      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particuliè...",
-      "published": "2025-09-11T00:00:00+00:00",
+      "id": "9196d7034ab2eb46752a0cd3d1cff4d3",
+      "title": "Multiples vulnérabilités dans Redmine (26 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1085/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "published": "2026-08-26T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
