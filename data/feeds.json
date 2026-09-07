@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-09-07T02:45:19.431650+00:00",
+  "last_updated": "2026-09-07T11:30:10.247961+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "669a8c245266a351ef31f82389109fc4",
+      "title": "Project Zenith : Microsoft dévoile un Windows 11 spécial pour le code et l’IA",
+      "link": "https://www.it-connect.fr/project-zenith-windows-11-developpeurs-microsoft/",
+      "summary": "Microsoft a dévoilé Project Zenith, un Windows 11 clé en main où tout est prêt pour les développeurs. Mais attention au prérequis : 64 Go de mémoire unifiée. Le post Project Zenith : Microsoft dévoile un Windows 11 sp...",
+      "published": "2026-09-07T10:55:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f506346b308d20351f51ec7a1bf7e55d",
+      "title": "Brave affirme charger les pages 20 % plus vite que Chrome, Edge et Firefox",
+      "link": "https://www.it-connect.fr/brave-benchmark-desktop-chrome-edge-firefox/",
+      "summary": "Brave a publié des benchmarks face à Chrome, Edge et Firefox sur ordinateur : 44 % de CPU en moins, pages chargées 20 % plus vite, mais attention au LCP. Le post Brave affirme charger les pages 20 % plus vite que Chro...",
+      "published": "2026-09-07T10:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0934fba219a432f9a3a8fec5899e6015",
+      "title": "Exchange Online va bloquer les e-mails des serveurs Exchange 2016 et 2019 non mis à jour",
+      "link": "https://www.it-connect.fr/exchange-online-blocage-exchange-2016-2019-mise-a-jour-octobre-2025/",
+      "summary": "Dès mi-septembre 2026, Exchange Online va limiter puis bloquer les e-mails des serveurs Exchange 2016 et 2019 sans le patch d'octobre 2025. Voici quoi faire. Le post Exchange Online va bloquer les e-mails des serveurs...",
+      "published": "2026-09-07T10:38:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f02ff9dcde13eb868bd8b180f2e272d2",
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+      "published": "2026-09-07T10:36:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ccd9d6786d8c3dd2921094802b1b6fab",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "published": "2026-09-07T10:32:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d184ec16edcbca3ec1696131cd06f5ce",
+      "title": "Word et Outlook : Microsoft va désactiver par défaut les prédictions de texte",
+      "link": "https://www.it-connect.fr/word-outlook-predictions-de-texte-desactivees-par-defaut/",
+      "summary": "Microsoft désactive par défaut les prédictions de texte dans Word et Outlook. La fonction reste disponible, mais il faudra l'activer vous-même. Voici pourquoi. Le post Word et Outlook : Microsoft va désactiver par déf...",
+      "published": "2026-09-07T10:30:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bb83f07f5b53c1999c01348c6b533573",
+      "title": "Vous utilisez les serveurs DNS de Mullvad ? Ils s’arrêteront le 2 novembre 2026",
+      "link": "https://www.it-connect.fr/mullvad-ferme-ses-serveurs-dns-chiffres-et-finance-quad9/",
+      "summary": "Mullvad arrêtera ses serveurs publics DoH (DNS-over-HTTPS) le 2 novembre 2026 et soutiendra Quad9 à la place. Voici qui est concerné et comment migrer. Le post Vous utilisez les serveurs DNS de Mullvad ? Ils s’arrêter...",
+      "published": "2026-09-07T10:24:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "55dd82145bd18a2a828efaa88f6809d5",
+      "title": "Sur quels critères techniques choisir une solution d’affichage multi-écrans / multi-sites ?",
+      "link": "https://www.it-connect.fr/sur-quels-criteres-techniques-choisir-une-solution-daffichage-multi-ecrans-multi-sites/",
+      "summary": "Découvrez comment réussir un réseau d’écrans en magasin ou en entreprise : choix du CMS, back-office industriel, gestion du réseau, etc. Le post Sur quels critères techniques choisir une solution d’affichage multi-écr...",
+      "published": "2026-09-07T10:24:37+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0bd47220d0ad72a2e0ce665eff66155c",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "published": "2026-09-07T10:06:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b12a51fff05c2d92305c7840b0a57269",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say ...",
+      "published": "2026-09-07T08:31:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtysh_bb-hej1pQzey0RUhPD2w29ONlPDQMzE9Nc4lM529hKaHhuLKfGXEnqVZyUkMKhJchEeoN1clSKo3-opm2_BQkN6FJ72xBZOZwxX6sTwU4Zzk_j6taOwBpioZOnolR9idUjpydUlQ84TQ9pdWUlUm61JH0Xh8-6_0fo3VieeW3xVQwk4UvXcSu4/s1600/nable.jpg"
+    },
+    {
+      "id": "055d17fa53cd9a711a096b3c9b472461",
+      "title": "Degoog - Le métamoteur à installer sur votre ordi",
+      "link": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "degoog est un métamoteur de recherche auto-hébergé livré sans un seul moteur : tout s'installe depuis un Store, y compris la façon dont votre serveur sort sur le réseau.",
+      "published": "2026-09-07T08:28:22+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source/degoog-agregateur-moteurs-recherche-open-source-1.png"
+    },
+    {
+      "id": "ac80edc13d7662ad9737a5357866ab31",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with ja...",
+      "published": "2026-09-07T07:53:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
+    },
+    {
+      "id": "a014d2d4f9201378cf9c3541229ac872",
+      "title": "Multilogin : isoler ses profils de navigation avec un navigateur multi-comptes",
+      "link": "https://www.it-connect.fr/multilogin-navigateur-antidetect/",
+      "summary": "Comment fonctionne un navigateur multi-comptes comme Multilogin, ce qu'il change face aux conteneurs et aux profils séparés, et dans quels cas l'utiliser. Le post Multilogin : isoler ses profils de navigation avec un ...",
+      "published": "2026-09-07T07:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "37ae936b8a6e9176b97506ee251501dc",
+      "title": "DocuSeal - Pour signer vos documents sur votre propre serveur",
+      "link": "https://korben.info/docuseal-alternative-docusign-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "DocuSeal fait signer des PDF à plusieurs depuis un conteneur Docker sur votre serveur, API REST et webhooks compris dans la version libre. La signature obtenue est une signature simple au sens d'eIDAS, et votre instan...",
+      "published": "2026-09-07T07:37:39+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/docuseal-alternative-docusign-open-source/docuseal-alternative-docusign-open-source-1.png"
+    },
+    {
+      "id": "7066827ec7d037ab10928c3db4269889",
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "published": "2026-09-07T06:17:41+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "65a67962595e607f989a2be3364ea95e",
       "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
@@ -143,51 +293,11 @@
       "image": ""
     },
     {
-      "id": "1cfde22ab47c4b6945e8ce82311a9f46",
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them...",
-      "published": "2026-09-04T15:57:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
-    },
-    {
       "id": "5c6dfcf28979d44da16649d4e03f237b",
       "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
       "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
       "published": "2026-09-04T15:25:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c064ac970fbaca7a674ed5b27c4ab670",
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE...",
-      "published": "2026-09-04T15:20:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
-    },
-    {
-      "id": "2325137e88a69dfb6d0f9af123369951",
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-      "published": "2026-09-04T14:30:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "853587f8485bb577487f2ee666404cee",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced crede...",
-      "published": "2026-09-04T14:01:11+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -213,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "cb9f18439a4efdcf9cd6ceb16cddd309",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "published": "2026-09-04T13:22:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "2be5255edaae7f6fbe2c49d4277c6385",
       "title": "OpenAI a publié une version bridée de GPT-6 Astra, ce modèle redoutable en cyber",
       "link": "https://www.it-connect.fr/gpt-6-astra-exploitbench-openai-bride-exploits/",
@@ -243,36 +343,6 @@
       "image": "https://korben.info/speakr-transcription-audio-self-hosted/speakr-transcription-audio-self-hosted-1.png"
     },
     {
-      "id": "b25be51613dfb121f6ef417f130e3fad",
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-      "published": "2026-09-04T12:22:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b240f07f5b8d929a187258d3d645b504",
-      "title": "UGREEN HomeAgent : quand le NAS devient un hub avec de l’IA locale pour la domotique",
-      "link": "https://www.it-connect.fr/ugreen-homeagent-hub-ia-locale-domotique/",
-      "summary": "UGREEN a dévoilé HomeAgent à l'IFA 2026 : trois hubs d'IA locale sous UGOS Pro, dont un modèle NVIDIA Jetson Thor, pour la domotique. Précommandes ouvertes. Le post UGREEN HomeAgent : quand le NAS devient un hub avec ...",
-      "published": "2026-09-04T12:21:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9ff05cd718a56a7851f4be66de69e2cb",
-      "title": "Usurpation d’identité : les vérifications à faire après les fuites de données de l’État",
-      "link": "https://www.it-connect.fr/usurpation-identite-verifications-fuites-donnees-etat/",
-      "summary": "Fuites DGFiP, France Titres... Vérifiez si quelqu'un utilise votre identité via FranceConnect, FICOBA, la Banque de France et MonIdenum. Liens officiels et démarches. Le post Usurpation d’identité : les vérifications ...",
-      "published": "2026-09-04T10:09:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "c9c09db75f924096f0aad164952354ef",
       "title": "Stowaway - Squattez le hublot d'un vol qui n'est pas le vôtre",
       "link": "https://korben.info/stowaway-live-vue-hublot-avions-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -281,16 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/stowaway-live-vue-hublot-avions-temps-reel/stowaway-live-vue-hublot-avions-temps-reel-1.jpg"
-    },
-    {
-      "id": "89c3c78cadf9f306d3aebff58a11bc7f",
-      "title": "Forensic Windows – Partie 9 : ce que peut révéler la Corbeille",
-      "link": "https://www.it-connect.fr/windows-forensic-partie-explorer-la-corbeille/",
-      "summary": "Découvrez comment RBCmd permet d’analyser la Corbeille Windows et d’obtenir des informations, comme le chemin, la taille et la date de suppression. Le post Forensic Windows – Partie 9 : ce que peut révéler la Corbeill...",
-      "published": "2026-09-04T08:17:52+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "23732d4e83de1b85feacc4f12148be52",
@@ -311,26 +371,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/ntlite-personnaliser-image-windows/ntlite-personnaliser-image-windows-1.jpg"
-    },
-    {
-      "id": "b78d45488bfc36e92cb442d870b832db",
-      "title": "WhatsApp va déployer un correctif pour la faille qui exposait vos photos sur un Android verrouillé",
-      "link": "https://www.it-connect.fr/whatsapp-correctif-galerie-photos-android-verrouille/",
-      "summary": "WhatsApp va déployer un correctif pour la faille permettant de consulter les photos d'un Android verrouillé via un appel vidéo entrant. Le post WhatsApp va déployer un correctif pour la faille qui exposait vos photos ...",
-      "published": "2026-09-04T06:09:59+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a0bb5f4bf0b38d04162ea93465b0ef6a",
-      "title": "Plex invite ses utilisateurs à patcher leur serveur pour se protéger de failles",
-      "link": "https://www.it-connect.fr/plex-media-server-1-43-3-alerte-securite/",
-      "summary": "Plex a envoyé un e-mail à ses utilisateurs pour les inviter à mettre à jour Plex Media Server au moins en 1.43.3, sans donner de détails sur les failles. Le post Plex invite ses utilisateurs à patcher leur serveur pou...",
-      "published": "2026-09-04T04:53:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "bd66b364a997d0218da953374b0b2ca1",
@@ -361,46 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted/hortusfox-gestionnaire-plantes-self-hosted-1.png"
-    },
-    {
-      "id": "a45cdb4546c8a610b7ac85ee9afbe100",
-      "title": "Windows 11 : quel outil de récupération pour quel scénario de panne ? Voici l’avis de Microsoft",
-      "link": "https://www.it-connect.fr/windows-11-guide-recuperation-microsoft-2026/",
-      "summary": "Quick Machine Recovery, Point-in-time restore, Cloud rebuild, etc. Quel outil utiliser en fonction de telle ou telle panne Windows ? Voici l'avis de Microsoft. Le post Windows 11 : quel outil de récupération pour quel...",
-      "published": "2026-09-03T07:11:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d3d1f23c012f29b602c60923d97dfeb3",
-      "title": "Microsoft 365 : le Hero Link va remplacer vos liens de partage SharePoint et OneDrive",
-      "link": "https://www.it-connect.fr/sharepoint-online-hero-link-nouvelle-experience-de-partage/",
-      "summary": "Microsoft va déployer les Hero Link sur SharePoint et OneDrive : un seul lien de partage par fichier, modifiable après envoi. Ce que vous devez savoir. Le post Microsoft 365 : le Hero Link va remplacer vos liens de pa...",
-      "published": "2026-09-03T05:20:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "09734be6efef3917351e428cd5299080",
-      "title": "153 millions de permis de conduire scannés en vente sur le darkweb",
-      "link": "https://korben.info/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "153 millions de scans de permis américains et canadiens vendus sur le site Nexus, issus des scanners IDScan.net. Enquête du FBI ouverte le 1er septembre.",
-      "published": "2026-09-02T16:30:48+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb-1.png"
-    },
-    {
-      "id": "b32850972b5e7984b87d607a1a9e6eec",
-      "title": "13 To de données de Steam ont fuité",
-      "link": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Teraleak : 12 à 13 To de fichiers Steam datés de 2003 à 2013 extraits d'un serveur Valve oublié, dont une build de Portal 2 de 2009 et le Weaponizer.",
-      "published": "2026-09-02T12:32:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite/13-to-de-donnees-de-steam-ont-fuite-1.webp"
     },
     {
       "id": "b07f598dc7cbaf69041350e5d6e269f6",
