@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-09-07T11:30:10.247961+00:00",
+  "last_updated": "2026-09-07T17:10:28.573459+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "27ffc5fe388b090727a7ebb9af973d36",
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+      "published": "2026-09-07T16:50:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cead4a452534009aaf04043aa22a6097",
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help de...",
+      "published": "2026-09-07T15:51:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-Zo4zgxCrVcz6-00WV2qAPHSD-av2Ed5hgRmR-2vUzkr9jVeph0NNb6gGsQfwSkFyuRfRcSsaISSpfysl_Xx5F48IM7HdBpO4F3CaVuLhk1v0a4vcH5xK_bxX6BxIjkfAjhDaNGcLG7_R9IcTjVGlFcW7y1ZV64imACHi9528LOjH1Flhk-cy9LFgrMv/s1600/phish-ms.jpg"
+    },
+    {
+      "id": "9ede82718cd8c8b497c4bfa960362bee",
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+      "published": "2026-09-07T15:39:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ba683df51c51accdc662ff0974cd9b4a",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one...",
+      "published": "2026-09-07T14:36:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SJbgfzjY0QMdutDU1Lf8A1ZVh6S-hcQEwATiHIXXKIpYhh1mrojhkxootev2lhFxjehrTS8h3UNmZgHBwgxNUN0ho2r5Tzk2PRLqK_yO-4OetzmlaFE5V5z0G-Yp34y_RWR5ZlWoL51LWMOFh8YTZCKDADDnHFLhYZl5oQkqLFxJ9JHK1j35kxilIkyp/s1600/recaps.jpg"
+    },
+    {
+      "id": "5c51390d841ef4852945db41bbb3b612",
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "published": "2026-09-07T13:05:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "698a55da013888e46197938972725835",
+      "title": "FalconFlank : une faille zero-day dans CrowdStrike Falcon menace Windows",
+      "link": "https://www.it-connect.fr/falconflank-zero-day-crowdstrike-falcon-privileges-system/",
+      "summary": "La nouvelle faille zero-day FalconFlank donne les privilèges SYSTEM sur Windows en détournant la remédiation des macros Office de CrowdStrike Falcon. Le post FalconFlank : une faille zero-day dans CrowdStrike Falcon m...",
+      "published": "2026-09-07T12:52:25+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "48ea21a85e275a20b114f8ee87d75225",
+      "title": "Bon plan : le mini-PC Geekom IT13 Max a le droit à 150 euros de réduction immédiate",
+      "link": "https://www.it-connect.fr/bon-plan-geekom-it13-max-anniversaire-2026/",
+      "summary": "Anniversaire Geekom : le mini PC IT13 Max (Core Ultra 9 185H, 24 Go, 500 Go) passe à 649 € au lieu de 799 € avec le code réservé aux lecteurs d'IT-Connect. Le post Bon plan : le mini-PC Geekom IT13 Max a le droit à 15...",
+      "published": "2026-09-07T12:49:37+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8fd769e2295936a69742bd75f3ed015b",
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "published": "2026-09-07T12:16:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "32025023e735c62ff1124742f41e3ea6",
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AW...",
+      "published": "2026-09-07T11:45:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkHa8CDEfDzL0HknvyLE5eRK8r91iyhgzpCS1GmG3HRtriZYYFzCTP9_H433YsqJ80SAppgs9g6rOhsTWIzHPh_CFcZJS18DIj5ANgzFwSU0vfcyJofTEqEvjGGjNcqZdHU_54PENNzxawWHCZ2r_1K-A63x3P8CbuIiu8OHASjQV3OoglWTefAF2dZw/s1600/intruder.jpg"
+    },
+    {
+      "id": "1e8f8c5bbb543ff19169354551639c2d",
+      "title": "VMware Workstation et Fusion : deux failles permettent de s’évader d’une VM vers l’hôte",
+      "link": "https://www.it-connect.fr/vmware-workstation-et-fusion-failles-vm-escape-septembre-2026/",
+      "summary": "Broadcom a corrigé deux failles dans VMware Workstation et Fusion 25H2 et 26H1, dont la CVE-2026-59346 notée 9.3, qui permet d'exécuter du code sur l'hôte. Le post VMware Workstation et Fusion : deux failles permetten...",
+      "published": "2026-09-07T11:41:20+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "304a6dd4a9565f4ff8d68a589f4f3aff",
+      "title": "Linux tourne enfin sur les Mac M3 (sauf la carte graphique)",
+      "link": "https://korben.info/asahi-linux-support-m3-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Asahi Linux a fusionné le support des Mac M3 dans son installeur le 6 septembre. La webcam, le Thunderbolt et le WiFi répondent, mais la 3D reste dessinée par le processeur, et personne ne donne de date.",
+      "published": "2026-09-07T11:37:18+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/asahi-linux-support-m3-mac/asahi-linux-support-m3-mac-1.jpg"
+    },
+    {
+      "id": "3e0d968326fb3c65d433e3cedd33bda6",
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Hu...",
+      "published": "2026-09-07T11:36:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWA_nxvqJuKkqq0ab1I-XR1YtpsM6BadhHDNOIheZmBflLWaQ018JFJsAUBVuyWWTYI4pyT8OQNXhui8Annde3SnOIScH9B0ohMq-OzXLjvPeAXQnz4mAUdEMS_07i7gLaWqPVpHaPvyLJdZQKUTs2MLGhjB9UZ0A83CGcSeDCJFKn7hNjiyf6dbzbHogp/s1600/screen.jpg"
+    },
+    {
+      "id": "1107aa6a25508314c7fcf10a1c4f0989",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Prog...",
+      "published": "2026-09-07T11:20:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwlnNFKd-mH5uyY-AjtXSVx57m9MDT4WRtoQStPY9HoNxOP3ps7znRzENJAK7ZzF4homlCzVGVPFuFZ1sXYGciKyA3rZN_NYewwTXhwpRxCUFaPmUmdgP_TdJQtf57falTD12A0GJewAS23pnxttANQ1meOeRFnr_IqZqAngg0rc9ov998VwQlANB0cE/s1600/tel.jpg"
+    },
     {
       "id": "669a8c245266a351ef31f82389109fc4",
       "title": "Project Zenith : Microsoft dévoile un Windows 11 spécial pour le code et l’IA",
@@ -18,6 +148,16 @@
       "link": "https://www.it-connect.fr/brave-benchmark-desktop-chrome-edge-firefox/",
       "summary": "Brave a publié des benchmarks face à Chrome, Edge et Firefox sur ordinateur : 44 % de CPU en moins, pages chargées 20 % plus vite, mais attention au LCP. Le post Brave affirme charger les pages 20 % plus vite que Chro...",
       "published": "2026-09-07T10:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7b5aa8a73869a95c70361726e9242adb",
+      "title": "Nouvelle vente flash GoDeal24 : Office 2024 Pro Plus à 19.99€ et Windows 11 Pro à 12.25€",
+      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
+      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Nouvelle vente flash GoDeal24 : Office 2024 Pro Plus à...",
+      "published": "2026-09-07T10:40:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -123,16 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
     },
     {
-      "id": "a014d2d4f9201378cf9c3541229ac872",
-      "title": "Multilogin : isoler ses profils de navigation avec un navigateur multi-comptes",
-      "link": "https://www.it-connect.fr/multilogin-navigateur-antidetect/",
-      "summary": "Comment fonctionne un navigateur multi-comptes comme Multilogin, ce qu'il change face aux conteneurs et aux profils séparés, et dans quels cas l'utiliser. Le post Multilogin : isoler ses profils de navigation avec un ...",
-      "published": "2026-09-07T07:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "37ae936b8a6e9176b97506ee251501dc",
       "title": "DocuSeal - Pour signer vos documents sur votre propre serveur",
       "link": "https://korben.info/docuseal-alternative-docusign-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -203,106 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghsT_skiIfdOHK2B0WWDfWnSK0G5Ih7BqsX98tKrY4TH7I77oLEmnldtVHuUMEQaIiZZBSPJGI2t8Me7h9kDtE4YGZ9-5NypnAu2-yFFrXsWYkR6OJPlbqkZDEHBAXCmRjWm6Mk4h0Ni48JT0nrDWMYygztjoi4HuHPbe2y-2jreFVkzrxO8r4IhHIEU/s1600/adobe-exploit.jpg"
     },
     {
-      "id": "1a17e912ec35904211647f48962a4962",
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to ...",
-      "published": "2026-09-05T16:52:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg"
-    },
-    {
-      "id": "98d96dc03a65ff745b0488f8e00db805",
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerabili...",
-      "published": "2026-09-05T16:05:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
-    },
-    {
-      "id": "3fb566f8d6499254380700e3f69bd245",
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-      "published": "2026-09-05T14:29:13+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1e376156c6ab4da2f275e6694c36b34d",
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, em...",
-      "published": "2026-09-05T14:17:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
-    },
-    {
-      "id": "ab1309d1642e13d3489653f912a90b6d",
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" ...",
-      "published": "2026-09-05T11:11:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "be6a11bb57fa05ca3832a74db6e241a2",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as...",
-      "published": "2026-09-05T07:55:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg"
-    },
-    {
-      "id": "3e26c4a9cb8fdb69e9d4d546c208ab49",
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed...",
-      "published": "2026-09-05T07:31:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
-    },
-    {
-      "id": "3686b9476b91457a29c37016f0a8814f",
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "published": "2026-09-04T16:56:45+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f76fc542838f3477eb480931805bb3a6",
-      "title": "Google Chrome : la 6ème faille zero-day de 2026 est là, patchez sans attendre",
-      "link": "https://www.it-connect.fr/google-chrome-cve-2026-85046-faille-zero-day/",
-      "summary": "Google a corrigé 12 failles dans Chrome 152, dont la CVE-2026-85046, une faille zero-day dans le moteur JavaScript V8 déjà exploitée. La sixième de 2026. Le post Google Chrome : la 6ème faille zero-day de 2026 est là,...",
-      "published": "2026-09-04T16:22:12+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5c6dfcf28979d44da16649d4e03f237b",
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-      "published": "2026-09-04T15:25:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d25afdf45be025fbfe8bfb92be6b50d3",
       "title": "DNSforge - Le DNS qui coupe la pub et le tracking",
       "link": "https://korben.info/dnsforge-dns-allemand-sans-publicite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,26 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/dnsforge-dns-allemand-sans-publicite/dnsforge-dns-allemand-sans-publicite-1.png"
-    },
-    {
-      "id": "becf7b2e6b9ce1c6886136c823749e5f",
-      "title": "Synology : APM 2.0 s’ouvre à de nouvelles plateformes dont Proxmox et Nutanix",
-      "link": "https://www.it-connect.fr/synology-activeprotect-manager-2-0-multicloud-proxmox-nutanix/",
-      "summary": "Synology dévoile ActiveProtect Manager 2.0 : sauvegarde d'Amazon EC2, Azure VM, Proxmox VE, Nutanix AHV et Google Workspace, et restauration cloud à cloud. Le post Synology : APM 2.0 s’ouvre à de nouvelles plateformes...",
-      "published": "2026-09-04T13:22:38+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "2be5255edaae7f6fbe2c49d4277c6385",
-      "title": "OpenAI a publié une version bridée de GPT-6 Astra, ce modèle redoutable en cyber",
-      "link": "https://www.it-connect.fr/gpt-6-astra-exploitbench-openai-bride-exploits/",
-      "summary": "OpenAI dévoile GPT-6 Astra : 100 % sur ExploitBench, deux zero-day découvertes en test, mais la version publique est volontairement bridée et c'est tant mieux. Le post OpenAI a publié une version bridée de GPT-6 Astra...",
-      "published": "2026-09-04T12:43:30+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "697e9a616704eb3a9465668dd576394d",
@@ -393,21 +403,51 @@
       "image": "https://korben.info/winbtrfs-btrfs-windows/winbtrfs-btrfs-windows-1.png"
     },
     {
-      "id": "4b9cecd736f5782e69eb263baa8676c8",
-      "title": "HortusFox - Le carnet de bord partagé de vos plantes",
-      "link": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un gestionnaire de plantes à héberger chez vous : il note ce que vous avez fait à chaque plante et partage le carnet avec toute la famille.",
-      "published": "2026-09-03T09:59:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted/hortusfox-gestionnaire-plantes-self-hosted-1.png"
+      "id": "1504c435c1aa773493010391fb1979d8",
+      "title": "Multiples vulnérabilités dans SPIP (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1102/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
-      "id": "b07f598dc7cbaf69041350e5d6e269f6",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (28 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1090/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de serv...",
-      "published": "2026-08-28T00:00:00+00:00",
+      "id": "8acca93f8ccb125f038157c63dfa5d0b",
+      "title": "Vulnérabilité dans Mozilla Firefox pour iOS (01 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1099/",
+      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c9c81719bd2537433b89310a8171d356",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-037 (31 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-037/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-08-31T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6cb708d0098e91e47ce0bbaba7992c31",
+      "title": "Multiples vulnérabilités dans les produits Tenable (31 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1097/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "published": "2026-08-31T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c46c78ef4ee8d1a6fee63dd566031554",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (31 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1096/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des do...",
+      "published": "2026-08-31T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -417,16 +457,6 @@
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 août 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1091/",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des...",
-      "published": "2026-08-28T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "37add99c03751137731e4c879e6d847b",
-      "title": "Multiples vulnérabilités dans Tenable Enclave Security (28 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1089/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-08-28T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -453,51 +483,21 @@
       "image": ""
     },
     {
-      "id": "64686796d540984a58b293a417e63c5d",
-      "title": "Multiples vulnérabilités dans Traefik (27 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1088/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-      "published": "2026-08-27T00:00:00+00:00",
+      "id": "fd338de6e1f6623126070e953ea3dce2",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1093/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e...",
+      "published": "2026-08-28T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "ef1e3d13b7888a6dbccc8241f35f9ff0",
-      "title": "Vulnérabilité dans CPython (27 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1087/",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-08-27T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3302d441d14bcf88759ed15b20759c11",
-      "title": "Multiples vulnérabilités dans GitLab (26 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1086/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à ...",
-      "published": "2026-08-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3d6d9e5d1f898886a8b62118a710a143",
-      "title": "Multiples vulnérabilités dans SonicWall NetExtender (26 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1084/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans SonicWall NetExtender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-08-26T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9196d7034ab2eb46752a0cd3d1cff4d3",
-      "title": "Multiples vulnérabilités dans Redmine (26 août 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1085/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "published": "2026-08-26T00:00:00+00:00",
+      "id": "a5ebc66d607edd5b9f3483f01703d5b5",
+      "title": "Multiples vulnérabilités dans Papercut (28 août 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de contourner l'authentification et d'exécuter du code arbitraire à distance. Papercut indique que ces vulnérabilités sont...",
+      "published": "2026-08-28T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
