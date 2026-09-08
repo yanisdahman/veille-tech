@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-09-08T02:56:19.455254+00:00",
+  "last_updated": "2026-09-08T10:31:55.756841+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9ecd0fdcbecd1ddc3171ec2cc8f63cf1",
+      "title": "RSSMonster - Le lecteur RSS qui trie vos flux en local",
+      "link": "https://korben.info/rssmonster-lecteur-rss-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "RSSMonster regroupe les articles qui racontent le même événement et leur colle une note, avec des modèles qui tournent sur votre propre machine. Deux profils Docker sont fournis, et celui qui s'installe en trois comma...",
+      "published": "2026-09-08T09:20:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rssmonster-lecteur-rss-auto-heberge/rssmonster-lecteur-rss-auto-heberge-1.png"
+    },
+    {
+      "id": "4af9556cd442873cada334f5a8c45d15",
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-...",
+      "published": "2026-09-08T09:13:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg"
+    },
+    {
+      "id": "80a3882c2429c1c7e036df4e5ebabe8a",
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFI...",
+      "published": "2026-09-08T08:43:51+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rKrsCwJpZOS1Cu2htzFszKn4OgjK2p5A43OUaQJsmlbjsaLfGHtgyqQPfOu3IFWqRBoj2J6hIiqv6CVr56ZLyyf73-E71iaDRB2nrO9qaGOg92EbOcutMu8M8i1uimwkC-GPcc9oGDgFNNLB4kkgfDB3MbcjPuAn_gsml3FyThlEyI3Pg8E-udYq175m/s1600/bing.jpg"
+    },
+    {
+      "id": "0032f0b6e32f509e2944aab25467abbb",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 201...",
+      "published": "2026-09-08T07:35:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "61bb964d75553d19dd169b699e5faa85",
+      "title": "Cette faille Proxmox corrigée en 2023 est activement exploitée (CVE-2023-54391)",
+      "link": "https://www.it-connect.fr/proxmox-ve-cve-2023-54391-contournement-authentification/",
+      "summary": "Cette faille dans Proxmox VE a été corrigée il y a 3 ans, et pourtant, elle est activement exploitée par les cybercriminels. Méfiez-vous de la CVE-2023-54391. Le post Cette faille Proxmox corrigée en 2023 est activeme...",
+      "published": "2026-09-08T07:28:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9ebb55695450ec8f1842fa42f729d1d9",
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr...",
+      "published": "2026-09-08T07:00:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGUJMPbCbes7NM-EpNPWOUc7bYX5pznAZZjAl29ELdnhrIFzOBqkVtUsiDgxWvImd-yqpnCi5E4EaA1SCbnqY-_1qOwv2RnBTrjOHwn738A5TVUyZV6uX9TQyjF2EmPsJhyxHc1IcqV0jH3JraUU5s3Yw64WOCoE4WawhfajZhq7X-XvWQtVfw-S2QxbkU/s1600/grindr.jpg"
+    },
+    {
+      "id": "18f23fe4ff7941835463e17e54a2c0e0",
+      "title": "Apple : Asahi Linux prend officiellement en charge les Mac M3, mais pas encore le GPU",
+      "link": "https://www.it-connect.fr/asahi-linux-support-officiel-mac-apple-m3/",
+      "summary": "Asahi Linux prend en charge les Mac M3, M3 Pro et M3 Max. Webcam, Wi-Fi, USB et décodage AV1 fonctionnent, mais pas le GPU et la mise en veille. Le post Apple : Asahi Linux prend officiellement en charge les Mac M3, m...",
+      "published": "2026-09-08T06:59:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b7b554415617775dfbfbf62a5b0f009d",
+      "title": "GrapheneOS verrouillera bientôt le presse-papiers d'Android",
+      "link": "https://korben.info/grapheneos-messaging-rcs-secure-paste.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "GrapheneOS a écrit le réglage qui manque à Android depuis Android 13 : une application ne peut plus lire ce qu'une autre a copié, mais elle relit toujours ce qu'elle a copié elle-même et le collage volontaire continue...",
+      "published": "2026-09-08T05:10:09+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/grapheneos-messaging-rcs-secure-paste/grapheneos-messaging-rcs-secure-paste-1.png"
+    },
     {
       "id": "f92e60f56be0d9cf1cfa48966dbc6091",
       "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
@@ -213,26 +293,6 @@
       "image": ""
     },
     {
-      "id": "bb83f07f5b53c1999c01348c6b533573",
-      "title": "Vous utilisez les serveurs DNS de Mullvad ? Ils s’arrêteront le 2 novembre 2026",
-      "link": "https://www.it-connect.fr/mullvad-ferme-ses-serveurs-dns-chiffres-et-finance-quad9/",
-      "summary": "Mullvad arrêtera ses serveurs publics DoH (DNS-over-HTTPS) le 2 novembre 2026 et soutiendra Quad9 à la place. Voici qui est concerné et comment migrer. Le post Vous utilisez les serveurs DNS de Mullvad ? Ils s’arrêter...",
-      "published": "2026-09-07T10:24:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "55dd82145bd18a2a828efaa88f6809d5",
-      "title": "Sur quels critères techniques choisir une solution d’affichage multi-écrans / multi-sites ?",
-      "link": "https://www.it-connect.fr/sur-quels-criteres-techniques-choisir-une-solution-daffichage-multi-ecrans-multi-sites/",
-      "summary": "Découvrez comment réussir un réseau d’écrans en magasin ou en entreprise : choix du CMS, back-office industriel, gestion du réseau, etc. Le post Sur quels critères techniques choisir une solution d’affichage multi-écr...",
-      "published": "2026-09-07T10:24:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "0bd47220d0ad72a2e0ce665eff66155c",
       "title": "ConnectWise warns of new ScreenConnect flaw without patch",
       "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
@@ -263,16 +323,6 @@
       "image": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source/degoog-agregateur-moteurs-recherche-open-source-1.png"
     },
     {
-      "id": "ac80edc13d7662ad9737a5357866ab31",
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with ja...",
-      "published": "2026-09-07T07:53:04+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
-    },
-    {
       "id": "37ae936b8a6e9176b97506ee251501dc",
       "title": "DocuSeal - Pour signer vos documents sur votre propre serveur",
       "link": "https://korben.info/docuseal-alternative-docusign-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -301,36 +351,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "a5856b104a92f9f5bc6540ac5af9ff8e",
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
-      "published": "2026-09-06T14:23:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c14c61d299fd39b0b9a29470144e00d4",
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska...",
-      "published": "2026-09-06T09:32:38+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg"
-    },
-    {
-      "id": "6dd1eb7a7816f085ff1fec3eac6bd3db",
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of...",
-      "published": "2026-09-06T08:34:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg"
     },
     {
       "id": "d25afdf45be025fbfe8bfb92be6b50d3",
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/ntlite-personnaliser-image-windows/ntlite-personnaliser-image-windows-1.jpg"
-    },
-    {
-      "id": "bd66b364a997d0218da953374b0b2ca1",
-      "title": "Line Rider - À fond sur la piste de luge !",
-      "link": "https://korben.info/line-rider-jeu-dessin-physique-luge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Line Rider, le jouet de 2006 où l'on dessine une piste qu'un bonhomme en luge descend, tourne toujours gratuitement dans le navigateur. Sauf que ce n'est plus le Flash d'origine : la réécriture actuelle gère les calqu...",
-      "published": "2026-09-03T10:54:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/line-rider-jeu-dessin-physique-luge/line-rider-jeu-dessin-physique-luge-1.png"
-    },
-    {
-      "id": "efdef34d50eb541584f281fe5bb07f12",
-      "title": "WinBtrfs - Le pilote Windows qui monte vos disques Linux se réveille enfin",
-      "link": "https://korben.info/winbtrfs-btrfs-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "WinBtrfs 1.10 est sorti le 1er septembre, deux ans et demi après la version précédente. Il répare les plantages déclenchés par la corbeille, par Steam et par l'écriture sur un snapshot, et son auteur remercie Claude p...",
-      "published": "2026-09-03T10:26:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/winbtrfs-btrfs-windows/winbtrfs-btrfs-windows-1.png"
     },
     {
       "id": "1504c435c1aa773493010391fb1979d8",
