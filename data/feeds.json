@@ -1,7 +1,287 @@
 {
-  "last_updated": "2026-09-09T02:56:52.668646+00:00",
-  "count": 40,
+  "last_updated": "2026-09-09T10:43:07.981055+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "8a08d3518429206bbcdbdc21be7eee7c",
+      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+      "published": "2026-09-09T10:11:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bb13f1e17b8589a2de33fafcfc43d504",
+      "title": "Forensic Windows – Partie 10 : analyser le journal USN (NTFS)",
+      "link": "https://www.it-connect.fr/forensic-windows-journal-usn-ntfs/",
+      "summary": "Apprenez à analyser le journal USN de NTFS pour retrouver les fichiers créés, renommés, déplacés ou supprimés, même s'ils n'existent plus sur le disque. Le post Forensic Windows – Partie 10 : analyser le journal USN (...",
+      "published": "2026-09-09T09:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c9249abb2b8d67a843d263d892b9ac15",
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-874...",
+      "published": "2026-09-09T09:11:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg"
+    },
+    {
+      "id": "dbd422eb89377cccbb1d35c361e8416c",
+      "title": "Quishing : Microsoft Teams va masquer les codes QR envoyés par des utilisateurs externes",
+      "link": "https://www.it-connect.fr/microsoft-teams-protection-codes-qr-messages-externes/",
+      "summary": "Microsoft Teams masquera par défaut les images contenant un code QR envoyées par des expéditeurs externes. Objectif : freiner le quishing dès octobre 2026. Le post Quishing : Microsoft Teams va masquer les codes QR en...",
+      "published": "2026-09-09T08:58:24+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b5584f616b14ab43628720074f4716fe",
+      "title": "FFmpeg Commander - Cochez, copiez, collez dans le terminal",
+      "link": "https://korben.info/ffmpeg-commander-generateur-commandes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "FFmpeg Commander écrit votre ligne de commande ffmpeg dans un formulaire, avec 34 recettes prêtes et une URL partageable. Ce qu'il fait, et ce qu'il ne fait pas.",
+      "published": "2026-09-09T08:48:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ffmpeg-commander-generateur-commandes/ffmpeg-commander-generateur-commandes-1.png"
+    },
+    {
+      "id": "8833b25961f4aea61f84c9a25b881d99",
+      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+      "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+      "published": "2026-09-09T08:44:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0dbc72d9054f7102a63a993dd0dc523",
+      "title": "Jellyfin 12.0 est là : découvrez les nouveautés et ce qu’il faut savoir avant de mettre à jour",
+      "link": "https://www.it-connect.fr/jellyfin-12-0-nouvelle-version-media-server/",
+      "summary": "Jellyfin 12.0 est disponible : nouvelle numérotation, base de données plus rapide, interface Modern par défaut, FFmpeg 8.1 et correctifs de sécurité. Le post Jellyfin 12.0 est là : découvrez les nouveautés et ce qu’il...",
+      "published": "2026-09-09T08:42:13+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5d79a0b01463ed9a74d8d994be85e187",
+      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server thro...",
+      "published": "2026-09-09T08:19:32+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_YdNiqGpEWkDm5hEkF-RhZ94vv84sJmONomdRsksJ65GwI388Va-uVIzXWhwZtHmBTF3oze2l4Sscj2zpTsn6lqdPWPKAeL1iP6SSyzvNBOA4dLAKxfSmfThhmQgIc_1AYGWG9dbrCLFg_dk4m8pCHxFcJBRnThru8PtB7UJqUy3VjW15-vQlRvuwpc/s1600/cpanel-bug.jpg"
+    },
+    {
+      "id": "836da50b8ca0c4d726acdaecfe8e819b",
+      "title": "Windows 11 KB5124008 : la mise à jour de septembre 2026 améliore la barre des tâches et corrige des bugs",
+      "link": "https://www.it-connect.fr/windows-11-kb5124008-mise-a-jour-de-septembre-2026/",
+      "summary": "KB5124008 et KB5122880 : les mises à jour Windows 11 de septembre 2026 sont là. Barre des tâches déplaçable, bugs d'août corrigés et une zero-day patchée. Le post Windows 11 KB5124008 : la mise à jour de septembre 202...",
+      "published": "2026-09-09T08:05:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "788359cd94da2f43875c62761e089760",
+      "title": "Magento : la faille zero-day StyleSmuggler est corrigée, mais des boutiques sont déjà piratées",
+      "link": "https://www.it-connect.fr/magento-adobe-commerce-faille-zero-day-stylesmuggler-cve-2026-75650/",
+      "summary": "Exploitée depuis le 4 septembre 2026, la faille StyleSmuggler (CVE-2026-75650) permet de pirater Magento et Adobe Commerce. Un patch est disponible. Le post Magento : la faille zero-day StyleSmuggler est corrigée, mai...",
+      "published": "2026-09-09T07:56:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8946c4dc7275d964e5204762240ecb65",
+      "title": "Proxmox Backup Server : la sauvegarde locale est saine, mais où est la copie hors ligne ?",
+      "link": "https://www.it-connect.fr/proxmox-backup-server-la-sauvegarde-locale-est-saine-mais-ou-est-la-copie-hors-ligne/",
+      "summary": "Hors ligne versus hors site : comment composer une stratégie de sauvegarde fiable, conforme ANSSI et adaptée à Proxmox Backup Server ? Voici la réponse. Le post Proxmox Backup Server : la sauvegarde locale est saine, ...",
+      "published": "2026-09-09T07:50:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "dab483c16cb531f76bcd2f64a6bbc338",
+      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the...",
+      "published": "2026-09-09T07:36:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA552mINL2oyFm7mf9nHTwjJGJUVAtfYnMXbqYsowSEsDMzVsAgHG8MHKn5_EmwZ9bgRmhEndE20FhQAN4rvOLv5ESSAu0kHTV4QyygvUePYCJ1fvda0bU0Mzi5B9J8LHhULDeRRI9HGC84dntx8jaLu6WFLOz6OOhEwKNnSf6zzFRyAtlLKDQzHvygg/s1600/f5-malware.jpg"
+    },
+    {
+      "id": "afbff820bd934ac0cb31ea09ed02587c",
+      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+      "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates...",
+      "published": "2026-09-09T07:30:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d98d71f9c198e0736aad448869789984",
+      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+      "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+      "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-...",
+      "published": "2026-09-09T06:47:27+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg"
+    },
+    {
+      "id": "fa102ab44562026b27c67b9a77ea81e2",
+      "title": "Windows 10 KB5122878 : le point sur la mise à jour ESU de septembre 2026",
+      "link": "https://www.it-connect.fr/windows-10-kb5122878-mise-a-jour-esu-septembre-2026/",
+      "summary": "Mardi 8 septembre 2026, Microsoft a publié la KB5122878 pour Windows 10. Au-delà de patcher une faille zero-day, cette mise à jour corrige plusieurs bugs. Le post Windows 10 KB5122878 : le point sur la mise à jour ESU...",
+      "published": "2026-09-09T06:42:24+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "958e0c45c0279cd911763f84b8febf70",
+      "title": "Windows 11 va dire aux applications si vous êtes un enfant, un ado ou un adulte",
+      "link": "https://www.it-connect.fr/windows-11-api-age-microsoft-apps-tranche-age/",
+      "summary": "Microsoft va ajouter des API d'âge à Windows 11 : les applications sauront si vous êtes enfant, ado ou adulte, sans accéder à votre date de naissance. Le post Windows 11 va dire aux applications si vous êtes un enfant...",
+      "published": "2026-09-09T06:28:40+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9f90e3b1dad766c0ba126684d0963131",
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+      "published": "2026-09-09T06:25:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6104280e7889301cc22c6a30f8be966f",
+      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+      "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and...",
+      "published": "2026-09-09T06:25:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg"
+    },
+    {
+      "id": "8cabb6c64584354c0037da34795588e7",
+      "title": "Winapp - Comment créer une app Windows native sans Visual Studio",
+      "link": "https://korben.info/winapp-cli-hello-world-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le winapp CLI de Microsoft crée, lance et empaquette une application Windows native depuis un simple terminal. Le pas à pas, du Hello World au fichier MSIX.",
+      "published": "2026-09-09T05:56:31+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/winapp-cli-hello-world-windows/winapp-cli-hello-world-windows-1.png"
+    },
+    {
+      "id": "7fa22a38482b6044fee8833f6d88820c",
+      "title": "Patch Tuesday – Septembre 2026 : 973 failles corrigées, 2 zero-day exploitées et 20 failles wormables",
+      "link": "https://www.it-connect.fr/patch-tuesday-septembre-2026-recapitulatif/",
+      "summary": "Microsoft a corrigé 973 vulnérabilités avec le Patch Tuesday de septembre 2026, un record. Deux failles zero-day sont déjà exploitées, voici un récapitulatif. Le post Patch Tuesday – Septembre 2026 : 973 failles corri...",
+      "published": "2026-09-09T05:44:20+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "eeaff57808ddd3ccf23fd181232f1c65",
+      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+      "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These ...",
+      "published": "2026-09-09T04:41:29+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg"
+    },
+    {
+      "id": "5250081e9961a1d97bbcf218707f5e2a",
+      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civ...",
+      "published": "2026-09-09T04:27:51+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg"
+    },
+    {
+      "id": "5df1bc34006819d04c61319d02a63464",
+      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+      "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
+      "published": "2026-09-09T01:16:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4c0c658002409c8c68d12c437c9a3422",
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+      "published": "2026-09-08T20:35:14+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b8605ae66514ed27c60c0ae06db54b3c",
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly w...",
+      "published": "2026-09-08T20:24:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f638bfacb6e36c5637602f0d93ed725e",
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+      "published": "2026-09-08T20:08:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7d679c9556074da90c5c3f2e86b94c65",
+      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
+      "published": "2026-09-08T18:49:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e4b5617bc913c30b10893d7d53dd21a5",
+      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+      "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
+      "published": "2026-09-08T18:18:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "1f5201a7fa1328efb6b039da30fb9016",
       "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
@@ -43,16 +323,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jB-6O69dYNeqBTcSFXPcSQCqwabmHwmdGzC_ne5LyuUH-9v0MpLbJ1cgApFSqTuGG0Z_fKAD4A7gLcBcTdw6oUIv0nh_Pmyb5Obv7XhRY0jVGwPQ50S7rUnYZR8FUvYntVxL03GYJ010-iagkPkeZJ8oV6gvbEaVJPGw-L2rabD5pqOOu2HYW9g_nFcT/s1600/chatgpt-gmail.jpg"
     },
     {
-      "id": "4e4939ca2937defc4064ddf17768d9cf",
-      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a l...",
-      "published": "2026-09-08T13:48:16+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVKt_UmqEYNHNt0K516skza4MoV47hITqzcoC3WLLI3QkQ_jUEffHvaL7VHVtzRqvdt6k2bZwGAFVif-hRkoiTQva6JM95w3NgNRU_WpuTaZfhLGXAcOdLQXy_sMWU1dxAunMAsf7J8PEDG2AKvkFuXbOFyOmIQcaocMIBhNpaYscCUeJElKDXu6xGhkX/s1600/ai-agent.jpg"
-    },
-    {
       "id": "5483f6c7a466aee7a165ca20f866de8a",
       "title": "reVCDOS - Vice City en entier dans un onglet",
       "link": "https://korben.info/gta-vice-city-navigateur-web-revcdos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -73,36 +343,6 @@
       "image": "https://korben.info/meuporg-tour-documentaire-kickban/meuporg-tour-documentaire-kickban-1.jpg"
     },
     {
-      "id": "c0d9a4ae21e5170dd935a55eea741fec",
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or ...",
-      "published": "2026-09-08T11:54:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjSG5iYgxvsWLWeFe2E-z5UDx0S4Q6zBQjkFEiKuFxcfplz39pE90jWcuiV7NcYqT6t2l8j5WWVBHdV-upHuzQVoy-pt4nL4WP7l-Uz_9AYFqOw1Pn0yI8LzM6OThlXJZY8_b4RVK0WzZYIsjWL96-2O-HHY1SH2FCtrE5c6nV0QJ0aU1X8FVlIvOs3g/s1600/wechat.jpg"
-    },
-    {
-      "id": "be8aaa8d8b0f33697c80c54fa180f79c",
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those...",
-      "published": "2026-09-08T11:49:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJEqJ_CCrFzLtmEtLrrIWQv80hyY6xtGfdsad0NgYCYSs-ur2ObfnMgE8uBWlZ7idJHbjDcOwpo8_ESTMpCAWAUHUwbqhVr-zqxV-oxUWmR3PMwBD_vrDziQFaeL0VTzX8NUQRFGRzVQCuTPrvflnepbKlCgqH84MRNTJUhZRNfqwEtmBUxhIB5a8MfeE/s1600/chainguard.jpg"
-    },
-    {
-      "id": "7ef766993ff669b7d72837066c0d8858",
-      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-      "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-      "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who ...",
-      "published": "2026-09-08T11:22:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSKAVaHcAsULrGXPVkGXRyf94eoG7Kv3X0wwK2lRC64l3Em-S4_H5iE8-poK04yzrAC18tuHqpZyHhJvFTgliu_z8jo4QR78Mi4ghhCA-cUVL4oj2zjoLGiWKmD16oV4i44VfY45DYll0Uij_Exf4U2JMSLJEyH8jZk_xXKq7O_7D73q7vTYCCc4hrTnQ/s1600/freeipa.jpg"
-    },
-    {
       "id": "9ecd0fdcbecd1ddc3171ec2cc8f63cf1",
       "title": "RSSMonster - Le lecteur RSS qui trie vos flux en local",
       "link": "https://korben.info/rssmonster-lecteur-rss-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -111,56 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/rssmonster-lecteur-rss-auto-heberge/rssmonster-lecteur-rss-auto-heberge-1.png"
-    },
-    {
-      "id": "4af9556cd442873cada334f5a8c45d15",
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-...",
-      "published": "2026-09-08T09:13:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg"
-    },
-    {
-      "id": "80a3882c2429c1c7e036df4e5ebabe8a",
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFI...",
-      "published": "2026-09-08T08:43:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rKrsCwJpZOS1Cu2htzFszKn4OgjK2p5A43OUaQJsmlbjsaLfGHtgyqQPfOu3IFWqRBoj2J6hIiqv6CVr56ZLyyf73-E71iaDRB2nrO9qaGOg92EbOcutMu8M8i1uimwkC-GPcc9oGDgFNNLB4kkgfDB3MbcjPuAn_gsml3FyThlEyI3Pg8E-udYq175m/s1600/bing.jpg"
-    },
-    {
-      "id": "61bb964d75553d19dd169b699e5faa85",
-      "title": "Cette faille Proxmox corrigée en 2023 est activement exploitée (CVE-2023-54391)",
-      "link": "https://www.it-connect.fr/proxmox-ve-cve-2023-54391-contournement-authentification/",
-      "summary": "Cette faille dans Proxmox VE a été corrigée il y a 3 ans, et pourtant, elle est activement exploitée par les cybercriminels. Méfiez-vous de la CVE-2023-54391. Le post Cette faille Proxmox corrigée en 2023 est activeme...",
-      "published": "2026-09-08T07:28:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9ebb55695450ec8f1842fa42f729d1d9",
-      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr...",
-      "published": "2026-09-08T07:00:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGUJMPbCbes7NM-EpNPWOUc7bYX5pznAZZjAl29ELdnhrIFzOBqkVtUsiDgxWvImd-yqpnCi5E4EaA1SCbnqY-_1qOwv2RnBTrjOHwn738A5TVUyZV6uX9TQyjF2EmPsJhyxHc1IcqV0jH3JraUU5s3Yw64WOCoE4WawhfajZhq7X-XvWQtVfw-S2QxbkU/s1600/grindr.jpg"
-    },
-    {
-      "id": "18f23fe4ff7941835463e17e54a2c0e0",
-      "title": "Apple : Asahi Linux prend officiellement en charge les Mac M3, mais pas encore le GPU",
-      "link": "https://www.it-connect.fr/asahi-linux-support-officiel-mac-apple-m3/",
-      "summary": "Asahi Linux prend en charge les Mac M3, M3 Pro et M3 Max. Webcam, Wi-Fi, USB et décodage AV1 fonctionnent, mais pas le GPU et la mise en veille. Le post Apple : Asahi Linux prend officiellement en charge les Mac M3, m...",
-      "published": "2026-09-08T06:59:58+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "b7b554415617775dfbfbf62a5b0f009d",
@@ -173,36 +363,6 @@
       "image": "https://korben.info/grapheneos-messaging-rcs-secure-paste/grapheneos-messaging-rcs-secure-paste-1.png"
     },
     {
-      "id": "698a55da013888e46197938972725835",
-      "title": "FalconFlank : une faille zero-day dans CrowdStrike Falcon menace Windows",
-      "link": "https://www.it-connect.fr/falconflank-zero-day-crowdstrike-falcon-privileges-system/",
-      "summary": "La nouvelle faille zero-day FalconFlank donne les privilèges SYSTEM sur Windows en détournant la remédiation des macros Office de CrowdStrike Falcon. Le post FalconFlank : une faille zero-day dans CrowdStrike Falcon m...",
-      "published": "2026-09-07T12:52:25+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "48ea21a85e275a20b114f8ee87d75225",
-      "title": "Bon plan : le mini-PC Geekom IT13 Max a le droit à 150 euros de réduction immédiate",
-      "link": "https://www.it-connect.fr/bon-plan-geekom-it13-max-anniversaire-2026/",
-      "summary": "Anniversaire Geekom : le mini PC IT13 Max (Core Ultra 9 185H, 24 Go, 500 Go) passe à 649 € au lieu de 799 € avec le code réservé aux lecteurs d'IT-Connect. Le post Bon plan : le mini-PC Geekom IT13 Max a le droit à 15...",
-      "published": "2026-09-07T12:49:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1e8f8c5bbb543ff19169354551639c2d",
-      "title": "VMware Workstation et Fusion : deux failles permettent de s’évader d’une VM vers l’hôte",
-      "link": "https://www.it-connect.fr/vmware-workstation-et-fusion-failles-vm-escape-septembre-2026/",
-      "summary": "Broadcom a corrigé deux failles dans VMware Workstation et Fusion 25H2 et 26H1, dont la CVE-2026-59346 notée 9.3, qui permet d'exécuter du code sur l'hôte. Le post VMware Workstation et Fusion : deux failles permetten...",
-      "published": "2026-09-07T11:41:20+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "304a6dd4a9565f4ff8d68a589f4f3aff",
       "title": "Linux tourne enfin sur les Mac M3 (sauf la carte graphique)",
       "link": "https://korben.info/asahi-linux-support-m3-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -211,46 +371,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/asahi-linux-support-m3-mac/asahi-linux-support-m3-mac-1.jpg"
-    },
-    {
-      "id": "669a8c245266a351ef31f82389109fc4",
-      "title": "Project Zenith : Microsoft dévoile un Windows 11 spécial pour le code et l’IA",
-      "link": "https://www.it-connect.fr/project-zenith-windows-11-developpeurs-microsoft/",
-      "summary": "Microsoft a dévoilé Project Zenith, un Windows 11 clé en main où tout est prêt pour les développeurs. Mais attention au prérequis : 64 Go de mémoire unifiée. Le post Project Zenith : Microsoft dévoile un Windows 11 sp...",
-      "published": "2026-09-07T10:55:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f506346b308d20351f51ec7a1bf7e55d",
-      "title": "Brave affirme charger les pages 20 % plus vite que Chrome, Edge et Firefox",
-      "link": "https://www.it-connect.fr/brave-benchmark-desktop-chrome-edge-firefox/",
-      "summary": "Brave a publié des benchmarks face à Chrome, Edge et Firefox sur ordinateur : 44 % de CPU en moins, pages chargées 20 % plus vite, mais attention au LCP. Le post Brave affirme charger les pages 20 % plus vite que Chro...",
-      "published": "2026-09-07T10:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7b5aa8a73869a95c70361726e9242adb",
-      "title": "Nouvelle vente flash GoDeal24 : Office 2024 Pro Plus à 19.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
-      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Nouvelle vente flash GoDeal24 : Office 2024 Pro Plus à...",
-      "published": "2026-09-07T10:40:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0934fba219a432f9a3a8fec5899e6015",
-      "title": "Exchange Online va bloquer les e-mails des serveurs Exchange 2016 et 2019 non mis à jour",
-      "link": "https://www.it-connect.fr/exchange-online-blocage-exchange-2016-2019-mise-a-jour-octobre-2025/",
-      "summary": "Dès mi-septembre 2026, Exchange Online va limiter puis bloquer les e-mails des serveurs Exchange 2016 et 2019 sans le patch d'octobre 2025. Voici quoi faire. Le post Exchange Online va bloquer les e-mails des serveurs...",
-      "published": "2026-09-07T10:38:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "055d17fa53cd9a711a096b3c9b472461",
@@ -281,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/dnsforge-dns-allemand-sans-publicite/dnsforge-dns-allemand-sans-publicite-1.png"
-    },
-    {
-      "id": "697e9a616704eb3a9465668dd576394d",
-      "title": "Speakr - Interrogez toutes vos réunions enregistrées",
-      "link": "https://korben.info/speakr-transcription-audio-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Speakr transcrit vos enregistrements, sépare les voix et laisse interroger toute la bibliothèque en langage naturel, sur votre serveur. Mais deux tuyaux en sortent, celui de la transcription et celui du texte : la FAQ...",
-      "published": "2026-09-04T12:30:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/speakr-transcription-audio-self-hosted/speakr-transcription-audio-self-hosted-1.png"
-    },
-    {
-      "id": "c9c09db75f924096f0aad164952354ef",
-      "title": "Stowaway - Squattez le hublot d'un vol qui n'est pas le vôtre",
-      "link": "https://korben.info/stowaway-live-vue-hublot-avions-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Stowaway dessine le ciel réel au-dessus du lieu de votre choix, avec les avions et les satellites qui y passent vraiment, puis vous installe à bord. Déplacer son point de vue par latitude et longitude est gratuit ; le...",
-      "published": "2026-09-04T10:00:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/stowaway-live-vue-hublot-avions-temps-reel/stowaway-live-vue-hublot-avions-temps-reel-1.jpg"
     },
     {
       "id": "9b196a0d954d683076d624a68d123f08",
