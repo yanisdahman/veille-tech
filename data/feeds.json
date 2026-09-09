@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-09T15:52:07.211146+00:00",
+  "last_updated": "2026-09-09T20:21:39.132444+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c67bccb9df9b394e333b29b6ad2586d9",
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run...",
+      "published": "2026-09-09T18:26:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg"
+    },
+    {
+      "id": "7c2b150b02b0ac20949ae01421fc88f0",
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
+      "published": "2026-09-09T16:48:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "738736222a6e211c2548571b2d3976d3",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrom...",
+      "published": "2026-09-09T16:34:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg"
+    },
+    {
+      "id": "50211880d74e6fc08362411b98d4417c",
+      "title": "Phishing Microsoft 365 : BigBear 2.0 a contourné le MFA de 258 entreprises",
+      "link": "https://www.it-connect.fr/bigbear-2-0-phishing-microsoft-365-mfa/",
+      "summary": "Attention à BigBear 2.0, un service de phishing AiTM qui a volé 5 137 identifiants Microsoft 365 malgré le MFA. La France est le 2e pays le plus touché. Le post Phishing Microsoft 365 : BigBear 2.0 a contourné le MFA ...",
+      "published": "2026-09-09T16:06:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "b268a1c82ea10d8900928e47cc4ee120",
       "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
@@ -223,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "d98d71f9c198e0736aad448869789984",
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-...",
-      "published": "2026-09-09T06:47:27+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg"
-    },
-    {
       "id": "fa102ab44562026b27c67b9a77ea81e2",
       "title": "Windows 10 KB5122878 : le point sur la mise à jour ESU de septembre 2026",
       "link": "https://www.it-connect.fr/windows-10-kb5122878-mise-a-jour-esu-septembre-2026/",
@@ -263,16 +293,6 @@
       "image": ""
     },
     {
-      "id": "6104280e7889301cc22c6a30f8be966f",
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-      "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and...",
-      "published": "2026-09-09T06:25:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg"
-    },
-    {
       "id": "8cabb6c64584354c0037da34795588e7",
       "title": "Winapp - Comment créer une app Windows native sans Visual Studio",
       "link": "https://korben.info/winapp-cli-hello-world-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -281,16 +301,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/winapp-cli-hello-world-windows/winapp-cli-hello-world-windows-1.png"
-    },
-    {
-      "id": "7fa22a38482b6044fee8833f6d88820c",
-      "title": "Patch Tuesday – Septembre 2026 : 973 failles corrigées, 2 zero-day exploitées et 20 failles wormables",
-      "link": "https://www.it-connect.fr/patch-tuesday-septembre-2026-recapitulatif/",
-      "summary": "Microsoft a corrigé 973 vulnérabilités avec le Patch Tuesday de septembre 2026, un record. Deux failles zero-day sont déjà exploitées, voici un récapitulatif. Le post Patch Tuesday – Septembre 2026 : 973 failles corri...",
-      "published": "2026-09-09T05:44:20+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "5df1bc34006819d04c61319d02a63464",
@@ -318,16 +328,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
       "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly w...",
       "published": "2026-09-08T20:24:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f638bfacb6e36c5637602f0d93ed725e",
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
-      "published": "2026-09-08T20:08:55+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
