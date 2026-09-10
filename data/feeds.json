@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-09-10T02:57:19.921617+00:00",
+  "last_updated": "2026-09-10T10:32:43.488224+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "53ff1f736428724747eaec131a0a9df7",
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in ...",
+      "published": "2026-09-10T09:10:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f012466b2e9643fe7297276f8a83af5b",
+      "title": "Une faille cPanel distribue des accès root",
+      "link": "https://korben.info/cpanel-faille-prise-controle-compte-hebergement.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "cPanel a corrigé le 8 septembre une injection SQL dans EmailTrack qui laisse un simple client d'hébergement, à condition d'avoir des droits sur le mail, écrire des fichiers sur le serveur puis exécuter du code en root...",
+      "published": "2026-09-10T08:15:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cpanel-faille-prise-controle-compte-hebergement/cpanel-faille-prise-controle-compte-hebergement-1.png"
+    },
+    {
+      "id": "7d2769ca59bbc0c8e9b2692601ba1514",
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "summary": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
+      "published": "2026-09-10T08:08:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d7fc96698861a664de2821f6ac513a3b",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a...",
+      "published": "2026-09-10T07:12:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s1600/litellm.jpg"
+    },
+    {
+      "id": "df4965fe94c50faab3e8becd45b795a7",
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the...",
+      "published": "2026-09-10T07:04:01+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMNfeF1h2D3MrUkoHWN2M9yhKD-FFQ6DgwixOflNATW2UA5b_6AsUjXLAjrn5c4hQWw0xueXTWDlbqKwS_gexDm0Yq8PB_B2LpXHaQiw7m7thOATlckixuA8VUIFDFERGBS8o1Kph93eYnDysXuRljKaXfe7813MwWKkBLex8BP3YL-fahCr4Xm3xMWZE/s1600/claude-hack.jpg"
+    },
+    {
+      "id": "93f9958f35cf46a9dd7c54bcc06d3534",
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
+      "published": "2026-09-10T06:56:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "df4da425cbb2caffbe0bf86e32c3fc16",
+      "title": "SafeLine : un WAF prêt à protéger vos applis web des bots malveillants",
+      "link": "https://www.it-connect.fr/safeline-waf-prise-en-main/",
+      "summary": "Guide complet sur SafeLine, un WAF à déployer avec Docker : fonctionnalités clés, installation, configuration et tests de détection sur un site web. Le post SafeLine : un WAF prêt à protéger vos applis web des bots ma...",
+      "published": "2026-09-10T06:24:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "28d8a7972d83f6219ffc293a3f43ada8",
+      "title": "Android : le patch de septembre 2026 corrige une faille critique exploitable à distance sans interaction",
+      "link": "https://www.it-connect.fr/android-patch-septembre-2026-faille-critique-rce/",
+      "summary": "Google a publié le bulletin de sécurité de septembre 2026 pour Android : il corrige 180 vulnérabilités, dont une faille critique exploitable à distance. Le post Android : le patch de septembre 2026 corrige une faille ...",
+      "published": "2026-09-10T06:22:45+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "196a1b60c5f433b177dafd1dee0f9452",
+      "title": "Votre TV LG vous écoute même en veille et scanne votre réseau local",
+      "link": "https://www.it-connect.fr/tv-lg-scan-reseau-local-micro-actif/",
+      "summary": "Un Youtubeur accuse les TV LG de scanner le réseau local et de transcrire l'audio en veille. LG dément pour le micro, mais assume pour le réseau. Le post Votre TV LG vous écoute même en veille et scanne votre réseau l...",
+      "published": "2026-09-10T05:19:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "87261f68dfdc60111987c0cf68de3621",
+      "title": "Un seul abonnement Surfshark, une infinité d'appareils protégés pour la rentrée",
+      "link": "https://korben.info/un-seul-abonnement-surfshark.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "-- Article en partenariat avec Surfshark -- Vous savez ce qui est pire qu'un cousin qui vous demande votre mot de passe Netflix ? C'est quand ledit cousin vous demande aussi un VPN pour sa boîte, sa copine, son chien ...",
+      "published": "2026-09-10T04:56:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/un-seul-abonnement-surfshark/un-seul-abonnement-surfshark-1.webp"
+    },
     {
       "id": "a268aa87ff70653d7f9eab16e64d3e33",
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
@@ -186,7 +286,7 @@
       "id": "c9249abb2b8d67a843d263d892b9ac15",
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-874...",
+      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-8749...",
       "published": "2026-09-09T09:11:03+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -213,16 +313,6 @@
       "image": "https://korben.info/ffmpeg-commander-generateur-commandes/ffmpeg-commander-generateur-commandes-1.png"
     },
     {
-      "id": "8833b25961f4aea61f84c9a25b881d99",
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-      "published": "2026-09-09T08:44:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c0dbc72d9054f7102a63a993dd0dc523",
       "title": "Jellyfin 12.0 est là : découvrez les nouveautés et ce qu’il faut savoir avant de mettre à jour",
       "link": "https://www.it-connect.fr/jellyfin-12-0-nouvelle-version-media-server/",
@@ -231,16 +321,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "5d79a0b01463ed9a74d8d994be85e187",
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server thro...",
-      "published": "2026-09-09T08:19:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_YdNiqGpEWkDm5hEkF-RhZ94vv84sJmONomdRsksJ65GwI388Va-uVIzXWhwZtHmBTF3oze2l4Sscj2zpTsn6lqdPWPKAeL1iP6SSyzvNBOA4dLAKxfSmfThhmQgIc_1AYGWG9dbrCLFg_dk4m8pCHxFcJBRnThru8PtB7UJqUy3VjW15-vQlRvuwpc/s1600/cpanel-bug.jpg"
     },
     {
       "id": "836da50b8ca0c4d726acdaecfe8e819b",
@@ -260,66 +340,6 @@
       "published": "2026-09-09T07:56:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8946c4dc7275d964e5204762240ecb65",
-      "title": "Proxmox Backup Server : la sauvegarde locale est saine, mais où est la copie hors ligne ?",
-      "link": "https://www.it-connect.fr/proxmox-backup-server-la-sauvegarde-locale-est-saine-mais-ou-est-la-copie-hors-ligne/",
-      "summary": "Hors ligne versus hors site : comment composer une stratégie de sauvegarde fiable, conforme ANSSI et adaptée à Proxmox Backup Server ? Voici la réponse. Le post Proxmox Backup Server : la sauvegarde locale est saine, ...",
-      "published": "2026-09-09T07:50:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "dab483c16cb531f76bcd2f64a6bbc338",
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the...",
-      "published": "2026-09-09T07:36:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA552mINL2oyFm7mf9nHTwjJGJUVAtfYnMXbqYsowSEsDMzVsAgHG8MHKn5_EmwZ9bgRmhEndE20FhQAN4rvOLv5ESSAu0kHTV4QyygvUePYCJ1fvda0bU0Mzi5B9J8LHhULDeRRI9HGC84dntx8jaLu6WFLOz6OOhEwKNnSf6zzFRyAtlLKDQzHvygg/s1600/f5-malware.jpg"
-    },
-    {
-      "id": "afbff820bd934ac0cb31ea09ed02587c",
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates...",
-      "published": "2026-09-09T07:30:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fa102ab44562026b27c67b9a77ea81e2",
-      "title": "Windows 10 KB5122878 : le point sur la mise à jour ESU de septembre 2026",
-      "link": "https://www.it-connect.fr/windows-10-kb5122878-mise-a-jour-esu-septembre-2026/",
-      "summary": "Mardi 8 septembre 2026, Microsoft a publié la KB5122878 pour Windows 10. Au-delà de patcher une faille zero-day, cette mise à jour corrige plusieurs bugs. Le post Windows 10 KB5122878 : le point sur la mise à jour ESU...",
-      "published": "2026-09-09T06:42:24+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "958e0c45c0279cd911763f84b8febf70",
-      "title": "Windows 11 va dire aux applications si vous êtes un enfant, un ado ou un adulte",
-      "link": "https://www.it-connect.fr/windows-11-api-age-microsoft-apps-tranche-age/",
-      "summary": "Microsoft va ajouter des API d'âge à Windows 11 : les applications sauront si vous êtes enfant, ado ou adulte, sans accéder à votre date de naissance. Le post Windows 11 va dire aux applications si vous êtes un enfant...",
-      "published": "2026-09-09T06:28:40+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9f90e3b1dad766c0ba126684d0963131",
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
-      "published": "2026-09-09T06:25:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/asahi-linux-support-m3-mac/asahi-linux-support-m3-mac-1.jpg"
-    },
-    {
-      "id": "055d17fa53cd9a711a096b3c9b472461",
-      "title": "Degoog - Le métamoteur à installer sur votre ordi",
-      "link": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "degoog est un métamoteur de recherche auto-hébergé livré sans un seul moteur : tout s'installe depuis un Store, y compris la façon dont votre serveur sort sur le réseau.",
-      "published": "2026-09-07T08:28:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source/degoog-agregateur-moteurs-recherche-open-source-1.png"
-    },
-    {
-      "id": "37ae936b8a6e9176b97506ee251501dc",
-      "title": "DocuSeal - Pour signer vos documents sur votre propre serveur",
-      "link": "https://korben.info/docuseal-alternative-docusign-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "DocuSeal fait signer des PDF à plusieurs depuis un conteneur Docker sur votre serveur, API REST et webhooks compris dans la version libre. La signature obtenue est une signature simple au sens d'eIDAS, et votre instan...",
-      "published": "2026-09-07T07:37:39+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/docuseal-alternative-docusign-open-source/docuseal-alternative-docusign-open-source-1.png"
     },
     {
       "id": "078c7957feb894e8c895e78f427ad67a",
