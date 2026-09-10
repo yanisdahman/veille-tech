@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-09-10T10:32:43.488224+00:00",
+  "last_updated": "2026-09-10T15:47:11.897539+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "bb4c64e787836d6df62e2e613b9fe7a0",
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+      "published": "2026-09-10T15:43:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d6170fe5632fce833ab128a0e747b393",
+      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver'...",
+      "published": "2026-09-10T14:55:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "49ecec15db301ae8039882848c91b7f9",
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the ...",
+      "published": "2026-09-10T14:36:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg"
+    },
+    {
+      "id": "3ffebfc9849420224046455156c9ecfa",
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+      "published": "2026-09-10T14:11:34+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f09fd26b0fefb7fc8c2b2e8c0a2ce770",
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why som...",
+      "published": "2026-09-10T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "800820eb83d6fb6bdea694584c870ed2",
+      "title": "Ce que les IA d'OpenAI se sont raconté en se croyant seules",
+      "link": "https://korben.info/agents-ia-organisation-wiki-allemand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Quatre chercheurs ont publié 18 000 messages que des agents se déclarant d'OpenAI ont laissés sur un vieux wiki de développeurs allemands. On y lit comment ils se sont passé les réponses de leurs tests chronométrés, c...",
+      "published": "2026-09-10T13:52:44+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/agents-ia-organisation-wiki-allemand/agents-ia-organisation-wiki-allemand-1.jpg"
+    },
+    {
+      "id": "ccfe6c62d3d3597edeb2ffd6f229b54f",
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only ...",
+      "published": "2026-09-10T11:45:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyc0Kqar7_6N4y9ymGxw8ukQCQbqQ_pGCfnoXYMBZoNZK1w3ljkO26S_rhVhJaIVcx8rcEK95njKyaYj5g63VByKh8ncf_s84nUBWoyEbWZH6uaLYjnu5fNt_TC9wz-r6P_RTJgZ83Z5wmurzSb9_lHVfV1t9STts4WCZr18AH-3XRHTn5pj15uURIM-0/s1600/checkpoint.jpg"
+    },
+    {
+      "id": "e71df458c723b458db32fdcaa00021e8",
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundred...",
+      "published": "2026-09-10T11:41:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1600/paper.jpg"
+    },
+    {
+      "id": "e45718aaf68279f5eee235f5df920071",
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September ...",
+      "published": "2026-09-10T11:33:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg"
+    },
+    {
+      "id": "d81943589da9364997b1fbd0586609fa",
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
+      "published": "2026-09-10T11:14:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f7e3f1639e093e4096983dfbbf175b90",
+      "title": "ShieldCrash : cette nouvelle zero-day Microsoft Defender offre un accès système",
+      "link": "https://www.it-connect.fr/shieldcrash-zero-day-defender-contournement-patch-shieldbreak/",
+      "summary": "L'exploit ShieldCrash contourne le correctif de Microsoft pour la faille ShieldBreak et permet de lire n'importe quel fichier sur Windows et Windows Server. Le post ShieldCrash : cette nouvelle zero-day Microsoft Defe...",
+      "published": "2026-09-10T11:07:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "01552c8bcd137a776956b60b40dc9bc4",
+      "title": "RistOS - L'Android sans applis dont le cerveau reste chez vous",
+      "link": "https://korben.info/rist-os-handset-android-degoogle.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "RistOS remplace le lanceur d'un Pixel 10a par un assistant vocal : ni app store, ni navigateur, sept applications et rien d'autre. Mais le téléphone ne transcrit ni ne parle, tout passe par un serveur que vous héberge...",
+      "published": "2026-09-10T11:04:19+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rist-os-handset-android-degoogle/rist-os-handset-android-degoogle-1.png"
+    },
+    {
+      "id": "9d2ea7bed43113a8567e1ca3599b3ef6",
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civi...",
+      "published": "2026-09-10T10:36:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7j6Sm8OqDeYzrbb5faLBuDOc0zIMlvfjiKbn1aCMpx_2iBl6gb3HhJhpbqU8SPajHUClJEXUwnFbY1DcubmzWeVaWCyGcHkw45rCYqU_4IFO_g4OwdyNrTFFK3l3YsXwfOWQj2QtW3UTeglKmyRJ4GvbVKMxLTByMgeZ7E0WWpxpi50qie2lx9DbCY9rr/s1600/cisa-list.jpg"
+    },
     {
       "id": "53ff1f736428724747eaec131a0a9df7",
       "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
@@ -123,16 +253,6 @@
       "image": ""
     },
     {
-      "id": "51293f5305c97ae4f16d7f9cb7ba821d",
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...",
-      "published": "2026-09-09T21:02:14+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c67bccb9df9b394e333b29b6ad2586d9",
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
       "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
@@ -141,16 +261,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg"
-    },
-    {
-      "id": "7c2b150b02b0ac20949ae01421fc88f0",
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-      "published": "2026-09-09T16:48:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "738736222a6e211c2548571b2d3976d3",
@@ -173,16 +283,6 @@
       "image": ""
     },
     {
-      "id": "b268a1c82ea10d8900928e47cc4ee120",
-      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
-      "published": "2026-09-09T15:31:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a01e503f506e253523dcd79e4660f002",
       "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
       "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
@@ -191,16 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg"
-    },
-    {
-      "id": "7828362b9101334b7393e530944e2b4d",
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service...",
-      "published": "2026-09-09T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "486405cb95f554f115b991e93869e230",
@@ -223,46 +313,6 @@
       "image": "https://korben.info/plex-serveurs-non-patches-failles/plex-serveurs-non-patches-failles-1.png"
     },
     {
-      "id": "993e1b63f71c99567ccca75c52eec35d",
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint ...",
-      "published": "2026-09-09T11:57:36+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg"
-    },
-    {
-      "id": "9f8ebd86c61d97e13b55c4ee936b12b7",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands in...",
-      "published": "2026-09-09T11:17:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg"
-    },
-    {
-      "id": "e52b9489709237f8d371f732d6110fb0",
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby ...",
-      "published": "2026-09-09T10:43:04+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
-    },
-    {
-      "id": "8a08d3518429206bbcdbdc21be7eee7c",
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-      "published": "2026-09-09T10:11:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "bb13f1e17b8589a2de33fafcfc43d504",
       "title": "Forensic Windows – Partie 10 : analyser le journal USN (NTFS)",
       "link": "https://www.it-connect.fr/forensic-windows-journal-usn-ntfs/",
@@ -271,26 +321,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "cf80be82607a9aa46433b4f31ac3726a",
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier m...",
-      "published": "2026-09-09T09:32:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg"
-    },
-    {
-      "id": "c9249abb2b8d67a843d263d892b9ac15",
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-8749...",
-      "published": "2026-09-09T09:11:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg"
     },
     {
       "id": "dbd422eb89377cccbb1d35c361e8416c",
@@ -328,16 +358,6 @@
       "link": "https://www.it-connect.fr/windows-11-kb5124008-mise-a-jour-de-septembre-2026/",
       "summary": "KB5124008 et KB5122880 : les mises à jour Windows 11 de septembre 2026 sont là. Barre des tâches déplaçable, bugs d'août corrigés et une zero-day patchée. Le post Windows 11 KB5124008 : la mise à jour de septembre 202...",
       "published": "2026-09-09T08:05:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "788359cd94da2f43875c62761e089760",
-      "title": "Magento : la faille zero-day StyleSmuggler est corrigée, mais des boutiques sont déjà piratées",
-      "link": "https://www.it-connect.fr/magento-adobe-commerce-faille-zero-day-stylesmuggler-cve-2026-75650/",
-      "summary": "Exploitée depuis le 4 septembre 2026, la faille StyleSmuggler (CVE-2026-75650) permet de pirater Magento et Adobe Commerce. Un patch est disponible. Le post Magento : la faille zero-day StyleSmuggler est corrigée, mai...",
-      "published": "2026-09-09T07:56:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/rssmonster-lecteur-rss-auto-heberge/rssmonster-lecteur-rss-auto-heberge-1.png"
-    },
-    {
-      "id": "b7b554415617775dfbfbf62a5b0f009d",
-      "title": "GrapheneOS verrouillera bientôt le presse-papiers d'Android",
-      "link": "https://korben.info/grapheneos-messaging-rcs-secure-paste.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "GrapheneOS a écrit le réglage qui manque à Android depuis Android 13 : une application ne peut plus lire ce qu'une autre a copié, mais elle relit toujours ce qu'elle a copié elle-même et le collage volontaire continue...",
-      "published": "2026-09-08T05:10:09+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/grapheneos-messaging-rcs-secure-paste/grapheneos-messaging-rcs-secure-paste-1.png"
-    },
-    {
-      "id": "304a6dd4a9565f4ff8d68a589f4f3aff",
-      "title": "Linux tourne enfin sur les Mac M3 (sauf la carte graphique)",
-      "link": "https://korben.info/asahi-linux-support-m3-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Asahi Linux a fusionné le support des Mac M3 dans son installeur le 6 septembre. La webcam, le Thunderbolt et le WiFi répondent, mais la 3D reste dessinée par le processeur, et personne ne donne de date.",
-      "published": "2026-09-07T11:37:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/asahi-linux-support-m3-mac/asahi-linux-support-m3-mac-1.jpg"
     },
     {
       "id": "078c7957feb894e8c895e78f427ad67a",
