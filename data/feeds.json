@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-09-11T02:52:28.410718+00:00",
+  "last_updated": "2026-09-11T10:33:13.921902+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "a41dc130b47c685a624c00a8aaecbbe9",
+      "title": "OmniVoice - Clonez votre propre voix en local et en français",
+      "link": "https://korben.info/omnivoice-clonage-voix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "OmniVoice recopie votre voix à partir de huit secondes d'enregistrement, en local sur Mac, Linux ou Windows. Le tuto complet, les deux réglages qui changent tout en français, un kit à coller dans votre agent, et le hi...",
+      "published": "2026-09-11T10:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/omnivoice-clonage-voix/omnivoice-clonage-voix-1.png"
+    },
+    {
+      "id": "551c4d2899c085ccbd147fd59dfd5e77",
+      "title": "Le Deathray - Le shader WebGPU qui fait redémarrer votre Mac",
+      "link": "https://korben.info/webgpu-deathray-freeze-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un shader WebGPU servi par une simple page web fige l'affichage d'un Mac Apple Silicon jusqu'au kernel panic, dans Chrome, Firefox et Safari. Apple a fermé le rapport.",
+      "published": "2026-09-11T09:52:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/webgpu-deathray-freeze-mac/webgpu-deathray-freeze-mac-1.png"
+    },
+    {
+      "id": "9683949c6abb4247a75faecb0f763a48",
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "published": "2026-09-11T09:39:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1b3e6f3ceb1287619e1eaff972672959",
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
+      "published": "2026-09-11T07:55:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "cc91ded345178a2e9297ea563e3e012c",
+      "title": "Forensic Windows – Partie 11 : analyser la MFT avec KAPE et MFTECmd",
+      "link": "https://www.it-connect.fr/windows-forensic-analyser-la-mft/",
+      "summary": "Analysez la MFT du système de fichiers NTFS de Windows : extraction de $MFT avec KAPE, conversion en CSV avec MFTECmd et recherche de fichiers supprimés. Le post Forensic Windows – Partie 11 : analyser la MFT avec KAP...",
+      "published": "2026-09-11T07:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6462439f9123409398f40bc0f192209e",
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said ...",
+      "published": "2026-09-11T07:31:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg"
+    },
+    {
+      "id": "0230bce313a98356e4e3e6d759356137",
+      "title": "Trynix - Testez des classiques Linux sans rien installer",
+      "link": "https://korben.info/trynix-tester-paquet-nix-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "trynix démarre une machine Linux dans votre onglet et y monte n'importe quelle version de logiciel que nixpkgs a livrée en treize ans. Pas de serveur, pas d'installation : un lien, un shell, et un Python de 2017 qui r...",
+      "published": "2026-09-11T07:19:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/trynix-tester-paquet-nix-navigateur/trynix-tester-paquet-nix-navigateur-1.png"
+    },
+    {
+      "id": "a234b5ac9e19ca8fff22f060a759410a",
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digita...",
+      "published": "2026-09-11T07:14:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg"
+    },
+    {
+      "id": "676191bf54b9d4dd00068f944e018a0c",
+      "title": "Pluton - Le backup chiffré qui se pilote depuis le navigateur",
+      "link": "https://korben.info/pluton-backup-self-hosted-chiffre-restic-rclone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Pluton pose une interface web sur restic et rclone. Un docker compose, un plan de sauvegarde, et vos fichiers partent chiffrés vers le stockage de votre choix. Voilà comment le monter et surtout comment vérifier que v...",
+      "published": "2026-09-11T07:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pluton-backup-self-hosted-chiffre-restic-rclone/pluton-backup-self-hosted-chiffre-restic-rclone-1.png"
+    },
+    {
+      "id": "47d71118fdbe6cd6e9080f7c55309ab1",
+      "title": "BlueMoon : des PC à jour compromis avec ces failles Google Chrome et Windows",
+      "link": "https://www.it-connect.fr/bluemoon-kit-exploitation-chrome-windows/",
+      "summary": "Le kit d'exploitation BlueMoon s'appuie sur deux failles dans Google Chrome et une faille Windows pour compromettre des utilisateurs pourtant à jour. Le post BlueMoon : des PC à jour compromis avec ces failles Google ...",
+      "published": "2026-09-11T06:58:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "86947a59c181c894bbed222fb031f7c2",
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+      "published": "2026-09-11T06:48:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "06749570af2eca50e6fc5a4d462f2961",
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The so...",
+      "published": "2026-09-11T06:46:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg"
+    },
+    {
+      "id": "b5e1ba818fff6a57d4c5f5b950ba4edf",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks le...",
+      "published": "2026-09-11T06:19:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg"
+    },
+    {
+      "id": "b76a16a2f847cbd0ca8bf3e30b99b783",
+      "title": "ReProgman - L'interface de Windows 3.1 sur PC et Mac",
+      "link": "https://korben.info/windows-31-shell-vibe-code-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "ReProgman rejoue le Program Manager de Windows 3.1 sur Windows 11 et sur macOS Apple Silicon. Rien à installer, licence MIT, et une spécification de 469 lignes dans le dépôt.",
+      "published": "2026-09-11T06:15:54+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-31-shell-vibe-code-claude/windows-31-shell-vibe-code-claude-1.jpg"
+    },
+    {
+      "id": "ca60bff5340b0cda8c66bd3733db4091",
+      "title": "Windows Server : le patch de septembre 2026 casse les serveurs RDS",
+      "link": "https://www.it-connect.fr/windows-server-mises-a-jour-septembre-2026-bug-rds/",
+      "summary": "Les mises à jour de septembre 2026 pour Windows Server 2019, 2022 et 2025 provoquent des pannes des services Bureau à distance (RDS). Le post Windows Server : le patch de septembre 2026 casse les serveurs RDS a été pu...",
+      "published": "2026-09-11T05:19:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "435d6d5d6bba018fa732f9228dae71f7",
+      "title": "Excel : la mise à jour KB5002914 de septembre 2026 casse le copier-coller",
+      "link": "https://www.it-connect.fr/excel-kb5002914-bug-copier-coller/",
+      "summary": "La mise à jour KB5002914 de septembre 2026 casse le copier-coller et la recopie de formules dans Excel 2016 à 2024. Microsoft a confirmé le bug. Le post Excel : la mise à jour KB5002914 de septembre 2026 casse le copi...",
+      "published": "2026-09-11T05:03:42+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "216d3ad0ff00ddb7df59eb9c44c3b9e9",
+      "title": "Super Mario 64 tourne sur un processeur ARM (avec ReactOS)",
+      "link": "https://korben.info/reactos-arm64-fex-jeux-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une vidéo montre Super Mario 64 qui tourne sur ReactOS, le clone libre de Windows, sur une machine ARM. Derrière la démo, il y a bien plus qu'un émulateur lancé sur un OS libre : le développeur a écrit dans le ntdll d...",
+      "published": "2026-09-11T04:59:04+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/reactos-arm64-fex-jeux-windows/reactos-arm64-fex-jeux-windows-1.jpg"
+    },
     {
       "id": "aa1496fd1623bd0e7cc2d3c98c5c93c2",
       "title": "New Android malware encrypts files, steals data, and harasses victims",
@@ -93,26 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg"
     },
     {
-      "id": "3ffebfc9849420224046455156c9ecfa",
-      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-      "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
-      "published": "2026-09-10T14:11:34+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f09fd26b0fefb7fc8c2b2e8c0a2ce770",
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why som...",
-      "published": "2026-09-10T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "800820eb83d6fb6bdea694584c870ed2",
       "title": "Ce que les IA d'OpenAI se sont raconté en se croyant seules",
       "link": "https://korben.info/agents-ia-organisation-wiki-allemand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -151,16 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg"
-    },
-    {
-      "id": "d81943589da9364997b1fbd0586609fa",
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-      "published": "2026-09-10T11:14:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "f7e3f1639e093e4096983dfbbf175b90",
@@ -203,26 +343,6 @@
       "image": "https://korben.info/cpanel-faille-prise-controle-compte-hebergement/cpanel-faille-prise-controle-compte-hebergement-1.png"
     },
     {
-      "id": "d7fc96698861a664de2821f6ac513a3b",
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a...",
-      "published": "2026-09-10T07:12:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s1600/litellm.jpg"
-    },
-    {
-      "id": "df4965fe94c50faab3e8becd45b795a7",
-      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-      "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the...",
-      "published": "2026-09-10T07:04:01+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMNfeF1h2D3MrUkoHWN2M9yhKD-FFQ6DgwixOflNATW2UA5b_6AsUjXLAjrn5c4hQWw0xueXTWDlbqKwS_gexDm0Yq8PB_B2LpXHaQiw7m7thOATlckixuA8VUIFDFERGBS8o1Kph93eYnDysXuRljKaXfe7813MwWKkBLex8BP3YL-fahCr4Xm3xMWZE/s1600/claude-hack.jpg"
-    },
-    {
       "id": "df4da425cbb2caffbe0bf86e32c3fc16",
       "title": "SafeLine : un WAF prêt à protéger vos applis web des bots malveillants",
       "link": "https://www.it-connect.fr/safeline-waf-prise-en-main/",
@@ -263,26 +383,6 @@
       "image": "https://korben.info/un-seul-abonnement-surfshark/un-seul-abonnement-surfshark-1.webp"
     },
     {
-      "id": "c67bccb9df9b394e333b29b6ad2586d9",
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run...",
-      "published": "2026-09-09T18:26:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg"
-    },
-    {
-      "id": "738736222a6e211c2548571b2d3976d3",
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrom...",
-      "published": "2026-09-09T16:34:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg"
-    },
-    {
       "id": "50211880d74e6fc08362411b98d4417c",
       "title": "Phishing Microsoft 365 : BigBear 2.0 a contourné le MFA de 258 entreprises",
       "link": "https://www.it-connect.fr/bigbear-2-0-phishing-microsoft-365-mfa/",
@@ -301,106 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "6a55070b5ffac6520d4242225013271e",
-      "title": "Mettez à jour Plex ! (même sans savoir contre quoi)",
-      "link": "https://korben.info/plex-serveurs-non-patches-failles.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Plex a publié le 1er septembre un avis de sécurité qui ne dit ni ce qui est touché, ni à quel point c'est grave, et aucune CVE n'a suivi. Huit jours plus tard, Shadowserver compte encore plus de 36 000 serveurs Plex e...",
-      "published": "2026-09-09T13:07:21+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/plex-serveurs-non-patches-failles/plex-serveurs-non-patches-failles-1.png"
-    },
-    {
-      "id": "bb13f1e17b8589a2de33fafcfc43d504",
-      "title": "Forensic Windows – Partie 10 : analyser le journal USN (NTFS)",
-      "link": "https://www.it-connect.fr/forensic-windows-journal-usn-ntfs/",
-      "summary": "Apprenez à analyser le journal USN de NTFS pour retrouver les fichiers créés, renommés, déplacés ou supprimés, même s'ils n'existent plus sur le disque. Le post Forensic Windows – Partie 10 : analyser le journal USN (...",
-      "published": "2026-09-09T09:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "dbd422eb89377cccbb1d35c361e8416c",
-      "title": "Quishing : Microsoft Teams va masquer les codes QR envoyés par des utilisateurs externes",
-      "link": "https://www.it-connect.fr/microsoft-teams-protection-codes-qr-messages-externes/",
-      "summary": "Microsoft Teams masquera par défaut les images contenant un code QR envoyées par des expéditeurs externes. Objectif : freiner le quishing dès octobre 2026. Le post Quishing : Microsoft Teams va masquer les codes QR en...",
-      "published": "2026-09-09T08:58:24+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b5584f616b14ab43628720074f4716fe",
-      "title": "FFmpeg Commander - Cochez, copiez, collez dans le terminal",
-      "link": "https://korben.info/ffmpeg-commander-generateur-commandes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "FFmpeg Commander écrit votre ligne de commande ffmpeg dans un formulaire, avec 34 recettes prêtes et une URL partageable. Ce qu'il fait, et ce qu'il ne fait pas.",
-      "published": "2026-09-09T08:48:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ffmpeg-commander-generateur-commandes/ffmpeg-commander-generateur-commandes-1.png"
-    },
-    {
-      "id": "c0dbc72d9054f7102a63a993dd0dc523",
-      "title": "Jellyfin 12.0 est là : découvrez les nouveautés et ce qu’il faut savoir avant de mettre à jour",
-      "link": "https://www.it-connect.fr/jellyfin-12-0-nouvelle-version-media-server/",
-      "summary": "Jellyfin 12.0 est disponible : nouvelle numérotation, base de données plus rapide, interface Modern par défaut, FFmpeg 8.1 et correctifs de sécurité. Le post Jellyfin 12.0 est là : découvrez les nouveautés et ce qu’il...",
-      "published": "2026-09-09T08:42:13+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "836da50b8ca0c4d726acdaecfe8e819b",
-      "title": "Windows 11 KB5124008 : la mise à jour de septembre 2026 améliore la barre des tâches et corrige des bugs",
-      "link": "https://www.it-connect.fr/windows-11-kb5124008-mise-a-jour-de-septembre-2026/",
-      "summary": "KB5124008 et KB5122880 : les mises à jour Windows 11 de septembre 2026 sont là. Barre des tâches déplaçable, bugs d'août corrigés et une zero-day patchée. Le post Windows 11 KB5124008 : la mise à jour de septembre 202...",
-      "published": "2026-09-09T08:05:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8cabb6c64584354c0037da34795588e7",
-      "title": "Winapp - Comment créer une app Windows native sans Visual Studio",
-      "link": "https://korben.info/winapp-cli-hello-world-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le winapp CLI de Microsoft crée, lance et empaquette une application Windows native depuis un simple terminal. Le pas à pas, du Hello World au fichier MSIX.",
-      "published": "2026-09-09T05:56:31+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/winapp-cli-hello-world-windows/winapp-cli-hello-world-windows-1.png"
-    },
-    {
-      "id": "5483f6c7a466aee7a165ca20f866de8a",
-      "title": "reVCDOS - Vice City en entier dans un onglet",
-      "link": "https://korben.info/gta-vice-city-navigateur-web-revcdos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "GTA Vice City tourne en entier dans un onglet de navigateur, tactile et manette compris. Il faut lui fournir les fichiers du jeu, et se passer de sauvegarde.",
-      "published": "2026-09-08T12:13:55+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gta-vice-city-navigateur-web-revcdos/gta-vice-city-navigateur-web-revcdos-1.jpg"
-    },
-    {
-      "id": "0fb2be760ac7bac917fbe9844b57ffc6",
-      "title": "Kickban a filmé sa tournée et Pixel Syndrome en a fait un film",
-      "link": "https://korben.info/meuporg-tour-documentaire-kickban.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Six dates en avril, une caméra, et des images qui dorment encore sur une carte SD. Ce sont les copains de tournée qui ont trié et monté le documentaire.",
-      "published": "2026-09-08T11:58:31+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/meuporg-tour-documentaire-kickban/meuporg-tour-documentaire-kickban-1.jpg"
-    },
-    {
-      "id": "9ecd0fdcbecd1ddc3171ec2cc8f63cf1",
-      "title": "RSSMonster - Le lecteur RSS qui trie vos flux en local",
-      "link": "https://korben.info/rssmonster-lecteur-rss-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "RSSMonster regroupe les articles qui racontent le même événement et leur colle une note, avec des modèles qui tournent sur votre propre machine. Deux profils Docker sont fournis, et celui qui s'installe en trois comma...",
-      "published": "2026-09-08T09:20:12+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/rssmonster-lecteur-rss-auto-heberge/rssmonster-lecteur-rss-auto-heberge-1.png"
     },
     {
       "id": "bb2bacab4c29e8967f83bb764229a6cb",
