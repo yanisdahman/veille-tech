@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-11T15:49:02.868877+00:00",
+  "last_updated": "2026-09-11T20:24:45.606158+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ec9b7162977cf45d35f97b17a5a1f27f",
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+      "published": "2026-09-11T20:19:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "949dcfcc5ce3729b9511d7f027cefdbc",
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police depa...",
+      "published": "2026-09-11T19:00:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f841ed74cfcbbf3914d50f3a6349e406",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data fr...",
+      "published": "2026-09-11T17:26:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c303976fea595a348f68c1564990101b",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-...",
+      "published": "2026-09-11T16:30:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg"
+    },
+    {
+      "id": "11f1476ce054e3e06cd60b248d4e910b",
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+      "published": "2026-09-11T16:29:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "110d4eb47a97512d48f1383d59afce05",
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax....",
+      "published": "2026-09-11T16:15:29+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg"
+    },
     {
       "id": "1919c6c07f38f87b318665970288486d",
       "title": "Microsoft Teams : une fonction de sauvegarde et de restauration des équipes et des canaux arrive en décembre",
@@ -243,36 +303,6 @@
       "image": ""
     },
     {
-      "id": "077ceb25ebbf1f869945d90aa29fdf80",
-      "title": "September Windows Server updates break Remote Desktop Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-      "summary": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, re...",
-      "published": "2026-09-10T20:34:37+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a6bf64d3cc7253a8e3f9925263d42394",
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
-      "published": "2026-09-10T19:15:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2f3b653edccf1a4ed9b2aeafb9ce064f",
-      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-      "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores n...",
-      "published": "2026-09-10T19:07:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ccaf266aefdf4034ca4d015ef9e82f69",
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
@@ -283,26 +313,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFNPIVe_Yx__WtfjnMTnoJSKPMcGPiMCP5NxEyv1gRcGSlnozG41TeGldWhQi7Hsc0XgcmC9tfTEBS-CdLLAz8cOskVbBOsghdSM9kg_AhQmhfMada8rs4l7O7Py8YJErqK54BIt0r06Sm1l62fy8yv6H8PJrEXWxjnvyLkyFKzzXcGI_h00yeBqck5v9L/s1600/td-main.jpg"
     },
     {
-      "id": "4c16c166dd9e961e9e1b07b6a6814e69",
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-      "published": "2026-09-10T15:55:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "49ecec15db301ae8039882848c91b7f9",
-      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
-      "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the ...",
-      "published": "2026-09-10T14:36:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg"
-    },
-    {
       "id": "800820eb83d6fb6bdea694584c870ed2",
       "title": "Ce que les IA d'OpenAI se sont raconté en se croyant seules",
       "link": "https://korben.info/agents-ia-organisation-wiki-allemand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,16 +321,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/agents-ia-organisation-wiki-allemand/agents-ia-organisation-wiki-allemand-1.jpg"
-    },
-    {
-      "id": "ccfe6c62d3d3597edeb2ffd6f229b54f",
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only ...",
-      "published": "2026-09-10T11:45:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyc0Kqar7_6N4y9ymGxw8ukQCQbqQ_pGCfnoXYMBZoNZK1w3ljkO26S_rhVhJaIVcx8rcEK95njKyaYj5g63VByKh8ncf_s84nUBWoyEbWZH6uaLYjnu5fNt_TC9wz-r6P_RTJgZ83Z5wmurzSb9_lHVfV1t9STts4WCZr18AH-3XRHTn5pj15uURIM-0/s1600/checkpoint.jpg"
     },
     {
       "id": "f7e3f1639e093e4096983dfbbf175b90",
