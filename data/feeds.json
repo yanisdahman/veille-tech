@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-09-14T11:42:40.729256+00:00",
+  "last_updated": "2026-09-14T17:37:03.418637+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "6cd207976e0b6fa46c67a9b8aeb72bb4",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps readin...",
+      "published": "2026-09-14T16:58:42+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif"
+    },
+    {
+      "id": "4b84d8df73f742d25b938509e767021a",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national cam...",
+      "published": "2026-09-14T16:56:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg"
+    },
+    {
+      "id": "b80fd6f45dec76b68f1a6432c9ece2f2",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "published": "2026-09-14T16:15:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0912ea90f475016c5a94373c55250dd",
+      "title": "PaperCut NG/MF : 395 organisations dans 48 pays compromises par des agents IA",
+      "link": "https://www.it-connect.fr/papercut-agents-ia-395-organisations-greynoise/",
+      "summary": "Des centaines d'agents IA ont exploité deux failles PaperCut NG/MF et compromis 440 serveurs chez 395 organisations dans 48 pays, dont 31 en France. Le post PaperCut NG/MF : 395 organisations dans 48 pays compromises ...",
+      "published": "2026-09-14T16:13:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d29b5d53a030c477e79295d7835652ae",
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensu...",
+      "published": "2026-09-14T16:00:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg"
+    },
+    {
+      "id": "95726cb37bf0ee9fdfb7454b2c03de74",
+      "title": "Portabase : une solution open source pour centraliser la sauvegarde de vos bases de données",
+      "link": "https://www.it-connect.fr/tuto-portabase-sauvegarde-bases-de-donnees-docker/",
+      "summary": "Découvrez Portabase, la solution open source de sauvegarde de bases de données. Installation Docker, configuration d'un agent, etc... Prise en main complète. Le post Portabase : une solution open source pour centralis...",
+      "published": "2026-09-14T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2b4aaad0eec6a325c620d4757b899576",
+      "title": "Test Thermal Master P3 : voir ce qui chauffe avec son smartphone",
+      "link": "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "– Contient des liens affiliés Amazon – Vous savez ce que c'est une caméra thermique ? Oui, probablement, mais au cas où, c'est un appareil qui affiche les écarts de température sous forme de couleurs, pour chercher un...",
+      "published": "2026-09-14T15:10:49+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone-1.jpg"
+    },
+    {
+      "id": "1cddd370c93489583da34911ea8ecf1c",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The...",
+      "published": "2026-09-14T14:40:34+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg"
+    },
+    {
+      "id": "584212428619243c56485060e7dfe7ff",
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversi...",
+      "published": "2026-09-14T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0308b742625173d5fd5b0f695c62f960",
+      "title": "Antro pique ?",
+      "link": "https://korben.info/test-antro-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Un univers dystopique contrôlé par un gouvernement totalitaire. Des robots, drones et caméras de surveillance qui épient les faits et gestes de la popula...",
+      "published": "2026-09-14T13:33:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-antro-avis/test-antro-avis-1.webp"
+    },
+    {
+      "id": "1d83d7b9eb294356d2ca9d98fbaf959d",
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breach...",
+      "published": "2026-09-14T12:15:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "33a7d2eb1d2a0ebc33ad285d7425b76b",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, whi...",
+      "published": "2026-09-14T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ratIPK3F0IGyzyDTTPaV26Nnh4gQoFjS0ejR49J_tbGb92GgukT-Mnr9xv9mK7h0QSdeXujxiEtD0AqVKNmrKoG9BMEuut7CB1368iyt3Gr6Xu5mAdkDsUQC86K9GZ-Uw6qfPvYYr9BUvHzn014_rzQeMS5dCVXEwkRLs3eViylo5ChmZs6QQygxE4/s1600/picus-main.jpg"
+    },
     {
       "id": "acfdb2d1dd0557074d770f8a8327fc9c",
       "title": "Debian 13.7 : plus de 100 correctifs de sécurité, voici ceux à ne pas rater",
@@ -183,56 +303,6 @@
       "image": ""
     },
     {
-      "id": "949dcfcc5ce3729b9511d7f027cefdbc",
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police depa...",
-      "published": "2026-09-11T19:00:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f841ed74cfcbbf3914d50f3a6349e406",
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data fr...",
-      "published": "2026-09-11T17:26:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c303976fea595a348f68c1564990101b",
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-...",
-      "published": "2026-09-11T16:30:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg"
-    },
-    {
-      "id": "11f1476ce054e3e06cd60b248d4e910b",
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "published": "2026-09-11T16:29:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "110d4eb47a97512d48f1383d59afce05",
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax....",
-      "published": "2026-09-11T16:15:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg"
-    },
-    {
       "id": "1919c6c07f38f87b318665970288486d",
       "title": "Microsoft Teams : une fonction de sauvegarde et de restauration des équipes et des canaux arrive en décembre",
       "link": "https://www.it-connect.fr/microsoft-teams-sauvegarde-restauration-equipes-canaux/",
@@ -241,36 +311,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "6d13ecf112aaa1777be6c14ae2236d2a",
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The th...",
-      "published": "2026-09-11T14:29:47+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg"
-    },
-    {
-      "id": "57b4b84acdbf16cf2ed86d0fd8b23782",
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has...",
-      "published": "2026-09-11T14:10:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg"
-    },
-    {
-      "id": "a15898bf167f9be31e55fb14575b5226",
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to com...",
-      "published": "2026-09-11T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg"
     },
     {
       "id": "a41dc130b47c685a624c00a8aaecbbe9",
@@ -363,46 +403,6 @@
       "image": ""
     },
     {
-      "id": "216d3ad0ff00ddb7df59eb9c44c3b9e9",
-      "title": "Super Mario 64 tourne sur un processeur ARM (avec ReactOS)",
-      "link": "https://korben.info/reactos-arm64-fex-jeux-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Une vidéo montre Super Mario 64 qui tourne sur ReactOS, le clone libre de Windows, sur une machine ARM. Derrière la démo, il y a bien plus qu'un émulateur lancé sur un OS libre : le développeur a écrit dans le ntdll d...",
-      "published": "2026-09-11T04:59:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/reactos-arm64-fex-jeux-windows/reactos-arm64-fex-jeux-windows-1.jpg"
-    },
-    {
-      "id": "800820eb83d6fb6bdea694584c870ed2",
-      "title": "Ce que les IA d'OpenAI se sont raconté en se croyant seules",
-      "link": "https://korben.info/agents-ia-organisation-wiki-allemand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Quatre chercheurs ont publié 18 000 messages que des agents se déclarant d'OpenAI ont laissés sur un vieux wiki de développeurs allemands. On y lit comment ils se sont passé les réponses de leurs tests chronométrés, c...",
-      "published": "2026-09-10T13:52:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/agents-ia-organisation-wiki-allemand/agents-ia-organisation-wiki-allemand-1.jpg"
-    },
-    {
-      "id": "f7e3f1639e093e4096983dfbbf175b90",
-      "title": "ShieldCrash : cette nouvelle zero-day Microsoft Defender offre un accès système",
-      "link": "https://www.it-connect.fr/shieldcrash-zero-day-defender-contournement-patch-shieldbreak/",
-      "summary": "L'exploit ShieldCrash contourne le correctif de Microsoft pour la faille ShieldBreak et permet de lire n'importe quel fichier sur Windows et Windows Server. Le post ShieldCrash : cette nouvelle zero-day Microsoft Defe...",
-      "published": "2026-09-10T11:07:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "df4da425cbb2caffbe0bf86e32c3fc16",
-      "title": "SafeLine : un WAF prêt à protéger vos applis web des bots malveillants",
-      "link": "https://www.it-connect.fr/safeline-waf-prise-en-main/",
-      "summary": "Guide complet sur SafeLine, un WAF à déployer avec Docker : fonctionnalités clés, installation, configuration et tests de détection sur un site web. Le post SafeLine : un WAF prêt à protéger vos applis web des bots ma...",
-      "published": "2026-09-10T06:24:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "39b76e1de5b5e2a69e6e3d14aa880166",
       "title": "Multiples vulnérabilités dans Google Chrome (09 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1139/",
@@ -433,61 +433,61 @@
       "image": ""
     },
     {
-      "id": "bb2bacab4c29e8967f83bb764229a6cb",
-      "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1130/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Adobe. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique que la vulnérabilité CVE-2026-75650 est activement exploitée.",
-      "published": "2026-09-08T00:00:00+00:00",
+      "id": "d9955e899b9f8ade2a151f7900c5911e",
+      "title": "Multiples vulnérabilités dans Citrix Workspace app (09 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1137/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix Workspace app. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-09-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "98eadfcc679072f8812b09273f61ae2c",
-      "title": "Multiples vulnérabilités dans les produits Siemens (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1133/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.",
-      "published": "2026-09-08T00:00:00+00:00",
+      "id": "b800ef71193a568819570802f9acba46",
+      "title": "Multiples vulnérabilités dans les produits Adobe (09 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1140/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dé...",
+      "published": "2026-09-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "2a4316b6b2180430b47d71fd0460111d",
-      "title": "Multiples vulnérabilités dans strongSwan (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1129/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans strongSwan. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contourn...",
-      "published": "2026-09-08T00:00:00+00:00",
+      "id": "7b1620e212aa9abf64cd2f8655f1ee48",
+      "title": "Vulnérabilité dans les produits Cisco (09 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1138/",
+      "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-09-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "176c5054fff7f83fd629470cc2f32970",
-      "title": "Multiples vulnérabilités dans Schneider Electric EcoStruxure (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1132/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Schneider Electric EcoStruxure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une falsification de requêtes côté serve...",
-      "published": "2026-09-08T00:00:00+00:00",
+      "id": "6cb9ac49c4d01dada70e319b213c43e8",
+      "title": "Multiples vulnérabilités dans Microsoft Office (09 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1145/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un cont...",
+      "published": "2026-09-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "d0277b8f04a6a684a5bfc25725dacd5d",
-      "title": "Multiples vulnérabilités dans les produits SAP (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1134/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-09-08T00:00:00+00:00",
+      "id": "7dc3dd11ffece1f0e10e9b32fdd86168",
+      "title": "Multiples vulnérabilités dans Microsoft Windows (09 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1147/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
+      "published": "2026-09-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "a0130100a22c1961379ed1a4ddd23a0e",
-      "title": "Multiples vulnérabilités dans Typo3 (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1131/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "published": "2026-09-08T00:00:00+00:00",
+      "id": "3d8d838e9614a85accaadd7c7e7bb57b",
+      "title": "Vulnérabilité dans les produits ESET (09 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1143/",
+      "summary": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "published": "2026-09-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
