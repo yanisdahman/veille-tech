@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-15T20:49:59.589201+00:00",
+  "last_updated": "2026-09-16T03:12:00.914374+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "daa4d5694c77b3bac13463a8553483a6",
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "published": "2026-09-15T21:37:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "dff728f54d1e2d783cba2b10015348ec",
       "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
@@ -351,16 +361,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5aJxmkQeaEoRUyxjlnH4uMELX24ICkHN1UpJaF3kM181M-V32GMskTo1YCRAf-8m4rsHw0nEYM53AC1CAZekv6yOEfBkj1ZNxL3lWatq_F5Bpuwsvw7snHIiIz62EA1pX-bPaawFgIwbvtUH020WdVwEupWi_CkYJVDog_w0LVEnMMvRYo0D7giAdtuGK/s1600/chrome-windows.jpg"
-    },
-    {
-      "id": "a00c50ee365783dfce14b9ea72154d92",
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
-      "published": "2026-09-14T20:52:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "6cd207976e0b6fa46c67a9b8aeb72bb4",
