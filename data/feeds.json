@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-09-16T10:48:02.664371+00:00",
+  "last_updated": "2026-09-16T16:03:50.912894+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1bd864f7481456c0708e822872181595",
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can...",
+      "published": "2026-09-16T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8de0de8a83a1081195f0ae49f8ae6645",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spre...",
+      "published": "2026-09-16T13:37:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
+    },
+    {
+      "id": "86640f5646c4c1d9dd581da20ed00931",
+      "title": "Shuffle Drummer - FL Studio n'a qu'à bien se tenir",
+      "link": "https://korben.info/shuffle-drummer-groovebox-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Shuffle Drummer est la boîte à rythmes en ligne de Mani Deïz, beatmaker du rap indépendant français. Séquenceur qui décale les pas au tick, sampler qui retire la batterie d'une boucle pour n'en garder que la mélodie, ...",
+      "published": "2026-09-16T13:33:01+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/shuffle-drummer-groovebox-navigateur/shuffle-drummer-groovebox-navigateur-1.png"
+    },
+    {
+      "id": "387395d3e1f34fdb985eeaa41c78e737",
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the mach...",
+      "published": "2026-09-16T13:14:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg"
+    },
+    {
+      "id": "98a91fa28188de70114d273a03a327f7",
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+      "published": "2026-09-16T12:16:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7a3211b6f80b18620b9881437d645d0a",
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can ma...",
+      "published": "2026-09-16T12:11:19+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6918dcb1f792a856905411b580c01ad6",
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to ...",
+      "published": "2026-09-16T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg"
+    },
+    {
+      "id": "e233efebb6b5aae90154ba114bd8d085",
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation fl...",
+      "published": "2026-09-16T11:15:58+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
+    },
+    {
+      "id": "51191bd4bcfccd22f84e81447c7837bc",
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attacker...",
+      "published": "2026-09-16T11:15:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
+    },
+    {
+      "id": "053232da13843e166ceed50781a32189",
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "2026-09-16T11:14:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "443869c10334ada72d2a8d48562f0ace",
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7....",
+      "published": "2026-09-16T11:08:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
+    },
     {
       "id": "1a8c15fae1ffe7e7d5885164ca557883",
       "title": "Windows Server 2022 reaches end of mainstream support next month",
@@ -173,31 +283,11 @@
       "image": "https://korben.info/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2-1.jpg"
     },
     {
-      "id": "1e844fe70fd6db488892d917e865e762",
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The eme...",
-      "published": "2026-09-15T15:23:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg"
-    },
-    {
       "id": "35bd3206918e213dfa451457aa8812ea",
       "title": "BambooToken malware controls Windows and Linux systems via MQTT",
       "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
       "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
       "published": "2026-09-15T15:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f203576431a8f3497a2ded31d6e8273d",
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-      "published": "2026-09-15T14:45:10+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -211,16 +301,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/suyu-recompilation-statique-emulation-switch/suyu-recompilation-statique-emulation-switch-1.png"
-    },
-    {
-      "id": "4f4cd3ab0880ab262ef549831c6eb78a",
-      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-      "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-      "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control t...",
-      "published": "2026-09-15T13:45:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "5b058cc60224f4f091b92ff953f4bfb8",
@@ -253,16 +333,6 @@
       "image": ""
     },
     {
-      "id": "d5d6d999ab7af809f6654e81766223f9",
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
-      "published": "2026-09-15T12:16:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "b6cbb861ee8fe4eb9352dd57b5647871",
       "title": "OpenRGB 1.0 : cet outil open source pilote vos périphériques RGB sur Windows, Linux et macOS",
       "link": "https://www.it-connect.fr/openrgb-1-0-nouveautes-windows-linux-macos/",
@@ -271,16 +341,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "e62afa0f7e2c200489f23aaf68e8ac48",
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can ...",
-      "published": "2026-09-15T11:52:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg"
     },
     {
       "id": "779cc5bcc6595558d192378bdcbd7d92",
@@ -303,26 +363,6 @@
       "image": ""
     },
     {
-      "id": "f3237593a4764995d6b2c81a50de1cd0",
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this par...",
-      "published": "2026-09-15T11:26:36+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg"
-    },
-    {
-      "id": "30cbdfd50d00447362a4f6eef80f88a8",
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development server...",
-      "published": "2026-09-15T11:12:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg"
-    },
-    {
       "id": "09b7c843bc473d7bab38cf90b096538d",
       "title": "WordPress : les mises à jour de plugins jugées à risque désormais bloquées grâce à l’IA !",
       "link": "https://www.it-connect.fr/wordpress-controle-securite-automatise-mises-a-jour-plugins/",
@@ -330,16 +370,6 @@
       "published": "2026-09-15T11:06:53+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a000d988825c1d12e08ba936db86eb54",
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering ch...",
-      "published": "2026-09-15T09:50:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -363,16 +393,6 @@
       "image": "https://korben.info/deco-be25-5g-test/deco-be25-5g-test-1.png"
     },
     {
-      "id": "f826ec10281619119060d62e30b072f0",
-      "title": "GNOME Boxes - L'outil qui monte les VM à votre place",
-      "link": "https://korben.info/gnome-boxes-virtualisation-simple-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "L'app de virtualisation de GNOME installe votre distrib ou votre Windows dans une VM sans un seul réglage. En échange, elle n'expose ni réseau ni matériel virtuel.",
-      "published": "2026-09-15T07:23:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/gnome-boxes-virtualisation-simple-linux/gnome-boxes-virtualisation-simple-linux-1.png"
-    },
-    {
       "id": "23c29f7be17ed3461c231e1216b16515",
       "title": "Windows Server : voici des mises à jour hors bande pour le bug RDS, mais pas seulement",
       "link": "https://www.it-connect.fr/windows-mises-a-jour-hors-bande-bug-rds-audio-septembre-2026/",
@@ -383,91 +403,71 @@
       "image": ""
     },
     {
-      "id": "e58a1abb3212b6c0954401ee7138211b",
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, ...",
-      "published": "2026-09-15T06:52:16+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRVzSne-2lfRX57xj9CbnkpX1fjEWXYoPN0tDsXwgBwaE_LVqYBKtWbO1nudNLKp89aR90EeszJUqsNvZN4ZLzU1i7hm89ihV-lK1mIKiNXl6GWAWkn6uz7WlRVfIdJrS7Nfn6x-1Cclf6oTs3RxVNWxQSVBsvhzDjMBnmU3l3oERVu3b5hqag5mSeKoU/s1600/litespeed.jpg"
-    },
-    {
-      "id": "32308742cc6a3494af330ab2f5281018",
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS...",
-      "published": "2026-09-15T06:11:11+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8z5yuk0NLq0i2IvKx9dibCdw5at8BanYNBhjn665PLV0EanY_s0UV0D4D0wcPijyd5r8sS4eCMDwKdsVQ9GktnqcPRympe7ZqI7Bh8ZSBukLsxFSQ3-SFRb10ylKsDPl7tU2-M3w_E0eNSe_ytrRE-JZ62fvAExuQCawQJZFjYwArFC550Ri8mOQ1q1s/s1600/cisco-email.jpg"
-    },
-    {
-      "id": "7d59be83905fd985e98d695694d58087",
-      "title": "Vulnérabilité dans Microsoft Edge (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1144/",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-09-09T00:00:00+00:00",
+      "id": "63dec19f6ee9156df1f47b3820f1d015",
+      "title": "Multiples vulnérabilités dans les produits Fortinet (11 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un...",
+      "published": "2026-09-11T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "6cb9ac49c4d01dada70e319b213c43e8",
-      "title": "Multiples vulnérabilités dans Microsoft Office (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1145/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un cont...",
-      "published": "2026-09-09T00:00:00+00:00",
+      "id": "99d495b83a26550dd7e43419648b9434",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (11 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1161/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
+      "published": "2026-09-11T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "7dc3dd11ffece1f0e10e9b32fdd86168",
-      "title": "Multiples vulnérabilités dans Microsoft Windows (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1147/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dén...",
-      "published": "2026-09-09T00:00:00+00:00",
+      "id": "6b4de0a8259aca2b834359ae00490195",
+      "title": "Multiples vulnérabilités dans les produits IBM (11 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1165/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-09-11T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "3d8d838e9614a85accaadd7c7e7bb57b",
-      "title": "Vulnérabilité dans les produits ESET (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1143/",
-      "summary": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "published": "2026-09-09T00:00:00+00:00",
+      "id": "fa7c0c05645dc94aed4bc64283cea1da",
+      "title": "Multiples vulnérabilités dans MongoDB Server (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1157/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une att...",
+      "published": "2026-09-10T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "bf25f5c550cee7aa544d1af55dbcf250",
-      "title": "Multiples vulnérabilités dans Postfix (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1141/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-      "published": "2026-09-09T00:00:00+00:00",
+      "id": "aa4090900aea1315f510226ad117d489",
+      "title": "Vulnérabilité dans Microsoft Edge (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1159/",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Microsoft indique que la vulnérabilité CVE-2026-85046 est activement exploitée.",
+      "published": "2026-09-10T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "cd93d467e9c9e58f539fc0efba2a4046",
-      "title": "Multiples vulnérabilités dans Microsoft Azure (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1148/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confiden...",
-      "published": "2026-09-09T00:00:00+00:00",
+      "id": "284d39e13e8daeb37af90d35c5cf5a1f",
+      "title": "Multiples vulnérabilités dans Google Android (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1158/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une attei...",
+      "published": "2026-09-10T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "6e59a2a7107cbdc7dca9b49cad1e0f06",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (09 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1149/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et u...",
-      "published": "2026-09-09T00:00:00+00:00",
+      "id": "98d4183112257514ece431ab810b2455",
+      "title": "Vulnérabilité dans Metabase (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/",
+      "summary": "Le 06 août 2026, Metabase a publié un avis de sécurité concernant une vulnérabilité critique permettant à un attaquant non authentifié de provoquer une injection SQL (SQLi) dans la base de donnée de l'application Meta...",
+      "published": "2026-09-10T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
