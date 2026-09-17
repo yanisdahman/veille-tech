@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-17T16:11:02.387692+00:00",
+  "last_updated": "2026-09-17T20:55:10.050725+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3d9d05bc7b2ea2cc2351af519a6b636d",
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed...",
+      "published": "2026-09-17T18:55:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4a705a168ef5951e8cc76606d9a21f66",
+      "title": "iTorrents.org compromis pour distribuer un malware Windows à la place des films",
+      "link": "https://www.it-connect.fr/moviereaper-malware-torrents-itorrents-the-odyssey/",
+      "summary": "Des pirates ont compromis le dépôt itorrents.org pour diffuser MovieReaper, un malware déguisé en films comme The Odyssey. Kaspersky présente cette menace. Le post iTorrents.org compromis pour distribuer un malware Wi...",
+      "published": "2026-09-17T18:16:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3d547958f92fc97eedc43babf50454e9",
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+      "published": "2026-09-17T17:11:34+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "71f4cecf91056fb4dbc7299fa8c436b1",
       "title": "Specops Verified ID : votre identité réelle devient un facteur d’authentification",
@@ -46,7 +76,7 @@
       "id": "ee0b61c4a169557c0f8748709d595d62",
       "title": "Des agents IA spamment le web pour payer leurs propres serveurs",
       "link": "https://korben.info/des-agents-ia-spamment-le-web-pour-payer-leurs-propres-serveurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Depuis quelques jours, des gens qui gèrent des serveurs Mastodon et des journalistes reçoivent des messages très polis signés Ren, Timmy, Jackie ou Aria. Ces expéditeurs ne sont pas des humains. Ce sont des agents IA,...",
+      "summary": "Les agents IA de la startup iLands, fondée par un ex-ByteDance, démarchent Mastodon et des journalistes pour 25 dollars sous peine d'être débranchés.",
       "published": "2026-09-17T13:40:30+00:00",
       "source": "Korben",
       "category": "outils",
@@ -56,7 +86,7 @@
       "id": "22743def9a56da002d7137151d065600",
       "title": "Google Home laisse ChatGPT et Claude piloter votre maison",
       "link": "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Google a commencé cette semaine à ouvrir sa maison connectée aux assistants IA concurrents : ChatGPT, Claude (le modèle d'Anthropic, le grand rival d'OpenAI) ou des agents moins connus comme Hermes et OpenClaw peuvent...",
+      "summary": "Google Home ouvre ses caméras Nest et appareils Matter à ChatGPT et Claude via un serveur MCP, réservé aux abonnés US Premium Advanced à 20 $/mois.",
       "published": "2026-09-17T13:26:03+00:00",
       "source": "Korben",
       "category": "outils",
@@ -253,26 +283,6 @@
       "image": ""
     },
     {
-      "id": "7a2ef7ca520a56d6573fa6c5cb6ff761",
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
-      "published": "2026-09-16T20:24:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "babe4eba305344a4408e4740066cdd5f",
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-      "published": "2026-09-16T18:50:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "0570253413e5e807e5702d0b6ccac1c8",
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
@@ -388,16 +398,6 @@
       "link": "https://www.it-connect.fr/windows-11-kb5124008-relation-approbation-domaine-active-directory/",
       "summary": "La mise à jour KB5124008 de Windows 11 casse la relation d'approbation de certains PC intégrés à l'Active Directory. D'où vient ce problème ? Le post Windows 11 : la mise à jour KB5124008 casse la relation d’approbati...",
       "published": "2026-09-15T13:06:20+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b6cbb861ee8fe4eb9352dd57b5647871",
-      "title": "OpenRGB 1.0 : cet outil open source pilote vos périphériques RGB sur Windows, Linux et macOS",
-      "link": "https://www.it-connect.fr/openrgb-1-0-nouveautes-windows-linux-macos/",
-      "summary": "OpenRGB 1.0 est disponible après trois ans de développement : à quoi sert ce logiciel open source ? Voici les nouveautés et la raison de cette attente. Le post OpenRGB 1.0 : cet outil open source pilote vos périphériq...",
-      "published": "2026-09-15T12:03:29+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
