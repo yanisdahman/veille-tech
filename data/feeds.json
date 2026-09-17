@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-17T03:17:22.974564+00:00",
+  "last_updated": "2026-09-17T10:54:32.645079+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "b2b9ddccfdf06baf5a520f3bac16d25b",
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
+      "published": "2026-09-17T09:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "31e01900c81ab1ff68fa08e7ae8b6987",
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+      "published": "2026-09-17T08:24:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b0f00ec38cf31964792ddc719f5fa0c9",
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "published": "2026-09-17T07:20:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "93a5c4bb692c28d71004324fa8e9d033",
+      "title": "KB5124008 : Microsoft confirme le bug de relation d’approbation et pointe Machine Identity Isolation",
+      "link": "https://www.it-connect.fr/windows-11-kb5124008-relation-approbation-microsoft-confirme-machine-identity-isolation/",
+      "summary": "Microsoft confirme que la KB5124008 peut casser la relation d'approbation des PC Windows 11 avec l'AD. En cause : Machine Identity Isolation. Voici la solution. Le post KB5124008 : Microsoft confirme le bug de relatio...",
+      "published": "2026-09-17T07:07:54+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "672c62e1c8a052dbd4f376a34167b206",
+      "title": "Ni spyware ni faille : comment la police allemande lit les messages WhatsApp, Signal et Telegram ?",
+      "link": "https://www.it-connect.fr/police-allemande-whatsapp-signal-telegram-appareils-lies/",
+      "summary": "En Allemagne, police et douanes lient un appareil au compte WhatsApp, Signal ou Telegram de leurs cibles pour lire leurs messages. Une méthode contestée. Le post Ni spyware ni faille : comment la police allemande lit ...",
+      "published": "2026-09-17T05:41:43+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "71b40a196a6344f0c470b7efcf13586f",
       "title": "Anthropic wants Claude to analyze your bank account and financial data",
@@ -133,16 +183,6 @@
       "image": ""
     },
     {
-      "id": "7a3211b6f80b18620b9881437d645d0a",
-      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can ma...",
-      "published": "2026-09-16T12:11:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6918dcb1f792a856905411b580c01ad6",
       "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
       "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
@@ -173,16 +213,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
     },
     {
-      "id": "053232da13843e166ceed50781a32189",
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "2026-09-16T11:14:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "443869c10334ada72d2a8d48562f0ace",
       "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
@@ -191,16 +221,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
-    },
-    {
-      "id": "1a8c15fae1ffe7e7d5885164ca557883",
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-      "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
-      "published": "2026-09-16T09:10:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "95c92ddb87b19ce1c15780204f22066b",
@@ -363,16 +383,6 @@
       "image": ""
     },
     {
-      "id": "09b7c843bc473d7bab38cf90b096538d",
-      "title": "WordPress : les mises à jour de plugins jugées à risque désormais bloquées grâce à l’IA !",
-      "link": "https://www.it-connect.fr/wordpress-controle-securite-automatise-mises-a-jour-plugins/",
-      "summary": "WordPress.org analyse désormais chaque mise à jour de plugin par IA et bloque automatiquement les versions à risque, après une porte dérobée stoppée en juillet. Le post WordPress : les mises à jour de plugins jugées à...",
-      "published": "2026-09-15T11:06:53+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "4b5cd536608e7524e8abd4894701898e",
       "title": "Kits IA Korben - Des tutos pour vos agents IA",
       "link": "https://korben.info/kits-ia-korben-tutos-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -391,16 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/deco-be25-5g-test/deco-be25-5g-test-1.png"
-    },
-    {
-      "id": "23c29f7be17ed3461c231e1216b16515",
-      "title": "Windows Server : voici des mises à jour hors bande pour le bug RDS, mais pas seulement",
-      "link": "https://www.it-connect.fr/windows-mises-a-jour-hors-bande-bug-rds-audio-septembre-2026/",
-      "summary": "Microsoft a publié des mises à jour hors bande pour Windows Server et Windows 11 afin de corriger le bug RDS, mais aussi d'autres bugs et une faille. Le post Windows Server : voici des mises à jour hors bande pour le ...",
-      "published": "2026-09-15T06:58:58+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "63dec19f6ee9156df1f47b3820f1d015",
