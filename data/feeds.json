@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-18T15:46:03.111536+00:00",
+  "last_updated": "2026-09-18T20:21:16.234762+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8c8f28e80010e781f5dc26256884c1b4",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPre...",
+      "published": "2026-09-18T16:56:19+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
+    },
+    {
+      "id": "d8e4354a5964d23561180d0161285bdd",
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+      "published": "2026-09-18T16:00:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "96dad0d311f2936fc612fab628fcc69d",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. Th...",
+      "published": "2026-09-18T15:24:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
+    },
     {
       "id": "d8d03d6fef847afb6c65f23bff4097c5",
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
@@ -253,16 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg"
     },
     {
-      "id": "3d547958f92fc97eedc43babf50454e9",
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
-      "published": "2026-09-17T17:11:34+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "71f4cecf91056fb4dbc7299fa8c436b1",
       "title": "Specops Verified ID : votre identité réelle devient un facteur d’authentification",
       "link": "https://www.it-connect.fr/specops-verified-id-verification-identite/",
@@ -271,16 +291,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "6dca03088d7fd305f9cf820945e4815b",
-      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement o...",
-      "published": "2026-09-17T15:37:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbYvRH1MRTGK43JYSWe2X3djxWAuNa3_r94FvOPBjt9sWrkRiEQi7D0DPksj3NH9vDPjm7MGSGY9UEc7JqePjd4aA-c4zuMzLZXH0Y5NWKWGnzNgbFe0tYlEFSFLrJFWVRuRKs_PQN8IKkdzYYNn8T7YWuUkZC4_2skq3deXYAw7i0aqWdx6G0FQwVzs/s1600/docker-macos.jpg"
     },
     {
       "id": "e8a718dec22b2a278904d8921e0759b3",
@@ -301,16 +311,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/mechacon-ps2-craque-retro-ingenierie/mechacon-ps2-craque-retro-ingenierie-1.jpg"
-    },
-    {
-      "id": "af9d2f7f11d794c19f877b6149bb4779",
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin com...",
-      "published": "2026-09-17T14:03:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqFZ07lueoUFevcbuCOBavlR6CaAxmFqFs7hLpyqw-maKbLcISxW0Q-y7JwvoRrhDumRNaJo_Z4T6QRrGLUTDEE8yYqFfoRLmkoc_J4omdeCAmew1_5k-NwnNWJyYawal5nni-TVZu8M4aDsGNhbwlpp1Y7wLUSjsFR-olY89Mls9hD4CiL9jq0roUpzA/s1600/telegram-handala.jpg"
     },
     {
       "id": "ee0b61c4a169557c0f8748709d595d62",
