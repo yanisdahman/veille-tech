@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-09-18T03:03:47.068405+00:00",
+  "last_updated": "2026-09-18T10:30:39.210134+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9d521552cd8024969fb0ea37d796d612",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "published": "2026-09-18T09:34:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3b0f8c602196c414ec482624d7b16a15",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote t...",
+      "published": "2026-09-18T09:18:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg"
+    },
+    {
+      "id": "63ad0e4928e99bb026ac54f23388b90d",
+      "title": "Linux sur PS5 Pro n'arrivera pas tout de suite",
+      "link": "https://korben.info/ps5-linux-developpeur-principal-abandonne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Andy Nguyen a annoncé le 15 septembre qu'il quittait la scène PS5 et arrêtait PS5 Linux, emportant avec lui le support de la PS5 Pro et la sortie visée pour 2027. Il avait demandé qu'on attende GTA 6 avant de signaler...",
+      "published": "2026-09-18T08:27:24+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ps5-linux-developpeur-principal-abandonne/ps5-linux-developpeur-principal-abandonne-1.png"
+    },
+    {
+      "id": "1a90a322cdf4b0e4a2ef8e1a6e75ebfb",
+      "title": "Mes 2 nouveaux interrupteurs Sonoff Zigbee",
+      "link": "https://korben.info/sonoff-volet-lumiere-zigbee-bureau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Deux modules Sonoff Zigbee posés dans mon bureau en dix minutes, un pour la lumière et un pour le volet roulant, et une soirée entière perdue sur Alexa : ajoutés à la même seconde au même pont Matter, l'interrupteur e...",
+      "published": "2026-09-18T08:07:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/sonoff-volet-lumiere-zigbee-bureau/sonoff-volet-lumiere-zigbee-bureau-1.avif"
+    },
+    {
+      "id": "f12b953f3d6d5640308e5304be9ad213",
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+      "published": "2026-09-18T07:35:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ce739af91bd6a89bccf122c5b1a43ce1",
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and contro...",
+      "published": "2026-09-18T06:17:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg"
+    },
+    {
+      "id": "ef09bbc42af7818e661cce7dbef56785",
+      "title": "TrueNAS lance son plugin de stockage officiel pour Proxmox VE",
+      "link": "https://www.it-connect.fr/truenas-plugin-stockage-proxmox-ve/",
+      "summary": "TrueNAS avance bien sur son plugin de stockage natif pour Proxmox VE : provisionnement automatique des disques de VM, snapshots ZFS, iSCSI et NVMe/TCP. Le post TrueNAS lance son plugin de stockage officiel pour Proxmo...",
+      "published": "2026-09-18T05:27:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "8850a5d9a82dcb2180847bc0b9366bf0",
       "title": "New RatHat Android malware uses AI to automate device control",
@@ -33,6 +103,26 @@
       "image": ""
     },
     {
+      "id": "f8e39faf20d089fc1af62e4c5cfc2c87",
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is ...",
+      "published": "2026-09-17T18:08:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg"
+    },
+    {
+      "id": "9de064b6a3600804570f25e1d88f57b9",
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly su...",
+      "published": "2026-09-17T17:32:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg"
+    },
+    {
       "id": "3d547958f92fc97eedc43babf50454e9",
       "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
       "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
@@ -53,6 +143,16 @@
       "image": ""
     },
     {
+      "id": "6dca03088d7fd305f9cf820945e4815b",
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement o...",
+      "published": "2026-09-17T15:37:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbYvRH1MRTGK43JYSWe2X3djxWAuNa3_r94FvOPBjt9sWrkRiEQi7D0DPksj3NH9vDPjm7MGSGY9UEc7JqePjd4aA-c4zuMzLZXH0Y5NWKWGnzNgbFe0tYlEFSFLrJFWVRuRKs_PQN8IKkdzYYNn8T7YWuUkZC4_2skq3deXYAw7i0aqWdx6G0FQwVzs/s1600/docker-macos.jpg"
+    },
+    {
       "id": "e8a718dec22b2a278904d8921e0759b3",
       "title": "Fugleramme - Le cadre qui dessine les oiseaux qu'il entend",
       "link": "https://korben.info/fugleramme-detection-oiseaux-eink.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -71,6 +171,16 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/mechacon-ps2-craque-retro-ingenierie/mechacon-ps2-craque-retro-ingenierie-1.jpg"
+    },
+    {
+      "id": "af9d2f7f11d794c19f877b6149bb4779",
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin com...",
+      "published": "2026-09-17T14:03:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqFZ07lueoUFevcbuCOBavlR6CaAxmFqFs7hLpyqw-maKbLcISxW0Q-y7JwvoRrhDumRNaJo_Z4T6QRrGLUTDEE8yYqFfoRLmkoc_J4omdeCAmew1_5k-NwnNWJyYawal5nni-TVZu8M4aDsGNhbwlpp1Y7wLUSjsFR-olY89Mls9hD4CiL9jq0roUpzA/s1600/telegram-handala.jpg"
     },
     {
       "id": "5a1c0a13c5fa7837db5ede47898da2c8",
@@ -130,7 +240,7 @@
       "published": "2026-09-17T11:50:00+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWwlEMQDwM0PU3XRgsqUUT_CNE0pGhBazuPl1AOqwEHAlaRqZr9sYVLlyvKmaLoNKBY8IeKO0F0L6dDZmQ-_s8-HzQZu4Xx17kqlNYy3-iNL0BeLD2BPA9WcrHMry3c3u-Kz-iHIuSjCtbLzzWd2vQiOHW4LSuE3SMgADJaQeJNI2HPIwAXp0j6yJlk/s1600/picus-webinar.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg"
     },
     {
       "id": "f24b89cb4b911eacd740300a3f0a0f6c",
@@ -173,16 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOuXwG1YyG0uUU23HOcrfuGGEs6q0HvIDe8f7tcoTc3Vg049ITdUDCK_oyfFs8F68GEANNMqayc_75ARq5bBdbIu8qplp_nwC8hWxALOjCCGyf_Pb76GvNjEEfoWybq1nM9WXuxoPvYiRN_vJewkghj5IAYOaCh9JulsW4DnZLCEOhg_mXL_ykI0_oJwah/s1600/chinese-hackers.jpg"
     },
     {
-      "id": "563c45c52d210dd502b3aec825d1738d",
-      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-      "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosi...",
-      "published": "2026-09-17T09:53:38+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz2xdqQbSjGZGGkNO0hRMgoEWNFpWVp0DDsBvsbQekWezeScq_sLAPfzY-kJenfNHYFnSqDcU93F30gmINBYYobl0Jf1thyPsXm34lbJPqMfZwPXoRy1UvpQcS_eHwF_nVqk-rDBTd83B8iteh4e23r2pnbtUsOgFPmYVRi-IlrW6-9FFUf7-DiZ8yyAOJ/s1600/openai-models.jpg"
-    },
-    {
       "id": "b2b9ddccfdf06baf5a520f3bac16d25b",
       "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
@@ -203,36 +303,6 @@
       "image": ""
     },
     {
-      "id": "92b4346f1fcc8e57a7e4122cd29a49a3",
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND serv...",
-      "published": "2026-09-17T08:00:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEd6WLqBvkSx9Y2P6HrNL-VApj7Xb05Wlhnw4pPW6-X9NwGiAeAm_Hf4KYj_1hEy6uITGe8kh3xgYeTAha8nR5inx0snMzfWGP2Qd8kRuiOp0h4O49J-33kPpA1cuGhClV2qAvPyhyr2BqSYj9ZIvI6c-wncUNGESpGK-3tivnS-HIrOj9ZdSJALq_8Ts/s1600/bind9.jpg"
-    },
-    {
-      "id": "eb039ad67ead295a066d6e768b92132f",
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It a...",
-      "published": "2026-09-17T07:30:01+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_VMcM5A8FocwrVqXOjmk-BvMd3D_JA6RIur9wT4Gca5jQjiLLinldpcu3u2hWmJQeJZg5nhVRBwxHe2y0BHg1TZEd046RkPLatyX5JN-7_WtuRyPMX3VnMCAs7tfCYOSghFuBCUT6HFyCBH-bLeAPWlAj9TPtAn1sitCktd2vp_pJr6VtzHd2_EFDpo/s1600/gyazo.jpg"
-    },
-    {
-      "id": "b0f00ec38cf31964792ddc719f5fa0c9",
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "published": "2026-09-17T07:20:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "93a5c4bb692c28d71004324fa8e9d033",
       "title": "KB5124008 : Microsoft confirme le bug de relation d’approbation et pointe Machine Identity Isolation",
       "link": "https://www.it-connect.fr/windows-11-kb5124008-relation-approbation-microsoft-confirme-machine-identity-isolation/",
@@ -243,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "17ae4248c8a04531638830408956656f",
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow...",
-      "published": "2026-09-17T06:39:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKC3hrw_VedPPLj2lAD6qhUn-7eJuJ8dqSBMAOwTEjUdYxlwnOla9dFF4pwOBNr-QsjzJPuXEtkA6orbkLHUqHI3RbWMBR0VeNaYvZqSnkNnM5HH-T9ofLeBzrZcOXn5nbZyNC2YeQjANmTzBAhaAwhDoGoXLJOeB1nFbIr-TJuFTHM8y0TAzj6Hxd0MYM/s1600/cisco-0-day.jpg"
-    },
-    {
       "id": "672c62e1c8a052dbd4f376a34167b206",
       "title": "Ni spyware ni faille : comment la police allemande lit les messages WhatsApp, Signal et Telegram ?",
       "link": "https://www.it-connect.fr/police-allemande-whatsapp-signal-telegram-appareils-lies/",
@@ -261,36 +321,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ebf7eadc1505aa238b7677da1fd40aa6",
-      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-      "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domain...",
-      "published": "2026-09-17T05:13:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiizrhUTj3tjdgb7IhljezkW3bnwYpTrYnUKKPyx7s7RWalycDu2JiqKhRZDgnpZdafbKxkyBrx4kjkpGTNSNXYZ-nL2wFQ_kKcRBVo14lJ5Da5SF2sq2-eOzHeRXxuJ3skSWSn5AC0XA4NjwQrhTWFOuFxvSRsmOC63AIKBxV-9bfmABkLGW4BgyfV3CSM/s1600/domain.jpg"
-    },
-    {
-      "id": "71b40a196a6344f0c470b7efcf13586f",
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-      "published": "2026-09-17T00:35:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0570253413e5e807e5702d0b6ccac1c8",
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v...",
-      "published": "2026-09-16T15:50:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
     },
     {
       "id": "86640f5646c4c1d9dd581da20ed00931",
@@ -368,36 +398,6 @@
       "link": "https://www.it-connect.fr/nintendo-switch-faille-code-qr-cve-2026-82079/",
       "summary": "Une faille de sécurité dans la Nintendo Switch : CVE-2026-82079. Un attaquant à proximité qui scanne le code QR affiché par la console peut exécuter du code. Le post Nintendo Switch : une faille permet d’exécuter du c...",
       "published": "2026-09-16T05:31:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "60e41054999882ffed70b22506f902d4",
-      "title": "Test d'une batterie externe et dock magnétique Antank pour Nintendo Switch 2",
-      "link": "https://korben.info/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Batterie magnétique Antank B5 10 000 mAh à 55,99 euros et dock SW2 Hub à 53,95 euros pour Nintendo Switch 2 : fixation, poids et ports testés.",
-      "published": "2026-09-15T15:43:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2-1.jpg"
-    },
-    {
-      "id": "842187ee863bdc23b80e5cd05b2a0e89",
-      "title": "Suyu tire sa révérence sur un mode de recompilation pour jeux Switch",
-      "link": "https://korben.info/suyu-recompilation-statique-emulation-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La dernière version de suyu embarque un mode Recompiler qui traduit à l'avance le code ARM64 d'un jeu Switch en C, à charge pour vous de le compiler. Le JIT et la couche d'émulation restent embarqués, et le dépôt a ét...",
-      "published": "2026-09-15T13:53:18+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/suyu-recompilation-statique-emulation-switch/suyu-recompilation-statique-emulation-switch-1.png"
-    },
-    {
-      "id": "1c60df772a9dbc08877822019a864398",
-      "title": "Windows 11 : la mise à jour KB5124008 casse la relation d’approbation avec le domaine Active Directory",
-      "link": "https://www.it-connect.fr/windows-11-kb5124008-relation-approbation-domaine-active-directory/",
-      "summary": "La mise à jour KB5124008 de Windows 11 casse la relation d'approbation de certains PC intégrés à l'Active Directory. D'où vient ce problème ? Le post Windows 11 : la mise à jour KB5124008 casse la relation d’approbati...",
-      "published": "2026-09-15T13:06:20+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
