@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-20T10:34:06.182685+00:00",
+  "last_updated": "2026-09-20T15:22:49.517733+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f67a5ea6ce38780515f04ab5443e423f",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation sc...",
+      "published": "2026-09-20T14:11:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3280cfc2ab41133d46b2f44ecc7b865a",
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+      "published": "2026-09-20T12:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "4a256e8b10d32acd27a408f194fe2367",
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
@@ -213,16 +233,6 @@
       "image": ""
     },
     {
-      "id": "899ca287d5cacf779142f5526990f4ac",
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter m...",
-      "published": "2026-09-18T13:10:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5d685ceeb8c0fca4337a9d8c8a00e2f6",
       "title": "Comment mesurer et dégonfler l'index de recherche de Windows",
       "link": "https://korben.info/windows-search-indexation-etendue-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -231,16 +241,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/windows-search-indexation-etendue-ssd/windows-search-indexation-etendue-ssd-1.png"
-    },
-    {
-      "id": "a27408280e12beec4d878c246d5cdace",
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-      "published": "2026-09-18T12:16:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "b33c80f4f12e0adf6d07823fe9e0cf35",
