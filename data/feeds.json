@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-09-21T11:55:18.908197+00:00",
+  "last_updated": "2026-09-21T17:50:09.328322+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3bf5ea70a387ff86124ae5978dd4d5a6",
+      "title": "Proxmox VE : configurer l’accès SSH avec une authentification par clé",
+      "link": "https://www.it-connect.fr/tuto-proxmox-ve-ssh-authentification-cle-hardening/",
+      "summary": "Apprenez à sécuriser l'accès SSH de Proxmox VE avec une clé, à désactiver le mot de passe root et à éviter les pièges courant dont l'authorized_keys partagé. Le post Proxmox VE : configurer l’accès SSH avec une authen...",
+      "published": "2026-09-21T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e23bb1b0645434b443b8929a661c6388",
+      "title": "Google fined €403 million over location data privacy violations",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+      "published": "2026-09-21T15:41:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6db127e67b4417b4394036d92a920b9f",
+      "title": "Bug copier-coller Excel : voici les correctifs pour Microsoft Office",
+      "link": "https://www.it-connect.fr/excel-bug-copier-coller-correctif-septembre-2026/",
+      "summary": "Microsoft a corrigé le bug du copier-coller dans Excel 2016 à 2024. Sur Office 2016 et 2019, le collage peut encore échouer dans un cas bien précis. Le post Bug copier-coller Excel : voici les correctifs pour Microsof...",
+      "published": "2026-09-21T15:37:55+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "169ecc0f9caa56336831991c206b8079",
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+      "published": "2026-09-21T14:42:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bd4515cefc364503e971eb89435680bf",
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming b...",
+      "published": "2026-09-21T14:24:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
+    },
+    {
+      "id": "ce9b6ffa6a7b0111192a78dde536be74",
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests ...",
+      "published": "2026-09-21T14:15:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
+    },
+    {
+      "id": "99f486ba7d65210834015a677b040f2c",
+      "title": "Un enfant de 9 ans aurait dépensé 118 000 dollars en publicités YouTube avec la carte pro de son père",
+      "link": "https://www.it-connect.fr/enfant-9-ans-118-000-dollars-publicites-youtube-carte-entreprise/",
+      "summary": "Un père américain affirme que son fils de 9 ans a dépensé 118 000 dollars en publicités YouTube avec sa carte d'entreprise, mais c'est bien lui le fautif. Le post Un enfant de 9 ans aurait dépensé 118 000 dollars en p...",
+      "published": "2026-09-21T14:08:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8bff9c31c3cb4f3939fd93d5e391ccb2",
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how ag...",
+      "published": "2026-09-21T14:02:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "60641f409fdfb95747bee9203597f094",
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "published": "2026-09-21T13:16:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "9e9786d6d180d22934cc20e34e24fd16",
       "title": "Microsoft: September updates break File History backup feature",
@@ -203,16 +293,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
     },
     {
-      "id": "840f84735fec88fcf5985a0b3b7a3852",
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during...",
-      "published": "2026-09-19T11:38:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "afe49286d1e520eb055940793ed242b8",
       "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
@@ -243,71 +323,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
     },
     {
-      "id": "0a43adaf72104f7bbf6872c875126f2d",
-      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-      "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub acces...",
-      "published": "2026-09-19T07:14:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
-    },
-    {
-      "id": "052d204b655aa7e8b4372a358d839ea4",
-      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploita...",
-      "published": "2026-09-19T06:24:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
-    },
-    {
-      "id": "d8e4354a5964d23561180d0161285bdd",
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "published": "2026-09-18T16:00:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d8d03d6fef847afb6c65f23bff4097c5",
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "published": "2026-09-18T15:19:06+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "70fcd12f5f4edafa529a5d33a0e16865",
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains ...",
-      "published": "2026-09-18T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "19054d0f8aa04e0b013d71e65ae22efd",
       "title": "Comprendre le licensing Microsoft : contrats, familles et canaux d’achats",
       "link": "https://www.it-connect.fr/comprendre-le-licensing-microsoft-contrats-familles-et-canaux-achats/",
       "summary": "Maîtrisez le licensing Microsoft: contrats, comptes de facturation et familles M365 pour éviter les coûts cachés et les migrations surprises. Le post Comprendre le licensing Microsoft : contrats, familles et canaux d’...",
       "published": "2026-09-18T13:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "737f2072eb46c90528208576a588bc23",
-      "title": "Brevo : des scripts ClickFix injectés sur les sites de ses clients, avec une backdoor pour WordPress",
-      "link": "https://www.it-connect.fr/brevo-attaque-supply-chain-clickfix-wordpress/",
-      "summary": "Le 14 septembre 2026, les scripts Brevo intégrés aux sites de ses clients ont diffusé une attaque ClickFix et une backdoor WordPress. Voici ce que l'on sait. Le post Brevo : des scripts ClickFix injectés sur les sites...",
-      "published": "2026-09-18T13:38:06+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -353,26 +373,6 @@
       "image": "https://korben.info/sonoff-volet-lumiere-zigbee-bureau/sonoff-volet-lumiere-zigbee-bureau-1.avif"
     },
     {
-      "id": "ef09bbc42af7818e661cce7dbef56785",
-      "title": "TrueNAS lance son plugin de stockage officiel pour Proxmox VE",
-      "link": "https://www.it-connect.fr/truenas-plugin-stockage-proxmox-ve/",
-      "summary": "TrueNAS avance bien sur son plugin de stockage natif pour Proxmox VE : provisionnement automatique des disques de VM, snapshots ZFS, iSCSI et NVMe/TCP. Le post TrueNAS lance son plugin de stockage officiel pour Proxmo...",
-      "published": "2026-09-18T05:27:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "4a705a168ef5951e8cc76606d9a21f66",
-      "title": "iTorrents.org compromis pour distribuer un malware Windows à la place des films",
-      "link": "https://www.it-connect.fr/moviereaper-malware-torrents-itorrents-the-odyssey/",
-      "summary": "Des pirates ont compromis le dépôt itorrents.org pour diffuser MovieReaper, un malware déguisé en films comme The Odyssey. Kaspersky présente cette menace. Le post iTorrents.org compromis pour distribuer un malware Wi...",
-      "published": "2026-09-17T18:16:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "e8a718dec22b2a278904d8921e0759b3",
       "title": "Fugleramme - Le cadre qui dessine les oiseaux qu'il entend",
       "link": "https://korben.info/fugleramme-detection-oiseaux-eink.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -413,20 +413,50 @@
       "image": ""
     },
     {
-      "id": "d5294903a7a7726ed4757b3873473daa",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-09-15T00:00:00+00:00",
+      "id": "fe8c7771b0fa015580482e097af9758a",
+      "title": "Multiples vulnérabilités dans Apache Zookeeper (16 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1177/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contourne...",
+      "published": "2026-09-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "8d3ad347885fb19394474ec24eede9b1",
-      "title": "Multiples vulnérabilités dans les produits Apple (15 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1172/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dé...",
+      "id": "cce553fdc27eee65c19481c4969e09e2",
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (16 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1179/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de priv...",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0194241745328c4d53d9a4b26b11ad01",
+      "title": "Multiples vulnérabilités dans Google Pixel (16 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1176/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteint...",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0945ce5d2eaa8632ed7465314c0eb033",
+      "title": "Multiples vulnérabilités dans Docker (16 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1189/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Docker. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et...",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d5294903a7a7726ed4757b3873473daa",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-09-15T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -448,36 +478,6 @@
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1174/",
       "summary": "Une vulnérabilité a été découverte dans Microsoft Windows. Elle permet à un attaquant de provoquer une élévation de privilèges.",
       "published": "2026-09-15T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9cf4f5554ee932041a99272b83326683",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-039 (14 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-039/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-09-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "40a01b0545fd2bea98a43cb0fa3ab2b4",
-      "title": "Multiples vulnérabilités dans Python (14 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1167/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Python. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un c...",
-      "published": "2026-09-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a452eef802f88447d6607d8a5e2abb34",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Mic...",
-      "published": "2026-09-14T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
