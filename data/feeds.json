@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-09-21T03:11:22.063226+00:00",
+  "last_updated": "2026-09-21T11:55:18.908197+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9e9786d6d180d22934cc20e34e24fd16",
+      "title": "Microsoft: September updates break File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+      "published": "2026-09-21T11:45:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ad18735c6a7cbbf3048a4eb8e3184645",
+      "title": "Bonjourr - La page de démarrage navigateur minimaliste",
+      "link": "https://korben.info/bonjourr-extension-page-accueil-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Bonjourr remplace la page de nouvel onglet de votre navigateur par une page qui vous ressemble, gratuitement et en open source. Et sa doc dit ce qui sort sur le réseau.",
+      "published": "2026-09-21T09:51:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/bonjourr-extension-page-accueil-navigateur/bonjourr-extension-page-accueil-navigateur-1.jpg"
+    },
+    {
+      "id": "379c5852048e11b6ec364b442b195128",
+      "title": "Méfiez-vous du mouchard de ChatGPT",
+      "link": "https://korben.info/chatgpt-ad-collector-tracking.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "OpenAI pose sur votre navigateur un cookie qui repart depuis les sites marchands, et le classe parmi les cookies analytiques. Refuser le marketing ne l'empêche donc pas. Voilà ce qui part vraiment, et la seule parade ...",
+      "published": "2026-09-21T08:58:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/chatgpt-ad-collector-tracking/chatgpt-ad-collector-tracking-1.png"
+    },
+    {
+      "id": "53dccaa0e55e2d2ad8fd95c43aed0198",
+      "title": "Microsoft Teams : deux personnes pourront partager leur écran en même temps dès novembre 2026",
+      "link": "https://www.it-connect.fr/microsoft-teams-deux-presentateurs-partage-ecran-simultane/",
+      "summary": "Microsoft Teams va permettre à deux présentateurs de partager leur écran ou une fenêtre en même temps en réunion. Déploiement prévu en novembre 2026. Le post Microsoft Teams : deux personnes pourront partager leur écr...",
+      "published": "2026-09-21T08:39:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fd9ff16a940056b514bdca32fa824118",
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Upd...",
+      "published": "2026-09-21T08:39:38+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
+    },
+    {
+      "id": "d055a550481c001cb161f84c3c5916f7",
+      "title": "L’iPhone 18 Pro signe vos photos au niveau du capteur pour prouver qu’elles sont vraies",
+      "link": "https://www.it-connect.fr/apple-reference-image-iphone-18-pro-photo-verifiee/",
+      "summary": "Apple Reference Image : le capteur de l'iPhone 18 Pro signe les pixels, Private Cloud Compute crée le négatif et une signature post-quantique scelle le tout. Le post L’iPhone 18 Pro signe vos photos au niveau du capte...",
+      "published": "2026-09-21T07:58:29+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "183c79bff0e298df191fe0f9160208d7",
+      "title": "Nouvelle vente flash GoDeal24 : profitez d’Office 2024 Pro Plus et de Windows 11 Pro",
+      "link": "https://www.it-connect.fr/bon-plan-licences-godeal24-windows-office-logiciels/",
+      "summary": "GoDeal24 a lancé une vente flash : des promos sur les tarifs des licences Windows 11, Office 2021, Office 2024 et Windows Server 2025. Le post Nouvelle vente flash GoDeal24 : profitez d’Office 2024 Pro Plus et de Wind...",
+      "published": "2026-09-21T07:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1eed9f87b9da43514808ec099b15eb8d",
+      "title": "Portainer 3.0 : priorité à Kubernetes et Portainer CE bloqué reste en 2.x",
+      "link": "https://www.it-connect.fr/portainer-3-0-focus-kubernetes-docker-second-plan/",
+      "summary": "Portainer 3.0 donnera la priorité à Kubernetes : Docker, Swarm et Podman passent au second plan et Portainer CE restera en 2.x. Voici ce qu'il faut retenir. Le post Portainer 3.0 : priorité à Kubernetes et Portainer C...",
+      "published": "2026-09-21T07:21:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "16ae9f45b27a4138b89cbefe628edda5",
+      "title": "Facturation électronique - Ce qui vous concerne vraiment depuis le 1er septembre",
+      "link": "https://korben.info/freebe-facturation-electronique-independants.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "J'espère que si vous avez une entreprise, vous êtes au courant de cette information, car depuis le 1er septembre, la facturation électronique a été mise en place. La communication autour de ça a été assez chaotique et...",
+      "published": "2026-09-21T06:18:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/freebe-facturation-electronique-independants/freebe-facturation-electronique-independants-1.png"
+    },
+    {
+      "id": "7c90ed76a34788203c6fb14f712ae857",
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how t...",
+      "published": "2026-09-21T06:06:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
+    },
+    {
+      "id": "0a88fc5b5fd91609fa0a7d2a4ab98b5f",
+      "title": "Euro-Office : une application de bureau arrive sur Windows, Linux et macOS",
+      "link": "https://www.it-connect.fr/euro-office-application-bureau-windows-linux-macos/",
+      "summary": "Nextcloud annonce une application de bureau Euro-Office pour Windows, Linux et macOS. Édition locale, coédition, disponibilité : voici ce que l'on sait. Le post Euro-Office : une application de bureau arrive sur Windo...",
+      "published": "2026-09-21T05:22:48+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "f67a5ea6ce38780515f04ab5443e423f",
       "title": "Malicious npm packages evade install-script defenses at runtime",
@@ -153,26 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
     },
     {
-      "id": "00d4421defe8c3d432c3f72b9b0e7dfc",
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past ...",
-      "published": "2026-09-18T18:02:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg"
-    },
-    {
-      "id": "8c8f28e80010e781f5dc26256884c1b4",
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPre...",
-      "published": "2026-09-18T16:56:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
-    },
-    {
       "id": "d8e4354a5964d23561180d0161285bdd",
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
@@ -198,16 +288,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
       "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains ...",
       "published": "2026-09-18T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8181c37ea4e2979ec536e60dd461845e",
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-      "published": "2026-09-18T13:58:40+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -293,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "71f4cecf91056fb4dbc7299fa8c436b1",
-      "title": "Specops Verified ID : votre identité réelle devient un facteur d’authentification",
-      "link": "https://www.it-connect.fr/specops-verified-id-verification-identite/",
-      "summary": "Découvrez Specops Verified ID, qui vérifie l'identité des utilisateurs par scan d'une pièce d'identité et liveness détection contre le vishing et les deepfakes. Le post Specops Verified ID : votre identité réelle devi...",
-      "published": "2026-09-17T16:05:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "e8a718dec22b2a278904d8921e0759b3",
       "title": "Fugleramme - Le cadre qui dessine les oiseaux qu'il entend",
       "link": "https://korben.info/fugleramme-detection-oiseaux-eink.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -331,76 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/des-agents-ia-spamment-le-web-pour-payer-leurs-propres-serveurs/des-agents-ia-spamment-le-web-pour-payer-leurs-propres-serveurs-1.png"
-    },
-    {
-      "id": "22743def9a56da002d7137151d065600",
-      "title": "Google Home laisse ChatGPT et Claude piloter votre maison",
-      "link": "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Google Home ouvre ses caméras Nest et appareils Matter à ChatGPT et Claude via un serveur MCP, réservé aux abonnés US Premium Advanced à 20 $/mois.",
-      "published": "2026-09-17T13:26:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison/google-home-laisse-chatgpt-et-claude-piloter-votre-maison-1.jpg"
-    },
-    {
-      "id": "27b8ed9799c5722b05fa326d7bcd1280",
-      "title": "Cloudflare lance son skill d'audit de sécurité par IA",
-      "link": "https://korben.info/cloudflare-security-audit-skill.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le skill que Cloudflare a ouvert sur GitHub fait auditer votre code par votre propre agent, avec un vérificateur neuf qui n'a pas participé à la chasse et dont le seul rôle est de démolir chaque trouvaille, trois verd...",
-      "published": "2026-09-17T11:20:32+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cloudflare-security-audit-skill/cloudflare-security-audit-skill-1.png"
-    },
-    {
-      "id": "93a5c4bb692c28d71004324fa8e9d033",
-      "title": "KB5124008 : Microsoft confirme le bug de relation d’approbation et pointe Machine Identity Isolation",
-      "link": "https://www.it-connect.fr/windows-11-kb5124008-relation-approbation-microsoft-confirme-machine-identity-isolation/",
-      "summary": "Microsoft confirme que la KB5124008 peut casser la relation d'approbation des PC Windows 11 avec l'AD. En cause : Machine Identity Isolation. Voici la solution. Le post KB5124008 : Microsoft confirme le bug de relatio...",
-      "published": "2026-09-17T07:07:54+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "672c62e1c8a052dbd4f376a34167b206",
-      "title": "Ni spyware ni faille : comment la police allemande lit les messages WhatsApp, Signal et Telegram ?",
-      "link": "https://www.it-connect.fr/police-allemande-whatsapp-signal-telegram-appareils-lies/",
-      "summary": "En Allemagne, police et douanes lient un appareil au compte WhatsApp, Signal ou Telegram de leurs cibles pour lire leurs messages. Une méthode contestée. Le post Ni spyware ni faille : comment la police allemande lit ...",
-      "published": "2026-09-17T05:41:43+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "86640f5646c4c1d9dd581da20ed00931",
-      "title": "Shuffle Drummer - FL Studio n'a qu'à bien se tenir",
-      "link": "https://korben.info/shuffle-drummer-groovebox-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Shuffle Drummer est la boîte à rythmes en ligne de Mani Deïz, beatmaker du rap indépendant français. Séquenceur qui décale les pas au tick, sampler qui retire la batterie d'une boucle pour n'en garder que la mélodie, ...",
-      "published": "2026-09-16T13:33:01+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/shuffle-drummer-groovebox-navigateur/shuffle-drummer-groovebox-navigateur-1.png"
-    },
-    {
-      "id": "0cb7019fc0220ff5d1183cea2b6cc127",
-      "title": "Forensic Windows – Partie – 12 : analyse du SRUM",
-      "link": "https://www.it-connect.fr/forensic-windows-analyser-le-srum/",
-      "summary": "Apprenez à exploiter le SRUM (base SRUDB.dat) de Windows : acquisition et analyse avec SrumECmd, applications exécutées, utilisateurs et activité réseau. Le post Forensic Windows – Partie – 12 : analyse du SRUM a été ...",
-      "published": "2026-09-16T07:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e4ca28f21ed510c8bbea5d2b869b3f4b",
-      "title": "HBO Max : le compte Reddit officiel piraté pour diffuser des malwares via des pubs ClickFix",
-      "link": "https://www.it-connect.fr/hbo-max-compte-reddit-pirate-clickfix-pasteswitch/",
-      "summary": "Le compte Reddit vérifié de HBO Max a été piraté pour diffuser 108 publicités ClickFix en 48 heures, avec des infostealers macOS et Windows à la clé. Le post HBO Max : le compte Reddit officiel piraté pour diffuser de...",
-      "published": "2026-09-16T07:39:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "c041950362e1627e914f709f29f704ae",
