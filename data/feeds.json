@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-09-22T10:55:08.082190+00:00",
+  "last_updated": "2026-09-22T16:13:17.630514+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "9631e7a6ba410b781763ecabe9a19aa2",
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
+      "published": "2026-09-22T15:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "98d40923c9ba92dabec10205f7fdc234",
+      "title": "curl.md - Récupérez le texte de n'importe quelle page web au format Markdown",
+      "link": "https://korben.info/curl-md-site-en-markdown.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "curl.md convertit n'importe quelle page publique en Markdown : vous collez curl.md/ devant l'adresse, dans le navigateur ou avec curl, et vous récupérez le texte sans le décor. Une option objectif renvoie même le seul...",
+      "published": "2026-09-22T13:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/curl-md-site-en-markdown/curl-md-site-en-markdown-1.jpg"
+    },
+    {
+      "id": "6fca7bc8a6be56db9b0835e0a9f5fc3d",
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security...",
+      "published": "2026-09-22T12:57:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "94cd75de2b0d3c5f8c1a115eb7b50102",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "published": "2026-09-22T12:48:06+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "58ac3e3c6a5a7f54d3b226d0e4b9781c",
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has?...",
+      "published": "2026-09-22T12:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ivhHLwWwT7Ptbr537Fd2CV3d_maDSNRmH0up0x67UPpc5x45Uuz0Bg8EnLkjrtB3DYXldW7aKbzx5uljQSF7IhQlzHHA1HR0F16Eaxs8Y3tgURkizSrA79L3EqyD5RDlqPGljbXCTQj0tFFG2EOVueksvhyrmdmC-v6VFjs76KdzZlCg1juWiVOPDnU/s1600/token.jpg"
+    },
+    {
+      "id": "e2d7a4fe9a9a1b7a7dbf890692b5a99f",
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may al...",
+      "published": "2026-09-22T12:29:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5Up_REU7_SnA-Ce9D8UGRsM8WbkkcjR6kjirzb-tSFejrL-qnZkXrp2gNa3OA-4PgvkUqHs59j9Qc8srbfm2JOUIOvEa1c_d8Il3kUDAGyr49FuXwq_n438Vf9txfq1fVwcpykkZAKz1o2QFGUJDLF4wnXzNWLdH1tYft3bd-vJywPppGjEfoikG22s/s1600/VeloCloud.jpg"
+    },
+    {
+      "id": "38f73adb54076a8c59310b5e2d29697f",
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governa...",
+      "published": "2026-09-22T11:45:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfPPym5AUNkyGqTS_emtDBNfEzrtWQJSHGSMl0V3KkDS2_hMcu_cpDslIX9LUv9nvHbQzY9hnwDEKjdlxe6vFS3N2_PHkTk_0TdKBE7RrAdniL9dObHd24tudc-Ymy8FTsV9y6Io68EhjR6fRrRwMEJhdKczg6vpRP2Bp06cxX_EqgmqXps8ih3Tfq08/s1600/core.jpg"
+    },
+    {
+      "id": "4059bac5ae5d795879086aed5124efd2",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as ...",
+      "published": "2026-09-22T11:38:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCjDxUEx5QKzby2TlrL6Swi0MV7BdrkgjM6Y5Xby9IU8L9JSdG09pwRemVtrYQtUrvp8QIDduyiDuojZVzZ6GrpzUJIVrThvC4CZ_kd8kckdhBt0MLWDLXD_QwN2wciIA9bqLee51246mEpWx0ZnlcOfXD2U3QWpvmpKZyxx75T7MXK-b8zBMmrouCZJc/s1600/linux-kvm.jpg"
+    },
+    {
+      "id": "758e85570e4c86749c1c3e609cd3942c",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published tod...",
+      "published": "2026-09-22T11:17:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu0R8P6iyk50vNReEGl0FkwYoFPk5n2fkVC3_3Mf2J5SaQ7yFIHbA3xuQpCATCQ9Y5Ie2ysz9EVaDb_vR5Bbnp209w28bSDK2Rqggotv4NPQbFB5LX4SUT4eztA-6939clsV9QQ41MHwIl8MFSzaJwyFFeBusztZ9H7oZhiUOlFYrL8BQh6hXWegn39uU/s1600/ms-rce.jpg"
+    },
     {
       "id": "3ceeeea1362e95a9803c09d501dc0b9d",
       "title": "Mighty DOOM - Bethesda l'a éteint mais ses joueurs l'ont rallumé",
@@ -203,36 +293,6 @@
       "image": ""
     },
     {
-      "id": "02e6ddea5e7293f60538c67583189681",
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researc...",
-      "published": "2026-09-21T17:31:01+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg"
-    },
-    {
-      "id": "764b932b3d7b5422f04f88efe1b67a35",
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurre...",
-      "published": "2026-09-21T17:19:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg"
-    },
-    {
-      "id": "1107e8008634f2a1f411175264584b3b",
-      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commiss...",
-      "published": "2026-09-21T16:57:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjOPn27sYW7sjjV6-SlFPjlnnAtZ2bVGvrJRbbussed8ddYCwrRnmyIBKOsJy9p3QGdwzMuxmxhtyNvyPQD9u53V0T84o-Pi1Euo1SPlHX9DiaFzVby2cKpyfdma7mA0b4F1gqDCvjWBrk3n916K6Su1Y1TaJcOKXHsuzNn0cxOmVzlUK1NIjPtElIXM/s1600/google-location.jpg"
-    },
-    {
       "id": "3bf5ea70a387ff86124ae5978dd4d5a6",
       "title": "Proxmox VE : configurer l’accès SSH avec une authentification par clé",
       "link": "https://www.it-connect.fr/tuto-proxmox-ve-ssh-authentification-cle-hardening/",
@@ -263,36 +323,6 @@
       "image": ""
     },
     {
-      "id": "169ecc0f9caa56336831991c206b8079",
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-      "published": "2026-09-21T14:42:37+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bd4515cefc364503e971eb89435680bf",
-      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming b...",
-      "published": "2026-09-21T14:24:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
-    },
-    {
-      "id": "ce9b6ffa6a7b0111192a78dde536be74",
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests ...",
-      "published": "2026-09-21T14:15:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
-    },
-    {
       "id": "99f486ba7d65210834015a677b040f2c",
       "title": "Un enfant de 9 ans aurait dépensé 118 000 dollars en publicités YouTube avec la carte pro de son père",
       "link": "https://www.it-connect.fr/enfant-9-ans-118-000-dollars-publicites-youtube-carte-entreprise/",
@@ -300,26 +330,6 @@
       "published": "2026-09-21T14:08:17+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8bff9c31c3cb4f3939fd93d5e391ccb2",
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how ag...",
-      "published": "2026-09-21T14:02:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "60641f409fdfb95747bee9203597f094",
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
-      "published": "2026-09-21T13:16:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -393,16 +403,6 @@
       "image": "https://korben.info/calibre-9-15-jeu-aventure-ia/calibre-9-15-jeu-aventure-ia-1.png"
     },
     {
-      "id": "63ad0e4928e99bb026ac54f23388b90d",
-      "title": "Linux sur PS5 Pro n'arrivera pas tout de suite",
-      "link": "https://korben.info/ps5-linux-developpeur-principal-abandonne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Andy Nguyen a annoncé le 15 septembre qu'il quittait la scène PS5 et arrêtait PS5 Linux, emportant avec lui le support de la PS5 Pro et la sortie visée pour 2027. Il avait demandé qu'on attende GTA 6 avant de signaler...",
-      "published": "2026-09-18T08:27:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ps5-linux-developpeur-principal-abandonne/ps5-linux-developpeur-principal-abandonne-1.png"
-    },
-    {
       "id": "c041950362e1627e914f709f29f704ae",
       "title": "Multiples vulnérabilités dans Oracle Virtualization (16 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1188/",
@@ -453,11 +453,21 @@
       "image": ""
     },
     {
-      "id": "d5294903a7a7726ed4757b3873473daa",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-09-15T00:00:00+00:00",
+      "id": "87360d5b2650ef1e572e2d59d30c6203",
+      "title": "Multiples vulnérabilités dans Oracle Java SE (16 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1185/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "03d006b647b2fdd91607316d8cdfe677",
+      "title": "Vulnérabilité dans StrongSwan (16 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1180/",
+      "summary": "Une vulnérabilité a été découverte dans StrongSwan. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "published": "2026-09-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -483,21 +493,11 @@
       "image": ""
     },
     {
-      "id": "24b92ab78edf572235d38c61cddc7f85",
-      "title": "Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3e18c1df0c3ea3f3db257502da95a2d6",
-      "title": "Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-09-01T00:00:00+00:00",
+      "id": "7d565f834f35e62d4d9e5b9e81612399",
+      "title": "Multiples vulnérabilités dans Microsoft Sharepoint (22 juillet 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
+      "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-586...",
+      "published": "2026-07-22T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
