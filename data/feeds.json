@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-09-23T03:10:42.023363+00:00",
+  "last_updated": "2026-09-23T10:43:16.375719+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "537b07213acf4e36513b9c1d471e528c",
+      "title": "BigDiskBuster : cette nouvelle zero-day empêche Microsoft Defender de se mettre à jour",
+      "link": "https://www.it-connect.fr/bigdiskbuster-zero-day-defender-bloque-mises-a-jour/",
+      "summary": "BigDiskBuster, la nouvelle faille zero-day de Nightmare Eclipse, sature le disque pour empêcher Microsoft Defender de se mettre à jour sur Windows. Le post BigDiskBuster : cette nouvelle zero-day empêche Microsoft Def...",
+      "published": "2026-09-23T08:55:01+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3ac08a37252ee685ceed5ac8447a3a53",
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM ser...",
+      "published": "2026-09-23T08:29:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZqCwuuKS7TqNWQ7GpeE07JLzHNn4Jdb2O6iQAlY34SiP2it2VwgmeVm5OjAzoAEHFQRVJENdDNGQL94ibPy1AiB9qkpNxZ3ILA89tYlwqm2OO9tEOH_BZ9HZzObw0nrzszQoKnaCQ-Q8ez5DPsnrKjq40qhm2tu_DhMSFunkVRsHeEIc0IA2NL-yZ5g/s1600/f5-zero-day.jpg"
+    },
+    {
+      "id": "719387b4e71c971b73ca14909280c35d",
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4...",
+      "published": "2026-09-23T08:29:24+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVEmuPJKZAlboodZWejG4dGZXXejOLThyXPoOnycqTY8lznAewTW5ovv8XFJzhyjPRMXT-njudYOVWFEYCLvmEPDyUrfDTZzAmp1S4KE4DuzsDFxt8R-biL2puZZBWG36_dkhfzvpeigcPb9WJNy31oIXo6Oh3zMUzL3JG6MEr4OaGE4Yi_k5JCpohVrZ/s1600/windows-china.jpg"
+    },
+    {
+      "id": "69e1174de0b1614a4ec9185f2444520c",
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "published": "2026-09-23T08:20:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "541369162a85fc1fdba6b0271559d6de",
+      "title": "Le Schleswig-Holstein vire (presque) Windows de sa chancellerie",
+      "link": "https://korben.info/schleswig-holstein-chancellerie-passe-a-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Plus de 200 agents de la chancellerie du Schleswig-Holstein bossent désormais sous Linux. Reste une vingtaine de postes Windows, et 30 000 agents à suivre.",
+      "published": "2026-09-23T07:48:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/schleswig-holstein-chancellerie-passe-a-linux/schleswig-holstein-chancellerie-passe-a-linux-1.jpg"
+    },
+    {
+      "id": "54d819025d87e02684ae0657de27d3e8",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "published": "2026-09-23T07:17:23+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "78f12ec43301c383b6ecccb59bea9773",
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app...",
+      "published": "2026-09-23T07:04:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBxfEfPNHZcocTp156lW-VbOENuCxmLM_7xUUY5QWEppPDsL04KhbN7yaT52b_XTCXW6ensPqjF8QBXuQWUgna8jerFExtxAfkCd4NqOGcQwUn8088DU87PMD7cgYhQ-dY2_xFdwPyaKU-kD9HBx_YcjAzvzwEQzLoKUu1cRRpOT5A1luhBCE6e6ChORw/s1600/next.jpg"
+    },
+    {
+      "id": "73469a0d198056333c6eb336b74c29c8",
+      "title": "Une VM qui s'évade vers son hôte, faut-il paniquer ?",
+      "link": "https://korben.info/faille-noyau-linux-arm64-kvm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "CVE-2026-89775 laisse une VM invitée s'évader vers son hôte ARM64. Grosse note à 9,3, mais un périmètre étroit : voici comment savoir si vous êtes concerné.",
+      "published": "2026-09-23T06:45:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/faille-noyau-linux-arm64-kvm/faille-noyau-linux-arm64-kvm-1.jpg"
+    },
+    {
+      "id": "f13b5c42ebbef522837dd65ad9f6a3e5",
+      "title": "Data centers : les États-Unis pèsent plus lourd que 14 pays réunis",
+      "link": "https://www.it-connect.fr/data-centers-les-etats-unis-pesent-plus-lourd-que-14-pays-reunis/",
+      "summary": "32 GW en service et 70,6 GW en construction ou en projet : la capacité américaine écrase le reste du monde. Et la France, où en est-elle ? Les chiffres. Le post Data centers : les États-Unis pèsent plus lourd que 14 p...",
+      "published": "2026-09-23T06:21:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d74d9ff97dca9fe3b74d26d227eb92a4",
+      "title": "Le FBI piraté ? ShinyHunters ne veut pas d’argent, mais le retrait d’un rapport",
+      "link": "https://www.it-connect.fr/shinyhunters-piratage-fbi-oracle-peoplesoft-zero-day/",
+      "summary": "ShinyHunters affirme avoir volé 2 à 3 To de données au FBI via une faille zero-day dans Oracle PeopleSoft. En échange, il exige le retrait d'un rapport. Le post Le FBI piraté ? ShinyHunters ne veut pas d’argent, mais ...",
+      "published": "2026-09-23T05:51:51+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "91f92d722ce2b71dda2c2b65881fca05",
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised...",
+      "published": "2026-09-23T05:30:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s1600/shinyhunters.png"
+    },
     {
       "id": "f08246e75b1d92f16aab8b191b665fbd",
       "title": "Rogue external MFA providers can steal passwords during logins",
@@ -163,66 +273,6 @@
       "image": "https://korben.info/curl-md-site-en-markdown/curl-md-site-en-markdown-1.jpg"
     },
     {
-      "id": "6fca7bc8a6be56db9b0835e0a9f5fc3d",
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security...",
-      "published": "2026-09-22T12:57:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "94cd75de2b0d3c5f8c1a115eb7b50102",
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-      "published": "2026-09-22T12:48:06+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "58ac3e3c6a5a7f54d3b226d0e4b9781c",
-      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-      "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has?...",
-      "published": "2026-09-22T12:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ivhHLwWwT7Ptbr537Fd2CV3d_maDSNRmH0up0x67UPpc5x45Uuz0Bg8EnLkjrtB3DYXldW7aKbzx5uljQSF7IhQlzHHA1HR0F16Eaxs8Y3tgURkizSrA79L3EqyD5RDlqPGljbXCTQj0tFFG2EOVueksvhyrmdmC-v6VFjs76KdzZlCg1juWiVOPDnU/s1600/token.jpg"
-    },
-    {
-      "id": "e2d7a4fe9a9a1b7a7dbf890692b5a99f",
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may al...",
-      "published": "2026-09-22T12:29:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5Up_REU7_SnA-Ce9D8UGRsM8WbkkcjR6kjirzb-tSFejrL-qnZkXrp2gNa3OA-4PgvkUqHs59j9Qc8srbfm2JOUIOvEa1c_d8Il3kUDAGyr49FuXwq_n438Vf9txfq1fVwcpykkZAKz1o2QFGUJDLF4wnXzNWLdH1tYft3bd-vJywPppGjEfoikG22s/s1600/VeloCloud.jpg"
-    },
-    {
-      "id": "38f73adb54076a8c59310b5e2d29697f",
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governa...",
-      "published": "2026-09-22T11:45:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfPPym5AUNkyGqTS_emtDBNfEzrtWQJSHGSMl0V3KkDS2_hMcu_cpDslIX9LUv9nvHbQzY9hnwDEKjdlxe6vFS3N2_PHkTk_0TdKBE7RrAdniL9dObHd24tudc-Ymy8FTsV9y6Io68EhjR6fRrRwMEJhdKczg6vpRP2Bp06cxX_EqgmqXps8ih3Tfq08/s1600/core.jpg"
-    },
-    {
-      "id": "4059bac5ae5d795879086aed5124efd2",
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as ...",
-      "published": "2026-09-22T11:38:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCjDxUEx5QKzby2TlrL6Swi0MV7BdrkgjM6Y5Xby9IU8L9JSdG09pwRemVtrYQtUrvp8QIDduyiDuojZVzZ6GrpzUJIVrThvC4CZ_kd8kckdhBt0MLWDLXD_QwN2wciIA9bqLee51246mEpWx0ZnlcOfXD2U3QWpvmpKZyxx75T7MXK-b8zBMmrouCZJc/s1600/linux-kvm.jpg"
-    },
-    {
       "id": "3ceeeea1362e95a9803c09d501dc0b9d",
       "title": "Mighty DOOM - Bethesda l'a éteint mais ses joueurs l'ont rallumé",
       "link": "https://korben.info/mighty-resurrection-serveur-prive-mighty-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -323,26 +373,6 @@
       "image": ""
     },
     {
-      "id": "6db127e67b4417b4394036d92a920b9f",
-      "title": "Bug copier-coller Excel : voici les correctifs pour Microsoft Office",
-      "link": "https://www.it-connect.fr/excel-bug-copier-coller-correctif-septembre-2026/",
-      "summary": "Microsoft a corrigé le bug du copier-coller dans Excel 2016 à 2024. Sur Office 2016 et 2019, le collage peut encore échouer dans un cas bien précis. Le post Bug copier-coller Excel : voici les correctifs pour Microsof...",
-      "published": "2026-09-21T15:37:55+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "99f486ba7d65210834015a677b040f2c",
-      "title": "Un enfant de 9 ans aurait dépensé 118 000 dollars en publicités YouTube avec la carte pro de son père",
-      "link": "https://www.it-connect.fr/enfant-9-ans-118-000-dollars-publicites-youtube-carte-entreprise/",
-      "summary": "Un père américain affirme que son fils de 9 ans a dépensé 118 000 dollars en publicités YouTube avec sa carte d'entreprise, mais c'est bien lui le fautif. Le post Un enfant de 9 ans aurait dépensé 118 000 dollars en p...",
-      "published": "2026-09-21T14:08:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "ad18735c6a7cbbf3048a4eb8e3184645",
       "title": "Bonjourr - La page de démarrage navigateur minimaliste",
       "link": "https://korben.info/bonjourr-extension-page-accueil-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -363,16 +393,6 @@
       "image": "https://korben.info/chatgpt-ad-collector-tracking/chatgpt-ad-collector-tracking-1.png"
     },
     {
-      "id": "53dccaa0e55e2d2ad8fd95c43aed0198",
-      "title": "Microsoft Teams : deux personnes pourront partager leur écran en même temps dès novembre 2026",
-      "link": "https://www.it-connect.fr/microsoft-teams-deux-presentateurs-partage-ecran-simultane/",
-      "summary": "Microsoft Teams va permettre à deux présentateurs de partager leur écran ou une fenêtre en même temps en réunion. Déploiement prévu en novembre 2026. Le post Microsoft Teams : deux personnes pourront partager leur écr...",
-      "published": "2026-09-21T08:39:46+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "16ae9f45b27a4138b89cbefe628edda5",
       "title": "Facturation électronique - Ce qui vous concerne vraiment depuis le 1er septembre",
       "link": "https://korben.info/freebe-facturation-electronique-independants.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/freebe-facturation-electronique-independants/freebe-facturation-electronique-independants-1.png"
-    },
-    {
-      "id": "5d685ceeb8c0fca4337a9d8c8a00e2f6",
-      "title": "Comment mesurer et dégonfler l'index de recherche de Windows",
-      "link": "https://korben.info/windows-search-indexation-etendue-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "L'index de recherche de Windows garde l'espace qu'il a pris, même quand les fichiers ont disparu. Mesurez le vôtre en une commande, puis ramenez-le à sa taille utile.",
-      "published": "2026-09-18T13:00:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/windows-search-indexation-etendue-ssd/windows-search-indexation-etendue-ssd-1.png"
-    },
-    {
-      "id": "b33c80f4f12e0adf6d07823fe9e0cf35",
-      "title": "Calibre lance le livre dont vous êtes le héros, généré par IA",
-      "link": "https://korben.info/calibre-9-15-jeu-aventure-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Calibre 9.15 embarque un jeu d'aventure narratif piloté par une IA, qu'il faut aller activer soi-même dans les préférences. On décrit un monde en quelques lignes, le logiciel en tire un décor et des personnages, et ch...",
-      "published": "2026-09-18T10:21:37+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/calibre-9-15-jeu-aventure-ia/calibre-9-15-jeu-aventure-ia-1.png"
     },
     {
       "id": "c041950362e1627e914f709f29f704ae",
