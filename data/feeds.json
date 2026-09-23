@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-22T20:51:20.912637+00:00",
+  "last_updated": "2026-09-23T03:10:42.023363+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f08246e75b1d92f16aab8b191b665fbd",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "published": "2026-09-22T21:45:45+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ff6369e99e1bff47ee2113ac0c9861c1",
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "published": "2026-09-22T21:40:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "e8fb710bc1242c425868d014e70c8094",
       "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
@@ -213,16 +233,6 @@
       "image": "https://korben.info/mighty-resurrection-serveur-prive-mighty-doom/mighty-resurrection-serveur-prive-mighty-doom-1.png"
     },
     {
-      "id": "7117cc1c57eb0ce0c491461d285b50f2",
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "published": "2026-09-22T09:55:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "87bc3463d5889a450c7d8d212c35cd27",
       "title": "Valve publie Lepton pour jouer à des jeux Android sous Linux",
       "link": "https://www.it-connect.fr/valve-lepton-jeux-android-linux/",
@@ -230,16 +240,6 @@
       "published": "2026-09-22T09:28:43+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "231cf50f81274eb9f9640b481aff05be",
-      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "2026-09-22T08:53:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
