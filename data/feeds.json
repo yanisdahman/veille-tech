@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-23T21:02:12.349057+00:00",
+  "last_updated": "2026-09-24T03:01:13.825333+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "615691fefe98e526c0e92bc655b8af3a",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell ...",
+      "published": "2026-09-23T22:46:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "dec234cdb55864046578f8cd2634b556",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "published": "2026-09-23T21:25:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "d749d86af58dd0f3ebf832a0e82e82df",
       "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
@@ -223,16 +243,6 @@
       "image": "https://korben.info/schleswig-holstein-chancellerie-passe-a-linux/schleswig-holstein-chancellerie-passe-a-linux-1.jpg"
     },
     {
-      "id": "54d819025d87e02684ae0657de27d3e8",
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "published": "2026-09-23T07:17:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "73469a0d198056333c6eb336b74c29c8",
       "title": "Une VM qui s'évade vers son hôte, faut-il paniquer ?",
       "link": "https://korben.info/faille-noyau-linux-arm64-kvm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -260,16 +270,6 @@
       "published": "2026-09-23T05:51:51+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f08246e75b1d92f16aab8b191b665fbd",
-      "title": "Rogue external MFA providers can steal passwords during logins",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
-      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
-      "published": "2026-09-22T21:45:45+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
