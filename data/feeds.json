@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-09-24T03:01:13.825333+00:00",
+  "last_updated": "2026-09-24T11:03:53.496049+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2020c664baac5f7218770a25b2e45e4c",
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "published": "2026-09-24T10:42:37+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fefdde947e99e986ac784d8280262f1e",
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks a...",
+      "published": "2026-09-24T09:38:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "105d826c6278a0876c8be342b5e9788a",
+      "title": "Surfshark ne vous rend pas invisible, mais il peut changer le décor",
+      "link": "https://korben.info/surfshark-ne-vous-rend-pas-invisible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "-- Article en partenariat avec Surfshark -- Vous êtes chez vous, vous vous connectez au Wi-Fi du bureau, puis à celui d’un hôtel ou d’un café. Pour vous, ce sont simplement quatre réseaux différents. Pour les sites qu...",
+      "published": "2026-09-24T09:23:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/surfshark-ne-vous-rend-pas-invisible/surfshark-ne-vous-rend-pas-invisible-1.webp"
+    },
+    {
+      "id": "70d01bc329e004e3d0ab121d139620dc",
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in ...",
+      "published": "2026-09-24T09:14:21+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg"
+    },
+    {
+      "id": "a5b996bc9abb59d0650cad079d768a83",
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "published": "2026-09-24T08:14:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e20c9284a0667a2d6ca0eaecf4213c3f",
+      "title": "Discord déploie la vérification de l’âge sans pièce d’identité ni selfie",
+      "link": "https://www.it-connect.fr/discord-verification-age-sans-piece-identite-selfie/",
+      "summary": "Discord classe désormais ses utilisateurs par tranche d'âge sans pièce d'identité ni selfie pour plus de 90 % d'entre eux. Voici comment ça fonctionne. Le post Discord déploie la vérification de l’âge sans pièce d’ide...",
+      "published": "2026-09-24T07:34:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f49f2b7fb0253acdab90301815b67360",
+      "title": "Windows 11 : les mises à jour de septembre 2026 cassent le VPN Always On",
+      "link": "https://www.it-connect.fr/windows-11-mises-a-jour-septembre-2026-always-on-vpn/",
+      "summary": "Avec les mises à jour KB5124008 et KB5124012, la connexion Always On VPN peut rester bloquée sur Windows 11. Microsoft propose de forcer SSTP ou IKEv2. Le post Windows 11 : les mises à jour de septembre 2026 cassent l...",
+      "published": "2026-09-24T07:07:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a60bf7480fb7906f51383612bc491e26",
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, su...",
+      "published": "2026-09-24T07:07:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAVdhDdHS-lMa6x8Y_wK35pNfiQpKjJPFKBf-euOlWYyYschDjjXlah44o4VfYeKJyaeWKFxyOkEwQEnW_qBfSc6rwynqdqB8UAq1CSuKzJOz6lxno1eI9DxmU0RzTX0eWig9f5L5vWGkW1vZnp8o7rDqe86PIyHtTHl-IQSdLmZWAVOyedE86QaUy4I/s1600/openai-agents.jpg"
+    },
+    {
+      "id": "d323a45eea863abc6ceb2bc902c5db31",
+      "title": "Windows 11 KB5124010 : l’Explorateur de fichiers prévisualise de nouveau les fichiers téléchargés",
+      "link": "https://www.it-connect.fr/windows-11-kb5124010-apercu-fichiers-telecharges-explorateur/",
+      "summary": "La KB5124010 de Windows 11 rétablit l'aperçu des PDF téléchargés dans l'Explorateur de fichiers et apporte d'autres nouveautés : voici l'essentiel à savoir. Le post Windows 11 KB5124010 : l’Explorateur de fichiers pré...",
+      "published": "2026-09-24T06:51:29+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6e233cb68f5bd6150d0cd1d4b6638fc1",
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the ...",
+      "published": "2026-09-24T06:32:03+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgKN3zS7GtEpakDcL7zk0tL-zcz3GJMkVf9vMLCVXf33XZ1Yad77dg3Zen_EEB58BltCG_pj0c-yVDm6VbV9cw5Baxtf26vVtRwW4qwDDy1s8HYMFKfTyl382lwJIRfSWBSA-WK6RAZ8lmy9zf5IZb_Ilqol0AcVdEaMp599tZ4NxqUc-KY4-fyFNYYFg/s1600/ms-365.jpg"
+    },
+    {
+      "id": "d6fa6425b224f13915918b0cf9f10cd9",
+      "title": "97 % des victimes de ransomware avaient le MFA : où sont les angles morts ?",
+      "link": "https://www.it-connect.fr/97-des-victimes-de-ransomware-avaient-le-mfa-ou-sont-les-angles-morts/",
+      "summary": "97 % des victimes de ransomware par vol d'identifiants avaient activé le MFA. Voici comment repérer les accès restés en mot de passe seul et les combler. Le post 97 % des victimes de ransomware avaient le MFA : où son...",
+      "published": "2026-09-24T06:30:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3653aef0c67ed78c49b8bbd36a0ff0eb",
+      "title": "Openpilot - La NHTSA passe les boîtiers de Comma au crible",
+      "link": "https://korben.info/comma-openpilot-enquete-nhtsa.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La NHTSA a ouvert le 21 septembre une enquête préliminaire sur les boîtiers de comma et sur openpilot, après cinq accidents contre des véhicules arrêtés ou lents, dont deux mortels. Les rapports montrent un fork, un r...",
+      "published": "2026-09-24T06:06:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/comma-openpilot-enquete-nhtsa/comma-openpilot-enquete-nhtsa-1.webp"
+    },
+    {
+      "id": "78f29a61695f7c18dcf63ad92fbc9411",
+      "title": "Claude Code vous fait choisir entre vie privée et AGENTS.md",
+      "link": "https://korben.info/claude-code-agents-md-telemetrie.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Depuis la 2.1.277, Claude Code lit les fichiers AGENTS.md, sauf si vous avez coupé sa télémétrie. La fonction dépend d'un feature flag récupéré chez Anthropic, et sans lui le fichier saute sans prévenir, runners de CI...",
+      "published": "2026-09-24T05:49:17+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/claude-code-agents-md-telemetrie/claude-code-agents-md-telemetrie-1.jpg"
+    },
+    {
+      "id": "a6701803366612bab4dd68a81e923319",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthentic...",
+      "published": "2026-09-24T05:36:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg"
+    },
     {
       "id": "615691fefe98e526c0e92bc655b8af3a",
       "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
@@ -133,16 +273,6 @@
       "image": "https://korben.info/veeam-agent-windows-faille-droits-system/veeam-agent-windows-faille-droits-system-1.png"
     },
     {
-      "id": "85ce431659dceb24ad471f4d2338ab01",
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "published": "2026-09-23T12:29:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6ab6369bbff1dbb43d4738fb54d66c85",
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
       "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
@@ -163,46 +293,6 @@
       "image": ""
     },
     {
-      "id": "69ff5c8a16a33d9627decf667be62a32",
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a ...",
-      "published": "2026-09-23T11:47:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio2c14ELRJEhvTuDrxQmhUG4G9aGoVRrooBMMfuK7LyHPKW6HuJbI9PkKF-WG_5HlEz8NKcuj08XRmv1jNqfBtiDwXmC7e9P9lxoSHK5nUz023YCgoLQuo0BI_9hX4U9Vv97bGJejb4W0jvgv_3btkfj6BWnXwalfyI3k34wveC6n3k47ZdoGq2P0Yaw0/s1600/main.png"
-    },
-    {
-      "id": "5bfb0e87464be0e7bd4dfa6f91605790",
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic...",
-      "published": "2026-09-23T11:47:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ytuRh_WTu4R3TBnroGXO6IUgATMIi9vgx8DA7j0JJ0e_cTfAjlUIS6zAjb2q9EPdTI8gLwby7r2fijYkH83j2SwisKf-ANFKr6YTdwAHeds99dYrng0QN3nmkqDtIvSHoK8m47e_V0x01B0PuzIezcqtnc2VZlUCVYErOkaKQF7pbk0l35uLwmTl8Is1/s1600/CLAUDE-CHATGPT.jpg"
-    },
-    {
-      "id": "6a2552309facb25d02cc3371a6bd5217",
-      "title": "Microsoft: September Windows updates break Always On VPN connections",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-      "published": "2026-09-23T11:18:13+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "97dac7d0e1bdda5880819f05a894b5d2",
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2...",
-      "published": "2026-09-23T11:12:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZjw_aCdQxMfwTv_-KFLK5KRCd96MoivCQPTAZcAWJal5_84FgCny9Um8csMgDDqta40CUGMPDO14hdbUo9CRk-FMJwY70MsDfV25AC8VmL-8_yDO_UWHYXbmeJ9jZANptIeHqJX9axqzxxn68AHEj8zFhYbh8coIbxWAVC9XbtG9CjxMBpQqclG14QuM/s1600/linux.gif"
-    },
-    {
       "id": "537b07213acf4e36513b9c1d471e528c",
       "title": "BigDiskBuster : cette nouvelle zero-day empêche Microsoft Defender de se mettre à jour",
       "link": "https://www.it-connect.fr/bigdiskbuster-zero-day-defender-bloque-mises-a-jour/",
@@ -210,26 +300,6 @@
       "published": "2026-09-23T08:55:01+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3ac08a37252ee685ceed5ac8447a3a53",
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM ser...",
-      "published": "2026-09-23T08:29:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZqCwuuKS7TqNWQ7GpeE07JLzHNn4Jdb2O6iQAlY34SiP2it2VwgmeVm5OjAzoAEHFQRVJENdDNGQL94ibPy1AiB9qkpNxZ3ILA89tYlwqm2OO9tEOH_BZ9HZzObw0nrzszQoKnaCQ-Q8ez5DPsnrKjq40qhm2tu_DhMSFunkVRsHeEIc0IA2NL-yZ5g/s1600/f5-zero-day.jpg"
-    },
-    {
-      "id": "69e1174de0b1614a4ec9185f2444520c",
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "published": "2026-09-23T08:20:05+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -331,76 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/cliamp-lecteur-musique-terminal-winamp/cliamp-lecteur-musique-terminal-winamp-1.jpg"
-    },
-    {
-      "id": "0f9ce962ac195b11f073be55ac054026",
-      "title": "Click2Shell : une faille dans WordPress permet d’exécuter du code PHP en un clic",
-      "link": "https://www.it-connect.fr/wordpress-click2shell-faille-rce-theme/",
-      "summary": "Click2Shell : un lien piégé ouvert par un administrateur WordPress suffit à installer un thème et exécuter du PHP. Installez WordPress 7.1.1 sans tarder. Le post Click2Shell : une faille dans WordPress permet d’exécut...",
-      "published": "2026-09-22T07:53:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e274360368e2f943edf370250ff06f18",
-      "title": "Bon plan : le mini PC Geekom A5 Pro a le droit à 110 euros de réduction immédiate avec ce code",
-      "link": "https://www.it-connect.fr/bon-plan-geekom-a5-pro-2026-110-euros-de-remise/",
-      "summary": "En septembre 2026, le mini PC Geekom A5 Pro passe à 439 € au lieu de 549 €, soit 110 € de remise. Découvrez le code réservé aux lecteurs d'IT-Connect. Le post Bon plan : le mini PC Geekom A5 Pro a le droit à 110 euros...",
-      "published": "2026-09-22T07:31:51+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "52fc80800a42cc3ccbb6d6408a673bef",
-      "title": "10 projets RECOMP qui sortent vos vieux jeux de leur console",
-      "link": "https://korben.info/10-projets-decomp-recomp-a-suivre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Silent Hill se termine sur PC sans émulateur, Luigi's Mansion tourne dans une fenêtre Windows et un recompilateur PS3 existe déjà. Dix projets de décompilation et de recompilation, rangés par ce qu'ils font vraiment a...",
-      "published": "2026-09-22T07:23:19+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/10-projets-decomp-recomp-a-suivre/10-projets-decomp-recomp-a-suivre-1.webp"
-    },
-    {
-      "id": "016b9849183137f64612cc08d2361087",
-      "title": "Windows : les mises à jour de septembre 2026 cassent l’Historique des fichiers",
-      "link": "https://www.it-connect.fr/windows-historique-des-fichiers-bug-mises-a-jour/",
-      "summary": "Depuis les mises à jour de septembre 2026, l'Historique des fichiers de Windows 10 et Windows 11 peut cesser de fonctionner. Microsoft confirme, sans correctif. Le post Windows : les mises à jour de septembre 2026 cas...",
-      "published": "2026-09-22T07:17:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "13a8e6b7478dbe020567ee942ea37e2e",
-      "title": "TryCloudflare : des services exposés en local se retrouvent indexés sur Google",
-      "link": "https://www.it-connect.fr/trycloudflare-des-services-exposes-en-local-se-retrouvent-indexes-sur-google/",
-      "summary": "Des services exposés avec TryCloudflare, censés être temporaires, sont indexés par Google : un vrai risque pour les utilisateurs qui en sont à l'origine. Le post TryCloudflare : des services exposés en local se retrou...",
-      "published": "2026-09-22T06:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ad18735c6a7cbbf3048a4eb8e3184645",
-      "title": "Bonjourr - La page de démarrage navigateur minimaliste",
-      "link": "https://korben.info/bonjourr-extension-page-accueil-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Bonjourr remplace la page de nouvel onglet de votre navigateur par une page qui vous ressemble, gratuitement et en open source. Et sa doc dit ce qui sort sur le réseau.",
-      "published": "2026-09-21T09:51:47+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/bonjourr-extension-page-accueil-navigateur/bonjourr-extension-page-accueil-navigateur-1.jpg"
-    },
-    {
-      "id": "379c5852048e11b6ec364b442b195128",
-      "title": "Méfiez-vous du mouchard de ChatGPT",
-      "link": "https://korben.info/chatgpt-ad-collector-tracking.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "OpenAI pose sur votre navigateur un cookie qui repart depuis les sites marchands, et le classe parmi les cookies analytiques. Refuser le marketing ne l'empêche donc pas. Voilà ce qui part vraiment, et la seule parade ...",
-      "published": "2026-09-21T08:58:47+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/chatgpt-ad-collector-tracking/chatgpt-ad-collector-tracking-1.png"
     },
     {
       "id": "c041950362e1627e914f709f29f704ae",
