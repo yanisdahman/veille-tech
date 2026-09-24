@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-24T16:26:50.935081+00:00",
+  "last_updated": "2026-09-24T21:06:15.294621+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "cbb516ddbe951e182400895de36e6449",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "published": "2026-09-24T20:53:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1246ccd8d2a7850d56b0c296cc066892",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "published": "2026-09-24T20:10:48+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6c4077947c8eff6602f141569affdc38",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain...",
+      "published": "2026-09-24T18:10:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
+    },
+    {
+      "id": "096411fb5e4b65be4738b4c4c8c9b347",
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the...",
+      "published": "2026-09-24T17:52:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
+    },
+    {
+      "id": "519156a4160721f3a0abc4dffafeb33a",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "published": "2026-09-24T17:47:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "3823dfaa1e62ae648331428f2121e04a",
       "title": "Veeam Agent pour Windows : la faille CVE-2026-32996 offre les privilèges SYSTEM, un exploit est public",
@@ -21,6 +71,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "75c268ef6037c6882e479b0b3d7c5d9d",
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been...",
+      "published": "2026-09-24T15:27:32+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
     },
     {
       "id": "19376990b9837aaed57df82ee70483f8",
@@ -116,7 +176,7 @@
       "id": "105d826c6278a0876c8be342b5e9788a",
       "title": "Surfshark ne vous rend pas invisible, mais il peut changer le décor",
       "link": "https://korben.info/surfshark-ne-vous-rend-pas-invisible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "-- Article en partenariat avec Surfshark -- Vous êtes chez vous, vous vous connectez au Wi-Fi du bureau, puis à celui d’un hôtel ou d’un café. Pour vous, ce sont simplement quatre réseaux différents. Pour les sites qu...",
+      "summary": "Comment Surfshark modifie l'adresse IP visible par les sites, avec rotation d'IP, exclusion d'apps via Bypasser et filtrage publicitaire CleanWeb.",
       "published": "2026-09-24T09:23:46+00:00",
       "source": "Korben",
       "category": "outils",
@@ -241,66 +301,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "dec234cdb55864046578f8cd2634b556",
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
-      "published": "2026-09-23T21:25:13+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d749d86af58dd0f3ebf832a0e82e82df",
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gatew...",
-      "published": "2026-09-23T19:53:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "59a437d91cebb8d0d454e165590fabe5",
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "published": "2026-09-23T18:31:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "eeadebf445b79994db9fe3e6c17276eb",
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a ...",
-      "published": "2026-09-23T18:06:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
-    },
-    {
-      "id": "6a03d5ba2c4c83a2d2801db72a43a22b",
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can star...",
-      "published": "2026-09-23T16:53:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg"
-    },
-    {
-      "id": "18ceb7f28cf9a811bef83c828537ece9",
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Pol...",
-      "published": "2026-09-23T16:06:41+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg"
     },
     {
       "id": "f81f9f891a29e5f2d28983a4fa75be7b",
