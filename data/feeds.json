@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-09-24T11:03:53.496049+00:00",
+  "last_updated": "2026-09-24T16:26:50.935081+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3823dfaa1e62ae648331428f2121e04a",
+      "title": "Veeam Agent pour Windows : la faille CVE-2026-32996 offre les privilèges SYSTEM, un exploit est public",
+      "link": "https://www.it-connect.fr/veeam-agent-windows-faille-cve-2026-32996-privileges-system/",
+      "summary": "Un exploit public cible la faille CVE-2026-32996 de Veeam Agent pour Windows, qui offre les privilèges SYSTEM et qui serait exploitée activement. Le post Veeam Agent pour Windows : la faille CVE-2026-32996 offre les p...",
+      "published": "2026-09-24T16:09:20+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "92ac952a1614ea9a38afdc1ee5058c8d",
+      "title": "GLPI 11.0.9 et 10.0.27 : 12 failles patchées et un rythme de mises à jour qui s’accélère",
+      "link": "https://www.it-connect.fr/glpi-11-0-9-10-0-27-failles-securite-patch/",
+      "summary": "GLPI 11.0.9 et 10.0.27 corrigent 12 failles, dont une injection SQL sans authentification. Teclib' annonce un patch de sécurité toutes les deux semaines. Le post GLPI 11.0.9 et 10.0.27 : 12 failles patchées et un ryth...",
+      "published": "2026-09-24T15:32:26+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "19376990b9837aaed57df82ee70483f8",
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information ...",
+      "published": "2026-09-24T14:29:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xvw3iNKwWUngfdShXBAPKrbRDMZSCQ3_FdiHNKvwrLkip9fUiikko0FKN-cfgzBIgkLvKDR9xIlnfEZVQgHgOW2qTz8Pd4Ur0-DCYdUssgN_9vglgxRU6u5ZRK_FlQYmgV_sbv8pfA1YnSJcojUOhWC-7lkPbA07An_X-vNHmZ8xT2Okq9HiRfTBVt1h/s1600/UK-CLICK.jpg"
+    },
+    {
+      "id": "966aa0d19dd2677789eba3b12daee9d2",
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 dead...",
+      "published": "2026-09-24T14:02:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3375141d84d4afdf810dbf8b29f7d273",
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+      "published": "2026-09-24T13:27:57+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a1f196677058425db3815b2cd64add93",
+      "title": "Que faire avec un port M.2 libre ? 6 gadgets à y brancher à la place d'un SSD",
+      "link": "https://korben.info/port-m2-libre-cartes-autres-que-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un port M.2 libre, c'est une prise PCIe. Carte réseau 5 ou 10 GbE, Hailo-8 pour Frigate, eGPU en OCuLink, USB-C, SATA ou Wi-Fi 6E : quoi y brancher, et quoi vérifier avant.",
+      "published": "2026-09-24T13:26:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/port-m2-libre-cartes-autres-que-ssd/port-m2-libre-cartes-autres-que-ssd-1.jpg"
+    },
+    {
+      "id": "33922ffa83c2e0beb34f57e1d1935f75",
+      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+      "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+      "published": "2026-09-24T12:16:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8b2c2840052b0c7ebe1dd26f022d3898",
+      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+      "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded ...",
+      "published": "2026-09-24T12:05:27+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitRqKj3-JlcQ69xxlsxJs80aq7MNxgAc_VrV-TCrHGTVEwdWKIdvAiwB4szXMT3cRKpkzCRVObZxAO47CLl3JWLRerxVSITKy9xorsP-XY212M07JzDkZ7VXOA-r0maycB0jMv0r5Kl3q0VgrxpoeYfHJ_gkeXbzXLKz_3gAhDGy1ML06lfta_5w8u_Xo/s1600/1000110893.jpg"
+    },
+    {
+      "id": "0111141ea9c606b0bfeca22b441182f5",
+      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identifie...",
+      "published": "2026-09-24T11:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8mLbRmwaAgvJunom4dBxBYMz50LUutLJiS6Yz7RPCbZQO1aYXAqFWOga4dCKD3AoenZHxYLpPexLEQ2swJO67vy4xl2_uw1g08lRtETN3hTMLpvafmn5WD4VK2ilpuFaYAdMHHPBRG2yYsyDBins15huubgt2b6pDVnnhW92It8lKHBqOifOLTaNSwho/s1600/keeper.png"
+    },
     {
       "id": "2020c664baac5f7218770a25b2e45e4c",
       "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
@@ -203,16 +293,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg"
     },
     {
-      "id": "23dc9d1ab018bd5f9f2e4d01de342e14",
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-      "published": "2026-09-23T16:20:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "18ceb7f28cf9a811bef83c828537ece9",
       "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
       "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
@@ -223,46 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg"
     },
     {
-      "id": "cc4815c6192b6de89fc493bc44de9324",
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-      "published": "2026-09-23T14:35:26+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4d6c3778c50bcf4b6489b73412157e8e",
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, ...",
-      "published": "2026-09-23T14:17:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg"
-    },
-    {
-      "id": "e72ee33f39aae4d1e0b88167e7049bbd",
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confu...",
-      "published": "2026-09-23T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d2c298e31baa5b63a7ec038230470166",
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Win...",
-      "published": "2026-09-23T13:52:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFThFSFsti-2SIka75bNuMKpyJHtOW2ZPrZtcSjbjFQ64GCNn0WtdssYuWlVTbhaLB5cAJ0vu8FgyNmNsDa8g0Ijy-D1zP4FW7ihVfAjk9xWMYDMMdfZPICGyVdjeDwH3-jyKLHOUnjfaXBJIMxGn_3ngeXFsbb4CLnOibRd4fbwXHYpBkMQTcBQAf0edq/s1600/npm-pypi.jpg"
-    },
-    {
       "id": "f81f9f891a29e5f2d28983a4fa75be7b",
       "title": "Veeam Agent pour Windows - Une faille qui donne les droits SYSTEM",
       "link": "https://korben.info/veeam-agent-windows-faille-droits-system.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -271,16 +311,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/veeam-agent-windows-faille-droits-system/veeam-agent-windows-faille-droits-system-1.png"
-    },
-    {
-      "id": "6ab6369bbff1dbb43d4738fb54d66c85",
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, ...",
-      "published": "2026-09-23T12:16:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5quc0dmRWhh6WOC80Gx9QoHTMYyq5srnXBXjybOKZk_qoUn1Q2nKLE9MifqCEyRIha_NFvRsyr8Nx5EyxGIREXaTb5Fh59cz4Ln8yZj9Zv7piqM49wmm7rfmchW1cVlss1wn47qNypaYarZUVNHBO8rzXaYTvRMi9u1phgfXVd8OZx8_Vjxm34684BE/s1600/cpanel-0day.jpg"
     },
     {
       "id": "587daf352e06e11217fbc4641cd79832",
@@ -343,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "26f3e35035bfa50db0ee31dc8fc02f00",
-      "title": "Ransomware PAYLOAD : les pirates ont paralysé une entreprise avec deux GPO, sans chiffrer un seul fichier",
-      "link": "https://www.it-connect.fr/ransomware-payload-gpo-active-directory-sans-chiffrement/",
-      "summary": "Le ransomware PAYLOAD a paralysé une entreprise sans chiffrer un fichier : deux GPO liées à la racine du domaine ont suffi. Voici ce qu'il faut retenir. Le post Ransomware PAYLOAD : les pirates ont paralysé une entrep...",
-      "published": "2026-09-22T19:28:07+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "98d40923c9ba92dabec10205f7fdc234",
       "title": "curl.md - Récupérez le texte de n'importe quelle page web au format Markdown",
       "link": "https://korben.info/curl-md-site-en-markdown.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -373,16 +393,6 @@
       "image": "https://korben.info/mighty-resurrection-serveur-prive-mighty-doom/mighty-resurrection-serveur-prive-mighty-doom-1.png"
     },
     {
-      "id": "87bc3463d5889a450c7d8d212c35cd27",
-      "title": "Valve publie Lepton pour jouer à des jeux Android sous Linux",
-      "link": "https://www.it-connect.fr/valve-lepton-jeux-android-linux/",
-      "summary": "Valve publie le code source de Lepton, sa couche de compatibilité pour exécuter des jeux Android sous Linux via Steam. Le post Valve publie Lepton pour jouer à des jeux Android sous Linux a été publié sur IT-Connect.",
-      "published": "2026-09-22T09:28:43+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "75a511d410cfdadfefd0040fbfba1d09",
       "title": "Les mises à jour Windows de septembre ont cassé File History",
       "link": "https://korben.info/windows-update-casse-file-history.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -393,71 +403,31 @@
       "image": "https://korben.info/windows-update-casse-file-history/windows-update-casse-file-history-1.jpg"
     },
     {
-      "id": "af0bf43873cf3807092e9c2222cd052f",
-      "title": "Cliamp - Votre musique + 58 000 radios dans le terminal",
-      "link": "https://korben.info/cliamp-lecteur-musique-terminal-winamp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "cliamp est un lecteur de musique en terminal façon Winamp, avec visualiseur de spectre et égaliseur, qui va chercher le son sur vos disques, vos serveurs Jellyfin ou Navidrome, vos podcasts et les 58 000 webradios de ...",
-      "published": "2026-09-22T08:30:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cliamp-lecteur-musique-terminal-winamp/cliamp-lecteur-musique-terminal-winamp-1.jpg"
-    },
-    {
-      "id": "c041950362e1627e914f709f29f704ae",
-      "title": "Multiples vulnérabilités dans Oracle Virtualization (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1188/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et ...",
-      "published": "2026-09-16T00:00:00+00:00",
+      "id": "19f37f28ae9013e46b5404110e017b60",
+      "title": "Multiples vulnérabilités dans Drupal (17 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1196/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+      "published": "2026-09-17T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "0945ce5d2eaa8632ed7465314c0eb033",
-      "title": "Multiples vulnérabilités dans Docker (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1189/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Docker. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et...",
-      "published": "2026-09-16T00:00:00+00:00",
+      "id": "f039bc39f2bec617d85982a9b6b6bcf0",
+      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dé...",
+      "published": "2026-09-17T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "b30dd36a9ff56223148765f5f0895c82",
-      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1187/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'int...",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "324dcb4d3e971b6a5a55b7ed73efdb86",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1191/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6285bb76574bf918f6f25e301df83965",
-      "title": "Multiples vulnérabilités dans Mattermost Server (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1190/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f9b789d3c592e7a7dba05f7b119e7e2b",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1183/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la...",
-      "published": "2026-09-16T00:00:00+00:00",
+      "id": "da266072cdf3e4d31dd2a0827347cfd4",
+      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
+      "summary": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-09-17T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -467,16 +437,6 @@
       "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
       "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "47dab2c8a01a540fd0d5f646b33332e0",
-      "title": "Multiples vulnérabilités dans Oracle Weblogic (16 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1186/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "published": "2026-09-16T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -498,6 +458,46 @@
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
       "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-586...",
       "published": "2026-07-22T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "195f210ba4b3669f320fd7beba82ff2f",
+      "title": "Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-429/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et u...",
+      "published": "2019-09-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8dae76647346cd1bbbafa6892c97ea63",
+      "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/",
+      "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "published": "2015-07-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "133a92439847345083ced43e6ee02373",
+      "title": "Bulletin d'actualité CERTFR-2015-ACT-006 (09 février 2015)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2015-ACT-006/",
+      "summary": "1 - Rappel des vulnérabilités récentes dans Adobe Flash Player Adobe Flash Player est utilisé principalement par les navigateurs Internet pour afficher du contenu dynamique sur des pages web. Depuis le début de l'anné...",
+      "published": "2015-02-09T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2aeee39374fcb91804e23b7ca8ac325f",
+      "title": "Bulletin d'actualité CERTFR-2014-ACT-004 (24 janvier 2014)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2014-ACT-004/",
+      "summary": "1 - Création du CERT-FR Le 21 janvier 2014, le CERTA a changé de nom pour devenir le CERT-FR (Computer Emergency Response Team - France). Le CERT-FR est le CERT gouvernemental français. Il apporte son soutien en matiè...",
+      "published": "2014-01-24T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
