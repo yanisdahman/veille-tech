@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-25T16:27:22.846511+00:00",
+  "last_updated": "2026-09-25T21:03:33.521874+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "aebbf454a9b7875782564f52af2b90b6",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an un...",
+      "published": "2026-09-25T20:57:55+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b43aa1afdc0d89be8998cd4af1c64287",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+      "published": "2026-09-25T18:13:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "862db1817df8c2ad1e2676a67fcdcb08",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provide...",
+      "published": "2026-09-25T17:24:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3a806247b425d344b6250216182f299d",
+      "title": "Windows 11 26H2 : voici comment télécharger l’image ISO d’évaluation",
+      "link": "https://www.it-connect.fr/windows-11-26h2-iso-evaluation-ekb/",
+      "summary": "Microsoft a publié l'ISO d'évaluation de Windows 11 Entreprise 26H2, disponible en français (90 jours sans clé). L'eKB pour migrer est disponible aussi. Le post Windows 11 26H2 : voici comment télécharger l’image ISO ...",
+      "published": "2026-09-25T16:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "aadf0f44d45026734d5b301deecb29ed",
       "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
@@ -243,26 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg"
     },
     {
-      "id": "cbb516ddbe951e182400895de36e6449",
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-      "published": "2026-09-24T20:53:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1246ccd8d2a7850d56b0c296cc066892",
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-      "published": "2026-09-24T20:10:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6c4077947c8eff6602f141569affdc38",
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
       "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
@@ -281,16 +301,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
-    },
-    {
-      "id": "519156a4160721f3a0abc4dffafeb33a",
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
-      "published": "2026-09-24T17:47:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "3823dfaa1e62ae648331428f2121e04a",
@@ -358,16 +368,6 @@
       "link": "https://www.it-connect.fr/windows-11-mises-a-jour-septembre-2026-always-on-vpn/",
       "summary": "Avec les mises à jour KB5124008 et KB5124012, la connexion Always On VPN peut rester bloquée sur Windows 11. Microsoft propose de forcer SSTP ou IKEv2. Le post Windows 11 : les mises à jour de septembre 2026 cassent l...",
       "published": "2026-09-24T07:07:58+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d323a45eea863abc6ceb2bc902c5db31",
-      "title": "Windows 11 KB5124010 : l’Explorateur de fichiers prévisualise de nouveau les fichiers téléchargés",
-      "link": "https://www.it-connect.fr/windows-11-kb5124010-apercu-fichiers-telecharges-explorateur/",
-      "summary": "La KB5124010 de Windows 11 rétablit l'aperçu des PDF téléchargés dans l'Explorateur de fichiers et apporte d'autres nouveautés : voici l'essentiel à savoir. Le post Windows 11 KB5124010 : l’Explorateur de fichiers pré...",
-      "published": "2026-09-24T06:51:29+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
