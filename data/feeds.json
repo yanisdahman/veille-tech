@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-26T15:42:37.598351+00:00",
+  "last_updated": "2026-09-26T20:36:44.836515+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ff39f222ff72d943ccfd0fcc6039c62e",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitat...",
+      "published": "2026-09-26T19:03:34+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a8d9d3427b007167111f615acd3776fa",
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings...",
+      "published": "2026-09-26T18:22:52+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg"
+    },
+    {
+      "id": "64a7ab971623e9de3e653784e4022492",
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+      "published": "2026-09-26T16:26:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d536e21f7b7466f35b7b306807032a82",
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+      "published": "2026-09-26T15:50:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "3c32ba838ab96825f53dfa66a88c48c1",
       "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
@@ -143,26 +183,6 @@
       "image": ""
     },
     {
-      "id": "31fd5f988db631f6c67e0669d0aa9548",
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-      "published": "2026-09-25T14:54:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bfa69338820ad2885fe13d7e694881fa",
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps crea...",
-      "published": "2026-09-25T14:51:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "916483892ba74ddd063d2160d1a3ce5c",
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
@@ -191,16 +211,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg"
-    },
-    {
-      "id": "27beeda199b225a7d8148767c0c50ee8",
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-      "published": "2026-09-25T12:40:59+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "27c4685c0ea0bb6a458c6ef4b7c5f4ba",
@@ -241,16 +251,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg"
-    },
-    {
-      "id": "af1ae37a83efb09fb64c23ebf40eda32",
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-au...",
-      "published": "2026-09-25T10:14:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
     },
     {
       "id": "5727eb5bd59c89a939536657fee5c422",
