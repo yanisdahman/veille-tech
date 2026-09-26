@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-26T03:23:05.313552+00:00",
+  "last_updated": "2026-09-26T10:45:42.948720+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "40ca30546fb34235a3689d52f4255cb0",
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control...",
+      "published": "2026-09-26T09:55:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg"
+    },
+    {
+      "id": "9715c431c60746ba216fc3e68104eedb",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evi...",
+      "published": "2026-09-26T08:49:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg"
+    },
+    {
+      "id": "6bb1fe42e1830d66d8b205dd19151f36",
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks...",
+      "published": "2026-09-26T07:48:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg"
+    },
+    {
+      "id": "19942c28aa94e49aaa1975b2c31893a2",
+      "title": "Après MDT, Microsoft lâche WDS : le rôle sera déprécié dans le prochain Windows Server",
+      "link": "https://www.it-connect.fr/microsoft-deprecie-wds-windows-server/",
+      "summary": "Microsoft va déprécier le rôle WDS dès la prochaine version de Windows Server. Périmètre, calendrier et alternatives : voici ce que les admins doivent savoir. Le post Après MDT, Microsoft lâche WDS : le rôle sera dépr...",
+      "published": "2026-09-26T06:53:27+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "f60b9ca9b62d8766229775d846339b21",
       "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
@@ -283,26 +323,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg"
     },
     {
-      "id": "6c4077947c8eff6602f141569affdc38",
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain...",
-      "published": "2026-09-24T18:10:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
-    },
-    {
-      "id": "096411fb5e4b65be4738b4c4c8c9b347",
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the...",
-      "published": "2026-09-24T17:52:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
-    },
-    {
       "id": "3823dfaa1e62ae648331428f2121e04a",
       "title": "Veeam Agent pour Windows : la faille CVE-2026-32996 offre les privilèges SYSTEM, un exploit est public",
       "link": "https://www.it-connect.fr/veeam-agent-windows-faille-cve-2026-32996-privileges-system/",
@@ -321,16 +341,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "75c268ef6037c6882e479b0b3d7c5d9d",
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been...",
-      "published": "2026-09-24T15:27:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
     },
     {
       "id": "a1f196677058425db3815b2cd64add93",
@@ -358,16 +368,6 @@
       "link": "https://www.it-connect.fr/discord-verification-age-sans-piece-identite-selfie/",
       "summary": "Discord classe désormais ses utilisateurs par tranche d'âge sans pièce d'identité ni selfie pour plus de 90 % d'entre eux. Voici comment ça fonctionne. Le post Discord déploie la vérification de l’âge sans pièce d’ide...",
       "published": "2026-09-24T07:34:30+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f49f2b7fb0253acdab90301815b67360",
-      "title": "Windows 11 : les mises à jour de septembre 2026 cassent le VPN Always On",
-      "link": "https://www.it-connect.fr/windows-11-mises-a-jour-septembre-2026-always-on-vpn/",
-      "summary": "Avec les mises à jour KB5124008 et KB5124012, la connexion Always On VPN peut rester bloquée sur Windows 11. Microsoft propose de forcer SSTP ou IKEv2. Le post Windows 11 : les mises à jour de septembre 2026 cassent l...",
-      "published": "2026-09-24T07:07:58+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
