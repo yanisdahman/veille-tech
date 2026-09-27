@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-27T16:20:37.326752+00:00",
+  "last_updated": "2026-09-27T20:49:42.597741+00:00",
   "count": 50,
   "articles": [
     {
       "id": "82b35445d51915d7e7349398b07039aa",
-      "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "summary": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ah...",
+      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the...",
       "published": "2026-09-27T16:02:37+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
@@ -36,7 +36,7 @@
       "id": "41c656f86bde4b6d6fa8fe83ab6ab021",
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September ...",
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six...",
       "published": "2026-09-27T07:47:57+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
