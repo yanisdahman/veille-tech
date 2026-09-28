@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-27T20:49:42.597741+00:00",
+  "last_updated": "2026-09-28T03:29:20.055735+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "cc73e76ea2eb414b103d8c8d76b52d38",
+      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+      "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+      "published": "2026-09-27T23:40:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "82b35445d51915d7e7349398b07039aa",
       "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
@@ -168,16 +178,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
       "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially immine...",
       "published": "2026-09-25T21:41:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "aebbf454a9b7875782564f52af2b90b6",
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an un...",
-      "published": "2026-09-25T20:57:55+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
