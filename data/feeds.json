@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-09-30T03:51:22.241113+00:00",
+  "last_updated": "2026-09-30T11:52:24.743919+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "634c3928552be2dd799e773b051833fd",
+      "title": "Forensic Windows – Partie 14 : explorer les Shadow Copies (VSS)",
+      "link": "https://www.it-connect.fr/forensic-windows-shadow-copies-vss/",
+      "summary": "Exploitez les Shadow Copies (VSS) en forensic Windows : inventaire avec vssadmin, accès via mklink, extraction avec ShadowCopyView, avec un exemple concret. Le post Forensic Windows – Partie 14 : explorer les Shadow C...",
+      "published": "2026-09-30T11:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2ef8e65ce6a5cba72a03994e1b185943",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images...",
+      "published": "2026-09-30T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbuWmNSxYv66udOpYi9NRKukBSDiTroF54tDrBaVYBBTfDC7PMMr26tRoFatdmmRPsPy3MCdoUNLr8YN9mC2ni3pvDWfBNsoKz12evoNrZggcUI4izEc7-hEAr_2wFv4IInBnon19PcEPSXlJU-AMahLHFNAk_5FiVbV7EhfdiLKHcUc8Tiso63xca2c/s1600/git-images.jpg"
+    },
+    {
+      "id": "148a19fc8ea23d95e65895a90988e092",
+      "title": "Cyberattaque DGFiP de l’été 2026 : ce que révèle le rapport de l’ANSSI",
+      "link": "https://www.it-connect.fr/rapport-anssi-cyberattaque-dgfip/",
+      "summary": "L'ANSSI a publié son rapport sur la cyberattaque de la DGFiP, entre identifiants volés par des infostealers, absence de MFA et exfiltrations jamais détectées. Le post Cyberattaque DGFiP de l’été 2026 : ce que révèle l...",
+      "published": "2026-09-30T11:27:59+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a57e6bd448d5bf9a14687819f42d1cd6",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "published": "2026-09-30T11:11:46+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7ec4d141198f6547e11c1b9ec4f98b36",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations ...",
+      "published": "2026-09-30T10:45:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fq_zpvT8d0bG8IIotVRgIHIXCNOTPBhfIBUIWxLlg1X4bDmzf0PRgt_0UaHhvTIznPU4nOCCuLJ6JbJ3Tx22FPY2Ox93L_HNhA7XjQEvOcsXfw3NIixeGcy9DywlAx_SuEhCM6DRjgP3NBQrdHnJrFOCEFHFR8bFyF4YFWYtYEuPbG7kvWrgAsotLWI/s1600/rmm.jpg"
+    },
+    {
+      "id": "dcacc3edde917d1f81875fd87e9b00e8",
+      "title": "HaloBattery - Suivez le niveau de batterie de tous vos périphériques",
+      "link": "https://korben.info/halobattery-batterie-peripheriques-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "HaloBattery affiche dans la zone de notification de Windows le niveau de batterie de chaque souris, casque ou manette, dongles 2,4 GHz compris, sans logiciel constructeur. L'exe n'est pas signé et Defender l'a déjà si...",
+      "published": "2026-09-30T09:55:13+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/halobattery-batterie-peripheriques-windows/halobattery-batterie-peripheriques-windows-1.png"
+    },
+    {
+      "id": "e51ef43c12d2a6a71023e800bfed4a95",
+      "title": "Comment la douane allemande arrive à lire les messages Signal, Whatsapp et Telegram",
+      "link": "https://korben.info/police-allemande-appareil-lie-whatsapp-signal.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La douane allemande lit WhatsApp, Signal et Telegram en liant un ordinateur au compte de la cible. Ce que la justice en dit, et ce que vous pouvez vérifier.",
+      "published": "2026-09-30T08:36:55+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/police-allemande-appareil-lie-whatsapp-signal/police-allemande-appareil-lie-whatsapp-signal-1.png"
+    },
+    {
+      "id": "00ee02ecdda7d1dc31765f07bc8864b8",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by...",
+      "published": "2026-09-30T08:24:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjeU_A9ijIuOqFirHL74nU4k_HktRhcj5hx3goc6SfQKIeG9XA_GpZaZQVpCdUYbho_gZT4LoB-MjNJO0FZrV3q6MxXoUzg8bdbHmr2r-8rKxP1_XCMUVKq3IntFoR4aFFSdDPyBQI4Z1-jn8uNaWn4c4ohpPflBYx8M0GPFnAVziUo3Mtap0fzBBU9f_/s1600/citrix-shell.jpg"
+    },
+    {
+      "id": "2b7e7ccce8a221b5fca44c22dd9e00e0",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a h...",
+      "published": "2026-09-30T08:09:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Po53IuyRAhsYzbs5KKPp_UBpklONBiOzoLWgXrklvrgDn5xnpjuRjU8UYoyLuImSmiPtOHQK3ExgQk5zhxlqsAcUmTLRFowkQXzan2RD955Gw-sumsvmwzLBTViUBRhyphenhyphenHCnETV23Qbt01RwaovTe1ogMeMYDSGxmF5n84NKZOB3EiWz6VAHUlfDm5YE/s1600/openssl-memory.jpg"
+    },
+    {
+      "id": "64a0489ce11ea7433e3fff3722609337",
+      "title": "SlopTotal - Un détecteur de texte IA à installer chez vous",
+      "link": "https://korben.info/sloptotal-detecteur-texte-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "SlopTotal réunit 23 détecteurs de texte IA dans un service qui tourne chez vous, mais le docker run du README échoue sur un Mac Apple Silicon : il faut passer par un docker compose. Sur 36 textes testés, son verdict s...",
+      "published": "2026-09-30T07:45:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/sloptotal-detecteur-texte-ia-local/sloptotal-detecteur-texte-ia-local-1.png"
+    },
+    {
+      "id": "8491d1953536b19d31d21427ecea7ad5",
+      "title": "5 minutes pour voler le hash du mot de passe root sous Linux avec BTR, une variante de Spectre v2",
+      "link": "https://www.it-connect.fr/spectre-v2-btr-linux-hash-mot-de-passe-root/",
+      "summary": "Nouvelle variante de Spectre v2, l'attaque BTR vise les moteurs JIT et vole le hash du mot de passe root sous Linux en 3 à 5 minutes. Comment se protéger ? Le post 5 minutes pour voler le hash du mot de passe root sou...",
+      "published": "2026-09-30T06:53:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5ff283d3997c71e58745912f2aa8fb06",
+      "title": "Apple a corrigé une faille CoreGraphics exploitée pour cibler des utilisateurs d’iPhone (CVE-2026-86950)",
+      "link": "https://www.it-connect.fr/apple-cve-2026-86950-faille-zero-day-coregraphics/",
+      "summary": "Apple a corrigé la CVE-2026-86950, une faille zero-day dans CoreGraphics possiblement exploitée contre des iPhone. Voici les mises à jour à installer d'urgence. Le post Apple a corrigé une faille CoreGraphics exploité...",
+      "published": "2026-09-30T06:23:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0cdec5258e1a002ad242589f99b7afa2",
+      "title": "Signal : les sauvegardes locales chiffrées, sur disque ou NAS, arrivent sur iPhone, Windows, macOS et Linux",
+      "link": "https://www.it-connect.fr/signal-sauvegardes-locales-iphone-desktop/",
+      "summary": "Signal 8.30 apporte les sauvegardes locales chiffrées sur iPhone et ordinateur. Disque externe, NAS : ce qu'il faut savoir à propos de ces évolutions. Le post Signal : les sauvegardes locales chiffrées, sur disque ou ...",
+      "published": "2026-09-30T06:09:28+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b6c4fad3b33a31f7bff7e1e7192089b1",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, track...",
+      "published": "2026-09-30T05:30:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg"
+    },
+    {
+      "id": "7c738203e2bbe7d4827c6f1125b10ab5",
+      "title": "Exodium - Les jeux DOS d'eXo enfin jouables sur Mac",
+      "link": "https://korben.info/exodium-lanceur-exodos-linux-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Exodium fait tourner les collections eXo (DOS, Windows 3.x et 9x, ScummVM) sur un Mac Apple Silicon, où eXo ne tourne pas officiellement, et sur Linux. Pas besoin de télécharger la collection d'avance : chaque jeu arr...",
+      "published": "2026-09-30T05:18:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/exodium-lanceur-exodos-linux-macos/exodium-lanceur-exodos-linux-macos-1.png"
+    },
+    {
+      "id": "0bd651f23537c2407ff1ceee40bd047a",
+      "title": "Windows 11 26H2 est disponible : nouveautés, support et installation",
+      "link": "https://www.it-connect.fr/windows-11-26h2-disponible-mise-a-jour-2026/",
+      "summary": "Windows 11 26H2 est disponible via un enablement package : peu de nouveautés, mais un support remis à zéro et des changements par défaut en entreprise. Le post Windows 11 26H2 est disponible : nouveautés, support et i...",
+      "published": "2026-09-30T05:16:55+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "6bf6789a40356205085d3271e9fff830",
       "title": "Microsoft is rolling out Linux container support to WSL",
@@ -143,16 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
     },
     {
-      "id": "12c2e861d366501a12ec22ef23e8e0c4",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigat...",
-      "published": "2026-09-29T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "34d32e961a496967c415bfe684601840",
       "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
       "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
@@ -213,16 +363,6 @@
       "image": "https://korben.info/super-mario-64-snes-super-fx/super-mario-64-snes-super-fx-1.jpg"
     },
     {
-      "id": "3b17e336a567de66bd2a3b0aa2c34bfa",
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investiga...",
-      "published": "2026-09-29T08:35:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWsGNpV8Y5_YLcyxRYju8E3caiN3I3Zttrlvxhz5iXfzVIR_Ayp_d_Zn2Wk12ZBkz5nW4eYfKeEs-xxs9kYuS_paAwO3wJleeUxdMRbrbU_lXwWVuG7ajiFH0UOEcoj3almps5b54DXt-mGy73GhXjCQzGsNNDJkhdfJXRI9XWeFF5hfsr4zjQty-Wued5/s1600/1000111943.jpg"
-    },
-    {
       "id": "c39ac8eb92502f7c8cc18b687cd2c1fe",
       "title": "Ubuntu : face à l’explosion des failles, Canonical va publier un nouveau noyau chaque semaine",
       "link": "https://www.it-connect.fr/ubuntu-noyau-linux-chaque-semaine-cve-ia/",
@@ -243,16 +383,6 @@
       "image": "https://korben.info/pipepipe-fork-newpipe-youtube-android/pipepipe-fork-newpipe-youtube-android-1.png"
     },
     {
-      "id": "7a8f58b5339cd89ef0f0b387d8a7d83b",
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Af...",
-      "published": "2026-09-29T06:08:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N5owhsoQXHTQV74afwfngdyitjwcW37BHLX2QKkq6xZAxP8_AOXAh1ODPj5DyvvmMUq3mKH9eR2B1r7owc6djzLViK2U4BY_hw3rTWmaHjhFEyyh8LPlUMPZ7MdWkqN7bjtQyMByBLrsI5m0mAU9y-IbrsAe9OPhZXHN63AWwuv_1OB5MSrpRdVZ9CM/s1600/mcp-python.jpg"
-    },
-    {
       "id": "f65b334214c65c542c0f13714833e693",
       "title": "PS5 - Streamer sur Discord sans carte d'acquisition",
       "link": "https://korben.info/ps5-streamer-sur-discord-sans-carte-acquisition.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -263,16 +393,6 @@
       "image": "https://korben.info/ps5-streamer-sur-discord-sans-carte-acquisition/ps5-streamer-sur-discord-sans-carte-acquisition-1.png"
     },
     {
-      "id": "9b0af637774cb05af624e61b69d2a3c0",
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The developme...",
-      "published": "2026-09-29T05:12:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg"
-    },
-    {
       "id": "b820a108f05ed6ad30dce94e3408aef8",
       "title": "Firefox 157 : Mozilla active Nova, la plus grosse refonte visuelle du navigateur depuis des années",
       "link": "https://www.it-connect.fr/firefox-157-nova-refonte-interface/",
@@ -281,126 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "538de17fa109360d3b9cd1a70284e166",
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its inte...",
-      "published": "2026-09-29T04:45:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfY2zvkkU95qQwwR7N_yQQf_H2AjYcXccbK2yH7xzzeAqmu3mH9ItszzC14M2suvDnfz6EBB-QzMkCTUBIgaoX9teGfhmBIBvU9R-wsKQBcC90f5lytvP-hYfCy8o-YTDTh8rIqz8mj1NIikN27BE2vsWyaRgiKPeAe3zbmrkdy6Dkg8htztnoyJwS4o/s1600/openai-chatbot.jpg"
-    },
-    {
-      "id": "a3e09de1bae30c37454d64bb0a58714f",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers...",
-      "published": "2026-09-28T19:18:01+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg"
-    },
-    {
-      "id": "ce9a6534c1b0e3ca1b0ce5119e7a303b",
-      "title": "Faille Microsoft : un jeton JWT non signé donnait un accès admin à 17 300 milliards de lignes",
-      "link": "https://www.it-connect.fr/microsoft-titan-faille-jwt-sans-signature/",
-      "summary": "Un chercheur de 16 ans a obtenu un accès admin à Titan, un service d'analyse interne de Microsoft, grâce à une faille liée à un jeton JWT non signé. Le post Faille Microsoft : un jeton JWT non signé donnait un accès a...",
-      "published": "2026-09-28T17:48:32+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6afe57987889fef313725d2315943e99",
-      "title": "TMOG 1.0 : le créateur du Gestionnaire des tâches lance son outil pour Windows, macOS et Linux",
-      "link": "https://www.it-connect.fr/tmog-gestionnaire-taches-windows-linux-dave-plummer/",
-      "summary": "Dave Plummer, auteur du Gestionnaire des tâches de Windows, lance TMOG 1.0 sur Windows 11, Linux et Mac. Voici un premier aperçu de cet outil. Le post TMOG 1.0 : le créateur du Gestionnaire des tâches lance son outil ...",
-      "published": "2026-09-28T14:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "beaf3dc6c61df2d250a42fe80e5a29c0",
-      "title": "Claude Marketplace : Anthropic réunit plus de 2 000 connecteurs et plugins au même endroit",
-      "link": "https://www.it-connect.fr/claude-marketplace-connecteurs-plugins-agents/",
-      "summary": "Plus de 2 000 connecteurs et plugins, des agents IA et des intégrateurs réunis au même endroit : Anthropic lance la Claude Marketplace. Pour qui ? Pourquoi ? Le post Claude Marketplace : Anthropic réunit plus de 2 000...",
-      "published": "2026-09-28T12:47:25+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f1c1f634bd1237cd22beda9edcc4c7b3",
-      "title": "Vente d’automne GoDeal24 : Office 2024 Pro Plus et Windows 11 Pro à vie dès 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-des-promos-sur-les-licences-office-2021-windows-10-et-windows-11/",
-      "summary": "Notre partenaire GoDeal24 propose une nouvelle vente flash avec des prix très intéressants sur les licences Windows 11, Office 2024 et même Windows 10 LTSC. Le post Vente d’automne GoDeal24 : Office 2024 Pro Plus et W...",
-      "published": "2026-09-28T12:30:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9b05c731e808e5a6b2f65afd0e3f9ac7",
-      "title": "ArseneLupin - Le JEV Like d'Ibou qui décide au lieu de bavarder",
-      "link": "https://korben.info/arsenelupin-modele-de-decision-local-ibou.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Ibou publie ArseneLupin, trois modèles ouverts qui répondent à vos questions par oui, non, un choix ou une note, avec des probabilités, sur la même forme de requête que Jev. Installation sur Mac, tri de veille et modé...",
-      "published": "2026-09-28T10:54:38+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/arsenelupin-modele-de-decision-local-ibou/arsenelupin-modele-de-decision-local-ibou-1.png"
-    },
-    {
-      "id": "b4582e8584ebf3dd06e4f8d4222db0bc",
-      "title": "Paperasse - Des skills IA pour votre compta et vos impôts",
-      "link": "https://korben.info/paperasse-skills-ia-comptabilite-francaise.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Paperasse transforme Claude Code, Codex ou Cursor en expert-comptable, fiscaliste ou notaire. Testé sur une société et un foyer fictifs, il catégorise un relevé, refuse une facture incomplète et compare PFU et barème....",
-      "published": "2026-09-28T09:26:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/paperasse-skills-ia-comptabilite-francaise/paperasse-skills-ia-comptabilite-francaise-1.jpg"
-    },
-    {
-      "id": "63e3f631fb238182822e194b9900bc90",
-      "title": "Votre vieux Nokia 6300 sait maintenant parler à Claude",
-      "link": "https://korben.info/claude-s40-nokia-6300.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Claude S40 fait discuter un Nokia 6300 de 2007 avec Claude, recherche web comprise, grâce à un petit serveur Go que vous hébergez vous-même avec votre propre autorité de certification. Chaque message est facturé sur v...",
-      "published": "2026-09-28T08:42:04+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/claude-s40-nokia-6300/claude-s40-nokia-6300-1.jpg"
-    },
-    {
-      "id": "8a0018675974cc87c89870ec516e5dcf",
-      "title": "« Éteignez vos NetScaler » : Citrix confirme 2 failles zero-day critiques déjà exploitées",
-      "link": "https://www.it-connect.fr/citrix-netscaler-cve-2026-88771-cve-2026-88772-zero-day-exploitees/",
-      "summary": "Citrix confirme l'exploitation de deux nouvelles failles zero-day critiques dans NetScaler ADC et Gateway. Voici les versions à installer pour se protéger. Le post « Éteignez vos NetScaler » : Citrix confirme 2 faille...",
-      "published": "2026-09-28T08:09:04+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "29df354d2834b3788edd267a82694bcb",
-      "title": "OVHcloud confirme OVHai Workspace, son alternative à Microsoft 365 dopée à l’IA",
-      "link": "https://www.it-connect.fr/ovhcloud-ovhai-workspace-alternative-microsoft-365/",
-      "summary": "Mail, drive, visio, chat et IA : Octave Klaba confirme l'arrivée d'OVHai Workspace, l'alternative d'OVHcloud à Microsoft 365. Voici ce que l'on sait. Le post OVHcloud confirme OVHai Workspace, son alternative à Micros...",
-      "published": "2026-09-28T07:50:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9fdae69dccab0e91a009ba5d27486f61",
-      "title": "Top Gun à Landivisiau",
-      "link": "https://korben.info/top-gun-made-in-france-landivisiau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Après Iron Man cet été, Un odieux connard sort une fausse bande-annonce de Top Gun à la française : les meilleurs pilotes américains partent en échange à Landivisiau, et la mission impossible consiste à poster une let...",
-      "published": "2026-09-25T11:10:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/top-gun-made-in-france-landivisiau/top-gun-made-in-france-landivisiau-1.jpg"
     },
     {
       "id": "a1af20a14e8d7496ec9f2c9ca2564b03",
@@ -433,11 +433,11 @@
       "image": ""
     },
     {
-      "id": "bc130bbf48b578f43226916046e9e502",
-      "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-09-18T00:00:00+00:00",
+      "id": "19000d155be5b64ce27d1f14715941e9",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-09-21T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
