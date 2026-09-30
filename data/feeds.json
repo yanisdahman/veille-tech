@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-09-30T11:52:24.743919+00:00",
+  "last_updated": "2026-09-30T17:33:25.022033+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "406e52c0a9028496c597b9b581a4ef4a",
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "published": "2026-09-30T15:49:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "92d2cf5792eb4adb939b3305536e51fe",
+      "title": "Test de la batterie externe Ugreen MagFlow Pro avec son refroidissement liquide visible",
+      "link": "https://korben.info/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "– Contient des liens affiliés Amazon – Je teste depuis quelques jours la dernière batterie externe MagFlow Pro , qui, en plus d'être très efficace, et franchement rigolote. Pourquoi ? Et bien elle donne envie de regar...",
+      "published": "2026-09-30T15:27:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible-1.jpg"
+    },
+    {
+      "id": "733046bdceaf80980ec7677c91131ec7",
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-765...",
+      "published": "2026-09-30T15:24:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg"
+    },
+    {
+      "id": "2ff90c774a8f83e9fce0fd0ab5bf0ecc",
+      "title": "OpenAI lance dots, l’agent IA qui travaille même quand vous dormez",
+      "link": "https://www.it-connect.fr/openai-dots-agents-ia-toujours-actifs/",
+      "summary": "OpenAI lance dots, des agents IA toujours actifs dotés de leur propre ordinateur dans le cloud. Disponibilité, garde-fous, Agent 365 : voici l'essentiel. Le post OpenAI lance dots, l’agent IA qui travaille même quand ...",
+      "published": "2026-09-30T15:24:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "993f6a9886226b917d20b014a58d17dc",
+      "title": "Relapse - Le jailbreak qui libère presque toutes les PS5",
+      "link": "https://korben.info/ps5-jailbreak-relapse.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "L'exploit Relapse débloque l'homebrew sur les PS5 restées en firmware 7.00 à 13.60, mais l'accès reste volatile et déjà refermé sur la 14.00.",
+      "published": "2026-09-30T15:02:14+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ps5-jailbreak-relapse/ps5-jailbreak-relapse-1.png"
+    },
+    {
+      "id": "4f42cd6621e55fb37c3803dee5ff9135",
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed...",
+      "published": "2026-09-30T15:00:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg"
+    },
+    {
+      "id": "139f0878f3c6cd153793d7f72acd4ffa",
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "published": "2026-09-30T14:46:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "541ef3eb08dc49adbcbad53ae0cd5bc5",
+      "title": "Microsoft Learn : la plupart des dépôts GitHub de documentation vont fermer d’ici fin 2026",
+      "link": "https://www.it-connect.fr/microsoft-learn-fermeture-depots-github-documentation/",
+      "summary": "Microsoft Learn va retirer la plupart de ses dépôts GitHub publics de documentation d'ici fin 2026. Les corrections via pull request vont disparaître. Dommage. Le post Microsoft Learn : la plupart des dépôts GitHub de...",
+      "published": "2026-09-30T14:42:24+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "88b120dd4e690642686d2dfa7217a8e1",
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identit...",
+      "published": "2026-09-30T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "06e2c4a02738e7a65d8c2e8f45526e81",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+      "published": "2026-09-30T13:37:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "73daeef06e6bf6613ebb5915af318cb7",
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
+      "published": "2026-09-30T12:25:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4d36c718416b6da3c640b714439555ef",
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire att...",
+      "published": "2026-09-30T11:58:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHy63Qp6WLBgRhCGaWARbZzjcdu6DhFo9JxZXTE9Rt4B42ImiW_cB0Fdq2yV_HYiZohMmVMRxTu1DxcbiOE9GNu4lAF2HZZ61QiCrWSEKGJFjEt5E5pKpXhjGK9DsZrqTxHFqF2IIaToRSTItghSELEiA_kgTP69_iOwbHdT35ht3yLCqIiNb5ysgDeuM/s1600/push-phish.jpg"
+    },
     {
       "id": "634c3928552be2dd799e773b051833fd",
       "title": "Forensic Windows – Partie 14 : explorer les Shadow Copies (VSS)",
@@ -203,26 +323,6 @@
       "image": ""
     },
     {
-      "id": "3e448ae9e7c683ce26813b50dec24062",
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
-      "published": "2026-09-29T18:37:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8c1b3f4d55d37a1afa7c228d583f4785",
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
-      "published": "2026-09-29T18:09:39+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "9633066a6d167f031bad983d49225657",
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
@@ -231,16 +331,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
-    },
-    {
-      "id": "73fc67fccb8b2ef5ff3d72b0796bcfae",
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
-      "published": "2026-09-29T17:37:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "7fa9ff1948250db15778facb8427ccd4",
@@ -253,26 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
     },
     {
-      "id": "13123f514623c0badb95260a1b927228",
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and org...",
-      "published": "2026-09-29T17:20:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
-    },
-    {
-      "id": "5343bf94e6950e9cffb6d5fb3ea801b6",
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "published": "2026-09-29T17:10:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "fd78aa5d32a7bdd7d29ef5c8fcfc4fcf",
       "title": "Wi-Fi 7 en pratique : ce qui bride vraiment votre débit",
       "link": "https://www.it-connect.fr/wifi-7-pratique-debit-tp-link-omada/",
@@ -281,36 +351,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "5a820bcf9ca6de76d1d331c563c533f0",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "published": "2026-09-29T15:39:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "39316ce0d57f943874520a8a9ef00737",
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutd...",
-      "published": "2026-09-29T14:13:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
-    },
-    {
-      "id": "34d32e961a496967c415bfe684601840",
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsAp...",
-      "published": "2026-09-29T13:45:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg"
     },
     {
       "id": "cdd06d8161527c7f19397855b54f7e89",
@@ -363,91 +403,51 @@
       "image": "https://korben.info/super-mario-64-snes-super-fx/super-mario-64-snes-super-fx-1.jpg"
     },
     {
-      "id": "c39ac8eb92502f7c8cc18b687cd2c1fe",
-      "title": "Ubuntu : face à l’explosion des failles, Canonical va publier un nouveau noyau chaque semaine",
-      "link": "https://www.it-connect.fr/ubuntu-noyau-linux-chaque-semaine-cve-ia/",
-      "summary": "Submergé par les CVE découvertes grâce à l'IA, Canonical abandonne le cycle 4/2 : Ubuntu recevra un nouveau noyau chaque semaine à partir de fin octobre 2026. Le post Ubuntu : face à l’explosion des failles, Canonical...",
-      "published": "2026-09-29T07:27:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d500cf761eb37ff5c8b877477d7704f7",
-      "title": "PipePipe - Un fork de NewPipe qui zappe les pubs",
-      "link": "https://korben.info/pipepipe-fork-newpipe-youtube-android.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "PipePipe, un fork de NewPipe pour Android, intègre SponsorBlock pour sauter les passages sponsorisés, ce que NewPipe refuse, ainsi que le compteur de pouces baissés et le filtrage des Shorts. Si votre DNS bloque googl...",
-      "published": "2026-09-29T07:06:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pipepipe-fork-newpipe-youtube-android/pipepipe-fork-newpipe-youtube-android-1.png"
-    },
-    {
-      "id": "f65b334214c65c542c0f13714833e693",
-      "title": "PS5 - Streamer sur Discord sans carte d'acquisition",
-      "link": "https://korben.info/ps5-streamer-sur-discord-sans-carte-acquisition.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Yash Garg fait croire à sa PS5 que son Mac est le serveur de Twitch : un DNS maison détourne le flux vidéo de la console vers son ordinateur, qui le passe sur Discord sans carte d'acquisition. L'astuce ne marche pas a...",
-      "published": "2026-09-29T05:44:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ps5-streamer-sur-discord-sans-carte-acquisition/ps5-streamer-sur-discord-sans-carte-acquisition-1.png"
-    },
-    {
-      "id": "b820a108f05ed6ad30dce94e3408aef8",
-      "title": "Firefox 157 : Mozilla active Nova, la plus grosse refonte visuelle du navigateur depuis des années",
-      "link": "https://www.it-connect.fr/firefox-157-nova-refonte-interface/",
-      "summary": "Firefox 157 intègre Nova, la plus grosse refonte visuelle du navigateur depuis des années : interface, thèmes, mode compact. Voici ce qui change. Le post Firefox 157 : Mozilla active Nova, la plus grosse refonte visue...",
-      "published": "2026-09-29T05:08:50+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a1af20a14e8d7496ec9f2c9ca2564b03",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-040 (21 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-040/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-09-21T00:00:00+00:00",
+      "id": "d18b6aa2220487c3a73e29d32c129f1b",
+      "title": "Multiples vulnérabilités dans Apache Tomcat (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1218/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournem...",
+      "published": "2026-09-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "3f479bfe2dfd117e534c4a82b1c170cb",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-09-21T00:00:00+00:00",
+      "id": "9600dbf12f8ac5f5c894ffb1e28741d1",
+      "title": "Multiples vulnérabilités dans les produits FoxIT (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1214/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à l...",
+      "published": "2026-09-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "197610247dcb9eb8e746688eb1d7d7b1",
-      "title": "Multiples vulnérabilités dans Synology DSM (21 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1209/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une attei...",
-      "published": "2026-09-21T00:00:00+00:00",
+      "id": "c7de3993379953f9e714e617b034ccfe",
+      "title": "Multiples vulnérabilités dans SolarWinds Observability Self-Hosted (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1215/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Observability Self-Hosted. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-09-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "19000d155be5b64ce27d1f14715941e9",
-      "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-09-21T00:00:00+00:00",
+      "id": "5100cad567281e7604b0ddebb4950bdd",
+      "title": "Vulnérabilité dans WordPress (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1216/",
+      "summary": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-09-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "7d565f834f35e62d4d9e5b9e81612399",
-      "title": "Multiples vulnérabilités dans Microsoft Sharepoint (22 juillet 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
-      "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-586...",
-      "published": "2026-07-22T00:00:00+00:00",
+      "id": "f77db312bfbd6e366a5f6d7689db00f0",
+      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/",
+      "summary": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-09-22T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
