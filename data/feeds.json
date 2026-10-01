@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-10-01T12:22:37.958221+00:00",
+  "last_updated": "2026-10-01T22:18:41.516499+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0c169a818fc4da8231bb8b19d79031ff",
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+      "published": "2026-10-01T20:52:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6aebd76eb7c35834e434cca3f69441e9",
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity ...",
+      "published": "2026-10-01T19:32:47+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "122475ca3388e89d70f60773f2cb3576",
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unl...",
+      "published": "2026-10-01T16:55:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg"
+    },
+    {
+      "id": "e54a9ba81d4f67fcd38f8b0c235cc062",
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code....",
+      "published": "2026-10-01T16:45:38+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg"
+    },
+    {
+      "id": "47e9736221c65b12f48d3cf5500e8d77",
+      "title": "Stockage S3 souverain en France : comment créer des sauvegardes Veeam immuables avec Leviia Storag3",
+      "link": "https://www.it-connect.fr/leviia-storag3-sauvegardes-immuables-s3/",
+      "summary": "Leviia Storag3 propose un stockage S3 où les données sont stockées en France : découvrez comment l'utiliser pour stocker vos sauvegardes immuables Veeam Backup. Le post Stockage S3 souverain en France : comment créer ...",
+      "published": "2026-10-01T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bd7e7f930c5a81f76b16b40e28b4f009",
+      "title": "AirCard - Relookez vos cartes bancaires dans Apple Pay",
+      "link": "https://korben.info/aircard-personnaliser-cartes-apple-wallet-iphone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "AirCard remplace le visuel d'une carte dans Apple Wallet depuis un Mac relié en USB, sans jailbreak, grâce à la faille AirLift. Le tuto déroule l'installation, le scan, le flash et les limites : en version 1.2.5, aucu...",
+      "published": "2026-10-01T15:28:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/aircard-personnaliser-cartes-apple-wallet-iphone/aircard-personnaliser-cartes-apple-wallet-iphone-1.png"
+    },
+    {
+      "id": "2cf5d4adff60f7a3749e93c1990a024b",
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site aga...",
+      "published": "2026-10-01T14:37:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
+    },
+    {
+      "id": "0f9d08794b99d32d48a079e5458c436d",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged admin...",
+      "published": "2026-10-01T14:25:14+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b66247c23bc8b1574235594dfad265db",
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should b...",
+      "published": "2026-10-01T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7557dee42d66df201f6d23866fc84ad0",
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+      "published": "2026-10-01T13:51:08+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "682efa7542698276f2ed9d0d8356359c",
       "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
@@ -153,16 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg"
     },
     {
-      "id": "28cb2fef0de81673be5e33e367957949",
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. Level...",
-      "published": "2026-10-01T04:35:34+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg"
-    },
-    {
       "id": "caf3813a8d95e6668358752489cbc753",
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
@@ -178,46 +268,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
       "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
       "published": "2026-09-30T19:49:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7f7376d3eaeb01e2b53c80b2b70c5514",
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-      "published": "2026-09-30T18:08:34+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "dee2877c85ad2bde171121a0c0619a4a",
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack e...",
-      "published": "2026-09-30T16:46:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg"
-    },
-    {
-      "id": "6893e432ed657c690d12ad9be2a0a030",
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, an...",
-      "published": "2026-09-30T16:32:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg"
-    },
-    {
-      "id": "406e52c0a9028496c597b9b581a4ef4a",
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-      "published": "2026-09-30T15:49:29+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -253,16 +303,6 @@
       "image": "https://korben.info/ps5-jailbreak-relapse/ps5-jailbreak-relapse-1.png"
     },
     {
-      "id": "139f0878f3c6cd153793d7f72acd4ffa",
-      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-      "published": "2026-09-30T14:46:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "541ef3eb08dc49adbcbad53ae0cd5bc5",
       "title": "Microsoft Learn : la plupart des dépôts GitHub de documentation vont fermer d’ici fin 2026",
       "link": "https://www.it-connect.fr/microsoft-learn-fermeture-depots-github-documentation/",
@@ -270,26 +310,6 @@
       "published": "2026-09-30T14:42:24+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "88b120dd4e690642686d2dfa7217a8e1",
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identit...",
-      "published": "2026-09-30T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "06e2c4a02738e7a65d8c2e8f45526e81",
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "published": "2026-09-30T13:37:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -353,16 +373,6 @@
       "image": ""
     },
     {
-      "id": "5ff283d3997c71e58745912f2aa8fb06",
-      "title": "Apple a corrigé une faille CoreGraphics exploitée pour cibler des utilisateurs d’iPhone (CVE-2026-86950)",
-      "link": "https://www.it-connect.fr/apple-cve-2026-86950-faille-zero-day-coregraphics/",
-      "summary": "Apple a corrigé la CVE-2026-86950, une faille zero-day dans CoreGraphics possiblement exploitée contre des iPhone. Voici les mises à jour à installer d'urgence. Le post Apple a corrigé une faille CoreGraphics exploité...",
-      "published": "2026-09-30T06:23:30+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "7c738203e2bbe7d4827c6f1125b10ab5",
       "title": "Exodium - Les jeux DOS d'eXo enfin jouables sur Mac",
       "link": "https://korben.info/exodium-lanceur-exodos-linux-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -393,30 +403,10 @@
       "image": "https://korben.info/nescd-lecteur-cd-nes/nescd-lecteur-cd-nes-1.png"
     },
     {
-      "id": "061007187bde02ecfaea3f1a676feb71",
-      "title": "Conteneurs Linux - Quand l'isolation ne tient plus",
-      "link": "https://korben.info/conteneurs-linux-ne-sont-plus-une-barriere.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La société de sécurité depthfirst juge qu'il faut désormais supposer qu'un attaquant sait sortir d'un conteneur quand il veut, l'IA ayant fait chuter le prix d'entrée. Sa parade, les microVM, réduit la surface d'attaq...",
-      "published": "2026-09-29T10:38:30+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/conteneurs-linux-ne-sont-plus-une-barriere/conteneurs-linux-ne-sont-plus-une-barriere-1.png"
-    },
-    {
       "id": "d18b6aa2220487c3a73e29d32c129f1b",
       "title": "Multiples vulnérabilités dans Apache Tomcat (23 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1218/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournem...",
-      "published": "2026-09-23T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9600dbf12f8ac5f5c894ffb1e28741d1",
-      "title": "Multiples vulnérabilités dans les produits FoxIT (23 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1214/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à l...",
       "published": "2026-09-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -443,11 +433,21 @@
       "image": ""
     },
     {
-      "id": "f77db312bfbd6e366a5f6d7689db00f0",
-      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/",
-      "summary": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-09-22T00:00:00+00:00",
+      "id": "8c1659b349cf1c0e16bf61a31a9920cf",
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1217/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de priv...",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "336960b660eb8431a37867b3471296a3",
+      "title": "Vulnérabilité dans Check Point Security Management Server (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1219/",
+      "summary": "Une vulnérabilité a été découverte dans Check Point Security Management Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. L'éditeur ...",
+      "published": "2026-09-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
