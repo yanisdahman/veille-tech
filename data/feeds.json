@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-10-01T03:59:43.743010+00:00",
+  "last_updated": "2026-10-01T12:22:37.958221+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "682efa7542698276f2ed9d0d8356359c",
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platfor...",
+      "published": "2026-10-01T11:45:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJsDvv_9QEV86mmDsIBPpGS2Kt2o8WPu2L6kUb9IExDqX-2lDKksEMMJp3NqFwDUqplX6JCeUpJfI_8rt_febX1CjMorRii_RpDccPPynWQHW_abdrNSWj774Ad0XH-RmiP-Lzki-Btsu6mh1cUsIffeSIOfUQ29qEJJwBTsaL-olM3GK18D2LYoxJlg/s1600/chain.png.jpg"
+    },
+    {
+      "id": "1f30d27d98e04c68616ad8bb46c9fee5",
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+      "published": "2026-10-01T11:14:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b029066b6f2f2c7f58688a4135e07a10",
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the ...",
+      "published": "2026-10-01T10:42:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg"
+    },
+    {
+      "id": "a238ffe748cdb39000582c6256e32943",
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following...",
+      "published": "2026-10-01T10:33:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg"
+    },
+    {
+      "id": "d9c25dc9d34365e7a2d4a060592259b5",
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+      "published": "2026-10-01T09:44:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1bd66845420153535a1704545f23be77",
+      "title": "DAWO : les Pays-Bas misent sur NixOS pour remplacer Windows 11 et Microsoft",
+      "link": "https://www.it-connect.fr/dawo-pays-bas-poste-travail-souverain-nixos/",
+      "summary": "Les Pays-Bas développent DAWO, un poste de travail souverain sous NixOS déjà testé dans huit communes. De quoi pérenniser des PC incompatibles Windows 11. Le post DAWO : les Pays-Bas misent sur NixOS pour remplacer Wi...",
+      "published": "2026-10-01T08:08:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1a52571a114f924c5349cc94c0bb30dc",
+      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers fro...",
+      "published": "2026-10-01T07:49:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg"
+    },
+    {
+      "id": "034dad906af2b990c9d814dd71dfa78e",
+      "title": "Faille Metabase : l’ANSSI et la DINUM victimes d’une fuite de données",
+      "link": "https://www.it-connect.fr/anssi-dinum-fuite-donnees-metabase/",
+      "summary": "Une faille Metabase a permis de compromettre 118 comptes du laboratoire d'innovation de l'ANSSI et deux instances de la DINUM. Voici ce que l'on sait. Le post Faille Metabase : l’ANSSI et la DINUM victimes d’une fuite...",
+      "published": "2026-10-01T07:34:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "607aed31426c45b9580f612edd40fc39",
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
+      "published": "2026-10-01T07:33:57+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "db2d9c6d0efa59de998b3c151eb8a254",
+      "title": "CTFreak - L'ordonnanceur de tâches pour toutes vos machines",
+      "link": "https://korben.info/ctfreak-ordonnanceur-taches-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "CTFreak est un ordonnanceur de tâches auto-hébergé qui exécute vos commandes, scripts bash, PowerShell, playbooks Ansible et requêtes SQL sur toutes vos machines en SSH ou WinRM, sans y installer le moindre agent. Ins...",
+      "published": "2026-10-01T07:13:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ctfreak-ordonnanceur-taches-self-hosted/ctfreak-ordonnanceur-taches-self-hosted-1.png"
+    },
+    {
+      "id": "894419b3f455c2d28ed95b9dcf494c86",
+      "title": "Windows 11 26H2 à peine sorti, Microsoft liste déjà 3 bugs, et chez vous ?",
+      "link": "https://www.it-connect.fr/windows-11-26h2-problemes-connus/",
+      "summary": "Windows 11 26H2 est disponible. Microsoft recense déjà trois problèmes connus : et vous, avez-vous rencontré des bugs après l'installation de cette version ? Le post Windows 11 26H2 à peine sorti, Microsoft liste déjà...",
+      "published": "2026-10-01T06:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a392a74da8e4f8cf242b3ad45dd76f66",
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a mal...",
+      "published": "2026-10-01T05:54:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg"
+    },
+    {
+      "id": "e0d377aa8963f44af02ad411fd0bf879",
+      "title": "Thunderbird 157 corrige le bug du CPU à 100 % et 76 failles de sécurité",
+      "link": "https://www.it-connect.fr/thunderbird-157-correctifs-cpu-openpgp-imap/",
+      "summary": "Bug du CPU à 100 %, e-mails absents du dossier Envoyés, 76 failles de sécurité : Thunderbird 157 corrige tout ça et ajoute deux stratégies pour les admins. Le post Thunderbird 157 corrige le bug du CPU à 100 % et 76 f...",
+      "published": "2026-10-01T05:41:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bcc0d3dc0491034d96a7716a3fe51673",
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. ...",
+      "published": "2026-10-01T05:21:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg"
+    },
+    {
+      "id": "7f6ffc3ed2ecc24f27ae8c608227da12",
+      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination ...",
+      "published": "2026-10-01T05:10:09+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg"
+    },
+    {
+      "id": "28cb2fef0de81673be5e33e367957949",
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. Level...",
+      "published": "2026-10-01T04:35:34+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg"
+    },
     {
       "id": "caf3813a8d95e6668358752489cbc753",
       "title": "Russian state hackers use new RedFlick technique to push malware",
@@ -73,16 +233,6 @@
       "image": "https://korben.info/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible-1.jpg"
     },
     {
-      "id": "733046bdceaf80980ec7677c91131ec7",
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-765...",
-      "published": "2026-09-30T15:24:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg"
-    },
-    {
       "id": "2ff90c774a8f83e9fce0fd0ab5bf0ecc",
       "title": "OpenAI lance dots, l’agent IA qui travaille même quand vous dormez",
       "link": "https://www.it-connect.fr/openai-dots-agents-ia-toujours-actifs/",
@@ -101,16 +251,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/ps5-jailbreak-relapse/ps5-jailbreak-relapse-1.png"
-    },
-    {
-      "id": "4f42cd6621e55fb37c3803dee5ff9135",
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed...",
-      "published": "2026-09-30T15:00:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg"
     },
     {
       "id": "139f0878f3c6cd153793d7f72acd4ffa",
@@ -153,26 +293,6 @@
       "image": ""
     },
     {
-      "id": "73daeef06e6bf6613ebb5915af318cb7",
-      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
-      "published": "2026-09-30T12:25:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4d36c718416b6da3c640b714439555ef",
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire att...",
-      "published": "2026-09-30T11:58:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHy63Qp6WLBgRhCGaWARbZzjcdu6DhFo9JxZXTE9Rt4B42ImiW_cB0Fdq2yV_HYiZohMmVMRxTu1DxcbiOE9GNu4lAF2HZZ61QiCrWSEKGJFjEt5E5pKpXhjGK9DsZrqTxHFqF2IIaToRSTItghSELEiA_kgTP69_iOwbHdT35ht3yLCqIiNb5ysgDeuM/s1600/push-phish.jpg"
-    },
-    {
       "id": "634c3928552be2dd799e773b051833fd",
       "title": "Forensic Windows – Partie 14 : explorer les Shadow Copies (VSS)",
       "link": "https://www.it-connect.fr/forensic-windows-shadow-copies-vss/",
@@ -183,16 +303,6 @@
       "image": ""
     },
     {
-      "id": "2ef8e65ce6a5cba72a03994e1b185943",
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images...",
-      "published": "2026-09-30T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbuWmNSxYv66udOpYi9NRKukBSDiTroF54tDrBaVYBBTfDC7PMMr26tRoFatdmmRPsPy3MCdoUNLr8YN9mC2ni3pvDWfBNsoKz12evoNrZggcUI4izEc7-hEAr_2wFv4IInBnon19PcEPSXlJU-AMahLHFNAk_5FiVbV7EhfdiLKHcUc8Tiso63xca2c/s1600/git-images.jpg"
-    },
-    {
       "id": "148a19fc8ea23d95e65895a90988e092",
       "title": "Cyberattaque DGFiP de l’été 2026 : ce que révèle le rapport de l’ANSSI",
       "link": "https://www.it-connect.fr/rapport-anssi-cyberattaque-dgfip/",
@@ -201,26 +311,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "a57e6bd448d5bf9a14687819f42d1cd6",
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
-      "published": "2026-09-30T11:11:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7ec4d141198f6547e11c1b9ec4f98b36",
-      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations ...",
-      "published": "2026-09-30T10:45:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fq_zpvT8d0bG8IIotVRgIHIXCNOTPBhfIBUIWxLlg1X4bDmzf0PRgt_0UaHhvTIznPU4nOCCuLJ6JbJ3Tx22FPY2Ox93L_HNhA7XjQEvOcsXfw3NIixeGcy9DywlAx_SuEhCM6DRjgP3NBQrdHnJrFOCEFHFR8bFyF4YFWYtYEuPbG7kvWrgAsotLWI/s1600/rmm.jpg"
     },
     {
       "id": "dcacc3edde917d1f81875fd87e9b00e8",
@@ -241,26 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/police-allemande-appareil-lie-whatsapp-signal/police-allemande-appareil-lie-whatsapp-signal-1.png"
-    },
-    {
-      "id": "00ee02ecdda7d1dc31765f07bc8864b8",
-      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by...",
-      "published": "2026-09-30T08:24:35+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjeU_A9ijIuOqFirHL74nU4k_HktRhcj5hx3goc6SfQKIeG9XA_GpZaZQVpCdUYbho_gZT4LoB-MjNJO0FZrV3q6MxXoUzg8bdbHmr2r-8rKxP1_XCMUVKq3IntFoR4aFFSdDPyBQI4Z1-jn8uNaWn4c4ohpPflBYx8M0GPFnAVziUo3Mtap0fzBBU9f_/s1600/citrix-shell.jpg"
-    },
-    {
-      "id": "2b7e7ccce8a221b5fca44c22dd9e00e0",
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a h...",
-      "published": "2026-09-30T08:09:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Po53IuyRAhsYzbs5KKPp_UBpklONBiOzoLWgXrklvrgDn5xnpjuRjU8UYoyLuImSmiPtOHQK3ExgQk5zhxlqsAcUmTLRFowkQXzan2RD955Gw-sumsvmwzLBTViUBRhyphenhyphenHCnETV23Qbt01RwaovTe1ogMeMYDSGxmF5n84NKZOB3EiWz6VAHUlfDm5YE/s1600/openssl-memory.jpg"
     },
     {
       "id": "64a0489ce11ea7433e3fff3722609337",
@@ -293,26 +363,6 @@
       "image": ""
     },
     {
-      "id": "0cdec5258e1a002ad242589f99b7afa2",
-      "title": "Signal : les sauvegardes locales chiffrées, sur disque ou NAS, arrivent sur iPhone, Windows, macOS et Linux",
-      "link": "https://www.it-connect.fr/signal-sauvegardes-locales-iphone-desktop/",
-      "summary": "Signal 8.30 apporte les sauvegardes locales chiffrées sur iPhone et ordinateur. Disque externe, NAS : ce qu'il faut savoir à propos de ces évolutions. Le post Signal : les sauvegardes locales chiffrées, sur disque ou ...",
-      "published": "2026-09-30T06:09:28+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b6c4fad3b33a31f7bff7e1e7192089b1",
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, track...",
-      "published": "2026-09-30T05:30:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg"
-    },
-    {
       "id": "7c738203e2bbe7d4827c6f1125b10ab5",
       "title": "Exodium - Les jeux DOS d'eXo enfin jouables sur Mac",
       "link": "https://korben.info/exodium-lanceur-exodos-linux-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -321,46 +371,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/exodium-lanceur-exodos-linux-macos/exodium-lanceur-exodos-linux-macos-1.png"
-    },
-    {
-      "id": "0bd651f23537c2407ff1ceee40bd047a",
-      "title": "Windows 11 26H2 est disponible : nouveautés, support et installation",
-      "link": "https://www.it-connect.fr/windows-11-26h2-disponible-mise-a-jour-2026/",
-      "summary": "Windows 11 26H2 est disponible via un enablement package : peu de nouveautés, mais un support remis à zéro et des changements par défaut en entreprise. Le post Windows 11 26H2 est disponible : nouveautés, support et i...",
-      "published": "2026-09-30T05:16:55+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6bf6789a40356205085d3271e9fff830",
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
-      "published": "2026-09-30T00:40:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fd78aa5d32a7bdd7d29ef5c8fcfc4fcf",
-      "title": "Wi-Fi 7 en pratique : ce qui bride vraiment votre débit",
-      "link": "https://www.it-connect.fr/wifi-7-pratique-debit-tp-link-omada/",
-      "summary": "Débit Wi-Fi 7 décevant ? Lien 1 GbE, largeur de canal, MLO : les pièges qui brident votre réseau, mesurés avec une borne TP-Link Omada. Le post Wi-Fi 7 en pratique : ce qui bride vraiment votre débit a été publié sur ...",
-      "published": "2026-09-29T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "cdd06d8161527c7f19397855b54f7e89",
-      "title": "Claude Code : Anthropic offre jusqu’à 250 dollars de crédit, mais seulement pour les sessions cloud",
-      "link": "https://www.it-connect.fr/claude-code-sessions-cloud-credit-offert/",
-      "summary": "Abonné à Claude Pro ou Max ? Anthropic vous offre jusqu'à 250 dollars de crédit pour tester les sessions cloud de Claude Code. Voici comment en profiter. Le post Claude Code : Anthropic offre jusqu’à 250 dollars de cr...",
-      "published": "2026-09-29T12:06:13+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "d33d24942ee9f1c402438c475bd036cd",
@@ -391,16 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/conteneurs-linux-ne-sont-plus-une-barriere/conteneurs-linux-ne-sont-plus-une-barriere-1.png"
-    },
-    {
-      "id": "d071a4f07d22610b0d273b017598459b",
-      "title": "Quand Mario 64 tourne sur une vraie Super Nintendo",
-      "link": "https://korben.info/super-mario-64-snes-super-fx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Tobi fait tourner quelques niveaux de Super Mario 64 sur une vraie Super Nintendo, grâce à un moteur maison et à la puce Super FX. Rien n'est encore téléchargeable, les niveaux doivent tenir dans 2 Mo, et « Super Mari...",
-      "published": "2026-09-29T10:06:55+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/super-mario-64-snes-super-fx/super-mario-64-snes-super-fx-1.jpg"
     },
     {
       "id": "d18b6aa2220487c3a73e29d32c129f1b",
