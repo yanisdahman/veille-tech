@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-10-02T17:23:57.795434+00:00",
+  "last_updated": "2026-10-02T21:47:05.410832+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1e0ff0489d0f288d28a4e7c1e5ae738f",
+      "title": "Frontline Education breach exposes school district employee data",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including...",
+      "published": "2026-10-02T19:01:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e4abf7cb8ed77a4f08b5e1b8f375863f",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "published": "2026-10-02T18:33:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "338fbf4bb8d68a0465e5ff47bab3701e",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connec...",
+      "published": "2026-10-02T17:33:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg"
+    },
+    {
+      "id": "f4dbf2466d666486d293d17559098932",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, Indi...",
+      "published": "2026-10-02T17:33:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE3s79KuB4kHE3Kf6kjA84HqdcQ2TTVyJCgIkLcSnpbMr6vCwjaLjJVE1KiXT2lZfcx_CbKlHjiX9PrEppf53uaTvQ_Vyicl447mGIkdz1ZOzmGR1hPJzgODM2J_lnsbKPhTBvvTgdDcSS4V1JzJ-feSpyJFDyDkKS0BfK7AXTCNWaL9DZ60tmWVysyVo0/s1600/ms-cyber.jpg"
+    },
+    {
+      "id": "aeec1ad7ef4c9952545ee6e4fca1876b",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are li...",
+      "published": "2026-10-02T17:02:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiypcfC3W6keUc31zSJympZfpI6eLwDhyphenhyphen4uy_0M3VFljfoSn2pjzBmS3yyAZTzILPxi_sXeOx2jyeu6mdSPKqjiFv7LAMd2mn6Q8GvIRq6yVXUoQm5MiXeEs96i9IT-ZCP2W7hAzR08B9JOuOJv8NNI7o7DfCSa7cplzrsT_x_0R0dPVSQxKmdLP8NvAsnp/s1600/dell.jpg"
+    },
     {
       "id": "b83c2d203f25d968f57e1b9aa96fa92e",
       "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
@@ -54,7 +104,7 @@
     },
     {
       "id": "19376ce00db5ccadcabd5f0d0d793b8e",
-      "title": "PLAY-DOS - 6000 jeux DOS jouable ce faux PC des années 90",
+      "title": "PLAY-DOS - 6000 jeux DOS jouables sur ce faux PC des années 90",
       "link": "https://korben.info/play-dos-jeux-ms-dos-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "PLAY-DOS habille 5 921 jeux MS-DOS de l'Internet Archive en faux PC des années 80-90. Le mode d'emploi : le nom d'exécutable se tape au prompt de la fiche du jeu, pas au C:\\> libre, puis POWER. Essai sur DOOM, Prince ...",
       "published": "2026-10-02T12:17:08+00:00",
@@ -221,56 +271,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
-    },
-    {
-      "id": "0f9d08794b99d32d48a079e5458c436d",
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged admin...",
-      "published": "2026-10-01T14:25:14+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b66247c23bc8b1574235594dfad265db",
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should b...",
-      "published": "2026-10-01T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "682efa7542698276f2ed9d0d8356359c",
-      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platfor...",
-      "published": "2026-10-01T11:45:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJsDvv_9QEV86mmDsIBPpGS2Kt2o8WPu2L6kUb9IExDqX-2lDKksEMMJp3NqFwDUqplX6JCeUpJfI_8rt_febX1CjMorRii_RpDccPPynWQHW_abdrNSWj774Ad0XH-RmiP-Lzki-Btsu6mh1cUsIffeSIOfUQ29qEJJwBTsaL-olM3GK18D2LYoxJlg/s1600/chain.png.jpg"
-    },
-    {
-      "id": "b029066b6f2f2c7f58688a4135e07a10",
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the ...",
-      "published": "2026-10-01T10:42:36+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg"
-    },
-    {
-      "id": "a238ffe748cdb39000582c6256e32943",
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following...",
-      "published": "2026-10-01T10:33:16+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg"
     },
     {
       "id": "1bd66845420153535a1704545f23be77",
