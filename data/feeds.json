@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-02T03:55:58.208480+00:00",
+  "last_updated": "2026-10-02T11:49:47.318783+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8b2d4469344fcb5fd453f3319ec8b126",
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spr...",
+      "published": "2026-10-02T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hKMtHvRqPQiVRgaUAvYQ1XOUA_EToiZ3Tx-v7pSvbqwlnoo7qr5jQ_5KJuYpRFW0MzE3bLPePNT-rn4m8bEz7eTMVysO0OcfFwNKKFgKIo6tiT0JKKauf9MFxYTet3LiqJ2lXxfxVuKzRIPloaGR-_bOUEXOz_-ONc3AXfHKZV-PhAW8wEfayC-iwZE/s1600/ciso-ready.jpg"
+    },
+    {
+      "id": "afac617f68a933fdb48e4b56e60cfbbf",
+      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "published": "2026-10-02T09:29:56+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7bd6e8c4fd2e6a52563b74490e23f336",
+      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android...",
+      "published": "2026-10-02T08:01:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg"
+    },
+    {
+      "id": "c3f5ab571ef555ba5be12d1836a88dac",
+      "title": "Installation et utilisation de Claude Code : premiers pas",
+      "link": "https://www.it-connect.fr/tuto-installation-et-utilisation-de-claude-code/",
+      "summary": "Apprenez à installer et à utiliser Claude Code sur Windows ou Linux, en GUI ou CLI, pour commencer à lire, écrire et exécuter du code sur votre machine. Le post Installation et utilisation de Claude Code : premiers pa...",
+      "published": "2026-10-02T07:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7bb01c75bdde8cdae4b5d65307c7884a",
+      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of act...",
+      "published": "2026-10-02T05:49:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg"
+    },
+    {
+      "id": "7e3baf8efc50a476ea2341f69c71b29d",
+      "title": "GLPI 11.0.11 et GLPI 10.0.28 : 8 failles patchées et la fin annoncée de GLPI 10",
+      "link": "https://www.it-connect.fr/glpi-11-0-10-10-0-28-failles-fin-glpi-10/",
+      "summary": "GLPI 11.0.11 et GLPI 10.0.28 corrigent 8 failles, dont une injection SQL. Teclib' annonce aussi que GLPI 10.0.28 sera la dernière version de la branche 10. Le post GLPI 11.0.11 et GLPI 10.0.28 : 8 failles patchées et ...",
+      "published": "2026-10-02T05:16:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2a50a80310ffce5cd9ff0ab5eb1af26c",
+      "title": "TeamViewer a corrigé 5 failles de sécurité, dont une exploitable à distance",
+      "link": "https://www.it-connect.fr/teamviewer-5-failles-securite-version-15-82/",
+      "summary": "TeamViewer a corrigé cinq failles dans ses clients Windows, Linux et macOS, dont une exploitable à distance (CVSS 8,8 sur 10). Voici les versions à installer. Le post TeamViewer a corrigé 5 failles de sécurité, dont u...",
+      "published": "2026-10-02T05:01:49+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "ccc3390d729122c918eb6fceefa104e1",
       "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
@@ -223,16 +293,6 @@
       "image": ""
     },
     {
-      "id": "a392a74da8e4f8cf242b3ad45dd76f66",
-      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a mal...",
-      "published": "2026-10-01T05:54:41+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg"
-    },
-    {
       "id": "e0d377aa8963f44af02ad411fd0bf879",
       "title": "Thunderbird 157 corrige le bug du CPU à 100 % et 76 failles de sécurité",
       "link": "https://www.it-connect.fr/thunderbird-157-correctifs-cpu-openpgp-imap/",
@@ -240,36 +300,6 @@
       "published": "2026-10-01T05:41:44+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bcc0d3dc0491034d96a7716a3fe51673",
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. ...",
-      "published": "2026-10-01T05:21:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg"
-    },
-    {
-      "id": "7f6ffc3ed2ecc24f27ae8c608227da12",
-      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination ...",
-      "published": "2026-10-01T05:10:09+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg"
-    },
-    {
-      "id": "caf3813a8d95e6668358752489cbc753",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "published": "2026-09-30T20:34:01+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -313,26 +343,6 @@
       "image": ""
     },
     {
-      "id": "634c3928552be2dd799e773b051833fd",
-      "title": "Forensic Windows – Partie 14 : explorer les Shadow Copies (VSS)",
-      "link": "https://www.it-connect.fr/forensic-windows-shadow-copies-vss/",
-      "summary": "Exploitez les Shadow Copies (VSS) en forensic Windows : inventaire avec vssadmin, accès via mklink, extraction avec ShadowCopyView, avec un exemple concret. Le post Forensic Windows – Partie 14 : explorer les Shadow C...",
-      "published": "2026-09-30T11:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "148a19fc8ea23d95e65895a90988e092",
-      "title": "Cyberattaque DGFiP de l’été 2026 : ce que révèle le rapport de l’ANSSI",
-      "link": "https://www.it-connect.fr/rapport-anssi-cyberattaque-dgfip/",
-      "summary": "L'ANSSI a publié son rapport sur la cyberattaque de la DGFiP, entre identifiants volés par des infostealers, absence de MFA et exfiltrations jamais détectées. Le post Cyberattaque DGFiP de l’été 2026 : ce que révèle l...",
-      "published": "2026-09-30T11:27:59+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "dcacc3edde917d1f81875fd87e9b00e8",
       "title": "HaloBattery - Suivez le niveau de batterie de tous vos périphériques",
       "link": "https://korben.info/halobattery-batterie-peripheriques-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -361,16 +371,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/sloptotal-detecteur-texte-ia-local/sloptotal-detecteur-texte-ia-local-1.png"
-    },
-    {
-      "id": "8491d1953536b19d31d21427ecea7ad5",
-      "title": "5 minutes pour voler le hash du mot de passe root sous Linux avec BTR, une variante de Spectre v2",
-      "link": "https://www.it-connect.fr/spectre-v2-btr-linux-hash-mot-de-passe-root/",
-      "summary": "Nouvelle variante de Spectre v2, l'attaque BTR vise les moteurs JIT et vole le hash du mot de passe root sous Linux en 3 à 5 minutes. Comment se protéger ? Le post 5 minutes pour voler le hash du mot de passe root sou...",
-      "published": "2026-09-30T06:53:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "7c738203e2bbe7d4827c6f1125b10ab5",
@@ -413,16 +413,6 @@
       "image": ""
     },
     {
-      "id": "c7de3993379953f9e714e617b034ccfe",
-      "title": "Multiples vulnérabilités dans SolarWinds Observability Self-Hosted (23 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1215/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Observability Self-Hosted. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-09-23T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5100cad567281e7604b0ddebb4950bdd",
       "title": "Vulnérabilité dans WordPress (23 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1216/",
@@ -447,6 +437,16 @@
       "title": "Vulnérabilité dans Check Point Security Management Server (23 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1219/",
       "summary": "Une vulnérabilité a été découverte dans Check Point Security Management Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. L'éditeur ...",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fda4fc8403c1bd691bbbd006e0552cd7",
+      "title": "Vulnérabilité dans F5 BIG-IP (23 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1220/",
+      "summary": "Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que la vulnérabilité CVE-2026-94127 est activement exploitée. D...",
       "published": "2026-09-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
