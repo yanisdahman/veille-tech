@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-03T03:41:01.198693+00:00",
+  "last_updated": "2026-10-03T11:03:08.869106+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0b43ffe9c8fa1519b4dc5447bf08da1f",
+      "title": "Je suis passé de Windows à macOS depuis 6 mois : voici mon retour d’expérience",
+      "link": "https://www.it-connect.fr/windows-vers-mac-bilan-mon-experience/",
+      "summary": "Après 6 mois sur macOS, je fais le bilan de ma migration depuis Windows : adaptation, outils, compatibilité et limites rencontrées au quotidien. Le post Je suis passé de Windows à macOS depuis 6 mois : voici mon retou...",
+      "published": "2026-10-03T06:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b2c91b8a991c77a13b02a3eeab5a1ed3",
+      "title": "Tuta contourne l'IMAP pour entrer dans Nextcloud",
+      "link": "https://korben.info/tuta-mail-nextcloud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Tuta refuse l'IMAP, alors pour entrer dans Nextcloud il y embarque son propre client web, et ajoute un plugin qui envoie les pièces jointes vers Nextcloud et crée des salons Talk. Revers de l'astuce : c'est le serveur...",
+      "published": "2026-10-03T04:25:27+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tuta-mail-nextcloud/tuta-mail-nextcloud-1.png"
+    },
+    {
+      "id": "8cc5ac87b2347d2b4007fba3ae9d3904",
+      "title": "Matériel d'occasion - Riot bannit le matériel des tricheurs",
+      "link": "https://korben.info/cpu-occasion-ban-valorant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un joueur allemand a monté un Ryzen 7 5800X3D d'occasion et s'est fait bannir de Valorant au premier lancement : l'ancien propriétaire trichait. Ce que dit la règle de Riot sur les bans matériels, le rôle probable du ...",
+      "published": "2026-10-03T03:37:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/cpu-occasion-ban-valorant/cpu-occasion-ban-valorant-1.jpg"
+    },
     {
       "id": "1e0ff0489d0f288d28a4e7c1e5ae738f",
       "title": "Frontline Education breach exposes school district employee data",
@@ -353,16 +383,6 @@
       "image": "https://korben.info/ps5-jailbreak-relapse/ps5-jailbreak-relapse-1.png"
     },
     {
-      "id": "541ef3eb08dc49adbcbad53ae0cd5bc5",
-      "title": "Microsoft Learn : la plupart des dépôts GitHub de documentation vont fermer d’ici fin 2026",
-      "link": "https://www.it-connect.fr/microsoft-learn-fermeture-depots-github-documentation/",
-      "summary": "Microsoft Learn va retirer la plupart de ses dépôts GitHub publics de documentation d'ici fin 2026. Les corrections via pull request vont disparaître. Dommage. Le post Microsoft Learn : la plupart des dépôts GitHub de...",
-      "published": "2026-09-30T14:42:24+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "dcacc3edde917d1f81875fd87e9b00e8",
       "title": "HaloBattery - Suivez le niveau de batterie de tous vos périphériques",
       "link": "https://korben.info/halobattery-batterie-peripheriques-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/police-allemande-appareil-lie-whatsapp-signal/police-allemande-appareil-lie-whatsapp-signal-1.png"
-    },
-    {
-      "id": "64a0489ce11ea7433e3fff3722609337",
-      "title": "SlopTotal - Un détecteur de texte IA à installer chez vous",
-      "link": "https://korben.info/sloptotal-detecteur-texte-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "SlopTotal réunit 23 détecteurs de texte IA dans un service qui tourne chez vous, mais le docker run du README échoue sur un Mac Apple Silicon : il faut passer par un docker compose. Sur 36 textes testés, son verdict s...",
-      "published": "2026-09-30T07:45:29+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/sloptotal-detecteur-texte-ia-local/sloptotal-detecteur-texte-ia-local-1.png"
-    },
-    {
-      "id": "7c738203e2bbe7d4827c6f1125b10ab5",
-      "title": "Exodium - Les jeux DOS d'eXo enfin jouables sur Mac",
-      "link": "https://korben.info/exodium-lanceur-exodos-linux-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Exodium fait tourner les collections eXo (DOS, Windows 3.x et 9x, ScummVM) sur un Mac Apple Silicon, où eXo ne tourne pas officiellement, et sur Linux. Pas besoin de télécharger la collection d'avance : chaque jeu arr...",
-      "published": "2026-09-30T05:18:26+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/exodium-lanceur-exodos-linux-macos/exodium-lanceur-exodos-linux-macos-1.png"
     },
     {
       "id": "948799770cb4e07e9d32f1588e15044c",
