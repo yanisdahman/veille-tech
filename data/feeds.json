@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-04T20:50:09.521294+00:00",
+  "last_updated": "2026-10-05T03:55:04.670544+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "62bc590f7ad7e73df12fb2ca6ed3623b",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be ex...",
+      "published": "2026-10-04T21:58:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "b61e53bcc90bd4cb00b9abc79d9eb999",
       "title": "Anthropic asks Claude users to share voice data for AI model training",
@@ -228,16 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
       "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and...",
       "published": "2026-10-02T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "dc1ecc422d4c0a405d2babd83a9c8cb1",
-      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
-      "published": "2026-10-02T12:37:40+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
