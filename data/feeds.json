@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-10-06T12:42:04.908186+00:00",
+  "last_updated": "2026-10-06T22:16:46.076248+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "6cb67863bf1b0d5e2e6b29b4058525ce",
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...",
+      "published": "2026-10-06T21:00:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2bbff77b17d4622abfb3f56b5fedae87",
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+      "published": "2026-10-06T19:21:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b5c111ad53dd608f10129479002622b3",
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI Ch...",
+      "published": "2026-10-06T18:38:55+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png"
+    },
+    {
+      "id": "5347986e6d4ebc2bf27bc720f1334f16",
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors...",
+      "published": "2026-10-06T18:24:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42ncE2ZMHIbAm_fj5U9fqCYUvPwhyUiNbARM3CC5IxhnMXjIZ2ENa99UDGeaZqGPlqn53A7y7Nkz1ZxzzyykKxEb4GT0jxWhrar9Q5yPmBN1NL6599HRdbzbLSYf3WPuU7tkkY5eOsvhAT9dw-24DXuusztPyRr2H66840cWZx17MZ0B-rB877W19bgX1/s1600/linux-spam.jpg"
+    },
+    {
+      "id": "55757333f21122e8e940360bd686a1ac",
+      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitb...",
+      "published": "2026-10-06T17:34:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b6744a76660ee66e067f8a60bef1f048",
+      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. ...",
+      "published": "2026-10-06T16:33:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3a83e11459bf009c74c671b7effd7d71",
+      "title": "Il a entièrement recodé 8 vieux OS en HTML + un VB6 qui sort des .exe.",
+      "link": "https://korben.info/vieux-windows-mac-os-9-navigateur-wieslaw-soltes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Windows 3.1, 95, 98, Me, 2000, XP, Vista et Mac OS 9 se lancent en moins de deux secondes dans un onglet, parce que rien n'y est émulé : tout a été réécrit en JavaScript. Et VB6 Studio Web compile même un .exe Windows...",
+      "published": "2026-10-06T15:22:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vieux-windows-mac-os-9-navigateur-wieslaw-soltes/vieux-windows-mac-os-9-navigateur-wieslaw-soltes-1.png"
+    },
+    {
+      "id": "b5230d49f3e15b8e4ebb36c5674d4030",
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+      "published": "2026-10-06T15:16:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6a6078a371ae7c8a458e6d1948bdf153",
+      "title": "BYOD, prestataires : comment faire confiance à un appareil que vous ne gérez pas ?",
+      "link": "https://www.it-connect.fr/securiser-byod-sans-mdm/",
+      "summary": "BYOD, prestataires : la MFA protège l'identité, pas l'appareil. Comment vérifier la posture d'un appareil non géré sans l'enrôler dans un MDM ? Le post BYOD, prestataires : comment faire confiance à un appareil que vo...",
+      "published": "2026-10-06T14:30:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4ec0d751518c11c7a32978bba4edc9cb",
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from pat...",
+      "published": "2026-10-06T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4a289100263db3b26b5ee5c22df2ec00",
+      "title": "MalExt : une liste open source avec près de 7 000 extensions Chrome malveillantes",
+      "link": "https://www.it-connect.fr/malext-sentry-base-extensions-chrome-edge-malveillantes/",
+      "summary": "MalExt Sentry recense près de 7 000 extensions Chrome et Edge malveillantes ou retirées des stores, avec des outils pour vérifier vos propres navigateurs. Le post MalExt : une liste open source avec près de 7 000 exte...",
+      "published": "2026-10-06T13:11:38+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "e86b473d82e7c3aa3777c00595466ad2",
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
@@ -203,26 +313,6 @@
       "image": ""
     },
     {
-      "id": "33557fc2b5055edce9e2cfe143ebcc58",
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-      "published": "2026-10-05T20:20:05+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5dcdb02d9a3d38b602ea2658e8d7e39d",
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymiz...",
-      "published": "2026-10-05T17:19:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "3aac9b1836f8dedff292908e3b3b08ef",
       "title": "Avec les mods, Claude Code devient personnalisable : interface, commandes, etc.",
       "link": "https://www.it-connect.fr/claude-code-mods-plugins/",
@@ -230,26 +320,6 @@
       "published": "2026-10-05T16:56:39+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1ad56db9b039d0af4454475ee765d3d7",
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked...",
-      "published": "2026-10-05T16:21:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNa12GUjRngANug2kbws6i9X_HPN2PRVbOcxr7GtaXMKq9PloaCTD7DuYC8zZIcrg5Wa-F5pDv9y-00EMX4QWvovMz-ZWK5vNZ-gkIdEA7UiZQ1SqBCZof411VOQt6nQrvZCYxZpmzPA3hUeFia9KVP45Q1J1OPkiIH_Fhy5hoiOo9z6eYw1H16RgvKs5/s1600/ms-emails.jpg"
-    },
-    {
-      "id": "ce2aac8e1083ede354a2e5162e6db61c",
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "published": "2026-10-05T15:21:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -263,36 +333,6 @@
       "image": ""
     },
     {
-      "id": "c7adfe0b0f5b4ef643d2e06c5953ad91",
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "published": "2026-10-05T14:53:06+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e1baac5112e420ea5864f80bf8fdc995",
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "published": "2026-10-05T14:22:12+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b88e60f4b6f26487783a6190fd3814a4",
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook....",
-      "published": "2026-10-05T14:20:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s1600/infosec-recap.jpg"
-    },
-    {
       "id": "aad30cfe6649aee747b87f57076a05c6",
       "title": "Citrix NetScaler - Et c'est reparti pour un patch !",
       "link": "https://korben.info/citrix-netscaler-pitscaler-2-zero-day.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -301,16 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/citrix-netscaler-pitscaler-2-zero-day/citrix-netscaler-pitscaler-2-zero-day-1.png"
-    },
-    {
-      "id": "d11904f869d22312a470099d802f6724",
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate s...",
-      "published": "2026-10-05T13:33:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "2948a751429c8e11b58cf3d9adf85a83",
@@ -363,16 +393,6 @@
       "image": "https://korben.info/highball-jeux-windows-mac-apple-silicon/highball-jeux-windows-mac-apple-silicon-1.png"
     },
     {
-      "id": "4f2de1ddbed352bf51fcefd90e97a911",
-      "title": "Le compte X officiel de Microsoft piraté pour promouvoir un token crypto à l’effigie de Clippy",
-      "link": "https://www.it-connect.fr/compte-x-microsoft-pirate-clippy-crypto/",
-      "summary": "Le compte X de Microsoft (13 millions d'abonnés) a été piraté pour promouvoir un token crypto Clippy. Microsoft confirme l'accès non autorisé et enquête. Le post Le compte X officiel de Microsoft piraté pour promouvoi...",
-      "published": "2026-10-05T06:46:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "83adca11396916d8436f7daf0c7116bb",
       "title": "Mulderland - Pour pimper vos jeux PC",
       "link": "https://korben.info/mulderland-packs-vieux-jeux-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -383,23 +403,33 @@
       "image": "https://korben.info/mulderland-packs-vieux-jeux-pc/mulderland-packs-vieux-jeux-pc-1.jpg"
     },
     {
-      "id": "5a4c76ebcbe5e0e36332ae6720c2e32e",
-      "title": "Aller en manif avec son téléphone - Les bons réflexes",
-      "link": "https://korben.info/applications-aller-en-manif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Les lycéens s'organisent sur Snapchat, Instagram, WhatsApp et Telegram. Voici ce que les guides de la LDH, d'XR, de la CGT et d'Amnesty conseillent d'installer et de régler avant de manifester, de Signal au verrouilla...",
-      "published": "2026-10-03T15:08:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/applications-aller-en-manif/applications-aller-en-manif-1.png"
+      "id": "fc46686518ecb134fe039d3115c59d1e",
+      "title": "Point de situation de l’opération REACTIV – septembre 2026 (30 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-006/",
+      "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des sy...",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
-      "id": "0b43ffe9c8fa1519b4dc5447bf08da1f",
-      "title": "Je suis passé de Windows à macOS depuis 6 mois : voici mon retour d’expérience",
-      "link": "https://www.it-connect.fr/windows-vers-mac-bilan-mon-experience/",
-      "summary": "Après 6 mois sur macOS, je fais le bilan de ma migration depuis Windows : adaptation, outils, compatibilité et limites rencontrées au quotidien. Le post Je suis passé de Windows à macOS depuis 6 mois : voici mon retou...",
-      "published": "2026-10-03T06:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "82b17093562a0b589af879f46db6e11a",
+      "title": "Multiples vulnérabilités dans HPE Aruba Networking Instant On (30 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1238/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Instant On. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privil...",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bc1c5dd823d33c5311a010de0e1cbc5f",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (30 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1240/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la...",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -463,40 +493,10 @@
       "image": ""
     },
     {
-      "id": "757cb043d000e6dfff8f53352a4fab99",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (25 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à...",
-      "published": "2026-09-25T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "81812487911e637b1ae11dde4fe23c99",
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
-      "published": "2026-09-25T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3f9e401c687d356ff94e6b713352356b",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une attein...",
-      "published": "2026-09-25T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d18b70723727a32614224dc2c5928751",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (25 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
       "published": "2026-09-25T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
