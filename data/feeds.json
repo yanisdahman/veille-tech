@@ -1,7 +1,187 @@
 {
-  "last_updated": "2026-10-12T04:11:33.696195+00:00",
+  "last_updated": "2026-10-12T14:20:55.967284+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "8a96eb2becd476c7b6d3f87120e3aade",
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix deliver...",
+      "published": "2026-10-12T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "72bb13ae01b3872ec0c9ebe22fde942e",
+      "title": "ONLYOFFICE 10 - L'IA partout, mais seulement si vous la voulez",
+      "link": "https://korben.info/onlyoffice-10-ia-applications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "ONLYOFFICE 10.0 met un onglet IA dans ses quatre éditeurs, avec le modèle de votre choix sur serveur, ajoute quatre applications gratuites et une cinquantaine de nouveautés.",
+      "published": "2026-10-12T13:52:46+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/onlyoffice-10-ia-applications/onlyoffice-10-ia-applications-1.jpg"
+    },
+    {
+      "id": "9fe038a89d5aec75415aaff0a91ae4fb",
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+      "published": "2026-10-12T13:51:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "30edd584e5645bc854deec043350aca7",
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+      "published": "2026-10-12T13:09:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9c98a891581a862e52d63d1e64ec4238",
+      "title": "Super U, Intermarché : des pirates font chauffer les congélateurs à 50 °C, des rayons entiers à la poubelle",
+      "link": "https://www.it-connect.fr/cyberattaque-supermarches-froid-danfoss/",
+      "summary": "Des congélateurs réglés à 50 °C la nuit : une cyberattaque sur les systèmes de froid Danfoss frappe des magasins U et Intermarché. Voici ce que l'on sait. Le post Super U, Intermarché : des pirates font chauffer les c...",
+      "published": "2026-10-12T13:03:09+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "44121d20a1d636d69fbf5b791d2dbf9e",
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "summary": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+      "published": "2026-10-12T11:58:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1db08bf95c87f3f743a5741020bbfdfb",
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror ...",
+      "published": "2026-10-12T11:55:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg"
+    },
+    {
+      "id": "4c7b4f232aea51961f2ed11131da998b",
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigat...",
+      "published": "2026-10-12T11:21:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg"
+    },
+    {
+      "id": "89b7bfb08ccaa8c1ac0745168b333692",
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-...",
+      "published": "2026-10-12T10:36:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg"
+    },
+    {
+      "id": "6b0a4a4061104946d19a0d321dcc015a",
+      "title": "Slot - Quand l'Anbernic RG SP se prend pour une vraie GBA SP",
+      "link": "https://korben.info/slot-frontend-game-boy-rg-sp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "slot ne lit que le Game Boy, mais il rejoue les gestes d'une GBA SP sur votre Anbernic RG SP : cartouches sur étagère, clapet qui sauvegarde, câble link en Wi-Fi.",
+      "published": "2026-10-12T10:06:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/slot-frontend-game-boy-rg-sp/slot-frontend-game-boy-rg-sp-1.png"
+    },
+    {
+      "id": "e4d35c967f07e44a86060d18ef4bf060",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS s...",
+      "published": "2026-10-12T09:02:14+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg"
+    },
+    {
+      "id": "b5374274a96939b5a038585bc5e86b08",
+      "title": "Une machine à café connectée envoie plus de 1 To de données en 10 jours sur le Wi-Fi",
+      "link": "https://www.it-connect.fr/machine-cafe-keurig-1-to-donnees-10-jours/",
+      "summary": "Une machine à café connectée Keurig a envoyé plus d'un téraoctet de données en dix jours, au point de saturer un point d'accès Wi-Fi. Le post Une machine à café connectée envoie plus de 1 To de données en 10 jours sur...",
+      "published": "2026-10-12T08:05:30+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "dd7420a20c789b02c836416913256103",
+      "title": "Nouvelle vente flash GoDeal24 : Office 2024 Pro Plus à 22.99€ et Windows 11 Pro à 12.25€",
+      "link": "https://www.it-connect.fr/bon-plan-les-licences-office-2021-et-windows-11-en-promotion/",
+      "summary": "Pour la rentrée, notre partenaire GoDeal24 propose une nouvelle salve de promotions sur les licences de produits Microsoft (Windows, Office, etc.) et d'autres logiciels. Le post Nouvelle vente flash GoDeal24 : Office ...",
+      "published": "2026-10-12T08:02:23+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ab1e73709ab70ad0dcb368d4ef6776c7",
+      "title": "Carafe - Pour lancer vos jeux PC directement sur la Switch",
+      "link": "https://korben.info/carafe-jeux-windows-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Carafe transforme le dossier d'un jeu Windows en NSP, avec son icône, sa sauvegarde et un écran de chargement dans le HOME Menu d'une Switch sous Atmosphère. La compatibilité reste celle d'Autorun, encore expérimental...",
+      "published": "2026-10-12T07:33:42+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/carafe-jeux-windows-switch/carafe-jeux-windows-switch-1.png"
+    },
+    {
+      "id": "6d07d1766bd485a1959d71d3455945c9",
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in...",
+      "published": "2026-10-12T07:26:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
+    },
+    {
+      "id": "b164e9200f6eadaeabc13201f8a88347",
+      "title": "Windows Update : certains PC et serveurs seront privés de mises à jour en 2027 à cause de certificats expirés",
+      "link": "https://www.it-connect.fr/windows-update-certificats-expiration-2027/",
+      "summary": "Les certificats de Windows Update expirent en mai et juin 2027. Les PC pas suffisamment à jour perdront l'accès aux mises à jour. Qui est concerné ? Le post Windows Update : certains PC et serveurs seront privés de mi...",
+      "published": "2026-10-12T07:25:42+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a07d2492fa9287aec9972acb1ad7d872",
+      "title": "Windows 11 - Le lien du compte local serait déjà patché",
+      "link": "https://korben.info/windows-11-lien-learn-more-corrige.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le lien Learn more qui menait à un compte local sur Windows 11 Home serait patché côté serveur, d'après son découvreur. Ce que ça change, et ce qui reste.",
+      "published": "2026-10-12T07:15:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-11-lien-learn-more-corrige/windows-11-lien-learn-more-corrige-1.jpg"
+    },
+    {
+      "id": "f02c06cdbbae07bffe8f95d75f977c02",
+      "title": "Microsoft 365 Famille et Premium : OneDrive passe de 1 To par personne à 2 To partagés",
+      "link": "https://www.it-connect.fr/microsoft-365-famille-premium-onedrive-2-to-partages/",
+      "summary": "Vous partagez Microsoft 365 Famille ou Premium avec vos proches ? Le stockage 1 To de OneDrive attribué à chaque membre laisse place à 2 To pour le foyer. Le post Microsoft 365 Famille et Premium : OneDrive passe de 1...",
+      "published": "2026-10-12T07:04:19+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "9855780aaf69650a1ddbd1d39e499855",
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
@@ -66,7 +246,7 @@
       "id": "646ca68e658dffb9a5832be44c41043d",
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior a...",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited ...",
       "published": "2026-10-10T09:18:45+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -113,26 +293,6 @@
       "image": ""
     },
     {
-      "id": "22bc20427a4cb84a472b02b65454d0d3",
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "published": "2026-10-09T17:02:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e6d9942a9ee625abf74a579f0995640d",
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "published": "2026-10-09T15:38:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "e948cfc2a0b9741f06945d74690ecd42",
       "title": "LiteBox 0.1 : Microsoft veut isoler les applications avec son OS-bibliothèque codé en Rust",
       "link": "https://www.it-connect.fr/microsoft-litebox-library-os-rust-sandbox/",
@@ -150,16 +310,6 @@
       "published": "2026-10-09T14:05:38+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "575db4874cf13c3c0188d6aebab4947a",
-      "title": "How to keep AI agents within their permissions",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-sp...",
-      "published": "2026-10-09T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -181,66 +331,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "ce13d3afe21bd392195d0ec75dd386b9",
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers a...",
-      "published": "2026-10-09T13:22:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXm446RUyCxv1-oRtdkXFCb2Hax0UsQEnanQtli1OViTiFpjV4Jb96qpsy94Td6DK6LDrre8q2masVzeA9X1hQE8ct3TEChlzZmNTaqux1CDT52o1A_6cuQYY4-inbvKDNYN4rqTGNrmrit-YcGBZbTppW5RUxNvcom2OV9pS8jU8twPWsj_Vtwgjqvg/s1600/tp.jpg"
-    },
-    {
-      "id": "0c9c173a2e3d4d48e9d9381c3a3f5301",
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched t...",
-      "published": "2026-10-09T12:59:22+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUnGcAOHQNX9naCpXjsvEAI4YXmS_pbFwgn9i_YTjR8esP-PpNXc0s-jOWo3r_M4S-an0mnZA4PwDjt3lOihJqWP60TMj3F37iIno8hynwj5xXex2Voy3Khj3QraiYO7oyeEgNtZtjB5q-FYXg9E0hNk93q7mTKdhBdPNGr0p1I35R0wxuY0IOmAlG_E/s1600/anyrun.gif"
-    },
-    {
-      "id": "bb39ac572b4be282d07c65d941d57a7a",
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claud...",
-      "published": "2026-10-09T12:47:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio2imi6QlJLQlD8KAZaktPeycFFCAWdkRp7q1TNwNHKUibXYACipc5GG2rDcZtmUR8TftkRHNTrdEXLXsGxcGoTDrTY5Eye77n1OFyeFbHP-VGUTwlhIoaHNoMGVIsUWBk07kSc-Gi3y_U0OuS-6gWBjYJEj8pxJVQ9lkEJfI_we3rVvZtAMXp0i8qs7t/s1600/oss-scanner.jpg"
-    },
-    {
-      "id": "a5e017c43bef82079252bd0a9944c18c",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws ...",
-      "published": "2026-10-09T12:47:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1600/edge.jpg"
-    },
-    {
-      "id": "effbd0438a293469f10fb0deb228f3d7",
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "published": "2026-10-09T12:32:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1515d6cb41c4378639709072a90ae743",
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known a...",
-      "published": "2026-10-09T12:21:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7eHv-Bv5ZZISuomW-aV50jkJ7Aqg-S56iEuV2y8Kl9w7SB4cp-zTDj8WicvMzPcw5tXuq-o5rIG0KPPmKxPZPcR5V47hVwbGvi7aLNE_1wgq_iDkNERTzz5kc9ivagiHEKM9BcsYjJRRB0_HWk_gsi9jzHudV_-4Ax4dUFaV5vpDlUnW2PywmEZHzN8mm/s1600/kevs.jpg"
     },
     {
       "id": "557fb1b465961fcb71f94a4d946968d2",
@@ -303,16 +393,6 @@
       "image": "https://korben.info/cloudflare-1111-blocage-dns-france/cloudflare-1111-blocage-dns-france-1.png"
     },
     {
-      "id": "6833d4e6b44eaafe3aaf638bc81fe190",
-      "title": "FakeGit est de retour : 17 610 dépôts GitHub piégés pour diffuser le malware SmartLoader",
-      "link": "https://www.it-connect.fr/fakegit-depots-github-smartloader-stealc/",
-      "summary": "17 610 dépôts GitHub piégés, dont plus de 13 000 réactivés en 34 heures : la campagne FakeGit est de retour pour diffuser le malware SmartLoader. Le post FakeGit est de retour : 17 610 dépôts GitHub piégés pour diffus...",
-      "published": "2026-10-09T06:03:57+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "b8f2d0ab3024e802cc38d88b0f2ef070",
       "title": "Vos jeux PC sur l'écran d'une Nintendo DSi de 2008",
       "link": "https://korben.info/nintendo-dsi-streaming-jeux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -323,83 +403,23 @@
       "image": "https://korben.info/nintendo-dsi-streaming-jeux/nintendo-dsi-streaming-jeux-1.jpg"
     },
     {
-      "id": "b69447f6ae7a7d3abdbe18bbe8cabeb4",
-      "title": "Conteneurs WSL : bien débuter avec wslc pour exécuter des conteneurs Linux sur Windows",
-      "link": "https://www.it-connect.fr/tuto-conteneurs-wsl-wslc-windows/",
-      "summary": "Découvrez les conteneurs WSL et l'outil wslc pour exécuter des conteneurs Linux sur Windows sans Docker Desktop : installation, commandes, build et gestion. Le post Conteneurs WSL : bien débuter avec wslc pour exécute...",
-      "published": "2026-10-08T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "becda9db34b91a135020e0360013e36e",
+      "title": "Vulnérabilité dans les produits Atlassian (06 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1264/",
+      "summary": "Unevulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "published": "2026-10-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "d498dd609089dcf1b5994c5c68e1a125",
-      "title": "Pourquoi je n'ai pas racheté de Mac mini - le PC GEEKOM A5 à 500 euros",
-      "link": "https://korben.info/pourquoi-je-nai-pas-rachete-de-mac-mini-le-pc-geekom-a5-a-500-euros.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Faute de vouloir racheter un Mac mini, dont les prix ont grimpé, Korben a testé le GEEKOM A5, un mini PC d'environ 500 euros avec Ryzen 7 7730U, 16 Go de RAM extensibles à 64 Go et SSD de 500 Go. Il l'utilise sous Ubu...",
-      "published": "2026-10-08T11:51:22+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pourquoi-je-nai-pas-rachete-de-mac-mini-le-pc-geekom-a5-a-500-euros/pourquoi-je-nai-pas-rachete-de-mac-mini-le-pc-geekom-a5-a-500-euros-1.jpg"
-    },
-    {
-      "id": "00e61b35e0f76104078f452fe866674f",
-      "title": "PhotoCraft, FilmCraft, LightCraft : la suite Adobe réécrite en Rust par des agents Claude Opus 5.5",
-      "link": "https://www.it-connect.fr/suite-adobe-rust-claude-opus-artcraft-crafting-apps/",
-      "summary": "Sept clones open source de Photoshop, Premiere ou Lightroom écrits en Rust par des agents Claude Opus 5.5 : voici les Crafting Apps. Le post PhotoCraft, FilmCraft, LightCraft : la suite Adobe réécrite en Rust par des ...",
-      "published": "2026-10-08T09:39:28+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a44c38b2bf5921cd369b5b376e35d09c",
-      "title": "Omarchy, non merci",
-      "link": "https://korben.info/omarchy-dhh-boycott.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Omarchy fait le buzz chez les libristes, mais son créateur, DHH, publie depuis septembre 2025 des billets sur l'immigration qui visent les immigrés et les « gypsies ». Voilà ce qu'il écrit, et pourquoi je ne veux plus...",
-      "published": "2026-10-08T09:35:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/omarchy-dhh-boycott/omarchy-dhh-boycott-1.png"
-    },
-    {
-      "id": "485140fa796ceb30efece0c14162b828",
-      "title": "AnyPS5 - En route pour la recompilation de jeux PS5",
-      "link": "https://korben.info/anyps5-jeux-ps5-natifs-linux-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "AnyPS5 réécrit l'exécutable d'un jeu PS5 en programme Linux ou Windows natif et remplace les bibliothèques de Sony par les siennes. Un seul jeu sur la liste officielle, et il faut apporter l'exécutable déchiffré.",
-      "published": "2026-10-08T08:48:49+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/anyps5-jeux-ps5-natifs-linux-windows/anyps5-jeux-ps5-natifs-linux-windows-1.png"
-    },
-    {
-      "id": "3f99ebc0ae0e900978094995c835c4eb",
-      "title": "Surfshark One bloque les sites pourris, mais vous choisissez lesquels vous laissez passer",
-      "link": "https://korben.info/surfshark-one-bloque-les-sites.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Surfshark ajoute une liste blanche à son bloqueur de contenu web : on peut bloquer une catégorie (jeux d'argent, pornographie, armes, malwares…) tout en autorisant des sites précis via Paramètres > Bloqueur de contenu...",
-      "published": "2026-10-08T07:53:08+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/surfshark-one-bloque-les-sites/surfshark-one-bloque-les-sites-1.webp"
-    },
-    {
-      "id": "c4f1c1aa04848306813ee3f2265751fe",
-      "title": "Windows devient une plateforme pour agents IA : Microsoft lance MXC, des modèles en local et les PC RTX Spark",
-      "link": "https://www.it-connect.fr/windows-hybrid-intelligence-mxc-agents-rtx-spark/",
-      "summary": "Microsoft lance MXC pour confiner les agents IA sous Windows 11, fait tourner des modèles IA en local et ouvre les précommandes des PC NVIDIA RTX Spark. Le post Windows devient une plateforme pour agents IA : Microsof...",
-      "published": "2026-10-08T07:16:47+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0997e4735b10cb255cd47eedf87a18d9",
-      "title": "À cause d’un slip, le numéro du Premier ministre circule sur Internet",
-      "link": "https://www.it-connect.fr/numero-telephone-sebastien-lecornu-fuite-slip-francais/",
-      "summary": "Le numéro de Sébastien Lecornu circule sur Internet, selon Le Canard enchaîné. En cause : la fuite de données du Slip Français en 2024. Ce que l'on sait. Le post À cause d’un slip, le numéro du Premier ministre circul...",
-      "published": "2026-10-08T06:41:31+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
+      "id": "40e55152ff5f2ac0c194cfee2a46a38b",
+      "title": "Vulnérabilité dans Microsoft Office (06 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1266/",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-10-06T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -453,41 +473,21 @@
       "image": ""
     },
     {
-      "id": "22c137eba10ccfc4c4ea4e2cf536e9eb",
-      "title": "Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/",
-      "summary": "Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exp...",
-      "published": "2026-10-02T00:00:00+00:00",
+      "id": "7a6a672a0f10cfe380b2a5529a2c9ce7",
+      "title": "Vulnérabilité dans GitLab (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1262/",
+      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-10-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "a11d1e043b254bf477879c8a8a040f7d",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (02 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1254/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni d...",
-      "published": "2026-10-02T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8f240e6505e04cf045179942c2cbee45",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des donné...",
-      "published": "2026-10-02T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "b36ff18d0dc5f38e27fa373f187fd20f",
-      "title": "Multiples vulnérabilités dans les produits IBM (02 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1256/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-10-02T00:00:00+00:00",
+      "id": "e6b9524fec02584171ce3331be574aaf",
+      "title": "Multiples vulnérabilités dans Zabbix (05 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte ...",
+      "published": "2026-10-05T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
