@@ -1,7 +1,187 @@
 {
-  "last_updated": "2026-10-13T00:06:03.281139+00:00",
+  "last_updated": "2026-10-13T13:30:04.507414+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0f82ae7df468b3364aa73ec9ad846908",
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalatio...",
+      "published": "2026-10-13T11:57:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg"
+    },
+    {
+      "id": "3a7af2bf57e4ee337d7aeafa305f9354",
+      "title": "GitLab - Encore une faille CVSS 10 #FautPatcher",
+      "link": "https://korben.info/gitlab-faille-critique-regex-ci-cd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "GitLab corrige une faille notée 10 sur 10 qui permettrait, sans compte, d'exécuter du code sur le serveur via une regex piégée. La troisième CVE du genre en trois semaines : voici les versions à installer.",
+      "published": "2026-10-13T11:48:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/gitlab-faille-critique-regex-ci-cd/gitlab-faille-critique-regex-ci-cd-1.avif"
+    },
+    {
+      "id": "39d5f99be21d819d09b7472e43f0b404",
+      "title": "Filmer la police, puis flouter les visages avant de publier",
+      "link": "https://korben.info/flouter-manifestants-policiers-filmer-police.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Un policier ne peut pas s'opposer à ce qu'on le filme, mais publier sans flouter pose un vrai risque. Masque, deface et Signal pour masquer les visages.",
+      "published": "2026-10-13T11:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/flouter-manifestants-policiers-filmer-police/flouter-manifestants-policiers-filmer-police-1.jpg"
+    },
+    {
+      "id": "d28bb5228edc4a1b92a96a163c029008",
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an a...",
+      "published": "2026-10-13T11:09:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg"
+    },
+    {
+      "id": "b43eb21834f3c663d7c8373f15b1bf63",
+      "title": "Microsoft Teams ouvre la porte aux détecteurs de deepfakes : ce qui change en novembre",
+      "link": "https://www.it-connect.fr/microsoft-teams-ouvre-la-porte-aux-detecteurs-de-deepfakes-ce-qui-change-en-novembre/",
+      "summary": "Dès novembre 2026, Microsoft Teams pourra afficher des alertes en réunion grâce à des outils tiers de détection de deepfakes. Voici ce qui va changer. Le post Microsoft Teams ouvre la porte aux détecteurs de deepfakes...",
+      "published": "2026-10-13T11:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "713f525aee6496baf625b02ffb9225a7",
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloa...",
+      "published": "2026-10-13T10:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLz0n_kNY4YMLYNTi1KElj3dkaig5LqA6Koy92X4ndKfwBO8ctC5bNVyII81TUHljc7MGrpMZBsUX5j4126sBd3Sk5fX_DGjIo-yz5qGrRsHgi2qiLNUUbfCSvOHcE-KoYqGzNLBvTVzwEKDt2hZ4dvGK8YYOTeA-f6FHX49GA0myiau9Mqgc_LT7D1k/s1600/bit.jpg"
+    },
+    {
+      "id": "176b7f510193e144a2264906857db3d9",
+      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached...",
+      "published": "2026-10-13T08:48:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg"
+    },
+    {
+      "id": "9b8b5f00a40c83eb01d405b4672c9d49",
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress publishe...",
+      "published": "2026-10-13T08:44:01+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1600/amrk.jpg"
+    },
+    {
+      "id": "085d04b88b5f296bc293457d6d43287d",
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue...",
+      "published": "2026-10-13T08:43:37+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg"
+    },
+    {
+      "id": "7aa71b73a2c7b3a587fb8328ebb0bef0",
+      "title": "Printr - Météo, sudoku et autres petits mots sur des tickets de caisse",
+      "link": "https://korben.info/printr-imprimante-tickets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Printr fait d'une imprimante à tickets Epson TM-T88V reliée à un Raspberry Pi un gadget familial : météo, jeux, horoscope et petits mots imprimés depuis le téléphone. Il faut ce modèle précis, compiler soi-même, et le...",
+      "published": "2026-10-13T08:30:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/printr-imprimante-tickets/printr-imprimante-tickets-1.jpg"
+    },
+    {
+      "id": "28fe2c7623a9af6e8a727b416bcea388",
+      "title": "Agent Standup : vos agents Claude Code et Codex réunis dans un appel visio pour suivre vos sessions",
+      "link": "https://www.it-connect.fr/agent-standup-agents-ia-appel-visio/",
+      "summary": "Agent Standup transforme vos sessions Claude Code, Codex et Mistral Vibe en appel visio animé, avec partage d'écran et replay. Gratuit, open source et local. Le post Agent Standup : vos agents Claude Code et Codex réu...",
+      "published": "2026-10-13T08:02:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ef53f9ed8bcbd3cd0334cdb10a7aba82",
+      "title": "Mozilla dévoile Firefox Enterprise : une console on-premise pour piloter le navigateur sur vos PC",
+      "link": "https://www.it-connect.fr/firefox-enterprise-console-mozilla/",
+      "summary": "Mozilla lance Firefox Enterprise : une console de gestion hébergée chez vous, du DLP intégré et des contrôles sur l'IA pour gérer Firefox à l'échelle d'un parc. Le post Mozilla dévoile Firefox Enterprise : une console...",
+      "published": "2026-10-13T07:18:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1cb15673566579f49a282c2cc8a2ec3d",
+      "title": "WhatsApp : la programmation des messages arrive en bêta sur Android",
+      "link": "https://www.it-connect.fr/whatsapp-messages-programmes-beta-android/",
+      "summary": "WhatsApp déploie l'envoi programmé de messages auprès de bêta-testeurs Android : jusqu'à deux semaines à l'avance, en privé comme dans les groupes. Le post WhatsApp : la programmation des messages arrive en bêta sur A...",
+      "published": "2026-10-13T07:00:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "091c170e91992009a5012f6bfbbe71a7",
+      "title": "MacSpace - Nettoyez ce qui se cache dans les données système de votre Mac",
+      "link": "https://korben.info/macspace-donnees-systeme-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "MacSpace recalcule et détaille le bloc Données système de macOS 27, libère ce qui peut l'être sans risque et purge les modèles d'Apple Intelligence en changeant la langue de Siri, iPhone compris si la synchro iCloud e...",
+      "published": "2026-10-13T07:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/macspace-donnees-systeme-mac/macspace-donnees-systeme-mac-1.png"
+    },
+    {
+      "id": "93773eb48a46ac1667a29f54e70bc9e7",
+      "title": "CyberXero : ce pirate a utilisé 51 agents Claude Code pour attaquer WordPress et l’Ukraine",
+      "link": "https://www.it-connect.fr/cyberxero-claude-code-wordpress-energie-ukraine/",
+      "summary": "Un pirate russophone a compromis 429 sites WordPress en 61 secondes et volé 628 000 fiches ukrainiennes avec l'aide de 51 agents Claude Code. Le post CyberXero : ce pirate a utilisé 51 agents Claude Code pour attaquer...",
+      "published": "2026-10-13T06:47:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9242461201c6d4589218d0fdbc525e76",
+      "title": "Maia 300 : Microsoft fera de ses puces maison le moteur d’inférence de Copilot",
+      "link": "https://www.it-connect.fr/microsoft-maia-300-inference-multi-gigawatt/",
+      "summary": "Microsoft dévoile Maia 300 et fera de ses puces Maia le système d'inférence principal de Copilot et de ses services dès 2027, à l'échelle du gigawatt. Le post Maia 300 : Microsoft fera de ses puces maison le moteur d’...",
+      "published": "2026-10-13T06:08:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1ee09c2609a45533d1dd074dcc2b7b79",
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The act...",
+      "published": "2026-10-13T06:00:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg"
+    },
+    {
+      "id": "0fb5e749f08a115f45d71e5e749a3038",
+      "title": "J'ai testé les 12 clones gratuits d'Adobe et de Microsoft",
+      "link": "https://korben.info/crafting-apps-artcraft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "PhotoCraft, WordCraft, CADCraft et neuf autres clones en Rust : je les ai installés et testés sur Mac, avec qui paie leur développement et ce que le droit européen en dit.",
+      "published": "2026-10-13T05:05:29+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/crafting-apps-artcraft/crafting-apps-artcraft-1.png"
+    },
     {
       "id": "0bdb166bfc87371e58d8241c0ad582e4",
       "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
@@ -163,16 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg"
     },
     {
-      "id": "89b7bfb08ccaa8c1ac0745168b333692",
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-...",
-      "published": "2026-10-12T10:36:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg"
-    },
-    {
       "id": "6b0a4a4061104946d19a0d321dcc015a",
       "title": "Slot - Quand l'Anbernic RG SP se prend pour une vraie GBA SP",
       "link": "https://korben.info/slot-frontend-game-boy-rg-sp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -181,16 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/slot-frontend-game-boy-rg-sp/slot-frontend-game-boy-rg-sp-1.png"
-    },
-    {
-      "id": "e4d35c967f07e44a86060d18ef4bf060",
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS s...",
-      "published": "2026-10-12T09:02:14+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg"
     },
     {
       "id": "b5374274a96939b5a038585bc5e86b08",
@@ -223,26 +383,6 @@
       "image": "https://korben.info/carafe-jeux-windows-switch/carafe-jeux-windows-switch-1.png"
     },
     {
-      "id": "6d07d1766bd485a1959d71d3455945c9",
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in...",
-      "published": "2026-10-12T07:26:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
-    },
-    {
-      "id": "b164e9200f6eadaeabc13201f8a88347",
-      "title": "Windows Update : certains PC et serveurs seront privés de mises à jour en 2027 à cause de certificats expirés",
-      "link": "https://www.it-connect.fr/windows-update-certificats-expiration-2027/",
-      "summary": "Les certificats de Windows Update expirent en mai et juin 2027. Les PC pas suffisamment à jour perdront l'accès aux mises à jour. Qui est concerné ? Le post Windows Update : certains PC et serveurs seront privés de mi...",
-      "published": "2026-10-12T07:25:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "a07d2492fa9287aec9972acb1ad7d872",
       "title": "Windows 11 - Le lien du compte local serait déjà patché",
       "link": "https://korben.info/windows-11-lien-learn-more-corrige.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -251,16 +391,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/windows-11-lien-learn-more-corrige/windows-11-lien-learn-more-corrige-1.jpg"
-    },
-    {
-      "id": "f02c06cdbbae07bffe8f95d75f977c02",
-      "title": "Microsoft 365 Famille et Premium : OneDrive passe de 1 To par personne à 2 To partagés",
-      "link": "https://www.it-connect.fr/microsoft-365-famille-premium-onedrive-2-to-partages/",
-      "summary": "Vous partagez Microsoft 365 Famille ou Premium avec vos proches ? Le stockage 1 To de OneDrive attribué à chaque membre laisse place à 2 To pour le foyer. Le post Microsoft 365 Famille et Premium : OneDrive passe de 1...",
-      "published": "2026-10-12T07:04:19+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "9855780aaf69650a1ddbd1d39e499855",
@@ -273,134 +403,14 @@
       "image": ""
     },
     {
-      "id": "482b120b3cdd64a5388bb29fca8f1620",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint,...",
-      "published": "2026-10-11T04:24:34+00:00",
-      "source": "The Hacker News",
+      "id": "1f98f15a7c105ea7d19279fd4cbd3ced",
+      "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access (07 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1275/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Secure Mobile Access. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de req...",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source": "CERT-FR",
       "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg"
-    },
-    {
-      "id": "0302a04637bcbea1992917c4a9b46c59",
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastru...",
-      "published": "2026-10-10T11:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif"
-    },
-    {
-      "id": "646ca68e658dffb9a5832be44c41043d",
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited ...",
-      "published": "2026-10-10T09:18:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg"
-    },
-    {
-      "id": "823fa1cb93809e3c9c339729db09e3e4",
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"...",
-      "published": "2026-10-09T19:14:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg"
-    },
-    {
-      "id": "e948cfc2a0b9741f06945d74690ecd42",
-      "title": "LiteBox 0.1 : Microsoft veut isoler les applications avec son OS-bibliothèque codé en Rust",
-      "link": "https://www.it-connect.fr/microsoft-litebox-library-os-rust-sandbox/",
-      "summary": "Microsoft publie LiteBox 0.1, un library OS open source écrit en Rust qui réduit l'interface avec l'hôte pour mieux isoler les applications. Le post LiteBox 0.1 : Microsoft veut isoler les applications avec son OS-bib...",
-      "published": "2026-10-09T14:27:05+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "c6c1d45cce22bde588b5276d0588a148",
-      "title": "247 failles patchées d’un coup dans Chrome 155 : l’IA est passée par là",
-      "link": "https://www.it-connect.fr/google-chrome-155-247-failles-securite-corrigees/",
-      "summary": "Chrome 155 corrige 247 failles de sécurité, dont 4 critiques. Douze ont été trouvées avec l'aide de l'IA Claude. Voici les versions à installer. Le post 247 failles patchées d’un coup dans Chrome 155 : l’IA est passée...",
-      "published": "2026-10-09T14:05:38+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fece27e6c75a54206162713a6a334b55",
-      "title": "Ventoy - La clé de secours du Steam Deck rejoint vos ISO",
-      "link": "https://korben.info/ventoy-linux-steamos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Ventoy 1.1.18 sait démarrer, en expérimental, l'image de récupération du Steam Deck, et rend la partition des ISO plus simple à monter sous Linux.",
-      "published": "2026-10-09T13:59:27+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ventoy-linux-steamos/ventoy-linux-steamos-1.png"
-    },
-    {
-      "id": "397c594e0f09d5f5b4f53ee720a50f8f",
-      "title": "Windows 11 : la fonction de recherche ne se contente plus de chercher, elle exécute des actions",
-      "link": "https://www.it-connect.fr/windows-11-nouvelle-fonction-recherche-avec-des-actions/",
-      "summary": "Microsoft teste une recherche Windows 11 reconstruite sur WinUI 3 : une liste unique, plus rapide, et des actions directement en langage naturel. Le post Windows 11 : la fonction de recherche ne se contente plus de ch...",
-      "published": "2026-10-09T13:35:57+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "557fb1b465961fcb71f94a4d946968d2",
-      "title": "Forensic Windows – Partie 15 : retracer l’historique des périphériques USB",
-      "link": "https://www.it-connect.fr/forensic-windows-historique-usb/",
-      "summary": "Forensic Windows : retrouvez les clés USB branchées sur un poste grâce à USBSTOR, setupapi.dev.log, MountPoints2, aux journaux d'événements et à USBDeview. Le post Forensic Windows – Partie 15 : retracer l’historique ...",
-      "published": "2026-10-09T11:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8321db044ae23d2cdcac760416c35f44",
-      "title": "gbos-vm - Pour vous amuser dans Googlebook OS depuis votre Mac",
-      "link": "https://korben.info/googlebook-os-vm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "gbos-vm lance l'image de recovery de Google pour le Dell Googlebook dans une VM sur Mac Apple Silicon. Ce qu'il faut, ce que le README promet, et ce qu'on n'y connecte pas.",
-      "published": "2026-10-09T08:54:05+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/googlebook-os-vm/googlebook-os-vm-1.jpg"
-    },
-    {
-      "id": "801d119f95d5b9e0d5a4a3c1fc4bae78",
-      "title": "P.T. - Le couloir de Kojima en natif sur Windows et Linux",
-      "link": "https://korben.info/pt-pc-portage-natif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un développeur de 21 ans a sorti un portage natif de P.T., le teaser de Silent Hills, pour Windows et Linux. Il lit les fichiers de votre propre copie PS4 : voilà ce qu'il faut déjà posséder, et sur quelles machines ç...",
-      "published": "2026-10-09T08:27:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/pt-pc-portage-natif/pt-pc-portage-natif-1.jpg"
-    },
-    {
-      "id": "b086ef7ef1d68b23bf4ca8adba1c8700",
-      "title": "Firefox 157 - Soutien aux barbus fâchés par Nova",
-      "link": "https://korben.info/firefox-nova-ancienne-interface.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Firefox 157 active Nova par défaut, mais un réglage d'about:config ramène l'ancienne interface. Ce qu'il ne couvre pas, et pourquoi il pourrait ne pas durer.",
-      "published": "2026-10-09T07:58:43+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/firefox-nova-ancienne-interface/firefox-nova-ancienne-interface-1.webp"
-    },
-    {
-      "id": "87f8d4a746eada7f71750f3544c146ee",
-      "title": "Canal+ perd face à Cloudflare - 1.1.1.1 reste sans filtre",
-      "link": "https://korben.info/cloudflare-1111-blocage-dns-france.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le tribunal de Paris refuse les 50 000 euros par jour réclamés par Canal+ : Cloudflare peut bloquer les sites pirates via son CDN seul. Résultat, 1.1.1.1 répond encore là où le DNS de Google refuse, mais pour combien ...",
-      "published": "2026-10-09T06:25:57+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cloudflare-1111-blocage-dns-france/cloudflare-1111-blocage-dns-france-1.png"
     },
     {
       "id": "becda9db34b91a135020e0360013e36e",
@@ -443,36 +453,6 @@
       "image": ""
     },
     {
-      "id": "a3fb88b617b9f3863c1e7c3cc9449fe8",
-      "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-10-05T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e8a3a23ee80a0076c2464d5c3aa27a05",
-      "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-10-05T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d7b49a701305feedcb04dee46fe2d12c",
-      "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "published": "2026-10-05T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "7a6a672a0f10cfe380b2a5529a2c9ce7",
       "title": "Vulnérabilité dans GitLab (05 octobre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1262/",
@@ -498,6 +478,26 @@
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
       "summary": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité ...",
       "published": "2026-09-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "98d4183112257514ece431ab810b2455",
+      "title": "Vulnérabilité dans Metabase (10 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/",
+      "summary": "Le 06 août 2026, Metabase a publié un avis de sécurité concernant une vulnérabilité critique permettant à un attaquant non authentifié de provoquer une injection SQL (SQLi) dans la base de donnée de l'application Meta...",
+      "published": "2026-09-10T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5303087cf1c93cad82215dbb8230fc87",
+      "title": "Multiples vulnérabilités dans SonicWall Secure Mobile Access (02 septembre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-009/",
+      "summary": "Le 01 septembre 2026, SonicWall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-83548 permet une falsification de requêtes ...",
+      "published": "2026-09-02T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
