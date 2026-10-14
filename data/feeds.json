@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-10-14T11:07:19.783271+00:00",
+  "last_updated": "2026-10-14T16:27:47.507381+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4d0330f6185f64ad4c8e60151d12987e",
+      "title": "Microsoft fixes VPN issues caused by September Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+      "summary": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+      "published": "2026-10-14T14:27:01+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5309248469ac6728d852c1bb6ac3a6ac",
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting...",
+      "published": "2026-10-14T14:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4124a06bb7cfa0f291320493cb69ae99",
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+      "published": "2026-10-14T13:12:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d4ee064507c10b7d4364869d64caffcf",
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+      "published": "2026-10-14T12:58:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9dffcdec6a600c6fd908d8f12ae41515",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version fo...",
+      "published": "2026-10-14T12:30:42+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
+    },
+    {
+      "id": "0301b104f85b0add13b74603159a6f5b",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl ...",
+      "published": "2026-10-14T12:13:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
+    },
+    {
+      "id": "f3d19350ea87cc2d98be356a31b0b5fe",
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. T...",
+      "published": "2026-10-14T11:50:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
+    },
+    {
+      "id": "b9ac516f900530df15d667aa46ac65d4",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "published": "2026-10-14T11:41:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f45c10e2deee7b183b867fe3d27417d9",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the att...",
+      "published": "2026-10-14T11:19:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
+    },
+    {
+      "id": "d907b1db1361af7c51c3d78f01e3df16",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks fro...",
+      "published": "2026-10-14T11:08:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg"
+    },
+    {
+      "id": "5e637073ca34bd56af612052ae2f06b9",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication ...",
+      "published": "2026-10-14T11:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg"
+    },
     {
       "id": "4a2b4e00ad017f0d409e1d77cc6e6355",
       "title": "GitLab corrige une faille critique qui permet d’exécuter du code sans authentification (CVE-2026-97229)",
@@ -21,6 +131,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "1e15db393c11422af4682214d8223d8b",
+      "title": "QBZ, le client Qobuz pour Linux c'est terminé !",
+      "link": "https://korben.info/qbz-fin-client-qobuz-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "QBZ, le client Qobuz open source pour écouter en bit-perfect sous Linux, est fermé : Qobuz a demandé son arrêt et le développeur a obéi. Ce que dit le support, ce que dit l'auteur, ce qu'il reste du code, et ce que vo...",
+      "published": "2026-10-14T10:08:30+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/qbz-fin-client-qobuz-linux/qbz-fin-client-qobuz-linux-1.jpg"
     },
     {
       "id": "9951fc7b07b26548f07c5e3e2c8a7dfb",
@@ -156,7 +276,7 @@
       "id": "227dff4b14eb0a63c2a62354a64c6f48",
       "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
       "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversati...",
+      "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversati...",
       "published": "2026-10-14T01:59:25+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -203,106 +323,6 @@
       "image": ""
     },
     {
-      "id": "34f7ce1ae7b63922a06f09ac8ac60ccf",
-      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-      "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-      "published": "2026-10-13T19:47:30+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5acd99687720fa4a81b65b827f819849",
-      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-      "published": "2026-10-13T19:04:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bec3e63dac0b40028e0b1022810eaf01",
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The fr...",
-      "published": "2026-10-13T18:20:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
-    },
-    {
-      "id": "b2afb5d6c06e98663bb313d47038de2c",
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-      "published": "2026-10-13T18:19:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7aed68e695b43cb0484fe0d198f71cc2",
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence th...",
-      "published": "2026-10-13T18:03:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg"
-    },
-    {
-      "id": "4a4c4541b85325e8916cd6921d6e1eef",
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-      "published": "2026-10-13T17:49:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "72a757b4e6613c01aaffd5fdcb8a480b",
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws...",
-      "published": "2026-10-13T17:33:11+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg"
-    },
-    {
-      "id": "529815d9bf71921540f712b2244b32d6",
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on S...",
-      "published": "2026-10-13T17:28:50+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg"
-    },
-    {
-      "id": "8c67a32164be864119e8e82f3d717424",
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
-      "published": "2026-10-13T16:44:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6f190af3eee3096ca25df7881eeb1ab0",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's p...",
-      "published": "2026-10-13T16:18:18+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg"
-    },
-    {
       "id": "e46c47eb4bc5305383b9ff408bc12a45",
       "title": "Claude for Intune : déployer et sécuriser Claude sur iPhone et iPad en entreprise",
       "link": "https://www.it-connect.fr/claude-for-intune-deployer-et-securiser-claude-sur-iphone-et-ipad-en-entreprise/",
@@ -311,16 +331,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "2c067165e6ce0586968c176ca80c4768",
-      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrati...",
-      "published": "2026-10-13T13:12:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjfJJaKUMdLoNBTH2AYUmelL_XonLcf93p8hSgMXRbLGJwReAYV-BUZ2jpBPuvUQktW0PTKi1-21oFnBJF8PfECgT7t5r-S-iMUxjrdoWPf3EDxa2IVrQYjT98HG6s-LfPlJqm8mArrfEOEZS_scT7EYG8eXxMrUaII0UaQ3kAmWDJ3mRTR4JyIJhj-5S/s1600/grindr-data.jpg"
     },
     {
       "id": "3a7af2bf57e4ee337d7aeafa305f9354",
@@ -393,91 +403,81 @@
       "image": "https://korben.info/crafting-apps-artcraft/crafting-apps-artcraft-1.png"
     },
     {
-      "id": "945c9e01d45133ff5ca4ec0a578f0833",
-      "title": "Test du Dangbei N3 Max, le projecteur au rapport qualité-prix imbattable",
-      "link": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le Dangbei N3 Max est un vidéoprojecteur LED Full HD de 1000 lumens ISO, affiché 499 € mais trouvé à 399 € sur Amazon. Son pied rotatif (-45 à +135°) et son Netflix officiel sous VIDAA OS le distinguent, mais la téléc...",
-      "published": "2026-10-12T15:15:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable-1.jpg"
-    },
-    {
-      "id": "1f98f15a7c105ea7d19279fd4cbd3ced",
-      "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access (07 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1275/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Secure Mobile Access. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de req...",
-      "published": "2026-10-07T00:00:00+00:00",
+      "id": "26e4c66da6aaec673d2ba266f60a7b13",
+      "title": "Vulnérabilité dans les produits Tenable (09 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1284/",
+      "summary": "Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique qu'une réinstallation d'un composant est nécessaire ...",
+      "published": "2026-10-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "becda9db34b91a135020e0360013e36e",
-      "title": "Vulnérabilité dans les produits Atlassian (06 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1264/",
-      "summary": "Unevulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "published": "2026-10-06T00:00:00+00:00",
+      "id": "3b7e44d6da18b93ea12d38ed1e2a910e",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (09 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1286/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à...",
+      "published": "2026-10-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "40e55152ff5f2ac0c194cfee2a46a38b",
-      "title": "Vulnérabilité dans Microsoft Office (06 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1266/",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-10-06T00:00:00+00:00",
+      "id": "6f26be8d7a2ae2baeea18d322d7ff3f4",
+      "title": "Multiples vulnérabilités dans les produits Nextcloud (09 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1283/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à ...",
+      "published": "2026-10-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "f3053f548287787ac89ab06b5aa6b9d9",
-      "title": "Multiples vulnérabilités dans Google Android (06 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1265/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une attei...",
-      "published": "2026-10-06T00:00:00+00:00",
+      "id": "7a2587f0b05017aa999ee9ff21ce0322",
+      "title": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (09 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1285/",
+      "summary": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "published": "2026-10-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "3f3ac821043227814584a8260f73449f",
-      "title": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/",
-      "summary": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni de service à distance. La CISA indique que la vulnérabilité CVE-2026-88779 est activement exploi...",
-      "published": "2026-10-05T00:00:00+00:00",
+      "id": "b2e696976e52e9e9afbcd982a3961953",
+      "title": "Multiples vulnérabilités dans les produits IBM (09 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
+      "published": "2026-10-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "7a6a672a0f10cfe380b2a5529a2c9ce7",
-      "title": "Vulnérabilité dans GitLab (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1262/",
-      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-10-05T00:00:00+00:00",
+      "id": "670ab99b1572f17444015dd3a6596506",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (09 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
+      "published": "2026-10-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "e6b9524fec02584171ce3331be574aaf",
-      "title": "Multiples vulnérabilités dans Zabbix (05 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte ...",
-      "published": "2026-10-05T00:00:00+00:00",
+      "id": "c89cbe1b3c9d29bac71b1bdeb66486b5",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (09 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1287/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
+      "published": "2026-10-09T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "013804096a2ac71c2e7b1464bfdc0736",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
-      "summary": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité ...",
-      "published": "2026-09-28T00:00:00+00:00",
+      "id": "24b1c875f5974de569c540075c56d9a7",
+      "title": "Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dé...",
+      "published": "2026-10-08T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
