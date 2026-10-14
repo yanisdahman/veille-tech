@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-13T22:15:26.111736+00:00",
+  "last_updated": "2026-10-14T03:25:18.307075+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c534e0b48f650e2a914f45f5e2a4f868",
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+      "published": "2026-10-13T22:33:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "084b4c36c8a7a1d39d42446482aa0990",
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
@@ -138,16 +148,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
       "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
       "published": "2026-10-13T15:45:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "dfe462ba063d7fd3761bad7e8371fd58",
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-      "published": "2026-10-13T15:20:20+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
