@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-10-14T03:25:18.307075+00:00",
+  "last_updated": "2026-10-14T11:07:19.783271+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "4a2b4e00ad017f0d409e1d77cc6e6355",
+      "title": "GitLab corrige une faille critique qui permet d’exécuter du code sans authentification (CVE-2026-97229)",
+      "link": "https://www.it-connect.fr/gitlab-cve-2026-97229-faille-critique-regex-ci-cd/",
+      "summary": "GitLab a corrigé la CVE-2026-97229, une faille critique qui permet d'exécuter du code sans authentification via une regex piégée dans une configuration CI/CD. Le post GitLab corrige une faille critique qui permet d’ex...",
+      "published": "2026-10-14T11:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ac68b8643562e4f251407959d9babd81",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "published": "2026-10-14T10:48:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9951fc7b07b26548f07c5e3e2c8a7dfb",
+      "title": "REA - J'ai testé le reverse engineering par agent IA",
+      "link": "https://korben.info/rea-reverse-engineering-agent-ia-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Keygen, patch d'un binaire compilé, triches de Wolfenstein 3D, fonction d'Amphetamine recréée : j'ai confié quatre exercices à Claude Code avec REA, puis sans REA, pour voir ce que ce serveur MCP apporte vraiment.",
+      "published": "2026-10-14T08:13:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/rea-reverse-engineering-agent-ia-test/rea-reverse-engineering-agent-ia-test-1.png"
+    },
+    {
+      "id": "0f985cd00b7a7b0b2a684fd900a19307",
+      "title": "Il a pris son employeur en otage avec de simples tâches planifiées : 32 mois de prison",
+      "link": "https://www.it-connect.fr/ingenieur-rancon-employeur-taches-planifiees-prison/",
+      "summary": "Un ingénieur infrastructure écope de 32 mois de prison pour avoir verrouillé le réseau de son employeur avec des tâches planifiées et exigé 20 bitcoins. Le post Il a pris son employeur en otage avec de simples tâches ...",
+      "published": "2026-10-14T08:00:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a7e68a2b2c183f9e94e2ac36798acaae",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine wri...",
+      "published": "2026-10-14T07:46:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg"
+    },
+    {
+      "id": "ed146a3d269921328f25ea2d8e1e4563",
+      "title": "Ported2Browser - +200 jeux dans le navigateur",
+      "link": "https://korben.info/ported2browser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Ported2Browser recense 210 jeux jouables dans un onglet. AssaultCube et DOOM démarrent bien, mais l'annuaire liste aussi des jeux commerciaux à vérifier.",
+      "published": "2026-10-14T07:34:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ported2browser/ported2browser-1.jpg"
+    },
+    {
+      "id": "35596527159b0f6e208e5d969a08e805",
+      "title": "Windows Server – RDS : comment lancer automatiquement un programme à la connexion ?",
+      "link": "https://www.it-connect.fr/rds-lancer-programme-ouverture-session/",
+      "summary": "Le RDS Windows Server ignore l'onglet Environnement de l'AD ? Voici comment lancer un programme à la connexion RDS par GPO ou via fQueryUserConfigFromDC. Le post Windows Server – RDS : comment lancer automatiquement u...",
+      "published": "2026-10-14T06:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0a198b917eac3e183149b85889b5bbdb",
+      "title": "Le Petit Prince devient un jeu 3D dans votre navigateur (Merci l'IA)",
+      "link": "https://korben.info/petit-prince-jeu-3d-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le Petit Prince parmi les étoiles est un jeu 3D jouable dans le navigateur, en français, que Sac dit avoir fabriqué en 16 jours avec Claude Opus 5.5, Tripo et Blender. Ce que le code révèle, les outils pour tenter l'e...",
+      "published": "2026-10-14T06:00:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/petit-prince-jeu-3d-ia/petit-prince-jeu-3d-ia-1.jpg"
+    },
+    {
+      "id": "a584484f4720af701d86879f969745ba",
+      "title": "xboxrecomp - Transformer un jeu Xbox en .exe Windows",
+      "link": "https://korben.info/xboxrecomp-recompilation-statique-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "xboxrecomp traduit le code d'un jeu Xbox originale en C pour en faire un .exe Windows. Burnout 3 tourne, mais à 2-4 images par seconde : état des lieux.",
+      "published": "2026-10-14T06:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/xboxrecomp-recompilation-statique-xbox/xboxrecomp-recompilation-statique-xbox-1.png"
+    },
+    {
+      "id": "805bc910a8a0b33c49405f3ba9e5f206",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of m...",
+      "published": "2026-10-14T05:52:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg"
+    },
+    {
+      "id": "dc5c31b775eeadc3b18bab8f79b26842",
+      "title": "Patch Tuesday – Octobre 2026 : 1 407 failles corrigées, dont trois failles zero-day",
+      "link": "https://www.it-connect.fr/patch-tuesday-octobre-2026-recapitulatif/",
+      "summary": "Microsoft a corrigé 1 407 failles avec le Patch Tuesday d'octobre 2026, un nouveau record. Une faille zero-day est déjà exploitée : voici ce qu'il faut savoir. Le post Patch Tuesday – Octobre 2026 : 1 407 failles corr...",
+      "published": "2026-10-14T05:10:21+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "dff98e1383b19505ac8da4c2adeda3b6",
+      "title": "Windows 11 KB5127648 : voici l’essentiel à savoir sur la mise à jour d’octobre 2026",
+      "link": "https://www.it-connect.fr/windows-11-kb5127648-kb5126653-nouveautes-correctifs/",
+      "summary": "KB5127648 et KB5126653 : le Patch Tuesday d'octobre 2026 corrige le bug de l'écran noir sur AVD et le VPN Always On sur Windows 11. Voici un récapitulatif. Le post Windows 11 KB5127648 : voici l’essentiel à savoir sur...",
+      "published": "2026-10-14T05:09:56+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a5e7bf039c3a70c5d568211259156179",
+      "title": "Windows 10 – KB5126657 : voici la mise à jour de sécurité d’octobre 2026",
+      "link": "https://www.it-connect.fr/windows-10-kb5126657-mise-a-jour-esu/",
+      "summary": "KB5126657 pour Windows 10 : le bug de l'Historique des fichiers est corrigé, un bug audio USB persiste et ReFS sur disque USB sera bloqué en janvier 2027. Le post Windows 10 – KB5126657 : voici la mise à jour de sécur...",
+      "published": "2026-10-14T05:09:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "845e551a54d1c6ec544df914a26f6624",
+      "title": "Patch Tuesday : Microsoft teste les cohortes de risque pour vous aider à trier plus de 1 400 CVE",
+      "link": "https://www.it-connect.fr/microsoft-cohortes-de-risque-patch-tuesday/",
+      "summary": "Microsoft propose les cohortes de risque pour prioriser les correctifs du Patch Tuesday. Découvrez ce nouveau principe qui reste tout de même perfectible. Le post Patch Tuesday : Microsoft teste les cohortes de risque...",
+      "published": "2026-10-14T05:09:23+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5843cf89696358ff5df6a654a212bcbb",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows...",
+      "published": "2026-10-14T04:34:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg"
+    },
+    {
+      "id": "227dff4b14eb0a63c2a62354a64c6f48",
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversati...",
+      "published": "2026-10-14T01:59:25+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg"
+    },
     {
       "id": "c534e0b48f650e2a914f45f5e2a4f868",
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
@@ -143,16 +303,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg"
     },
     {
-      "id": "cf8fa011f16e6f2adfb73ce7a721f3be",
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-      "published": "2026-10-13T15:45:50+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "e46c47eb4bc5305383b9ff408bc12a45",
       "title": "Claude for Intune : déployer et sécuriser Claude sur iPhone et iPad en entreprise",
       "link": "https://www.it-connect.fr/claude-for-intune-deployer-et-securiser-claude-sur-iphone-et-ipad-en-entreprise/",
@@ -171,16 +321,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjfJJaKUMdLoNBTH2AYUmelL_XonLcf93p8hSgMXRbLGJwReAYV-BUZ2jpBPuvUQktW0PTKi1-21oFnBJF8PfECgT7t5r-S-iMUxjrdoWPf3EDxa2IVrQYjT98HG6s-LfPlJqm8mArrfEOEZS_scT7EYG8eXxMrUaII0UaQ3kAmWDJ3mRTR4JyIJhj-5S/s1600/grindr-data.jpg"
-    },
-    {
-      "id": "0f82ae7df468b3364aa73ec9ad846908",
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalatio...",
-      "published": "2026-10-13T11:57:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg"
     },
     {
       "id": "3a7af2bf57e4ee337d7aeafa305f9354",
@@ -203,16 +343,6 @@
       "image": "https://korben.info/flouter-manifestants-policiers-filmer-police/flouter-manifestants-policiers-filmer-police-1.jpg"
     },
     {
-      "id": "d28bb5228edc4a1b92a96a163c029008",
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an a...",
-      "published": "2026-10-13T11:09:10+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg"
-    },
-    {
       "id": "b43eb21834f3c663d7c8373f15b1bf63",
       "title": "Microsoft Teams ouvre la porte aux détecteurs de deepfakes : ce qui change en novembre",
       "link": "https://www.it-connect.fr/microsoft-teams-ouvre-la-porte-aux-detecteurs-de-deepfakes-ce-qui-change-en-novembre/",
@@ -221,26 +351,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "713f525aee6496baf625b02ffb9225a7",
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloa...",
-      "published": "2026-10-13T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLz0n_kNY4YMLYNTi1KElj3dkaig5LqA6Koy92X4ndKfwBO8ctC5bNVyII81TUHljc7MGrpMZBsUX5j4126sBd3Sk5fX_DGjIo-yz5qGrRsHgi2qiLNUUbfCSvOHcE-KoYqGzNLBvTVzwEKDt2hZ4dvGK8YYOTeA-f6FHX49GA0myiau9Mqgc_LT7D1k/s1600/bit.jpg"
-    },
-    {
-      "id": "176b7f510193e144a2264906857db3d9",
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached...",
-      "published": "2026-10-13T08:48:41+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg"
     },
     {
       "id": "7aa71b73a2c7b3a587fb8328ebb0bef0",
@@ -263,26 +373,6 @@
       "image": ""
     },
     {
-      "id": "ef53f9ed8bcbd3cd0334cdb10a7aba82",
-      "title": "Mozilla dévoile Firefox Enterprise : une console on-premise pour piloter le navigateur sur vos PC",
-      "link": "https://www.it-connect.fr/firefox-enterprise-console-mozilla/",
-      "summary": "Mozilla lance Firefox Enterprise : une console de gestion hébergée chez vous, du DLP intégré et des contrôles sur l'IA pour gérer Firefox à l'échelle d'un parc. Le post Mozilla dévoile Firefox Enterprise : une console...",
-      "published": "2026-10-13T07:18:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1cb15673566579f49a282c2cc8a2ec3d",
-      "title": "WhatsApp : la programmation des messages arrive en bêta sur Android",
-      "link": "https://www.it-connect.fr/whatsapp-messages-programmes-beta-android/",
-      "summary": "WhatsApp déploie l'envoi programmé de messages auprès de bêta-testeurs Android : jusqu'à deux semaines à l'avance, en privé comme dans les groupes. Le post WhatsApp : la programmation des messages arrive en bêta sur A...",
-      "published": "2026-10-13T07:00:15+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "091c170e91992009a5012f6bfbbe71a7",
       "title": "MacSpace - Nettoyez ce qui se cache dans les données système de votre Mac",
       "link": "https://korben.info/macspace-donnees-systeme-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -291,26 +381,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/macspace-donnees-systeme-mac/macspace-donnees-systeme-mac-1.png"
-    },
-    {
-      "id": "93773eb48a46ac1667a29f54e70bc9e7",
-      "title": "CyberXero : ce pirate a utilisé 51 agents Claude Code pour attaquer WordPress et l’Ukraine",
-      "link": "https://www.it-connect.fr/cyberxero-claude-code-wordpress-energie-ukraine/",
-      "summary": "Un pirate russophone a compromis 429 sites WordPress en 61 secondes et volé 628 000 fiches ukrainiennes avec l'aide de 51 agents Claude Code. Le post CyberXero : ce pirate a utilisé 51 agents Claude Code pour attaquer...",
-      "published": "2026-10-13T06:47:02+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9242461201c6d4589218d0fdbc525e76",
-      "title": "Maia 300 : Microsoft fera de ses puces maison le moteur d’inférence de Copilot",
-      "link": "https://www.it-connect.fr/microsoft-maia-300-inference-multi-gigawatt/",
-      "summary": "Microsoft dévoile Maia 300 et fera de ses puces Maia le système d'inférence principal de Copilot et de ses services dès 2027, à l'échelle du gigawatt. Le post Maia 300 : Microsoft fera de ses puces maison le moteur d’...",
-      "published": "2026-10-13T06:08:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "0fb5e749f08a115f45d71e5e749a3038",
@@ -323,16 +393,6 @@
       "image": "https://korben.info/crafting-apps-artcraft/crafting-apps-artcraft-1.png"
     },
     {
-      "id": "01c634a6558f4a528511d93ccb1ae7a7",
-      "title": "Windows 11 26H2 : quels sont les nouveaux paramètres de GPO ?",
-      "link": "https://www.it-connect.fr/windows-11-26h2-quels-sont-les-nouveaux-parametres-de-gpo/",
-      "summary": "Windows 11 26H2 ajoute 32 paramètres de GPO : agents IA et MCP, blocage du NTLM, barre des tâches, BitLocker, Defender. Voici le récapitulatif complet. Le post Windows 11 26H2 : quels sont les nouveaux paramètres de G...",
-      "published": "2026-10-12T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "945c9e01d45133ff5ca4ec0a578f0833",
       "title": "Test du Dangbei N3 Max, le projecteur au rapport qualité-prix imbattable",
       "link": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -341,66 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable-1.jpg"
-    },
-    {
-      "id": "72bb13ae01b3872ec0c9ebe22fde942e",
-      "title": "ONLYOFFICE 10 - L'IA partout, mais seulement si vous la voulez",
-      "link": "https://korben.info/onlyoffice-10-ia-applications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "ONLYOFFICE 10.0 met un onglet IA dans ses quatre éditeurs, avec le modèle de votre choix sur serveur, ajoute quatre applications gratuites et une cinquantaine de nouveautés.",
-      "published": "2026-10-12T13:52:46+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/onlyoffice-10-ia-applications/onlyoffice-10-ia-applications-1.jpg"
-    },
-    {
-      "id": "9c98a891581a862e52d63d1e64ec4238",
-      "title": "Super U, Intermarché : des pirates font chauffer les congélateurs à 50 °C, des rayons entiers à la poubelle",
-      "link": "https://www.it-connect.fr/cyberattaque-supermarches-froid-danfoss/",
-      "summary": "Des congélateurs réglés à 50 °C la nuit : une cyberattaque sur les systèmes de froid Danfoss frappe des magasins U et Intermarché. Voici ce que l'on sait. Le post Super U, Intermarché : des pirates font chauffer les c...",
-      "published": "2026-10-12T13:03:09+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6b0a4a4061104946d19a0d321dcc015a",
-      "title": "Slot - Quand l'Anbernic RG SP se prend pour une vraie GBA SP",
-      "link": "https://korben.info/slot-frontend-game-boy-rg-sp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "slot ne lit que le Game Boy, mais il rejoue les gestes d'une GBA SP sur votre Anbernic RG SP : cartouches sur étagère, clapet qui sauvegarde, câble link en Wi-Fi.",
-      "published": "2026-10-12T10:06:20+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/slot-frontend-game-boy-rg-sp/slot-frontend-game-boy-rg-sp-1.png"
-    },
-    {
-      "id": "b5374274a96939b5a038585bc5e86b08",
-      "title": "Une machine à café connectée envoie plus de 1 To de données en 10 jours sur le Wi-Fi",
-      "link": "https://www.it-connect.fr/machine-cafe-keurig-1-to-donnees-10-jours/",
-      "summary": "Une machine à café connectée Keurig a envoyé plus d'un téraoctet de données en dix jours, au point de saturer un point d'accès Wi-Fi. Le post Une machine à café connectée envoie plus de 1 To de données en 10 jours sur...",
-      "published": "2026-10-12T08:05:30+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ab1e73709ab70ad0dcb368d4ef6776c7",
-      "title": "Carafe - Pour lancer vos jeux PC directement sur la Switch",
-      "link": "https://korben.info/carafe-jeux-windows-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Carafe transforme le dossier d'un jeu Windows en NSP, avec son icône, sa sauvegarde et un écran de chargement dans le HOME Menu d'une Switch sous Atmosphère. La compatibilité reste celle d'Autorun, encore expérimental...",
-      "published": "2026-10-12T07:33:42+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/carafe-jeux-windows-switch/carafe-jeux-windows-switch-1.png"
-    },
-    {
-      "id": "a07d2492fa9287aec9972acb1ad7d872",
-      "title": "Windows 11 - Le lien du compte local serait déjà patché",
-      "link": "https://korben.info/windows-11-lien-learn-more-corrige.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le lien Learn more qui menait à un compte local sur Windows 11 Home serait patché côté serveur, d'après son découvreur. Ce que ça change, et ce qui reste.",
-      "published": "2026-10-12T07:15:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/windows-11-lien-learn-more-corrige/windows-11-lien-learn-more-corrige-1.jpg"
     },
     {
       "id": "1f98f15a7c105ea7d19279fd4cbd3ced",
