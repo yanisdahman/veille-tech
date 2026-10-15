@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-10-15T10:48:43.902036+00:00",
+  "last_updated": "2026-10-15T16:15:15.685420+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ee7ab91214b9c2ae79ab0c400580c29c",
+      "title": "NAS Synology – Plus d’espace disque disponible, que faire ?",
+      "link": "https://www.it-connect.fr/nas-synology-plus-espace-disque-disponible-que-faire-qdirstat/",
+      "summary": "Ce tutoriel explique comment analyser l'espace disque d'un NAS Synology avec QDirStat, l'équivalent de WinDirStat, pour identifier les fichiers volumineux. Le post NAS Synology – Plus d’espace disque disponible, que f...",
+      "published": "2026-10-15T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6b7d598384e644a9911d5587181ecf1d",
+      "title": "Nextcloud : des serveurs piratés via une faille critique de l’application Collabora Built-in CODE",
+      "link": "https://www.it-connect.fr/nextcloud-collabora-built-in-code-faille-webshell-cve-2026-110447/",
+      "summary": "Une faille critique de l'app Collabora Built-in CODE de Nextcloud sert à déposer des webshells. La désactiver ne suffit pas : voici comment vous protéger. Le post Nextcloud : des serveurs piratés via une faille critiq...",
+      "published": "2026-10-15T15:13:43+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c3a882d87bdea8f847bd4d0a8eaac5b8",
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is a...",
+      "published": "2026-10-15T14:11:36+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp2enQeK-5xZuEo_rLQje9W_odynVLALJCEvTyaMSolIfwVonZGMceQWA8yq9xPMD-C_RkIp-V03EqEBVTM5yMq9IHWRRfSHxWWDS6kCJVcVAsmlFXt5wD2pK7Bk-A6iBIDFS2o811n8e48B1Psni_qvrkJ0HMXtJlhaLwx7jkxEG-e0XDgtcAMUMLiNFV/s1600/hot.jpg"
+    },
+    {
+      "id": "d16ae14ed768e6d77fb6981f27df5372",
+      "title": "Is AI pentesting as good as a human pentester?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of bot...",
+      "published": "2026-10-15T14:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "99ab97a2b1333280709e4796f12c2a2f",
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+      "published": "2026-10-15T13:18:36+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "529c0830392c22b47a1dfcb8da1a80a1",
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash...",
+      "published": "2026-10-15T12:58:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg"
+    },
+    {
+      "id": "8cd8369e6004ca1e664eb30008f4fddc",
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is...",
+      "published": "2026-10-15T12:28:13+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s1600/nextjs-rce.jpg"
+    },
+    {
+      "id": "ca4f152d80a34139b403c45f15f16cc7",
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach t...",
+      "published": "2026-10-15T12:07:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg"
+    },
+    {
+      "id": "644e0175ea022a0e490c42441e1441a3",
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online ...",
+      "published": "2026-10-15T11:55:38+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0927e815effec6825585a6e471006e9",
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and Octo...",
+      "published": "2026-10-15T11:46:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg"
+    },
+    {
+      "id": "6443ed26b6b41a48d481ea374bc7653d",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of ...",
+      "published": "2026-10-15T11:46:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
+    },
+    {
+      "id": "916e69e794dfb65e005eab2b90e8ba16",
+      "title": "Why AI Confidence Is Not Validation",
+      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioner...",
+      "published": "2026-10-15T11:04:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMcD8RJr4YbArE7ir74w0wFobrcZI94oJ41w_VwSIFPeQMqG4Ofa6xgtcUqD9op38axL3iAMYu-Y0zv0CEc7LrZAmj7lWLdzZ29ZbL5TD6Up2nGRqJkHGoUF6Hs_QA-A8TVz8f1dfuCcnB4kvzzYrZOu1JqVUE2s2JEkP4E0WjvKptVmvsbyfl4uBwas/s1600/sans-ai.jpg"
+    },
     {
       "id": "22b05e03e9afccb16aeb5672485e58f6",
       "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
@@ -83,26 +203,6 @@
       "image": "https://korben.info/ghostscript-faille-pdf-serveurs/ghostscript-faille-pdf-serveurs-1.png"
     },
     {
-      "id": "5902db94a77b44e850ba253612933858",
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in qu...",
-      "published": "2026-10-15T06:43:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg"
-    },
-    {
-      "id": "6443ed26b6b41a48d481ea374bc7653d",
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of ...",
-      "published": "2026-10-15T06:17:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
-    },
-    {
       "id": "361bd46b2b1b547c6a857cf6e440f7bc",
       "title": "ElixirOffice - Une suite libre pour ceux qui ont du mal à quitter Office",
       "link": "https://korben.info/elixiroffice-suite-bureautique-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -153,16 +253,6 @@
       "image": ""
     },
     {
-      "id": "ba27e73991607a596b5447653e1d5d19",
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an em...",
-      "published": "2026-10-14T18:38:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg"
-    },
-    {
       "id": "336c133519364f64170889a61e3e05d8",
       "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
@@ -171,16 +261,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "2ceea876a65c1584caf527d703247c4d",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged atta...",
-      "published": "2026-10-14T17:38:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg"
     },
     {
       "id": "77a2c59665333d128ef5232dcc80ccb5",
@@ -193,26 +273,6 @@
       "image": ""
     },
     {
-      "id": "3fd8fd3fa2730da827584962499131ab",
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption o...",
-      "published": "2026-10-14T17:09:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg"
-    },
-    {
-      "id": "b0ea1f4d0ab57be0baecffef14d7a2ac",
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The in...",
-      "published": "2026-10-14T16:34:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg"
-    },
-    {
       "id": "4d0330f6185f64ad4c8e60151d12987e",
       "title": "Microsoft fixes VPN issues caused by September Windows updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
@@ -221,46 +281,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "5309248469ac6728d852c1bb6ac3a6ac",
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting...",
-      "published": "2026-10-14T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4124a06bb7cfa0f291320493cb69ae99",
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
-      "published": "2026-10-14T13:12:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d4ee064507c10b7d4364869d64caffcf",
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-      "published": "2026-10-14T12:58:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9dffcdec6a600c6fd908d8f12ae41515",
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version fo...",
-      "published": "2026-10-14T12:30:42+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
     },
     {
       "id": "4a2b4e00ad017f0d409e1d77cc6e6355",
@@ -373,26 +393,6 @@
       "image": ""
     },
     {
-      "id": "845e551a54d1c6ec544df914a26f6624",
-      "title": "Patch Tuesday : Microsoft teste les cohortes de risque pour vous aider à trier plus de 1 400 CVE",
-      "link": "https://www.it-connect.fr/microsoft-cohortes-de-risque-patch-tuesday/",
-      "summary": "Microsoft propose les cohortes de risque pour prioriser les correctifs du Patch Tuesday. Découvrez ce nouveau principe qui reste tout de même perfectible. Le post Patch Tuesday : Microsoft teste les cohortes de risque...",
-      "published": "2026-10-14T05:09:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e46c47eb4bc5305383b9ff408bc12a45",
-      "title": "Claude for Intune : déployer et sécuriser Claude sur iPhone et iPad en entreprise",
-      "link": "https://www.it-connect.fr/claude-for-intune-deployer-et-securiser-claude-sur-iphone-et-ipad-en-entreprise/",
-      "summary": "Claude for Intune permet de gérer l'app Claude sur iOS avec Intune : prérequis, consentement Entra ID, déploiement, stratégie APP et accès conditionnel. Le post Claude for Intune : déployer et sécuriser Claude sur iPh...",
-      "published": "2026-10-13T14:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "3a7af2bf57e4ee337d7aeafa305f9354",
       "title": "GitLab - Encore une faille CVSS 10 #FautPatcher",
       "link": "https://korben.info/gitlab-faille-critique-regex-ci-cd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -403,81 +403,81 @@
       "image": "https://korben.info/gitlab-faille-critique-regex-ci-cd/gitlab-faille-critique-regex-ci-cd-1.avif"
     },
     {
-      "id": "26e4c66da6aaec673d2ba266f60a7b13",
-      "title": "Vulnérabilité dans les produits Tenable (09 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1284/",
-      "summary": "Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique qu'une réinstallation d'un composant est nécessaire ...",
-      "published": "2026-10-09T00:00:00+00:00",
+      "id": "ea197d1d2eca4b76914103bc071dd7e0",
+      "title": "Vulnérabilité dans NetApp StorageGRID (13 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1295/",
+      "summary": "Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "published": "2026-10-13T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "3b7e44d6da18b93ea12d38ed1e2a910e",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (09 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1286/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à...",
-      "published": "2026-10-09T00:00:00+00:00",
+      "id": "f3a05894da8d93f44e55306057b417ec",
+      "title": "Multiples vulnérabilités dans Mozilla Firefox (13 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1297/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "published": "2026-10-13T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "6f26be8d7a2ae2baeea18d322d7ff3f4",
-      "title": "Multiples vulnérabilités dans les produits Nextcloud (09 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1283/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à ...",
-      "published": "2026-10-09T00:00:00+00:00",
+      "id": "5c948c60f2b1300d970e664032f439b5",
+      "title": "Vulnérabilité dans Schneider Electric Harmony (13 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1299/",
+      "summary": "Une vulnérabilité a été découverte dans Schneider Electric Harmony. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-10-13T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "7a2587f0b05017aa999ee9ff21ce0322",
-      "title": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (09 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1285/",
-      "summary": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "published": "2026-10-09T00:00:00+00:00",
+      "id": "ce900c0b8d72111341ce59ac2226f716",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-043 (12 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-043/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-10-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "b2e696976e52e9e9afbcd982a3961953",
-      "title": "Multiples vulnérabilités dans les produits IBM (09 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-10-09T00:00:00+00:00",
+      "id": "ee796b08180794b48a5c24136b11cf65",
+      "title": "Multiples vulnérabilités dans GitLab (12 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1294/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et...",
+      "published": "2026-10-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "670ab99b1572f17444015dd3a6596506",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (09 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des donn...",
-      "published": "2026-10-09T00:00:00+00:00",
+      "id": "55e35ac75a26924b3f9eedd695db30e8",
+      "title": "Multiples vulnérabilités dans PostgreSQL JDBC (12 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1292/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL JDBC. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "published": "2026-10-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "c89cbe1b3c9d29bac71b1bdeb66486b5",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (09 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1287/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges e...",
-      "published": "2026-10-09T00:00:00+00:00",
+      "id": "8258795b038995828c6844599a3a3510",
+      "title": "Multiples vulnérabilités dans MongoDB (12 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1293/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-10-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "24b1c875f5974de569c540075c56d9a7",
-      "title": "Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dé...",
-      "published": "2026-10-08T00:00:00+00:00",
+      "id": "0006c35c3cc3b5704dffe805e7993d9f",
+      "title": "Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération (12 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
+      "summary": "Le CERT-FR a connaissance de nombreuses compromissions des controleurs à distance d'installation de réfrigération Danfoss série AK-SM, AK-SC ainsi que Copeland xweb et Dixell xweb. De manière générale l'exposition d'u...",
+      "published": "2026-10-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
