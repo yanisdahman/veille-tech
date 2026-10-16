@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-16T16:01:07.894071+00:00",
+  "last_updated": "2026-10-16T20:27:43.710884+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "32b7a245aa33fe5ef82c89c201f6257b",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "published": "2026-10-16T20:00:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "11f986cc77fa7b76583412b1dc9ddbaa",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and ...",
+      "published": "2026-10-16T17:48:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg"
+    },
+    {
+      "id": "a7cd171420973dd0e401dc59e84ab1ad",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "published": "2026-10-16T17:20:03+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d6e1ba04aac2b55fab79d10ae5cf302f",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup p...",
+      "published": "2026-10-16T16:43:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg"
+    },
+    {
+      "id": "e2c81391728cf46483ce4f20a7868d2c",
+      "title": "PwnEscape : une faille Linux permet de s’évader d’une VM KVM",
+      "link": "https://www.it-connect.fr/pwnescape-cve-2026-99999-faille-noyau-linux-evasion-vm/",
+      "summary": "PwnEscape (CVE-2026-99999), faille critique du noyau Linux, fait fuir la mémoire de l'hôte depuis une VM, jusqu'à l'évasion. Voici comment se protéger. Le post PwnEscape : une faille Linux permet de s’évader d’une VM ...",
+      "published": "2026-10-16T16:24:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e7302d9164531ac912951e53b5c68fba",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adver...",
+      "published": "2026-10-16T16:16:44+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg"
+    },
     {
       "id": "c47b66519ff5903113073d28f9691232",
       "title": "Cloud & Cyber Security Expo Paris 2026 : les inscriptions sont ouvertes",
@@ -263,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "30132e994cbca38b518e4493b88db060",
-      "title": "Fake Arch Linux packages push malware with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-      "published": "2026-10-15T17:12:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "83b24f070e1fcd1752bd7b8650b851ba",
       "title": "OpenAI : un ingénieur arrêté pour avoir caché un enregistreur dans la salle de réunion de la direction",
       "link": "https://www.it-connect.fr/openai-ingenieur-arrete-enregistreur-salle-reunion-direction/",
@@ -280,56 +330,6 @@
       "published": "2026-10-15T16:16:50+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "475627746f489d0dae8b70a684ab6f2a",
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the ...",
-      "published": "2026-10-15T16:01:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0PuxlZklu67SsXNfh_vZefiytkMx159npHL_6Ln3dNT0yxzyYE55zZU5SMOFGk39ZqhfWzXpYQfXdoZB0gGYdkoPu3cNactAPL9ZuCWdb_v4Hp4ZkoBLtEnzBovntpudGiQZvIwTucBgDRwNzfVR5SNybyZvTANvdqsDPjHVoUQcV3hrBNm0-YMvZK0/s1600/spyware-ads.jpg"
-    },
-    {
-      "id": "007b3796a589bd917811d8e111dc58e8",
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through...",
-      "published": "2026-10-15T16:00:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s1600/winrar-hacker.jpg"
-    },
-    {
-      "id": "ee7ab91214b9c2ae79ab0c400580c29c",
-      "title": "NAS Synology – Plus d’espace disque disponible, que faire ?",
-      "link": "https://www.it-connect.fr/nas-synology-plus-espace-disque-disponible-que-faire-qdirstat/",
-      "summary": "Ce tutoriel explique comment analyser l'espace disque d'un NAS Synology avec QDirStat, l'équivalent de WinDirStat, pour identifier les fichiers volumineux. Le post NAS Synology – Plus d’espace disque disponible, que f...",
-      "published": "2026-10-15T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c3a882d87bdea8f847bd4d0a8eaac5b8",
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is a...",
-      "published": "2026-10-15T14:11:36+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp2enQeK-5xZuEo_rLQje9W_odynVLALJCEvTyaMSolIfwVonZGMceQWA8yq9xPMD-C_RkIp-V03EqEBVTM5yMq9IHWRRfSHxWWDS6kCJVcVAsmlFXt5wD2pK7Bk-A6iBIDFS2o811n8e48B1Psni_qvrkJ0HMXtJlhaLwx7jkxEG-e0XDgtcAMUMLiNFV/s1600/hot.jpg"
-    },
-    {
-      "id": "d16ae14ed768e6d77fb6981f27df5372",
-      "title": "Is AI pentesting as good as a human pentester?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of bot...",
-      "published": "2026-10-15T14:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
