@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-10-16T10:37:53.212398+00:00",
+  "last_updated": "2026-10-16T16:01:07.894071+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c47b66519ff5903113073d28f9691232",
+      "title": "Cloud & Cyber Security Expo Paris 2026 : les inscriptions sont ouvertes",
+      "link": "https://www.it-connect.fr/cloud-cyber-security-expo-paris-2026-les-inscriptions-sont-ouvertes/",
+      "summary": "Les inscriptions pour l'événement Cloud & Cyber Security Expo Paris 2026 sont désormais ouvertes. Obtenez votre badge gratuitement pour y participer. Le post Cloud & Cyber Security Expo Paris 2026 : les inscriptions s...",
+      "published": "2026-10-16T16:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "284942ec6414c5036d833e784e5ce0f8",
+      "title": "Backuply : une faille SQL menace 600 000 WordPress, surtout si vous restaurez votre site web",
+      "link": "https://www.it-connect.fr/backuply-cve-2026-93953-injection-sql-wordpress/",
+      "summary": "CVE-2026-93953 : une injection SQL dans Backuply, présent sur 600 000 sites WordPress, permet à un simple abonné de devenir administrateur. Mettez à jour. Le post Backuply : une faille SQL menace 600 000 WordPress, su...",
+      "published": "2026-10-16T15:43:24+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d29fa8852d2f9dd62ac6fcbcb38d374d",
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network,...",
+      "published": "2026-10-16T14:03:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg"
+    },
+    {
+      "id": "ccb62807566a9fef99de54db1786092c",
+      "title": "Windows 11 KB5127648 : la mise à jour d’octobre 2026 perturbe Smart App Control",
+      "link": "https://www.it-connect.fr/windows-11-kb5127648-smart-app-control-grise/",
+      "summary": "Depuis la KB5127648, Smart App Control peut rester grisé sur Windows 11. Microsoft confirme le bug et propose deux contournements, via le Registre ou une GPO. Le post Windows 11 KB5127648 : la mise à jour d’octobre 20...",
+      "published": "2026-10-16T13:59:57+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d7e4fe5180d687cc3e2fb5e940995625",
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized...",
+      "published": "2026-10-16T13:50:59+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "421ae0d852b6595844aca100f2f3fcc0",
+      "title": "Microsoft Defender for Endpoint prend désormais en charge les postes de travail Linux",
+      "link": "https://www.it-connect.fr/microsoft-defender-endpoint-postes-travail-linux/",
+      "summary": "Microsoft Defender for Endpoint protège désormais les postes de travail Linux, en préversion publique. Compatibilité, licence... Voici l'essentiel à savoir. Le post Microsoft Defender for Endpoint prend désormais en c...",
+      "published": "2026-10-16T13:37:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ea17759b3ffd5a00d117f68f2bb8a8af",
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "published": "2026-10-16T12:01:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1743bf8828c5cabf52f02e06aea08e48",
+      "title": "Forensic Windows – Partie 16 : révéler les secrets des navigateurs Web (Chrome et Edge)",
+      "link": "https://www.it-connect.fr/forensic-windows-analyser-navigateurs-chrome-edge/",
+      "summary": "Historique, téléchargements, cookies, identifiants, favoris : où Chrome et Edge stockent leurs traces sous Windows et comment les analyser en forensic. Le post Forensic Windows – Partie 16 : révéler les secrets des na...",
+      "published": "2026-10-16T11:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "2b86ea0d21e889319060614ad00fb5b2",
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI ...",
+      "published": "2026-10-16T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg"
+    },
     {
       "id": "54e61fb3822f5d1b2397e1b451552cc8",
       "title": "Pire que la France : 8,8 millions de Danois exposés à cause du mot de passe 123456",
@@ -223,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "6b7d598384e644a9911d5587181ecf1d",
-      "title": "Nextcloud : des serveurs piratés via une faille critique de l’application Collabora Built-in CODE",
-      "link": "https://www.it-connect.fr/nextcloud-collabora-built-in-code-faille-webshell-cve-2026-110447/",
-      "summary": "Une faille critique de l'app Collabora Built-in CODE de Nextcloud sert à déposer des webshells. La désactiver ne suffit pas : voici comment vous protéger. Le post Nextcloud : des serveurs piratés via une faille critiq...",
-      "published": "2026-10-15T15:13:43+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "c3a882d87bdea8f847bd4d0a8eaac5b8",
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
       "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
@@ -253,46 +333,6 @@
       "image": ""
     },
     {
-      "id": "99ab97a2b1333280709e4796f12c2a2f",
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-      "published": "2026-10-15T13:18:36+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "529c0830392c22b47a1dfcb8da1a80a1",
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash...",
-      "published": "2026-10-15T12:58:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg"
-    },
-    {
-      "id": "8cd8369e6004ca1e664eb30008f4fddc",
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is...",
-      "published": "2026-10-15T12:28:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s1600/nextjs-rce.jpg"
-    },
-    {
-      "id": "644e0175ea022a0e490c42441e1441a3",
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online ...",
-      "published": "2026-10-15T11:55:38+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6dec0ba831ce717ef90ef31763120a67",
       "title": "Tiny11 Builder - Votre ISO de Windows 11 allégée en quelques clics",
       "link": "https://korben.info/tiny11-builder-appli-windows-11-allege.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -301,16 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/tiny11-builder-appli-windows-11-allege/tiny11-builder-appli-windows-11-allege-1.png"
-    },
-    {
-      "id": "b5147aac584e4f37facbb7c740f328fc",
-      "title": "GhostPat : cette faille critique Docker Hub permettait d’usurper n’importe quel utilisateur",
-      "link": "https://www.it-connect.fr/docker-hub-faille-ghostpat-cve-2026-105445/",
-      "summary": "La faille CVE-2026-105445 alias GhostPat de Docker Hub permettait de détourner un jeton d'accès pour agir au nom d'un autre utilisateur. Le post GhostPat : cette faille critique Docker Hub permettait d’usurper n’impor...",
-      "published": "2026-10-15T07:06:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "ef8ac0f37284a424bd7e96b5f3c1e912",
@@ -343,26 +373,6 @@
       "image": "https://korben.info/opencnc3d-command-conquer-64-pc-mac/opencnc3d-command-conquer-64-pc-mac-1.webp"
     },
     {
-      "id": "ff1fddcbe9ace727511b3aa0a123ed5c",
-      "title": "Windows Server : les mises à jour d’octobre 2026 en détail",
-      "link": "https://www.it-connect.fr/mises-a-jour-octobre-2026-pour-windows-server/",
-      "summary": "KB5126646, KB5126655 : Microsoft a publié les mises à jour d'octobre 2026 pour Windows Server. Fin du support principal de WS 2022 et nouveautés à connaître. Le post Windows Server : les mises à jour d’octobre 2026 en...",
-      "published": "2026-10-15T04:56:37+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "4a2b4e00ad017f0d409e1d77cc6e6355",
-      "title": "GitLab corrige une faille critique qui permet d’exécuter du code sans authentification (CVE-2026-97229)",
-      "link": "https://www.it-connect.fr/gitlab-cve-2026-97229-faille-critique-regex-ci-cd/",
-      "summary": "GitLab a corrigé la CVE-2026-97229, une faille critique qui permet d'exécuter du code sans authentification via une regex piégée dans une configuration CI/CD. Le post GitLab corrige une faille critique qui permet d’ex...",
-      "published": "2026-10-14T11:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "1e15db393c11422af4682214d8223d8b",
       "title": "QBZ, le client Qobuz pour Linux c'est terminé !",
       "link": "https://korben.info/qbz-fin-client-qobuz-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -383,16 +393,6 @@
       "image": "https://korben.info/rea-reverse-engineering-agent-ia-test/rea-reverse-engineering-agent-ia-test-1.png"
     },
     {
-      "id": "0f985cd00b7a7b0b2a684fd900a19307",
-      "title": "Il a pris son employeur en otage avec de simples tâches planifiées : 32 mois de prison",
-      "link": "https://www.it-connect.fr/ingenieur-rancon-employeur-taches-planifiees-prison/",
-      "summary": "Un ingénieur infrastructure écope de 32 mois de prison pour avoir verrouillé le réseau de son employeur avec des tâches planifiées et exigé 20 bitcoins. Le post Il a pris son employeur en otage avec de simples tâches ...",
-      "published": "2026-10-14T08:00:41+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "ed146a3d269921328f25ea2d8e1e4563",
       "title": "Ported2Browser - +200 jeux dans le navigateur",
       "link": "https://korben.info/ported2browser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -403,21 +403,71 @@
       "image": "https://korben.info/ported2browser/ported2browser-1.jpg"
     },
     {
-      "id": "ea197d1d2eca4b76914103bc071dd7e0",
-      "title": "Vulnérabilité dans NetApp StorageGRID (13 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1295/",
-      "summary": "Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "published": "2026-10-13T00:00:00+00:00",
+      "id": "b1c84b8abcb7ac6af9da4b879f3cae0e",
+      "title": "Multiples vulnérabilités dans les produits Ivanti (14 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1311/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une ...",
+      "published": "2026-10-14T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "f3a05894da8d93f44e55306057b417ec",
-      "title": "Multiples vulnérabilités dans Mozilla Firefox (13 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1297/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "published": "2026-10-13T00:00:00+00:00",
+      "id": "a99a54591b6e5c1a9bdcb73a922743f8",
+      "title": "Multiples vulnérabilités dans Microsoft Office (14 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1312/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une att...",
+      "published": "2026-10-14T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fc80f02c4f90ca87a5b0f58c7002a9d3",
+      "title": "Multiples vulnérabilités dans les produits Adobe (14 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1301/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un dé...",
+      "published": "2026-10-14T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "dd8ca0c5886518d887565cef5744970d",
+      "title": "Multiples vulnérabilités dans Microsoft Azure (14 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1315/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atte...",
+      "published": "2026-10-14T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "2a8ba98a718ed07031b8bd6a2df31820",
+      "title": "Multiples vulnérabilités dans Google Chrome (14 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1308/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-10-14T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6c8fdbfa393dc250ee58dd01ca04ec67",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (14 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1305/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la...",
+      "published": "2026-10-14T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5bb68496cfa768cbbf349592b0a502a3",
+      "title": "Vulnérabilité dans Zabbix (14 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1309/",
+      "summary": "Une vulnérabilité a été découverte dans Zabbix. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "published": "2026-10-14T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -433,41 +483,11 @@
       "image": ""
     },
     {
-      "id": "ce900c0b8d72111341ce59ac2226f716",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-043 (12 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-043/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-10-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ee796b08180794b48a5c24136b11cf65",
-      "title": "Multiples vulnérabilités dans GitLab (12 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1294/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et...",
-      "published": "2026-10-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "55e35ac75a26924b3f9eedd695db30e8",
-      "title": "Multiples vulnérabilités dans PostgreSQL JDBC (12 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1292/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL JDBC. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "published": "2026-10-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8258795b038995828c6844599a3a3510",
-      "title": "Multiples vulnérabilités dans MongoDB (12 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1293/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-10-12T00:00:00+00:00",
+      "id": "893047b29b5303b945f4cf757b5dcd38",
+      "title": "Multiples vulnérabilités dans les produits SAP (13 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1300/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des ...",
+      "published": "2026-10-13T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -478,26 +498,6 @@
       "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
       "summary": "Le CERT-FR a connaissance de nombreuses compromissions des controleurs à distance d'installation de réfrigération Danfoss série AK-SM, AK-SC ainsi que Copeland xweb et Dixell xweb. De manière générale l'exposition d'u...",
       "published": "2026-10-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "98d4183112257514ece431ab810b2455",
-      "title": "Vulnérabilité dans Metabase (10 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/",
-      "summary": "Le 06 août 2026, Metabase a publié un avis de sécurité concernant une vulnérabilité critique permettant à un attaquant non authentifié de provoquer une injection SQL (SQLi) dans la base de donnée de l'application Meta...",
-      "published": "2026-09-10T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5303087cf1c93cad82215dbb8230fc87",
-      "title": "Multiples vulnérabilités dans SonicWall Secure Mobile Access (02 septembre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-009/",
-      "summary": "Le 01 septembre 2026, SonicWall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-83548 permet une falsification de requêtes ...",
-      "published": "2026-09-02T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
