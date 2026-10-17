@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-17T14:54:12.726870+00:00",
+  "last_updated": "2026-10-17T20:03:06.964437+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c549025bcffd73d0a57b903087bba598",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "published": "2026-10-17T15:18:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "4864321055de1de413aae9b760271b85",
       "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
@@ -318,16 +328,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
       "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
       "published": "2026-10-15T20:25:04+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "3c93046ebafe2dfbdf88c70c6c9c91d0",
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
-      "published": "2026-10-15T19:48:43+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
