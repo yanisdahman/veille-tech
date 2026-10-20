@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-20T16:18:22.739130+00:00",
+  "last_updated": "2026-10-20T21:12:26.085318+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2ea30e32de9c30bf8ae6275e7b410544",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled...",
+      "published": "2026-10-20T20:56:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "548ac6aa2a87eb986684185457d5e208",
+      "title": "Zeabur shutting down after second security breach in two months",
+      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million envir...",
+      "published": "2026-10-20T19:33:02+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8f8c21de5192a6576a1ec1f5bbbc71fe",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "published": "2026-10-20T18:11:03+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9f9695e97b94ae78b7291c6c5ca2af4f",
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that w...",
+      "published": "2026-10-20T17:09:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg"
+    },
     {
       "id": "58eae5ce988b0592a7d19fd87b64e331",
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
@@ -163,16 +203,6 @@
       "image": ""
     },
     {
-      "id": "6cf35074374b51eaf651947bfd0cba9f",
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a...",
-      "published": "2026-10-20T08:21:29+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg"
-    },
-    {
       "id": "aec6d5d6a9a2972022a97ff14845c8d6",
       "title": "Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE",
       "link": "https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -231,36 +261,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur/la-disquette-jeu-pc-de-la-semaine-navigateur-1.png"
-    },
-    {
-      "id": "75ec39f9f00f39652133a400c3593d1b",
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
-      "published": "2026-10-19T21:49:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8b434aa1867a282c823507c367fedca5",
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
-      "published": "2026-10-19T21:24:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bd6e182ba5e2b738a4ad7182d9eeb5a7",
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original st...",
-      "published": "2026-10-19T19:40:58+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "f2022ae703e8645003437f472e173e11",
