@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-10-20T03:16:45.410495+00:00",
+  "last_updated": "2026-10-20T10:53:24.220453+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "c6f1fd1abb7a939d9eb2f2660e801dcd",
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+      "published": "2026-10-20T09:46:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6cf35074374b51eaf651947bfd0cba9f",
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a...",
+      "published": "2026-10-20T08:21:29+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg"
+    },
+    {
+      "id": "aec6d5d6a9a2972022a97ff14845c8d6",
+      "title": "Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE",
+      "link": "https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Quentin Kaiser a divulgué une faille d'au moins 16 ans dans le code WPS de Broadcom : à portée de Wi-Fi, sans la clé du réseau, on peut faire exécuter son code à une box. Broadcom dit l'avoir remplacé en 2018 mais ref...",
+      "published": "2026-10-20T07:51:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/faille-wps-broadcom-routeurs-wifi/faille-wps-broadcom-routeurs-wifi-1.png"
+    },
+    {
+      "id": "14817ceca31a31b178fabba34441e9b6",
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: ...",
+      "published": "2026-10-20T07:11:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg"
+    },
+    {
+      "id": "33474c69a19c65760c906e87aa509667",
+      "title": "AOMEI Backupper et AnyViewer : des mises à jour piégées distribuées par vagues de quelques minutes",
+      "link": "https://www.it-connect.fr/aomei-backupper-anyviewer-mises-a-jour-piegees/",
+      "summary": "Des pirates ont piégé les serveurs de mise à jour d'AOMEI en se limitant à des fenêtres de quelques minutes à chaque fois pour infecter les utilisateurs. Le post AOMEI Backupper et AnyViewer : des mises à jour piégées...",
+      "published": "2026-10-20T06:46:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d93d80540ce89720bbe2b66933b0f24f",
+      "title": "Bitwarden passe ses apps sous licence commerciale : ce qui change pour vous",
+      "link": "https://www.it-connect.fr/bitwarden-applications-stores-licence-commerciale-gplv3/",
+      "summary": "Vous utilisez Bitwarden ? Ses applications des stores passent sous licence commerciale, la version GPLv3 reste sur GitHub. Voici ce qu'il faut retenir. Le post Bitwarden passe ses apps sous licence commerciale : ce qu...",
+      "published": "2026-10-20T06:23:54+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a442ef4db5cae1b252c7002764930f3c",
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly...",
+      "published": "2026-10-20T05:53:16+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg"
+    },
+    {
+      "id": "e31d6403ba008c6b503c54faf484c452",
+      "title": "WordPress : une version piégée de l’extension SEO Rank Math PRO a été distribuée avec un malware",
+      "link": "https://www.it-connect.fr/rank-math-pro-malware-supply-chain/",
+      "summary": "Une version piégée de Rank Math PRO a été distribuée avec un malware pendant onze heures. Si vous l'avez activée, votre site WordPress est compromis. Le post WordPress : une version piégée de l’extension SEO Rank Math...",
+      "published": "2026-10-20T05:39:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "386f302ae585fc935e1ef0bb59c0cf64",
+      "title": "OVHcloud : les binaires de la CLI officielle piégés sur GitHub avec un malware infostealer",
+      "link": "https://www.it-connect.fr/ovhcloud-cli-binaires-pieges-vol-secrets/",
+      "summary": "Le 19 octobre 2026, les binaires de la CLI d'OVHcloud ont été piégés sur GitHub : plusieurs versions intègrent un code malveillant conçu pour voler des secrets. Le post OVHcloud : les binaires de la CLI officielle pié...",
+      "published": "2026-10-20T05:21:16+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0bbbf9cc6b609a68f3b20b210b0d9cbf",
+      "title": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
+      "link": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni installation. Le s...",
+      "published": "2026-10-20T05:14:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur/la-disquette-jeu-pc-de-la-semaine-navigateur-1.png"
+    },
+    {
+      "id": "7ecbfdc7418eef49fc97fce7028c2a74",
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is ...",
+      "published": "2026-10-20T04:05:58+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg"
+    },
     {
       "id": "75ec39f9f00f39652133a400c3593d1b",
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
@@ -223,16 +333,6 @@
       "image": "https://korben.info/plmail-client-mail-auto-heberge/plmail-client-mail-auto-heberge-1.png"
     },
     {
-      "id": "2e5f99b60eb9a9df8b2a9c3b55a32627",
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-      "published": "2026-10-19T08:58:41+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "671cb46426f54070a6233bfda71dbb19",
       "title": "Keepsweeper - Un Démineur avec des péons et des dragons",
       "link": "https://korben.info/keepsweeper-demineur-strategie-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -264,53 +364,13 @@
     },
     {
       "id": "f2d2e4ca986baf21d27a94a8f7e70218",
-      "title": "Et si vous commenciez par effacer ce que les data brokers savent de vous ?",
+      "title": "Et si vous commenciez par effacer ce que les data brokers savent de vous ? #sponso",
       "link": "https://korben.info/data-brokers-que-savent-ils-de-vous.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "summary": "Une étude d'Incogni auprès d'un millier d'internautes montre que 52% pensent que leurs données seront exposées dans une fuite et que 63% en sont anxieux. Le service envoie des demandes de suppression aux data brokers ...",
       "published": "2026-10-19T07:50:58+00:00",
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/data-brokers-que-savent-ils-de-vous/data-brokers-que-savent-ils-de-vous-1.webp"
-    },
-    {
-      "id": "fe8d0b1bc1ec14dcefb9d7f63ec5d63d",
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed ...",
-      "published": "2026-10-19T06:29:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif"
-    },
-    {
-      "id": "dd12b97f57e3660c324e1abdbcf4b5ba",
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's option...",
-      "published": "2026-10-19T06:07:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg"
-    },
-    {
-      "id": "29ca3bdd74e6bebf379963d0b6691049",
-      "title": "Ni mot de passe, ni MFA : comment des centaines de tenants Microsoft 365 ont été ouverts via ConnectWise",
-      "link": "https://www.it-connect.fr/connectwise-cloud-backup-skykick-tenants-microsoft-365-compromis/",
-      "summary": "Un identifiant volé chez ConnectWise a ouvert des centaines de tenants Microsoft 365, sans aucun MFA à contourner. Voici ce que les admins doivent vérifier. Le post Ni mot de passe, ni MFA : comment des centaines de t...",
-      "published": "2026-10-19T05:06:44+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7c86a93f000579e53fd839a06913eec3",
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application i...",
-      "published": "2026-10-18T08:23:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg"
     },
     {
       "id": "f0d2dd775431d0511b28169f4411700f",
@@ -321,46 +381,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas-1.jpg"
-    },
-    {
-      "id": "0ed9a47ea1d5b1959040499011b7744c",
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package re...",
-      "published": "2026-10-17T11:11:56+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
-    },
-    {
-      "id": "e2c81391728cf46483ce4f20a7868d2c",
-      "title": "PwnEscape : une faille Linux permet de s’évader d’une VM KVM",
-      "link": "https://www.it-connect.fr/pwnescape-cve-2026-99999-faille-noyau-linux-evasion-vm/",
-      "summary": "PwnEscape (CVE-2026-99999), faille critique du noyau Linux, fait fuir la mémoire de l'hôte depuis une VM, jusqu'à l'évasion. Voici comment se protéger. Le post PwnEscape : une faille Linux permet de s’évader d’une VM ...",
-      "published": "2026-10-16T16:24:02+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c47b66519ff5903113073d28f9691232",
-      "title": "Cloud & Cyber Security Expo Paris 2026 : les inscriptions sont ouvertes",
-      "link": "https://www.it-connect.fr/cloud-cyber-security-expo-paris-2026-les-inscriptions-sont-ouvertes/",
-      "summary": "Les inscriptions pour l'événement Cloud & Cyber Security Expo Paris 2026 sont désormais ouvertes. Obtenez votre badge gratuitement pour y participer. Le post Cloud & Cyber Security Expo Paris 2026 : les inscriptions s...",
-      "published": "2026-10-16T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "284942ec6414c5036d833e784e5ce0f8",
-      "title": "Backuply : une faille SQL menace 600 000 WordPress, surtout si vous restaurez votre site web",
-      "link": "https://www.it-connect.fr/backuply-cve-2026-93953-injection-sql-wordpress/",
-      "summary": "CVE-2026-93953 : une injection SQL dans Backuply, présent sur 600 000 sites WordPress, permet à un simple abonné de devenir administrateur. Mettez à jour. Le post Backuply : une faille SQL menace 600 000 WordPress, su...",
-      "published": "2026-10-16T15:43:24+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "3cbab4106fe6171332c342d13d9eea1b",
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/llama-windows-llm-local/llama-windows-llm-local-1.jpg"
-    },
-    {
-      "id": "a8f18da723adcaa7f9a72892c4c23a8c",
-      "title": "Shotnix - Votre screencast déjà monté dès la fin de l'enregistrement",
-      "link": "https://korben.info/shotnix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Shotnix, app Mac gratuite sous licence MIT, ouvre chaque enregistrement d'écran déjà zoomé sur vos clics, avec sous-titres locaux et un outil de capture en prime.",
-      "published": "2026-10-16T07:41:50+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/shotnix/shotnix-1.png"
-    },
-    {
-      "id": "6dec0ba831ce717ef90ef31763120a67",
-      "title": "Tiny11 Builder - Votre ISO de Windows 11 allégée en quelques clics",
-      "link": "https://korben.info/tiny11-builder-appli-windows-11-allege.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Tiny11 Builder a maintenant une appli de bureau, en préversion, qui télécharge l'ISO de Windows 11 chez Microsoft et en sort une version allégée. Essai dans une VM ARM : 49,5 minutes de construction, une ISO de 5,38 G...",
-      "published": "2026-10-15T08:23:36+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/tiny11-builder-appli-windows-11-allege/tiny11-builder-appli-windows-11-allege-1.png"
     },
     {
       "id": "b1c84b8abcb7ac6af9da4b879f3cae0e",
