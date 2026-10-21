@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-10-21T03:11:58.838002+00:00",
+  "last_updated": "2026-10-21T11:06:17.104468+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "74715c3a3c098e79472eb6ef2a97ae53",
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+      "published": "2026-10-21T10:14:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "895f5af72f2687d5f9138bf4ae40b0f5",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an ...",
+      "published": "2026-10-21T09:05:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg"
+    },
+    {
+      "id": "abf67d322f37a8744d9ab5139fc40ff0",
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites....",
+      "published": "2026-10-21T09:01:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsSYB_dpfRL3wD0MeCT_VyPyFJS8HjQAW0VuBHSTviFY4WBOQfa8MCP79qyJR3zYyMBesIXiCtL8XwwtjjLGm9Stxdv_qoIkf3_Rpc7YGFwZuzVS974TbuDfF5GkLRJX2DxFaDudlMlXSDyiZ8fvoVGaKaA-tpCr_eAvvEsfQr1uyfdBk-8KyK4aisYgC/s1600/wp-backdoor.jpg"
+    },
+    {
+      "id": "d2da495e7af273b269f4471125640ff0",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "published": "2026-10-21T08:36:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1a4aeb69ffabf83ea97350db21a8602e",
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "summary": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of...",
+      "published": "2026-10-21T08:04:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjAZGBcWVyeZELPmEq7fujTJPeDgQoEZQpt7sD2rB1EO9fXByN2kmezefmvfihwR7fDE-77o-JVKB8bASzvKamkZB9kx9SstR2PA529wjrAWiSr1IBHEfrShRbiOd3PG2OP3iqygUb_ZeXYBSzrTN86MY5pjngL6WsqwoqJYYzUXSSVCJNKihe8F7FKsA/s1600/deepseek-dhs.jpg"
+    },
+    {
+      "id": "e0ba3ae5056bf0731114abde23e89eaa",
+      "title": "Linux : planifier des tâches avec les timers systemd sur Debian",
+      "link": "https://www.it-connect.fr/tuto-timer-systemd-debian-planifier-tache/",
+      "summary": "Créez un timer systemd sur Debian pour planifier vos tâches : service, timer, syntaxe OnCalendar, rattrapage et logs. Avec un comparatif complet face à cron. Le post Linux : planifier des tâches avec les timers system...",
+      "published": "2026-10-21T07:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b596a67c60f3caac0380747c53ce5061",
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned...",
+      "published": "2026-10-21T07:44:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg"
+    },
+    {
+      "id": "64da09b46a5733bd419efdca2bab108d",
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server t...",
+      "published": "2026-10-21T07:26:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg"
+    },
+    {
+      "id": "4220e9b6631bf9886c148259076dcc39",
+      "title": "PHP : deux failles critiques ont fuité avant l’heure, un correctif d’urgence arrive ce 21 octobre !",
+      "link": "https://www.it-connect.fr/php-failles-critiques-rce-cve-2026-109618-cve-2026-109619/",
+      "summary": "Deux failles critiques dans PHP ont fuité avant l'heure. Un correctif d'urgence est attendu le 21 octobre à 16 h. Voici ce que l'on sait et comment se préparer. Le post PHP : deux failles critiques ont fuité avant l’h...",
+      "published": "2026-10-21T06:36:15+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fb12cb67ec0bfc31b05c281fc4fca350",
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed ...",
+      "published": "2026-10-21T06:05:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg"
+    },
+    {
+      "id": "e29b9e442dc66f3b8df7559813782a29",
+      "title": "Linux 7.3 : record historique de commits pour le noyau, voici les nouveautés",
+      "link": "https://www.it-connect.fr/noyau-linux-7-3-record-historique-de-commits/",
+      "summary": "Le noyau Linux 7.3 est sorti avec un record de 18 765 commits signés par 3 021 développeurs. Mais alors, quelles sont les nouveautés à retenir ? Le post Linux 7.3 : record historique de commits pour le noyau, voici le...",
+      "published": "2026-10-21T05:53:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "d9b959b2b3f8a99be2c1f83a201b49b8",
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
@@ -123,86 +233,6 @@
       "image": ""
     },
     {
-      "id": "0a7ec541bf67663142efc05d7d6389d8",
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 1...",
-      "published": "2026-10-20T12:59:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cQrX8zsqCvWd9Pl1mfmh8oQBwRAG_IcrKQB-EpiVEn2GXf5UJBh0UrLXCKzAmJo2Z-Di9G7-16n5hV-gmtfMi-JtB9sOd9neC-b1-6CpErVOYE7CUjBmZhunV45nzsFcDr03rK5RA8q7gFZXIuJZ4c6ND0VSQHYuppDkdTqq04MI7nVCz-10-K-xmc0/s1600/iphone-spyware.jpg"
-    },
-    {
-      "id": "4065be2377c12ae3a511acb5b20416d4",
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "published": "2026-10-20T12:16:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "39cb5c3016ca64710be697dd569356ae",
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp...",
-      "published": "2026-10-20T11:41:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg"
-    },
-    {
-      "id": "d5e8e42ed380641415373cdb47fc6e4c",
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soo...",
-      "published": "2026-10-20T11:33:04+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg"
-    },
-    {
-      "id": "179a7337cfd034c5098734f2f3494f36",
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release...",
-      "published": "2026-10-20T11:32:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg"
-    },
-    {
-      "id": "74d327ca772018607283885470903999",
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-      "published": "2026-10-20T11:31:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e4c32e20b2216b729a41ecd54572a877",
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NA...",
-      "published": "2026-10-20T11:06:25+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLZ-1vEmoCyztDVMziqJlhZPTZfW4mOe-qDn6OxDQ-K2LVZTvqhoOe3MIip5bDJfiJd7e3HLcq4S-0xb2SlfWbEqp4vlvbOnQDSP5edsQIxHFtYSCt1qM7XZksq0NPZ9AGesx0YzqHsTeWUuPUTysC5dbuDOvKIjQW0DJvkg1UG9KLH2Doglq7WtgyiRM/s1600/russia-nato.jpg"
-    },
-    {
-      "id": "a9243792b9731cf8c379f2789a3d3d05",
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a sec...",
-      "published": "2026-10-20T10:56:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg"
-    },
-    {
       "id": "aec6d5d6a9a2972022a97ff14845c8d6",
       "title": "Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE",
       "link": "https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -293,16 +323,6 @@
       "image": ""
     },
     {
-      "id": "88822c17b98af13888b42d741e1787f7",
-      "title": "UpdraftPlus : comment une porte dérobée a été installée sur IT-Connect via UpdraftCentral",
-      "link": "https://www.it-connect.fr/updraftplus-updraftcentral-porte-derobee-it-connect/",
-      "summary": "Clé oubliée, éditeur piraté, porte dérobée déposée à distance : le récit de l’attaque d’IT-Connect et les vérifications à faire sur votre site WordPress. Le post UpdraftPlus : comment une porte dérobée a été installée...",
-      "published": "2026-10-19T13:19:25+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "5c05282cb32abd44acebf07ee9a202e1",
       "title": "Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement",
       "link": "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/korben-remote-desktop/korben-remote-desktop-1.png"
-    },
-    {
-      "id": "7b5aa8a73869a95c70361726e9242adb",
-      "title": "Nouvelle vente flash GoDeal24 : complétez votre PC avec Office 2024 Pro Plus à 22.99€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-godeal24-licences-microsoft-logiciels-os/",
-      "summary": "GoDeal24 lance une nouvelle vente flash sur les licences Microsoft : Office 2021, Windows 11, Windows 10 LTSC, Windows Server 2025, et d'autres logiciels. Le post Nouvelle vente flash GoDeal24 : complétez votre PC ave...",
-      "published": "2026-10-19T09:26:28+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "f4b5bc4e0f56806c7cc13c07fcba8f77",
@@ -351,16 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/music-bridge-extension-liens-musique/music-bridge-extension-liens-musique-1.avif"
-    },
-    {
-      "id": "0acfefab3b9ecdba9690f2d5658a8dba",
-      "title": "Nouveautés Proton Pass : dossiers, contrôle du remplissage automatique, mots de passe compromis…",
-      "link": "https://www.it-connect.fr/proton-pass-dossiers-correspondance-url-mots-de-passe-compromis/",
-      "summary": "Proton Pass lance les dossiers, la correspondance d'URL pour le remplissage automatique et la détection locale des mots de passe compromis. Le post Nouveautés Proton Pass : dossiers, contrôle du remplissage automatiqu...",
-      "published": "2026-10-19T08:05:11+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "f2d2e4ca986baf21d27a94a8f7e70218",
@@ -403,6 +403,16 @@
       "image": "https://korben.info/llama-windows-llm-local/llama-windows-llm-local-1.jpg"
     },
     {
+      "id": "3bd24fbc5c65ec64848621d1a15b8590",
+      "title": "Multiples vulnérabilités dans les produits F5 (15 octobre 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1317/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des d...",
+      "published": "2026-10-15T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
       "id": "b1c84b8abcb7ac6af9da4b879f3cae0e",
       "title": "Multiples vulnérabilités dans les produits Ivanti (14 octobre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1311/",
@@ -427,16 +437,6 @@
       "title": "Multiples vulnérabilités dans Microsoft Azure (14 octobre 2026)",
       "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1315/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atte...",
-      "published": "2026-10-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2a8ba98a718ed07031b8bd6a2df31820",
-      "title": "Multiples vulnérabilités dans Google Chrome (14 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1308/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "published": "2026-10-14T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
