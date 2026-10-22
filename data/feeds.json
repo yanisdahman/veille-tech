@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-10-22T03:10:20.179851+00:00",
+  "last_updated": "2026-10-22T11:06:25.995429+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ace78433be8d75bc32488d8ea9ff16d8",
+      "title": "FortiGate, FortiManager : Fortinet vous demande de patcher tout de suite, mais sans dire ce qu’il corrige",
+      "link": "https://www.it-connect.fr/fortinet-correctifs-urgence-failles-ia-fortios-fortimanager-octobre-2026/",
+      "summary": "Fortinet a publié le 22 octobre des correctifs urgents pour FortiOS, FortiManager et FortiAnalyzer, contre des failles critiques détectées grâce à l'IA. Le post FortiGate, FortiManager : Fortinet vous demande de patch...",
+      "published": "2026-10-22T10:56:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "02e34af054a9619d2677f81ef3dc2660",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2...",
+      "published": "2026-10-22T08:28:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg"
+    },
+    {
+      "id": "ff4fe721c1abc552ea2d07461aebd95d",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "published": "2026-10-22T08:27:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c5126cef32f951b8c5a2b7405234d576",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the p...",
+      "published": "2026-10-22T07:47:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg"
+    },
+    {
+      "id": "5e532d8f2812394bd5767933d3d558db",
+      "title": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
+      "link": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Dans un article partenaire, Surfshark annonce une version de WireGuard entièrement post-quantique, combinant ML-KEM et certificats ML-DSA, d'abord sur iOS et macOS. Le VPN ajoute aussi une rotation d'IP toutes les 5 à...",
+      "published": "2026-10-22T07:15:54+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures/votre-vpn-est-il-pret-pour-les-menaces-futures-1.webp"
+    },
+    {
+      "id": "ad7ee89402781a755ad620697e74a4b5",
+      "title": "eMudhra : des clés privées triviales forcent Mozilla, Google, Apple et Microsoft à bloquer 8 certificats",
+      "link": "https://www.it-connect.fr/emudhra-certificats-intermediaires-cles-privees-compromises/",
+      "summary": "Huit certificats intermédiaires d’eMudhra reposaient sur des clés privées devinables en quelques secondes. Mozilla, Google, Apple et Microsoft les bloquent. Le post eMudhra : des clés privées triviales forcent Mozilla...",
+      "published": "2026-10-22T07:10:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d00d3e2c55373f2d59fa4ac1943bda12",
+      "title": "Panne Orange : près de dix heures sans réseau mobile, une migration vers la 5G SA en cause ?",
+      "link": "https://www.it-connect.fr/panne-orange-sosh-coeur-reseau-5g-migration/",
+      "summary": "Dix heures sans réseau mobile chez Orange et Sosh. L'opérateur accuse un équipement de son cœur de réseau, la piste d'une migration 5G ratée est sérieuse. Le post Panne Orange : près de dix heures sans réseau mobile, ...",
+      "published": "2026-10-22T06:39:29+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "530ad9139d4d7847b2170be5fdbd525d",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP h...",
+      "published": "2026-10-22T06:38:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg"
+    },
+    {
+      "id": "14e3913e60cf78cd7fd5c7311722a40e",
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under bro...",
+      "published": "2026-10-22T06:34:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg"
+    },
+    {
+      "id": "0860e047a1e16dd5fbed80ae1304d114",
+      "title": "PHP2Shell et Docker : comment vérifier et mettre à jour vos conteneurs PHP ?",
+      "link": "https://www.it-connect.fr/php2shell-docker-mettre-a-jour-images-conteneurs-php/",
+      "summary": "PHP2Shell : sous Docker, PHP est embarqué dans l'image. Vérifiez la version de vos conteneurs, ainsi que celle de PHP, et mettez-les à jour pour vous protéger. Le post PHP2Shell et Docker : comment vérifier et mettre ...",
+      "published": "2026-10-22T05:25:27+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8133793a5333ec42720eb4e15b018d3c",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX...",
+      "published": "2026-10-22T04:21:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGpr0x4Dn4VV8YVCO_s3CzzGvwmVUceHbt0llcvrzvBmWFaJcu9E9v3WntJGdez3PZ-53GAVSRiYc5FdSOgmyeCSXvpL2t5nCjhzJC50kTLhQygW8cCeFHqtZtDYHsG7Vx2uf1vVdobBbKJ5fcCKSNZDKpV00GRQKVlD444srM9L4rcPnTe28nABZ3pon/s1600/chinese-ai.jpg"
+    },
     {
       "id": "aa646ca3dab9b791e785424d1b33ef1b",
       "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
@@ -76,7 +186,7 @@
       "id": "d3301a9fd18a422021c8bf6812714a14",
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
       "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. Th...",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI...",
       "published": "2026-10-21T16:33:47+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -153,71 +263,11 @@
       "image": ""
     },
     {
-      "id": "02f3d9dd6cca347dd50579c6f9db7020",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"...",
-      "published": "2026-10-21T12:05:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png"
-    },
-    {
-      "id": "f0ae1b26bd8a4bd896683d72fb25a95b",
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each r...",
-      "published": "2026-10-21T11:53:34+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg"
-    },
-    {
-      "id": "011837aea533785e8a2750ebb4357d54",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PH...",
-      "published": "2026-10-21T10:36:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg"
-    },
-    {
-      "id": "45535e7220973f9f4f787c80ad1265fd",
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production...",
-      "published": "2026-10-21T10:32:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg"
-    },
-    {
-      "id": "0432291d8ae894f5cfe4d6c19ab906d7",
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circu...",
-      "published": "2026-10-21T10:30:27+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg"
-    },
-    {
       "id": "74715c3a3c098e79472eb6ef2a97ae53",
       "title": "Microsoft says October updates didn’t actually fix VPN issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
       "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
       "published": "2026-10-21T10:14:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d2da495e7af273b269f4471125640ff0",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "published": "2026-10-21T08:36:24+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -273,36 +323,6 @@
       "image": ""
     },
     {
-      "id": "d93d80540ce89720bbe2b66933b0f24f",
-      "title": "Bitwarden passe ses apps sous licence commerciale : ce qui change pour vous",
-      "link": "https://www.it-connect.fr/bitwarden-applications-stores-licence-commerciale-gplv3/",
-      "summary": "Vous utilisez Bitwarden ? Ses applications des stores passent sous licence commerciale, la version GPLv3 reste sur GitHub. Voici ce qu'il faut retenir. Le post Bitwarden passe ses apps sous licence commerciale : ce qu...",
-      "published": "2026-10-20T06:23:54+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e31d6403ba008c6b503c54faf484c452",
-      "title": "WordPress : une version piégée de l’extension SEO Rank Math PRO a été distribuée avec un malware",
-      "link": "https://www.it-connect.fr/rank-math-pro-malware-supply-chain/",
-      "summary": "Une version piégée de Rank Math PRO a été distribuée avec un malware pendant onze heures. Si vous l'avez activée, votre site WordPress est compromis. Le post WordPress : une version piégée de l’extension SEO Rank Math...",
-      "published": "2026-10-20T05:39:15+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "386f302ae585fc935e1ef0bb59c0cf64",
-      "title": "OVHcloud : les binaires de la CLI officielle piégés sur GitHub avec un malware infostealer",
-      "link": "https://www.it-connect.fr/ovhcloud-cli-binaires-pieges-vol-secrets/",
-      "summary": "Le 19 octobre 2026, les binaires de la CLI d'OVHcloud ont été piégés sur GitHub : plusieurs versions intègrent un code malveillant conçu pour voler des secrets. Le post OVHcloud : les binaires de la CLI officielle pié...",
-      "published": "2026-10-20T05:21:16+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "0bbbf9cc6b609a68f3b20b210b0d9cbf",
       "title": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
       "link": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,16 +331,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur/la-disquette-jeu-pc-de-la-semaine-navigateur-1.png"
-    },
-    {
-      "id": "f2022ae703e8645003437f472e173e11",
-      "title": "Deepfake, clonage vocal et vishing : comment être sûr de l’identité d’un utilisateur ?",
-      "link": "https://www.it-connect.fr/deepfake-clonage-vocal-vishing-identite/",
-      "summary": "Deepfake en entretien, voix clonée et faux service informatique : comment vérifier l'identité d'un utilisateur à l'ère de l'IA et sécuriser les accès. Le post Deepfake, clonage vocal et vishing : comment être sûr de l...",
-      "published": "2026-10-19T16:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "5c05282cb32abd44acebf07ee9a202e1",
@@ -391,16 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/hacking-social-hub404/hacking-social-hub404-1.jpg"
-    },
-    {
-      "id": "aa6de1fb689b17f029e5554bdafc4521",
-      "title": "Llama - L'IA locale de llama.cpp, sans ligne de commande",
-      "link": "https://korben.info/llama-windows-llm-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Llama, l'app Windows 11 de l'équipe de llama.cpp, télécharge vos modèles GGUF depuis la zone de notification et ouvre un chat local avec Alt+Espace. Raccourci non modifiable et Smart App Control : les deux cas où elle...",
-      "published": "2026-10-16T08:04:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/llama-windows-llm-local/llama-windows-llm-local-1.jpg"
     },
     {
       "id": "e192ce62d9ae3bb4f4d95fb6c2041878",
