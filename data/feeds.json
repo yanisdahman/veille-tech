@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-10-23T03:16:00.788236+00:00",
+  "last_updated": "2026-10-23T10:57:53.880737+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "b5d49dae84277ca11c14f052ddd37fa7",
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow hand...",
+      "published": "2026-10-23T09:36:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg"
+    },
+    {
+      "id": "ba1203a8b8e3fdeb950898ef7199f418",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official...",
+      "published": "2026-10-23T08:40:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif"
+    },
+    {
+      "id": "05fc703645409cbe6af41d3a13c7f1d6",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default...",
+      "published": "2026-10-23T08:35:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg"
+    },
+    {
+      "id": "ef67839a64ae280871359cd7947f53cc",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing...",
+      "published": "2026-10-23T07:40:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg"
+    },
+    {
+      "id": "3cf1cf86a76c5c6ea3064a80a470e2e3",
+      "title": "Node2Shell : la faille Brotli qui expose Node.js à une exécution de code à distance",
+      "link": "https://www.it-connect.fr/node2shell-nodejs-brotli-rce-cve-2026-111497/",
+      "summary": "Une réponse HTTP compressée en Brotli, et du code qui s'exécute dans votre application Node.js : c'est le risque avec la faille Node2Shell (CVE-2026-111497). Le post Node2Shell : la faille Brotli qui expose Node.js à ...",
+      "published": "2026-10-23T06:50:07+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5c5fe001988ae2dcaaad9388308995ac",
+      "title": "Réseau Tor : 333 relais de sortie compromis interceptaient les connexions SSH pour diffuser Ebury",
+      "link": "https://www.it-connect.fr/tor-relais-sortie-compromis-interception-ssh-ebury/",
+      "summary": "333 relais de sortie Tor compromis redirigeaient les connexions SSH vers des serveurs pirates pour voler les mots de passe et installer le malware Ebury. Le post Réseau Tor : 333 relais de sortie compromis interceptai...",
+      "published": "2026-10-23T05:26:42+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bbc792ae1ad8af12fffd72deb35af510",
+      "title": "Capcom piraté : 11,7 millions de comptes exposés et des mots de passe changés par l’attaquant",
+      "link": "https://www.it-connect.fr/capcom-fuite-donnees-capcom-id-11-millions-comptes/",
+      "summary": "Plus de 11,7 millions de comptes CAPCOM ID exposés et 196 mots de passe modifiés par un attaquant : Capcom confirme une fuite de données massive. Le post Capcom piraté : 11,7 millions de comptes exposés et des mots de...",
+      "published": "2026-10-23T05:03:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6b45270fb728151cdacf7db54a2ac9ef",
+      "title": "PHP2Shell : les attaquants avaient quatre jours d’avance sur le correctif",
+      "link": "https://www.it-connect.fr/php2shell-exploitation-avant-correctifs-amazon/",
+      "summary": "Amazon a repéré une tentative d'exploitation de PHP2Shell le 17 octobre 2026, soit quatre jours avant la sortie des correctifs pour ces failles critiques. Le post PHP2Shell : les attaquants avaient quatre jours d’avan...",
+      "published": "2026-10-23T04:47:25+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "a8e77ee95c9140c189439d52527de528",
+      "title": "Fuites I-CAD : 2,9 millions de fiches de chats volées, avec le nom de leurs propriétaires",
+      "link": "https://www.it-connect.fr/fuite-i-cad-compte-loof-detenteurs-chats/",
+      "summary": "Un compte d'accès du LOOF a permis d'extraire 2,9 millions d'enregistrements du fichier I-CAD : noms des détenteurs de chats et identification des animaux. Le post Fuites I-CAD : 2,9 millions de fiches de chats volées...",
+      "published": "2026-10-23T04:21:36+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "ffa405e4fb5e445291b4a3d8fda785c6",
       "title": "Railway warns devs to rotate secrets after potential breach",
@@ -143,16 +233,6 @@
       "image": ""
     },
     {
-      "id": "e7036f9d00f18fa784695af1bc59b2dd",
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencie...",
-      "published": "2026-10-22T13:38:22+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg"
-    },
-    {
       "id": "38016b62f72ce14a54a82280584bdd51",
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
@@ -183,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "a1b7239bfeef7b9d6108f1a5b09e7613",
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorize...",
-      "published": "2026-10-22T11:15:42+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg"
-    },
-    {
       "id": "ace78433be8d75bc32488d8ea9ff16d8",
       "title": "FortiGate, FortiManager : Fortinet vous demande de patcher tout de suite, mais sans dire ce qu’il corrige",
       "link": "https://www.it-connect.fr/fortinet-correctifs-urgence-failles-ia-fortios-fortimanager-octobre-2026/",
@@ -201,26 +271,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "bc53d71dec2bdf4e6122e816535a32f0",
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) ser...",
-      "published": "2026-10-22T10:44:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg"
-    },
-    {
-      "id": "02e34af054a9619d2677f81ef3dc2660",
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2...",
-      "published": "2026-10-22T08:28:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg"
     },
     {
       "id": "ff4fe721c1abc552ea2d07461aebd95d",
@@ -263,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "0860e047a1e16dd5fbed80ae1304d114",
-      "title": "PHP2Shell et Docker : comment vérifier et mettre à jour vos conteneurs PHP ?",
-      "link": "https://www.it-connect.fr/php2shell-docker-mettre-a-jour-images-conteneurs-php/",
-      "summary": "PHP2Shell : sous Docker, PHP est embarqué dans l'image. Vérifiez la version de vos conteneurs, ainsi que celle de PHP, et mettez-les à jour pour vous protéger. Le post PHP2Shell et Docker : comment vérifier et mettre ...",
-      "published": "2026-10-22T05:25:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "aa646ca3dab9b791e785424d1b33ef1b",
       "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
@@ -280,46 +320,6 @@
       "published": "2026-10-21T22:16:26+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f8e24dd6cf63c9aea90cc64c57bf981b",
-      "title": "PowerToys 0.102 : Microsoft ajoute CursorHide et Mouse Button Lock, deux nouveaux outils pour la souris",
-      "link": "https://www.it-connect.fr/powertoys-0-102-cursorhide-mouse-button-lock/",
-      "summary": "PowerToys 0.102 ajoute Mouse Button Lock et CursorHide, deux outils pour la souris, une barre d'accès rapide à la Palette de commandes et des outils CLI. Le post PowerToys 0.102 : Microsoft ajoute CursorHide et Mouse ...",
-      "published": "2026-10-21T18:03:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "20e7db0f167a8124572758a14d429460",
-      "title": "PHP2Shell : les correctifs de sécurité sont là, les attaques aussi !",
-      "link": "https://www.it-connect.fr/php2shell-correctifs-urgence-cve-2026-109618-cve-2026-109619/",
-      "summary": "PHP 8.5.12, 8.4.27, 8.3.36 et 8.2.35 corrigent PHP2Shell, deux failles RCE exploitables sans authentification. À traiter en urgence pour protéger votre serveur. Le post PHP2Shell : les correctifs de sécurité sont là, ...",
-      "published": "2026-10-21T15:44:02+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e0ba3ae5056bf0731114abde23e89eaa",
-      "title": "Linux : planifier des tâches avec les timers systemd sur Debian",
-      "link": "https://www.it-connect.fr/tuto-timer-systemd-debian-planifier-tache/",
-      "summary": "Créez un timer systemd sur Debian pour planifier vos tâches : service, timer, syntaxe OnCalendar, rattrapage et logs. Avec un comparatif complet face à cron. Le post Linux : planifier des tâches avec les timers system...",
-      "published": "2026-10-21T07:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "4220e9b6631bf9886c148259076dcc39",
-      "title": "PHP : deux failles critiques ont fuité avant l’heure, un correctif d’urgence arrive ce 21 octobre !",
-      "link": "https://www.it-connect.fr/php-failles-critiques-rce-cve-2026-109618-cve-2026-109619/",
-      "summary": "Deux failles critiques dans PHP ont fuité avant l'heure. Un correctif d'urgence est attendu le 21 octobre à 16 h. Voici ce que l'on sait et comment se préparer. Le post PHP : deux failles critiques ont fuité avant l’h...",
-      "published": "2026-10-21T06:36:15+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
       "image": ""
     },
     {
@@ -493,11 +493,11 @@
       "image": ""
     },
     {
-      "id": "ca6d6508134d4709fea3ce6f65f6a2f3",
-      "title": "Multiples vulnérabilités dans Traefik (16 octobre 2026)",
-      "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "published": "2026-10-16T00:00:00+00:00",
+      "id": "f765bd55a76a13a47b6651839f52a5f5",
+      "title": "Recommandations à destination des acteurs du secteur de l’énergie et de l’eau (22 janvier 2026)",
+      "link": "https://www.cert.ssi.gouv.fr/dur/CERTFR-2025-DUR-003/",
+      "summary": "**Objet** : Recommandations de sécurisation des systèmes d’information à destination des producteurs, des intégrateurs et des installateurs des systèmes de production industriels du secteur de l’énergie et de l’eau en...",
+      "published": "2026-01-22T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
