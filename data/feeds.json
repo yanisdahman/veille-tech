@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-22T21:09:41.159319+00:00",
+  "last_updated": "2026-10-23T03:16:00.788236+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "ffa405e4fb5e445291b4a3d8fda785c6",
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "published": "2026-10-22T21:25:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "ae68176692c6a99abc7d62db5a5d1aa9",
       "title": "Capcom confirms data breach affecting 11.7 million accounts",
@@ -268,16 +278,6 @@
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
       "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
       "published": "2026-10-21T22:16:26+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "518d8d85111b9d2b323e98258228eb53",
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-      "published": "2026-10-21T21:43:27+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
