@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-10-24T03:09:32.069174+00:00",
+  "last_updated": "2026-10-24T10:14:12.740466+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "68af383958504ee6331831dccfd3f9b0",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulne...",
+      "published": "2026-10-24T06:25:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
+    },
+    {
+      "id": "b0acd94be1271c50e0af5d88ee771c5f",
+      "title": "Pulse : les journaux d’événements de Windows facilement lisibles, avec de l’IA locale",
+      "link": "https://www.it-connect.fr/pulse-journaux-evenements-de-windows-facilement-lisibles-avec-ia-locale/",
+      "summary": "Pulse est un outil gratuit et open source qui traduit les journaux d'événements de Windows 10 et 11 en langage clair, avec une IA locale (Ollama, LM Studio). Le post Pulse : les journaux d’événements de Windows facile...",
+      "published": "2026-10-24T05:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "e258f9402b73fb095b3a7d15b860521b",
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
@@ -193,16 +213,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg"
     },
     {
-      "id": "ef67839a64ae280871359cd7947f53cc",
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing...",
-      "published": "2026-10-23T07:40:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg"
-    },
-    {
       "id": "3cf1cf86a76c5c6ea3064a80a470e2e3",
       "title": "Node2Shell : la faille Brotli qui expose Node.js à une exécution de code à distance",
       "link": "https://www.it-connect.fr/node2shell-nodejs-brotli-rce-cve-2026-111497/",
@@ -301,16 +311,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w/test-du-chargeur-ugreen-nexode-pro-300w-1.jpg"
-    },
-    {
-      "id": "1717fee5a1aa4c287b5761a1026f5b0b",
-      "title": "GitLab corrige la CVE-2026-110264, une faille critique qui touche toutes les versions depuis 2014",
-      "link": "https://www.it-connect.fr/gitlab-cve-2026-110264-faille-critique-regex-onigmo/",
-      "summary": "GitLab a corrigé la CVE-2026-110264, une faille critique exploitable sans authentification qui touche toutes les versions depuis la 7.0, sortie en 2014. Le post GitLab corrige la CVE-2026-110264, une faille critique q...",
-      "published": "2026-10-22T11:33:22+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "5e532d8f2812394bd5767933d3d558db",
