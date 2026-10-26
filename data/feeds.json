@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-10-26T03:04:26.452764+00:00",
+  "last_updated": "2026-10-26T12:12:19.401429+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "cc30c373542376791c9d2d52e88c440a",
+      "title": "WordCraft, GridCraft, DeckCraft : après Adobe, Word, Excel et PowerPoint réécrits en Rust avec l’IA",
+      "link": "https://www.it-connect.fr/wordcraft-gridcraft-deckcraft-suite-office-rust-claude/",
+      "summary": "WordCraft, GridCraft et DeckCraft : trois clones open source de Word, Excel et PowerPoint écrits en Rust avec Claude Opus 5.5. Sont-ils opérationnels ? Le post WordCraft, GridCraft, DeckCraft : après Adobe, Word, Exce...",
+      "published": "2026-10-26T12:04:51+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d77f0456a4a7535af315ffa7b91f2736",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual...",
+      "published": "2026-10-26T11:23:56+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg"
+    },
+    {
+      "id": "7968eff4121c7fee571f19a272744d7f",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "published": "2026-10-26T10:26:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "4c96aef313fa2315670df102244d4582",
+      "title": "Tailworm : 11 failles non corrigées dans Tailscale, dont un accès root via Tailscale SSH",
+      "link": "https://www.it-connect.fr/tailworm-failles-tailscale-ssh-root-non-corrigees/",
+      "summary": "Avec Tailworm, Erica Windisch a publié 11 failles non corrigées dans Tailscale et Headscale, dont un accès root via Tailscale SSH. Voici comment vous protéger. Le post Tailworm : 11 failles non corrigées dans Tailscal...",
+      "published": "2026-10-26T10:09:21+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "966c5639fe45a4c54879b1a0ba8f6aa5",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these ta...",
+      "published": "2026-10-26T09:54:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg"
+    },
+    {
+      "id": "d3f3c5730ee54a1b01de64e21b690d58",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "published": "2026-10-26T09:19:57+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7f8d18c3f18792d9b0637ee99384b13e",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into e...",
+      "published": "2026-10-26T08:35:51+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg"
+    },
+    {
+      "id": "bfadde3853787c6dbdb61276e1fe5f1b",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succe...",
+      "published": "2026-10-26T07:49:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
+    },
+    {
+      "id": "7fd5e6d834d770c21a94e00f02679145",
+      "title": "Quad9 quitte la France : le DNS 9.9.9.9 sera coupé le 24 novembre 2026",
+      "link": "https://www.it-connect.fr/quad9-quitte-la-france-blocage-dns/",
+      "summary": "Vous utilisez le DNS 9.9.9.9 ? Le 24 novembre 2026, Quad9 cessera de servir la France plutôt que d'appliquer un blocage judiciaire. Voici ce que l'on sait. Le post Quad9 quitte la France : le DNS 9.9.9.9 sera coupé le...",
+      "published": "2026-10-26T07:35:50+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0b953e2247629d264eca21e71e593f87",
+      "title": "Popcorn Time : un processus oublié menaçait des millions de PC (CVE-2026-30612)",
+      "link": "https://www.it-connect.fr/popcorn-time-updater-cve-2026-30612/",
+      "summary": "Un updater abandonné de Popcorn Time pouvait exécuter du code avec les droits SYSTEM. Eye Security l'a neutralisé à distance sur des millions de machines. Le post Popcorn Time : un processus oublié menaçait des millio...",
+      "published": "2026-10-26T06:29:03+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fc327d6f853a430b7270f59c23913400",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. Th...",
+      "published": "2026-10-26T06:03:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
+    },
     {
       "id": "a015bc5461fffee62222e948bc6d41d4",
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
@@ -14,9 +124,9 @@
     },
     {
       "id": "0f2325be7a104e58c762057e345c1c5e",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619....",
+      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What r...",
       "published": "2026-10-25T17:19:46+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -56,7 +166,7 @@
       "id": "0f71ebe7a492d15c9a932e8296f3a142",
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
       "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. T...",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to de...",
       "published": "2026-10-24T11:09:29+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -71,36 +181,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg"
-    },
-    {
-      "id": "c874b23267c2dd7cbaad8d2ebb6a1840",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on ot...",
-      "published": "2026-10-24T10:36:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg"
-    },
-    {
-      "id": "f76395b595c2377d38f29d9979dd7593",
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider ...",
-      "published": "2026-10-24T09:04:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg"
-    },
-    {
-      "id": "68af383958504ee6331831dccfd3f9b0",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulne...",
-      "published": "2026-10-24T06:25:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
     },
     {
       "id": "b0acd94be1271c50e0af5d88ee771c5f",
@@ -131,26 +211,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "0f2175cedd51fb279a88a1757ec502bc",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan,...",
-      "published": "2026-10-23T18:50:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg"
-    },
-    {
-      "id": "ce370a80c5a374bbebd128599a670301",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the pa...",
-      "published": "2026-10-23T17:54:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg"
     },
     {
       "id": "33414c46bda9d120376c67b93235e751",
@@ -213,16 +273,6 @@
       "image": ""
     },
     {
-      "id": "50843fd93cdff96c8c09f3cee4637fca",
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-      "published": "2026-10-23T12:48:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "26e5dcb02ac366e4f141684b3c6dbdbb",
       "title": "Exchange Online : vos applications EWS ne fonctionnent plus ? Voici comment les débloquer",
       "link": "https://www.it-connect.fr/exchange-online-reactiver-ews-applications-bloquees/",
@@ -248,56 +298,6 @@
       "link": "https://www.it-connect.fr/tor-relais-sortie-compromis-interception-ssh-ebury/",
       "summary": "333 relais de sortie Tor compromis redirigeaient les connexions SSH vers des serveurs pirates pour voler les mots de passe et installer le malware Ebury. Le post Réseau Tor : 333 relais de sortie compromis interceptai...",
       "published": "2026-10-23T05:26:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bbc792ae1ad8af12fffd72deb35af510",
-      "title": "Capcom piraté : 11,7 millions de comptes exposés et des mots de passe changés par l’attaquant",
-      "link": "https://www.it-connect.fr/capcom-fuite-donnees-capcom-id-11-millions-comptes/",
-      "summary": "Plus de 11,7 millions de comptes CAPCOM ID exposés et 196 mots de passe modifiés par un attaquant : Capcom confirme une fuite de données massive. Le post Capcom piraté : 11,7 millions de comptes exposés et des mots de...",
-      "published": "2026-10-23T05:03:18+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6b45270fb728151cdacf7db54a2ac9ef",
-      "title": "PHP2Shell : les attaquants avaient quatre jours d’avance sur le correctif",
-      "link": "https://www.it-connect.fr/php2shell-exploitation-avant-correctifs-amazon/",
-      "summary": "Amazon a repéré une tentative d'exploitation de PHP2Shell le 17 octobre 2026, soit quatre jours avant la sortie des correctifs pour ces failles critiques. Le post PHP2Shell : les attaquants avaient quatre jours d’avan...",
-      "published": "2026-10-23T04:47:25+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a8e77ee95c9140c189439d52527de528",
-      "title": "Fuites I-CAD : 2,9 millions de fiches de chats volées, avec le nom de leurs propriétaires",
-      "link": "https://www.it-connect.fr/fuite-i-cad-compte-loof-detenteurs-chats/",
-      "summary": "Un compte d'accès du LOOF a permis d'extraire 2,9 millions d'enregistrements du fichier I-CAD : noms des détenteurs de chats et identification des animaux. Le post Fuites I-CAD : 2,9 millions de fiches de chats volées...",
-      "published": "2026-10-23T04:21:36+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ffa405e4fb5e445291b4a3d8fda785c6",
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "published": "2026-10-22T21:25:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "bbf6bd402b6364d65aa443976258aab7",
-      "title": "Tiny11 Builder : créez un Windows 11 allégé facilement, sans toucher à PowerShell",
-      "link": "https://www.it-connect.fr/tiny11-builder-application-winui-windows-11/",
-      "summary": "Avec l'application Tiny11 Builder, il devient facile de créer une image Tiny11 allégée adaptée aux ordinateurs vieillissants et incompatibles avec Windows 11. Le post Tiny11 Builder : créez un Windows 11 allégé facile...",
-      "published": "2026-10-22T16:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
