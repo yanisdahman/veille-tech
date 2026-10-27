@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-10-27T03:35:43.309049+00:00",
+  "last_updated": "2026-10-27T11:33:13.959632+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "bff6c8a42674debe47fb350ac72d1e08",
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "published": "2026-10-27T10:36:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9b09f90e928804cf012b74645e2f3e5a",
+      "title": "Claude Code : comprendre les modes de permission et choisir le bon",
+      "link": "https://www.it-connect.fr/claude-code-comprendre-les-modes-de-permission-et-choisir-le-bon/",
+      "summary": "Maîtrisez Claude Code: découvrez les 5 modes de permission, leurs cas d'usage et les risques pour faire le bon choix selon le type de projets ou tâches. Le post Claude Code : comprendre les modes de permission et choi...",
+      "published": "2026-10-27T09:53:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ecbaf890a2970ba2102715a2634fd2c0",
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operato...",
+      "published": "2026-10-27T09:33:06+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg"
+    },
+    {
+      "id": "1332c584a27894d1aa8ced67886d55b9",
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "published": "2026-10-27T09:25:50+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ee6abbb75ebab74413ef3c400fc905bc",
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models wo...",
+      "published": "2026-10-27T08:22:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s1600/chatgpt-compact.jpg"
+    },
+    {
+      "id": "2420eef60355b04aed1603588d218c76",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thurs...",
+      "published": "2026-10-27T08:20:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a6f1f1247b3df010f7ec7de26b4a67fe",
+      "title": "Google : vos e-mails Gmail et vos photos peuvent désormais influencer les publicités, à une condition",
+      "link": "https://www.it-connect.fr/google-gmail-photos-publicites-personnalisees-politique-confidentialite/",
+      "summary": "Google a modifié sa politique de confidentialité : si vous connectez Gmail ou Google Photos à la recherche, ces données peuvent influencer vos publicités. Le post Google : vos e-mails Gmail et vos photos peuvent désor...",
+      "published": "2026-10-27T06:40:22+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "18e11199207ead8927a762f34e1b01da",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with ...",
+      "published": "2026-10-27T06:34:47+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg"
+    },
+    {
+      "id": "fce8ba6ae745c906ef034290319aa9c4",
+      "title": "Photos d’identité, certificats : la Fédération française de tir piratée pour la deuxième fois en un an",
+      "link": "https://www.it-connect.fr/federation-francaise-de-tir-nouvelle-fuite-de-donnees-octobre-2026/",
+      "summary": "Un an après une première fuite, la Fédération française de tir a de nouveau été piratée : 64 000 photos d'identité et près de 19 000 documents dérobés. Le post Photos d’identité, certificats : la Fédération française ...",
+      "published": "2026-10-27T06:16:08+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ff0fef56e3b3d5ec5d5262f16d6c721a",
+      "title": "Broccoli2Shell : la faille Brotli de Node2Shell touche aussi Python, .NET et Linux",
+      "link": "https://www.it-connect.fr/faille-brotli-broccoli2shell-python-dotnet-linux/",
+      "summary": "La faille Brotli CVE-2026-111497 dépasse Node.js : Python, .NET et Linux sont aussi touchés. Voici comment se protéger de cette vulnérabilité. Le post Broccoli2Shell : la faille Brotli de Node2Shell touche aussi Pytho...",
+      "published": "2026-10-27T05:55:34+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "135db9795e4c328f3fd18731082eeb75",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The...",
+      "published": "2026-10-27T04:37:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg"
+    },
     {
       "id": "a6e754fd50521d78a198482daa401e78",
       "title": "University of Copenhagen data breach exposes data of 525,000 people",
@@ -123,16 +233,6 @@
       "image": ""
     },
     {
-      "id": "cca7341f979cb6d17854d834e68b7430",
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United S...",
-      "published": "2026-10-26T13:56:44+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "cc30c373542376791c9d2d52e88c440a",
       "title": "WordCraft, GridCraft, DeckCraft : après Adobe, Word, Excel et PowerPoint réécrits en Rust avec l’IA",
       "link": "https://www.it-connect.fr/wordcraft-gridcraft-deckcraft-suite-office-rust-claude/",
@@ -163,16 +263,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg"
     },
     {
-      "id": "7968eff4121c7fee571f19a272744d7f",
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-      "published": "2026-10-26T10:26:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "4c96aef313fa2315670df102244d4582",
       "title": "Tailworm : 11 failles non corrigées dans Tailscale, dont un accès root via Tailscale SSH",
       "link": "https://www.it-connect.fr/tailworm-failles-tailscale-ssh-root-non-corrigees/",
@@ -181,46 +271,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "966c5639fe45a4c54879b1a0ba8f6aa5",
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these ta...",
-      "published": "2026-10-26T09:54:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg"
-    },
-    {
-      "id": "d3f3c5730ee54a1b01de64e21b690d58",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "published": "2026-10-26T09:19:57+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7f8d18c3f18792d9b0637ee99384b13e",
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into e...",
-      "published": "2026-10-26T08:35:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg"
-    },
-    {
-      "id": "bfadde3853787c6dbdb61276e1fe5f1b",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succe...",
-      "published": "2026-10-26T07:49:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
     },
     {
       "id": "7fd5e6d834d770c21a94e00f02679145",
@@ -243,61 +293,11 @@
       "image": ""
     },
     {
-      "id": "fc327d6f853a430b7270f59c23913400",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. Th...",
-      "published": "2026-10-26T06:03:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
-    },
-    {
       "id": "b0acd94be1271c50e0af5d88ee771c5f",
       "title": "Pulse : les journaux d’événements de Windows facilement lisibles, avec de l’IA locale",
       "link": "https://www.it-connect.fr/pulse-journaux-evenements-de-windows-facilement-lisibles-avec-ia-locale/",
       "summary": "Pulse est un outil gratuit et open source qui traduit les journaux d'événements de Windows 10 et 11 en langage clair, avec une IA locale (Ollama, LM Studio). Le post Pulse : les journaux d’événements de Windows facile...",
       "published": "2026-10-24T05:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b02f3c3fdfb342c3fee5473574313dfc",
-      "title": "PHP signale une nouvelle faille RCE (CVE-2026-115560) : appliquez le même réglage que PHP2Shell",
-      "link": "https://www.it-connect.fr/php-cve-2026-115560-session-upload-progress/",
-      "summary": "CVE-2026-115560 : PHP signale une nouvelle faille RCE. Désactiver Session Upload Progress, déjà conseillé pour PHP2Shell, suffit en attendant le correctif. Le post PHP signale une nouvelle faille RCE (CVE-2026-115560)...",
-      "published": "2026-10-23T14:36:35+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "2298e302e99b47001f4319da1f7182b3",
-      "title": "Windows 11 : avec Project Pantheon, Microsoft teste une mémoire IA qui ne retient que ce que vous choisissez",
-      "link": "https://www.it-connect.fr/windows-11-project-pantheon-context-vault-memoire-ia/",
-      "summary": "Microsoft teste Project Pantheon, une mémoire IA pour Windows 11 qui ne retient que ce que vous sauvegardez, avec un serveur MCP ouvert à Claude et Cursor. Le post Windows 11 : avec Project Pantheon, Microsoft teste u...",
-      "published": "2026-10-23T13:40:12+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "26e5dcb02ac366e4f141684b3c6dbdbb",
-      "title": "Exchange Online : vos applications EWS ne fonctionnent plus ? Voici comment les débloquer",
-      "link": "https://www.it-connect.fr/exchange-online-reactiver-ews-applications-bloquees/",
-      "summary": "Depuis le 1er octobre, EWS est bloqué sur Exchange Online. Voici comment le réactiver, via le centre d'admin ou PowerShell, jusqu'en avril 2027. Le post Exchange Online : vos applications EWS ne fonctionnent plus ? Vo...",
-      "published": "2026-10-23T11:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3cf1cf86a76c5c6ea3064a80a470e2e3",
-      "title": "Node2Shell : la faille Brotli qui expose Node.js à une exécution de code à distance",
-      "link": "https://www.it-connect.fr/node2shell-nodejs-brotli-rce-cve-2026-111497/",
-      "summary": "Une réponse HTTP compressée en Brotli, et du code qui s'exécute dans votre application Node.js : c'est le risque avec la faille Node2Shell (CVE-2026-111497). Le post Node2Shell : la faille Brotli qui expose Node.js à ...",
-      "published": "2026-10-23T06:50:07+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
