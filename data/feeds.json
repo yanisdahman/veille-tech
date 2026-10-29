@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-10-29T04:15:07.653582+00:00",
-  "count": 49,
+  "last_updated": "2026-10-29T12:14:23.154953+00:00",
+  "count": 44,
   "articles": [
+    {
+      "id": "7ff0c3869057b7f6acc3284f7d4f2279",
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+      "published": "2026-10-29T12:00:07+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c44cfd18db370cb110036686d9c110da",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices....",
+      "published": "2026-10-29T11:10:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9a78aaedf4a40de39617ffd19de74c57",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in th...",
+      "published": "2026-10-29T10:44:46+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg"
+    },
+    {
+      "id": "76f5b9e93b642e2df0c56028ccf0425b",
+      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downl...",
+      "published": "2026-10-29T10:26:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7hXo0MoiQiXCSLnOj0h2YUqDhIHl13Le4XxOU3UxV7X2mm4_YGJKOT6akyW58uRaMhslGN6NY9B_1u7V-y_fy0kYJHKoVA-yBWVt53xqBk06_syRpASgWezvnVIZs9goRlwNrp_HMVj_Pu8rzXmIsfJBV1YzhJ8IAd-1g7FFVhFWqc9HegTk4Jok5kR9/s1600/github.gif"
+    },
+    {
+      "id": "0f941b905f046d4e5ea61209a315e1b1",
+      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 1...",
+      "published": "2026-10-29T09:05:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65eroK1pQacKJwqeGmgp2sDta1mgCrPuNMXiwAgTi-FVZNc1V4D7qooFFc-V-XNOJzYpjYk28Y_kIkoHMNJfnQ5h2gI0-bOWlVOt9VJ9oZUpRsBzYLsSMe3oNRTfZe53dtpezOOq1MHmWhEhAigbyOMLx4jWAbcvvImY39jY1h4FMS4_OUqSDF-kZJvQ/s1600/linux-gitlab.jpg"
+    },
+    {
+      "id": "a4061eb2f85b809e8474c24f090a9bbe",
+      "title": "Microsoft propose un départ volontaire à 60 000 salariés, soit plus d’un quart de ses effectifs",
+      "link": "https://www.it-connect.fr/microsoft-offre-depart-volontaire-60000-salaries/",
+      "summary": "Microsoft propose à environ 60 000 salariés de partir avec une indemnité, soit plus d'un quart de ses effectifs. Qui est concerné ? Voici ce qu'il faut retenir. Le post Microsoft propose un départ volontaire à 60 000 ...",
+      "published": "2026-10-29T08:35:40+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6bc5f713e8f98be98d90e2ce0dd06018",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy t...",
+      "published": "2026-10-29T08:24:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuVB5nQJHwAnAATDQxAqD8KtWk7IpNvBqXQq6RPkqJ72joLVDp5dUDDdYmRHlrbUhJQpaQQ59p245XjotvW2DNx_fKk7cPp0wJUsK0z5IQY2jXA1oP-YcYKLtSdBXnZJDNECWOzX9tP3-12cKXJm2A1KKoBsu9CEiOYKbgJDVqvQt7YRF8Fzd706YumA/s1600/cisco-sdwan.jpg"
+    },
+    {
+      "id": "183c79bff0e298df191fe0f9160208d7",
+      "title": "Halloween chez GoDeal24 : Office 2024 Pro Plus à 22.99€ et Windows 11 Pro à 12.25€",
+      "link": "https://www.it-connect.fr/bon-plan-licences-godeal24-windows-office-logiciels/",
+      "summary": "GoDeal24 a lancé une vente flash : des promos sur les tarifs des licences Windows 11, Office 2021, Office 2024 et Windows Server 2025. Le post Halloween chez GoDeal24 : Office 2024 Pro Plus à 22.99€ et Windows 11 Pro ...",
+      "published": "2026-10-29T08:14:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "eaa40d2a2352609b0c94052187fb6cbf",
+      "title": "Ginux : avec l’IA, le fondateur de CentOS crée en 11 jours un noyau Rust compatible Linux",
+      "link": "https://www.it-connect.fr/ginux-noyau-rust-ia-fondateur-centos-rocky-linux/",
+      "summary": "Le fondateur de CentOS et Rocky Linux dévoile Ginux, un noyau en Rust compatible Linux (mais qui n'est pas Linux), développé avec l'aide de l'IA en 11 jours. Le post Ginux : avec l’IA, le fondateur de CentOS crée en 1...",
+      "published": "2026-10-29T06:33:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "339d6498ccffaa79464bcdb6c14eacd2",
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that i...",
+      "published": "2026-10-29T06:22:33+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr5vMvEpNtC6AAPL85NwoZLwafJYuuIYKlofAez4dmACEH-0VI-icaKusP2b9HgxcJC2AMyZkdGNfVOyXQCWqjK-_vIvw1OjptUH_maUL82An7MRxEnZQ62JZqPqwuTp6QQ8TWq4y0SRqUb6KhdXLYRJMyUHg2cQBzez3g-0G8jh2ujIgx-6FqQdWBuFr/s1600/esx-audit.jpg"
+    },
+    {
+      "id": "f32782d3f7f1ca768bcd0f71d93c7e60",
+      "title": "WordPress 7.1.4 corrige 22 vulnérabilités, dont 1 faille menant à l’exécution de code à distance",
+      "link": "https://www.it-connect.fr/wordpress-7-1-4-correctifs-securite-rce-mise-a-jour/",
+      "summary": "WordPress 7.1.4 corrige 22 vulnérabilités, dont une faille d'exécution de code à distance liée au processus de mise à jour. Voici ce qu'il faut retenir. Le post WordPress 7.1.4 corrige 22 vulnérabilités, dont 1 faille...",
+      "published": "2026-10-29T06:10:18+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "db724a1c19cc5669d44dc1e16320481a",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeti...",
+      "published": "2026-10-29T05:50:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg"
+    },
     {
       "id": "a1a2d490116936a89cdd50e4a1231ad2",
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
@@ -133,16 +253,6 @@
       "image": ""
     },
     {
-      "id": "382e215bfe1708c1e158ad289ce65946",
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (...",
-      "published": "2026-10-28T12:48:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1600/oracle-hack.jpg"
-    },
-    {
       "id": "b906bf1acec1fb7ccc23d5fbac0d12c2",
       "title": "Hackers now scanning systems for recently-patched Oracle flaw",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
@@ -151,76 +261,6 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "da35d117e8c29179f4b02eaab05ff199",
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the ma...",
-      "published": "2026-10-28T11:50:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVVx2e6mg8LPbhDYmtubHewVD_9BI7UcctCMSwwG-h4SuOyZJOvIyTre_g9Ggo6sLw6Bjrse_1FsqKKThyiIvc5CbuYqq4caYCtUciHGg33wReFQgOjJuTX5FrnSS3OZTd_yjXt03l_kxwIX-NshU9A8wpANSdQwOWkDKzy31QdXkCD6UP21dOpfbjhg/s1600/server-bios.jpg"
-    },
-    {
-      "id": "88ee4e8f96c4be7a78a65a1e7ef5871c",
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncov...",
-      "published": "2026-10-28T11:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo5_lgjV0zvHt5XW8CcCjQnBc_cvxOxrGxsrliXv3s9c6RD-Aw7eXOlNrp78QHxSnVO5yBgphx7KqCjkjje3YbwCFUtXUdLN4xA-sW_zVoFsK7au37XZxUPyoDRlhCIGsxc2at70I_FexwVKgdyub-XuuvwIZCy1o6hoCU50o7lhHWDSgktrcsrXkN9p8/s1600/wazuh.png"
-    },
-    {
-      "id": "c1d442978d2fdd40d6561228f6c633cd",
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. ...",
-      "published": "2026-10-28T11:15:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3z7SDPF49VtrfeTS8qZD9-Rv1ne3ZUL2KLJZklOlASYXMnjBQXmmIYZ-wAC9PR248ntUBTyZLq2G6TPVYLZ-aEN7fDFc4pcEhSbt_vj36JTbujGJ2UHTbxFDUOiDvYDyKl7NpCvSMlySdqWjPhyphenhyphenFUNTkC38Ej0biyWHeF1u4kFHCe4tkJjgCW6RCHttx_/s1600/adobe-main.jpg"
-    },
-    {
-      "id": "87aaec07e5bf51ef9de59fe2cd811b2e",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-      "published": "2026-10-28T10:46:23+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2cea669c4e3893824aa5bdf7716a756f",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to...",
-      "published": "2026-10-28T10:30:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2g4rsWnZ5eQP03cr-4e99MQStvJmuaTTi91WESG3ua1ddAW73T6X22gyaspj2SirqH-1bSAU9VkOg2F1Kh9TLmPc4jYsNAlD72S2XzCeTTRHSiN3B7is7roWwIMcIm__yRu8SkUBbyeWxAEBo5Fe-bbACZWRuoxZqv_pysQ9iMsZRHPCD_clJZsNIDs/s1600/anyrun-main.jpg"
-    },
-    {
-      "id": "0b01c3d9b8dce6e0b85e1b627410bca5",
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-      "published": "2026-10-28T09:43:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1627f9bf5095bb4c03d70bf89c6973a4",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were bu...",
-      "published": "2026-10-28T08:15:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s1600/hacker-chain.jpg"
     },
     {
       "id": "91869b7ed30c51831197d171deb9b6ab",
@@ -258,46 +298,6 @@
       "link": "https://www.it-connect.fr/emudhra-microsoft-mises-a-jour-hors-bande-windows-certificats/",
       "summary": "Microsoft a publié des mises à jour hors bande pour Windows 11 afin de retirer 7 certificats eMudhra sur les postes Windows coupés d'Internet, mais pas que. Le post Windows : ces mises à jour hors bande éliminent les ...",
       "published": "2026-10-28T06:14:24+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9b09f90e928804cf012b74645e2f3e5a",
-      "title": "Claude Code : comprendre les modes de permission et choisir le bon",
-      "link": "https://www.it-connect.fr/claude-code-comprendre-les-modes-de-permission-et-choisir-le-bon/",
-      "summary": "Maîtrisez Claude Code: découvrez les 5 modes de permission, leurs cas d'usage et les risques pour faire le bon choix selon le type de projets ou tâches. Le post Claude Code : comprendre les modes de permission et choi...",
-      "published": "2026-10-27T09:53:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a6f1f1247b3df010f7ec7de26b4a67fe",
-      "title": "Google : vos e-mails Gmail et vos photos peuvent désormais influencer les publicités, à une condition",
-      "link": "https://www.it-connect.fr/google-gmail-photos-publicites-personnalisees-politique-confidentialite/",
-      "summary": "Google a modifié sa politique de confidentialité : si vous connectez Gmail ou Google Photos à la recherche, ces données peuvent influencer vos publicités. Le post Google : vos e-mails Gmail et vos photos peuvent désor...",
-      "published": "2026-10-27T06:40:22+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fce8ba6ae745c906ef034290319aa9c4",
-      "title": "Photos d’identité, certificats : la Fédération française de tir piratée pour la deuxième fois en un an",
-      "link": "https://www.it-connect.fr/federation-francaise-de-tir-nouvelle-fuite-de-donnees-octobre-2026/",
-      "summary": "Un an après une première fuite, la Fédération française de tir a de nouveau été piratée : 64 000 photos d'identité et près de 19 000 documents dérobés. Le post Photos d’identité, certificats : la Fédération française ...",
-      "published": "2026-10-27T06:16:08+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ff0fef56e3b3d5ec5d5262f16d6c721a",
-      "title": "Broccoli2Shell : la faille Brotli de Node2Shell touche aussi Python, .NET et Linux",
-      "link": "https://www.it-connect.fr/faille-brotli-broccoli2shell-python-dotnet-linux/",
-      "summary": "La faille Brotli CVE-2026-111497 dépasse Node.js : Python, .NET et Linux sont aussi touchés. Voici comment se protéger de cette vulnérabilité. Le post Broccoli2Shell : la faille Brotli de Node2Shell touche aussi Pytho...",
-      "published": "2026-10-27T05:55:34+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -441,56 +441,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur/la-disquette-jeu-pc-de-la-semaine-navigateur-1.png"
-    },
-    {
-      "id": "5c05282cb32abd44acebf07ee9a202e1",
-      "title": "Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement",
-      "link": "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "J'en avais marre du Partage d'écran d'Apple qui lag et de VNC, alors je me suis codé ma propre app de prise de contrôle à distance pour Mac. Image HEVC fluide, son, fichiers, fenêtres d'apps déportées, accès web, le t...",
-      "published": "2026-10-19T10:04:36+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/korben-remote-desktop/korben-remote-desktop-1.png"
-    },
-    {
-      "id": "f4b5bc4e0f56806c7cc13c07fcba8f77",
-      "title": "plMail - Toutes vos boîtes mail rassemblées dans une interface",
-      "link": "https://korben.info/plmail-client-mail-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Gmail arrête de relever vos autres boîtes par POP en janvier 2027. plMail les rassemble dans un webmail hébergé chez vous, avec un Gmail à brancher à la main et un iPhone à compiler.",
-      "published": "2026-10-19T09:04:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/plmail-client-mail-auto-heberge/plmail-client-mail-auto-heberge-1.png"
-    },
-    {
-      "id": "671cb46426f54070a6233bfda71dbb19",
-      "title": "Keepsweeper - Un Démineur avec des péons et des dragons",
-      "link": "https://korben.info/keepsweeper-demineur-strategie-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Keepsweeper reprend la grille du Démineur, mais ses chiffres comptent des trésors, des gobelins et des dragons, et chaque case creusée fait grandir un royaume en temps réel. Gratuit et complet dans le navigateur, 5,99...",
-      "published": "2026-10-19T08:32:24+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/keepsweeper-demineur-strategie-temps-reel/keepsweeper-demineur-strategie-temps-reel-1.png"
-    },
-    {
-      "id": "875e62b45b5529e6787f7166669c66c0",
-      "title": "Music Bridge - Pour que les liens musicaux s'ouvrent bien sur votre plateforme favorite",
-      "link": "https://korben.info/music-bridge-extension-liens-musique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un lien Spotify alors que vous êtes sur Deezer ? L'extension Music Bridge ouvre le même morceau sur votre plateforme, voire dans l'appli de bureau. Ce qu'elle ne prend pas, et à quoi tient sa durée de vie.",
-      "published": "2026-10-19T08:16:44+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/music-bridge-extension-liens-musique/music-bridge-extension-liens-musique-1.avif"
-    },
-    {
-      "id": "f2d2e4ca986baf21d27a94a8f7e70218",
-      "title": "Et si vous commenciez par effacer ce que les data brokers savent de vous ? #sponso",
-      "link": "https://korben.info/data-brokers-que-savent-ils-de-vous.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Une étude d'Incogni auprès d'un millier d'internautes montre que 52% pensent que leurs données seront exposées dans une fuite et que 63% en sont anxieux. Le service envoie des demandes de suppression aux data brokers ...",
-      "published": "2026-10-19T07:50:58+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/data-brokers-que-savent-ils-de-vous/data-brokers-que-savent-ils-de-vous-1.webp"
     }
   ]
 }
