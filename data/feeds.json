@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-31T03:56:20.037983+00:00",
+  "last_updated": "2026-10-31T11:38:46.097739+00:00",
   "count": 43,
   "articles": [
+    {
+      "id": "04c9e7f5ab37d9481d5d0db9fd6f7093",
+      "title": "VFS365 : cet outil open source affiche SharePoint et OneDrive comme un lecteur réseau dans Windows",
+      "link": "https://www.it-connect.fr/vfs365-sharepoint-onedrive-lecteur-reseau/",
+      "summary": "VFS365 affiche OneDrive, SharePoint et Teams comme un lecteur réseau sous Windows, sans synchronisation. Fonctionnement, limites et risques à connaître. Le post VFS365 : cet outil open source affiche SharePoint et One...",
+      "published": "2026-10-31T09:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "6c360090011ba79dbeda4ab126f73505",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploita...",
+      "published": "2026-10-31T08:27:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg"
+    },
+    {
+      "id": "0ab8fba09e2d39c70fc356b313988629",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The r...",
+      "published": "2026-10-31T05:33:41+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg"
+    },
+    {
+      "id": "dee7e8f251784fe5d324be8caf5ae64d",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18....",
+      "published": "2026-10-31T04:56:12+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg"
+    },
     {
       "id": "c2baec552feb0c35e3f3c7bcfb68f721",
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -223,16 +263,6 @@
       "image": ""
     },
     {
-      "id": "f20df8f26a8a587c6fa608f90f35f860",
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization...",
-      "published": "2026-10-30T07:45:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg"
-    },
-    {
       "id": "d6731622de1ed8d2b606c4ecb99d6c63",
       "title": "Tor Browser 16.0 passe à Firefox ESR 153, arrive sur Linux ARM64 et peut masquer les titres des fenêtres",
       "link": "https://www.it-connect.fr/tor-browser-16-nouveautes-linux-arm64-firefox-esr-153/",
@@ -241,16 +271,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "5246e5bcec06c2699d5e8f565a88ebc9",
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploit...",
-      "published": "2026-10-30T07:27:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg"
     },
     {
       "id": "d80b2f5952e91f32289cf94101cd4765",
@@ -273,16 +293,6 @@
       "image": ""
     },
     {
-      "id": "ea221575ed0f7c84c986d904097cd24e",
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those ass...",
-      "published": "2026-10-30T04:14:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg"
-    },
-    {
       "id": "86bfda95cfd208fdef1cf109da24b8be",
       "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
@@ -300,16 +310,6 @@
       "published": "2026-10-29T22:45:23+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "20f7365ea0422383b38819028da1d1ad",
-      "title": "REA : j’ai testé la rétro-ingénierie pilotée par l’IA avec Claude Code",
-      "link": "https://www.it-connect.fr/rea-retro-ingenierie-ia-ghidra/",
-      "summary": "Découvrez REA, le serveur MCP qui permet à Claude Code ou Codex de piloter Ghidra et d'autres outils : installation, cadre légal et démo de rétro-ingénierie. Le post REA : j’ai testé la rétro-ingénierie pilotée par l’...",
-      "published": "2026-10-29T17:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
       "image": ""
     },
     {
