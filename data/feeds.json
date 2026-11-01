@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-01T12:37:47.346406+00:00",
-  "count": 42,
+  "last_updated": "2026-11-01T21:39:17.543967+00:00",
+  "count": 41,
   "articles": [
+    {
+      "id": "107b7771a2cb7eff23d19e6eca63ab39",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "published": "2026-11-01T19:57:53+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ab82e558acc959d7d6eddbc4f299acc7",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over c...",
+      "published": "2026-11-01T15:11:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "709c87e1e35ad2d72ec2697bd40e3984",
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "published": "2026-11-01T13:53:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "4215f7796e3907e8b22c683a1ae114ca",
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
@@ -223,36 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
     },
     {
-      "id": "3c844cf86a076028f70cc7be5402e3e8",
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to ...",
-      "published": "2026-10-30T14:36:54+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5af97580a077e124478e1171c8a96a6e",
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how...",
-      "published": "2026-10-30T14:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "fae2bc84abfe05fe5fa29bdb9ed4c35f",
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "2026-10-30T13:00:32+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "a9a0df3374bd66934755d93645e173ef",
       "title": "Test d'un chargeur UGREEN 160W qui cache un câble rétractable et un écran",
       "link": "https://korben.info/test-dun-chargeur-ugreen-160w-qui-cache-un-cable-retractable-et-un-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -391,16 +391,6 @@
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "ab7c9554d0ca65355c0656f9f7af99ed",
-      "title": "Test du chargeur UGREEN Nexode Pro 300W",
-      "link": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "UGREEN propose sa station de charge Nexode Pro 300W en GaN, avec huit sorties : six USB-C (dont trois à 140W en PD 3.1), un USB-A et une prise DC de 240W. Elle est affichée à 126 euros au lieu de 170 sur Amazon, contr...",
-      "published": "2026-10-22T14:44:30+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w/test-du-chargeur-ugreen-nexode-pro-300w-1.jpg"
     },
     {
       "id": "9b7c6efb729d00d6974d3a9ee683bef7",
