@@ -1,7 +1,207 @@
 {
-  "last_updated": "2026-11-02T04:15:18.778275+00:00",
-  "count": 41,
+  "last_updated": "2026-11-02T14:41:25.811797+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "58e175f74a300d86983cde6a325c7647",
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+      "published": "2026-11-02T14:28:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6320ae2b4a7e89508d8a7abff4f5dcf9",
+      "title": "HackerBooks - Les bouquins préférés des geeks, triés par Claude",
+      "link": "https://korben.info/hackerbooks-hackertube-hacker-news.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Après le HackerTube de Karpathy, HackerBooks classe 15 766 livres cités sur Hacker News en séparant ceux qu'on cite de ceux qu'on recommande, un tri fait par Claude. Le CSV est à télécharger, comme le zip de HackerTub...",
+      "published": "2026-11-02T14:06:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/hackerbooks-hackertube-hacker-news/hackerbooks-hackertube-hacker-news-1.png"
+    },
+    {
+      "id": "da37eecbe8739d834ba25777190f2bd3",
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+      "published": "2026-11-02T13:57:29+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c0eb0a225698de4792420b3cbaf56f7c",
+      "title": "Applis d'alerte piratées - FR-Alert est-il à l'abri ?",
+      "link": "https://korben.info/fausses-alertes-air-alert-fr-alert.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Les applis d'alerte ukrainienne et russe ont diffusé de fausses alertes nucléaires dans la même nuit. FR-Alert passe par les antennes, sans appli, mais le Brésil a montré en juin qu'un compte d'émission détourné suffit.",
+      "published": "2026-11-02T12:57:53+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/fausses-alertes-air-alert-fr-alert/fausses-alertes-air-alert-fr-alert-1.png"
+    },
+    {
+      "id": "a34b202eeced1892458e2f001e70e444",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+      "published": "2026-11-02T12:47:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "647d9d7a719837a9eca86e835a8f049f",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its...",
+      "published": "2026-11-02T11:50:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg"
+    },
+    {
+      "id": "cae8eceeb5ba5b3ff2f8a7a7a3e224b4",
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 ...",
+      "published": "2026-11-02T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg"
+    },
+    {
+      "id": "e417dcb86ba7536a42e0e55c763fc62e",
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+      "published": "2026-11-02T11:28:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3af1d637c9e385c3d042ef3d16449649",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certifica...",
+      "published": "2026-11-02T11:08:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg"
+    },
+    {
+      "id": "1cdc477cf39cbf014d0cd9f20f15d211",
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observe...",
+      "published": "2026-11-02T10:49:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg"
+    },
+    {
+      "id": "b7c711e8a767d199c6a880d25548f206",
+      "title": "Cloud & Cyber Security Expo Paris 2026 : les grands enjeux cyber au cœur du programme",
+      "link": "https://www.it-connect.fr/cloud-cyber-security-expo-paris-2026-programme/",
+      "summary": "IA, gestion des incidents, NIS2, CRA et géopolitique : découvrez les thèmes des conférences de Cloud & Cyber Security Expo Paris, les 18 et 19 novembre 2026. Le post Cloud & Cyber Security Expo Paris 2026 : les grands...",
+      "published": "2026-11-02T10:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f1bd98e54ca6876a0eed7d37383c3cf5",
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+      "published": "2026-11-02T09:33:26+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d51464924f69201e60358091092104bb",
+      "title": "CVE-2026-98432 : la faille critique du noyau Linux qui peut offrir un accès root à distance",
+      "link": "https://www.it-connect.fr/cve-2026-98432-faille-noyau-linux-tcp-root-distance/",
+      "summary": "Une nouvelle faille critique dans le noyau Linux (CVE-2026-98432) : RHEL, Debian, SUSE et Proxmox sont patchés, pas Ubuntu. Quel noyau installer ? Le post CVE-2026-98432 : la faille critique du noyau Linux qui peut of...",
+      "published": "2026-11-02T08:29:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "0883dfd1deb10d5a510bc88a8d0de7b3",
+      "title": "Steam : des failles permettaient d’exécuter du code à distance sur un PC, sans aucun clic",
+      "link": "https://www.it-connect.fr/steam-rce-zero-click-elevation-privileges-atredis/",
+      "summary": "Un chercheur a découvert dans Steam une faille RCE zero-click entre PC liés au même compte, et quatre élévations de privilèges SYSTEM sous Windows. Le post Steam : des failles permettaient d’exécuter du code à distanc...",
+      "published": "2026-11-02T08:02:40+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "073d0d1bea27e33e74e70c264c8d9b30",
+      "title": "Arnaques dopées à l'IA - Comment ne pas tomber dans le panneau #sponso",
+      "link": "https://korben.info/arnaques-dopees-ia-comment-se-proteger.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une commande à coller, un lien, du code, un agent : des pièges où l'IA sert de décor de confiance, avec le réflexe gratuit pour chacun et ce que l'analyse des conversations d'ESET couvre ou pas.",
+      "published": "2026-11-02T07:20:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/arnaques-dopees-ia-comment-se-proteger/arnaques-dopees-ia-comment-se-proteger-1.png"
+    },
+    {
+      "id": "0a27f9b920f1d6fa8d10164f94394cd2",
+      "title": "Netflix, jeux vidéo, cloud : la taxe au gigaoctet votée par 11 députés fait débat",
+      "link": "https://www.it-connect.fr/taxe-gigaoctet-producteurs-donnees-numeriques/",
+      "summary": "Votée à une voix près, la taxe de 0,055 € par Go est vivement critiquée et elle a fait réagir VideoLAN, Free et OVHcloud. Qu'en est-il réellement ? Le post Netflix, jeux vidéo, cloud : la taxe au gigaoctet votée par 1...",
+      "published": "2026-11-02T06:10:26+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3af324834f04a9921845e941f55e3710",
+      "title": "Proton s’excuse et tente de s’expliquer : ses outils IA internes bientôt en open source",
+      "link": "https://www.it-connect.fr/proton-excuses-ia-open-source-lumo/",
+      "summary": "Après l'enquête de 404 Media, Proton sort du silence : démentis, excuses et promesse d'ouvrir les coulisses de son usage de l'IA. Voici ce qu'il faut retenir. Le post Proton s’excuse et tente de s’expliquer : ses outi...",
+      "published": "2026-11-02T06:08:21+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8b9ddc391c943ba294ee5ffbd8465662",
+      "title": "Création, connexion, session, récupération : où sont les failles de votre gestion des identités ?",
+      "link": "https://www.it-connect.fr/creation-connexion-session-recuperation-ou-sont-les-failles-de-votre-gestion-des-identites/",
+      "summary": "Création, connexion, session, récupération : les 4 moments clés où une identité se fait compromettre, avec des cas réels et les réponses possibles. Le post Création, connexion, session, récupération : où sont les fail...",
+      "published": "2026-11-02T06:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "adcbbc84114f434320834d6055b08165",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value....",
+      "published": "2026-11-02T05:51:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5V8QVweKn56_SnTCKZkhmOip6paz9noBrJn7znyZqUtFbOEaLuALQUNlmjcSAb7RIUW8GDETB6J0kFpQQe6vq7wAjk3ogxKUeQ0-2rKeO6TveLdqHNs9KnTN6zC6rwPzWE2IBWMokqQOUzAA0XPM2BWHTUTE7_U7XDfUGKTDIC1PYttxHGnAq_Kr_hMq/s1600/hacker-ai.jpg"
+    },
+    {
+      "id": "9a6cdd220326991d41dd7dc41afffcde",
+      "title": "Reddit va réserver ses contenus aux utilisateurs connectés pour freiner le scraping (et l’IA)",
+      "link": "https://www.it-connect.fr/reddit-connexion-obligatoire-scraping/",
+      "summary": "Reddit va progressivement réserver ses contenus aux utilisateurs connectés, avec des tests hors des États-Unis. Scraping, publicité : voici ce que l'on sait. Le post Reddit va réserver ses contenus aux utilisateurs co...",
+      "published": "2026-11-02T05:49:21+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "107b7771a2cb7eff23d19e6eca63ab39",
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
@@ -56,7 +256,7 @@
       "id": "a18021832e4899eecedd397871a53614",
       "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
       "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pres...",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jad...",
       "published": "2026-11-01T07:03:00+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
@@ -93,36 +293,6 @@
       "image": ""
     },
     {
-      "id": "c9bba5656d415800ccb0276159159d7d",
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "published": "2026-10-31T14:05:15+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4bc7fcf06de138f18bd7fed3b4029cef",
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecuri...",
-      "published": "2026-10-31T13:10:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "390feb96420434d589a95e125a2fa41a",
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizat...",
-      "published": "2026-10-31T12:50:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "065d6fd5d0631ffc27d73b8c2b655996",
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -141,56 +311,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "6c360090011ba79dbeda4ab126f73505",
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploita...",
-      "published": "2026-10-31T08:27:43+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg"
-    },
-    {
-      "id": "0ab8fba09e2d39c70fc356b313988629",
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The r...",
-      "published": "2026-10-31T05:33:41+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg"
-    },
-    {
-      "id": "dee7e8f251784fe5d324be8caf5ae64d",
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18....",
-      "published": "2026-10-31T04:56:12+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg"
-    },
-    {
-      "id": "c2baec552feb0c35e3f3c7bcfb68f721",
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP)...",
-      "published": "2026-10-30T21:09:46+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5caf201c7d7342be34a7042e77ae8d54",
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The acti...",
-      "published": "2026-10-30T16:58:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg"
     },
     {
       "id": "52a9e500c4bae2041b5e48497a0b052b",
@@ -213,46 +333,6 @@
       "image": ""
     },
     {
-      "id": "b043f6bc50bb16dae6a7f31d04e29941",
-      "title": "EnterpriseEnrollment : ce qui change pour l’inscription des postes Windows dans Intune",
-      "link": "https://www.it-connect.fr/enterpriseenrollment-ce-qui-change-pour-linscription-des-postes-windows-dans-intune/",
-      "summary": "Dès le 15 janvier 2027, Intune n’utilisera plus le CNAME EnterpriseEnrollment pour l’inscription Windows MDM-only. Qui est concerné et comment s’y préparer ? Le post EnterpriseEnrollment : ce qui change pour l’inscrip...",
-      "published": "2026-10-30T16:20:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "82f2b74362c7a0ea2af1f17c58bbbfa0",
-      "title": "Le PAM face au défi des identités non humaines",
-      "link": "https://www.it-connect.fr/le-pam-face-au-defi-des-identites-non-humaines/",
-      "summary": "Le PAM face aux identités non humaines : comment limiter les droits des agents IA et des comptes de service, et tracer leurs actions. Le post Le PAM face au défi des identités non humaines a été publié sur IT-Connect.",
-      "published": "2026-10-30T16:15:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "68cc4ea8719655cc50ec04c105dbb622",
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-      "published": "2026-10-30T15:58:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "8fe595add26b43709f49af6f917da0a3",
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the vie...",
-      "published": "2026-10-30T15:17:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
-    },
-    {
       "id": "a9a0df3374bd66934755d93645e173ef",
       "title": "Test d'un chargeur UGREEN 160W qui cache un câble rétractable et un écran",
       "link": "https://korben.info/test-dun-chargeur-ugreen-160w-qui-cache-un-cable-retractable-et-un-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -261,56 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-dun-chargeur-ugreen-160w-qui-cache-un-cable-retractable-et-un-ecran/test-dun-chargeur-ugreen-160w-qui-cache-un-cable-retractable-et-un-ecran-1.jpg"
-    },
-    {
-      "id": "e2581704d89a043d65f086d48e2d4eee",
-      "title": "Claude Code : à quoi sert la commande /compact et quand l’utiliser à la main",
-      "link": "https://www.it-connect.fr/claude-code-a-quoi-sert-la-commande-compact-et-quand-lutiliser-a-la-main/",
-      "summary": "Découvrez comment /compact dépoussière les sessions Claude Code quand la fenêtre de contexte est saturée : mode automatique ou action manuelle, que choisir ? Le post Claude Code : à quoi sert la commande /compact et q...",
-      "published": "2026-10-30T09:01:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3d5c61bcb3669ade071e6a3decf399e6",
-      "title": "Test Geekom A5 2027 Edition : ce mini PC passe au Ryzen 7 7730U",
-      "link": "https://www.it-connect.fr/test-geekom-a5-2027-edition/",
-      "summary": "Test complet du Geekom A5 2027 Edition (Ryzen 7 7730U, 16 Go, SSD 512 Go) : design, évolutivité, performances et comparatif avec l'A5 2025. Le post Test Geekom A5 2027 Edition : ce mini PC passe au Ryzen 7 7730U a été...",
-      "published": "2026-10-30T08:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d6731622de1ed8d2b606c4ecb99d6c63",
-      "title": "Tor Browser 16.0 passe à Firefox ESR 153, arrive sur Linux ARM64 et peut masquer les titres des fenêtres",
-      "link": "https://www.it-connect.fr/tor-browser-16-nouveautes-linux-arm64-firefox-esr-153/",
-      "summary": "Vous utilisez Tor Browser ? La version 16.0 passe à Firefox ESR 153, arrive sur Linux ARM64 et peut masquer vos titres de fenêtres. Voici les nouveautés. Le post Tor Browser 16.0 passe à Firefox ESR 153, arrive sur Li...",
-      "published": "2026-10-30T07:37:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d80b2f5952e91f32289cf94101cd4765",
-      "title": "Proton : 90 % du code écrit par l’IA, et pour le CEO, vouloir tester la sécurité est une mentalité de losers",
-      "link": "https://www.it-connect.fr/proton-andy-yen-ia-code/",
-      "summary": "90 % du code de Proton serait écrit par l’IA, et son CEO, Andy Yen, balaie une demande de tests de sécurité en parlant d'une mentalité de losers. Le post Proton : 90 % du code écrit par l’IA, et pour le CEO, vouloir t...",
-      "published": "2026-10-30T06:47:34+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f35f0ba97be024f52f2cb31c173eba83",
-      "title": "Nouvel Outlook : la mise à jour Edge 156 empêche d’ouvrir les pièces jointes, Microsoft déploie un correctif",
-      "link": "https://www.it-connect.fr/nouvel-outlook-edge-156-bug-pieces-jointes/",
-      "summary": "Nouvel Outlook : depuis Edge 156, l'option « Ouvrir » disparaît lors de l'ouverture des pièces jointes. Microsoft a confirmé le bug et déployé un correctif. Le post Nouvel Outlook : la mise à jour Edge 156 empêche d’o...",
-      "published": "2026-10-30T06:42:08+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "4fc0021a791788f1e3fadffd39271c42",
@@ -393,6 +423,26 @@
       "image": ""
     },
     {
+      "id": "ab7c9554d0ca65355c0656f9f7af99ed",
+      "title": "Test du chargeur UGREEN Nexode Pro 300W",
+      "link": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "UGREEN propose sa station de charge Nexode Pro 300W en GaN, avec huit sorties : six USB-C (dont trois à 140W en PD 3.1), un USB-A et une prise DC de 240W. Elle est affichée à 126 euros au lieu de 170 sur Amazon, contr...",
+      "published": "2026-10-22T14:44:30+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w/test-du-chargeur-ugreen-nexode-pro-300w-1.jpg"
+    },
+    {
+      "id": "5e532d8f2812394bd5767933d3d558db",
+      "title": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
+      "link": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Dans un article partenaire, Surfshark annonce une version de WireGuard entièrement post-quantique, combinant ML-KEM et certificats ML-DSA, d'abord sur iOS et macOS. Le VPN ajoute aussi une rotation d'IP toutes les 5 à...",
+      "published": "2026-10-22T07:15:54+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures/votre-vpn-est-il-pret-pour-les-menaces-futures-1.webp"
+    },
+    {
       "id": "9b7c6efb729d00d6974d3a9ee683bef7",
       "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
@@ -401,6 +451,46 @@
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "aec6d5d6a9a2972022a97ff14845c8d6",
+      "title": "Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE",
+      "link": "https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Quentin Kaiser a divulgué une faille d'au moins 16 ans dans le code WPS de Broadcom : à portée de Wi-Fi, sans la clé du réseau, on peut faire exécuter son code à une box. Broadcom dit l'avoir remplacé en 2018 mais ref...",
+      "published": "2026-10-20T07:51:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/faille-wps-broadcom-routeurs-wifi/faille-wps-broadcom-routeurs-wifi-1.png"
+    },
+    {
+      "id": "0bbbf9cc6b609a68f3b20b210b0d9cbf",
+      "title": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
+      "link": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni installation. Le s...",
+      "published": "2026-10-20T05:14:23+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur/la-disquette-jeu-pc-de-la-semaine-navigateur-1.png"
+    },
+    {
+      "id": "5c05282cb32abd44acebf07ee9a202e1",
+      "title": "Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement",
+      "link": "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "J'en avais marre du Partage d'écran d'Apple qui lag et de VNC, alors je me suis codé ma propre app de prise de contrôle à distance pour Mac. Image HEVC fluide, son, fichiers, fenêtres d'apps déportées, accès web, le t...",
+      "published": "2026-10-19T10:04:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/korben-remote-desktop/korben-remote-desktop-1.png"
+    },
+    {
+      "id": "f4b5bc4e0f56806c7cc13c07fcba8f77",
+      "title": "plMail - Toutes vos boîtes mail rassemblées dans une interface",
+      "link": "https://korben.info/plmail-client-mail-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Gmail arrête de relever vos autres boîtes par POP en janvier 2027. plMail les rassemble dans un webmail hébergé chez vous, avec un Gmail à brancher à la main et un iPhone à compiler.",
+      "published": "2026-10-19T09:04:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/plmail-client-mail-auto-heberge/plmail-client-mail-auto-heberge-1.png"
     },
     {
       "id": "215d61ac1d3f7034a9b2a0ab0da614f1",
