@@ -1,7 +1,227 @@
 {
-  "last_updated": "2026-11-04T04:43:26.904547+00:00",
+  "last_updated": "2026-11-04T13:44:04.620601+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f39afbf27591c918e99dbf811d3dd38f",
+      "title": "Cyberattaque contre un prestataire de l’EFS : des congélateurs de plasma réglés à 110 °C",
+      "link": "https://www.it-connect.fr/cyberattaque-efs-coolworld-congelateurs-plasma/",
+      "summary": "Un prestataire de l'EFS piraté, des congélateurs de plasma réglés à 110 °C au lieu de -30 °C. Ce que l'on sait de l'attaque qui touche le secteur de la santé. Le post Cyberattaque contre un prestataire de l’EFS : des ...",
+      "published": "2026-11-04T13:41:51+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "526dcfa6a32a3e2c2ae417deee1e545b",
+      "title": "US charges two Canadians accused of hacking US universities",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+      "published": "2026-11-04T13:13:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "eb2583f72c59fdef5481a32ccbe88415",
+      "title": "Botnet XCPE - La backdoor restera en place dans les box Android TV",
+      "link": "https://korben.info/botnet-xcpe-videostrong-box-android-tv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Google et ses partenaires ont coupé les serveurs du botnet XCPE et banni Videostrong, qui avait piégé le firmware de plus de 1,3 million d'appareils Android. Mais l'implant reste dans les box déjà vendues, et les part...",
+      "published": "2026-11-04T12:44:28+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/botnet-xcpe-videostrong-box-android-tv/botnet-xcpe-videostrong-box-android-tv-1.png"
+    },
+    {
+      "id": "78a72d27da52c5239fe412319ef04750",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "published": "2026-11-04T12:11:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e9ce784f8581aebaacf5add8d6ac8177",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclo...",
+      "published": "2026-11-04T12:07:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJWnScdkMx0R5_Zt00NtYVNjNavBR7IMrLzJM_tZGMTpZtAvV7uNWt6BQbBrlUzH-aBoj_ZmMEOG__aTA8VmfTeiHUR9gfqNe2eYf9fSM-sYQkmCOg10qZ3ZaKyM_RS1QUQhm8s5NMw-xnYaWMDgDakmFyp9tbJgQ4hOZTf0cxe9E6x7uWt3JeN6bS3k/s1600/ruby-rails.jpg"
+    },
+    {
+      "id": "30689652636fcf6a992fc8402e50f336",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manage...",
+      "published": "2026-11-04T11:46:27+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg"
+    },
+    {
+      "id": "c62e050b3bcf011905dceb6c2f61c87e",
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise ow...",
+      "published": "2026-11-04T11:34:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif"
+    },
+    {
+      "id": "1883178e8629f092a86c89fefe209875",
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a s...",
+      "published": "2026-11-04T11:24:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg"
+    },
+    {
+      "id": "fa90441b5624c723d6b74d8e9e491aa4",
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "published": "2026-11-04T09:39:54+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "16edd2a362db19161428fbbe1d37f31a",
+      "title": "Revolut vire Claude Code pour une IA chinoise et divise ses coûts par dix",
+      "link": "https://korben.info/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Revolut affirme avoir réduit d'environ 90 % sa facture d'IA de codage en un an, en remplaçant Claude Code par GLM, un modèle ouvert du chinois Z.ai auto-hébergé sur 56 cartes Nvidia B200. Le coût tombe à 0,30 dollar l...",
+      "published": "2026-11-04T09:39:50+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix-1.webp"
+    },
+    {
+      "id": "a39714af242ce96e361728ee1ba91f49",
+      "title": "Pas d’IA, pas de recherche Google : c’est ce que veut imposer Google aux écoles",
+      "link": "https://www.it-connect.fr/google-ecoles-ia-gemini-recherche-desactivee/",
+      "summary": "Gemini et Google Search seront désactivés par défaut sur les comptes élèves. Une école qui refuse l'IA de Google perdra aussi l'accès au moteur de recherche. Le post Pas d’IA, pas de recherche Google : c’est ce que ve...",
+      "published": "2026-11-04T09:32:03+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "666bd11b55771dccd7d6ab4077e4b8d9",
+      "title": "Cloudflare security-audit : prendre en main la skill d’audit de sécurité pour agents IA",
+      "link": "https://www.it-connect.fr/cloudflare-security-audit-skill-audit-de-securite-agents-ia/",
+      "summary": "Découvrez la skill open source security-audit de Cloudflare pour auditer votre code avec Claude Code et l'IA afin de débusquer des failles. Le post Cloudflare security-audit : prendre en main la skill d’audit de sécur...",
+      "published": "2026-11-04T08:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "cdfdc984ed13d0d6f84e566ad3c5028a",
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian ...",
+      "published": "2026-11-04T08:17:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvVXRk9XWLvV5V7-gF-fqxa3YEEGpquE2Q8rML0rLK7ieZAbLJLqsHS6Sk012cwUslyYApJRP4b8SvmPCyATY2SbWpuhWILK0MRglNFqH5l5rVhTjSaJunpjWvbt8O9_UUnZnuxMJ26k5S4aQNj6pMBJLhY0gfn4zIY0Ot6m-gkntqxJiU4qgoAL3641pw/s1600/russia-hackerss.jpg"
+    },
+    {
+      "id": "c37c75e8f42ffb3683b61f6bf6998360",
+      "title": "Google coupe la recherche aux écoles qui refusent son IA",
+      "link": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Google désactivera par défaut Gemini, Gemini Notebook et Search sur les comptes d'élèves américains, de la maternelle au lycée, avec une bascule début 2027. Un responsable a confirmé qu'une école refusant l'IA perdra ...",
+      "published": "2026-11-04T08:05:09+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia-1.jpg"
+    },
+    {
+      "id": "e5ebbd8984776c5b9687b643d58cabae",
+      "title": "Barracuda ESG : exploitées ensemble, ces deux failles offrent un accès root",
+      "link": "https://www.it-connect.fr/barracuda-esg-waf-failles-acces-root/",
+      "summary": "Barracuda a corrigé deux failles touchant ESG, WAF, Load Balancer ADC et d'autres produits. Sur l'ESG, leur combinaison peut offrir un accès root à distance. Le post Barracuda ESG : exploitées ensemble, ces deux faill...",
+      "published": "2026-11-04T07:50:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "3ee0c5b7b4a3af748d0f0f747f6dcdf8",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones g...",
+      "published": "2026-11-04T07:46:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm9fDI_lHL64S1r-eoB5-99WagZJBIjKDF-bEJ9egJw_EiLUomXSakGnV0vdq9Fqu2j6KVWM4upLmOwweDCKQ32f21W8CTsQHnoGMhFm-ISPNQEg1Jq5WbDujqLHVkGSEsox0Xd3Yc5Dd-v4-6rdzU4akd97y7cBhRYFO2ofmxpf3HYspJ6MkJs2RtfC4/s1600/android-patch.jpg"
+    },
+    {
+      "id": "62a0df9ba6f904783398b6b731266aa0",
+      "title": "Patch gap : Mozilla va décaler les correctifs de Firefox pour empêcher l’IA de les transformer en exploits",
+      "link": "https://www.it-connect.fr/firefox-patch-gap-ia-correctifs-mozilla/",
+      "summary": "Un correctif visible dans le code, mais pas encore sur vos postes : une brèche que l'IA sait désormais exploiter dans Firefox. Mozilla riposte. Voici comment. Le post Patch gap : Mozilla va décaler les correctifs de F...",
+      "published": "2026-11-04T07:26:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8192c2cdc4cb02774d91e74200c4709d",
+      "title": "1,3 million de box Android TV piégées en usine par leur propre fabricant",
+      "link": "https://www.it-connect.fr/google-botnet-xcpe-videostrong-box-android-tv/",
+      "summary": "Selon Google, Videostrong a piégé 1,3 million de box Android TV pour les exploiter comme proxys résidentiels via le botnet XCPE. Voici ce que l'on sait. Le post 1,3 million de box Android TV piégées en usine par leur ...",
+      "published": "2026-11-04T07:22:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "01678bbb820e8a0ad0ddd7539b5431ac",
+      "title": "Maintenance IT : comment Jiliti simplifie le support matériel des entreprises multi-constructeurs",
+      "link": "https://www.it-connect.fr/maintenance-it-comment-jiliti-simplifie-le-support-materiel-des-entreprises-multi-constructeurs/",
+      "summary": "TPM et Shared Support transforment la maintenance IT multi-constructeurs : coût maîtrisé, SLA simplifiés et gouvernance centralisée. Le post Maintenance IT : comment Jiliti simplifie le support matériel des entreprise...",
+      "published": "2026-11-04T07:20:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8ebc354a95d7d6c17dad47d4d42239bd",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-sever...",
+      "published": "2026-11-04T05:43:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9IgE0BWDAvYzjY8wFSMADIRn69AMLYxUa-oPoOISNBOpPbxwBNoWrbXWzI6P0deiU6WDqitiIZx1gFXSAlR8xX9rj56BuU48veMEPJAGSsmQTbVPirFOCuyMc_KQxtbPfc841GZGZ-3HSYYHCGbHnzrihtwQUaMlXrT3leLzI2USh00hc9OBw4k1SCJt4/s1600/wp-exploit.jpg"
+    },
+    {
+      "id": "e176220d7c8968f6d506098ab1632825",
+      "title": "Astra a retouché les poids de Qwen pour qu'il puisse aller jusqu'au bout de sa réflexion",
+      "link": "https://korben.info/gpt-6-astra-poids-qwen.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "GPT-6 Astra a modifié 0,016 % des poids de Qwen3.5-0.8B et fait passer MATH-500 de 7,9 % à 48,1 %. Sauf que la retouche répare surtout des boucles de réflexion : réflexion coupée, son réglage par défaut, le modèle d'o...",
+      "published": "2026-11-04T04:44:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/gpt-6-astra-poids-qwen/gpt-6-astra-poids-qwen-1.png"
+    },
+    {
+      "id": "500122d8ebb2629c47d5b50846977d71",
+      "title": "DiscImageStudio - Un dessin gravé dans les données du disque",
+      "link": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "DiscImageStudio convertit une image en données qui, une fois gravées sur un CD, un DVD ou un BD-R, font apparaître ce dessin à la surface du disque. Héritier de CDImage, il calibre les disques par photo sous Windows, ...",
+      "published": "2026-11-04T04:25:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray/discimagestudio-graver-image-cd-dvd-blu-ray-1.jpg"
+    },
     {
       "id": "9ccce3fd6d9d6b90929779afa500ee7e",
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
@@ -83,36 +303,6 @@
       "image": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm-1.jpg"
     },
     {
-      "id": "04e3c25a08e8dbdeed943f7bc8250716",
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulne...",
-      "published": "2026-11-03T15:59:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCvGJCkYjldhAvsjMo47UqxGOTfVY1zCcjZQzgebkO8j1__fa0cFOn3CAV1jPTUpzwDDISQKPQP5eVGOl9BzRLBX7KlWuU2HMpzuHRWV2wyaItDwYgPu0X7m3qE5V1kgFzKZ1QYcRBcZyDqkUTFberiOWXBfV_-suYC1QQWq_TwBMeyme4F0FsOZnpijhC/s1600/barracuda.png"
-    },
-    {
-      "id": "1a70768e709027a6a4ac137de6c76537",
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a for...",
-      "published": "2026-11-03T15:41:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png"
-    },
-    {
-      "id": "729513b74002f67f4c62b7784a30b32a",
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and...",
-      "published": "2026-11-03T15:16:32+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png"
-    },
-    {
       "id": "8261c7906f3205b3aad207c03f8c5474",
       "title": "Barracuda warns of critical flaws allowing root access to devices",
       "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
@@ -143,66 +333,6 @@
       "image": ""
     },
     {
-      "id": "74796cbc9d6d125cd5b6e2d39ebde74d",
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-      "published": "2026-11-03T13:33:49+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1e75ae89cce244270746c52bd6d2c7f4",
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-      "published": "2026-11-03T12:05:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ebbbca5ece516c19e3e9eda5a81eb146",
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases re...",
-      "published": "2026-11-03T11:23:53+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg"
-    },
-    {
-      "id": "c855ccf65f2a3bd51d68351e2f8cca2d",
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, wai...",
-      "published": "2026-11-03T11:18:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5J_qkmStJVdWJYvNtd4lb2cRfPMaSvu1dEKp8tXOjw71kt_fRGGfdPr60HL5agJ8NMBYO5sH7jVvzMWXlLW1fq0xilaF0GyLQHCznSjHeos7sdP_Xwmd6OWyzKv8Yq8m-Z0Hn3x15GBU8AySu2A27OlIWiuAW9ch0iZuXxTpELRSQ6uRdW9nLK4uXQg/s1600/picus-main.png"
-    },
-    {
-      "id": "d6f9972020f90bb21ad75e3ba7c16d67",
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclus...",
-      "published": "2026-11-03T11:00:45+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyPfrBB7GYTnYsvVj2TxCv0pPwFh_PkVpdQcxuspKgQfbsX1p2kDSdokIyPqLsxSfBCkFPiTATfZxZRbouqkoqfEESL7CgA-MyXD61eQFluiQtdFZDyXQc_3EUAg71JWIHxq9MPVLrwwegvUVuiViE8AxsKH6iBVypWazO0wmCoaC3-D1Ih9Yw3vwN1FJ/s1600/russia-hackers.jpg"
-    },
-    {
-      "id": "840407a6b5bf0b2d8af27d093d20589b",
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwn...",
-      "published": "2026-11-03T10:53:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "81db91d46a2153bdf07ee98b4e0b0c4f",
       "title": "Claude Code : qu’est-ce qu’un Skill et comment en créer un ?",
       "link": "https://www.it-connect.fr/claude-code-quest-ce-quun-skill-et-comment-en-creer-un/",
@@ -211,16 +341,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "8fc9f2c473da270c757843efe5749b29",
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on...",
-      "published": "2026-11-03T08:31:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrr1rJlr2nztz8jEunAWtVXHyOHkJY2_KdeweNWBqwF18rmhPiFItEQ-yCex1vVsps856ArIDl7unaWJNiribZ9DgkmQ3o4pLa1BKQrjKEeFR63z4csXnBHah5wIp7H5xuUB7b1UIp06nk6BzLuxFW5aWh2g-PoLoZ74RjMOEUX7XdrDsHM1yFbjGHBzK8/s1600/btcpay.jpg"
     },
     {
       "id": "33f7855ce69ca9f692fcfe618ca556a1",
@@ -238,26 +358,6 @@
       "link": "https://www.it-connect.fr/cyberattaque-frigos-supermarches-belgique-suede/",
       "summary": "Delhaize, Carrefour, ICA, Coop : des pirates ont activé à distance le dégivrage des frigos de supermarchés en Belgique et en Suède. Voici ce que l'on sait. Le post Après la France, des pirates font chauffer les frigos...",
       "published": "2026-11-03T06:35:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "c081faeacd11021d8e99ba383158c807",
-      "title": "SMS of Death : un SMS invisible coupe les appels téléphoniques sur Android",
-      "link": "https://www.it-connect.fr/sms-of-death-android-faille-appels/",
-      "summary": "Un SMS invisible suffit à faire planter la téléphonie d'Android et à couper les appels, même les appels d'urgence. Voici la faille SMS of Death. Le post SMS of Death : un SMS invisible coupe les appels téléphoniques s...",
-      "published": "2026-11-03T06:03:31+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "bcc12a00ad0406e74bfcd8262b1ea808",
-      "title": "NetBird : un VPN mesh open source et auto-hébergé pour accéder à son réseau à distance",
-      "link": "https://www.it-connect.fr/tuto-netbird-vpn-maille-auto-heberge/",
-      "summary": "Tutoriel NetBird : installez un VPN maillé WireGuard auto-hébergé avec Docker, déployez un routing peer LXC sur Proxmox et publiez vos services. Le post NetBird : un VPN mesh open source et auto-hébergé pour accéder à...",
-      "published": "2026-11-02T17:00:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -283,36 +383,6 @@
       "image": "https://korben.info/fausses-alertes-air-alert-fr-alert/fausses-alertes-air-alert-fr-alert-1.png"
     },
     {
-      "id": "b7c711e8a767d199c6a880d25548f206",
-      "title": "Cloud & Cyber Security Expo Paris 2026 : les grands enjeux cyber au cœur du programme",
-      "link": "https://www.it-connect.fr/cloud-cyber-security-expo-paris-2026-programme/",
-      "summary": "IA, gestion des incidents, NIS2, CRA et géopolitique : découvrez les thèmes des conférences de Cloud & Cyber Security Expo Paris, les 18 et 19 novembre 2026. Le post Cloud & Cyber Security Expo Paris 2026 : les grands...",
-      "published": "2026-11-02T10:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "d51464924f69201e60358091092104bb",
-      "title": "CVE-2026-98432 : la faille critique du noyau Linux qui peut offrir un accès root à distance",
-      "link": "https://www.it-connect.fr/cve-2026-98432-faille-noyau-linux-tcp-root-distance/",
-      "summary": "Une nouvelle faille critique dans le noyau Linux (CVE-2026-98432) : RHEL, Debian, SUSE et Proxmox sont patchés, pas Ubuntu. Quel noyau installer ? Le post CVE-2026-98432 : la faille critique du noyau Linux qui peut of...",
-      "published": "2026-11-02T08:29:17+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0883dfd1deb10d5a510bc88a8d0de7b3",
-      "title": "Steam : des failles permettaient d’exécuter du code à distance sur un PC, sans aucun clic",
-      "link": "https://www.it-connect.fr/steam-rce-zero-click-elevation-privileges-atredis/",
-      "summary": "Un chercheur a découvert dans Steam une faille RCE zero-click entre PC liés au même compte, et quatre élévations de privilèges SYSTEM sous Windows. Le post Steam : des failles permettaient d’exécuter du code à distanc...",
-      "published": "2026-11-02T08:02:40+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "073d0d1bea27e33e74e70c264c8d9b30",
       "title": "Arnaques dopées à l'IA - Comment ne pas tomber dans le panneau #sponso",
       "link": "https://korben.info/arnaques-dopees-ia-comment-se-proteger.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -321,26 +391,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/arnaques-dopees-ia-comment-se-proteger/arnaques-dopees-ia-comment-se-proteger-1.png"
-    },
-    {
-      "id": "0a27f9b920f1d6fa8d10164f94394cd2",
-      "title": "Netflix, jeux vidéo, cloud : la taxe au gigaoctet votée par 11 députés fait débat",
-      "link": "https://www.it-connect.fr/taxe-gigaoctet-producteurs-donnees-numeriques/",
-      "summary": "Votée à une voix près, la taxe de 0,055 € par Go est vivement critiquée et elle a fait réagir VideoLAN, Free et OVHcloud. Qu'en est-il réellement ? Le post Netflix, jeux vidéo, cloud : la taxe au gigaoctet votée par 1...",
-      "published": "2026-11-02T06:10:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "3af324834f04a9921845e941f55e3710",
-      "title": "Proton s’excuse et tente de s’expliquer : ses outils IA internes bientôt en open source",
-      "link": "https://www.it-connect.fr/proton-excuses-ia-open-source-lumo/",
-      "summary": "Après l'enquête de 404 Media, Proton sort du silence : démentis, excuses et promesse d'ouvrir les coulisses de son usage de l'IA. Voici ce qu'il faut retenir. Le post Proton s’excuse et tente de s’expliquer : ses outi...",
-      "published": "2026-11-02T06:08:21+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "a9a0df3374bd66934755d93645e173ef",
@@ -421,56 +471,6 @@
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "ab7c9554d0ca65355c0656f9f7af99ed",
-      "title": "Test du chargeur UGREEN Nexode Pro 300W",
-      "link": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "UGREEN propose sa station de charge Nexode Pro 300W en GaN, avec huit sorties : six USB-C (dont trois à 140W en PD 3.1), un USB-A et une prise DC de 240W. Elle est affichée à 126 euros au lieu de 170 sur Amazon, contr...",
-      "published": "2026-10-22T14:44:30+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w/test-du-chargeur-ugreen-nexode-pro-300w-1.jpg"
-    },
-    {
-      "id": "5e532d8f2812394bd5767933d3d558db",
-      "title": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
-      "link": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Dans un article partenaire, Surfshark annonce une version de WireGuard entièrement post-quantique, combinant ML-KEM et certificats ML-DSA, d'abord sur iOS et macOS. Le VPN ajoute aussi une rotation d'IP toutes les 5 à...",
-      "published": "2026-10-22T07:15:54+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures/votre-vpn-est-il-pret-pour-les-menaces-futures-1.webp"
-    },
-    {
-      "id": "aec6d5d6a9a2972022a97ff14845c8d6",
-      "title": "Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE",
-      "link": "https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Quentin Kaiser a divulgué une faille d'au moins 16 ans dans le code WPS de Broadcom : à portée de Wi-Fi, sans la clé du réseau, on peut faire exécuter son code à une box. Broadcom dit l'avoir remplacé en 2018 mais ref...",
-      "published": "2026-10-20T07:51:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/faille-wps-broadcom-routeurs-wifi/faille-wps-broadcom-routeurs-wifi-1.png"
-    },
-    {
-      "id": "0bbbf9cc6b609a68f3b20b210b0d9cbf",
-      "title": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
-      "link": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni installation. Le s...",
-      "published": "2026-10-20T05:14:23+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur/la-disquette-jeu-pc-de-la-semaine-navigateur-1.png"
-    },
-    {
-      "id": "5c05282cb32abd44acebf07ee9a202e1",
-      "title": "Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement",
-      "link": "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "J'en avais marre du Partage d'écran d'Apple qui lag et de VNC, alors je me suis codé ma propre app de prise de contrôle à distance pour Mac. Image HEVC fluide, son, fichiers, fenêtres d'apps déportées, accès web, le t...",
-      "published": "2026-10-19T10:04:36+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/korben-remote-desktop/korben-remote-desktop-1.png"
     },
     {
       "id": "318382b7be4580a4544aa4430350af60",
