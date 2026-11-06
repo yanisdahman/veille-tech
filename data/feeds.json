@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-05T23:14:01.239002+00:00",
+  "last_updated": "2026-11-06T04:58:01.619351+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3fcbe1838be249b5f43544a538f62327",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "published": "2026-11-06T00:56:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "f87c666e26e8927c5fe54a8e2498ad7f",
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
@@ -278,16 +288,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
       "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
       "published": "2026-11-04T21:31:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "565d2f7b1f7c720693ff6f5d0fcd5ce0",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "published": "2026-11-04T20:58:19+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
