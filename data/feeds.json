@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-11-06T04:58:01.619351+00:00",
+  "last_updated": "2026-11-06T13:41:45.638764+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1d30a6c282657afa492596be64aaa40e",
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "published": "2026-11-06T12:37:22+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d775a103c59030c6036fcad5432f1733",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was...",
+      "published": "2026-11-06T12:06:43+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEFFUv1MUNRoFx03Jcw0k5NZCU0EOf5qEpbvAEQoTSTzoxHWPk1rc7XgQeG1USPP9vVB0ePI_lzQLqBU5bHdQ7-YrwEXFo8gJwayqwCvCtcDrw1JYMxKYxieV3bcQeCRAJAxt8CRfifzMzL22_ab0Z0OxwWrNckC36gPEOnubZnzagv6DkV7iY4AQJfA/s1600/paint-rce.jpg"
+    },
+    {
+      "id": "7dd8ccbd5a1737541221ccf994a410de",
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispat...",
+      "published": "2026-11-06T12:06:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil2RWGFxPYdzFDr1Tl0G6604dLCacXJDMaR-i0nSdrR7vBGgK-lUkZbE5eZYMbWO0Geqw_rDbN2qUkWpEadukl6gccv-xuUWJfEOx2_FWFiZxjVs4uNPiRK3JYOBo0QI1Lx08xd9Iz3-8TFN_kf-njbCQ-AFDcLNNRy6JcwsZyoM12qLt99OzNQNhmaGs/s1600/claude-dispatch.jpg"
+    },
+    {
+      "id": "53d4ee7d94e589b309af692d870daef6",
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at ...",
+      "published": "2026-11-06T11:30:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRlCxdfW4sb5-1zEBHpFyJfxetSva89fr67wc8zSfvidW5W4KQKckoTrRxOAUbjM94U2ydFjiXybLJPrp6pm1V-WUuC4IpkJjhIT56OG8go8E_8fR8cK-llV0UtXdRIxZS5XxuVwEbRj1G_zAErMjpkMHVdzkGBQrB46VErPyE7MBaW6sj0N64pRd3_A/s1600/FLOOD.jpg"
+    },
+    {
+      "id": "d10998b1715f9e3b50354ed9733b25d7",
+      "title": "Faux événements OpenAI, SpaceX et Anthropic : ce phishing vole les comptes Microsoft et Google",
+      "link": "https://www.it-connect.fr/faux-evenements-openai-spacex-phishing-microsoft-google/",
+      "summary": "Trois mois de ChatGPT Pro offerts pour une simple inscription ? Cette fausse invitation OpenAI sert à pirater votre compte Microsoft ou Google, MFA compris. Le post Faux événements OpenAI, SpaceX et Anthropic : ce phi...",
+      "published": "2026-11-06T11:10:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f53063712097e078e6d3cd43e316b671",
+      "title": "War.app - Le jeu de conquête où personne n'attend son tour",
+      "link": "https://korben.info/war-app-warzone-risk-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Warzone s'appelle War.app depuis avril, après un accord avec Activision. Le jeu ne change pas : une carte du monde, des ordres donnés par tous en même temps, pas de dés par défaut, et c'est gratuit dans le navigateur,...",
+      "published": "2026-11-06T09:58:12+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/war-app-warzone-risk-navigateur/war-app-warzone-risk-navigateur-1.jpg"
+    },
+    {
+      "id": "c94a2b3e0ec32e0f2cd3fef54c0671f7",
+      "title": "Comment activer XeSS et sa génération de frames en x4 dans vos jeux Linux",
+      "link": "https://korben.info/xess-xmx-linux-proton.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le projet communautaire xess-xmx-linux fait tourner la vraie XeSS d'Intel sur les unités XMX des Arc dans les jeux Proton, frame generation 3x et 4x comprise. Matériel concerné, installation, options de lancement, vér...",
+      "published": "2026-11-06T09:44:47+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/xess-xmx-linux-proton/xess-xmx-linux-proton-1.png"
+    },
+    {
+      "id": "66298fec1e291e9f6b0deec32b1ee838",
+      "title": "DigiCert : une erreur de migration expose les données et pièces d’identité de clients",
+      "link": "https://www.it-connect.fr/digicert-une-erreur-de-migration-expose-les-donnees-et-pieces-didentite-de-clients/",
+      "summary": "Une erreur de migration a ouvert les archives de DigiCert à des comptes créés sur Internet : données clients et pièces d'identité consultées. Ce que l'on sait. Le post DigiCert : une erreur de migration expose les don...",
+      "published": "2026-11-06T09:35:02+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4c163be2a8947bfc2c277873b7393fab",
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+      "published": "2026-11-06T09:22:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "88d3788ac0f7d1c37d75f536776869c4",
+      "title": "Après l’Europe, le FBI et la CISA alertent sur les cyberattaques contre les systèmes de réfrigération",
+      "link": "https://www.it-connect.fr/fbi-cisa-alerte-cyberattaques-systemes-refrigeration/",
+      "summary": "Après les supermarchés et l'EFS, la CISA et le FBI alertent sur les attaques contre les systèmes de froid industriels. Voici leurs recommandations. Le post Après l’Europe, le FBI et la CISA alertent sur les cyberattaq...",
+      "published": "2026-11-06T08:54:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1f1dc408f3ab5e09881f031abe068168",
+      "title": "*sshole : sur Alpine Linux, un mot de passe trop long peut mener à un accès root via SSH",
+      "link": "https://www.it-connect.fr/faille-openssh-musl-sshhole-alpine-linux/",
+      "summary": "La faille *sshole (CVE-2026-123158) ouvre en SSH, avec un mot de passe trop long, des comptes Linux sans mot de passe. Alpine Linux est le premier concerné. Le post *sshole : sur Alpine Linux, un mot de passe trop lon...",
+      "published": "2026-11-06T08:35:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "d0ae870a70402dec54cdf53e4c99f283",
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While...",
+      "published": "2026-11-06T08:04:49+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg"
+    },
+    {
+      "id": "c7be4e91e4141a6078d61161874b5975",
+      "title": "OpenAI lance GPT-6 Cyber : son modèle IA taillé pour trouver et exploiter des failles",
+      "link": "https://www.it-connect.fr/openai-gpt-6-cyber-exploits-linux-firefox-daybreak-red/",
+      "summary": "OpenAI lance GPT-6 Cyber, réservé à Daybreak Red : 948 exploits Linux, 81 failles graves dans Firefox et un modèle entraîné à rester dans son périmètre. Le post OpenAI lance GPT-6 Cyber : son modèle IA taillé pour tro...",
+      "published": "2026-11-06T06:05:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4f2618c56ecaa584abb7661f0e72865a",
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes c...",
+      "published": "2026-11-06T05:58:54+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg"
+    },
+    {
+      "id": "8e7b32e6a3f550dce38ce8e6d4b2b193",
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday,...",
+      "published": "2026-11-06T05:39:10+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg"
+    },
     {
       "id": "3fcbe1838be249b5f43544a538f62327",
       "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
@@ -133,46 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png"
     },
     {
-      "id": "13fb52d553826fec1aadac9ca9751f7f",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API ...",
-      "published": "2026-11-05T12:08:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg"
-    },
-    {
-      "id": "0839893eaae1ed21b13d165527e59dc3",
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these cam...",
-      "published": "2026-11-05T10:06:19+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg"
-    },
-    {
-      "id": "d4e0a02bf09d84e65f0166bef998ace2",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "published": "2026-11-05T09:18:29+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d47c68a5662c7e2b9d0dd2567b52ab1a",
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users s...",
-      "published": "2026-11-05T09:13:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg"
-    },
-    {
       "id": "9dd4fce05ca56140d1a79f7f516936ae",
       "title": "Sync-in 2.4 à 2.6 : Euro-Office, favoris, draw.io et un serveur plus robuste",
       "link": "https://www.it-connect.fr/sync-in-nouveautes-euro-office-favoris-draw-io/",
@@ -191,16 +301,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "02455a506919b9abb0a23d0d57d72057",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, ...",
-      "published": "2026-11-05T08:42:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg"
     },
     {
       "id": "7abb5eed11d9598d84db15aa862ea996",
@@ -253,16 +353,6 @@
       "image": ""
     },
     {
-      "id": "1158f29c0c67fa6b031fa2f5dbaecd38",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a s...",
-      "published": "2026-11-05T07:06:33+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg"
-    },
-    {
       "id": "7bb26a707bf487d91388bf2b634d1da8",
       "title": "HatchZip - Décompresser une archive énorme sur un disque plein",
       "link": "https://korben.info/hatchzip.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -271,46 +361,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/hatchzip/hatchzip-1.png"
-    },
-    {
-      "id": "c040c9b9274352161eca6f380496c1ff",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, foll...",
-      "published": "2026-11-05T05:17:04+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg"
-    },
-    {
-      "id": "7c99cf69eaec5f6df561184670205432",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "published": "2026-11-04T21:31:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "e05672d1ff54bd3f14c6b6c473052efc",
-      "title": "Braquage numérique au Crédit Mutuel Arkéa : la banque confirme l’attaque, 133 millions de dollars en jeu",
-      "link": "https://www.it-connect.fr/cyberattaque-credit-mutuel-arkea-fortuneo-133-millions/",
-      "summary": "Plus de 133 millions de dollars auraient été détournés au Crédit Mutuel Arkéa, maison mère de Fortuneo. La banque confirme une attaque. Voici ce que l'on sait. Le post Braquage numérique au Crédit Mutuel Arkéa : la ba...",
-      "published": "2026-11-04T14:06:26+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f39afbf27591c918e99dbf811d3dd38f",
-      "title": "Cyberattaque contre un prestataire de l’EFS : des congélateurs de plasma réglés à 110 °C",
-      "link": "https://www.it-connect.fr/cyberattaque-efs-coolworld-congelateurs-plasma/",
-      "summary": "Un prestataire de l'EFS piraté, des congélateurs de plasma réglés à 110 °C au lieu de -30 °C. Ce que l'on sait de l'attaque qui touche le secteur de la santé. Le post Cyberattaque contre un prestataire de l’EFS : des ...",
-      "published": "2026-11-04T13:41:51+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "eb2583f72c59fdef5481a32ccbe88415",
@@ -333,26 +383,6 @@
       "image": "https://korben.info/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix-1.webp"
     },
     {
-      "id": "a39714af242ce96e361728ee1ba91f49",
-      "title": "Pas d’IA, pas de recherche Google : c’est ce que veut imposer Google aux écoles",
-      "link": "https://www.it-connect.fr/google-ecoles-ia-gemini-recherche-desactivee/",
-      "summary": "Gemini et Google Search seront désactivés par défaut sur les comptes élèves. Une école qui refuse l'IA de Google perdra aussi l'accès au moteur de recherche. Le post Pas d’IA, pas de recherche Google : c’est ce que ve...",
-      "published": "2026-11-04T09:32:03+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "666bd11b55771dccd7d6ab4077e4b8d9",
-      "title": "Cloudflare security-audit : prendre en main la skill d’audit de sécurité pour agents IA",
-      "link": "https://www.it-connect.fr/cloudflare-security-audit-skill-audit-de-securite-agents-ia/",
-      "summary": "Découvrez la skill open source security-audit de Cloudflare pour auditer votre code avec Claude Code et l'IA afin de débusquer des failles. Le post Cloudflare security-audit : prendre en main la skill d’audit de sécur...",
-      "published": "2026-11-04T08:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "c37c75e8f42ffb3683b61f6bf6998360",
       "title": "Google coupe la recherche aux écoles qui refusent son IA",
       "link": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -361,16 +391,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia-1.jpg"
-    },
-    {
-      "id": "e5ebbd8984776c5b9687b643d58cabae",
-      "title": "Barracuda ESG : exploitées ensemble, ces deux failles offrent un accès root",
-      "link": "https://www.it-connect.fr/barracuda-esg-waf-failles-acces-root/",
-      "summary": "Barracuda a corrigé deux failles touchant ESG, WAF, Load Balancer ADC et d'autres produits. Sur l'ESG, leur combinaison peut offrir un accès root à distance. Le post Barracuda ESG : exploitées ensemble, ces deux faill...",
-      "published": "2026-11-04T07:50:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "e176220d7c8968f6d506098ab1632825",
@@ -383,91 +403,91 @@
       "image": "https://korben.info/gpt-6-astra-poids-qwen/gpt-6-astra-poids-qwen-1.png"
     },
     {
-      "id": "500122d8ebb2629c47d5b50846977d71",
-      "title": "DiscImageStudio - Un dessin gravé dans les données du disque",
-      "link": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "DiscImageStudio convertit une image en données qui, une fois gravées sur un CD, un DVD ou un BD-R, font apparaître ce dessin à la surface du disque. Héritier de CDImage, il calibre les disques par photo sous Windows, ...",
-      "published": "2026-11-04T04:25:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray/discimagestudio-graver-image-cd-dvd-blu-ray-1.jpg"
-    },
-    {
-      "id": "ee550dcb2221641a7bf751efb6b5b93a",
-      "title": "Test du télémètre laser de poche HOTO - précis à 2 mm",
-      "link": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le télémètre laser de poche HOTO, marque de l'écosystème Xiaomi, mesure de 5 centimètres à 30 mètres avec une précision de 2 millimètres. Il pèse 36 grammes, se recharge en USB-C, affiche la distance sur un écran OLED...",
-      "published": "2026-11-03T16:11:37+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm-1.jpg"
-    },
-    {
-      "id": "2ec6d9ec13ed3fa8ea7fa7968e25b349",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-046 (02 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-046/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-11-02T00:00:00+00:00",
+      "id": "d30981bb5c76246addcbc34086ba8674",
+      "title": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et...",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "9303c4318b6115169209339aebda996b",
-      "title": "Multiples vulnérabilités dans Tenable Identity Exposure (02 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1436/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance...",
-      "published": "2026-11-02T00:00:00+00:00",
+      "id": "802389cfcb3edff554f50ad34c1818b7",
+      "title": "Multiples vulnérabilités dans Apache Zookeeper (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1448/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "fd73478350ef71bd905c8801e17d8ed6",
-      "title": "Multiples vulnérabilités dans les produits Synology (02 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1435/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-11-02T00:00:00+00:00",
+      "id": "b518a137e4ded64f9063e2b0ab8c3428",
+      "title": "Multiples vulnérabilités dans les produits SonicWall (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1456/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection SQL (SQLi).",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "e7ccfc8a6e4a741579e9eb80e0cf77d0",
-      "title": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécuri...",
-      "published": "2026-11-02T00:00:00+00:00",
+      "id": "410a9c712d52a1a8e162d4c8010de6d9",
+      "title": "Vulnérabilité dans MongoDB (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1454/",
+      "summary": "Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "a154ccfa00c56098e165665ae5466f4a",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (02 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1440/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-11-02T00:00:00+00:00",
+      "id": "85ee1074f17813dcfd362656d22140ae",
+      "title": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-11-03T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "27f0e46aebfe4ee05d8f707e226e9880",
-      "title": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de ...",
-      "published": "2026-11-02T00:00:00+00:00",
+      "id": "b18183a54d3ba7ced8c4212af090cdca",
+      "title": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique...",
+      "published": "2026-11-03T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "3895251c3d5db4376f7aa9992d1f3164",
-      "title": "Multiples vulnérabilités dans Qnap QNE (02 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1437/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Qnap QNE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-11-02T00:00:00+00:00",
+      "id": "da0ebf0d9d569e251b99ace9cc37e3b8",
+      "title": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spéci...",
+      "published": "2026-11-03T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "07abc52ff898f52f068a78af7c928d4b",
+      "title": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "published": "2026-11-03T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "124ba5ca075fe1530e4e931447129dc2",
+      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une attei...",
+      "published": "2026-11-03T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -478,26 +498,6 @@
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté se...",
       "published": "2026-10-19T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a763a51287879c9c963cbd59a123909a",
-      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/",
-      "summary": "[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaqua...",
-      "published": "2026-10-14T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "215d61ac1d3f7034a9b2a0ab0da614f1",
-      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
-      "link": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-010/",
-      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particuliè...",
-      "published": "2025-09-11T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
