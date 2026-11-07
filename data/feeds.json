@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-11-07T04:30:39.392939+00:00",
+  "last_updated": "2026-11-07T12:23:45.070317+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d044deff8e3c5116f5f2d55642f10890",
+      "title": "Firefox cache un jeu Snake dans sa barre d’adresse : voici comment le lancer",
+      "link": "https://www.it-connect.fr/firefox-jeu-snake-cache-barre-adresse/",
+      "summary": "Un calcul égal à 150 dans la barre d'adresse de Firefox débloque un jeu Snake caché. Voici comment lancer cet easter egg dans le navigateur Firefox. Le post Firefox cache un jeu Snake dans sa barre d’adresse : voici c...",
+      "published": "2026-11-07T10:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "305f673f62a9a87be219776155f3c50d",
+      "title": "LiberNT : ni Windows, ni Linux, qu’est-ce que cet OS open source ?",
+      "link": "https://www.it-connect.fr/libernt-test-os-libre-windows-11/",
+      "summary": "J'ai testé LiberNT dans une machine virtuelle, un OS libre basé sur ReactOS qui veut ressembler à Windows 11 : bureau, applications et même un terminal Linux. Le post LiberNT : ni Windows, ni Linux, qu’est-ce que cet ...",
+      "published": "2026-11-07T07:30:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ba98da9803a7ca50dba019ac1e4747b8",
+      "title": "Test Reolink OMVI 3i WiFi : une caméra triple objectif avec suivi automatique",
+      "link": "https://www.it-connect.fr/test-reolink-omvi-3i-wifi/",
+      "summary": "Test de la Reolink OMVI 3i WiFi : une caméra triple objectif avec vue panoramique à 180°, caméra PT 4K, suivi automatique, IA locale et Wi-Fi 6. Le post Test Reolink OMVI 3i WiFi : une caméra triple objectif avec suiv...",
+      "published": "2026-11-07T07:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "15fca1b7faff4be25627c29f8b397c37",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic'...",
+      "published": "2026-11-07T06:44:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg"
+    },
     {
       "id": "c7eefdbf34886176ef907cc78b34cc8c",
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -281,46 +321,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg"
-    },
-    {
-      "id": "3ddcccea88860ef5fc94f4fc6470c4d0",
-      "title": "CleanYourTV : comment nettoyer une box Android TV avec l’IA (sans root)",
-      "link": "https://www.it-connect.fr/cleanyourtv-nettoyer-box-android-tv/",
-      "summary": "Supprimez les pubs de l'accueil de votre box Android TV avec CleanYourTV et Claude Code, ou une app gratuite : ADB, prérequis, thèmes et précautions. Le post CleanYourTV : comment nettoyer une box Android TV avec l’IA...",
-      "published": "2026-11-05T17:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7d1426211b6649abc88370957188e518",
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name,...",
-      "published": "2026-11-05T16:42:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
-    },
-    {
-      "id": "9dd4fce05ca56140d1a79f7f516936ae",
-      "title": "Sync-in 2.4 à 2.6 : Euro-Office, favoris, draw.io et un serveur plus robuste",
-      "link": "https://www.it-connect.fr/sync-in-nouveautes-euro-office-favoris-draw-io/",
-      "summary": "Euro-Office, favoris, draw.io et 16 failles corrigées : voici les nouveautés de Sync-in 2.4, 2.5 et 2.6, et ce qu'il faut vérifier avant de mettre à jour. Le post Sync-in 2.4 à 2.6 : Euro-Office, favoris, draw.io et u...",
-      "published": "2026-11-05T08:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "5081fa32b10f5b1d3d47533dfd53b467",
-      "title": "Windows 11 : Microsoft dévoile ses optimisations pour les PC équipés de 8 Go de RAM",
-      "link": "https://www.it-connect.fr/windows-11-8-go-ram-optimisations-microsoft/",
-      "summary": "Votre PC n'a que 8 Go de RAM ? Microsoft assure que Windows 11 y est désormais jusqu'à 20 % plus réactif. Voici ce qui a changé et comment en profiter. Le post Windows 11 : Microsoft dévoile ses optimisations pour les...",
-      "published": "2026-11-05T08:43:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "7abb5eed11d9598d84db15aa862ea996",
