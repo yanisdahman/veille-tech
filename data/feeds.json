@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-11-09T15:04:39.268420+00:00",
+  "last_updated": "2026-11-10T01:08:34.639466+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "87252b3802f69bd21935508a3c310f1a",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...",
+      "published": "2026-11-09T23:52:12+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bd03996757d02871fc500bc403977180",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "published": "2026-11-09T22:09:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "53060e765e3785456aa8dbf125cdfa2a",
+      "title": "Discord abandonne Electron et réécrit son client en Rust : 290 Mo de RAM avec deux comptes actifs",
+      "link": "https://www.it-connect.fr/discord-client-rust-gpui-fin-electron/",
+      "summary": "290 Mo de RAM avec deux comptes connectés : c'est ce qu'affiche une première version du futur client Discord, réécrit en Rust pour Windows, mais pas seulement. Le post Discord abandonne Electron et réécrit son client ...",
+      "published": "2026-11-09T22:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bbd51e2b0f6667123cc555aabca8be63",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, inclu...",
+      "published": "2026-11-09T21:26:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5ad63623387ce16d9a4afffbf35889a0",
+      "title": "York University breach exposed personal information dating to 2007",
+      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "published": "2026-11-09T21:22:31+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5147b30c16c0a50d3d1bbd5685821b01",
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked a...",
+      "published": "2026-11-09T18:32:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "199419dac4261c5db01791a9f44e1ba6",
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for ...",
+      "published": "2026-11-09T17:51:21+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg"
+    },
+    {
+      "id": "76dbedcda80e8728af6a0d923757c64c",
+      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+      "published": "2026-11-09T17:50:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "64c0fe9ae1aacbc31d3e94389ec8141e",
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases down...",
+      "published": "2026-11-09T17:36:28+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg"
+    },
+    {
+      "id": "ad65f4991d6b9ed9af550b40f08d69cf",
+      "title": "Sniffnet : un moniteur réseau gratuit et open source pour Windows, Linux et macOS",
+      "link": "https://www.it-connect.fr/sniffnet-moniteur-trafic-reseau/",
+      "summary": "Découvrez Sniffnet, l'analyseur réseau gratuit et open source : installation avec Npcap, trafic par programme, export PCAP, filtres BPF et blacklist d'IP. Le post Sniffnet : un moniteur réseau gratuit et open source p...",
+      "published": "2026-11-09T17:15:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b04c41ff1cccd413743acb19563a8992",
+      "title": "Plex2Shell : QNAP fait état de NAS compromis, vous devez patcher !",
+      "link": "https://www.it-connect.fr/qnap-plex2shell-nas-compromis/",
+      "summary": "QNAP fait état de NAS compromis via Plex2Shell. Si Plex Media Server était exposé sur Internet, la mise à jour ne suffit pas : voici comment vérifier votre NAS. Le post Plex2Shell : QNAP fait état de NAS compromis, vo...",
+      "published": "2026-11-09T17:06:39+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "afd77f2bfd00e349d96894c5391f4992",
+      "title": "SonicWall : une faille dans le VPN SSL permet de contourner le MFA et elle est exploitée",
+      "link": "https://www.it-connect.fr/sonicwall-vpn-ssl-faille-saml-mfa-cve-2026-19868/",
+      "summary": "Une faille exploitée dans le VPN SSL des firewalls SonicWall peut permettre de contourner SAML et le MFA associé. Qui est affecté ? Comment se protoéger ? Le post SonicWall : une faille dans le VPN SSL permet de conto...",
+      "published": "2026-11-09T16:49:22+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5644d590367156d967e9179d17d9bd63",
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+      "published": "2026-11-09T16:12:39+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "5c87c6d836bf5a57125563ae4c7afa16",
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "published": "2026-11-09T16:04:57+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "029d9a9b9bc5eb541a0af162b96f8554",
+      "title": "Test du câble UGREEN Nexode 240W - avec un écran qui révèle la puissance en temps réel",
+      "link": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Korben teste depuis trois semaines le câble USB-C UGREEN Nexode 240W, qui intègre un écran LCD affichant la puissance réelle en watts. Compatible USB PD 3.1 (48 V, 5 A) avec puce E-Mark, il existe en 1, 2 ou 3 mètres,...",
+      "published": "2026-11-09T15:43:45+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel-1.jpg"
+    },
+    {
+      "id": "af0c24f242b77ea88087b990e864d807",
+      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workpl...",
+      "published": "2026-11-09T15:05:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "6d827a5bf35d033bd664b81c5213a364",
       "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
@@ -13,14 +173,14 @@
       "image": ""
     },
     {
-      "id": "fef45edd6597948c88853c7a34612c61",
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-      "published": "2026-11-09T13:28:56+00:00",
-      "source": "Bleeping Computer",
+      "id": "361a84eba57ec028f01ac000cfb95773",
+      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote ac...",
+      "published": "2026-11-09T14:31:29+00:00",
+      "source": "The Hacker News",
       "category": "cybersecurite",
-      "image": ""
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg"
     },
     {
       "id": "097299fa07e96ecd3b41f26e733e4035",
@@ -51,16 +211,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/chicago95-xfce-windows-95/chicago95-xfce-windows-95-1.png"
-    },
-    {
-      "id": "06df6adaa4093b1ed91ef0d087f62bcb",
-      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
-      "published": "2026-11-09T12:16:13+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "8cccc76fa844a445ebfad27facfae3a6",
@@ -193,146 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg"
     },
     {
-      "id": "f50243e39e3e5b1e0245e07161370396",
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said...",
-      "published": "2026-11-09T06:05:24+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg"
-    },
-    {
-      "id": "e2acf784261ba1abba8c75cbc91621cc",
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third...",
-      "published": "2026-11-08T15:43:08+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0fdcc08f6305dd762fcd6e853d262ea8",
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "published": "2026-11-07T15:25:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0a53cb4de44f44096be9bdc874600a3d",
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use dece...",
-      "published": "2026-11-07T14:10:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d044deff8e3c5116f5f2d55642f10890",
-      "title": "Firefox cache un jeu Snake dans sa barre d’adresse : voici comment le lancer",
-      "link": "https://www.it-connect.fr/firefox-jeu-snake-cache-barre-adresse/",
-      "summary": "Un calcul égal à 150 dans la barre d'adresse de Firefox débloque un jeu Snake caché. Voici comment lancer cet easter egg dans le navigateur Firefox. Le post Firefox cache un jeu Snake dans sa barre d’adresse : voici c...",
-      "published": "2026-11-07T10:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "305f673f62a9a87be219776155f3c50d",
-      "title": "LiberNT : ni Windows, ni Linux, qu’est-ce que cet OS open source ?",
-      "link": "https://www.it-connect.fr/libernt-test-os-libre-windows-11/",
-      "summary": "J'ai testé LiberNT dans une machine virtuelle, un OS libre basé sur ReactOS qui veut ressembler à Windows 11 : bureau, applications et même un terminal Linux. Le post LiberNT : ni Windows, ni Linux, qu’est-ce que cet ...",
-      "published": "2026-11-07T07:30:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ba98da9803a7ca50dba019ac1e4747b8",
-      "title": "Test Reolink OMVI 3i WiFi : une caméra triple objectif avec suivi automatique",
-      "link": "https://www.it-connect.fr/test-reolink-omvi-3i-wifi/",
-      "summary": "Test de la Reolink OMVI 3i WiFi : une caméra triple objectif avec vue panoramique à 180°, caméra PT 4K, suivi automatique, IA locale et Wi-Fi 6. Le post Test Reolink OMVI 3i WiFi : une caméra triple objectif avec suiv...",
-      "published": "2026-11-07T07:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "15fca1b7faff4be25627c29f8b397c37",
-      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic'...",
-      "published": "2026-11-07T06:44:17+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg"
-    },
-    {
-      "id": "c7eefdbf34886176ef907cc78b34cc8c",
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-      "published": "2026-11-07T00:00:55+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "34d0792989445546e381738433e5aacf",
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unin...",
-      "published": "2026-11-06T22:27:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "86cd7cb41c9eafaf5a0df17acd52c0d8",
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. ...",
-      "published": "2026-11-06T20:24:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "0f6ce4b3a76392adf0e036bc667697a2",
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-      "published": "2026-11-06T18:46:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "7a936da6bdcd2444d74fcf5a959563fc",
-      "title": "NIKKE : la version PC du jeu piégée pour installer un redoutable malware",
-      "link": "https://www.it-connect.fr/nikke-lanceur-pc-pirate-malware-k2f/",
-      "summary": "Le lanceur PC de NIKKE a chargé un malware depuis le CDN de Level Infinite : contrôle à distance, vol de secrets et de cryptos. Voici ce qu'il faut vérifier. Le post NIKKE : la version PC du jeu piégée pour installer ...",
-      "published": "2026-11-06T18:32:19+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "fbf802f0e9923d5f5f0edeac3fe3e20c",
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpack...",
-      "published": "2026-11-06T16:08:38+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg"
-    },
-    {
       "id": "f53063712097e078e6d3cd43e316b671",
       "title": "War.app - Le jeu de conquête où personne n'attend son tour",
       "link": "https://korben.info/war-app-warzone-risk-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -393,30 +403,10 @@
       "image": "https://korben.info/hatchzip/hatchzip-1.png"
     },
     {
-      "id": "eb2583f72c59fdef5481a32ccbe88415",
-      "title": "Botnet XCPE - La backdoor restera en place dans les box Android TV",
-      "link": "https://korben.info/botnet-xcpe-videostrong-box-android-tv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Google et ses partenaires ont coupé les serveurs du botnet XCPE et banni Videostrong, qui avait piégé le firmware de plus de 1,3 million d'appareils Android. Mais l'implant reste dans les box déjà vendues, et les part...",
-      "published": "2026-11-04T12:44:28+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/botnet-xcpe-videostrong-box-android-tv/botnet-xcpe-videostrong-box-android-tv-1.png"
-    },
-    {
       "id": "d30981bb5c76246addcbc34086ba8674",
       "title": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et...",
-      "published": "2026-11-04T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "802389cfcb3edff554f50ad34c1818b7",
-      "title": "Multiples vulnérabilités dans Apache Zookeeper (04 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1448/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
       "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -443,61 +433,71 @@
       "image": ""
     },
     {
-      "id": "85ee1074f17813dcfd362656d22140ae",
-      "title": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-11-03T00:00:00+00:00",
+      "id": "cb7547bf877324f25e101ae622e2619b",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "b18183a54d3ba7ced8c4212af090cdca",
-      "title": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique...",
-      "published": "2026-11-03T00:00:00+00:00",
+      "id": "f13fa7a6c439feb302851cdea9e710c5",
+      "title": "Vulnérabilité dans Laravel (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1457/",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "da0ebf0d9d569e251b99ace9cc37e3b8",
-      "title": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spéci...",
-      "published": "2026-11-03T00:00:00+00:00",
+      "id": "96ba35593d76905e127ff2fc99c55305",
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de priv...",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "07abc52ff898f52f068a78af7c928d4b",
-      "title": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "published": "2026-11-03T00:00:00+00:00",
+      "id": "a1e1ac2d83fdf9f1d366cc6477e328f4",
+      "title": "Vulnérabilité dans Mozilla Firefox (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1455/",
+      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "124ba5ca075fe1530e4e931447129dc2",
-      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une attei...",
-      "published": "2026-11-03T00:00:00+00:00",
+      "id": "8d72c717ba2a98e0eb53aea90feb3e12",
+      "title": "Multiples vulnérabilités dans NetApp StorageGRID (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1453/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans NetApp StorageGRID. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "published": "2026-11-04T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "318382b7be4580a4544aa4430350af60",
-      "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté se...",
-      "published": "2026-10-19T00:00:00+00:00",
+      "id": "1edc0a0fc80a64aa1baa9af7a0620571",
+      "title": "Multiples vulnérabilités dans les produits Elastic (04 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1461/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et u...",
+      "published": "2026-11-04T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1bfe8bb294cd6dda659af83a44dd6b9c",
+      "title": "Multiples vulnérabilités dans WordPress (29 octobre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte...",
+      "published": "2026-10-29T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
