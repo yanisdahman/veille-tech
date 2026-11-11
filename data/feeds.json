@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-11-11T04:35:10.847186+00:00",
+  "last_updated": "2026-11-11T13:29:53.476865+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "73ff5e5cc99506c230f662b5223f7c91",
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environ...",
+      "published": "2026-11-11T12:32:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "76db4888ae750859d07496c8f176cd7f",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and a...",
+      "published": "2026-11-11T12:19:40+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54t26Pk-bNbcIXgu8KrKpT_zN1KxEov16xTFlJ8kiPJ3-btXjGUE1lb0ZpamQU5jUHwmxzxHpYLsAQfiaHQUu3gxCIUw2gsEYNwMjL6nRm_jWm6t_VdHJkz6xj3fAsmTZKP8Bbax1qdT98a_PY4ynv81njiDyPXvIIihl4dqXxxC9pMMf8-Mn9dziy_A/s1600/grokai.jpg"
+    },
+    {
+      "id": "a6fe07d3eb0ff8def70762b4627ec297",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well...",
+      "published": "2026-11-11T12:01:59+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB22NtEOE6ioVcc92S5bLfFX3tbKyjNkx0j8OmHekqWq6Od4h9DtFmbmdd74VzwHCh5h6NbWnBgHgKzC49DwS7QAgA0uH3eL7BvBnN9QJu3U5-oiy5ZFMN7PvaJTBqjP7TR5VMjzrGxjfOfjgBqs3lecFZnWGEYNDp_BJgklco1L_acBqGm1M_CvtfLaY/s1600/AI-AGENT.png"
+    },
+    {
+      "id": "49c6078f58065719c5d15676375804b4",
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has ...",
+      "published": "2026-11-11T12:00:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONLgT6piRm0O75Y6dzQY4L2RO8OQTlWaJbwSTHFDeh82Qiadl2PT9KI9r2jC1JbwS-TqPm3g1Ea0Q8I91FalXu2GZ0fBBnfId6-8ZWKABrBQZWg7nA1X6cHq7wgHK3rc2Y5YW4yb61TjxVyywyWprml6yhBgH-SBaTvXZF-50J8-mR5Q6cGhSgfuMUdk/s1600/emudhra.jpg"
+    },
+    {
+      "id": "561590a704c85a95ad07c98840c21b03",
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "published": "2026-11-11T11:18:36+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9f57c2ffbb5198fb429bb3520bc2c4c3",
+      "title": "Outlook et Hotmail : les e-mails rejetés faute de DMARC, c’était un bug de Microsoft",
+      "link": "https://www.it-connect.fr/outlook-hotmail-bug-rejet-emails-dmarc/",
+      "summary": "Du 6 au 9 novembre, Outlook.com a rejeté à tort des e-mails, surtout issus de domaines sans DMARC. Microsoft reconnaît un bug. Voici ce qu'il faut vérifier. Le post Outlook et Hotmail : les e-mails rejetés faute de DM...",
+      "published": "2026-11-11T10:30:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "40debe7f9879fce8931c0e99b2c97eb1",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "published": "2026-11-11T10:12:08+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a135d214ecdd38bfd01aad4d19b11c1d",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+      "published": "2026-11-11T09:07:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b12aa7a0163857bebb591277981ecdc0",
+      "title": "Firefox 160 : Mini Window, vitesse de lecture en Picture-in-Picture et reconnaissance vocale locale",
+      "link": "https://www.it-connect.fr/firefox-160-mini-window-nouveautes/",
+      "summary": "Un onglet qui reste au premier plan pendant que vous travaillez ailleurs : c'est Mini Window, la nouveauté phare de Firefox 160. Voici ce qui change. Le post Firefox 160 : Mini Window, vitesse de lecture en Picture-in...",
+      "published": "2026-11-11T08:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1847c39d5f7545f6cfc847e522559873",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Window...",
+      "published": "2026-11-11T08:17:53+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nfFO2Zf-R2XyVzQHP43rc0OLAtUtRKWYV0VIaoHZW8EeH78h2Id9FmfJQVfzFdmBD6ugVGeCehX1Nq6jlmXlMG4AmnV3Tib3YvClKGaplVg5Ngk_KlpqwHx6Pd_oYQTCj2O3HfOpt_MoSGQD-4Nv-pju5sqS7U9-rAJdpKTn-xnhA1QSmmTiQWnAFjGp/s1600/patch-ms.jpg"
+    },
+    {
+      "id": "13f2f39947cf66be2da2b2254e047089",
+      "title": "Synctrain - Vos fichiers Syncthing à la demande sur iPhone",
+      "link": "https://korben.info/synctrain-syncthing-iphone-ipad-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Synctrain est un client Syncthing gratuit et open source pour iPhone, iPad et Mac qui ne garde que les fichiers choisis et streame le reste depuis vos machines.",
+      "published": "2026-11-11T08:00:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/synctrain-syncthing-iphone-ipad-mac/synctrain-syncthing-iphone-ipad-mac-1.png"
+    },
+    {
+      "id": "1c58edc680c770aceffa48eb19675397",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised ...",
+      "published": "2026-11-11T07:49:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheDP-YSdactqjEqKJOJEJulSVt5fmo134ko3-hE9dbQrLkrcIuhIkAOQDPe4eGS8WR6mLJs3urGqLpdi9erHsuLMAQ1t2saYXZAhnIRNqzliU3reOp2uPoKCRlpWBj8JQcyRIwo9eqK4AuSFcsB5XhIdLFzNYudzLlW_eHiZ094cCzg_gjihMTAZufcCc/s1600/railway-ai.jpg"
+    },
+    {
+      "id": "d2c948589677fd5e78c415de2b37af7e",
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attac...",
+      "published": "2026-11-11T07:21:05+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3GT7PJRzHrU1jqZ7Qt0MYIOeL97NYpY4E-aY-Jh9WrLRSLpjaLEIjeAdOagTcUfo7MU9yXmk7HPgPHuGKkEidZkw-2Ojtty9z1PX2Qmmj-h0Kk3X-3VsIg6Lggpoblf-1SE5GHU9LB-P6WeOrfNVgIl1e7q0FxS6obF07BEd8HVcXgSyd_7ZSV8hB01E/s1600/ms-ai-backdoor.jpg"
+    },
+    {
+      "id": "5679ccb2de4b393630089948a1d5051d",
+      "title": "Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook",
+      "link": "https://www.it-connect.fr/patch-tuesday-novembre-2026-recapitulatif/",
+      "summary": "Microsoft a corrigé 1 093 failles avec le Patch Tuesday de novembre 2026. Une faille zero-day est déjà exploitée dans Outlook : voici le récapitulatif complet. Le post Patch Tuesday – Novembre 2026 : 1 093 failles cor...",
+      "published": "2026-11-11T07:16:01+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f23522451f5bbb2efc5fef4e381d7fcb",
+      "title": "Windows 11 KB5132061 : voici l’essentiel à savoir sur la mise à jour de novembre 2026",
+      "link": "https://www.it-connect.fr/windows-11-kb5132061-kb5131087-nouveautes-correctifs/",
+      "summary": "KB5132061 : menu contextuel personnalisable, signature NTLM par défaut, audio USB corrigé. Voici le récapitulatif de la mise à jour Windows 11 de novembre 2026. Le post Windows 11 KB5132061 : voici l’essentiel à savoi...",
+      "published": "2026-11-11T07:15:41+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "eec8d7a2cc3b70920c1b07794d4daefd",
+      "title": "Windows 10 – KB5131096 : voici la mise à jour de sécurité de novembre 2026",
+      "link": "https://www.it-connect.fr/windows-10-kb5131096-mise-a-jour-esu/",
+      "summary": "KB5131096 pour Windows 10 : le bug audio USB est corrigé, l'ESU entre dans sa deuxième année et la signature des scripts PowerShell devient plus stricte. Le post Windows 10 – KB5131096 : voici la mise à jour de sécuri...",
+      "published": "2026-11-11T07:15:22+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "abd93facc520e02e6d47b017d28cd038",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) ...",
+      "published": "2026-11-11T06:04:02+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg"
+    },
     {
       "id": "747f5843e9291d3fd670eb6049138ee2",
       "title": "Railway breach leads to $740,000 in fraudulent AI charges",
@@ -103,76 +273,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s1600/XEN-attack.jpg"
     },
     {
-      "id": "3f40027609a9c8ec45a355e6eb90975e",
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institu...",
-      "published": "2026-11-10T17:43:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzh3KQXtsNe_Hb53sMmMSiGIRHL-ybly73FQY1F-RNeFR181cAeiYkvBDi80Upvlea0WqHLNW6ydto2DhfeD3PlISviNhaTUtVBdQMziXOtKybeWLKj7O3UmmeKP0vGX5ufVBkf1dbShyphenhyphenXgawm2sMttXPfbTTDtmYxbXo7Lw0jkGXtt-E-X7W7PtNxfD-/s1600/chinese-telecom.jpg"
-    },
-    {
-      "id": "6ba7d81c96257ae7873b16811bbad036",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-      "published": "2026-11-10T16:17:16+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "264e6842930600ae03eacedb78ca68a0",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, inv...",
-      "published": "2026-11-10T16:00:55+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT-Z8hFA8uMe4HXLf_4QRk4Z4VLuUCDRL89LcgpXfsj9YAwLsLHIZL46pn2SLz0BBhCKPUKBhChDRRsKYPSkZPwmsDIhozGQ-4YemxOSol0AiwBEgtGX9OSZ_L3SQZVoebBX1fWGkh8TQ_hNVYHho0eCrBQzLlhnjPhhymXqcWePyuhdQDCMb6KJi6pmIe/s1600/cbs.jpg"
-    },
-    {
-      "id": "b814b6458d1e119308eec71b4f5407d7",
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and lo...",
-      "published": "2026-11-10T15:59:19+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "58c14603cc636cc7042d853dfc2541ba",
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that ...",
-      "published": "2026-11-10T15:58:44+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4UHnKTj_NJCPa7Jqdntj8tEvZ2PgaY7s9kKK8_X2bxehTUcJeZPFfguJzvW_D0H9XD_q-qLZV2Qq6hqRYDQRYMXpyAzw-6T2yDjFjIY7zhGRLPDPjOalASUgX_Z-M2cEsNqiuys_4QjQ8vY_xl0fnWi2Y_9tT9aAH0WQOAB3D6uDf8yZY8VuphL4TRFG/s1600/court-phish.jpg"
-    },
-    {
-      "id": "c5e183005c5090814ae428870afc8140",
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, data...",
-      "published": "2026-11-10T15:33:59+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-mBJN_E4CjW3MXyjYYdeCGcyR052aVnG3uUWjaEfafvPAdatcJhn9LbtngqXBb5JsVwJVoorc8i41nTbYR9UcwVrwWNzU-WAfVk2yL32hYW1elVMJtwauW53nhRG37EwbovnFCW8InensI8tKoR9pqcWnZx54t6xOU_HsjjR9KWTLwVr_MBcknFeGShZU/s1600/fire.jpg"
-    },
-    {
-      "id": "1a4172a409f8e6dec2fa9ffe2e756686",
-      "title": "Ransomware recovery is now a client retention metric",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create the...",
-      "published": "2026-11-10T15:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "7907218d9babe280397292f3f16d96c5",
       "title": "Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware",
       "link": "https://www.it-connect.fr/teams-faux-support-it-email-bombing/",
@@ -191,46 +291,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "60e90b6a8fec8aa85fd02b79641cfb5d",
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance...",
-      "published": "2026-11-10T12:15:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVWFDhEAWo-q-_JsRneE91hAsf7Ho4XXGI51_q0V6XaCrBl7COWgs81b8KLYtdO0XaRMjP5JbJs80iC103U16Mr7GU05znwtx3CvvMnJMR1ywArpKJj4AdVd9HaLv0U65k59BBY706XjRtU8bx9q-fnLlozVb63XJ43QDKm3FbJUmrSwcB9TvwJpyP64/s1600/ios-jail.jpg"
-    },
-    {
-      "id": "2c084eca5777a1f746d9d1924612a1dc",
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-      "published": "2026-11-10T12:07:03+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "47e9fa6631a735aa670c64d02dbbfd37",
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that p...",
-      "published": "2026-11-10T11:38:13+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2keP-LKMaj66fcb6TF9mNwdN01ndHv16r6WcnXbXwTwCNvUJXDxuyG_WacuYRt2DNFA7Fy_Hb4cyDvXeRsWrUWrql4RyMK4dD9s2adlVOnPWyR04wDmPu5jUlZL3-kGiDgPY2NU8yptKV1o21Wsuyu6IOSxico18zjLqDNLoA1bkl_DheKZevChrO6ZE/s1600/Corelights.jpg"
-    },
-    {
-      "id": "b9f286dc948bb1f915ea01170efc584b",
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone ad...",
-      "published": "2026-11-10T10:16:51+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM6RGvSNUqube0TIXYpzHhs7uSvT0k28f2Q8s-GVOexnCI4T5mzFMUs3Lz4_aS6gNuS71DSTvtfOO-tfVFXvVu82pBmj5gO5_jO5g1ndVQQX8xjBY8A_IDAVNkO7oE1s5FRyEsxXQ_HEM_5_KI4g9VWN8BLgCmQTS1DaFt6lRlfgEJMsxyC5bxQW1qhM/s1600/apple-patch.jpg"
     },
     {
       "id": "55a738e8586f9cdd799150420393648c",
@@ -263,16 +323,6 @@
       "image": "https://korben.info/platypus-cligner-des-yeux-ecran/platypus-cligner-des-yeux-ecran-1.png"
     },
     {
-      "id": "41cb2f21931eb5d8e79b3d494285c59c",
-      "title": "Ray-Ban Meta piratées : une chercheuse obtient un shell, puis contourne le correctif de Meta",
-      "link": "https://www.it-connect.fr/lunettes-ray-ban-meta-piratees-shell/",
-      "summary": "Une chercheuse a obtenu un shell sur des lunettes Ray-Ban Meta en détournant le Device Access Toolkit, puis a contourné le correctif de Meta. Voici comment. Le post Ray-Ban Meta piratées : une chercheuse obtient un sh...",
-      "published": "2026-11-10T06:30:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "1f520d23043136b95925c33742243295",
       "title": "Nylon - Le VPN WireGuard qui trouve seul son chemin",
       "link": "https://korben.info/nylon-vpn-mesh-wireguard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -291,46 +341,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/dockecho-dock-macos-chaque-ecran/dockecho-dock-macos-chaque-ecran-1.png"
-    },
-    {
-      "id": "53060e765e3785456aa8dbf125cdfa2a",
-      "title": "Discord abandonne Electron et réécrit son client en Rust : 290 Mo de RAM avec deux comptes actifs",
-      "link": "https://www.it-connect.fr/discord-client-rust-gpui-fin-electron/",
-      "summary": "290 Mo de RAM avec deux comptes connectés : c'est ce qu'affiche une première version du futur client Discord, réécrit en Rust pour Windows, mais pas seulement. Le post Discord abandonne Electron et réécrit son client ...",
-      "published": "2026-11-09T22:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "ad65f4991d6b9ed9af550b40f08d69cf",
-      "title": "Sniffnet : un moniteur réseau gratuit et open source pour Windows, Linux et macOS",
-      "link": "https://www.it-connect.fr/sniffnet-moniteur-trafic-reseau/",
-      "summary": "Découvrez Sniffnet, l'analyseur réseau gratuit et open source : installation avec Npcap, trafic par programme, export PCAP, filtres BPF et blacklist d'IP. Le post Sniffnet : un moniteur réseau gratuit et open source p...",
-      "published": "2026-11-09T17:15:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b04c41ff1cccd413743acb19563a8992",
-      "title": "Plex2Shell : QNAP fait état de NAS compromis, vous devez patcher !",
-      "link": "https://www.it-connect.fr/qnap-plex2shell-nas-compromis/",
-      "summary": "QNAP fait état de NAS compromis via Plex2Shell. Si Plex Media Server était exposé sur Internet, la mise à jour ne suffit pas : voici comment vérifier votre NAS. Le post Plex2Shell : QNAP fait état de NAS compromis, vo...",
-      "published": "2026-11-09T17:06:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "afd77f2bfd00e349d96894c5391f4992",
-      "title": "SonicWall : une faille dans le VPN SSL permet de contourner le MFA et elle est exploitée",
-      "link": "https://www.it-connect.fr/sonicwall-vpn-ssl-faille-saml-mfa-cve-2026-19868/",
-      "summary": "Une faille exploitée dans le VPN SSL des firewalls SonicWall peut permettre de contourner SAML et le MFA associé. Qui est affecté ? Comment se protoéger ? Le post SonicWall : une faille dans le VPN SSL permet de conto...",
-      "published": "2026-11-09T16:49:22+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "029d9a9b9bc5eb541a0af162b96f8554",
@@ -401,16 +411,6 @@
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "7abb5eed11d9598d84db15aa862ea996",
-      "title": "J'ai testé CottageCore, le jeu cosy d'une vieille connaissance",
-      "link": "https://korben.info/cottagecore-village-david.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "David Catuhe, le créateur de Babylon.js, sort CottageCore, un jeu de construction de village tout doux. J'y ai joué en bêta : c'est très chill, joli et ultra personnalisable, avec quelques accrocs à corriger avant la ...",
-      "published": "2026-11-05T08:27:13+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/cottagecore-village-david/cottagecore-village-david-1.png"
     },
     {
       "id": "b9e7d442b1ca9591843782b8709e5541",
