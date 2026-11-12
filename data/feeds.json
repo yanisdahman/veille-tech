@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-11-11T23:59:45.350800+00:00",
+  "last_updated": "2026-11-12T06:58:09.995715+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "64d942c8b369bc8d7628153f944b23b8",
+      "title": "GTA 6 : Logitech offre à ses 7 000 salariés une journée de congé pour jouer aux jeux vidéo",
+      "link": "https://www.it-connect.fr/logitech-jour-conge-jeux-video-gta-6/",
+      "summary": "Logitech offre à ses 7 000 salariés, stagiaires compris, un jour de congé pour jouer au jeu de leur choix, à neuf jours de la sortie de GTA 6. Explications. Le post GTA 6 : Logitech offre à ses 7 000 salariés une jour...",
+      "published": "2026-11-12T06:29:57+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "550f122b7114b723ddb1e10576856fed",
+      "title": "Claude Whiteboards, Sheets et Data : Anthropic ajoute un tableur et un tableau blanc à Claude",
+      "link": "https://www.it-connect.fr/claude-whiteboards-sheets-data-anthropic/",
+      "summary": "Anthropic déploie Claude Sheets et Claude Whiteboards en bêta, et Claude Data en version finale. Fonctions, limites et réglages admin : voici l'essentiel. Le post Claude Whiteboards, Sheets et Data : Anthropic ajoute ...",
+      "published": "2026-11-12T06:18:45+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "968c2e5da9a495997af171c89553db37",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71,...",
+      "published": "2026-11-12T05:12:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpi_uN6PmG2Gn1agNMsOrsCp324eH-utKkDl_SPe32ggjcWFPjxZSyeA1KvAtvI9SQ4VAN_zssvdJLJ59IXE8_-MatPOyFXY-FcwtL7HtfKyW3MtsKwglIe2X62WBOcUkPMv-klM1h8T2EBMWFOWyPG89bfbAHS5byyfXATXN_lUUJWmUGWChekyWxTQ/s1600/apache-http.jpg"
+    },
+    {
+      "id": "359238dcdbcfcbee3f9b77bbe28f9e28",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no e...",
+      "published": "2026-11-12T04:39:48+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfz7InYm8UO-p35K6B4j009BxA-MO7DdZ2x1d-xhyphenhyphenPxNnVs848IlgAGelmuW-sPbEZbE8-L9_KWEYNH_M5HaTMy14MFd87A7YkqHAzDKaamKOdpZKR9owL3nK3gbqAngvWa6A4NC1KK1l0ie9FK731LfKPI0lguiGQ1b71sHIZj2kR2H3I-GJjSPY4kJU/s1600/screenconnect-hack.jpg"
+    },
     {
       "id": "204f42457ffb5b4d7ce1734d82e9bbe4",
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -233,16 +273,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheDP-YSdactqjEqKJOJEJulSVt5fmo134ko3-hE9dbQrLkrcIuhIkAOQDPe4eGS8WR6mLJs3urGqLpdi9erHsuLMAQ1t2saYXZAhnIRNqzliU3reOp2uPoKCRlpWBj8JQcyRIwo9eqK4AuSFcsB5XhIdLFzNYudzLlW_eHiZ094cCzg_gjihMTAZufcCc/s1600/railway-ai.jpg"
     },
     {
-      "id": "d2c948589677fd5e78c415de2b37af7e",
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attac...",
-      "published": "2026-11-11T07:21:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3GT7PJRzHrU1jqZ7Qt0MYIOeL97NYpY4E-aY-Jh9WrLRSLpjaLEIjeAdOagTcUfo7MU9yXmk7HPgPHuGKkEidZkw-2Ojtty9z1PX2Qmmj-h0Kk3X-3VsIg6Lggpoblf-1SE5GHU9LB-P6WeOrfNVgIl1e7q0FxS6obF07BEd8HVcXgSyd_7ZSV8hB01E/s1600/ms-ai-backdoor.jpg"
-    },
-    {
       "id": "5679ccb2de4b393630089948a1d5051d",
       "title": "Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook",
       "link": "https://www.it-connect.fr/patch-tuesday-novembre-2026-recapitulatif/",
@@ -273,41 +303,11 @@
       "image": ""
     },
     {
-      "id": "abd93facc520e02e6d47b017d28cd038",
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) ...",
-      "published": "2026-11-11T06:04:02+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg"
-    },
-    {
       "id": "de7dde0ec2d1ebd090d89df3f1799f71",
       "title": "Claude Fable 5.2 a codé un système d’exploitation en 8 jours avec plus de 1 000 sous-agents",
       "link": "https://www.it-connect.fr/claude-fable-5-2-systeme-exploitation-1000-sous-agents/",
       "summary": "Anthropic a dévoilé Claude Fable 5.2 (et Mythos 5.2), et à cette occasion, l'IA a créée un système d'exploitation en huit jours avec plus de 1 000 sous-agents. Le post Claude Fable 5.2 a codé un système d’exploitation...",
       "published": "2026-11-10T20:18:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7907218d9babe280397292f3f16d96c5",
-      "title": "Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware",
-      "link": "https://www.it-connect.fr/teams-faux-support-it-email-bombing/",
-      "summary": "Plus de 400 attaques au faux support IT via le chat externe de Teams : l'ordinateur de la victime peut être compromis en moins de 15 minutes. Le post Faux support IT sur Teams : moins de 15 minutes entre la réponse de...",
-      "published": "2026-11-10T13:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f1c1f634bd1237cd22beda9edcc4c7b3",
-      "title": "Early Black Friday chez GoDeal24 : Office 2024 Pro Plus à 22.11€ et Windows 11 Pro à 12.25€",
-      "link": "https://www.it-connect.fr/bon-plan-des-promos-sur-les-licences-office-2021-windows-10-et-windows-11/",
-      "summary": "Notre partenaire GoDeal24 propose une nouvelle vente flash avec des prix très intéressants sur les licences Windows 11, Office 2024 et même Windows 10 LTSC. Le post Early Black Friday chez GoDeal24 : Office 2024 Pro P...",
-      "published": "2026-11-10T12:44:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
