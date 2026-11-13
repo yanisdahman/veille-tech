@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-11-12T19:30:00.127962+00:00",
+  "last_updated": "2026-11-13T04:56:16.978523+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "b8f205d1aa9c1dd4746bdf8c282db79a",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers ...",
+      "published": "2026-11-12T22:53:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "472c0582a3ecede947b6c8548fc7caae",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+      "published": "2026-11-12T22:25:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "90463494cbae4faf64551ee1c5eda211",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+      "published": "2026-11-12T20:15:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e1416630e03c95287d5ce2129252e1c7",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affecte...",
+      "published": "2026-11-12T19:51:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "1400c129fabd56bf5e05769fa21b0b65",
+      "title": "Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance",
+      "link": "https://www.it-connect.fr/faille-apache-http2-cve-2026-119618-rce/",
+      "summary": "CVE-2026-119618 : une faille critique dans le module HTTP/2 d'Apache permet d'exécuter du code à distance. Voici comment protéger votre serveur Web. Le post Serveurs Apache : cette faille critique dans HTTP/2 permet d...",
+      "published": "2026-11-12T19:40:50+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "a3a8ae3245131c755c1d052feff880f1",
       "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
@@ -203,16 +253,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf8YVgw9hIWEYN0_qgaD6MVIZad0fOCu_J5Z4Cn2CDuMzcV7HOQ9Xt4E08l1nOo7uMjAyYqYP-bUy5zHisRW8cfeSVmJcCKYgCTI2y1MpRUwsM1I2cs0MsuoAy7VSGLyTPzonhKITzWPU1hTADZnFt5VTZhlt4eJohVas2tzhl47AOV3Cp53LC_uhlpVY/s1600/mt.jpg"
     },
     {
-      "id": "3d98d2f7df5f232f4e820f9124001d9c",
-      "title": "Microsoft confirms Windows security updates installation issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-      "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
-      "published": "2026-11-12T10:24:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "32e57a64297244866cd41d611d880a5a",
       "title": "NAS Synology : deux failles exploitables sans authentification dans DSM, dont une injection SQL",
       "link": "https://www.it-connect.fr/nas-synology-dsm-failles-sans-authentification-novembre-2026/",
@@ -230,16 +270,6 @@
       "published": "2026-11-12T09:50:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "9a254a181251be60e7b343cd9ee00795",
-      "title": "Hackers plant GSocket on Linux servers for persistent access",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-      "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
-      "published": "2026-11-12T09:38:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -280,36 +310,6 @@
       "published": "2026-11-12T06:29:57+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "550f122b7114b723ddb1e10576856fed",
-      "title": "Claude Whiteboards, Sheets et Data : Anthropic ajoute un tableur et un tableau blanc à Claude",
-      "link": "https://www.it-connect.fr/claude-whiteboards-sheets-data-anthropic/",
-      "summary": "Anthropic déploie Claude Sheets et Claude Whiteboards en bêta, et Claude Data en version finale. Fonctions, limites et réglages admin : voici l'essentiel. Le post Claude Whiteboards, Sheets et Data : Anthropic ajoute ...",
-      "published": "2026-11-12T06:18:45+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "204f42457ffb5b4d7ce1734d82e9bbe4",
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-      "published": "2026-11-11T23:01:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "49cf031666b989b96b23d7515d1511f0",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-      "published": "2026-11-11T22:56:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
