@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-13T23:11:51.903656+00:00",
+  "last_updated": "2026-11-14T04:49:25.585642+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "88ea4fdea859c80c8df8db29743db892",
+      "title": "Stela - Le retour du Hackintosh ?",
+      "link": "https://korben.info/stela-macos-pc-x86-hackintosh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Stela démarre macOS 27 pour Apple Silicon, sans le modifier, sur un PC x86 équipé d'une carte NVIDIA, en lui faisant croire qu'il tourne sur un Mac mini M2. Ce qu'il faut comme matériel, comment fabriquer la clé, et p...",
+      "published": "2026-11-14T01:03:37+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/stela-macos-pc-x86-hackintosh/stela-macos-pc-x86-hackintosh-1.png"
+    },
     {
       "id": "b18b7197a903ab0a4d58a45bfe904792",
       "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
@@ -491,16 +501,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/chicago95-xfce-windows-95/chicago95-xfce-windows-95-1.png"
-    },
-    {
-      "id": "8cccc76fa844a445ebfad27facfae3a6",
-      "title": "iKnow - Ce que votre Mac sait de votre famille",
-      "link": "https://korben.info/graphe-connaissances-apple-iknow.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Deux chercheurs d'Eighth Rank décrivent le graphe de vos proches que macOS remplit en local, avec deux classificateurs qui notent qui est de la famille. Ce qui est recoupé, ce qui ne l'est pas, et comment l'ouvrir en ...",
-      "published": "2026-11-09T12:12:35+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/graphe-connaissances-apple-iknow/graphe-connaissances-apple-iknow-1.png"
     }
   ]
 }
