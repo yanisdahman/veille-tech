@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-11-14T04:49:25.585642+00:00",
+  "last_updated": "2026-11-14T12:55:35.335423+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "d6bc4ec6947cb8494312aaf3ce57dfe9",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilit...",
+      "published": "2026-11-14T12:38:35+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg"
+    },
+    {
+      "id": "432fd89aa2499a6a0d5702b599cf50e8",
+      "title": "Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi",
+      "link": "https://www.it-connect.fr/check-point-php2shell-wiper-esxi-tsga/",
+      "summary": "PHP2Shell et une faille zero-day de Gaia OS ont permis de pirater des passerelles Check Point, avant le déploiement d'un wiper sur un hôte VMware ESXi. Le post Passerelles Check Point piratées via PHP2Shell : une port...",
+      "published": "2026-11-14T05:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "88ea4fdea859c80c8df8db29743db892",
       "title": "Stela - Le retour du Hackintosh ?",
@@ -273,16 +293,6 @@
       "image": ""
     },
     {
-      "id": "86a86bcab9397b2e1701137a56f5381c",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? ...",
-      "published": "2026-11-12T18:07:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj765JyAl658UR5d1raKFLJmZpxXuof0-wBCobeJwnWjWZROTa4wtMyPvTTjBr4-ccE0cmKpIyGT1BetlqUPkPS_omcKVWz7RcCv6sUl2h6KxXrem_X26kzrp7kwq8bSezUsYMa6h2JNh-rPglsuNnRzt6i3IdzBjkLFNBNy5-Y0jId2B6Zhyir_jdm8O4/s1600/sails.jpg"
-    },
-    {
       "id": "b2273ca776dc7353897d26cb2e07b86c",
       "title": "Dark Web : comment y accéder avec Tor et Tails, et publier un site .onion",
       "link": "https://www.it-connect.fr/dark-web-tor-tails-site-onion/",
@@ -308,16 +318,6 @@
       "link": "https://www.it-connect.fr/sql-server-serveurs-lies-connexions-ouvertes-mises-a-jour-windows/",
       "summary": "Depuis les mises à jour Windows d'octobre 2026, les serveurs liés SQL Server peuvent laisser des connexions ouvertes. Microsoft a confirmé et prépare un patch. Le post Votre SQL Server est lent ? Les mises à jour Wind...",
       "published": "2026-11-12T16:25:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "91b7099cfa3b6f41eb64471ec8fa655d",
-      "title": "Windows 11 : la mise à jour KB5132061 refuse de s’installer sur certains PC, Microsoft promet un correctif",
-      "link": "https://www.it-connect.fr/windows-11-kb5132061-echec-installation-0800f0989/",
-      "summary": "L'installation de la KB5132061 échoue sur certains PC Windows 11 ayant reçu la préversion d'octobre. Microsoft promet une réparation automatique sous 48h. Le post Windows 11 : la mise à jour KB5132061 refuse de s’inst...",
-      "published": "2026-11-12T16:10:10+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
