@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-11-15T04:41:26.999920+00:00",
-  "count": 40,
+  "last_updated": "2026-11-15T13:23:58.034900+00:00",
+  "count": 50,
   "articles": [
+    {
+      "id": "fb43e89fb20d8cbb7138fb0348a8f6be",
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found th...",
+      "published": "2026-11-15T11:27:31+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdTCjpbsG3Dp62JM1KZqfSvZpuBnxwaCxXsplW3dAt2b4Ym0KAWPfxkHf4DT-02VK3jJESLmgasdE6D36qGegWu7dk9YSLN4DZxRVsgrM9lIEXXHUvQ0VzaZ1_gFqpjtA4cP3rlt82g5WnK2sXNZHJd5F_rEk4VSTGnMKOuXziSM1R85Vqhway3lajwTA/s1600/facebook-fine.jpg"
+    },
+    {
+      "id": "fc0c50636a188ea269cea28c04e45aeb",
+      "title": "OpenAI lance Daybreak, des agents IA qui piratent vos applis pour les sécuriser",
+      "link": "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Lors de l'événement Cyber at the Frontier, OpenAI a présenté Daybreak Red Team, des agents IA qui testent l'intrusion sur vos applis web, et Daybreak Defense Factory, qui propose des correctifs en pull request. Le tou...",
+      "published": "2026-11-15T09:26:21+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser-1.webp"
+    },
+    {
+      "id": "5b8a9ede72c8184be8ce368cc695308d",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker...",
+      "published": "2026-11-15T08:22:04+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg16ACawbG7rP_kT-8Boo4xdTje3BeTWyFSnNXwHhr5cvy2-1X3Ljhrc1IuZlseWd55tN8E1yjQ9ldhTnjWTU-GJBpX_Zen36YiLQGsRSRAoteqHyxx7mn_w0QgLfMKDLItA4p_jpHajucbglLnCR_zWBY_t82YvFkLa9dQFBfjP1BrTlrNdYufsGMSZiGn/s1600/cursor.jpg"
+    },
+    {
+      "id": "b3c9f9d5d657a96d5343367559f632f7",
+      "title": "Vectors - Aiguilleur du ciel ze game !",
+      "link": "https://korben.info/vectors-jeu-controle-aerien-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Vectors est un jeu de contrôle aérien gratuit qui tourne dans le navigateur, sans compte. Joli mais un peu austère et tout en anglais : voici les gestes du premier service, les deux pièges de la fin du tuto, l'ATC Sch...",
+      "published": "2026-11-15T06:54:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/vectors-jeu-controle-aerien-navigateur/vectors-jeu-controle-aerien-navigateur-1.png"
+    },
     {
       "id": "60f9b9b30062155ebc9aae0921be29bf",
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
@@ -31,6 +71,16 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg"
+    },
+    {
+      "id": "432fd89aa2499a6a0d5702b599cf50e8",
+      "title": "Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi",
+      "link": "https://www.it-connect.fr/check-point-php2shell-wiper-esxi-tsga/",
+      "summary": "PHP2Shell et une faille zero-day de Gaia OS ont permis de pirater des passerelles Check Point, avant le déploiement d'un wiper sur un hôte VMware ESXi. Le post Passerelles Check Point piratées via PHP2Shell : une port...",
+      "published": "2026-11-14T05:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
     },
     {
       "id": "88ea4fdea859c80c8df8db29743db892",
@@ -123,6 +173,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDE4uIn_bV4GUrsw0LjzqBnnNaQM_0lzJhrSy89nrShmwNlFcsVucCFpzzZ2LMkkSMF-XMb8rp0e7_Maemyj5sypkVIf4s2Wx5pbJXkOwf0vMkG9ThBQAHhvJ_mKWHq78f_iJYhAM2l1Hp_Zk3VtB_bVvYFmZTX4WakIpC_Zib0rlFnDG-H674JSP5Mg/s1600/implant.jpg"
     },
     {
+      "id": "037ce1df1002564aba95846f7120c624",
+      "title": "Claude Code : revenir en arrière avec les checkpoints et /rewind",
+      "link": "https://www.it-connect.fr/claude-code-revenir-en-arriere-avec-les-checkpoints-et-rewind/",
+      "summary": "Ce tutoriel explique comment Claude Code vous permet de revenir en arrière à tout moment grâce à ses checkpoints automatiques et à la commande /rewind. Le post Claude Code : revenir en arrière avec les checkpoints et ...",
+      "published": "2026-11-13T13:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f333e581dd86b1cbf8162980ae1c83c7",
+      "title": "Windows : les mises à jour de novembre 2026 provoquent des échecs d’activation, Microsoft confirme",
+      "link": "https://www.it-connect.fr/windows-activation-slmgr-erreur-080041008/",
+      "summary": "Les mises à jour Windows de novembre 2026 font échouer l'activation via slmgr avec l'erreur 0x80041008. Microsoft confirme le bug et prépare un correctif. Le post Windows : les mises à jour de novembre 2026 provoquent...",
+      "published": "2026-11-13T12:41:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
       "id": "16b0956de67ecdf0bb5ffe875b17dffe",
       "title": "Microsoft says November security updates cause printing issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
@@ -183,6 +253,16 @@
       "image": ""
     },
     {
+      "id": "fc49c15b9b98de44adf67a00b75f35a4",
+      "title": "Claude Meetings : Anthropic envoie son IA dans vos réunions Google Meet",
+      "link": "https://www.it-connect.fr/claude-meetings-anthropic-google-meet/",
+      "summary": "Anthropic lance Claude Meetings en bêta : l'IA rejoint vos réunions Google Meet, prend des notes et crée des documents. Disponibilité, réglages et limites. Le post Claude Meetings : Anthropic envoie son IA dans vos ré...",
+      "published": "2026-11-13T09:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
       "id": "5e94219b900f6de35262b15324e1f516",
       "title": "Microsoft confirms Windows activation failures after November updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
@@ -203,24 +283,64 @@
       "image": ""
     },
     {
-      "id": "358e43585442933ff5db7b4b8843bfaf",
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw i...",
-      "published": "2026-11-13T08:05:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg"
+      "id": "edda03e902119ea21f686638d8c41301",
+      "title": "Panne mondiale de Microsoft 365 : Outlook, Teams et Copilot perturbés depuis plus de 11 heures",
+      "link": "https://www.it-connect.fr/panne-mondiale-microsoft-365-exchange-online-outlook-teams/",
+      "summary": "Depuis jeudi soir, une panne mondiale de Microsoft 365 perturbe Outlook, Teams et Copilot. Le service n'est pas rétabli en ce vendredi 13 novembre 2026. Le post Panne mondiale de Microsoft 365 : Outlook, Teams et Copi...",
+      "published": "2026-11-13T06:24:51+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
     },
     {
-      "id": "5ef31f54b9efc491e7691ec7d9c674b1",
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrat...",
-      "published": "2026-11-13T05:43:28+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4jxlXpPBPhD5o3IHy80Fn7fSHUtcqH3iXQlU-jDUL5C3zJcf1_Zb-GAYxuW6P6q647p9JAT_opImlj-v-USDNhZ_z83mYC3ISKtN72pe_3XLwf5EyMRuK4OdXCFnYxGMhOAvN_i4UFqk5vJLriRnkbRRwILuT5JUpExx9Tm74sXSCQ0g7jjsOzWV1cqk/s1600/nable-hacks.jpg"
+      "id": "651c7d6e2eb307c1865e635155198b1d",
+      "title": "SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM",
+      "link": "https://www.it-connect.fr/signdrop-zero-day-windows-clfs-system/",
+      "summary": "SignDrop, nouvelle zero-day publiée par Nightmare Eclipse, détourne l'authentification CLFS de Windows pour obtenir les droits SYSTEM. Voici ce que l'on sait. Le post SignDrop : cette faille zero-day détourne la prote...",
+      "published": "2026-11-13T05:56:31+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1400c129fabd56bf5e05769fa21b0b65",
+      "title": "Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance",
+      "link": "https://www.it-connect.fr/faille-apache-http2-cve-2026-119618-rce/",
+      "summary": "CVE-2026-119618 : une faille critique dans le module HTTP/2 d'Apache permet d'exécuter du code à distance. Voici comment protéger votre serveur Web. Le post Serveurs Apache : cette faille critique dans HTTP/2 permet d...",
+      "published": "2026-11-12T19:40:50+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b2273ca776dc7353897d26cb2e07b86c",
+      "title": "Dark Web : comment y accéder avec Tor et Tails, et publier un site .onion",
+      "link": "https://www.it-connect.fr/dark-web-tor-tails-site-onion/",
+      "summary": "Dark Web, Tor, routage en oignon : comprenez comment fonctionne ce réseau, accédez-y en sécurité avec Tails et publiez votre propre site .onion. Le post Dark Web : comment y accéder avec Tor et Tails, et publier un si...",
+      "published": "2026-11-12T17:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "7b87456e0ec8011c562b210099464ba4",
+      "title": "CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026",
+      "link": "https://www.it-connect.fr/reactiv-anssi-point-situation-fuites-donnees-caf-france-travail/",
+      "summary": "64 violations de données signalées depuis fin septembre : l'ANSSI publie son 2e point REACTIV. CAF, France Travail, OFB... avec toujours les mêmes failles. Le post CAF, France Travail, OFB… l’ANSSI fait le point sur l...",
+      "published": "2026-11-12T16:51:27+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "012f6d296eaf628f5884e47bc7d15635",
+      "title": "Votre SQL Server est lent ? Les mises à jour Windows récentes sont peut-être en cause",
+      "link": "https://www.it-connect.fr/sql-server-serveurs-lies-connexions-ouvertes-mises-a-jour-windows/",
+      "summary": "Depuis les mises à jour Windows d'octobre 2026, les serveurs liés SQL Server peuvent laisser des connexions ouvertes. Microsoft a confirmé et prépare un patch. Le post Votre SQL Server est lent ? Les mises à jour Wind...",
+      "published": "2026-11-12T16:25:06+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
     },
     {
       "id": "66daa5d9e11ab62b18fadf5d2feed99f",
@@ -381,26 +501,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel-1.jpg"
-    },
-    {
-      "id": "40a56cd40ba4bc70ac5580d90b980964",
-      "title": "NomadNet - Votre site et vos fichiers sur Reticulum",
-      "link": "https://korben.info/reticulum-nomadnet-site-fichiers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Installer NomadNet, activer un nœud, écrire sa page index.mu et proposer des fichiers sur Reticulum, tuto testé sur deux machines Ubuntu 24.04. Avec ce qu'il faut savoir avant d'allumer le nœud : il annonce son nom, p...",
-      "published": "2026-11-09T13:18:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/reticulum-nomadnet-site-fichiers/reticulum-nomadnet-site-fichiers-1.png"
-    },
-    {
-      "id": "1a8c83736ab3d84cfffd2e9324583b00",
-      "title": "Chicago95 - Votre Xubuntu déguisé en Windows 95",
-      "link": "https://korben.info/chicago95-xfce-windows-95.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Le thème Chicago95 habille XFCE en Windows 95, des fenêtres à l'invite MS-DOS. Le tuto, testé sur une Xubuntu 26.04, signale ce qui coince : greffon du tableau de bord, fond d'écran, polices bitmap, paquet des sons, e...",
-      "published": "2026-11-09T13:16:31+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/chicago95-xfce-windows-95/chicago95-xfce-windows-95-1.png"
     }
   ]
 }
