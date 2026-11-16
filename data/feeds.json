@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-11-16T04:38:05.486340+00:00",
+  "last_updated": "2026-11-16T14:42:12.954714+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "061dde6224962a2bd130c7156828a65d",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "published": "2026-11-16T14:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "01529b5c942ad883d3de9b66095c87c8",
+      "title": "Erreur 0x80041008 : Microsoft corrige l’activation de Windows avec des mises à jour hors bande",
+      "link": "https://www.it-connect.fr/windows-mise-a-jour-hors-bande-activation-slmgr-080041008/",
+      "summary": "Microsoft a publié des mises à jour hors bande pour corriger l'erreur 0x80041008 qui bloque l'activation de Windows via slmgr.vbs. Voici les KB à installer. Le post Erreur 0x80041008 : Microsoft corrige l’activation d...",
+      "published": "2026-11-16T13:56:55+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1327a31f80fc1b990883f7ca360ee49e",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "published": "2026-11-16T12:53:18+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "d915d3970c878bf9f50ed6cb79557d08",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, a...",
+      "published": "2026-11-16T12:34:21+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg"
+    },
+    {
+      "id": "be5d8dc6dee5167a592a07ac3c4925d2",
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file...",
+      "published": "2026-11-16T12:33:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRuwbdQU-KyBsSrFlIZp4oczr_tJu53WrfB3nM6QYrO7kFgGAZO1NMSi7mziUOUaTrzq5C4KzCJqvYOf0Ry19ypJac-9mBYzYiqiTNl462i1uYo7DF9aAHxiVU_IOaByH3NtNlrF0hUhZtpItADKJauPVzWrz8r6YOQEHQrt_YiAmPba4CIOsSjZA2Wy_/s1600/hacker-code.jpg"
+    },
+    {
+      "id": "b3bf9607d4fc0e5ebc03cb6f3f2183d9",
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+      "published": "2026-11-16T11:18:09+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e0b7f5a394f0ee669549375209472e85",
+      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+      "published": "2026-11-16T11:00:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "58a94b661e83a19e94e923981fd83999",
+      "title": "GTA 6 : comment 212 Go arrivent sur des millions de consoles sans saturer Internet ?",
+      "link": "https://www.it-connect.fr/gta-6-prechargement-cdn-chiffrement/",
+      "summary": "GTA 6 pèse jusqu'à 212 Go et sort le 19 novembre. Préchargement, CDN, clé livrée au lancement : voici comment le réseau absorbe des millions de téléchargements. Le post GTA 6 : comment 212 Go arrivent sur des millions...",
+      "published": "2026-11-16T09:55:46+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "83c4ecf04b85f1c7601c7a942d124fc8",
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to th...",
+      "published": "2026-11-16T09:32:57+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg"
+    },
+    {
+      "id": "a776e1366df5f1d88386bfa1c76a9e50",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "published": "2026-11-16T09:30:04+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9f01bf7a9094500c53615ae2af7e0669",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "published": "2026-11-16T08:26:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "67bb3d5c3273f900074239b720b09d95",
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, whic...",
+      "published": "2026-11-16T07:34:21+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg"
+    },
+    {
+      "id": "4ebc219a2be7e951db67f06987bebd9f",
+      "title": "Bon plan Geekom : les meilleures offres sur les mini-PC avant même le Black Friday",
+      "link": "https://www.it-connect.fr/bon-plan-geekom-les-meilleures-offres-sur-les-mini-pc-avant-meme-le-black-friday/",
+      "summary": "Vente flash Geekom : économisez jusqu’à 200€ sur l’IT13 Max et l’A5 Pro jusqu'au 3 décembre 2026. Codes promo exclusifs et livraisons gratuites. Le post Bon plan Geekom : les meilleures offres sur les mini-PC avant mê...",
+      "published": "2026-11-16T07:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "fdb8ff73358b89c4ea6dccd693e03551",
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, docume...",
+      "published": "2026-11-16T06:53:34+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg"
+    },
+    {
+      "id": "267ba3963a22858c316f85aead97dd50",
+      "title": "Nextcloud Office Desktop : l’application de bureau basée sur Euro-Office est disponible",
+      "link": "https://www.it-connect.fr/nextcloud-office-desktop-euro-office-disponible/",
+      "summary": "Nextcloud Office Desktop, l'application de bureau gratuite basée sur Euro-Office, est disponible pour Windows, Linux et macOS. Voici ce qu'il faut retenir. Le post Nextcloud Office Desktop : l’application de bureau ba...",
+      "published": "2026-11-16T06:25:59+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "22581c64c9ce763b851cf9673466d20f",
+      "title": "Linux 7.4 : pour Linus Torvalds, les correctifs assistés par l’IA sont devenus la norme",
+      "link": "https://www.it-connect.fr/linux-7-4-correctifs-ia-norme-torvalds/",
+      "summary": "Dans l'annonce de Linux 7.4-rc2, Linus Torvalds tient les correctifs issus de l'IA pour acquis. Sur BPF, ils arriveraient plus vite que les rapports de bugs. Le post Linux 7.4 : pour Linus Torvalds, les correctifs ass...",
+      "published": "2026-11-16T05:58:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "345716007b6508ccc17682c74f56db87",
       "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
@@ -113,26 +273,6 @@
       "image": "https://korben.info/stela-macos-pc-x86-hackintosh/stela-macos-pc-x86-hackintosh-1.png"
     },
     {
-      "id": "b18b7197a903ab0a4d58a45bfe904792",
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send...",
-      "published": "2026-11-13T19:38:36+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "c8ef556c39f87e11c3eeafeda7f8de86",
-      "title": "German military drone operations disrupted by cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "published": "2026-11-13T17:31:56+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "b5af83d54bc054532c93c5fa7200aaca",
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
@@ -143,16 +283,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg"
     },
     {
-      "id": "212e30a9407b3854fa0e6528280ae936",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "published": "2026-11-13T16:21:43+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "563cd8d18fd7e0e55ff4c50158a2d5ab",
       "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
       "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
@@ -161,36 +291,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28SrA-dW0l0kreAg1vMHHOgBRMM7lzxv5qg2FT2HzRxReJ96pxZP4Fjpm15fYWDDgWpbBI8iC119aE37t_kmQ4guoA70NUlJsdiA4hFvTg8fflx9fsKqUsGuoB-S9VS5pPd38EBVYRGmvKIT5EylE3IwEK8bBCp5CkLrdTwhbyUA2xWN_0iOynP33yE8/s1600/amd-flaws.jpg"
-    },
-    {
-      "id": "88d9666417c8ea0e254f2a0d344a297e",
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical ...",
-      "published": "2026-11-13T15:01:11+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6518422fdf409b18d1cb31ebb43b7034",
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as ...",
-      "published": "2026-11-13T14:28:58+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmjJA-t4vvigohRIfUR6JExYEPR0Dohh29eooVagQOvRyRDgdisxAy3wSWni5iFHjf2Dk8X2BavSeGO8hJ-wCTbDuffsdtamOuqj1PVTb75EWNF5vNe3tCsS6pyS_pSzNhEELOVU0DxHdmGx4Kt8KNqwz8YheAM9kEoVmpnHeVV1qsofLCBYDEt0E2IqX/s1600/flash.jpg"
-    },
-    {
-      "id": "e01f78786aae3f8bff87c4251430365d",
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phra...",
-      "published": "2026-11-13T13:54:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDE4uIn_bV4GUrsw0LjzqBnnNaQM_0lzJhrSy89nrShmwNlFcsVucCFpzzZ2LMkkSMF-XMb8rp0e7_Maemyj5sypkVIf4s2Wx5pbJXkOwf0vMkG9ThBQAHhvJ_mKWHq78f_iJYhAM2l1Hp_Zk3VtB_bVvYFmZTX4WakIpC_Zib0rlFnDG-H674JSP5Mg/s1600/implant.jpg"
     },
     {
       "id": "037ce1df1002564aba95846f7120c624",
@@ -213,36 +313,6 @@
       "image": ""
     },
     {
-      "id": "16b0956de67ecdf0bb5ffe875b17dffe",
-      "title": "Microsoft says November security updates cause printing issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "published": "2026-11-13T12:27:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "dea5a8ecb640ffeef30e2ff25f947b6d",
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request becau...",
-      "published": "2026-11-13T11:52:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkpxeEuWVGmGvK8wGnGdzjVbMHRyNOYd3GFjgzJZZN7TL2yyLt5Jof4gsujMYS9WfZnxUjFFs3mxFaejShy46vuXK38l_5R3RvospJ6J8IunrLPSDnI0sJgGtvNiNkc89XMR_KDDHWEOxAk800C2fKhwiOLMy433M3ASErPk_jMwoexS_5-1kpdJ8emE/s1600/Keeper.jpg"
-    },
-    {
-      "id": "9e14c9af6278c0705e3edde77d18a4f6",
-      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-      "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in St...",
-      "published": "2026-11-13T11:10:40+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg"
-    },
-    {
       "id": "08dbebcc83eb457f2fc1b56d278f42cd",
       "title": "Agent-desktop pilote vos applis sans regarder l'écran",
       "link": "https://korben.info/agent-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -251,26 +321,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/agent-desktop/agent-desktop-1.png"
-    },
-    {
-      "id": "e06c8e5c15a1fa5fb7e42b483fb56f1d",
-      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks...",
-      "published": "2026-11-13T10:55:03+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg"
-    },
-    {
-      "id": "321412e595af883cadac26fe42dd1302",
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "published": "2026-11-13T10:44:22+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "fc49c15b9b98de44adf67a00b75f35a4",
@@ -293,56 +343,6 @@
       "image": ""
     },
     {
-      "id": "651c7d6e2eb307c1865e635155198b1d",
-      "title": "SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM",
-      "link": "https://www.it-connect.fr/signdrop-zero-day-windows-clfs-system/",
-      "summary": "SignDrop, nouvelle zero-day publiée par Nightmare Eclipse, détourne l'authentification CLFS de Windows pour obtenir les droits SYSTEM. Voici ce que l'on sait. Le post SignDrop : cette faille zero-day détourne la prote...",
-      "published": "2026-11-13T05:56:31+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1400c129fabd56bf5e05769fa21b0b65",
-      "title": "Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance",
-      "link": "https://www.it-connect.fr/faille-apache-http2-cve-2026-119618-rce/",
-      "summary": "CVE-2026-119618 : une faille critique dans le module HTTP/2 d'Apache permet d'exécuter du code à distance. Voici comment protéger votre serveur Web. Le post Serveurs Apache : cette faille critique dans HTTP/2 permet d...",
-      "published": "2026-11-12T19:40:50+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "b2273ca776dc7353897d26cb2e07b86c",
-      "title": "Dark Web : comment y accéder avec Tor et Tails, et publier un site .onion",
-      "link": "https://www.it-connect.fr/dark-web-tor-tails-site-onion/",
-      "summary": "Dark Web, Tor, routage en oignon : comprenez comment fonctionne ce réseau, accédez-y en sécurité avec Tails et publiez votre propre site .onion. Le post Dark Web : comment y accéder avec Tor et Tails, et publier un si...",
-      "published": "2026-11-12T17:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "7b87456e0ec8011c562b210099464ba4",
-      "title": "CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026",
-      "link": "https://www.it-connect.fr/reactiv-anssi-point-situation-fuites-donnees-caf-france-travail/",
-      "summary": "64 violations de données signalées depuis fin septembre : l'ANSSI publie son 2e point REACTIV. CAF, France Travail, OFB... avec toujours les mêmes failles. Le post CAF, France Travail, OFB… l’ANSSI fait le point sur l...",
-      "published": "2026-11-12T16:51:27+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "012f6d296eaf628f5884e47bc7d15635",
-      "title": "Votre SQL Server est lent ? Les mises à jour Windows récentes sont peut-être en cause",
-      "link": "https://www.it-connect.fr/sql-server-serveurs-lies-connexions-ouvertes-mises-a-jour-windows/",
-      "summary": "Depuis les mises à jour Windows d'octobre 2026, les serveurs liés SQL Server peuvent laisser des connexions ouvertes. Microsoft a confirmé et prépare un patch. Le post Votre SQL Server est lent ? Les mises à jour Wind...",
-      "published": "2026-11-12T16:25:06+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "66daa5d9e11ab62b18fadf5d2feed99f",
       "title": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
       "link": "https://korben.info/modern-web-guidance-agents-web.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -351,26 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/modern-web-guidance-agents-web/modern-web-guidance-agents-web-1.png"
-    },
-    {
-      "id": "01d0117fb46530a32e8d88ddbeb9e5e4",
-      "title": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
-      "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des sy...",
-      "published": "2026-11-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "add23cb9c8d0198b29c24ce28fe12871",
-      "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
-      "summary": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "published": "2026-11-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "9152db08d4aca0dfff5f95509f8233dc",
@@ -387,16 +367,6 @@
       "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni d...",
-      "published": "2026-11-12T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "501e67dd3b57ba189ad720ec49b477df",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (12 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à...",
       "published": "2026-11-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -443,10 +413,30 @@
       "image": ""
     },
     {
-      "id": "7c8beb576534cfbcf9adc8b30a8781c2",
-      "title": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un co...",
+      "id": "21402539a091f72177391f10977d0014",
+      "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte ...",
+      "published": "2026-11-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bf731528eefe7b0e3ecc8b73c83b636f",
+      "title": "Vulnérabilité dans GitLab (12 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1520/",
+      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-11-12T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a89297fd156b68c28a0d34078664feee",
+      "title": "Multiples vulnérabilités dans MongoDB Core Server (12 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1522/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB Core Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données ...",
       "published": "2026-11-12T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -501,6 +491,16 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel-1.jpg"
+    },
+    {
+      "id": "81700b692d602a4a1cf1a3a086e3b850",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-011/",
+      "summary": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité ...",
+      "published": "2026-09-28T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     }
   ]
 }
