@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-11-16T14:42:12.954714+00:00",
+  "last_updated": "2026-11-17T01:31:04.681958+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "f680c3550601696fca72f8ddf9beefc6",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from ...",
+      "published": "2026-11-16T22:54:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6a0c758403739be205475291ccb73ec4",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+      "published": "2026-11-16T21:31:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0f561af81c8b6e3949fc690b6ab8ec5b",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agent...",
+      "published": "2026-11-16T20:59:44+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9cf1ce021144afe0465b5ef6f3e9cf08",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+      "published": "2026-11-16T19:57:13+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "b72e17b9ecc3351a46e7ff48da03a294",
+      "title": "Maileva (La Poste) : les noms et adresses de 22 millions de personnes dérobés lors d’une cyberattaque",
+      "link": "https://www.it-connect.fr/maileva-la-poste-fuite-donnees-22-millions-personnes/",
+      "summary": "Maileva, filiale de La Poste, confirme le vol des noms et adresses de 22 millions de personnes. Relances, données des clients : voici ce que l'on sait. Le post Maileva (La Poste) : les noms et adresses de 22 millions ...",
+      "published": "2026-11-16T19:47:53+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "b3c570ec87d95d832aa37fa59982ea07",
+      "title": "Cybersécurité : j’ai créé des films de sensibilisation avec Claude et Higgsfield",
+      "link": "https://www.it-connect.fr/higgsfield-claude-mcp-films-sensibilisation/",
+      "summary": "J'ai connecté Claude à Higgsfield via MCP pour créer deux films de sensibilisation à la cybersécurité, sans caméra ni acteur. Méthode, coût et limites. Le post Cybersécurité : j’ai créé des films de sensibilisation av...",
+      "published": "2026-11-16T17:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "81ef74f31b59f65765c5d8c00ca6a2e3",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "published": "2026-11-16T16:43:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "7d830b11eedb6a10dee78d22bb074f83",
+      "title": "Les lunettes connectées d'Apple arriveraient en 2027",
+      "link": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Selon Mark Gurman de Bloomberg, Apple viserait une présentation de ses premières lunettes connectées (code N50) à la WWDC de juin 2027, avec des livraisons avant fin 2027. Sans affichage dans les verres, elles reposen...",
+      "published": "2026-11-16T15:49:40+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027/les-lunettes-connectees-dapple-arriveraient-en-2027-1.webp"
+    },
+    {
+      "id": "827737e4a56e45009b758728725b3544",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+      "published": "2026-11-16T15:44:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ba8f3ef7d2f325f85b9117fe33d96a3b",
+      "title": "Microsoft 365 : un correctif Windows défectueux à l’origine de la panne mondiale",
+      "link": "https://www.it-connect.fr/panne-microsoft-365-rapport-post-incident-bug-windows/",
+      "summary": "Microsoft a publié son rapport sur la panne de Microsoft 365 : un bug Windows dormant depuis juillet est à l'origine de la panne, mais pas tout seul. Le post Microsoft 365 : un correctif Windows défectueux à l’origine...",
+      "published": "2026-11-16T15:33:32+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "09921bd51601afc1200139e2e96ce11c",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps...",
+      "published": "2026-11-16T15:01:11+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a848b6775e4e6c2375fc7fb28eeefe95",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeA...",
+      "published": "2026-11-16T14:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg"
+    },
     {
       "id": "061dde6224962a2bd130c7156828a65d",
       "title": "Google warns that fully-automated AI attacks are coming soon",
@@ -21,6 +141,16 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
+    },
+    {
+      "id": "ef045dd0f58580008b0ddf3adf79e6c5",
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always...",
+      "published": "2026-11-16T13:27:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg"
     },
     {
       "id": "1327a31f80fc1b990883f7ca360ee49e",
@@ -63,16 +193,6 @@
       "image": ""
     },
     {
-      "id": "e0b7f5a394f0ee669549375209472e85",
-      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-      "published": "2026-11-16T11:00:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "58a94b661e83a19e94e923981fd83999",
       "title": "GTA 6 : comment 212 Go arrivent sur des millions de consoles sans saturer Internet ?",
       "link": "https://www.it-connect.fr/gta-6-prechargement-cdn-chiffrement/",
@@ -91,26 +211,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg"
-    },
-    {
-      "id": "a776e1366df5f1d88386bfa1c76a9e50",
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-      "published": "2026-11-16T09:30:04+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9f01bf7a9094500c53615ae2af7e0669",
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-      "published": "2026-11-16T08:26:52+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "67bb3d5c3273f900074239b720b09d95",
@@ -163,26 +263,6 @@
       "image": ""
     },
     {
-      "id": "345716007b6508ccc17682c74f56db87",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that comp...",
-      "published": "2026-11-15T18:29:53+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5a4f53d8f5e13b220a1abbdaf6150b1c",
-      "title": "TSMC employee data breach linked to cloud provider",
-      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-      "published": "2026-11-15T15:23:48+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "fb43e89fb20d8cbb7138fb0348a8f6be",
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
       "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
@@ -223,26 +303,6 @@
       "image": "https://korben.info/vectors-jeu-controle-aerien-navigateur/vectors-jeu-controle-aerien-navigateur-1.png"
     },
     {
-      "id": "60f9b9b30062155ebc9aae0921be29bf",
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-      "published": "2026-11-14T17:27:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "f828612ff6ba10492a2c1d8114964c3f",
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-      "published": "2026-11-14T15:15:49+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d6bc4ec6947cb8494312aaf3ce57dfe9",
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
@@ -273,41 +333,11 @@
       "image": "https://korben.info/stela-macos-pc-x86-hackintosh/stela-macos-pc-x86-hackintosh-1.png"
     },
     {
-      "id": "b5af83d54bc054532c93c5fa7200aaca",
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requir...",
-      "published": "2026-11-13T16:53:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg"
-    },
-    {
-      "id": "563cd8d18fd7e0e55ff4c50158a2d5ab",
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's m...",
-      "published": "2026-11-13T15:27:05+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28SrA-dW0l0kreAg1vMHHOgBRMM7lzxv5qg2FT2HzRxReJ96pxZP4Fjpm15fYWDDgWpbBI8iC119aE37t_kmQ4guoA70NUlJsdiA4hFvTg8fflx9fsKqUsGuoB-S9VS5pPd38EBVYRGmvKIT5EylE3IwEK8bBCp5CkLrdTwhbyUA2xWN_0iOynP33yE8/s1600/amd-flaws.jpg"
-    },
-    {
       "id": "037ce1df1002564aba95846f7120c624",
       "title": "Claude Code : revenir en arrière avec les checkpoints et /rewind",
       "link": "https://www.it-connect.fr/claude-code-revenir-en-arriere-avec-les-checkpoints-et-rewind/",
       "summary": "Ce tutoriel explique comment Claude Code vous permet de revenir en arrière à tout moment grâce à ses checkpoints automatiques et à la commande /rewind. Le post Claude Code : revenir en arrière avec les checkpoints et ...",
       "published": "2026-11-13T13:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f333e581dd86b1cbf8162980ae1c83c7",
-      "title": "Windows : les mises à jour de novembre 2026 provoquent des échecs d’activation, Microsoft confirme",
-      "link": "https://www.it-connect.fr/windows-activation-slmgr-erreur-080041008/",
-      "summary": "Les mises à jour Windows de novembre 2026 font échouer l'activation via slmgr avec l'erreur 0x80041008. Microsoft confirme le bug et prépare un correctif. Le post Windows : les mises à jour de novembre 2026 provoquent...",
-      "published": "2026-11-13T12:41:58+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -321,26 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/agent-desktop/agent-desktop-1.png"
-    },
-    {
-      "id": "fc49c15b9b98de44adf67a00b75f35a4",
-      "title": "Claude Meetings : Anthropic envoie son IA dans vos réunions Google Meet",
-      "link": "https://www.it-connect.fr/claude-meetings-anthropic-google-meet/",
-      "summary": "Anthropic lance Claude Meetings en bêta : l'IA rejoint vos réunions Google Meet, prend des notes et crée des documents. Disponibilité, réglages et limites. Le post Claude Meetings : Anthropic envoie son IA dans vos ré...",
-      "published": "2026-11-13T09:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "edda03e902119ea21f686638d8c41301",
-      "title": "Panne mondiale de Microsoft 365 : Outlook, Teams et Copilot perturbés depuis plus de 11 heures",
-      "link": "https://www.it-connect.fr/panne-mondiale-microsoft-365-exchange-online-outlook-teams/",
-      "summary": "Depuis jeudi soir, une panne mondiale de Microsoft 365 perturbe Outlook, Teams et Copilot. Le service n'est pas rétabli en ce vendredi 13 novembre 2026. Le post Panne mondiale de Microsoft 365 : Outlook, Teams et Copi...",
-      "published": "2026-11-13T06:24:51+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
     },
     {
       "id": "66daa5d9e11ab62b18fadf5d2feed99f",
@@ -481,16 +491,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/dockecho-dock-macos-chaque-ecran/dockecho-dock-macos-chaque-ecran-1.png"
-    },
-    {
-      "id": "029d9a9b9bc5eb541a0af162b96f8554",
-      "title": "Test du câble UGREEN Nexode 240W - avec un écran qui révèle la puissance en temps réel",
-      "link": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Korben teste depuis trois semaines le câble USB-C UGREEN Nexode 240W, qui intègre un écran LCD affichant la puissance réelle en watts. Compatible USB PD 3.1 (48 V, 5 A) avec puce E-Mark, il existe en 1, 2 ou 3 mètres,...",
-      "published": "2026-11-09T15:43:45+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel-1.jpg"
     },
     {
       "id": "81700b692d602a4a1cf1a3a086e3b850",
