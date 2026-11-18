@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-11-18T15:01:46.986581+00:00",
+  "last_updated": "2026-11-18T23:51:12.654873+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "7e9f725d8a7b9b67489d0657c97cdf87",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. ...",
+      "published": "2026-11-18T23:08:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f197e44905ec055096e1db9ef63684a5",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...",
+      "published": "2026-11-18T20:49:32+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "03d9214d2c4057e4113d607ae1e86fce",
+      "title": "NGINX2Root : deux failles critiques permettent de prendre le contrôle d’un serveur NGINX",
+      "link": "https://www.it-connect.fr/nginx2root-failles-cve-2026-123007-rce/",
+      "summary": "Failles NGINX : CVE-2026-123007 et CVE-2026-123633 permettent d'exécuter du code à distance via HTTP/2. Voici les versions à installer et comment vous protéger. Le post NGINX2Root : deux failles critiques permettent d...",
+      "published": "2026-11-18T19:59:23+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f59d20678d5e9cf2477c1633d5188e54",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "published": "2026-11-18T19:39:33+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "a678fbb9471f9e77ef24cedcad2ce72d",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open...",
+      "published": "2026-11-18T18:31:17+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_qqPophooIauX16fMWm3KB24tzQ3Fd7rCuseCXfMkDPPGpIgmHqWvZjn_jffDqHwNWKu8Zf57QeKb4qsRFgdgisSAn0sMj59CscimR16RLXI1kspH0w7VYQgrsM_hPcePQOFL8QUyDC2p9W7AV0UjH3sW7oOvdWPWAZW6DITDvqIHaC_696e5kHTieY/s1600/nginx-rce.jpg"
+    },
+    {
+      "id": "e51e69194c3dc7a6b8bcf603d77a4f95",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtua...",
+      "published": "2026-11-18T18:15:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png"
+    },
+    {
+      "id": "80c8ce0e2c3e9574dcce3976750d341c",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as ...",
+      "published": "2026-11-18T17:10:45+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg"
+    },
+    {
+      "id": "ac8640926a0fb03c35edfddc2dbbfd39",
+      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+      "published": "2026-11-18T16:58:42+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "f99e03e0c2bed608d77fabb09109bacf",
+      "title": "Microsoft Ignite 2026 : les nouveautés Intune autour du poste de travail Windows",
+      "link": "https://www.it-connect.fr/ignite-nouveautes-intune-windows-poste-de-travail/",
+      "summary": "Ignite 2026 : Microsoft dévoile des nouveautés Intune et Windows pour le poste de travail, mais presque toutes sont en préversion. Voici ce qu'il faut retenir. Le post Microsoft Ignite 2026 : les nouveautés Intune aut...",
+      "published": "2026-11-18T16:36:42+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8b32e1801fb44df2d833952a49d94437",
+      "title": "Windows Server 2028 : Microsoft durcit Server Core par défaut, pour plus de sécurité",
+      "link": "https://www.it-connect.fr/windows-server-2028-server-core-durci-par-defaut/",
+      "summary": "Avec Windows Server 2028, Server Core est durci dès l'installation (SMB, TLS, WinRM, RDP, etc.). Ce qui change et comment le gérer, voici ce qu'il faut savoir. Le post Windows Server 2028 : Microsoft durcit Server Cor...",
+      "published": "2026-11-18T15:59:12+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "f1538dba91498bdd319592a4e7b4d03b",
+      "title": "FBI : avec ARTEX, certaines intrusions atteignent un accès privilégié en moins de trois heures",
+      "link": "https://www.it-connect.fr/fbi-artex-framework-ia-cyberattaques/",
+      "summary": "Le FBI alerte sur ARTEX, un framework de pentest piloté par l'IA détourné par des pirates. Certaines intrusions atteignent un accès admin en moins de 3 heures. Le post FBI : avec ARTEX, certaines intrusions atteignent...",
+      "published": "2026-11-18T15:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "609a82a2450d67623ef7417d017d14ca",
+      "title": "SkillEvaluator - Vos skills IA ont peut-être un YAML pété ?",
+      "link": "https://korben.info/skillevaluator-nvidia-skills-agents.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "SkillEvaluator, l'outil open source de NVIDIA, évalue les skills d'agents IA en trois étages. Testé sur mes douze skills : un YAML cassé noté A, et des skills que l'agent oublie souvent de charger.",
+      "published": "2026-11-18T15:10:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/skillevaluator-nvidia-skills-agents/skillevaluator-nvidia-skills-agents-1.png"
+    },
     {
       "id": "75612c531d79e01c0b24f23ad4bc697a",
       "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
@@ -11,6 +131,16 @@
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
+    },
+    {
+      "id": "5e233c2321594b71d30bb537608fd669",
+      "title": "Nextcloud Office - La suite libre qui se passe du cloud",
+      "link": "https://korben.info/nextcloud-office-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Nextcloud Office, la distribution signée d'Euro-Office, est prête à télécharger en appli de bureau gratuite sous AGPL v3 : édition hors ligne, signature numérique, dépôts APT et DNF, mais rien pour les Mac Intel.",
+      "published": "2026-11-18T14:50:03+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/nextcloud-office-desktop/nextcloud-office-desktop-1.png"
     },
     {
       "id": "ec675127a0303a93ab60118c300911d0",
@@ -153,16 +283,6 @@
       "image": ""
     },
     {
-      "id": "eb400c4d4b568d3b414bb3d91321d8bb",
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned W...",
-      "published": "2026-11-18T06:45:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LozO7RAz13Jr3eqWHIjlAF6M0Cs-mJXX2mKUqU0TxVS02piD1na92TAZjICmeySD4z0zS-Y_BFvceERBdk-UZvV1DUh1LGN6wK-T-yt_TROJ5fcuvROu807jqESQo93CFP3faBbReKMZQxvgYOAGl_vS2VzfO67O24NdAgh6d9jMO2mTSy2jaNJMPD9T/s1600/ms-python.jpg"
-    },
-    {
       "id": "793a1c957f427207a9cf37ea1cdef8ea",
       "title": "Windows Server 2028 arrive en préversion : quelles sont les nouveautés ?",
       "link": "https://www.it-connect.fr/windows-server-2028-preversion-publique-nouveautes/",
@@ -183,31 +303,11 @@
       "image": ""
     },
     {
-      "id": "a64d85f43b086df69d46b2e97e6d8d63",
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in thir...",
-      "published": "2026-11-18T05:58:04+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbxlzqi-uBPlDXGecxrfXQ8kZLpAKsDO5c7KmTTyYyNQQE6bdI0TqT7Rk_JrKRie2pMB_xrLRKy1Cksp1GYHfUGHXz7UGg5nWOAQmPmiRKoUJkMCHrMvW7A72W9x7_I7KESMQmJLQVrJth_Ozj7i1nF7IPB4W_WV-NQyy0afEMgGVbGdaSNfIjolqtC4-/s1600/cloud.jpg"
-    },
-    {
       "id": "8cb38fbbbb099f0dc452b2b55b78320b",
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
       "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlass...",
       "published": "2026-11-17T23:04:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "5e7a90d912db157f1414699d540b7fc4",
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-      "published": "2026-11-17T21:27:17+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -223,86 +323,6 @@
       "image": ""
     },
     {
-      "id": "95f82a75f7369334441e06ccf761aa9d",
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-      "published": "2026-11-17T20:51:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "2041eca737d3437ad2e7877c16d2c1fd",
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send...",
-      "published": "2026-11-17T19:34:20+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg"
-    },
-    {
-      "id": "d080f5e6d81c80273bef582915794876",
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-      "published": "2026-11-17T19:24:07+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "95727077887b0e8f2948a6f3959e1914",
-      "title": "Cyberattaque : Air France, IKEA, HSBC, Zoom… De nombreux sites ont servi du code malveillant à leurs visiteurs",
-      "link": "https://www.it-connect.fr/optimizely-pirate-scripts-malveillants-cnn-bbc-zoom/",
-      "summary": "Un pirate a détourné les scripts Optimizely de 178 organisations, dont Ikea, Transavia, CNN, la BBC et Zoom, pour voler des cartes bancaires et des cryptos. Le post Cyberattaque : Air France, IKEA, HSBC, Zoom… De nomb...",
-      "published": "2026-11-17T19:23:39+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "0e7a032a4e9762b8d48ae18e30dafbc6",
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-      "published": "2026-11-17T18:21:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "ba69abd305ef3e7e400de2008b66b030",
-      "title": "IA sur Windows 11 : Microsoft sait si vous codez avec Claude, Codex ou Cursor",
-      "link": "https://www.it-connect.fr/windows-11-telemetrie-agents-ia-codage/",
-      "summary": "Un composant de Windows 11 repère les agents IA de codage (Claude, Codex, Cursor...) et peut le signaler à Microsoft via les données de diagnostic facultatives. Le post IA sur Windows 11 : Microsoft sait si vous codez...",
-      "published": "2026-11-17T15:48:40+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "713f59526b21484a1dd5b4b18c09790e",
-      "title": "Claude Code : comment automatiser vos tâches avec le mode headless ?",
-      "link": "https://www.it-connect.fr/claude-code-mode-headless/",
-      "summary": "Apprenez à utiliser Claude Code en mode headless avec la commande claude -p pour automatiser vos tâches dans des scripts, des tâches planifiées ou en CI/CD. Le post Claude Code : comment automatiser vos tâches avec le...",
-      "published": "2026-11-17T08:45:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "6835f0022a1cec5db3cd865b147a32aa",
-      "title": "NoisyTCP : cette faille du noyau Linux vieille de 11 ans permet de faire planter un serveur à distance",
-      "link": "https://www.it-connect.fr/noisytcp-cve-2026-99288-faille-noyau-linux-tcp/",
-      "summary": "Des paquets TCP bien synchronisés, et tout le serveur tombe. NoisyTCP (CVE-2026-99288), une faille Linux vieille de 11 ans menace les serveurs Linux. Le post NoisyTCP : cette faille du noyau Linux vieille de 11 ans pe...",
-      "published": "2026-11-17T07:58:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "7d830b11eedb6a10dee78d22bb074f83",
       "title": "Les lunettes connectées d'Apple arriveraient en 2027",
       "link": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -311,6 +331,16 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027/les-lunettes-connectees-dapple-arriveraient-en-2027-1.webp"
+    },
+    {
+      "id": "cdc4334d6e8cd98bda2cf0d4885b40ef",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
+      "published": "2026-11-16T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
     },
     {
       "id": "fc0c50636a188ea269cea28c04e45aeb",
@@ -367,16 +397,6 @@
       "title": "Vulnérabilité dans les produits Axis (13 novembre 2026)",
       "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1534/",
       "summary": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-11-13T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "507c92d7f6f15701cfd813af2c4bf3f0",
-      "title": "Multiples vulnérabilités dans Node.js (13 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1531/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité ...",
       "published": "2026-11-13T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
@@ -471,26 +491,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/platypus-cligner-des-yeux-ecran/platypus-cligner-des-yeux-ecran-1.png"
-    },
-    {
-      "id": "1f520d23043136b95925c33742243295",
-      "title": "Nylon - Le VPN WireGuard qui trouve seul son chemin",
-      "link": "https://korben.info/nylon-vpn-mesh-wireguard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Nylon relie vos machines en WireGuard sans serveur de coordination : chaque nœud relaie pour les autres et le trafic suit la route de plus faible latence. À condition d'avoir un bout joignable par lien et des machines...",
-      "published": "2026-11-10T06:21:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/nylon-vpn-mesh-wireguard/nylon-vpn-mesh-wireguard-1.png"
-    },
-    {
-      "id": "7fe5c841cb8668679d32afae8a98fee8",
-      "title": "DockEcho - Un Dock sur chacun de vos écrans Mac",
-      "link": "https://korben.info/dockecho-dock-macos-chaque-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "DockEcho pose une copie synchronisée du Dock de macOS sur chaque écran externe, avec vos réglages. Open source, sous licence MIT, à compiler soi-même.",
-      "published": "2026-11-10T05:44:55+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/dockecho-dock-macos-chaque-ecran/dockecho-dock-macos-chaque-ecran-1.png"
     },
     {
       "id": "81700b692d602a4a1cf1a3a086e3b850",
