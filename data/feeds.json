@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-19T05:48:18.346552+00:00",
+  "last_updated": "2026-11-19T15:11:48.177603+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "28596d73e6d5840c37a6b41e5b26c70f",
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusio...",
+      "published": "2026-11-19T15:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fc871365b08e1f1bfd2a72a9eb56a9ac",
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kerne...",
+      "published": "2026-11-19T14:57:24+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "589942e72f1924f2f69d5b4cbb58c025",
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "published": "2026-11-19T13:08:08+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "790246065cf7ca7610dd0353d0c496a0",
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against...",
+      "published": "2026-11-19T11:52:23+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0roCfV92el2-gLSGwmumyjXgCjHookzwGjft2a6UWPZA1QvyrazDNLTvlZrF1F5iagg74JxnPEXbnK60OEeJuFNo2Fc2xcNSnJCeNw9BLu_y-lsRhrpO6s1End2gdDDlRU_r4wysTiiJS4ZKPDTmWK152psFdhxRizlSJZFCjnYr6nnamRsUciEJui4/s1600/php-app.jpg"
+    },
+    {
+      "id": "51d1fbddbc097023cf134677d3f97fd3",
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+      "published": "2026-11-19T11:46:00+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "05e9363c65cd5013f17d6b4359e10472",
+      "title": "Microsoft confirms app installation, launch issues after hotpatch",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+      "published": "2026-11-19T10:35:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "0c7457b58b35bb47b907dc4d1e2bb929",
+      "title": "Quelqu'un vit peut-être votre vie en ce moment. Comment ne plus perdre votre identité ? #sponso",
+      "link": "https://korben.info/comment-ne-plus-perdre-votre-identite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "L'article, en partenariat avec Surfshark, détaille six formes de vol d'identité : financier, fiscal, médical, judiciaire, biométrique (voix clonée avec 30 secondes d'audio) et synthétique. Il explique que le VPN protè...",
+      "published": "2026-11-19T10:21:33+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/comment-ne-plus-perdre-votre-identite/comment-ne-plus-perdre-votre-identite-1.webp"
+    },
+    {
+      "id": "dba0d2df4ffb938a8b76f9cd7ef96a29",
+      "title": "Garlic LLM : cette application fait tourner une IA de 9 milliards de paramètres sur une PS4",
+      "link": "https://www.it-connect.fr/garlic-llm-ia-locale-ps4/",
+      "summary": "Garlic LLM fait tourner l'IA Qwen3.5-9B en local sur le GPU d'une PS4 débridée, sans Internet et à plus de 30 tokens par seconde. Voici ce qu'il faut savoir. Le post Garlic LLM : cette application fait tourner une IA ...",
+      "published": "2026-11-19T10:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "5f3922dcf6b9214cea5aa77c733309f3",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We hav...",
+      "published": "2026-11-19T09:31:26+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg"
+    },
+    {
+      "id": "4c94531686ddb718676129a0615af064",
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+      "published": "2026-11-19T09:23:21+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "02b3a79a92bc3c145160f4b05588e9ed",
+      "title": "Unreal Tournament 2004 est de retour !",
+      "link": "https://korben.info/unreal-tournament-2004-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Unreal Tournament 2004 se lance maintenant dans un onglet sur ut2004.dev, sans rien installer : 2 Go stockés une fois, une dizaine de cartes et du multi en WebRTC. Les navigateurs qu'il faut, et où récupérer le jeu co...",
+      "published": "2026-11-19T08:47:16+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/unreal-tournament-2004-navigateur/unreal-tournament-2004-navigateur-1.png"
+    },
+    {
+      "id": "1226c4f144b6e5cfe93a415dd0100a20",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input ca...",
+      "published": "2026-11-19T08:42:11+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg"
+    },
+    {
+      "id": "741ae20a610e0978bb6f8bf4ab373d9d",
+      "title": "Dreamcart - Vos cartouches N64 sur la Dreamcast",
+      "link": "https://korben.info/dreamcast-cartouches-n64.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Throaty Mumbo branche de vraies cartouches N64 sur le port manette d'une Dreamcast et les fait tourner grâce à un recompilateur, sauvegardes comprises. Les jeux qui passent, et ce qu'il faut réunir pour essayer.",
+      "published": "2026-11-19T08:29:34+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/dreamcast-cartouches-n64/dreamcast-cartouches-n64-1.jpg"
+    },
+    {
+      "id": "1fbf5b9ef3a8773ee9171f436fe4e45f",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code be...",
+      "published": "2026-11-19T08:14:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg"
+    },
+    {
+      "id": "13f87e68195d2299a23b67ecc193d912",
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research E...",
+      "published": "2026-11-19T08:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg"
+    },
+    {
+      "id": "ca3691e2c65d92c7de62fc5ba1dd41e1",
+      "title": "nginx2root - Votre nginx est-il vraiment exposé ?",
+      "link": "https://korben.info/nginx2root-faille-http2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "nginx 1.31.9 et 1.30.7 corrigent cinq failles d'exécution de code à distance, et un PoC est déjà public. Mais c'est HTTP/2 activé, plus que le numéro de version, qui ouvre la porte : voici comment vérifier votre serve...",
+      "published": "2026-11-19T06:57:06+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/nginx2root-faille-http2/nginx2root-faille-http2-1.webp"
+    },
+    {
+      "id": "37d7320cb2f9edbe4e339990e948ac73",
+      "title": "Panne Microsoft 365 du 12 novembre 2026 : comment bénéficier d’un crédit de service ?",
+      "link": "https://www.it-connect.fr/panne-microsoft-365-credit-sla/",
+      "summary": "Panne Microsoft 365 du 12 novembre : le crédit SLA n'est pas automatique. Calcul, infos à fournir et démarche pour client direct ou CSP : agissez maintenant. Le post Panne Microsoft 365 du 12 novembre 2026 : comment b...",
+      "published": "2026-11-19T06:45:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "52bc9d1da787093acaeeaf301f864673",
+      "title": "Ubuntu - Les futurs correctifs seront écrits par une IA",
+      "link": "https://korben.info/canonical-surge-agents-correctifs-ubuntu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Canonical lance Surge, des agents IA qui écrivent des correctifs de sécurité pour les paquets Ubuntu, que son équipe qualifie ensuite pour tout le monde. L'archive Edge permet de les recevoir avant cette qualification...",
+      "published": "2026-11-19T05:56:20+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/canonical-surge-agents-correctifs-ubuntu/canonical-surge-agents-correctifs-ubuntu-1.png"
+    },
+    {
+      "id": "31103f181a61ceb5f1eb0ac292068bc6",
+      "title": "PHP va corriger au moins une faille critique ce jeudi : préparez-vous à mettre à jour PHP 8.2 à 8.5",
+      "link": "https://www.it-connect.fr/mise-a-jour-php-faille-critique-19-novembre-2026/",
+      "summary": "Ce 19 novembre 2026, au moins une faille de sécurité critique sera corrigée dans les branches 8.2 à 8.5 de PHP, et sans doute la CVE-2026-115560. Le post PHP va corriger au moins une faille critique ce jeudi : prépare...",
+      "published": "2026-11-19T05:55:10+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
     {
       "id": "3117898b6ee8e227e75c015727217bb0",
       "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
@@ -133,16 +323,6 @@
       "image": "https://korben.info/skillevaluator-nvidia-skills-agents/skillevaluator-nvidia-skills-agents-1.png"
     },
     {
-      "id": "75612c531d79e01c0b24f23ad4bc697a",
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how...",
-      "published": "2026-11-18T15:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "5e233c2321594b71d30bb537608fd669",
       "title": "Nextcloud Office - La suite libre qui se passe du cloud",
       "link": "https://korben.info/nextcloud-office-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -163,66 +343,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLKVaRRp02L2STeR4kakGeA1NJokTtxw2aLU4wBLS34vltviR8gV4eUjk0QJ9jDVbiS_2hSeDQCwIR_JoCzPzUt-FSNUNpaKNtHpKiMugkRAMwOIbl4FbcL5iE7KCe1hebNbJRTxqO5xQkEFBuDI6F8FnsnYfreljrQlHHXuKBEN0suJZeuIf8heda5wY/s1600/chinese.jpg"
     },
     {
-      "id": "186a434790fa0e69703fec01b36a96cc",
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open ...",
-      "published": "2026-11-18T12:28:30+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg"
-    },
-    {
-      "id": "ef8d44482a5df2f9970dd2127236b732",
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure...",
-      "published": "2026-11-18T12:15:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg"
-    },
-    {
-      "id": "deec20c9952c514f6a788f5a1317c540",
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this...",
-      "published": "2026-11-18T11:55:49+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8B-Vf6puS0vOs9mEVup755KXy8y59KD72B5VQb8SyhO1JDHkYcvg42Y1rh1xg3seyml7j2vZn5Dq1OEnFYVzD_97osoZXWkxVVOBxM48InZPbaVgV7Lo64odzPVKNPEtPeLlEAm2AFfShOFVGtypVUJAJdt07qqik_Yde9X6BxLECPH7Gekbkzl2GBDK/s1600/java4shell-flaw.jpg"
-    },
-    {
-      "id": "a16acd705aed4a3ff47b504026362f4d",
-      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-      "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-      "published": "2026-11-18T11:50:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d4449eb7ba22a313c8986649816932fb",
-      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-      "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit no...",
-      "published": "2026-11-18T11:03:57+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj276QET-ma2-edrAgsOdbZltmoW58d_kJT8C-g8DXQfDQAzPlmCcQYv-tWcX-DXcSipQpu_oFY_pPunvn-eXoog3H0BYPLkb4uY3B4Ax9T7LmtVBgVDwZZInLbj5QgnjVMI5d1za8bgR1a2TvGaJzZUK2UuSAEk3gSY-erKiddYAYTkNE9kxEp0zcx5x8/s1600/intruder.jpg"
-    },
-    {
-      "id": "394b975553dc4412d5ef3b0bfc996aa2",
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-      "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-      "published": "2026-11-18T10:35:05+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "d549cda1a6b74de3b0581879289a5948",
       "title": "PowerShell 7 va débarquer dans Windows : les jours de Windows PowerShell 5.1 sont comptés",
       "link": "https://www.it-connect.fr/powershell-7-integre-windows-powershell-5-1-deprecie/",
@@ -230,16 +350,6 @@
       "published": "2026-11-18T10:31:17+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "53c873c2599a61118a2962288e221dc7",
-      "title": "Microsoft announces Windows Server 2028 with hardened security",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-      "published": "2026-11-18T09:24:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
@@ -253,71 +363,11 @@
       "image": ""
     },
     {
-      "id": "ebd59dd6f2271f437f943770c3218a31",
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, t...",
-      "published": "2026-11-18T08:24:31+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg"
-    },
-    {
-      "id": "d9ea44e7b54b4b54e0cf284c67748dc9",
-      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
-      "published": "2026-11-18T08:24:18+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "6f22b9adc7c663a626b8e190ce54f0d1",
       "title": "Microsoft Perception : les agents IA spécialisés dans la cybersécurité sont disponibles !",
       "link": "https://www.it-connect.fr/microsoft-perception-disponibilite-generale-ignite/",
       "summary": "Project Perception devient Microsoft Perception et passe en disponibilité générale : triage des alertes, pentest web, Intune, MCP. Voici l'essentiel à retenir. Le post Microsoft Perception : les agents IA spécialisés ...",
       "published": "2026-11-18T07:53:56+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "793a1c957f427207a9cf37ea1cdef8ea",
-      "title": "Windows Server 2028 arrive en préversion : quelles sont les nouveautés ?",
-      "link": "https://www.it-connect.fr/windows-server-2028-preversion-publique-nouveautes/",
-      "summary": "Windows Server 2028 est en préversion publique : Server Core durci, NVMe natif par défaut, Intune pour les serveurs et IA locale. Voici ce qu'il faut retenir. Le post Windows Server 2028 arrive en préversion : quelles...",
-      "published": "2026-11-18T06:12:31+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "e357adf914be4234baa4ce6f69ab0899",
-      "title": "Intune : Microsoft ouvre la gestion des machines Windows Server, en préversion",
-      "link": "https://www.it-connect.fr/intune-gerer-serveurs-windows-server-preversion/",
-      "summary": "Microsoft ouvre l'inscription des serveurs Windows Server dans Intune en préversion : stratégies, mises à jour, accès conditionnel. Voici comment ça marche. Le post Intune : Microsoft ouvre la gestion des machines Win...",
-      "published": "2026-11-18T06:12:16+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8cb38fbbbb099f0dc452b2b55b78320b",
-      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlass...",
-      "published": "2026-11-17T23:04:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9f4ed65590201bd3bf495f80410c028f",
-      "title": "Le Flipper One est en précommande à 399 dollars sur Kickstarter",
-      "link": "https://www.it-connect.fr/flipper-one-kickstarter-399-dollars/",
-      "summary": "Le Flipper One, ordinateur Linux de poche de Flipper Devices, est sur Kickstarter à 399 dollars jusqu'au 17 décembre. Livraison prévue en juillet 2027. Le post Le Flipper One est en précommande à 399 dollars sur Kicks...",
-      "published": "2026-11-17T21:00:45+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
@@ -361,26 +411,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/vectors-jeu-controle-aerien-navigateur/vectors-jeu-controle-aerien-navigateur-1.png"
-    },
-    {
-      "id": "88ea4fdea859c80c8df8db29743db892",
-      "title": "Stela - Le retour du Hackintosh ?",
-      "link": "https://korben.info/stela-macos-pc-x86-hackintosh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Stela démarre macOS 27 pour Apple Silicon, sans le modifier, sur un PC x86 équipé d'une carte NVIDIA, en lui faisant croire qu'il tourne sur un Mac mini M2. Ce qu'il faut comme matériel, comment fabriquer la clé, et p...",
-      "published": "2026-11-14T01:03:37+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/stela-macos-pc-x86-hackintosh/stela-macos-pc-x86-hackintosh-1.png"
-    },
-    {
-      "id": "08dbebcc83eb457f2fc1b56d278f42cd",
-      "title": "Agent-desktop pilote vos applis sans regarder l'écran",
-      "link": "https://korben.info/agent-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "agent-desktop, de Vercel Labs, fait piloter vos applications de bureau par un agent IA en lisant l'arbre d'accessibilité plutôt que des captures d'écran. Essai sur Mac, avec TextEdit et une appli Electron, et la limit...",
-      "published": "2026-11-13T10:57:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/agent-desktop/agent-desktop-1.png"
     },
     {
       "id": "a14a0fd7f4c24c74b9b85b54b8c85382",
@@ -461,36 +491,6 @@
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
-    },
-    {
-      "id": "66daa5d9e11ab62b18fadf5d2feed99f",
-      "title": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
-      "link": "https://korben.info/modern-web-guidance-agents-web.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Modern Web Guidance glisse dans votre agent de code des guides sur les fonctionnalités natives du navigateur. Installation, scan, télémétrie et limites.",
-      "published": "2026-11-12T08:00:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/modern-web-guidance-agents-web/modern-web-guidance-agents-web-1.png"
-    },
-    {
-      "id": "13f2f39947cf66be2da2b2254e047089",
-      "title": "Synctrain - Vos fichiers Syncthing à la demande sur iPhone",
-      "link": "https://korben.info/synctrain-syncthing-iphone-ipad-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Synctrain est un client Syncthing gratuit et open source pour iPhone, iPad et Mac qui ne garde que les fichiers choisis et streame le reste depuis vos machines.",
-      "published": "2026-11-11T08:00:00+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/synctrain-syncthing-iphone-ipad-mac/synctrain-syncthing-iphone-ipad-mac-1.png"
-    },
-    {
-      "id": "f716a52fb086929bb8b3c10c4201534d",
-      "title": "Platypus - L'ornithorynque qui vous fait cligner des yeux",
-      "link": "https://korben.info/platypus-cligner-des-yeux-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Platypus Companion fait passer quelques secondes un ornithorynque en bas de l'écran, sur Mac et Windows, pour vous rappeler de cligner des yeux, de vous étirer ou de faire une pause. Version gratuite, complète à quelq...",
-      "published": "2026-11-10T06:49:52+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/platypus-cligner-des-yeux-ecran/platypus-cligner-des-yeux-ecran-1.png"
     },
     {
       "id": "81700b692d602a4a1cf1a3a086e3b850",
