@@ -1,7 +1,207 @@
 {
-  "last_updated": "2026-11-20T00:15:19.439172+00:00",
+  "last_updated": "2026-11-20T14:51:05.619924+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "0359fe95d73dcf2d76212796545fd534",
+      "title": "Mon top 5 des commandes Nmap que vous devez connaître",
+      "link": "https://www.it-connect.fr/mon-top-5-des-commandes-nmap-que-vous-devez-connaitre/",
+      "summary": "Découverte d’hôtes, détection de versions, audit SMB et HTTP, scan complet : 5 commandes Nmap pour cartographier et auditer un réseau comme un pentester. Le post Mon top 5 des commandes Nmap que vous devez connaître a...",
+      "published": "2026-11-20T14:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "ced8fb9dc519888c87ee4efda4ff8263",
+      "title": "N-able says recent security breach led to major service outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "published": "2026-11-20T13:18:36+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "bf49fa089ac3b6a30f48efea2db1eaef",
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can i...",
+      "published": "2026-11-20T12:20:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg"
+    },
+    {
+      "id": "591bae00358714f1c8858d1d4efaa38e",
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+      "published": "2026-11-20T12:14:28+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "fb4a18f34f813feba7e5581cb908c441",
+      "title": "The Path to AI Autonomy in the SOC",
+      "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomous...",
+      "published": "2026-11-20T12:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png"
+    },
+    {
+      "id": "2f6f95fc7e5be66b4a2c538c21dc8770",
+      "title": "FastUnlock : une faille zero-day Windows 11 contourne l’écran de verrouillage et menace BitLocker",
+      "link": "https://www.it-connect.fr/fastunlock-zero-day-windows-11-bitlocker-narrateur/",
+      "summary": "FastUnlock, nouvelle zero-day publiée par Nightmare Eclipse, contourne l'écran de verrouillage de Windows 11 via le Narrateur et menace BitLocker. Le post FastUnlock : une faille zero-day Windows 11 contourne l’écran ...",
+      "published": "2026-11-20T11:06:58+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "020cc916168672222488212597574187",
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+      "published": "2026-11-20T10:57:43+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ad718c0cc3d82317989206a7413d8aa3",
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"A...",
+      "published": "2026-11-20T10:38:22+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn5oji8gd4l_d6wKemSflqTX-q-eiuu4CbbV2ROvzK6Gzpeq8zPsQyGb-UO80f_M8L2pDNNyNqF1ZIdyMPGReyW0KmPb7uuAuRu1M-ZVyNu-GJvx1CRaBsaEOVjV-asFG0P__0MK0Jp3WPJmcNxATiSd6NeBzcCmy-6dLvS5yvpen0cRrwLZvgVpYAvn0/s1600/sonicwall.jpg"
+    },
+    {
+      "id": "171aaf4f8176342d3148f47670c42065",
+      "title": "Signal bloque les captures pour tenir Gemini et Siri à distance",
+      "link": "https://korben.info/signal-bloque-captures-ecran-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Signal bloque les captures d'écran sur iOS 27 et active sa protection sur Android quand un assistant IA lit l'écran. Ce n'est pas une faille, la parade a des trous, et Signal réclame aux éditeurs d'OS un vrai droit de...",
+      "published": "2026-11-20T10:36:02+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/signal-bloque-captures-ecran-ia/signal-bloque-captures-ecran-ia-1.png"
+    },
+    {
+      "id": "2c70ac04df1b40abf9c18ff81924d63a",
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The ac...",
+      "published": "2026-11-20T10:32:50+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg"
+    },
+    {
+      "id": "c179de6fc560a3d5460ff93dfd5aa9d1",
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. ...",
+      "published": "2026-11-20T09:38:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg"
+    },
+    {
+      "id": "a7a67812faf6d6b11f7fa395b8c93000",
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+      "published": "2026-11-20T09:25:35+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8b1f9e0ca141dff1337797ac59b7d7be",
+      "title": "Black Friday pCloud - Plans à vie, Photos AI, Docs et NAS #sponso",
+      "link": "https://korben.info/pcloud-black-friday-2026.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Du 13 au 28 novembre, pCloud met ses plans de stockage à vie en promo et pousse trois fonctions : Photos AI, Docs et la sauvegarde de NAS. Ce que chacune demande, et ce que « à vie » veut dire dans ses CGU.",
+      "published": "2026-11-20T09:09:51+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pcloud-black-friday-2026/pcloud-black-friday-2026-1.png"
+    },
+    {
+      "id": "d672eaa1a8e2c4f47ebfdab98ae92cea",
+      "title": "Youtubeurs engagés - L'Arcom impose un temps de parole",
+      "link": "https://korben.info/arcom-pluralisme-createurs-presidentielle.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Pour la présidentielle 2027, l'Arcom applique aux grosses chaînes vidéo qui parlent de politique l'équité puis l'égalité du temps de parole des télés. Qui est visé, ce que ça impose aux chaînes engagées, ce qu'elles r...",
+      "published": "2026-11-20T08:56:52+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/arcom-pluralisme-createurs-presidentielle/arcom-pluralisme-createurs-presidentielle-1.png"
+    },
+    {
+      "id": "677e5f6a789c66e6bdd03170a150eef1",
+      "title": "Farcall - Un PC de 1981 qui s'ouvre dans votre terminal",
+      "link": "https://korben.info/farcall-emulateur-dos-ssh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Farcall émule le premier IBM PC et son 8088, écrit en Rust par un développeur qui voulait comprendre la machine. Son serveur SSH public sert FreeDOS, Zork ou NetHack dans le terminal. Ce que l'auteur annonce, et ce qu...",
+      "published": "2026-11-20T08:10:36+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/farcall-emulateur-dos-ssh/farcall-emulateur-dos-ssh-1.png"
+    },
+    {
+      "id": "48d4a1b42637916484cc2ceedbac09fe",
+      "title": "Faire tourner une RTX 5060 sous Windows 7, à vos risques et périls",
+      "link": "https://korben.info/directx-12-windows-7-wddm2win7.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "WDDM2Win7 porte WDDM 2 sur Windows 7 : RTX 5060, RX 9060 XT et DirectX 12 apparaissent sur les captures. Mais ce sont des pilotes non vérifiables sur un OS sans correctifs, donc machine de bidouille uniquement.",
+      "published": "2026-11-20T07:55:56+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/directx-12-windows-7-wddm2win7/directx-12-windows-7-wddm2win7-1.png"
+    },
+    {
+      "id": "a2af5d67b2b2a2e5313214fdda6782d1",
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operat...",
+      "published": "2026-11-20T07:11:39+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugg63OPJwZuh94vDIg7MkA4YoeLKr5sjiqI6CEgjvDjUvJ-pBJOfUrUBxPUTbartqVwdldczbKSYo6lpkcVic1EDQYIDyWq12zMdMONjpDtK4NKCgkppAWvnOJpXe7prfmRG8WNpH0RrQ0bhX2nZKGpRy33y0OMZraBjEPoDorp9h3kNJSa-IQrJC7Nl5/s1600/cf.jpg"
+    },
+    {
+      "id": "8eaf90e4045ee24f95f5dd647d596abb",
+      "title": "NAS Synology : une mise à jour DSM corrige deux failles critiques, dont NGINX2Root",
+      "link": "https://www.it-connect.fr/nginx2root-synology-dsm-faille-oauth-cve-2026-120382/",
+      "summary": "Synology a publié deux bulletins critiques pour DSM : la faille NGINX2Root et une faille notée 9,8 sur 10 dans OAuth Service. Voici comment protéger votre NAS. Le post NAS Synology : une mise à jour DSM corrige deux f...",
+      "published": "2026-11-20T06:04:17+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "4f259a98db3ff2adc498a93eb3b2405a",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not admin...",
+      "published": "2026-11-20T05:30:01+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg"
+    },
+    {
+      "id": "21f62923abce367fd8cf0e23441c6f20",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "published": "2026-11-20T00:26:25+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "d34a04be557c8e39794255864a37ff1d",
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
@@ -133,16 +333,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg"
     },
     {
-      "id": "18306cc167b8fd22b7d9c1bd7151dc0d",
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions...",
-      "published": "2026-11-19T15:11:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg"
-    },
-    {
       "id": "28596d73e6d5840c37a6b41e5b26c70f",
       "title": "Five warning signs of ransomware breach before encryption or data theft",
       "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
@@ -153,26 +343,6 @@
       "image": ""
     },
     {
-      "id": "fc871365b08e1f1bfd2a72a9eb56a9ac",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kerne...",
-      "published": "2026-11-19T14:57:24+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "9bb7a0fdd0f7a3ac57a673991ba46463",
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remo...",
-      "published": "2026-11-19T14:33:06+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg"
-    },
-    {
       "id": "045a1624d748c90877e5e1a3ac76b5ee",
       "title": "Test des devolo BE9300 et BE6500, le mesh WiFi 7 que j'installe chez tous mes potes",
       "link": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -181,46 +351,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes-1.jpg"
-    },
-    {
-      "id": "589942e72f1924f2f69d5b4cbb58c025",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "published": "2026-11-19T13:08:08+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "790246065cf7ca7610dd0353d0c496a0",
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against...",
-      "published": "2026-11-19T11:52:23+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0roCfV92el2-gLSGwmumyjXgCjHookzwGjft2a6UWPZA1QvyrazDNLTvlZrF1F5iagg74JxnPEXbnK60OEeJuFNo2Fc2xcNSnJCeNw9BLu_y-lsRhrpO6s1End2gdDDlRU_r4wysTiiJS4ZKPDTmWK152psFdhxRizlSJZFCjnYr6nnamRsUciEJui4/s1600/php-app.jpg"
-    },
-    {
-      "id": "51d1fbddbc097023cf134677d3f97fd3",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "published": "2026-11-19T11:46:00+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "05e9363c65cd5013f17d6b4359e10472",
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-      "published": "2026-11-19T10:35:05+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "0c7457b58b35bb47b907dc4d1e2bb929",
@@ -243,26 +373,6 @@
       "image": ""
     },
     {
-      "id": "5f3922dcf6b9214cea5aa77c733309f3",
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We hav...",
-      "published": "2026-11-19T09:31:26+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg"
-    },
-    {
-      "id": "4c94531686ddb718676129a0615af064",
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-      "published": "2026-11-19T09:23:21+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "02b3a79a92bc3c145160f4b05588e9ed",
       "title": "Unreal Tournament 2004 est de retour !",
       "link": "https://korben.info/unreal-tournament-2004-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -271,16 +381,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/unreal-tournament-2004-navigateur/unreal-tournament-2004-navigateur-1.png"
-    },
-    {
-      "id": "1226c4f144b6e5cfe93a415dd0100a20",
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input ca...",
-      "published": "2026-11-19T08:42:11+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg"
     },
     {
       "id": "741ae20a610e0978bb6f8bf4ab373d9d",
@@ -293,36 +393,6 @@
       "image": "https://korben.info/dreamcast-cartouches-n64/dreamcast-cartouches-n64-1.jpg"
     },
     {
-      "id": "1fbf5b9ef3a8773ee9171f436fe4e45f",
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code be...",
-      "published": "2026-11-19T08:14:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg"
-    },
-    {
-      "id": "13f87e68195d2299a23b67ecc193d912",
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research E...",
-      "published": "2026-11-19T08:00:00+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg"
-    },
-    {
-      "id": "ca3691e2c65d92c7de62fc5ba1dd41e1",
-      "title": "nginx2root - Votre nginx est-il vraiment exposé ?",
-      "link": "https://korben.info/nginx2root-faille-http2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "nginx 1.31.9 et 1.30.7 corrigent cinq failles d'exécution de code à distance, et un PoC est déjà public. Mais c'est HTTP/2 activé, plus que le numéro de version, qui ouvre la porte : voici comment vérifier votre serve...",
-      "published": "2026-11-19T06:57:06+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/nginx2root-faille-http2/nginx2root-faille-http2-1.webp"
-    },
-    {
       "id": "37d7320cb2f9edbe4e339990e948ac73",
       "title": "Panne Microsoft 365 du 12 novembre 2026 : comment bénéficier d’un crédit de service ?",
       "link": "https://www.it-connect.fr/panne-microsoft-365-credit-sla/",
@@ -333,151 +403,81 @@
       "image": ""
     },
     {
-      "id": "52bc9d1da787093acaeeaf301f864673",
-      "title": "Ubuntu - Les futurs correctifs seront écrits par une IA",
-      "link": "https://korben.info/canonical-surge-agents-correctifs-ubuntu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Canonical lance Surge, des agents IA qui écrivent des correctifs de sécurité pour les paquets Ubuntu, que son équipe qualifie ensuite pour tout le monde. L'archive Edge permet de les recevoir avant cette qualification...",
-      "published": "2026-11-19T05:56:20+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/canonical-surge-agents-correctifs-ubuntu/canonical-surge-agents-correctifs-ubuntu-1.png"
-    },
-    {
-      "id": "31103f181a61ceb5f1eb0ac292068bc6",
-      "title": "PHP va corriger au moins une faille critique ce jeudi : préparez-vous à mettre à jour PHP 8.2 à 8.5",
-      "link": "https://www.it-connect.fr/mise-a-jour-php-faille-critique-19-novembre-2026/",
-      "summary": "Ce 19 novembre 2026, au moins une faille de sécurité critique sera corrigée dans les branches 8.2 à 8.5 de PHP, et sans doute la CVE-2026-115560. Le post PHP va corriger au moins une faille critique ce jeudi : prépare...",
-      "published": "2026-11-19T05:55:10+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "03d9214d2c4057e4113d607ae1e86fce",
-      "title": "NGINX2Root : deux failles critiques permettent de prendre le contrôle d’un serveur NGINX",
-      "link": "https://www.it-connect.fr/nginx2root-failles-cve-2026-123007-rce/",
-      "summary": "Failles NGINX : CVE-2026-123007 et CVE-2026-123633 permettent d'exécuter du code à distance via HTTP/2. Voici les versions à installer et comment vous protéger. Le post NGINX2Root : deux failles critiques permettent d...",
-      "published": "2026-11-18T19:59:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "f99e03e0c2bed608d77fabb09109bacf",
-      "title": "Microsoft Ignite 2026 : les nouveautés Intune autour du poste de travail Windows",
-      "link": "https://www.it-connect.fr/ignite-nouveautes-intune-windows-poste-de-travail/",
-      "summary": "Ignite 2026 : Microsoft dévoile des nouveautés Intune et Windows pour le poste de travail, mais presque toutes sont en préversion. Voici ce qu'il faut retenir. Le post Microsoft Ignite 2026 : les nouveautés Intune aut...",
-      "published": "2026-11-18T16:36:42+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "609a82a2450d67623ef7417d017d14ca",
-      "title": "SkillEvaluator - Vos skills IA ont peut-être un YAML pété ?",
-      "link": "https://korben.info/skillevaluator-nvidia-skills-agents.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "SkillEvaluator, l'outil open source de NVIDIA, évalue les skills d'agents IA en trois étages. Testé sur mes douze skills : un YAML cassé noté A, et des skills que l'agent oublie souvent de charger.",
-      "published": "2026-11-18T15:10:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/skillevaluator-nvidia-skills-agents/skillevaluator-nvidia-skills-agents-1.png"
-    },
-    {
-      "id": "5e233c2321594b71d30bb537608fd669",
-      "title": "Nextcloud Office - La suite libre qui se passe du cloud",
-      "link": "https://korben.info/nextcloud-office-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Nextcloud Office, la distribution signée d'Euro-Office, est prête à télécharger en appli de bureau gratuite sous AGPL v3 : édition hors ligne, signature numérique, dépôts APT et DNF, mais rien pour les Mac Intel.",
-      "published": "2026-11-18T14:50:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/nextcloud-office-desktop/nextcloud-office-desktop-1.png"
-    },
-    {
-      "id": "62ba7f25e81bd18cb41bd706f50ca155",
-      "title": "Multiples vulnérabilités dans Typo3 (17 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1553/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l...",
-      "published": "2026-11-17T00:00:00+00:00",
+      "id": "d3ff0e5f33cbd6a56afe5a23def59605",
+      "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une...",
+      "published": "2026-11-19T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "de33aa5dd65727ad8607a3d3e2ff2593",
-      "title": "Vulnérabilité dans Juniper Networks Junos OS Evolved (17 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1551/",
-      "summary": "Une vulnérabilité a été découverte dans Juniper Networks Junos OS Evolved. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "published": "2026-11-17T00:00:00+00:00",
+      "id": "64c9dbdc6c96f919afeb96fa04883b42",
+      "title": "Multiples vulnérabilités dans les produits F5 (18 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1567/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la p...",
+      "published": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "7aacf203765454f673b013e49aac6859",
-      "title": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une att...",
-      "published": "2026-11-17T00:00:00+00:00",
+      "id": "53750e20d0b7edb3baa40222ac7a69ca",
+      "title": "Multiples vulnérabilités dans Oracle Weblogic (18 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1565/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une at...",
+      "published": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "e1fe8cee584f850dd13c4caf64144926",
-      "title": "Multiples vulnérabilités dans Tenable Identity Exposure (17 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1550/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-11-17T00:00:00+00:00",
+      "id": "42fc0f686f5c61d5d3c1ad18796d8ee0",
+      "title": "Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrit...",
+      "published": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "f8cfd2e6b8b6b1888f9670c5ed3b8184",
-      "title": "Vulnérabilité dans Axis OS (17 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1549/",
-      "summary": "Une vulnérabilité a été découverte dans Axis OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "published": "2026-11-17T00:00:00+00:00",
+      "id": "936cf2a629b94889339f6000e5095456",
+      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une at...",
+      "published": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "35f711c78c9d2c1bcd1b1c00e0abe8b0",
-      "title": "Multiples vulnérabilités dans Microsoft SharePoint (17 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1555/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft SharePoint. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-      "published": "2026-11-17T00:00:00+00:00",
+      "id": "cc3d64c518aa49125dcdc4e557ec68ef",
+      "title": "Multiples vulnérabilités dans Oracle Virtualization (18 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1566/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et ...",
+      "published": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "7d830b11eedb6a10dee78d22bb074f83",
-      "title": "Les lunettes connectées d'Apple arriveraient en 2027",
-      "link": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Selon Mark Gurman de Bloomberg, Apple viserait une présentation de ses premières lunettes connectées (code N50) à la WWDC de juin 2027, avec des livraisons avant fin 2027. Sans affichage dans les verres, elles reposen...",
-      "published": "2026-11-16T15:49:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027/les-lunettes-connectees-dapple-arriveraient-en-2027-1.webp"
-    },
-    {
-      "id": "cdc4334d6e8cd98bda2cf0d4885b40ef",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-11-16T00:00:00+00:00",
+      "id": "aa813dea063c444e63568a74bee9cfa0",
+      "title": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
+      "summary": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'...",
+      "published": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "bf49fe6151a9429ad2b918c2f895635e",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (16 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1546/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "published": "2026-11-16T00:00:00+00:00",
+      "id": "bb725ed40381d1c82bdf641920778196",
+      "title": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
+      "summary": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBM...",
+      "published": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
