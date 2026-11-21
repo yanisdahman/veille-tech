@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-21T14:09:18.441290+00:00",
+  "last_updated": "2026-11-21T22:44:27.481747+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "414a2ae1b8fe5a26409a252bfd82578f",
+      "title": "Apple - Londres ne peut plus cacher son injonction sur iCloud",
+      "link": "https://korben.info/apple-porte-derobee-icloud-royaume-uni.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le tribunal britannique des pouvoirs d'enquête confirme que le Home Office a remis à Apple une injonction technique, secret que même le chatbot de Google connaissait. Son contenu reste caché, la Protection avancée des...",
+      "published": "2026-11-21T19:40:41+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/apple-porte-derobee-icloud-royaume-uni/apple-porte-derobee-icloud-royaume-uni-1.png"
+    },
+    {
+      "id": "e230a0b62461caf68330dbaf252cf988",
+      "title": "Windows NT 4.0 sur un Raspberry Pi, c'est inutile donc indispensable",
+      "link": "https://korben.info/pint-windows-nt-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "PINT fait démarrer Windows NT 4.0 sur les Raspberry Pi 2, 3, 4 et Zero 2 W, avec Wi-Fi, son et Pinball rangé à sa place. Mais aucune image n'est fournie : il faut compiler avec des sources Windows que le dépôt ne cont...",
+      "published": "2026-11-21T18:34:10+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/pint-windows-nt-raspberry-pi/pint-windows-nt-raspberry-pi-1.jpg"
+    },
+    {
+      "id": "e875c042a7803956f73b51ab3ed52b9c",
+      "title": "Plex lâche TheTVDB",
+      "link": "https://korben.info/plex-abandonne-thetvdb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le 3 décembre, Plex ne récupère plus rien chez TheTVDB. Rien n'est effacé, mais l'ancien agent cesse de fonctionner, et les séries en cours suivies en ordre DVD ou absolu risquent de mal ranger leurs nouveaux épisodes...",
+      "published": "2026-11-21T18:19:38+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/plex-abandonne-thetvdb/plex-abandonne-thetvdb-1.png"
+    },
+    {
+      "id": "3ac5106debba78e211e09786789f3861",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant c...",
+      "published": "2026-11-21T18:01:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "771c1cf9cd0749aaed8389ba66565e0d",
+      "title": "J'ai testé l'API d'ibou",
+      "link": "https://korben.info/ibou-api-recherche-tuto.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "L'API de recherche du moteur français ibou se branche en quelques lignes de Python sur un agent IA ou sur une veille de nom. Coût mesuré, opérateurs qui marchent, et un index qui ne voit pas encore l'actu des derniers...",
+      "published": "2026-11-21T16:52:08+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/ibou-api-recherche-tuto/ibou-api-recherche-tuto-1.png"
+    },
+    {
+      "id": "4fa83550e4dfc642810ede6fde3c3452",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+      "published": "2026-11-21T15:17:27+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "68a7cdaa6f8dfb25a4abe76a2ca8da3a",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and fede...",
+      "published": "2026-11-21T14:26:04+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "8790eca7690bf9bded9a76d0fa9921e7",
       "title": "Sysinternals : Autoruns arrive sur Linux et Process Explorer sur macOS",
@@ -253,16 +323,6 @@
       "image": "https://korben.info/signal-bloque-captures-ecran-ia/signal-bloque-captures-ecran-ia-1.png"
     },
     {
-      "id": "a7a67812faf6d6b11f7fa395b8c93000",
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-      "published": "2026-11-20T09:25:35+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "8b1f9e0ca141dff1337797ac59b7d7be",
       "title": "Black Friday pCloud - Plans à vie, Photos AI, Docs et NAS #sponso",
       "link": "https://korben.info/pcloud-black-friday-2026.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -313,26 +373,6 @@
       "image": ""
     },
     {
-      "id": "21f62923abce367fd8cf0e23441c6f20",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "published": "2026-11-20T00:26:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d34a04be557c8e39794255864a37ff1d",
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging t...",
-      "published": "2026-11-19T22:25:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "c6c8a45085a8731f557383c5a2ed5cc2",
       "title": "VMware vCenter : une faille critique exploitée comme zero-day depuis septembre 2026",
       "link": "https://www.it-connect.fr/vmware-vcenter-cve-2026-123890-zero-day/",
@@ -341,16 +381,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "130891877561d63bde9ea6e03612622e",
-      "title": "Windows 11 va bientôt noter le niveau de sécurité de votre PC",
-      "link": "https://korben.info/windows-baseline-protection.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Avec la baseline protection, en préversion, Windows 11 résume huit protections en un seul oui ou non que les applis pourront lire. Ce qui est vérifié, ce que les éditeurs peuvent en faire, et quels PC risquent de se f...",
-      "published": "2026-11-19T17:08:25+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/windows-baseline-protection/windows-baseline-protection-1.png"
     },
     {
       "id": "b33ba783ac11d08c2aa7c7f43be3ea5d",
@@ -371,36 +401,6 @@
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
-    },
-    {
-      "id": "045a1624d748c90877e5e1a3ac76b5ee",
-      "title": "Test des devolo BE9300 et BE6500, le mesh WiFi 7 que j'installe chez tous mes potes",
-      "link": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Korben teste le pack de trois devolo WiFi 7 Mesh BE9300 (environ 700 euros), tri-bande avec 9,3 Gbit/s annoncés, un port 2,5 Gbit/s et trois ports Gigabit. Le BE6500, à 150 euros la borne, 6,5 Gbit/s et deux bandes, s...",
-      "published": "2026-11-19T14:26:40+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes-1.jpg"
-    },
-    {
-      "id": "0c7457b58b35bb47b907dc4d1e2bb929",
-      "title": "Quelqu'un vit peut-être votre vie en ce moment. Comment ne plus perdre votre identité ? #sponso",
-      "link": "https://korben.info/comment-ne-plus-perdre-votre-identite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "L'article, en partenariat avec Surfshark, détaille six formes de vol d'identité : financier, fiscal, médical, judiciaire, biométrique (voix clonée avec 30 secondes d'audio) et synthétique. Il explique que le VPN protè...",
-      "published": "2026-11-19T10:21:33+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/comment-ne-plus-perdre-votre-identite/comment-ne-plus-perdre-votre-identite-1.webp"
-    },
-    {
-      "id": "02b3a79a92bc3c145160f4b05588e9ed",
-      "title": "Unreal Tournament 2004 est de retour !",
-      "link": "https://korben.info/unreal-tournament-2004-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Unreal Tournament 2004 se lance maintenant dans un onglet sur ut2004.dev, sans rien installer : 2 Go stockés une fois, une dizaine de cartes et du multi en WebRTC. Les navigateurs qu'il faut, et où récupérer le jeu co...",
-      "published": "2026-11-19T08:47:16+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/unreal-tournament-2004-navigateur/unreal-tournament-2004-navigateur-1.png"
     },
     {
       "id": "d3ff0e5f33cbd6a56afe5a23def59605",
