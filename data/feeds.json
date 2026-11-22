@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-21T22:44:27.481747+00:00",
+  "last_updated": "2026-11-22T04:56:28.988112+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "577061a5363c99c29cff8cb988ced05f",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "published": "2026-11-21T22:59:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
     {
       "id": "414a2ae1b8fe5a26409a252bfd82578f",
       "title": "Apple - Londres ne peut plus cacher son injonction sur iCloud",
@@ -290,16 +300,6 @@
       "published": "2026-11-20T11:06:58+00:00",
       "source": "IT-Connect",
       "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "020cc916168672222488212597574187",
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-      "published": "2026-11-20T10:57:43+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
       "image": ""
     },
     {
