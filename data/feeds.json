@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-23T17:17:56.258598+00:00",
+  "last_updated": "2026-11-24T03:45:51.166082+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "1cd12393355ace5c88f66e0312dbc1c1",
+      "title": "rust-anything : cet outil open source aide les agents IA à réécrire vos applications en Rust",
+      "link": "https://www.it-connect.fr/rust-anything-reecrire-application-rust-agents-ia/",
+      "summary": "Grâce à rust-anything, vous pouvez piloter un agent IA pour réécrire en Rust une application, tout en vérifiant chaque étape pour vous assurer du résultat. Le post rust-anything : cet outil open source aide les agents...",
+      "published": "2026-11-24T03:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "bfd8c41e004330b20ab5283566ea1b26",
+      "title": "Entra Connect Health : une faille exploitée a exposé les e-mails des admins de tenants Microsoft",
+      "link": "https://www.it-connect.fr/entra-connect-health-faille-exploitee-metadonnees-tenants/",
+      "summary": "Une faille dans l'API d'Entra Connect Health a été exploitée pour lire les métadonnées de tenants, dont les e-mails des admins. Voici ce qu'il faut savoir. Le post Entra Connect Health : une faille exploitée a exposé ...",
+      "published": "2026-11-24T02:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "9ae49cb371d25d34017d2a201df08540",
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "published": "2026-11-23T20:54:51+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "6ff4710e1b26d15edf4cea7492842520",
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+      "published": "2026-11-23T20:00:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "46973957d2c3932823cf87be81463672",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks agai...",
+      "published": "2026-11-23T19:42:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ce19c4d88baf5fb82bc821f0a269768c",
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "published": "2026-11-23T18:38:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "179c48d5c34feb176276a4393f3a011c",
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it a...",
+      "published": "2026-11-23T17:45:15+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
+    },
     {
       "id": "1053e33ca562513f300bdbed6b120964",
       "title": "Kudu, FluentCleaner, BleachBit, etc… Lequel choisir pour remplacer CCleaner ?",
@@ -243,16 +313,6 @@
       "image": ""
     },
     {
-      "id": "e22d844f5cc6e720e39760c1e438df96",
-      "title": "GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM",
-      "link": "https://www.it-connect.fr/gl-inet-goodcloud-routeurs-kvm-malware/",
-      "summary": "GL.iNet confirme qu'une faille de son cloud GoodCloud a servi à installer un malware sur des routeurs et des KVM. Voici ce qu'il faut savoir. Le post GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter...",
-      "published": "2026-11-23T07:49:13+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "22b7049d11bd95c1d833f0ba56c184a2",
       "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
@@ -283,36 +343,6 @@
       "image": "https://korben.info/incogni-adresses/incogni-adresses-1.webp"
     },
     {
-      "id": "0c7ba107785c12c8147e11f442dc8a17",
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and re...",
-      "published": "2026-11-22T18:45:37+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "07ce35c33a8d0b20872e707947f02fcb",
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-      "published": "2026-11-22T15:43:04+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "592626ee88c9021ef3c60367d52efea6",
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
-      "published": "2026-11-22T15:15:25+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "ae6e92c39a9e03243e6bda0fa4ceacb7",
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
       "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
@@ -331,16 +361,6 @@
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
-    },
-    {
-      "id": "577061a5363c99c29cff8cb988ced05f",
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-      "published": "2026-11-21T22:59:58+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "414a2ae1b8fe5a26409a252bfd82578f",
@@ -381,26 +401,6 @@
       "source": "Korben",
       "category": "outils",
       "image": "https://korben.info/ibou-api-recherche-tuto/ibou-api-recherche-tuto-1.png"
-    },
-    {
-      "id": "8790eca7690bf9bded9a76d0fa9921e7",
-      "title": "Sysinternals : Autoruns arrive sur Linux et Process Explorer sur macOS",
-      "link": "https://www.it-connect.fr/sysinternals-autoruns-linux-process-explorer-macos/",
-      "summary": "Vous utilisez Autoruns sous Windows ? L'outil Sysinternals a désormais une version Linux, et Process Explorer débarque sur macOS. Voici ce qu'il faut retenir. Le post Sysinternals : Autoruns arrive sur Linux et Proces...",
-      "published": "2026-11-21T12:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1673f2e52589418b45e9903c0f546b46",
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to re...",
-      "published": "2026-11-21T11:53:07+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg"
     },
     {
       "id": "d3ff0e5f33cbd6a56afe5a23def59605",
