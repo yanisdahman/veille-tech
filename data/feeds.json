@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-24T16:55:31.431487+00:00",
+  "last_updated": "2026-11-25T01:52:55.038716+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "3ffc4563d26775d485976a962aec6d79",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and ...",
+      "published": "2026-11-24T21:37:30+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "8d33b3ebc358d76e215dff48ae67285b",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "published": "2026-11-24T20:21:20+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "24493133bb7904c1475984de6a6bb2df",
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "published": "2026-11-24T18:59:52+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "ce3052b7ea510ec00df8edb38922d868",
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was lef...",
+      "published": "2026-11-24T17:49:05+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "c7c28586c5534ec81513c7ae539fd5ec",
+      "title": "ElixirOffice : une suite bureautique open source qui s’adresse aux habitués de Microsoft Office",
+      "link": "https://www.it-connect.fr/elixiroffice-suite-bureautique-libre-microsoft-office/",
+      "summary": "ElixirOffice, la suite libre de Gaël Duval basée sur Euro-Office, reprend le ruban, les menus et les raccourcis de Microsoft Office. Voici ce qu'il faut savoir. Le post ElixirOffice : une suite bureautique open source...",
+      "published": "2026-11-24T17:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "1b79e713cb453f634be5ae0dd564f327",
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a b...",
+      "published": "2026-11-24T16:54:07+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg"
+    },
     {
       "id": "6e868d4a5988ed46bf65b91f06b5dcf9",
       "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
@@ -58,16 +118,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
       "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
       "published": "2026-11-24T14:09:37+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6490509bd2c93c74603aae1facdd1c11",
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without rest...",
-      "published": "2026-11-24T13:34:23+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -293,61 +343,11 @@
       "image": ""
     },
     {
-      "id": "9ae49cb371d25d34017d2a201df08540",
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-      "published": "2026-11-23T20:54:51+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "6ff4710e1b26d15edf4cea7492842520",
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-      "published": "2026-11-23T20:00:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "46973957d2c3932823cf87be81463672",
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks agai...",
-      "published": "2026-11-23T19:42:20+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "179c48d5c34feb176276a4393f3a011c",
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it a...",
-      "published": "2026-11-23T17:45:15+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
-    },
-    {
       "id": "1053e33ca562513f300bdbed6b120964",
       "title": "Kudu, FluentCleaner, BleachBit, etc… Lequel choisir pour remplacer CCleaner ?",
       "link": "https://www.it-connect.fr/alternative-ccleaner-logiciels-nettoyage/",
       "summary": "Par quoi remplacer CCleaner ? Kudu, FluentCleaner, BleachBit, PrivaZer, Glary Utilities et PC Manager comparés, avec la vidéo de démonstration. Le post Kudu, FluentCleaner, BleachBit, etc… Lequel choisir pour remplace...",
       "published": "2026-11-23T17:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "61b662c1ddd92954770b2f678a80be54",
-      "title": "Windows Admin Center vMode : la migration de VMware ESXi vers Hyper-V arrive en préversion privée",
-      "link": "https://www.it-connect.fr/windows-admin-center-vmode-vm-conversion-vmware-hyper-v/",
-      "summary": "Microsoft intègre VM Conversion à Windows Admin Center vMode pour migrer des VM VMware ESXi vers Hyper-V. Une préversion privée qui change l'architecture. Le post Windows Admin Center vMode : la migration de VMware ES...",
-      "published": "2026-11-23T16:30:00+00:00",
       "source": "IT-Connect",
       "category": "reseau",
       "image": ""
