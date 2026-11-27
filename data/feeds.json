@@ -1,7 +1,297 @@
 {
-  "last_updated": "2026-11-27T01:27:40.755138+00:00",
+  "last_updated": "2026-11-27T16:04:27.253207+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "eb2f06f2c81229e87e9e669ddde79d6e",
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+      "published": "2026-11-27T15:09:40+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "e471e04f50416755129478ce7dde711e",
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, ...",
+      "published": "2026-11-27T15:00:10+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "05fd220bbffe48aa351b69431d62e258",
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protect...",
+      "published": "2026-11-27T14:22:06+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9511f06980a44bba06eb457e492b4a24",
+      "title": "Mini-Kit - Pour faire un bilan de santé de votre Windows",
+      "link": "https://korben.info/mini-kit-diagnostic-rapide-pc-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Le Mini-Kit de titou, sur le forum TeamAAZ, ausculte Windows 10 et 11 sans toucher à ses réglages, depuis un seul fichier .bat, avec interface et rapport HTML. Essayé en VM : un score qui dit ce qu'il n'a pas vérifié,...",
+      "published": "2026-11-27T13:49:54+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/mini-kit-diagnostic-rapide-pc-windows/mini-kit-diagnostic-rapide-pc-windows-1.png"
+    },
+    {
+      "id": "4532140346289b585f18a4eb3b334575",
+      "title": "Obsidian Skills - Laissez votre agent IA ranger vos notes",
+      "link": "https://korben.info/obsidian-skills-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Les skills de Steph Ango deviennent un plugin officiel d'Obsidian pour Claude, ChatGPT ou Cursor. Votre agent apprend wikiliens, Bases et Canvas, et pilote l'app via la CLI depuis un agent local. Ce qu'il faut, ce qu'...",
+      "published": "2026-11-27T12:45:15+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/obsidian-skills-agents-ia/obsidian-skills-agents-ia-1.png"
+    },
+    {
+      "id": "51a32a25562a7ca821aaec718a7ec286",
+      "title": "Faux GTA 6 sur PC - Attention à cette commande mortelle",
+      "link": "https://korben.info/faux-gta-vi-pc-github-clickfix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "De faux portages PC de GTA 6 sur GitHub et un faux client de streaming demandent de coller une commande qui installe un voleur de données. Les trois signaux qui trahissent le piège, et quoi faire si vous l'avez déjà l...",
+      "published": "2026-11-27T12:31:07+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/faux-gta-vi-pc-github-clickfix/faux-gta-vi-pc-github-clickfix-1.png"
+    },
+    {
+      "id": "60a8482fa04555b08337f98a6159a2fe",
+      "title": "AliasVault - Des alias mail qui ne quittent jamais votre coffre-fort",
+      "link": "https://korben.info/aliasvault-mots-de-passe-alias-email.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "AliasVault est un gestionnaire de mots de passe open source qui donne une adresse email à chaque compte et garde le courrier chiffré dans le coffre, sans rien transférer vers votre vraie boîte. Ce que ça change, ce qu...",
+      "published": "2026-11-27T11:54:38+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/aliasvault-mots-de-passe-alias-email/aliasvault-mots-de-passe-alias-email-1.jpg"
+    },
+    {
+      "id": "3a3c26de87b9cea1ee2d728c259b38f0",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to ...",
+      "published": "2026-11-27T11:49:34+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png"
+    },
+    {
+      "id": "7b6567dbb7ac84f1eb8b40b4acfaca55",
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+      "published": "2026-11-27T11:18:36+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "9c0c1b12fdb994019f4c6bab87a07372",
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells ...",
+      "published": "2026-11-27T10:32:18+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg"
+    },
+    {
+      "id": "f8a65ddfbdb2bbe9da8697fa634858ff",
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+      "published": "2026-11-27T10:10:15+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "76c0996c0d17cfa47c18cc51aeadcdcd",
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+      "published": "2026-11-27T09:56:36+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "541efeedb8e15f9e05a283c161a8169c",
+      "title": "Le patch qui pourrait débrider les iMac Retina sous Linux",
+      "link": "https://korben.info/linux-imac-ecrans-tuiles.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Une série de patchs AMDGPU réveillerait la seconde tuile des iMac Retina 4K et 5K à processeur Intel, pour leur rendre leur définition native sous Linux. Deux patchs sur trois sont appliqués, celui qui fait le travail...",
+      "published": "2026-11-27T09:44:17+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/linux-imac-ecrans-tuiles/linux-imac-ecrans-tuiles-1.png"
+    },
+    {
+      "id": "8dfcf6f17564958d93df17bff4e8fce5",
+      "title": "Danfoss, Mitel MiCollab, Juniper, Xen Orchestra : la CISA alerte sur 10 failles exploitées",
+      "link": "https://www.it-connect.fr/danfoss-mitel-juniper-xen-orchestra-10-failles-exploitees-cisa/",
+      "summary": "La CISA a ajouté 10 failles exploitées à son catalogue KEV : contrôleurs Danfoss, Mitel MiCollab, Juniper et Xen Orchestra. Voici les failles en question. Le post Danfoss, Mitel MiCollab, Juniper, Xen Orchestra : la C...",
+      "published": "2026-11-27T09:36:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "e612ed6ea17872a76317c67d354d821d",
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates tha...",
+      "published": "2026-11-27T09:29:30+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
+    },
+    {
+      "id": "176758659041bd462f38ed48cb88bcc7",
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+      "published": "2026-11-27T09:08:16+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "56b0f4fd3906cbbab69a78384d1af943",
+      "title": "Le nouveau Clonezilla s’ouvre à ZFS et au clonage direct du RAID logiciel Linux",
+      "link": "https://www.it-connect.fr/clonezilla-live-3-3-5-3-zfs-mdraid/",
+      "summary": "Clonezilla Live 3.3.5-3 ajoute la prise en charge de ZFS, clone le RAID logiciel MDRAID de disque à disque et corrige des bugs risqués pour vos données. Le post Le nouveau Clonezilla s’ouvre à ZFS et au clonage direct...",
+      "published": "2026-11-27T08:55:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "84e25d0045755e3508a12f34ecff28fb",
+      "title": "GLPI AI : découvrez comment l’IA peut aider vos techniciens au quotidien",
+      "link": "https://www.it-connect.fr/tuto-glpi-ai/",
+      "summary": "Tutoriel GLPI AI : installez le plugin, choisissez votre fournisseur d'IA, résumez vos tickets et branchez un client IA sur GLPI via le protocole MCP. Le post GLPI AI : découvrez comment l’IA peut aider vos technicien...",
+      "published": "2026-11-27T08:31:20+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "dd7420a20c789b02c836416913256103",
+      "title": "Black Friday 2026 : Office 2024 Pro Plus à 21.27€ et Windows 11 Pro à 12.25€",
+      "link": "https://www.it-connect.fr/bon-plan-les-licences-office-2021-et-windows-11-en-promotion/",
+      "summary": "Pour le Black Friday 2026, notre partenaire GoDeal24 propose une nouvelle salve de promotions sur les licences de produits Microsoft (Windows, Office, etc.) et d'autres logiciels. Le post Black Friday 2026 : Office 20...",
+      "published": "2026-11-27T08:30:31+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "929f774364453700624bdf72d851ad07",
+      "title": "Windows 11 au régime - Merci le prix de la RAM",
+      "link": "https://korben.info/windows-11-moins-de-ram.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "À Ignite, Microsoft relie ouvertement les économies de mémoire de Windows 11 à l'envolée du prix de la RAM : 360 Mo de moins pour Office, plus d'un demi-gigaoctet pour Defender, Purview et OneDrive. Ce qu'un PC 8 Go y...",
+      "published": "2026-11-27T08:27:26+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/windows-11-moins-de-ram/windows-11-moins-de-ram-1.png"
+    },
+    {
+      "id": "d569e0cf758d0397ebf456ecd02e9aa8",
+      "title": "Volvo veut des humanoïdes sur ses chaînes de production dès mi-2027",
+      "link": "https://korben.info/volvo-robots-humanoides-aeon-gand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Volvo entraîne des robots AEON d'Hexagon dans son usine de Gand, par imitation, avant un pilote en 2027. Ce qu'ils savent faire, et pourquoi Leipzig dira vite ce que vaut le calendrier.",
+      "published": "2026-11-27T08:12:53+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/volvo-robots-humanoides-aeon-gand/volvo-robots-humanoides-aeon-gand-1.jpg"
+    },
+    {
+      "id": "39455e2307837d311d46c18745ef2fa1",
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+      "published": "2026-11-27T08:06:58+00:00",
+      "source": "Bleeping Computer",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "25f37741c456a7a8d8e42dadca16593d",
+      "title": "GLPI 12 : voici les nouveautés de cette nouvelle version majeure",
+      "link": "https://www.it-connect.fr/glpi-12-nouveautes/",
+      "summary": "GLPI 12 refond la base de connaissances, contrôle les sessions et crée des OLA par groupe. Voici nos tests et les points à vérifier avant de migrer. Le post GLPI 12 : voici les nouveautés de cette nouvelle version maj...",
+      "published": "2026-11-27T08:00:00+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "8a19815d2045b8e6c4133ca3697e7287",
+      "title": "Drupal : après Fail2Install, une nouvelle faille critique déjà exploitée (CVE-2026-136716)",
+      "link": "https://www.it-connect.fr/drupal-fail2install-cve-2026-136716-faille-exploitee/",
+      "summary": "Une semaine après Fail2Install, Drupal a corrigé la CVE-2026-136716, une faille critique de son installeur déjà exploitée. Voici ce qu'il faut savoir. Le post Drupal : après Fail2Install, une nouvelle faille critique ...",
+      "published": "2026-11-27T07:52:44+00:00",
+      "source": "IT-Connect",
+      "category": "reseau",
+      "image": ""
+    },
+    {
+      "id": "c3928eeb127aae90090e2387f4d77c02",
+      "title": "XL Office - Une suite Office pour Atari XL",
+      "link": "https://korben.info/xl-office-atari-xl-xe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "XL Office apporte un traitement de texte 80 colonnes, un tableur et un logiciel de présentation gratuits aux Atari XL et XE de 64 Ko. Essai dans l'émulateur atari800, export RTF vers le Mac, et la limite des accents p...",
+      "published": "2026-11-27T07:47:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/xl-office-atari-xl-xe/xl-office-atari-xl-xe-1.png"
+    },
+    {
+      "id": "f4bb2df7c56af769a29de027c0726b3f",
+      "title": "Musique IA - Tidal passe du tag à la poubelle",
+      "link": "https://korben.info/tidal-supprime-musique-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "À partir du 9 décembre, Tidal supprime les morceaux entièrement générés par IA, environ 27 millions de titres, et refuse les nouvelles livraisons. Ce qui part, ce qui reste autorisé, comment c'est détecté et où en son...",
+      "published": "2026-11-27T07:29:43+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tidal-supprime-musique-ia/tidal-supprime-musique-ia-1.jpg"
+    },
+    {
+      "id": "92bcd7983dd9691cded4149d1f70bdfa",
+      "title": "Il a greffé un cerveau de drone sur sa tondeuse RC",
+      "link": "https://korben.info/tondeuse-autonome-pixhawk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "summary": "Jakkuh a remplacé le récepteur d'une tondeuse radiocommandée par un contrôleur de vol de drone sous ArduPilot, avec un GPS RTK et une appli de tonte vibe-codée. Ce qu'il y a dedans, et ce qu'il faut pour s'en inspirer.",
+      "published": "2026-11-27T06:15:00+00:00",
+      "source": "Korben",
+      "category": "outils",
+      "image": "https://korben.info/tondeuse-autonome-pixhawk/tondeuse-autonome-pixhawk-1.jpg"
+    },
+    {
+      "id": "0a6f3c178aecdeee90d93c8b33052f47",
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of th...",
+      "published": "2026-11-27T06:04:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg"
+    },
+    {
+      "id": "2c58dff3b663255ae4653845dfe985c6",
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to ...",
+      "published": "2026-11-27T05:48:20+00:00",
+      "source": "The Hacker News",
+      "category": "cybersecurite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png"
+    },
     {
       "id": "0420f6f074343762a173b1a9151a32aa",
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -28,16 +318,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
       "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
       "published": "2026-11-26T17:58:42+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "286bf29719f439a77cacfdd7f6a7fe2f",
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interview...",
-      "published": "2026-11-26T17:15:27+00:00",
       "source": "Bleeping Computer",
       "category": "cybersecurite",
       "image": ""
@@ -73,16 +353,6 @@
       "image": ""
     },
     {
-      "id": "532849264f0fc15d1e9d65b8ad3588c8",
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
-      "published": "2026-11-26T15:23:28+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
       "id": "9bd9165b5c61c106d2c451ff11e7a7c7",
       "title": "La FIFA confirme une cyberattaque : le Handsome Boy Hacking Club revendique le vol de données",
       "link": "https://www.it-connect.fr/fifa-cyberattaque-handsome-boy-hacking-club-fuite-donnees/",
@@ -96,31 +366,11 @@
       "id": "30a2f68c277b7402c9d00ef5f3713a54",
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
       "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hid...",
+      "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity...",
       "published": "2026-11-26T15:13:41+00:00",
       "source": "The Hacker News",
       "category": "cybersecurite",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg"
-    },
-    {
-      "id": "3ee1f12f28706957c9fa50506b5baf42",
-      "title": "GB Museum - Une cartouche Game Boy qui n'est pas jouable",
-      "link": "https://korben.info/game-boy-musee-cartouche.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Un collectionneur zurichois a rangé plus de 350 objets de son musée du Game Boy et un petit wiki dans une ROM gratuite, à lancer dans le navigateur ou sur une vraie DMG-01, avec des QR codes qui renvoient vers les pho...",
-      "published": "2026-11-26T12:26:15+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/game-boy-musee-cartouche/game-boy-musee-cartouche-1.jpg"
-    },
-    {
-      "id": "fd6848aaba1efbc8d874647656020f34",
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail an...",
-      "published": "2026-11-26T11:50:17+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
     },
     {
       "id": "6318b6c7f692400fd324f17f1ef33c23",
@@ -143,16 +393,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg"
     },
     {
-      "id": "b9345f11cc4567a6876b9671054fc8a7",
-      "title": "Claude : les artefacts peuvent désormais être installés comme des applications sur Windows et Mac",
-      "link": "https://www.it-connect.fr/claude-artefacts-applications-mac-windows/",
-      "summary": "Anthropic lance Install as app : les artefacts de Claude s'installent comme des applications Mac et Windows, avec un accès complet possible à l'ordinateur. Le post Claude : les artefacts peuvent désormais être install...",
-      "published": "2026-11-26T08:29:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
       "id": "c6ac5ef89ac91a046740dfaffa4ae442",
       "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
       "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
@@ -163,261 +403,41 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2EcytpsKiKLhUfvQEADKBG6Ht2NprR2VIhIXPJcNQMIGqKT20l0afBPUVhehKFhRzpkHvl3Qu_qaPjFL3L4UsLYH3L4C1DM63zqskhJV1UAjaPqONaEbNkBFsxVDX2jpPZrMym52WvBx2pHktUiRfdXOcp_23xjTdUOxxjxJtI906XLMmw258Bjah1J2/s1600/drupal-rce.png"
     },
     {
-      "id": "4d0181698ad05173b7f8f3df4abf5950",
-      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that ...",
-      "published": "2026-11-26T06:44:46+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht82Zul6A6D_rTYZuOr0QQWkA4p8kQXRI-4qAYhdGBdTR0ZNzlHkHCiz3eSv5wm9Gq1rADX0CIEBUu08HBUbWd4fVKtL6f7UrWcaa_nVetYt0DyPj2-f_yM80HEIUbuy57mpftPYHHp1FKCNXvkDnFtsj-V5PWGUvWiNL38OKY3EIKUwKHuoKsIc4oSXeC/s1600/mitel.jpg"
-    },
-    {
-      "id": "618975b5b9395993e5f97df9f16c7071",
-      "title": "Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de passe ?",
-      "link": "https://www.it-connect.fr/cyberattaque-1password-novembre-2026/",
-      "summary": "1Password confirme une cyberattaque : des données clients volées sur des serveurs suite à la compromission du compte GitHub d'un salarié. Le post Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de pas...",
-      "published": "2026-11-26T05:51:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "a12b84ce815a902199be0a2bccce8f21",
-      "title": "Signature NTLM : les mises à jour de novembre 2026 perturbent l’authentification sur Windows",
-      "link": "https://www.it-connect.fr/windows-novembre-2026-echec-authentification-ntlm-proxy-sso/",
-      "summary": "Depuis les mises à jour Windows de novembre 2026, l'authentification NTLM peut échouer dans certains cas, notamment avec les proxys et certains SSO. Le post Signature NTLM : les mises à jour de novembre 2026 perturben...",
-      "published": "2026-11-26T05:17:49+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "661925b8f8d6c7d7d344f23f1fbb7278",
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and W...",
-      "published": "2026-11-26T03:48:52+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0w3YJQrn6VoUVUTTj46NLfeL_JJE-sDoxKsuBe-_OxBtQ3iX8AZTZ1CEn39-N5TGKYd-0ZKdOT43UwAWUbpIXlFdDwhyphenhyphenEKpkQVVJYJVodQRHyz0pJeKEvJIJgUpAEQqXizajmrriq9Mj1aqioeK1Zug__X26Ra4HwzFg8ImTajGc6b7Ck9LW2OCIpPoa/s1600/dotnet.jpg"
-    },
-    {
-      "id": "e0760c490f11ec94f6bbd9abeb87c169",
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-      "published": "2026-11-25T22:05:09+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "1a181b314ff3ace6ca6fdee671019bd0",
-      "title": "1Password customer data stolen after employee GitHub account breach",
-      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
-      "published": "2026-11-25T21:33:33+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "a305910d096800fb68167e7bbccd4822",
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-      "published": "2026-11-25T19:39:31+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "40d35aaa896c9facb5df68e0e4ca8a3e",
-      "title": "Proxmox VE 9.3 est disponible : le SAN se gère désormais depuis l’interface web",
-      "link": "https://www.it-connect.fr/proxmox-ve-9-3-nouveautes/",
-      "summary": "Proxmox VE 9.3 est disponible : multipath et LVM partagé sur SAN se configurent depuis l'interface web, et les snapshots LVM passent en production. Le post Proxmox VE 9.3 est disponible : le SAN se gère désormais depu...",
-      "published": "2026-11-25T19:24:23+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "2063573f90b5956517719dfa59166902",
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and ...",
-      "published": "2026-11-25T16:13:40+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "4547cfabfef65efe2309c708a1b5cacd",
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-      "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagem...",
-      "published": "2026-11-25T15:00:10+00:00",
-      "source": "Bleeping Computer",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "59809dab9661775cc92e20fd13ac7026",
-      "title": "Test du mini PC VZMORE iX9 Max sous Ubuntu Server",
-      "link": "https://korben.info/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Korben a migré son installation Plex du Mac mini M4 vers le mini PC VZMORE iX9 Max sous Ubuntu Server, avec un Core Ultra 9 185H, 24 Go de RAM soudée et un SSD de 1 To. Le ventilateur reste discret, même avec plusieur...",
-      "published": "2026-11-25T14:12:02+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server-1.jpg"
-    },
-    {
-      "id": "4024942716e9792186918630cd13e419",
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-20...",
-      "published": "2026-11-25T12:48:54+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png"
-    },
-    {
-      "id": "2f5767fb97e065bdc4a63ec06de60f47",
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesd...",
-      "published": "2026-11-25T12:30:08+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg"
-    },
-    {
-      "id": "3c0f3850990d6445be5b31cac20b7544",
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will bre...",
-      "published": "2026-11-25T11:51:48+00:00",
-      "source": "The Hacker News",
-      "category": "cybersecurite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil06YVYkZZwt0a8nA97RyMZvYZEQIoZ7r9_YHMtjx5eWc7RNAB4ol6OWb7NIsJOpC0v4w11xynwGgR1SsTnArvWAF7yJseVMbQfoawpTPEKYDdmH6O5UrbIZgJ2Fz9MGBFC6kF95oLeubdwlrdVKaVTPz4kjrOCH0X1neixvpNSYHhotL5WuzdYM12tUo/s1600/GitGuardian.gif"
-    },
-    {
-      "id": "5db4ce43952484080385f10e0312d71f",
-      "title": "Black Friday : le mini-PC VZMORE iX9 Max profite de 26 % de remise et atteint son prix le plus bas",
-      "link": "https://www.it-connect.fr/bon-plan-vzmore-ix9-max-black-friday-2026/",
-      "summary": "Black Friday : le mini PC VZMORE iX9 Max (Core Ultra 9 185H, 24 Go, 1 To) passe à 839,16 € avec un code promo, soit jusqu'à 26 % de réduction sur Amazon. Le post Black Friday : le mini-PC VZMORE iX9 Max profite de 26 ...",
-      "published": "2026-11-25T11:00:00+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "8fb2d2f958e2b8d1c656b7a7c3a07bef",
-      "title": "Panne Microsoft 365 : des e-mails jamais remis, Microsoft promet des changements",
-      "link": "https://www.it-connect.fr/panne-microsoft-365-rapport-final/",
-      "summary": "Panne Microsoft 365 : le rapport reconnaît que certains e-mails n'ont jamais été remis et Microsoft dévoile sa feuille de route pour éviter de futurs incidents. Le post Panne Microsoft 365 : des e-mails jamais remis, ...",
-      "published": "2026-11-25T10:38:32+00:00",
-      "source": "IT-Connect",
-      "category": "reseau",
-      "image": ""
-    },
-    {
-      "id": "1bd2fa1ad356069b7bf97951ad852763",
-      "title": "LinuxPDF - Quand Linux se lance dans un PDF",
-      "link": "https://korben.info/linuxpdf-linux-dans-un-pdf.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "LinuxPDF fait démarrer un vrai Linux RISC-V dans un fichier PDF ouvert dans Chrome, avec le JavaScript prévu par la norme PDF. Ça marche encore, mais comptez une bonne quarantaine de secondes de boot, et voici pourquoi.",
-      "published": "2026-11-25T09:25:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/linuxpdf-linux-dans-un-pdf/linuxpdf-linux-dans-un-pdf-1.png"
-    },
-    {
-      "id": "671bfce2e3dda6bbec0ff1f90c737352",
-      "title": "Votre vieux clavier Logitech G15 a encore des choses à afficher",
-      "link": "https://korben.info/g15-retro-hud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "G15-Retro-HUD rallume l'écran LCD du Logitech G15 sous Windows 10 et 11 en lui parlant directement en USB, sans les vieux pilotes Logitech qui bloquent l'intégrité de la mémoire. Monitoring, Spotify, météo, visualiseu...",
-      "published": "2026-11-25T08:42:17+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/g15-retro-hud/g15-retro-hud-1.jpg"
-    },
-    {
-      "id": "bba6103b99673515a24eb38f6b28f9e0",
-      "title": "Ubuntu - Le nouveau lanceur sera boosté à l'IA",
-      "link": "https://korben.info/ubuntu-lanceur-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Canonical montre son futur lanceur Ubuntu en train de tourner : un point d'entrée pour les applis et les fichiers, avec une IA en opt-in et locale d'abord. Ce qui est promis, ce qui ne l'est pas, et pourquoi il faudra...",
-      "published": "2026-11-25T06:42:17+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ubuntu-lanceur-ia-local/ubuntu-lanceur-ia-local-1.webp"
-    },
-    {
-      "id": "2e7e61eedeb025e799c5f22f8e7770ef",
-      "title": "FF8 Reborn - Le mod qui passe Final Fantasy VIII en 16:9",
-      "link": "https://korben.info/ff8-reborn-final-fantasy-viii-remastered.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "FF8 Reborn, un mod gratuit de fan, fait viser 60 ou 120 FPS à Final Fantasy VIII Remastered sur PC et élargit combats et carte du monde. Ce que valent ces images calculées, ce qui reste en 4:3, et pour quelles copies ...",
-      "published": "2026-11-25T06:19:03+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ff8-reborn-final-fantasy-viii-remastered/ff8-reborn-final-fantasy-viii-remastered-1.avif"
-    },
-    {
-      "id": "6a425ecaa38e373a2a15d2f9becc760e",
-      "title": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
-      "link": "https://korben.info/dumbtv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "dumbtv désactive par ADB les pubs, la télémétrie et l'empreinte d'écran d'un Fire TV sous Fire OS, pose un filtre DNS local et un accueil sans pub, et tout s'annule d'une commande. Les nouveaux sticks sous Vega OS res...",
-      "published": "2026-11-24T09:21:56+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/dumbtv/dumbtv-1.png"
-    },
-    {
-      "id": "86f8c386e8019e1ddcbecbd78e0822b4",
-      "title": "Ladybird - Vous pouvez enfin installer ce navigateur indépendant",
-      "link": "https://korben.info/ladybird-premiere-alpha.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "La première alpha de Ladybird s'installe sans compiler sur Mac Apple Silicon et Linux. Essai sur Mac mini, ce qui marche, ce qui casse, le bond d'octobre, et pourquoi le garder à l'écart de vos comptes.",
-      "published": "2026-11-24T09:04:43+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/ladybird-premiere-alpha/ladybird-premiere-alpha-1.png"
-    },
-    {
-      "id": "4bd8caaaa4ac4c4842ba0b28b4760ba9",
-      "title": "Stalwart - Lâcher Exchange sans toucher à Outlook",
-      "link": "https://korben.info/stalwart-remplace-exchange.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "Stalwart 1.2.0, serveur mail libre, parle désormais MAPI over HTTP, EWS et ActiveSync : Outlook classique, Apple Mail et les apps mail des smartphones s'y branchent comme sur un Exchange. Voici ce qui marche, ce qui m...",
-      "published": "2026-11-24T08:12:14+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/stalwart-remplace-exchange/stalwart-remplace-exchange-1.png"
-    },
-    {
-      "id": "bae4a4be9d849654508f3318e9f320e0",
-      "title": "Shirudo - Quand l'IA fabrique des boucliers pour Linux",
-      "link": "https://korben.info/shirudo-openai-cisco-ebpf.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-      "summary": "OpenAI et Cisco publient Shirudo, qui pose des boucliers signés sur un Linux en marche le temps du vrai correctif. La démo Java4Shell sur Elasticsearch passe pourtant par un agent Java injecté à chaud, et le reste exi...",
-      "published": "2026-11-24T07:38:51+00:00",
-      "source": "Korben",
-      "category": "outils",
-      "image": "https://korben.info/shirudo-openai-cisco-ebpf/shirudo-openai-cisco-ebpf-1.png"
-    },
-    {
-      "id": "f41718363bd8fa58b1a768a528534afe",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-049 (23 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-049/",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT...",
-      "published": "2026-11-23T00:00:00+00:00",
+      "id": "6266b2d3267799146507c4fd1d007b20",
+      "title": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "published": "2026-11-24T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "2b7d9530b418d70a7671819ad0a593a4",
-      "title": "Multiples vulnérabilités dans SPIP (23 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1599/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
-      "published": "2026-11-23T00:00:00+00:00",
+      "id": "27ac76913545abb92ad79dc6416b8efe",
+      "title": "Vulnérabilité dans Laravel (24 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "published": "2026-11-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "81e6b9d27d217b6fbd95e6d67ee7c588",
+      "title": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un ...",
+      "published": "2026-11-24T00:00:00+00:00",
+      "source": "CERT-FR",
+      "category": "cybersecurite",
+      "image": ""
+    },
+    {
+      "id": "3a07185776d11bcc577f0045a6dae26d",
+      "title": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+      "summary": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "published": "2026-11-24T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
@@ -433,61 +453,41 @@
       "image": ""
     },
     {
-      "id": "7d468982e283182f7fe66b7f751e1a79",
-      "title": "Multiples vulnérabilités dans les produits VMware (20 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une ...",
-      "published": "2026-11-20T00:00:00+00:00",
+      "id": "29ed34cf483d1d56121831cf19dc03dc",
+      "title": "Vulnérabilité dans Microsoft Office (23 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1604/",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "published": "2026-11-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "a88afeb9516089c7e76da4ebf143ddb2",
-      "title": "Multiples vulnérabilités dans les produits IBM (20 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1597/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni...",
-      "published": "2026-11-20T00:00:00+00:00",
+      "id": "57df27fbd3f21425c2e5d4dd43766126",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (23 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1603/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "published": "2026-11-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "8547cf1e5c08ce0cef9eb57b78e580c6",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (20 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1594/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de serv...",
-      "published": "2026-11-20T00:00:00+00:00",
+      "id": "7df78a5f591b721ef0249ff1b95662bc",
+      "title": "Multiples vulnérabilités dans les produits Synology (23 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1607/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et ...",
+      "published": "2026-11-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
     },
     {
-      "id": "90b59c91ac7cd977d0af4d4ab7e22db2",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1596/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et ...",
-      "published": "2026-11-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "d3edf483de9b9efe641c10ba74de4ed8",
-      "title": "Vulnérabilité dans KeyCloak (20 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1586/",
-      "summary": "Une vulnérabilité a été découverte dans KeyCloak. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "published": "2026-11-20T00:00:00+00:00",
-      "source": "CERT-FR",
-      "category": "cybersecurite",
-      "image": ""
-    },
-    {
-      "id": "460a2e2a22766e199d71bb77c087f3d6",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 novembre 2026)",
-      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de ...",
-      "published": "2026-11-20T00:00:00+00:00",
+      "id": "e0fbbddf7f683349e78abd1e571ab2ff",
+      "title": "Vulnérabilité dans Mattermost Server (23 novembre 2026)",
+      "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1605/",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "published": "2026-11-23T00:00:00+00:00",
       "source": "CERT-FR",
       "category": "cybersecurite",
       "image": ""
